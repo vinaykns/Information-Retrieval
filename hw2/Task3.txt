@@ -1,0 +1,18 @@
+For Graph:1
+The page rank for the top 5 pages are:
+International_Standard_Book_Number 0.0339453978318
+Digital_object_identifier 0.0233791026922
+European_Union 0.0185212695293
+DMOZ 0.0161030421476
+Open_source 0.0139941163023
+
+The pages with top inlinks are:
+International_Standard_Book_Number	250
+Renewable_energy	162
+Carbon_dioxide	161
+Sustainability	155
+Digital_object_identifier	141
+
+The speculation for the above results is the page rank for a page plays a significant role in considering 
+the no of inlinks it has and It doesn't appear that the inlink count is the only factor for the page rank,
+beacuse if that is the case then order of inlinks should also be followed in the page rank.

@@ -1,0 +1,112 @@
+#!/usr/bin/python2
+import pdb
+import math
+import sys
+import operator
+
+print "Enter the input file"
+input_file = raw_input()
+in_links = open(input_file,'r')
+
+read_in_links = in_links.readlines()
+
+print "Enter the option"
+user = raw_input()
+
+#Collect total pages
+total_pages = []
+total_pages_set = set()
+inlinks_pages = {}
+total_inlinks = set()
+outlinks_pages = {}
+results = {}
+top_results = []
+
+for index in range(len(read_in_links)):
+  each = read_in_links[index].strip("\n")
+  multiple_pages = each.split()
+  total_pages.append(multiple_pages[0])
+  total_pages_set.add(multiple_pages[0])
+  inlinks_pages[multiple_pages[0]] = set()
+  outlinks_pages[multiple_pages[0]] = set()
+
+  # Add the inlinks of the destination link to a set
+  for index in range(1,len(multiple_pages)):
+  #Break the loop if the page doesn't have any inlinks
+    try:
+      inlinks_pages[multiple_pages[0]].add(multiple_pages[index])
+      total_inlinks.add(multiple_pages[index])
+    except:
+      break
+  
+# Add the outlinks of each webpage 
+for key in inlinks_pages.viewkeys():
+    for element in inlinks_pages[key]:
+      outlinks_pages[element].add(key)
+
+#Collect the sink nodes i.e The pages that have no out links
+sink_pages = total_pages_set.difference(total_inlinks)
+
+
+#Page rank implementation for above graph
+size=len(total_pages)
+page_rank={}
+perplexity=[]
+perplexity_diff=[]
+d = 0.85
+entropy = 0
+
+#Initital value
+for page in total_pages:
+  page_rank[page]= 1/float(size)
+  perplexity=[]
+  perplexity_diff=[]
+ 
+
+#Calculate the page rank for each page in the considered graph.
+#for page in total_pages:
+
+while (len(perplexity_diff) <= 4):
+  entropy = 0
+  for webpage in total_pages:
+    entropy += page_rank[webpage]*(math.log(page_rank[webpage],2))
+  entropy = -1*entropy
+  perp=math.pow(2,entropy)
+  perplexity.append(perp)
+  if len(perplexity) == 1:
+      difference = abs(perp - perplexity[len(perplexity)-1])
+  else:
+      difference = abs(perp - perplexity[len(perplexity)-2])
+  if difference < 1:
+      perplexity_diff.append(1)
+  else:
+      perplexity_diff=[]    
+  sinkPR = 0
+  for sinkpage in sink_pages:
+      sinkPR += page_rank[sinkpage]
+  newpage_rank={}
+
+  for onpage in total_pages:
+      newpage_rank[onpage] = (1-d)/size
+      newpage_rank[onpage] += d*(sinkPR/size)
+      for inlink in inlinks_pages[onpage]:
+        newpage_rank[onpage] += d*(page_rank[inlink]/len(outlinks_pages[inlink]))
+
+  for eachpage in total_pages:
+      page_rank[eachpage] = newpage_rank[eachpage]
+
+
+if (user=="top50"):
+  temporary_results = sorted(page_rank.items(), key=operator.itemgetter(1), reverse=True)
+  sys.stdout = open('output.txt','w')
+  for x in range(0,5):
+    top_results.append(temporary_results[x])  	
+  for element in top_results:
+    print element[0],element[1]
+
+else:
+  sys.stdout = open('output.txt','w')
+  for value in perplexity:
+    print value
+
+sys.stdout.close()
