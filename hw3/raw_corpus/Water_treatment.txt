@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Water treatment - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Water_treatment","wgTitle":"Water treatment","wgCurRevisionId":764956441,"wgRevisionId":764956441,"wgArticleId":239926,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from April 2016","All articles lacking in-text citations","Wikipedia articles with GND identifiers","Waste treatment technology","Water pollution","Water treatment"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Water_treatment","wgRelevantArticleId":239926,"wgRequestId":"WMgQcApAADsAAXzh@l8AAAAY","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1058719","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Water_plant.jpg/1200px-Water_plant.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Water_treatment"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Water_treatment&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Water_treatment&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Water_treatment"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Water_treatment rootpage-Water_treatment skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Water treatment</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For medical water treatment, see <a href="/wiki/Water_cure_(therapy)" class="mw-redirect" title="Water cure (therapy)">Water cure (therapy)</a>.</div>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(April 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Water_plant.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4f/Water_plant.jpg/220px-Water_plant.jpg" width="220" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4f/Water_plant.jpg/330px-Water_plant.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4f/Water_plant.jpg/440px-Water_plant.jpg 2x" data-file-width="1560" data-file-height="1060" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Water_plant.jpg" class="internal" title="Enlarge"></a></div>
+Abandoned Water Purification Plant <a href="/wiki/Springfield,_Tennessee" title="Springfield, Tennessee">Springfield, Tennessee</a>, <a href="/wiki/United_States" title="United States">United States</a></div>
+</div>
+</div>
+<p><b>Water treatment</b> is any process that makes <a href="/wiki/Water" title="Water">water</a> more acceptable for a specific end-use. The end use may be <a href="/wiki/Drinking_water" title="Drinking water">drinking</a>, industrial water supply, irrigation, river flow maintenance, water recreation or many other uses, including being safely returned to the environment. Water treatment removes <a href="/wiki/Contaminant" class="mw-redirect" title="Contaminant">contaminants</a> and undesirable components, or reduces their concentration so that the water becomes fit for its desired end-use.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Treatment_for_drinking_water_production"><span class="tocnumber">1</span> <span class="toctext">Treatment for drinking water production</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Processes"><span class="tocnumber">1.1</span> <span class="toctext">Processes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Polluted_water_treatment"><span class="tocnumber">2</span> <span class="toctext">Polluted water treatment</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Industrial_water_and_wastewater_treatment"><span class="tocnumber">2.1</span> <span class="toctext">Industrial water and wastewater treatment</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Domestic_water_treatment"><span class="tocnumber">3</span> <span class="toctext">Domestic water treatment</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Desalination"><span class="tocnumber">4</span> <span class="toctext">Desalination</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Field_processes"><span class="tocnumber">5</span> <span class="toctext">Field processes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Ultra_pure_water_production"><span class="tocnumber">6</span> <span class="toctext">Ultra pure water production</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#History"><span class="tocnumber">7</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Society_and_culture"><span class="tocnumber">8</span> <span class="toctext">Society and culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Developing_countries"><span class="tocnumber">8.1</span> <span class="toctext">Developing countries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Further_reading"><span class="tocnumber">11</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Treatment_for_drinking_water_production">Treatment for drinking water production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=1" title="Edit section: Treatment for drinking water production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Water_purification" title="Water purification">Water purification</a></div>
+<p>Treatment for <a href="/wiki/Drinking_water" title="Drinking water">drinking water</a> production involves the removal of contaminants from raw water to produce water that is <a href="https://en.wiktionary.org/wiki/Purity" class="extiw" title="wiktionary:Purity">pure</a> enough for human consumption without any short term or long term risk of any adverse health effect. Substances that are removed during the process of drinking water treatment include <a href="/wiki/Suspended_solids" title="Suspended solids">suspended solids</a>, <a href="/wiki/Bacteria" title="Bacteria">bacteria</a>, <a href="/wiki/Algae" title="Algae">algae</a>, <a href="/wiki/Virus" title="Virus">viruses</a>, <a href="/wiki/Fungi" class="mw-redirect" title="Fungi">fungi</a>, and <a href="/wiki/Mineral" title="Mineral">minerals</a> such as <a href="/wiki/Iron" title="Iron">iron</a> and <a href="/wiki/Manganese" title="Manganese">manganese</a>.</p>
+<p>The processes involved in removing the contaminants include physical processes such as <a href="/wiki/Settling" title="Settling">settling</a> and <a href="/wiki/Filtration" title="Filtration">filtration</a>, <a href="/wiki/Chemical_process" title="Chemical process">chemical processes</a> such as <a href="/wiki/Disinfection" class="mw-redirect" title="Disinfection">disinfection</a> and <a href="/wiki/Flocculation" title="Flocculation">coagulation</a> and biological processes such as <a href="/wiki/Slow_sand_filter" title="Slow sand filter">slow sand filtration</a>.</p>
+<p>Measures taken to ensure water quality not only relate to the treatment of the water, but to its conveyance and distribution after treatment. It is therefore common practice to keep residual disinfectants in the treated water to kill bacteriological contamination during distribution.</p>
+<p><a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a> (WHO) guidelines are a general set of standards intended to apply where better local standards are not implemeted. More rigorous standards apply across Europe, the USA and in most other developed countries. followed throughout the world for drinking water quality requirements.</p>
+<h3><span class="mw-headline" id="Processes">Processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=2" title="Edit section: Processes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pr%C3%A1zdn%C3%A1_aera%C4%8Dn%C3%AD_m%C3%ADstnost,_%C3%9AV_K%C3%A1ran%C3%BD.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pr%C3%A1zdn%C3%A1_aera%C4%8Dn%C3%AD_m%C3%ADstnost%2C_%C3%9AV_K%C3%A1ran%C3%BD.jpg/220px-Pr%C3%A1zdn%C3%A1_aera%C4%8Dn%C3%AD_m%C3%ADstnost%2C_%C3%9AV_K%C3%A1ran%C3%BD.jpg" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pr%C3%A1zdn%C3%A1_aera%C4%8Dn%C3%AD_m%C3%ADstnost%2C_%C3%9AV_K%C3%A1ran%C3%BD.jpg/330px-Pr%C3%A1zdn%C3%A1_aera%C4%8Dn%C3%AD_m%C3%ADstnost%2C_%C3%9AV_K%C3%A1ran%C3%BD.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pr%C3%A1zdn%C3%A1_aera%C4%8Dn%C3%AD_m%C3%ADstnost%2C_%C3%9AV_K%C3%A1ran%C3%BD.jpg/440px-Pr%C3%A1zdn%C3%A1_aera%C4%8Dn%C3%AD_m%C3%ADstnost%2C_%C3%9AV_K%C3%A1ran%C3%BD.jpg 2x" data-file-width="3744" data-file-height="5616" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pr%C3%A1zdn%C3%A1_aera%C4%8Dn%C3%AD_m%C3%ADstnost,_%C3%9AV_K%C3%A1ran%C3%BD.jpg" class="internal" title="Enlarge"></a></div>
+Empty aeration tank for iron precipitation</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:P%C3%ADskov%C3%A9_rychlofiltry_od%C5%BEelezovny_v_K%C3%A1ran%C3%A9m_v_klidu.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/P%C3%ADskov%C3%A9_rychlofiltry_od%C5%BEelezovny_v_K%C3%A1ran%C3%A9m_v_klidu.jpg/220px-P%C3%ADskov%C3%A9_rychlofiltry_od%C5%BEelezovny_v_K%C3%A1ran%C3%A9m_v_klidu.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/P%C3%ADskov%C3%A9_rychlofiltry_od%C5%BEelezovny_v_K%C3%A1ran%C3%A9m_v_klidu.jpg/330px-P%C3%ADskov%C3%A9_rychlofiltry_od%C5%BEelezovny_v_K%C3%A1ran%C3%A9m_v_klidu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/P%C3%ADskov%C3%A9_rychlofiltry_od%C5%BEelezovny_v_K%C3%A1ran%C3%A9m_v_klidu.jpg/440px-P%C3%ADskov%C3%A9_rychlofiltry_od%C5%BEelezovny_v_K%C3%A1ran%C3%A9m_v_klidu.jpg 2x" data-file-width="5616" data-file-height="3744" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:P%C3%ADskov%C3%A9_rychlofiltry_od%C5%BEelezovny_v_K%C3%A1ran%C3%A9m_v_klidu.jpg" class="internal" title="Enlarge"></a></div>
+Tanks with sand filters to remove precipitated iron (not working at the time)</div>
+</div>
+</div>
+<p>A combination selected from the following processes is used for municipal drinking water treatment worldwide:</p>
+<ul>
+<li>Pre-<a href="/wiki/Water_chlorination" title="Water chlorination">chlorination</a> for algae control and arresting biological growth</li>
+<li><a href="/wiki/Aeration" title="Aeration">Aeration</a> along with pre-chlorination for removal of dissolved iron when present with small amounts relatively of manganese</li>
+<li>Coagulation for <a href="/wiki/Flocculation" title="Flocculation">flocculation</a> or slow-sand filtration</li>
+<li>Coagulant aids, also known as <a href="/wiki/Polyelectrolyte" title="Polyelectrolyte">polyelectrolytes</a> – to improve coagulation and for more robust floc formation</li>
+<li><a href="/wiki/Sedimentation" title="Sedimentation">Sedimentation</a> for solids separation that is removal of suspended solids trapped in the floc</li>
+<li><a href="/wiki/Filtration" title="Filtration">Filtration</a> to remove particles from water either by passage through a sand bed that can be washed and reused or by passage through a purpose designed filter that may be washable.</li>
+<li>Disinfection for killing bacteria viruses and other pathogens.</li>
+</ul>
+<p>Technologies for potable water and other uses are well developed, and generalized designs are available from which treatment processes can be selected for pilot testing on the specific source water. In addition, a number of private companies provide patented technological solutions for treatment of specific contaminants. Automation of water and waste-water treatment is common in the developed world. Source water quality through the seasons, scale and environmental impact can dictate capital costs and operating costs. End use of the treated water dictates the necessary quality monitoring technologies, and locally available skills typically dictate the level of automation adopted.</p>
+<h2><span class="mw-headline" id="Polluted_water_treatment">Polluted water treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=3" title="Edit section: Polluted water treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Wastewater_treatment" title="Wastewater treatment">Wastewater treatment</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Bragan%C3%A7a43.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bragan%C3%A7a43.jpg/300px-Bragan%C3%A7a43.jpg" width="300" height="199" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bragan%C3%A7a43.jpg/450px-Bragan%C3%A7a43.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bragan%C3%A7a43.jpg/600px-Bragan%C3%A7a43.jpg 2x" data-file-width="3008" data-file-height="2000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bragan%C3%A7a43.jpg" class="internal" title="Enlarge"></a></div>
+A sewage treatment plant in northern <a href="/wiki/Portugal" title="Portugal">Portugal</a>.</div>
+</div>
+</div>
+<p>Wastewater treatment is the process that removes the majority of the <a href="/wiki/Contaminant" class="mw-redirect" title="Contaminant">contaminants</a> from wastewater or <a href="/wiki/Sewage" title="Sewage">sewage</a> and produces both a liquid effluent suitable for disposal to the <a href="/wiki/Natural_environment" title="Natural environment">natural environment</a> and a <a href="/wiki/Sludge" title="Sludge">sludge</a>. Biological processes can be employed in the treatment of wastewater and these processes may include, for example, <a href="/wiki/Aerated_lagoon" title="Aerated lagoon">aerated lagoons</a>, <a href="/wiki/Activated_sludge" title="Activated sludge">activated sludge</a> or <a href="/wiki/Slow_sand_filter" title="Slow sand filter">slow sand filters</a>. To be effective, sewage must be conveyed to a treatment plant by appropriate <a href="/wiki/Sewage_collection_and_disposal" class="mw-redirect" title="Sewage collection and disposal">pipes and infrastructure</a> and the process itself must be subject to regulation and controls. Some wastewaters require different and sometimes specialized treatment methods. At the simplest level, treatment of sewage and most wastewaters is carried out through separation of <a href="/wiki/Solid" title="Solid">solids</a> from <a href="/wiki/Liquid" title="Liquid">liquids</a>, usually by <a href="/wiki/Sedimentation_(water_treatment)" title="Sedimentation (water treatment)">sedimentation</a>. By progressively converting dissolved material into solids, usually a biological floc, which is then settled out, an effluent stream of increasing purity is produced.<sup id="cite_ref-EPA_Primer_1-0" class="reference"><a href="#cite_note-EPA_Primer-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Industrial_water_and_wastewater_treatment">Industrial water and wastewater treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=4" title="Edit section: Industrial water and wastewater treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main articles: <a href="/wiki/Industrial_water_treatment" title="Industrial water treatment">Industrial water treatment</a> and <a href="/wiki/Industrial_wastewater_treatment" title="Industrial wastewater treatment">Industrial wastewater treatment</a></div>
+<p>Two of the main processes of industrial water treatment are <i>boiler water treatment</i> and <i>cooling water treatment</i>. A lack of proper water treatment can lead to the reaction of solids and bacteria within pipe work and boiler housing. Steam boilers can suffer from scale or <a href="/wiki/Corrosion" title="Corrosion">corrosion</a> when left untreated. Scale deposits can lead to weak and dangerous machinery, while additional fuel is required to heat the same level of water because of the rise in thermal resistance. Poor quality dirty water can become a breeding ground for bacteria such as <i><a href="/wiki/Legionella" title="Legionella">Legionella</a></i> causing a risk to public health.</p>
+<p>With the proper treatment, a significant proportion of industrial on-site wastewater might be reusable. This can save money in three ways: lower charges for lower water consumption, lower charges for the smaller volume of effluent water discharged and lower energy costs due to the recovery of heat in recycled wastewater.</p>
+<p>Corrosion in low pressure boilers can be caused by dissolved oxygen, acidity and excessive alkalinity. Water treatment therefore should remove the dissolved oxygen and maintain the boiler water with the appropriate pH and alkalinity levels. Without effective water treatment, a cooling water system can suffer from scale formation, corrosion and fouling and may become a breeding ground for harmful bacteria. This reduces efficiency, shortens plant life and makes operations unreliable and unsafe.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Domestic_water_treatment">Domestic water treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=5" title="Edit section: Domestic water treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Water supplied to domestic properties may be further treated before use, often using an in-line treatment process. Such treatments can include <a href="/wiki/Water_softening" title="Water softening">water softening</a> or ion exchange. Many propriety systems also claim to remove residual disinfectants and <a href="/wiki/Toxic_heavy_metal" title="Toxic heavy metal">heavy metal</a> ions.</p>
+<h2><span class="mw-headline" id="Desalination">Desalination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=6" title="Edit section: Desalination">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Desalination" title="Desalination">Desalination</a></div>
+<p>Saline water can be treated to yield fresh water. Two main processes are used, <a href="/wiki/Reverse_osmosis" title="Reverse osmosis">reverse osmosis</a> or <a href="/wiki/Distillation" title="Distillation">distillation</a>. Both methods require high energy inputs and are usually only used where fresh water is difficult to source.</p>
+<h2><span class="mw-headline" id="Field_processes">Field processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=7" title="Edit section: Field processes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Portable_water_purification" title="Portable water purification">Portable water purification</a></div>
+<p>Living away from drinking water supplies often requires some form of portable water treatment process. These can vary in complexity from the simple addition of a disinfectant tablet in a hiker's water bottle through to complex multi-stage processes carried by boat or plane to disaster areas.</p>
+<h2><span class="mw-headline" id="Ultra_pure_water_production">Ultra pure water production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=8" title="Edit section: Ultra pure water production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some industries such as the production of <a href="/wiki/Silicon_wafer" class="mw-redirect" title="Silicon wafer">silicon wafers</a>, space technology and many high quality <a href="/wiki/Metallurgy" title="Metallurgy">metallurgical</a> process require <a href="/wiki/Ultrapure_water" title="Ultrapure water">ultrapure water</a>. The production of such water typically involves many stages, and can include reverse osmosis, <a href="/wiki/Ion_exchange" title="Ion exchange">ion exchange</a> and several distillation stages using solid <a href="/wiki/Tin" title="Tin">tin</a> apparatus.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=9" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Further information: <a href="/wiki/History_of_water_supply_and_sanitation" title="History of water supply and sanitation">History of water supply and sanitation</a></div>
+<p>Early water treatment methods still used included sand filtration and chlorination. The first documented use of <a href="/wiki/Sand_filter" title="Sand filter">sand filters</a> to purify the water supply dates to 1804, when the owner of a bleachery in <a href="/wiki/Paisley,_Scotland" class="mw-redirect" title="Paisley, Scotland">Paisley, Scotland</a>, John Gibb, installed an experimental filter, selling his unwanted surplus to the public.<sup id="cite_ref-WHO_4-0" class="reference"><a href="#cite_note-WHO-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> This method was refined in the following two decades, and it culminated in the first treated public water supply in the world, installed by the <a href="/wiki/Chelsea_Waterworks_Company" title="Chelsea Waterworks Company">Chelsea Waterworks Company</a> in London in 1829.<sup id="cite_ref-Chelsea_6-0" class="reference"><a href="#cite_note-Chelsea-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Society_and_culture">Society and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=10" title="Edit section: Society and culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Developing_countries">Developing countries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=11" title="Edit section: Developing countries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As of 2006, <a href="/wiki/Waterborne_diseases" title="Waterborne diseases">waterborne diseases</a> are estimated to have caused 1.8 million deaths each year. These deaths are attributable to inadequate public <a href="/wiki/Sanitation" title="Sanitation">sanitation</a> systems and in these cases, proper <a href="/wiki/Sanitary_sewer" title="Sanitary sewer">sewerage</a> (or other options such as <a href="/wiki/Greywater_treatment" class="mw-redirect" title="Greywater treatment">small-scale wastewater treatment</a>) that must be installed.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a> options in water treatment include both community-scale and household-scale <a href="/wiki/Point-of-use" class="mw-redirect" title="Point-of-use">point-of-use</a> (POU) designs.<sup id="cite_ref-cawstHWT_9-0" class="reference"><a href="#cite_note-cawstHWT-9">[9]</a></sup> Such designs may employ <a href="/wiki/SODIS" class="mw-redirect" title="SODIS">solar water disinfection</a> methods, using solar irradiation to inactivate harmful waterborne microorganisms directly, mainly by the UV-A component of the solar spectrum, or indirectly through the presence of an oxide <a href="/wiki/Photocatalysis" title="Photocatalysis">photocatalyst</a>, typically supported <a href="/wiki/Titanium_dioxide" title="Titanium dioxide">TiO<sub>2</sub></a> in its <a href="/wiki/Anatase" title="Anatase">anatase</a> or <a href="/wiki/Rutile" title="Rutile">rutile</a> phases.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Despite progress in <a href="/wiki/SODIS" class="mw-redirect" title="SODIS">SODIS</a> technology, military surplus water treatment units like the <a href="/wiki/ERDLator" title="ERDLator">ERDLator</a> are still frequently used in developing countries. Newer military style <a href="/wiki/Reverse_Osmosis_Water_Purification_Unit" class="mw-redirect" title="Reverse Osmosis Water Purification Unit">Reverse Osmosis Water Purification Units</a> (ROWPU) are portable, self-contained water treatment plants are becoming more available for public use.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>For waterborne disease reduction to last, water treatment programs that research and development groups start in <a href="/wiki/Developing_countries" class="mw-redirect" title="Developing countries">developing countries</a> must be sustainable by the citizens of those countries. This can ensure the efficiency of such programs after the departure of the research team, as monitoring is difficult because of the remoteness of many locations.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Agricultural_wastewater_treatment" title="Agricultural wastewater treatment">Agricultural wastewater treatment</a></li>
+<li><a href="/wiki/Peak_water" title="Peak water">Peak water</a> (water supply &amp; demand)</li>
+<li><a href="/wiki/Pulsed-power_water_treatment" title="Pulsed-power water treatment">Pulsed-power water treatment</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed water</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">Water purification</a></li>
+<li><a href="/wiki/Water_quality" title="Water quality">Water quality</a></li>
+<li><a href="/wiki/Water_softening" title="Water softening">Water softening</a></li>
+<li><a href="/wiki/Water_supply" title="Water supply">Water supply</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-EPA_Primer-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-EPA_Primer_1-0">^</a></b></span> <span class="reference-text"><cite class="citation report"><a rel="nofollow" class="external text" href="https://www.epa.gov/npdes/npdes-resources">Primer for Municipal Waste water Treatment Systems</a> (Report). Washington, DC: US Environmental Protection Agency. 2004. EPA 832-R-04-001.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.btitle=Primer+for+Municipal+Waste+water+Treatment+Systems&amp;rft.date=2004&amp;rft.genre=report&amp;rft_id=https%3A%2F%2Fwww.epa.gov%2Fnpdes%2Fnpdes-resources&amp;rft.place=Washington%2C+DC&amp;rft.pub=US+Environmental+Protection+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Metcalf &amp; Eddy, Inc. (1972). <i>Wastewater Engineering</i>. McGraw-Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-041675-3" title="Special:BookSources/0-07-041675-3">0-07-041675-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.au=Metcalf+%26+Eddy%2C+Inc.&amp;rft.btitle=Wastewater+Engineering&amp;rft.date=1972&amp;rft.genre=book&amp;rft.isbn=0-07-041675-3&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Cicek, V. (2013). "Corrosion and corrosion prevention in boilers". <i>Cathodic protection: industrial solutions for protecting against corrosion</i>. Hoboken, New Jersey: John Wiley &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781118737880" title="Special:BookSources/9781118737880">9781118737880</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.atitle=Corrosion+and+corrosion+prevention+in+boilers&amp;rft.au=Cicek%2C+V.&amp;rft.btitle=Cathodic+protection%3A+industrial+solutions+for+protecting+against+corrosion&amp;rft.date=2013&amp;rft.genre=bookitem&amp;rft.isbn=9781118737880&amp;rft.place=Hoboken%2C+New+Jersey&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WHO-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-WHO_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Huisman, L.; Wood, W.E. (1974). "Chapter 2. Filtration of Water Supplies". <a rel="nofollow" class="external text" href="http://www.who.int/water_sanitation_health/publications/ssf2.pdf"><i>Slow Sand Filtration</i></a> <span style="font-size:85%;">(PDF)</span>. Geneva: World Health Organization. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/92-4-154037-0" title="Special:BookSources/92-4-154037-0">92-4-154037-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.atitle=Chapter+2.+Filtration+of+Water+Supplies&amp;rft.aufirst=L.&amp;rft.aulast=Huisman&amp;rft.au=Wood%2C+W.E.&amp;rft.btitle=Slow+Sand+Filtration&amp;rft.date=1974&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.who.int%2Fwater_sanitation_health%2Fpublications%2Fssf2.pdf&amp;rft.isbn=92-4-154037-0&amp;rft.place=Geneva&amp;rft.pub=World+Health+Organization&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Buchan, James (2003). <i>Crowded with genius: the Scottish enlightenment: Edinburgh's moment of the mind</i>. New York: HarperCollins. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780060558888" title="Special:BookSources/9780060558888">9780060558888</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.aufirst=James&amp;rft.aulast=Buchan&amp;rft.btitle=Crowded+with+genius%3A+the+Scottish+enlightenment%3A+Edinburgh%27s+moment+of+the+mind&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=9780060558888&amp;rft.place=New+York&amp;rft.pub=HarperCollins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Chelsea-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Chelsea_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Frerichs, Ralph R. <a rel="nofollow" class="external text" href="http://www.ph.ucla.edu/epi/snow/1859map/chelsea_waterworks_a2.html">"History of the Chelsea Waterworks"</a>. <i>John Snow</i>. Fielding School of Public Health, University of California, Los Angeles<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.atitle=History+of+the+Chelsea+Waterworks&amp;rft.aufirst=Ralph+R.&amp;rft.aulast=Frerichs&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ph.ucla.edu%2Fepi%2Fsnow%2F1859map%2Fchelsea_waterworks_a2.html&amp;rft.jtitle=John+Snow&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Christman, Keith (September 1998). "The history of chlorine". <i>WaterWorld</i>. Tulsa, OK: PennWell. <b>14</b> (8): 66–67.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.atitle=The+history+of+chlorine&amp;rft.aufirst=Keith&amp;rft.aulast=Christman&amp;rft.date=1998-09&amp;rft.genre=article&amp;rft.issue=8&amp;rft.jtitle=WaterWorld&amp;rft.pages=66-67&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=14" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cdc.gov/safewater/publications_pages/fact_sheets/WW4.pdf">"Safe Water System"</a> <span style="font-size:85%;">(PDF)</span>. <i>Fact Sheet, World Water Forum 4 Update</i>. Atlanta: <a href="/wiki/US_Centers_for_Disease_Control_and_Prevention" class="mw-redirect" title="US Centers for Disease Control and Prevention">US Centers for Disease Control and Prevention</a>. June 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.atitle=Safe+Water+System&amp;rft.date=2006-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cdc.gov%2Fsafewater%2Fpublications_pages%2Ffact_sheets%2FWW4.pdf&amp;rft.jtitle=Fact+Sheet%2C+World+Water+Forum+4+Update&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cawstHWT-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-cawstHWT_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cawst.org/en/resources/pubs">"Household Water Treatment Guide"</a>. Centre for Affordable Water and Sanitation Technology, Canada. March 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.btitle=Household+Water+Treatment+Guide&amp;rft.date=2008-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cawst.org%2Fen%2Fresources%2Fpubs&amp;rft.pub=Centre+for+Affordable+Water+and+Sanitation+Technology%2C+Canada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.materialsviews.com/sand-as-a-low-cost-support-for-titanium-dioxide-photocatalysts/">"Sand as a low-cost support for titanium dioxide photocatalysts"</a>. <i>Materials Views</i>. Wiley VCH.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.atitle=Sand+as+a+low-cost+support+for+titanium+dioxide+photocatalysts&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.materialsviews.com%2Fsand-as-a-low-cost-support-for-titanium-dioxide-photocatalysts%2F&amp;rft.jtitle=Materials+Views&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lindsten, Don C. (September 1984). "Technology transfer: Water purification, U.S. Army to the civilian community". <i>The Journal of Technology Transfer</i>. <b>9</b> (1): 57–59. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF02189057">10.1007/BF02189057</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.atitle=Technology+transfer%3A+Water+purification%2C+U.S.+Army+to+the+civilian+community&amp;rft.au=Lindsten%2C+Don+C.&amp;rft.date=1984-09&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF02189057&amp;rft.issue=1&amp;rft.jtitle=The+Journal+of+Technology+Transfer&amp;rft.pages=57-59&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=14" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation book">Eaton, Andrew D.; Franson, Mary Ann H. (2005). <i>Standard methods for the examination of water and wastewater</i> (21 ed.). American Public Health Association. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-87553-047-5" title="Special:BookSources/978-0-87553-047-5">978-0-87553-047-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+treatment&amp;rft.aufirst=Andrew+D.&amp;rft.au=Franson%2C+Mary+Ann+H.&amp;rft.aulast=Eaton&amp;rft.btitle=Standard+methods+for+the+examination+of+water+and+wastewater&amp;rft.date=2005&amp;rft.edition=21&amp;rft.genre=book&amp;rft.isbn=978-0-87553-047-5&amp;rft.pub=American+Public+Health+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_treatment&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Water_treatment" class="extiw" title="commons:Water treatment">Water treatment</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.iwahq.org">International Water Association</a> Professional / research organization</li>
+<li><a rel="nofollow" class="external text" href="http://cben.rice.edu">Center for Biological and Environmental Nanotechnology (CBEN), Rice University</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nsf.org">NSF International</a> – Independent non-profit standards organization</li>
+<li><a rel="nofollow" class="external text" href="http://www.hydropark.ru/index.en.htm">Transnational Ecological Project</a> – Industrial wastewater treatment (Russia)</li>
+<li><a rel="nofollow" class="external text" href="http://www.wef.org">Water Environment Federation</a> – Professional association focusing on wastewater treatment</li>
+<li><a rel="nofollow" class="external text" href="http://www.who.int/water_sanitation_health/dwq/gdwq3rev/en/index.html">WHO.int</a>, WHO Guidelines</li>
+<li><a rel="nofollow" class="external text" href="http://www.gvsu.edu/haitiwater/">Safe and Sustainable Water for Haiti web site hosted by Grand Valley State University</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4131412-8">4131412-8</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00567744">00567744</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20170314154656
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.192 seconds
+Real time usage: 0.250 seconds
+Preprocessor visited node count: 810/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25532/2097152 bytes
+Template argument size: 226/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.099/10.000 seconds
+Lua memory usage: 4.48 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  210.070      1 -total
+ 42.10%   88.444      1 Template:Reflist
+ 17.08%   35.885      1 Template:More_footnotes
+ 16.52%   34.710      1 Template:Cite_report
+ 12.76%   26.802      1 Template:For
+ 12.50%   26.250      1 Template:Ambox
+ 10.86%   22.814      1 Template:Authority_control
+  9.83%   20.648      5 Template:Cite_book
+  6.50%   13.664      4 Template:Cite_web
+  4.80%   10.078      5 Template:Main_article
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:239926-0!*!0!!en!4!* and timestamp 20170314154656 and revision id 764956441
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Water_treatment&amp;oldid=764956441">https://en.wikipedia.org/w/index.php?title=Water_treatment&amp;oldid=764956441</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Waste_treatment_technology" title="Category:Waste treatment technology">Waste treatment technology</a></li><li><a href="/wiki/Category:Water_pollution" title="Category:Water pollution">Water pollution</a></li><li><a href="/wiki/Category:Water_treatment" title="Category:Water treatment">Water treatment</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_April_2016" title="Category:Articles lacking in-text citations from April 2016">Articles lacking in-text citations from April 2016</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Water+treatment" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Water+treatment" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Water_treatment"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Water_treatment"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Water_treatment" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Water_treatment&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Water_treatment&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Water_treatment" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Water_treatment" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Water_treatment&amp;oldid=764956441" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Water_treatment&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1058719" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Water_treatment&amp;id=764956441" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Water+treatment">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Water+treatment&amp;returnto=Water+treatment&amp;oldid=764956441&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Water_treatment&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Water_treatment" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9_%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87" title="معالجة المياه – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%87%D0%B8%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Пречиствателна станция – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C3%9Apravna_vod" title="Úpravna vod – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wasseraufbereitungsanlage" title="Wasseraufbereitungsanlage – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Veepuhastus" title="Veepuhastus – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Tratamiento_de_aguas" title="Tratamiento de aguas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%AC%BC_%EC%B2%98%EB%A6%AC" title="물 처리 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8B%D6%80%D5%A1%D5%B4%D5%B7%D5%A1%D5%AF%D5%B8%D6%82%D5%B4" title="Ջրամշակում – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Obrada_vode" title="Obrada vode – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Penjernihan_air" title="Penjernihan air – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Rawatan_air" title="Rawatan air – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Waterzuivering" title="Waterzuivering – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%87%A6%E7%90%86" title="水処理 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_de_tratamento_de_%C3%A1gua" title="Estação de tratamento de água – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Water_treatment" title="Water treatment – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Priprava_vode" title="Priprava vode – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Obrada_vode" title="Obrada vode – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Vedenk%C3%A4sittely" title="Vedenkäsittely – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B0%B4%E5%A4%84%E7%90%86" title="水处理 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1058719#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 February 2017, at 21:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Water_treatment&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.250","ppvisitednodes":{"value":810,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25532,"limit":2097152},"templateargumentsize":{"value":226,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  210.070      1 -total"," 42.10%   88.444      1 Template:Reflist"," 17.08%   35.885      1 Template:More_footnotes"," 16.52%   34.710      1 Template:Cite_report"," 12.76%   26.802      1 Template:For"," 12.50%   26.250      1 Template:Ambox"," 10.86%   22.814      1 Template:Authority_control","  9.83%   20.648      5 Template:Cite_book","  6.50%   13.664      4 Template:Cite_web","  4.80%   10.078      5 Template:Main_article"]},"scribunto":{"limitreport-timeusage":{"value":"0.099","limit":"10.000"},"limitreport-memusage":{"value":4698962,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20170314154656","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":323,"wgHostname":"mw1264"});});</script>
+	</body>
+</html>

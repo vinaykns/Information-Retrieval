@@ -1,0 +1,1347 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cradle-to-cradle design - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cradle-to-cradle_design","wgTitle":"Cradle-to-cradle design","wgCurRevisionId":768869212,"wgRevisionId":768869212,"wgArticleId":6625288,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from July 2013","Articles with unsourced statements from July 2011","Commons category with local link same as on Wikidata","Industrial ecology","Environmental design","Sustainable building"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cradle-to-cradle_design","wgRelevantArticleId":6625288,"wgRequestId":"WMTatApAEKgAAD0UcboAAAAI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Cradle-to-cradle","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Cradle-to-cradle_design","wgWikibaseItemId":"Q2306286","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sustainability_methods_featuring_C2C.png/1200px-Sustainability_methods_featuring_C2C.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cradle-to-cradle_design"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cradle-to-cradle_design"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cradle-to-cradle_design rootpage-Cradle-to-cradle_design skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Cradle-to-cradle design</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Cradle-to-cradle&amp;redirect=no" class="mw-redirect" title="Cradle-to-cradle">Cradle-to-cradle</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">"Cradle to Cradle" redirects here. For the 2002 book, see <a href="/wiki/Cradle_to_Cradle:_Remaking_the_Way_We_Make_Things" title="Cradle to Cradle: Remaking the Way We Make Things">Cradle to Cradle: Remaking the Way We Make Things</a>.</div>
+<p><b>Cradle-to-cradle design</b> (also referred to as <b>Cradle to Cradle</b>, <b>C2C</b>, <b>cradle 2 cradle</b>, or <b><a href="/wiki/Regenerative_design" title="Regenerative design">regenerative design</a></b>) is a <a href="/wiki/Biomimetic" class="mw-redirect" title="Biomimetic">biomimetic</a> approach to the design of products and systems. It models human industry on nature's processes viewing materials as nutrients circulating in healthy, safe <a href="/wiki/Metabolism" title="Metabolism">metabolisms</a>. It suggests that industry must protect and enrich <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a> and nature's biological metabolism while also maintaining a safe, productive technical metabolism for the high-quality use and circulation of <a href="/wiki/Organic_compound" title="Organic compound">organic</a> and technical nutrients.<sup id="cite_ref-Cradle_2002_1-0" class="reference"><a href="#cite_note-Cradle_2002-1">[1]</a></sup> Put simply, it is a <a href="/wiki/Holistic" class="mw-redirect" title="Holistic">holistic</a> economic, industrial and social framework that seeks to create systems that are not only efficient but also essentially waste free.<sup id="cite_ref-hunter_2-0" class="reference"><a href="#cite_note-hunter-2">[2]</a></sup> The model in its broadest sense is not limited to <a href="/wiki/Industrial_design" title="Industrial design">industrial design</a> and <a href="/wiki/Manufacturing" title="Manufacturing">manufacturing</a>; it can be applied to many aspects of human civilization such as <a href="/wiki/Urban_environment" class="mw-redirect" title="Urban environment">urban environments</a>, buildings, economics and <a href="/wiki/Social_systems" class="mw-redirect" title="Social systems">social systems</a>.</p>
+<p>The term Cradle to Cradle is a registered trademark of McDonough Braungart Design Chemistry (MBDC) consultants. Cradle to Cradle product certification began as a proprietary system; however, in 2012 MBDC turned the certification over to an independent non-profit called the Cradle to Cradle Products Innovation Institute. Independence, openness, and transparency are the Institute's first objectives for the certification protocols.<sup id="cite_ref-treehugger.com_3-0" class="reference"><a href="#cite_note-treehugger.com-3">[3]</a></sup> The phrase "cradle to cradle" itself was coined by <a href="/wiki/Walter_R._Stahel" title="Walter R. Stahel">Walter R. Stahel</a> in the 1970s. The current model is based on a system of "lifecycle development" initiated by <a href="/wiki/Michael_Braungart" title="Michael Braungart">Michael Braungart</a> and colleagues at the <i>Environmental Protection Encouragement Agency</i> (EPEA) in the 1990s and explored through the publication <i>A Technical Framework for <a href="/wiki/Life-cycle_assessment" title="Life-cycle assessment">Life-Cycle Assessment</a></i>.</p>
+<p>In 2002, Braungart and <a href="/wiki/William_McDonough" title="William McDonough">William McDonough</a> published a book called <i><a href="/wiki/Cradle_to_Cradle:_Remaking_the_Way_We_Make_Things" title="Cradle to Cradle: Remaking the Way We Make Things">Cradle to Cradle: Remaking the Way We Make Things</a></i>, a <a href="/wiki/Manifesto" title="Manifesto">manifesto</a> for cradle to cradle design that gives specific details of how to achieve the model. The model has been implemented by a number of companies, organizations and governments around the world, predominantly in the European Union, China and the United States. Cradle to cradle has also been the subject of many documentary films, including the critically acclaimed <i>Waste=Food</i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sustainability_methods_featuring_C2C.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sustainability_methods_featuring_C2C.png/220px-Sustainability_methods_featuring_C2C.png" width="220" height="170" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sustainability_methods_featuring_C2C.png/330px-Sustainability_methods_featuring_C2C.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sustainability_methods_featuring_C2C.png/440px-Sustainability_methods_featuring_C2C.png 2x" data-file-width="4191" data-file-height="3238" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sustainability_methods_featuring_C2C.png" class="internal" title="Enlarge"></a></div>
+The current economic system, the current solution (the 3Rs), and the C2C framework as an alternative solution.</div>
+</div>
+</div>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Structure"><span class="tocnumber">1.1</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Health"><span class="tocnumber">1.2</span> <span class="toctext">Health</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Economics"><span class="tocnumber">1.3</span> <span class="toctext">Economics</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Definitions"><span class="tocnumber">1.4</span> <span class="toctext">Definitions</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Existing_synthetic_materials"><span class="tocnumber">1.5</span> <span class="toctext">Existing synthetic materials</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Hypothetical_examples"><span class="tocnumber">2</span> <span class="toctext">Hypothetical examples</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Finished_products"><span class="tocnumber">3</span> <span class="toctext">Finished products</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Implementation"><span class="tocnumber">4</span> <span class="toctext">Implementation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Major_implementations"><span class="tocnumber">4.1</span> <span class="toctext">Major implementations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Coordination_with_other_models"><span class="tocnumber">5</span> <span class="toctext">Coordination with other models</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Constraints"><span class="tocnumber">6</span> <span class="toctext">Constraints</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Criticism_and_response"><span class="tocnumber">7</span> <span class="toctext">Criticism and response</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=1" title="Edit section: Introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the cradle to cradle model, all materials used in industrial or commercial processes—such as metals, <a href="/wiki/Fiber" title="Fiber">fibers</a>, <a href="/wiki/Dye" title="Dye">dyes</a>—fall into one of two categories: "technical" or "biological" nutrients. <i>Technical nutrients</i> are strictly limited to non-toxic, non-harmful synthetic materials that have no negative effects on the natural environment; they can be used in continuous cycles as the same product without losing their integrity or quality. In this manner these materials can be used over and over again instead of being "<a href="/wiki/Downcycling" title="Downcycling">downcycled</a>" into lesser products, ultimately becoming waste.</p>
+<p><i>Biological Nutrients</i> are <a href="/wiki/Organic_material" class="mw-redirect" title="Organic material">organic materials</a> that, once used, can be disposed of in any natural environment and decompose into the soil, providing food for small life forms without affecting the natural environment. This is dependent on the ecology of the region; for example, organic material from one country or landmass may be harmful to the ecology of another country or landmass.<sup id="cite_ref-Cradle_2002_1-1" class="reference"><a href="#cite_note-Cradle_2002-1">[1]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Biological_and_technical_nutrients_(C2C).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Biological_and_technical_nutrients_%28C2C%29.jpg/220px-Biological_and_technical_nutrients_%28C2C%29.jpg" width="220" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Biological_and_technical_nutrients_%28C2C%29.jpg/330px-Biological_and_technical_nutrients_%28C2C%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Biological_and_technical_nutrients_%28C2C%29.jpg/440px-Biological_and_technical_nutrients_%28C2C%29.jpg 2x" data-file-width="2347" data-file-height="1693" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Biological_and_technical_nutrients_(C2C).jpg" class="internal" title="Enlarge"></a></div>
+Biological and Technical Cycles</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Operation_of_Regenerative_economy.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Operation_of_Regenerative_economy.JPG/150px-Operation_of_Regenerative_economy.JPG" width="150" height="109" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Operation_of_Regenerative_economy.JPG/225px-Operation_of_Regenerative_economy.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Operation_of_Regenerative_economy.JPG/300px-Operation_of_Regenerative_economy.JPG 2x" data-file-width="2692" data-file-height="1964" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Operation_of_Regenerative_economy.JPG" class="internal" title="Enlarge"></a></div>
+Biological and technical cycle</div>
+</div>
+</div>
+<p>The two types of materials each follow their own cycle in the regenerative economy envisioned by Keunen and Huizing.</p>
+<h3><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=2" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Initially defined by McDonough and Braungart, the Cradle to Cradle Products Innovation Institute's five certification criteria are:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<ul>
+<li>Material health, which involves identifying the chemical composition of the materials that make up the product. Particularly hazardous materials (e.g. heavy metals, pigments, halogen compounds etc.) have to be reported whatever the concentration, and other materials reported where they exceed 100 ppm. For wood, the forest source is required. The risk for each material is assessed against criteria and eventually ranked on a scale with green being materials of low risk, yellow being those with moderate risk but are acceptable to continue to use, and red for materials that have high risk and need to be phased out. Grey for materials with incomplete data. The method uses the term 'risk' in the sense of hazard (as opposed to consequence and likelihood).</li>
+<li>Material reutilization, which is about recovery and recycling at the end of product life.</li>
+<li>Assessment of energy required for production, which for the highest level of certification needs to be based on at least 50% renewable energy for all parts and subassemblies.</li>
+<li>Water, particularly usage and discharge quality.</li>
+<li>Social responsibility, which assesses fair labor practices.</li>
+</ul>
+<p>The certification is available at several levels: basic, silver, gold, platinum, with more stringent requirements at each. Prior to 2012, MBDC controlled the certification protocol.</p>
+<h3><span class="mw-headline" id="Health">Health</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=3" title="Edit section: Health">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Currently, many human beings come into contact or consume, directly or indirectly, many harmful materials and chemicals daily. In addition, countless other forms of plant and animal life are also exposed. C2C seeks to remove dangerous <i>technical nutrients</i> (synthetic materials such as <a href="/wiki/Mutagenic" class="mw-redirect" title="Mutagenic">mutagenic</a> materials, <a href="/wiki/Heavy_metals" title="Heavy metals">heavy metals</a> and other dangerous chemicals) from current life cycles. If the materials we come into contact with and are exposed to on a daily basis are not toxic and do not have long term health effects, then the health of the overall system can be better maintained. For example, a fabric factory can eliminate all harmful <i>technical nutrients</i> by carefully reconsidering what chemicals they use in their dyes to achieve the colours they need and attempt to do so with fewer base chemicals.<sup id="cite_ref-Cradle_2002_1-2" class="reference"><a href="#cite_note-Cradle_2002-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Economics">Economics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=4" title="Edit section: Economics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The use of a C2C model often lowers the financial cost of systems. For example, in the redesign of the <a href="/wiki/Ford_River_Rouge_Complex" title="Ford River Rouge Complex">Ford River Rouge Complex</a>, the planting of Sedum (stonecrop) vegetation on assembly plant roofs retains and cleanses rain water. It also moderates the internal temperature of the building in order to save energy. The roof is part of an $18 million rainwater treatment system designed to clean 20&#160;billion US gallons (76,000,000&#160;m<sup>3</sup>) of rainwater annually. This saved Ford $50 million that would otherwise have been spent on mechanical treatment facilities.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> If products are designed according to C2C design principles, they can be manufactured and sold for less than alternative designs. They eliminate the need for waste disposal such as landfills.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Definitions">Definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=5" title="Edit section: Definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><b>Cradle to Cradle</b> a play on the phrase "Cradle to Grave", implying that the C2C model is sustainable and considerate of life and future generations.</li>
+<li><b>Technical nutrients</b> are basically <a href="/wiki/Inorganic" class="mw-redirect" title="Inorganic">inorganic</a> or synthetic materials manufactured by humans—such as plastics and metals—that can be used many times over without any loss in quality, staying in a continuous cycle.</li>
+<li><b>Biological nutrients</b> and materials are <a href="/wiki/Organic_material" class="mw-redirect" title="Organic material">organic materials</a> that can decompose into the natural environment, soil, water, etc. without affecting it in a negative way, providing food for bacteria and microbiological life.</li>
+<li><b>Materials</b> are usually referred to as the building blocks of other materials, such as the dyes used in colouring fibers or rubbers used in the sole of a shoe.</li>
+<li><b>Downcycling</b> is the reuse of materials into lesser products. For example, a plastic computer case could be downcycled into a plastic cup, which then becomes a park bench, etc.; this may eventually lead to waste. In conventional understanding, this is no different from <a href="/wiki/Recycling" title="Recycling">recycling</a> that produces a supply of the same product or material.</li>
+<li><b>Waste = Food</b> is a basic concept of organic waste materials becoming food for bugs, insects and other small forms of life who can feed on it, decompose it and return it to the natural environment which we then indirectly use for food ourselves.</li>
+</ul>
+<h3><span class="mw-headline" id="Existing_synthetic_materials">Existing synthetic materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=6" title="Edit section: Existing synthetic materials">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The question of how to deal with the countless existing <i>technical nutrients</i> (synthetic materials) that cannot be recycled or reintroduced to the natural environment is dealt with in C2C design. The materials that can be reused and retain their quality can be used within the technical nutrient cycles while other materials are far more difficult to deal with, such as plastics in the Pacific Ocean.</p>
+<h2><span class="mw-headline" id="Hypothetical_examples">Hypothetical examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=7" title="Edit section: Hypothetical examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One effective example is a shoe that is designed and mass-produced using the C2C model. The sole might be made of "biological nutrients" while the upper parts might be made of "technical nutrients." The shoe is mass-produced at a manufacturing plant that utilises its waste material by putting it back into the cycle; an example of this is using off-cuts from the rubber soles to make more soles instead of merely disposing of them (this is dependent on the technical materials not losing their quality as they are reused). Once the shoes have been manufactured, they are distributed to retail outlets where the customer buys the shoe at a fraction of the price they would normally pay for a shoe of comparable aspects; the customer is only paying for the use of the materials in the shoe for the period of time that they will be using the shoe. When they outgrow the shoe or it is damaged, they return it to the manufacturer. When the manufacturer separates the sole from the upper parts (separating the technical and biological nutrients), the biological nutrients are returned to the natural environment while the technical nutrients are used to create the sole of another shoe.</p>
+<p>Another example of C2C design is a disposable cup, bottle, or wrapper made entirely out of biological materials. When the user is finished with the item, it can be disposed of and returned to the natural environment; the cost of disposal of waste such as landfill and recycling is eliminated. The user could also potentially return the item for a refund so it can be used again.</p>
+<p><a href="/wiki/Ford_Model_U" title="Ford Model U">Ford Model U</a> is a design concept of a car, made completely from cradle-to-cradle materials. It also uses <a href="/wiki/Hydrogen_propulsion" class="mw-redirect" title="Hydrogen propulsion">hydrogen propulsion</a>.</p>
+<h2><span class="mw-headline" id="Finished_products">Finished products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=8" title="Edit section: Finished products">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Cradle-to-cradle shoes have been made through the <a href="/wiki/Nike_Considered" title="Nike Considered">Nike Considered</a> project.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li>The <a rel="nofollow" class="external text" href="http://www.edag-light-car.com/">Edag light car</a></li>
+<li>Rohner Textile AG <a href="/w/index.php?title=Climatex&amp;action=edit&amp;redlink=1" class="new" title="Climatex (page does not exist)">Climatex</a>-textile<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li><a href="/wiki/Biofoam" class="mw-redirect" title="Biofoam">Biofoam</a>; a cradle-to-cradle alternative to <a href="/wiki/Polystyrene" title="Polystyrene">expanded polystyrene</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li><a href="/wiki/Sewage#Conversion_to_fertiliser" title="Sewage">Sewage sludge processing plants</a> are facilities that create fertiliser from sewage sludge. This approach is green retrofit for the current (inefficient) system of organic waste disposal; as <a href="/wiki/Composting_toilets" class="mw-redirect" title="Composting toilets">composting toilets</a> are a better approach in the long run.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup></li>
+<li><a href="/wiki/Aquion_Energy" title="Aquion Energy">Aquion Energy</a> large scale batterys</li>
+<li><a href="/wiki/Ecovative_Design" title="Ecovative Design">Ecovative Design</a> packaging and insulation made from waste by binding it together with <a href="/wiki/Mycelium" title="Mycelium">Mycelium</a></li>
+</ul>
+<h2><span class="mw-headline" id="Implementation">Implementation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=9" title="Edit section: Implementation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The C2C model can be applied to almost any system in modern society: <a href="/wiki/Urban_environment" class="mw-redirect" title="Urban environment">urban environments</a>, buildings, <a href="/wiki/Manufacturing" title="Manufacturing">manufacturing</a>, <a href="/wiki/Social_systems" class="mw-redirect" title="Social systems">social systems</a>. 5 steps are outlined in <i>Cradle to Cradle – Remaking the way we make things</i>:<sup id="cite_ref-Cradle_2002_1-3" class="reference"><a href="#cite_note-Cradle_2002-1">[1]</a></sup></p>
+<ul>
+<li>Get "free of" known culprits</li>
+<li>Follow informed personal preferences</li>
+<li>Create "passive positive" lists – lists of materials used categorised according to their safety level</li>
+</ul>
+<dl>
+<dd>The X List – substances that must be phased out, such as <a href="/wiki/Teratogenic" class="mw-redirect" title="Teratogenic">teratogenic</a>, <a href="/wiki/Mutagenic" class="mw-redirect" title="Mutagenic">mutagenic</a>, <a href="/wiki/Carcinogenic" class="mw-redirect" title="Carcinogenic">carcinogenic</a>.</dd>
+<dd>The Gray List – problematic substances that are not so urgently in need of phasing out</dd>
+<dd>The P List – the "positive" list, substances actively defined as safe for use</dd>
+</dl>
+<ul>
+<li>Activate the positive list</li>
+<li>Reinvent – the redesign of the former system</li>
+</ul>
+<p>Products that adhere to all steps can generally be granted a certification. Two certifications used for cradle-to-cradle products include <a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">Leadership in Energy and Environmental Design</a> (LEED) and <a href="/w/index.php?title=BRE_Environmental_Assessment_Method&amp;action=edit&amp;redlink=1" class="new" title="BRE Environmental Assessment Method (page does not exist)">BRE Environmental Assessment Method</a> (BREEAM).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>C2C principles were first applied to systems in the early 1990s by Braungart's <a href="/w/index.php?title=Hamburger_Umweltinstitut&amp;action=edit&amp;redlink=1" class="new" title="Hamburger Umweltinstitut (page does not exist)">Hamburger Umweltinstitut</a> (HUI) and <a href="/wiki/The_Environmental_Institute" title="The Environmental Institute">The Environmental Institute</a> in Brazil for biomass nutrient recycling of effluent to produce agricultural products and clean water as a byproduct.</p>
+<p>In 2005, William McDonough helped found the Center for Eco-Intelligent Management at Instituto de Empresa Business School. The center's research produced the <a href="/wiki/The_Biosphere_Rules" title="The Biosphere Rules">Biosphere Rules</a>, a set of five implementation principles that facilitate the adoption of closed loop production approaches with a minimum of disruption for established companies.</p>
+<p>In 2007, MBDC and the EPEA formed a strategic partnership with global materials consultancy <a href="/wiki/Material_ConneXion" title="Material ConneXion">Material ConneXion</a> to help promote and disseminate C2C design principles by providing greater global access to C2C material information, certification and product development.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>As of January 2008, Material ConneXion's Materials Libraries in New York, <a href="/wiki/Milan" title="Milan">Milan</a>, <a href="/wiki/Cologne" title="Cologne">Cologne</a>, <a href="/wiki/Bangkok" title="Bangkok">Bangkok</a> and <a href="/wiki/Daegu" title="Daegu">Daegu</a>, <a href="/wiki/Korea" title="Korea">Korea</a> started to feature C2C assessed and certified materials and, in collaboration with MBDC and EPEA, the company now offers C2C Certification, and C2C product development.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>While the C2C model has influenced the construction or redevelopment of many smaller buildings, several large companies, organisations and governments have also implemented the C2C model and its ideas and concepts:</p>
+<h3><span class="mw-headline" id="Major_implementations">Major implementations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=10" title="Edit section: Major implementations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The <a href="/w/index.php?title=Lyle_Center_for_Regenerative_Studies&amp;action=edit&amp;redlink=1" class="new" title="Lyle Center for Regenerative Studies (page does not exist)">Lyle Center for Regenerative Studies</a> incorporates cradle to cradle systems throughout the center. The use of the term C2C is replaced with Regenerative.</li>
+<li>The <a href="/wiki/China" title="China">Chinese Government</a> is constructing many cities like <a href="/wiki/Huangbaiyu" title="Huangbaiyu">Huangbaiyu</a> based on C2C principles, utilising the rooftops for agriculture.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li>The <a href="/wiki/Ford_River_Rouge_Complex" title="Ford River Rouge Complex">Ford River Rouge Complex</a> redevelopment.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Cleaning 20&#160;billion US gallons (76,000,000&#160;m<sup>3</sup>) of rainwater annually.</li>
+<li>The <a href="/w/index.php?title=Netherlands_Institute_of_Ecology&amp;action=edit&amp;redlink=1" class="new" title="Netherlands Institute of Ecology (page does not exist)">Netherlands Institute of Ecology</a> (NIOO-KNAW) will make its laboratory and office complex completely cradle to cradle compliant <sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li>Several private houses and communal buildings in the Netherlands <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li>
+<li>Fashion Positive, an initiative to assist the fashion world in implementing the cradle-to-cradle model in five areas: material health, material reuse, renewable energy, water stewardship and social fairness.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Coordination_with_other_models">Coordination with other models</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=11" title="Edit section: Coordination with other models">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Cradle to Cradle model can be viewed as a framework that considers systems as a whole or <a href="/wiki/Holistic" class="mw-redirect" title="Holistic">holistically</a>. It can be applied to many aspects of human society, and is related to <a href="/wiki/Life_cycle_assessment" class="mw-redirect" title="Life cycle assessment">Life cycle assessment</a>. See for instance the LCA based model of the <a href="/wiki/Eco-costs" title="Eco-costs">Eco-costs</a>, which has been designed to cope with analyses of recycle systems.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> The Cradle to Cradle model in some implementations is closely linked with the <a href="/wiki/Car-free_movement" title="Car-free movement">Car-free movement</a>, such as in the case of large-scale building projects or the construction or redevelopment of urban environments. It is closely linked with <a href="/wiki/Passive_solar_design" class="mw-redirect" title="Passive solar design">passive solar design</a> in the building industry and with <a href="/wiki/Permaculture" title="Permaculture">permaculture</a> in agriculture within or near urban environments. An <a href="/wiki/Earthship" title="Earthship">earthship</a> is a perfect example where different re-use models are used, cradle to cradle and permaculture.</p>
+<p>In 2005, IE Business School in Madrid launched the Center for Eco-Intelligent Innovation in collaboration with William McDonough to study the implementation of Cradle to Cradle design approaches in pioneering businesses. The academic research of companies lead to the elaboration of the <a href="/wiki/The_Biosphere_Rules" title="The Biosphere Rules">Biosphere Rules</a>, a set of five principles derived from nature that guide the implementation of circular models in production.</p>
+<h2><span class="mw-headline" id="Constraints">Constraints</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=12" title="Edit section: Constraints">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A major constraint in the optimal recycling of materials is that at civic amenity sites, products are not disassembled by hand and have each individual part sorted into a bin, but instead have the entire product sorted into a certain bin.</p>
+<p>This makes the extraction of rare earth elements and other materials uneconomical (at recycling sites, products typically get crushed after which the materials are extracted by means of magnets, chemicals, special sorting methods, ...) and thus optimal recycling of, for example metals is impossible (an optimal recycling method for metals would require to sort all similar alloys together rather than mixing plain iron with alloys).</p>
+<p>Obviously, disassembling products is not feasible at currently designed civic amenity sites, and a better method would be to send back the broken products to the manufacturer, so that the manufacturer can disassemble the product. These disassembled product can then be used for making new products or at least to have the components sent separately to recycling sites (for proper recycling, by the exact type of material). At present though, few laws are put in place in any country to oblige manufacturers to <a href="/wiki/Ecoleasing" title="Ecoleasing">take back their products for disassembly</a>, nor are there even such obligations for manufacturers of cradle-to-cradle products. One process where this is happening is in the EU with the <a href="/wiki/Waste_Electrical_and_Electronic_Equipment_Directive" title="Waste Electrical and Electronic Equipment Directive">Waste Electrical and Electronic Equipment Directive</a>.</p>
+<h2><span class="mw-headline" id="Criticism_and_response">Criticism and response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=13" title="Edit section: Criticism and response">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Criticism has been advanced<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> on the fact that McDonough and Braungart previously kept C2C consultancy and certification in their inner circle. Critics argued that this lack of competition prevented the model from fulfilling its potential. Many critics pleaded for a public-private partnership overseeing the C2C concept, thus enabling competition and growth of practical applications and services.</p>
+<p>McDonough and Braungart responded to this criticism by giving control of the certification protocol to a non-profit, independent Institute called the Cradle to Cradle Products Innovation Institute. McDonough said the new institute "will enable our protocol to become a public certification program and global standard."<sup id="cite_ref-treehugger.com_3-1" class="reference"><a href="#cite_note-treehugger.com-3">[3]</a></sup> The new Institute announced the creation of a Certification Standards Board in June 2012. The new board, under the auspices of the Institute, will oversee the certification moving forward.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<p>Experts in the field of environment protection have questioned the practicability of the concept. <a href="/w/index.php?title=Friedrich_Schmidt-Bleek&amp;action=edit&amp;redlink=1" class="new" title="Friedrich Schmidt-Bleek (page does not exist)">Friedrich Schmidt-Bleek</a>, head of the German <a href="/wiki/Wuppertal_Institute" class="mw-redirect" title="Wuppertal Institute">Wuppertal Institute</a> called his assertion, that the "old" environmental movement had hindered innovation with its pessimist approach "pseudo-psychological humbug".</p>
+<blockquote style="font-style: italic">
+<p><i>I can feel very nice on Michael's seat covers<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> in the airplane. Nevertheless I am still waiting for a detailed proposal for a design of the other 99.99 percent of the <a href="/wiki/Airbus_380" class="mw-redirect" title="Airbus 380">Airbus 380</a> after his principles.</i></p>
+</blockquote>
+<p>In 2009 Schmidt-Bleek stated that it is out of the question that the concept can be realized on a bigger scale.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<p>Some claim that C2C certification may not be entirely sufficient in all <a href="/wiki/Eco-design" class="mw-redirect" title="Eco-design">eco-design</a> approaches. Quantitative methodologies (LCAs) and more adapted tools (regarding the product type which is considered) could be used in tandem. The C2C concept ignores the use phase of a product. According to <a href="/wiki/Life-cycle_assessment#Variants" title="Life-cycle assessment">the Variants of Life Cycle Assessment</a> the entire life cycle of a product or service has to be evaluated, not only the material itself. For many goods e.g. in transport, the use phase has the most influence on the environmental footprint. E.g. the more lightweight a car or a plane the less fuel it consumes and consequently the less impact it has. Braungart fully ignores the use phase.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<p>It is safe to say that every production step or resource-transformation step needs a certain amount of energy.</p>
+<p>The C2C concept foresees an own certification of its analysis<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> and therefore is in contradiction to international ISO standards <a href="/w/index.php?title=SO_14000&amp;action=edit&amp;redlink=1" class="new" title="SO 14000 (page does not exist)">14040 and 14044</a> for <a href="/wiki/Life_Cycle_Assessment" class="mw-redirect" title="Life Cycle Assessment">Life Cycle Assessment</a> whereas an independent and critical review is needed in order to obtain comparative and resilient results. Independent external review.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Planned_obsolescence" title="Planned obsolescence">Planned obsolescence</a> (the opposite of durable, no waste design)</li>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a></li>
+<li><a href="/wiki/Circular_Economy" class="mw-redirect" title="Circular Economy">Circular Economy</a></li>
+<li><a href="/w/index.php?title=Biosphere_Rules&amp;action=edit&amp;redlink=1" class="new" title="Biosphere Rules (page does not exist)">Biosphere Rules</a></li>
+<li><a href="/wiki/Ecodesign" title="Ecodesign">Ecodesign</a></li>
+<li><a href="/wiki/Downcycling" title="Downcycling">Downcycling</a></li>
+<li><a href="/wiki/Ellen_MacArthur_Foundation" title="Ellen MacArthur Foundation">Ellen MacArthur Foundation</a></li>
+<li><a href="/wiki/Huangbaiyu" title="Huangbaiyu">Huangbaiyu</a></li>
+<li><a href="/wiki/Life_cycle_assessment" class="mw-redirect" title="Life cycle assessment">Life cycle assessment</a></li>
+<li><a href="/wiki/List_of_environment_topics" class="mw-redirect" title="List of environment topics">List of environment topics</a></li>
+<li><a href="/wiki/Regenerative_Design" class="mw-redirect" title="Regenerative Design">Regenerative Design</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/The_Blue_Economy" title="The Blue Economy">The Blue Economy</a></li>
+<li><a href="/wiki/Upcycling" title="Upcycling">Upcycling</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Cradle_2002-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cradle_2002_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cradle_2002_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Cradle_2002_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Cradle_2002_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><i>Cradle to Cradle: Remaking the way we make things</i>, 2002.</span></li>
+<li id="cite_note-hunter-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-hunter_2-0">^</a></b></span> <span class="reference-text">Lovins, L. Hunter (2008). <a rel="nofollow" class="external text" href="http://www.worldwatch.org/files/pdf/SOW08_chapter_3.pdf">Rethinking production</a> in <i>State of the World 2008</i>, pp. 38–40.</span></li>
+<li id="cite_note-treehugger.com-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-treehugger.com_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-treehugger.com_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.treehugger.com/sustainable-product-design/ask-experts-why-hasnt-cradle-to-cradle-design-caught-on-yet.html">"Ask the Experts: Why Hasn't Cradle-to-Cradle Design Caught On Yet?"</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.sundancechannel.com/films/500068530/">http://www.sundancechannel.com/films/500068530/</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://c2ccertified.org/index.php/product_certification/program_details">C2C certification criteria</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://archrecord.construction.com/features/bwarAwards/archives/04b_fordRouge.asp">http://archrecord.construction.com/features/bwarAwards/archives/04b_fordRouge.asp</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greenerdesign.com/feature/2008/06/12/design-and-performance-reconsidered">Nike Considered</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.iehn.org/publications.case.rohner.php">Rohner textile Climatex as cradle-to-cradle certified textile</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.biofoam.nl/uploads/Press%20release%20BioFoam%20C2C%202009-12.pdf">Biofoam</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.breeam.org/page.jsp?id=66">BREEAM</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.businessweek.com/innovate/content/sep2007/id20070919_689774.htm">"New Clout for Cradle to Cradle Design," BusinessWeek, September 2007</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://greensource.construction.com/news/080115MaterialConneXion.asp">"Materials Innovators Engage Cradle to Cradle Protocol", GreenSource, January 2008</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theage.com.au/news/world/chinas-first-ecovillage-proves-a-hard-sell/2006/08/25/1156012740582.html?page=fullpage">Article from <i>The Age</i>, August 2006</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070505003056/http://www.metropolismag.com/html/content_0801/mcd/">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.metropolismag.com/html/content_0801/mcd/">the original</a> on May 5, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 30,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACradle-to-cradle+design&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.metropolismag.com%2Fhtml%2Fcontent_0801%2Fmcd%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.technischweekblad.nl/nioo-start-duurzame-nieuwbouw.66437.lynkx">NIOO KNAW cradle to cradle buildings</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.heuvelwonen.nl/index.php?pageid=2">C2C house</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.duurzaamgebouwd.nl/index.php?pageID=3947&amp;messageID=&amp;categoryID=26&amp;chunk2=&amp;year=&amp;chunk=1">Private C2C houses</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Friedman, Arthur (15 November 2014). <a rel="nofollow" class="external text" href="http://www.wwd.com/markets-news/textiles/stella-mccartney-amber-valletta-and-alysia-reiner-on-fashion-positive-8034739">"Stella McCartney, Amber Valletta and Alysia Reiner on Fashion Positive"</a>. <i>Women's Wear Daily</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACradle-to-cradle+design&amp;rft.atitle=Stella+McCartney%2C+Amber+Valletta+and+Alysia+Reiner+on+Fashion+Positive&amp;rft.aufirst=Arthur&amp;rft.aulast=Friedman&amp;rft.date=2014-11-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wwd.com%2Fmarkets-news%2Ftextiles%2Fstella-mccartney-amber-valletta-and-alysia-reiner-on-fashion-positive-8034739&amp;rft.jtitle=Women%27s+Wear+Daily&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://fashionpositive.org">FashionPositive.org</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">J.G. Vogtländer, Ch. F. Hendriks, J.C. Brezet; <a rel="nofollow" class="external text" href="http://www.springerlink.com/content/r7248g565215804t/">Allocation in recycle systems: an integrated model for the analyses of environmental impact and economic value</a>, Int. J. of LCA, Vol. 6 (6) , pp 344–355,</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.duurzaamgebouwd.nl/index.php?pageID=3946&amp;messageID=1751">"Cradle to Cradle urgently needs a Dutch private partnership"</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fastcompany.com/blog/danielle-sacks/ad-verse-effect/william-mcdonough-must-change">"Green Guru William McDonough Must Change, Demand His Biggest Fans"</a>, <a href="/wiki/FastCompany.com" class="mw-redirect" title="FastCompany.com">FastCompany.com</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sustainablebrands.com/news_and_views/articles/method-steelcase-join-new-standards-board-cradle-cradle">"Method, Steelcase Join New Standards Board at Cradle to Cradle"</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">He is referring to Cradle-to-Cradle seat cushions Braungart developed for the Airbus 380.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.taz.de/1/zukunft/konsum/artikel/1/der-kluegste-mensch-den-seine-frau-kennt/">Der Umweltretter Michael Baumgart; Peter Unfried, taz vom 7.3.2009</a></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.lca-net.com/publications/critical_review/">[1]</a></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dl.dropbox.com/u/83829123/Version%202.1/C2CPII%20v2.pdf">"Cradle to Cradle Certification"</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://c2ccertified.org/index.php/product_certification">"EPEA institute approach: Assess, Review, certify itself "</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://lct.jrc.ec.europa.eu/pdf-directory/ILCD-Handbook-Review-schemes-LCA-online-12March2010.pdf">"ILCD Handbook Review schemes p6f"</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Cradle_to_Cradle" class="extiw" title="commons:Category:Cradle to Cradle">Cradle to Cradle</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://c2ccertified.org/">Cradle to Cradle Products Innovation Institute</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.epea.com/english/cradle/principle.htm">EPEA: <i>The Cradle-to-Cradle Principle</i></a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mcdonough.com/cradle_to_cradle.htm">William McDonough &amp; Michael Braungart (2002): <i>Cradle to Cradle</i>. (book's synopsis)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.theatlantic.com/doc/199810/environment">William McDonough &amp; Michael Braungart (1998): 'The Next Industrial Revolution' (article)</a></li>
+<li><a rel="nofollow" class="external text" href="https://magnusandmouse.co.uk/pages/eco-friendly">- Eco Friendly crade to cradle products</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.product-life.org/en/cradle-to-cradle">Cradle to Cradle</a> – The emergence of the term</li>
+<li><a rel="nofollow" class="external text" href="http://www.docsonline.tv/Archives/description.php?doc=229">Waste = Food Documentary</a> High Quality</li>
+<li><a rel="nofollow" class="external text" href="http://coatesdesign.com/cradle-to-cradle/">Cradle to Cradle Architecture</a> - Cradle to Cradle Architectural Design</li>
+<li><a rel="nofollow" class="external text" href="http://filmefuerdieerde.ch/cradletocradle">Collected Video Clips</a> – Talks to Cradle to Cradle, Michael Braungart and William McDonough video</li>
+</ul>
+<div style="clear:both;"></div>
+<div role="navigation" class="navbox" aria-labelledby="Design" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Design" title="Template:Design"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Design" title="Template talk:Design"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Design&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Design" style="font-size:114%"><a href="/wiki/Design" title="Design">Design</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2" style="background:lemonchiffon;">
+<div>
+<ul>
+<li><a href="/wiki/Outline_of_design" title="Outline of design">Outline</a></li>
+<li><a href="/wiki/Portal:Design" title="Portal:Design">Portal</a></li>
+<li><a href="/wiki/Designer" title="Designer">Designer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><span style="float:left;width:6em">&#160;</span>
+<div id="Disciplines" style="font-size:114%">Disciplines</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;"><a href="/wiki/Communication_design" title="Communication design">Communication<br />
+design</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Advertising" title="Advertising">Advertising</a></li>
+<li><a href="/wiki/Book_design" title="Book design">Book design</a></li>
+<li><a href="/wiki/Corporate_design" title="Corporate design">Corporate design</a></li>
+<li><a href="/wiki/Exhibit_design" title="Exhibit design">Exhibit design</a></li>
+<li><a href="/wiki/Film_title_design" title="Film title design">Film title design</a></li>
+<li><a href="/wiki/Graphic_design" title="Graphic design">Graphic design</a>
+<ul>
+<li><a href="/wiki/Motion_graphic_design" title="Motion graphic design">Motion</a></li>
+<li><a href="/wiki/Postage_stamp_design" title="Postage stamp design">Postage stamp design</a></li>
+<li><a href="/wiki/Print_design" title="Print design">Print design</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Illustration" title="Illustration">Illustration</a></li>
+<li><a href="/wiki/Information_design" title="Information design">Information design</a></li>
+<li><a href="/wiki/Instructional_design" title="Instructional design">Instructional design</a></li>
+<li><a href="/wiki/News_design" title="News design">News design</a></li>
+<li><a href="/wiki/Photography" title="Photography">Photography</a></li>
+<li><a href="/wiki/Retail_design" title="Retail design">Retail design</a></li>
+<li><a href="/wiki/Signage" title="Signage">Signage</a>&#160;/ <a href="/wiki/Traffic_sign_design" title="Traffic sign design">Traffic sign design</a></li>
+<li><a href="/wiki/Typography" title="Typography">Typography</a>&#160;/ <a href="/wiki/Type_design" title="Type design">Type design</a></li>
+<li><a href="/wiki/Video_design" title="Video design">Video design</a></li>
+<li><a href="/wiki/Visual_merchandising" title="Visual merchandising">Visual merchandising</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;"><a href="/wiki/Environmental_design" title="Environmental design">Environmental<br />
+design</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Architecture" title="Architecture">Architecture</a></li>
+<li><a href="/wiki/Architectural_lighting_design" title="Architectural lighting design">Architectural lighting design</a></li>
+<li><a href="/wiki/Building_design" title="Building design">Building design</a>
+<ul>
+<li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecological_design" title="Ecological design">Ecological design</a></li>
+<li><a href="/wiki/Environmental_impact_design" title="Environmental impact design">Environmental impact design</a></li>
+<li><a href="/wiki/Garden_design" title="Garden design">Garden design</a>
+<ul>
+<li><a href="/wiki/Computer-aided_garden_design" title="Computer-aided garden design">Computer-aided</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Healthy_community_design" title="Healthy community design">Healthy community design</a></li>
+<li><a href="/wiki/Hotel_design" title="Hotel design">Hotel design</a></li>
+<li><a href="/wiki/Interior_architecture" title="Interior architecture">Interior architecture</a></li>
+<li><a href="/wiki/Interior_design" title="Interior design">Interior design</a>
+<ul>
+<li><a href="/wiki/Experiential_interior_design" title="Experiential interior design">EID</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Keyline_design" title="Keyline design">Keyline design</a></li>
+<li><a href="/wiki/Landscape_architecture" title="Landscape architecture">Landscape architecture</a>
+<ul>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Sustainable</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Landscape_design" title="Landscape design">Landscape design</a></li>
+<li><a href="/wiki/Spatial_design" title="Spatial design">Spatial design</a></li>
+<li><a href="/wiki/Urban_design" title="Urban design">Urban design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;"><a href="/wiki/Industrial_design" title="Industrial design">Industrial<br />
+design</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automotive_design" title="Automotive design">Automotive design</a></li>
+<li><a href="/wiki/Automotive_suspension_design" title="Automotive suspension design">Automotive suspension design</a></li>
+<li><a href="/wiki/CMF_design" title="CMF design">CMF design</a></li>
+<li><a href="/wiki/Corrugated_box_design" title="Corrugated box design">Corrugated box design</a></li>
+<li><a href="/wiki/Electric_guitar_design" title="Electric guitar design">Electric guitar design</a></li>
+<li><a href="/wiki/Furniture" title="Furniture">Furniture design</a>
+<ul>
+<li><a href="/wiki/Sustainable_furniture_design" title="Sustainable furniture design">Sustainable</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hardware_interface_design" title="Hardware interface design">Hardware interface design</a></li>
+<li><a href="/wiki/Motorcycle_design" title="Motorcycle design">Motorcycle design</a></li>
+<li><a href="/wiki/Packaging_and_labeling" title="Packaging and labeling">Packaging and labeling</a></li>
+<li><a href="/wiki/Photographic_lens_design" title="Photographic lens design">Photographic lens design</a></li>
+<li><a href="/wiki/Product_design" title="Product design">Product design</a></li>
+<li><a href="/wiki/Production_design" class="mw-redirect" title="Production design">Production design</a></li>
+<li><a href="/wiki/Sensory_design" title="Sensory design">Sensory design</a></li>
+<li><a href="/wiki/Service_design" title="Service design">Service design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;"><a href="/wiki/Interaction_design" title="Interaction design">Interaction<br />
+design</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Experience_design" title="Experience design">Experience design</a>
+<ul>
+<li><a href="/wiki/Employee_experience_design" title="Employee experience design">EED</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Game_design" title="Game design">Game design</a>
+<ul>
+<li><a href="/wiki/Level_design" title="Level design">Level design</a></li>
+<li><a href="/wiki/Video_game_design" title="Video game design">Video game design</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hardware_interface_design" title="Hardware interface design">Hardware interface design</a></li>
+<li><a href="/wiki/Icon_design" title="Icon design">Icon design</a></li>
+<li><a href="/wiki/Immersive_design" title="Immersive design">Immersive design</a></li>
+<li><a href="/wiki/Information_design" title="Information design">Information design</a></li>
+<li><a href="/wiki/Sonic_interaction_design" title="Sonic interaction design">Sonic interaction design</a></li>
+<li><a href="/wiki/User_experience_design" title="User experience design">User experience design</a></li>
+<li><a href="/wiki/User_interface_design" title="User interface design">User interface design</a></li>
+<li><a href="/wiki/Web_design" title="Web design">Web design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;">Other<br />
+<a href="/wiki/Applied_arts" title="Applied arts">applied arts</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Public_art" title="Public art">Public art design</a></li>
+<li><a href="/wiki/Ceramic_art" title="Ceramic art">Ceramic</a>&#160;/ <a href="/wiki/Glass_art" title="Glass art">glass design</a></li>
+<li><a href="/wiki/Fashion_design" title="Fashion design">Fashion design</a>
+<ul>
+<li><a href="/wiki/Costume_design" title="Costume design">Costume design</a></li>
+<li><a href="/wiki/Jewelry_design" class="mw-redirect" title="Jewelry design">Jewelry design</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Floral_design" title="Floral design">Floral design</a></li>
+<li><a href="/wiki/Game_art_design" title="Game art design">Game art design</a></li>
+<li><a href="/wiki/Property_designer" title="Property designer">Property design</a></li>
+<li><a href="/wiki/Scenic_design" title="Scenic design">Scenic design</a></li>
+<li><a href="/wiki/Sound_design" title="Sound design">Sound design</a></li>
+<li><a href="/wiki/Lighting_designer" title="Lighting designer">Stage/set lighting design</a></li>
+<li><a href="/wiki/Textile_design" title="Textile design">Textile design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;">Other<br />
+design<br />
+&amp; <a href="/wiki/Engineering" title="Engineering">engineering</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algorithm_design" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Boiler_design" title="Boiler design">Boiler design</a></li>
+<li><a href="/wiki/Conceptual_design" title="Conceptual design">Conceptual design</a></li>
+<li><a href="/wiki/Database_design" title="Database design">Database design</a></li>
+<li><a href="/wiki/Drug_design" title="Drug design">Drug design</a></li>
+<li><a href="/wiki/Electrical_system_design" title="Electrical system design">Electrical system design</a></li>
+<li><a href="/wiki/Design_of_experiments" title="Design of experiments">Experimental design</a></li>
+<li><a href="/wiki/Filter_design" title="Filter design">Filter design</a></li>
+<li><a href="/wiki/Job_design" title="Job design">Job design</a></li>
+<li><a href="/wiki/Integrated_circuit_design" title="Integrated circuit design">Integrated circuit design</a>
+<ul>
+<li><a href="/wiki/Circuit_design" title="Circuit design">Circuit design</a></li>
+<li><a href="/wiki/Physical_design_(electronics)" title="Physical design (electronics)">Physical design</a></li>
+<li><a href="/wiki/Power_network_design_(IC)" title="Power network design (IC)">Power network design</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nuclear_weapon_design" title="Nuclear weapon design">Nuclear weapon design</a></li>
+<li><a href="/wiki/Nucleic_acid_design" title="Nucleic acid design">Nucleic acid design</a></li>
+<li><a href="/wiki/Organization_design" class="mw-redirect" title="Organization design">Organization design</a></li>
+<li><a href="/wiki/Process_design" title="Process design">Process design</a></li>
+<li><a href="/wiki/Processor_design" title="Processor design">Processor design</a></li>
+<li><a href="/wiki/Protein_design" title="Protein design">Protein design</a></li>
+<li><a href="/wiki/Research_design" title="Research design">Research design</a></li>
+<li><a href="/wiki/Social_design" title="Social design">Social design</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Spacecraft_design" title="Spacecraft design">Spacecraft design</a></li>
+<li><a href="/wiki/Strategic_design" title="Strategic design">Strategic design</a></li>
+<li><a href="/wiki/Systems_design" title="Systems design">Systems design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><span style="float:left;width:6em">&#160;</span>
+<div id="Approaches" style="font-size:114%">Approaches</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Activity-centered_design" title="Activity-centered design">Activity-centered</a></li>
+<li><a href="/wiki/Adaptive_web_design" title="Adaptive web design">Adaptive web</a></li>
+<li><a href="/wiki/Affective_design" title="Affective design">Affective</a></li>
+<li><a href="/wiki/Design_by_committee" title="Design by committee">By committee</a></li>
+<li><a href="/wiki/Design_by_contract" title="Design by contract">By contract</a></li>
+<li><a href="/wiki/C-K_theory" title="C-K theory">C-K theory</a></li>
+<li><a href="/wiki/Design_closure" title="Design closure">Closure</a></li>
+<li><a href="/wiki/Participatory_design" title="Participatory design">Co-design</a></li>
+<li><a href="/wiki/Concept-oriented_design" title="Concept-oriented design">Concept-oriented</a></li>
+<li><a href="/wiki/Configuration_design" title="Configuration design">Configuration</a></li>
+<li><a href="/wiki/Contextual_design" title="Contextual design">Contextual</a></li>
+<li><a href="/wiki/Continuous_design" title="Continuous design">Continuous</a></li>
+<li><strong class="selflink">Cradle-to-cradle</strong></li>
+<li><a href="/wiki/Creative_problem-solving" title="Creative problem-solving">Creative problem-solving</a></li>
+<li><a href="/wiki/Creativity_techniques" title="Creativity techniques">Creativity techniques</a></li>
+<li><a href="/wiki/Critical_design" title="Critical design">Critical</a>
+<ul>
+<li><a href="/wiki/Design_fiction" title="Design fiction">Design fiction</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Defensive_design" title="Defensive design">Defensive</a></li>
+<li><a href="/wiki/Design%E2%80%93bid%E2%80%93build" title="Design–bid–build">Design–bid–build</a></li>
+<li><a href="/wiki/Design%E2%80%93build" title="Design–build">Design–build</a>
+<ul>
+<li><a href="/wiki/Architect-led_design%E2%80%93build" title="Architect-led design–build">architect-led</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Domain-driven_design" title="Domain-driven design">Domain-driven</a></li>
+<li><a href="/wiki/Ecodesign" title="Ecodesign">Ecodesign</a></li>
+<li><a href="/wiki/Energy_neutral_design" title="Energy neutral design">Energy neutral</a></li>
+<li><a href="/wiki/Engineering_design_process" title="Engineering design process">Engineering design process</a>
+<ul>
+<li><a href="/wiki/Probabilistic_design" title="Probabilistic design">Probabilistic design</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Error-tolerant_design" title="Error-tolerant design">Error-tolerant</a></li>
+<li><a href="/wiki/Fault-tolerant_design" class="mw-redirect" title="Fault-tolerant design">Fault-tolerant</a></li>
+<li><a href="/wiki/Framework-oriented_design" title="Framework-oriented design">Framework-oriented</a></li>
+<li><a href="/wiki/Design_for_assembly" title="Design for assembly">For assembly</a></li>
+<li><a href="/wiki/Design_for_behaviour_change" title="Design for behaviour change">For behaviour change</a></li>
+<li><a href="/wiki/Design_for_manufacturability" title="Design for manufacturability">For manufacturability</a></li>
+<li><a href="/wiki/Design_for_Six_Sigma" title="Design for Six Sigma">For Six Sigma</a></li>
+<li><a href="/wiki/Design_for_testing" title="Design for testing">For testing</a></li>
+<li><a href="/wiki/Design_for_X" title="Design for X">For X</a></li>
+<li><a href="/wiki/Functional_design" title="Functional design">Functional</a></li>
+<li><a href="/wiki/Generative_Design" title="Generative Design">Generative</a></li>
+<li><a href="/wiki/Geodesign" title="Geodesign">Geodesign</a></li>
+<li><a href="/wiki/High-level_design" title="High-level design">High-level</a></li>
+<li><a href="/wiki/Integrated_design" title="Integrated design">Integrated</a></li>
+<li><a href="/wiki/Integrated_topside_design" title="Integrated topside design">Integrated topside</a></li>
+<li><a href="/wiki/Intelligence-based_design" title="Intelligence-based design">Intelligence-based</a></li>
+<li><a href="/wiki/Iterative_design" title="Iterative design">Iterative</a></li>
+<li><a href="/wiki/KISS_principle" title="KISS principle">KISS principle</a></li>
+<li><a href="/wiki/Low-level_design" title="Low-level design">Low-level</a></li>
+<li><a href="/wiki/Metadesign" title="Metadesign">Metadesign</a></li>
+<li><a href="/wiki/Mind_map" title="Mind map">Mind mapping</a></li>
+<li><a href="/wiki/Modular_design" title="Modular design">Modular</a></li>
+<li><a href="/wiki/New_Wave_(design)" title="New Wave (design)">New Wave</a></li>
+<li><a href="/wiki/Object-oriented_design" title="Object-oriented design">Object-oriented</a></li>
+<li><a href="/wiki/Open_design" title="Open design">Open</a></li>
+<li><a href="/wiki/Parametric_design" title="Parametric design">Parametric</a></li>
+<li><a href="/wiki/Participatory_design" title="Participatory design">Participatory</a></li>
+<li><a href="/wiki/Platform-based_design" title="Platform-based design">Platform-based</a></li>
+<li><a href="/wiki/Policy-based_design" title="Policy-based design">Policy-based</a></li>
+<li><a href="/wiki/Process-centered_design" title="Process-centered design">Process-centered</a></li>
+<li><a href="/wiki/Public_interest_design" title="Public interest design">Public interest</a></li>
+<li><a href="/wiki/Rational_design" title="Rational design">Rational</a></li>
+<li><a href="/wiki/Regenerative_design" title="Regenerative design">Regenerative</a></li>
+<li><a href="/wiki/Reliability_engineering" title="Reliability engineering">Reliability engineering</a></li>
+<li><a href="/wiki/Research-based_design" title="Research-based design">Research-based</a></li>
+<li><a href="/wiki/Responsibility-driven_design" title="Responsibility-driven design">Responsibility-driven</a></li>
+<li><a href="/wiki/Responsive_web_design" title="Responsive web design">RWD</a></li>
+<li><a href="/wiki/Safe-life_design" title="Safe-life design">Safe-life</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+<li><a href="/wiki/Systemic_Design" class="mw-redirect" title="Systemic Design">Systemic</a>
+<ul>
+<li><a href="/wiki/Systems_Oriented_Design" class="mw-redirect" title="Systems Oriented Design">SOD</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tableless_web_design" title="Tableless web design">Tableless web</a></li>
+<li><a href="/wiki/Theory_of_constraints" title="Theory of constraints">Theory of constraints</a></li>
+<li><a href="/wiki/Top-down_and_bottom-up_design" title="Top-down and bottom-up design">Top-down and bottom-up</a></li>
+<li><a href="/wiki/Transformation_design" title="Transformation design">Transformation</a></li>
+<li><a href="/wiki/Transgenerational_design" title="Transgenerational design">Transgenerational</a></li>
+<li><a href="/wiki/TRIZ" title="TRIZ">TRIZ</a></li>
+<li><a href="/wiki/Universal_design" title="Universal design">Universal</a>
+<ul>
+<li><a href="/wiki/Design_for_All_(in_ICT)" title="Design for All (in ICT)">Design for All</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Usage-centered_design" title="Usage-centered design">Usage-centered</a></li>
+<li><a href="/wiki/Use-centered_design" title="Use-centered design">Use-centered</a></li>
+<li><a href="/wiki/User-centered_design" title="User-centered design">User-centered</a>
+<ul>
+<li><a href="/wiki/Empathic_design" title="Empathic design">Empathic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/User_innovation" title="User innovation">User innovation</a></li>
+<li><a href="/wiki/Value-driven_design" title="Value-driven design">Value-driven</a></li>
+<li><a href="/wiki/Value_sensitive_design" title="Value sensitive design">Value sensitive</a>
+<ul>
+<li><a href="/wiki/Privacy_by_Design" class="mw-redirect" title="Privacy by Design">Privacy by</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Design <a href="/wiki/Design_choice" title="Design choice">choice</a></li>
+<li><a href="/wiki/Design_computing" title="Design computing">computing</a></li>
+<li><a href="/wiki/Design_controls" title="Design controls">controls</a></li>
+<li><a href="/wiki/Design_flow_(EDA)" title="Design flow (EDA)">flow</a></li>
+<li><a href="/wiki/Design_leadership" title="Design leadership">leadership</a></li>
+<li><a href="/wiki/Design_management" title="Design management">management</a></li>
+<li><a href="/wiki/Design_marker" title="Design marker">marker</a></li>
+<li><a href="/wiki/Design_methods" title="Design methods">methods</a></li>
+<li><a href="/wiki/Design_pattern" title="Design pattern">pattern</a></li>
+<li><a href="/wiki/Design_research" title="Design research">research</a></li>
+<li><a href="/wiki/Design_science" title="Design science">science</a></li>
+<li><a href="/wiki/Design_strategy" title="Design strategy">strategy</a></li>
+<li><a href="/wiki/Design_theory" title="Design theory">theory</a></li>
+<li><a href="/wiki/Design_thinking" title="Design thinking">thinking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><span style="float:left;width:6em">&#160;</span>
+<div id="ToolsIntellectual_propertyOrganizationsAwards" style="font-size:114%">
+<div class="hlist">
+<ul>
+<li>Tools</li>
+<li>Intellectual property</li>
+<li>Organizations</li>
+<li>Awards</li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;"><a href="/wiki/Design_tool" title="Design tool">Tools</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algorithms-Aided_Design_(AAD)" title="Algorithms-Aided Design (AAD)">AAD</a></li>
+<li><a href="/wiki/Architectural_model" title="Architectural model">Architectural model</a></li>
+<li><a href="/wiki/Blueprint" title="Blueprint">Blueprint</a></li>
+<li><a href="/wiki/Comprehensive_layout" title="Comprehensive layout">Comprehensive layout</a></li>
+<li><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a>
+<ul>
+<li><a href="/wiki/Computer-aided_industrial_design" title="Computer-aided industrial design">CAID</a></li>
+<li><a href="/wiki/Virtual_home_design_software" title="Virtual home design software">Virtual home design software</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Computer-automated_design" title="Computer-automated design">CAutoD</a></li>
+<li><a href="/wiki/Design_quality_indicator" title="Design quality indicator">Design quality indicator</a></li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a></li>
+<li><a href="/wiki/Flowchart" title="Flowchart">Flowchart</a></li>
+<li><a href="/wiki/Mockup" title="Mockup">Mockup</a></li>
+<li><a href="/wiki/Product_design_specification" title="Product design specification">Product design specification</a></li>
+<li><a href="/wiki/Prototype" title="Prototype">Prototype</a></li>
+<li><a href="/wiki/Sketch_(drawing)" title="Sketch (drawing)">Sketch</a></li>
+<li><a href="/wiki/Storyboard" title="Storyboard">Storyboard</a></li>
+<li><a href="/wiki/Technical_drawing" title="Technical drawing">Technical drawing</a></li>
+<li><a href="/wiki/Web_design_program" class="mw-redirect" title="Web design program">Web design program</a></li>
+<li><a href="/wiki/Website_wireframe" title="Website wireframe">Website wireframe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;">Intellectual<br />
+property</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Community_design" title="Community design">Community design</a></li>
+<li><a href="/wiki/Design_around" title="Design around">Design around</a></li>
+<li><a href="/wiki/Design_patent" title="Design patent">Design patent</a></li>
+<li><i><a href="/wiki/Geschmacksmuster" title="Geschmacksmuster">Geschmacksmuster</a></i></li>
+<li><a href="/wiki/Industrial_design_right" title="Industrial design right">Industrial design rights</a>
+<ul>
+<li><a href="/wiki/Industrial_design_rights_in_the_European_Union" title="Industrial design rights in the European Union">European Union</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;">Organizations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AIGA" title="AIGA">AIGA</a></li>
+<li><a href="/wiki/Chartered_Society_of_Designers" title="Chartered Society of Designers">Chartered Society of Designers</a></li>
+<li><a href="/wiki/Design_and_Industries_Association" title="Design and Industries Association">Design and Industries Association</a></li>
+<li><a href="/wiki/Design_Council" title="Design Council">Design Council</a></li>
+<li><a href="/wiki/International_Forum_Design" title="International Forum Design">International Forum Design</a></li>
+<li><a href="/wiki/The_Design_Society" title="The Design Society">The Design Society</a></li>
+<li><a href="/wiki/Design_Research_Society" title="Design Research Society">Design Research Society</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;">Awards</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/European_Design_Award" title="European Design Award">European Design Award</a></li>
+<li><a href="/wiki/German_Design_Award" title="German Design Award">German Design Award</a></li>
+<li><a href="/wiki/Good_Design_Award_(Chicago)" title="Good Design Award (Chicago)">Good Design Award (Chicago)</a></li>
+<li><a href="/wiki/Good_Design_Award_(Japan)" title="Good Design Award (Japan)">Good Design Award (Japan)</a></li>
+<li><a href="/wiki/Graphex" title="Graphex">Graphex</a></li>
+<li><a href="/wiki/IF_product_design_award" title="IF product design award">IF product design award</a></li>
+<li><a href="/wiki/James_Dyson_Award" title="James Dyson Award">James Dyson Award</a></li>
+<li><a href="/wiki/Prince_Philip_Designers_Prize" title="Prince Philip Designers Prize">Prince Philip Designers Prize</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><span style="float:left;width:6em">&#160;</span>
+<div id="Related_topics" style="font-size:114%">Related topics</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aesthetics" title="Aesthetics">Aesthetics</a></li>
+<li><a href="/wiki/Concept_art" title="Concept art">Concept art</a></li>
+<li><a href="/wiki/Creative_industries" title="Creative industries">Creative industries</a></li>
+<li><a href="/wiki/Cultural_icon" title="Cultural icon">Cultural icon</a></li>
+<li><a href="/wiki/.design" title=".design">.design</a></li>
+<li><a href="/wiki/Enterprise_architecture" title="Enterprise architecture">Enterprise architecture</a></li>
+<li><a href="/wiki/Futures_studies" title="Futures studies">Futures studies</a></li>
+<li><a href="/wiki/Intelligent_design" title="Intelligent design">Intelligent design</a></li>
+<li><a href="/wiki/New_product_development" title="New product development">New product development</a></li>
+<li><a href="/wiki/Philosophy_of_design" title="Philosophy of design">Philosophy of design</a></li>
+<li><a href="/wiki/Process_simulation" title="Process simulation">Process simulation</a></li>
+<li><a href="/wiki/Slow_design" title="Slow design">Slow design</a></li>
+<li><a href="/wiki/STEAM_fields" title="STEAM fields">STEAM fields</a></li>
+<li><a href="/wiki/Unintelligent_design" class="mw-redirect" title="Unintelligent design">Unintelligent design</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Wicked_problem" title="Wicked problem">Wicked problem</a></li>
+</ul>
+<ul>
+<li>Design <a href="/wiki/Design_brief" title="Design brief">brief</a></li>
+<li><a href="/wiki/Design_change" title="Design change">change</a></li>
+<li><a href="/wiki/Design_classic" title="Design classic">classic</a></li>
+<li><a href="/wiki/Design_director" title="Design director">director</a></li>
+<li><a href="/wiki/Design_education" title="Design education">education</a></li>
+<li><a href="/wiki/Design_elements_and_principles" class="mw-redirect" title="Design elements and principles">elements and principles</a></li>
+<li><a href="/wiki/Design_engineer" title="Design engineer">engineer</a></li>
+<li><a href="/wiki/Design_firm" class="mw-redirect" title="Design firm">firm</a></li>
+<li><a href="/wiki/Design_history" title="Design history">history</a></li>
+<li><a href="/wiki/Design_knowledge" title="Design knowledge">knowledge</a></li>
+<li><a href="/wiki/Design_language" title="Design language">language</a></li>
+<li><a href="/wiki/Design_life" title="Design life">life</a></li>
+<li><a href="/wiki/Design_load" title="Design load">load</a></li>
+<li><a href="/wiki/Design_museum" title="Design museum">museum</a></li>
+<li><a href="/wiki/Design_paradigm" title="Design paradigm">paradigm</a></li>
+<li><a href="/wiki/Design_rationale" title="Design rationale">rationale</a></li>
+<li><a href="/wiki/Design_review" title="Design review">review</a></li>
+<li><a href="/wiki/Design_specification" title="Design specification">specification</a></li>
+<li><a href="/wiki/Design_studio" title="Design studio">studio</a></li>
+<li><a href="/wiki/Design_technology" title="Design technology">technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><a href="https://commons.wikimedia.org/wiki/category:Design" class="extiw" title="commons:category:Design"><span style="color:#002bb8">Commons</span></a></li>
+<li><a href="https://en.wikibooks.org/wiki/Design" class="extiw" title="wikibooks:Design"><span style="color:#002bb8">Wikibooks</span></a></li>
+<li><a href="https://en.wikinews.org/wiki/Special:Search/Design" class="extiw" title="wikinews:Special:Search/Design"><span style="color:#002bb8">Wikinews</span></a></li>
+<li><a href="https://en.wikiquote.org/wiki/Design" class="extiw" title="wikiquote:Design"><span style="color:#002bb8">Wikiquote</span></a></li>
+<li><a href="https://en.wikisource.org/wiki/Category:Design" class="extiw" title="wikisource:Category:Design"><span style="color:#002bb8">Wikisource</span></a></li>
+<li><a href="https://en.wiktionary.org/wiki/Design" class="extiw" title="wiktionary:Design"><span style="color:#002bb8">Wiktionary</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Sustainability" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sustainability" style="font-size:114%"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Population" title="Population">Population</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a href="/wiki/Human_population_control" class="mw-redirect" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Food</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Water</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Water_crisis" class="mw-redirect" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" class="mw-redirect" title="Water footprint">Footprint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Accountability</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Education_for_Sustainable_Development" class="mw-redirect" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a href="/wiki/Sustainable_market" class="mw-redirect" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a href="/wiki/Sustainability_practices_in_organizations" class="mw-redirect" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a href="/wiki/Sustainable_urban_drainage_systems" class="mw-redirect" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Management</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Agreements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1176
+Cached time: 20170311215941
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.582 seconds
+Preprocessor visited node count: 1833/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 130540/2097152 bytes
+Template argument size: 14277/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.093/10.000 seconds
+Lua memory usage: 4.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  465.545      1 -total
+ 54.52%  253.802      1 Template:Reflist
+ 51.00%  237.406      2 Template:Cite_web
+ 10.86%   50.552      2 Template:Citation_needed
+ 10.59%   49.303      1 Template:Design
+ 10.03%   46.713      1 Template:Navbox_with_collapsible_groups
+  9.90%   46.071      2 Template:Fix
+  6.71%   31.245      2 Template:Convert
+  5.27%   24.527      1 Template:Redirects
+  4.82%   22.441      4 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6625288-0!*!0!!en!4!* and timestamp 20170311215940 and revision id 768869212
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cradle-to-cradle_design&amp;oldid=768869212">https://en.wikipedia.org/w/index.php?title=Cradle-to-cradle_design&amp;oldid=768869212</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Industrial_ecology" title="Category:Industrial ecology">Industrial ecology</a></li><li><a href="/wiki/Category:Environmental_design" title="Category:Environmental design">Environmental design</a></li><li><a href="/wiki/Category:Sustainable_building" title="Category:Sustainable building">Sustainable building</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2013" title="Category:Articles with unsourced statements from July 2013">Articles with unsourced statements from July 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2011" title="Category:Articles with unsourced statements from July 2011">Articles with unsourced statements from July 2011</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cradle-to-cradle+design" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cradle-to-cradle+design" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Cradle-to-cradle_design"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Cradle-to-cradle_design"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Cradle-to-cradle_design" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cradle-to-cradle_design" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cradle-to-cradle_design" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cradle-to-cradle_design&amp;oldid=768869212" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cradle-to-cradle_design&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2306286" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cradle-to-cradle_design&amp;id=768869212" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cradle-to-cradle+design">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Cradle-to-cradle+design&amp;returnto=Cradle-to-cradle+design&amp;oldid=768869212&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cradle-to-cradle_design&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cradle_to_Cradle" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Cradle_to_Cradle_design" title="Cradle to Cradle design – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Vugge_til_vugge" title="Vugge til vugge – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Cradle_to_Cradle" title="Cradle to Cradle – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/De_la_cuna_a_la_cuna" title="De la cuna a la cuna – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Du_berceau_au_berceau" title="Du berceau au berceau – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Cradle_to_Cradle" title="Cradle to Cradle – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/B%C3%B6lcs%C5%91t%C5%91l_b%C3%B6lcs%C5%91ig" title="Bölcsőtől bölcsőig – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Cradle_to_Cradle" title="Cradle to Cradle – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Cradle-to-Cradle" title="Cradle-to-Cradle – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kehdosta_kehtoon" title="Kehdosta kehtoon – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Vagga_till_vagga" title="Vagga till vagga – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2306286#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 6 March 2017, at 07:19.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cradle-to-cradle_design&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.582","ppvisitednodes":{"value":1833,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":130540,"limit":2097152},"templateargumentsize":{"value":14277,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  465.545      1 -total"," 54.52%  253.802      1 Template:Reflist"," 51.00%  237.406      2 Template:Cite_web"," 10.86%   50.552      2 Template:Citation_needed"," 10.59%   49.303      1 Template:Design"," 10.03%   46.713      1 Template:Navbox_with_collapsible_groups","  9.90%   46.071      2 Template:Fix","  6.71%   31.245      2 Template:Convert","  5.27%   24.527      1 Template:Redirects","  4.82%   22.441      4 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.093","limit":"10.000"},"limitreport-memusage":{"value":4919902,"limit":52428800}},"cachereport":{"origin":"mw1176","timestamp":"20170311215941","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1213"});});</script>
+	</body>
+</html>

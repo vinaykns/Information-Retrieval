@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Closed system - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Closed_system","wgTitle":"Closed system","wgCurRevisionId":739409343,"wgRevisionId":739409343,"wgArticleId":402048,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Cybernetics","Concepts in physics","Physical systems","Systems theory","Thermodynamic systems"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Closed_system","wgRelevantArticleId":402048,"wgRequestId":"WMMWRQpAMFEAAI0k1PQAAAAT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Closed_systems","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Closed_system","wgWikibaseItemId":"Q1468684","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8f/Diagram_Systems.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Closed_system"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Closed_system&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Closed_system&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Closed_system"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Closed_system rootpage-Closed_system skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Closed system</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Closed_systems&amp;redirect=no" class="mw-redirect" title="Closed systems">Closed systems</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about closed <a href="/wiki/Physical_system" title="Physical system">physical systems</a> as the term is used in the physical sciences. For software (in computing) whose source code is kept secret, see <a href="/wiki/Closed_source_software" class="mw-redirect" title="Closed source software">Closed source software</a>.</div>
+<p>A <b>closed system</b> is a <a href="/wiki/Physical_system" title="Physical system">physical system</a> that does not allow certain types of transfers (such as <a href="/wiki/Mass_transfer" title="Mass transfer">transfer of mass</a>) in or out of the system. The specification of what types of transfers are excluded varies in the closed systems of physics, chemistry or engineering.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_physics"><span class="tocnumber">1</span> <span class="toctext">In physics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#In_classical_mechanics"><span class="tocnumber">1.1</span> <span class="toctext">In classical mechanics</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#In_thermodynamics"><span class="tocnumber">1.2</span> <span class="toctext">In thermodynamics</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#In_quantum_physics"><span class="tocnumber">1.3</span> <span class="toctext">In quantum physics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#In_chemistry"><span class="tocnumber">2</span> <span class="toctext">In chemistry</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#In_engineering"><span class="tocnumber">3</span> <span class="toctext">In engineering</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="In_physics">In physics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Closed_system&amp;action=edit&amp;section=1" title="Edit section: In physics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="In_classical_mechanics">In classical mechanics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Closed_system&amp;action=edit&amp;section=2" title="Edit section: In classical mechanics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Theory_of_relativity" title="Theory of relativity">nonrelativistic</a> <a href="/wiki/Classical_mechanics" title="Classical mechanics">classical mechanics</a>, a closed system is a <a href="/wiki/Physical_system" title="Physical system">physical system</a> that doesn't exchange any matter with its surroundings, and isn't subject to any <a href="/wiki/Force" title="Force">force</a> whose source is external to the system.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> A closed system in classical mechanics would be considered an <a href="/wiki/Isolated_system" title="Isolated system">isolated system</a> in thermodynamics. Closed systems are often used to limit the factors that can affect the results of specific problem or experiment.</p>
+<h3><span class="mw-headline" id="In_thermodynamics">In thermodynamics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Closed_system&amp;action=edit&amp;section=3" title="Edit section: In thermodynamics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Thermodynamic_system" title="Thermodynamic system">Thermodynamic system</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Diagram_Systems.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Diagram_Systems.png/220px-Diagram_Systems.png" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Diagram_Systems.png/330px-Diagram_Systems.png 1.5x, //upload.wikimedia.org/wikipedia/commons/8/8f/Diagram_Systems.png 2x" data-file-width="387" data-file-height="218" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Diagram_Systems.png" class="internal" title="Enlarge"></a></div>
+Properties of Isolated, closed, and open systems in exchanging energy and matter.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a>, a closed system can exchange energy (as <a href="/wiki/Heat" title="Heat">heat</a> or <a href="/wiki/Mechanical_work" class="mw-redirect" title="Mechanical work">work</a>) but not <a href="/wiki/Matter" title="Matter">matter</a>, with its surroundings. An <a href="/wiki/Isolated_system" title="Isolated system">isolated system</a> cannot exchange any heat, work, or matter with the surroundings, while an <a href="/wiki/Thermodynamic_system#Open_system" title="Thermodynamic system">open system</a> can exchange energy and matter.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> (This scheme of definition of terms is not uniformly used, though it is convenient for some purposes. In particular, some writers use 'closed system' where 'isolated system' is here used.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>) For a simple system, with only one type of particle (atom or molecule), a closed system amounts to a constant number of particles. However, for systems which are undergoing a <a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">chemical reaction</a>, there may be all sorts of molecules being generated and destroyed by the reaction process. In this case, the fact that the system is closed is expressed by stating that the total number of each elemental atom is conserved, no matter what kind of molecule it may be a part of. Mathematically:</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </munderover>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>N</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sum _{j=1}^{m}a_{ij}N_{j}=b_{i}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d660c86680283978f3fe212361ecf093cd337c8e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.338ex; width:14.202ex; height:7.343ex;" alt="\sum _{{j=1}}^{m}a_{{ij}}N_{j}=b_{i}" /></span></p>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>N</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N_{j}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e42efe207e17a74b4c17b1aa0cced7a84501bec9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.794ex; height:2.843ex;" alt="N_{j}" /></span> is the number of j-type molecules, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a_{ij}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebea6cd2813c330c798921a2894b358f7b643917" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.732ex; height:2.343ex;" alt="a_{ij}" /></span> is the number of atoms of element <i>i</i> in molecule <i>j</i> and <i>b</i><sub>i</sub> is the total number of atoms of element <i>i</i> in the system, which remains constant, since the system is closed. There will be one such equation for each different element in the system.</p>
+<p>In thermodynamics, a closed system is important for solving complicated thermodynamic problems. It allows the elimination of some external factors that could alter the results of the experiment or problem thus simplifying it. A closed system can also be used in situations where <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">thermodynamic equilibrium</a> is required to simplify the situation.</p>
+<h3><span class="mw-headline" id="In_quantum_physics">In quantum physics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Closed_system&amp;action=edit&amp;section=4" title="Edit section: In quantum physics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Quantum_field_theory" title="Quantum field theory">Quantum field theory</a></div>
+<p>This equation, called <a href="/wiki/Schr%C3%B6dinger_equation" title="Schrödinger equation">Schrödinger's equation</a>, describes the behavior of an isolated or closed quantum system, that is, by definition, a system which does not interchange information (i.e. energy and/or matter) with another system. So if an isolated system is in some pure state |ψ(t) ∈ H at time t, where H denotes the Hilbert space of the system, the time evolution of this state (between two consecutive measurements).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+        <mi class="MJX-variant">&#x210F;<!-- ℏ --></mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mi mathvariant="normal">&#x03A8;<!-- Ψ --></mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">r</mi>
+          </mrow>
+          <mo>,</mo>
+          <mi>t</mi>
+          <mo>)</mo>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>H</mi>
+              <mo stretchy="false">&#x005E;<!-- ^ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mi mathvariant="normal">&#x03A8;<!-- Ψ --></mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">r</mi>
+          </mrow>
+          <mo>,</mo>
+          <mi>t</mi>
+          <mo>)</mo>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mspace width="negativethinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i\hbar {\frac {\partial }{\partial t}}\Psi \left(\mathbf {r} ,t\right)={\hat {H}}\Psi \left(\mathbf {r} ,t\right)\,\!}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6045fd5fb64a44b462aa92bb4596bf46912fed3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; margin-right: -0.387ex; width:24.8ex; height:5.509ex;" alt="{\displaystyle i\hbar {\frac {\partial }{\partial t}}\Psi \left(\mathbf {r} ,t\right)={\hat {H}}\Psi \left(\mathbf {r} ,t\right)\,\!}" /></span></p>
+<p>where <span class="texhtml"><i>i</i></span> is the <a href="/wiki/Imaginary_unit" title="Imaginary unit">imaginary unit</a>, <span class="texhtml"><i>ħ</i></span> is the <a href="/wiki/Planck_constant" title="Planck constant">Planck constant</a> divided by <span class="texhtml">2π</span>, the symbol <span class="texhtml"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">∂</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">∂<i>t</i></span></span></span> indicates a <a href="/wiki/Partial_derivative" title="Partial derivative">partial derivative</a> with respect to <a href="/wiki/Time" title="Time">time</a> <span class="texhtml"><i>t</i></span>, <span class="texhtml"><i>Ψ</i></span> (the Greek letter <a href="/wiki/Psi_(letter)" title="Psi (letter)">psi</a>) is the <a href="/wiki/Wave_function" title="Wave function">wave function</a> of the quantum system, and <span class="texhtml"><i>Ĥ</i></span> is the <a href="/wiki/Hamiltonian_(quantum_mechanics)" title="Hamiltonian (quantum mechanics)">Hamiltonian</a> <a href="/wiki/Operator_(physics)" title="Operator (physics)">operator</a> (which characterizes the total energy of any given wave function and takes different forms depending on the situation).</p>
+<h2><span class="mw-headline" id="In_chemistry">In chemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Closed_system&amp;action=edit&amp;section=5" title="Edit section: In chemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In chemistry, a closed system is where no reactants or products can escape, only heat can be exchanged freely (ex. Ice cooler). A closed system can be used when conducting chemical experiments where temperature is not a factor (i.e. reaching <a href="/wiki/Thermal_equilibrium" title="Thermal equilibrium">thermal equilibrium</a>)</p>
+<h2><span class="mw-headline" id="In_engineering">In engineering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Closed_system&amp;action=edit&amp;section=6" title="Edit section: In engineering">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In an <a href="/wiki/Engineering" title="Engineering">engineering</a> context, a closed system is a bound system, i.e. defined, in which every input is known and every resultant is known (or can be known) within a specific time.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Closed_system&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Glossary_of_systems_theory" title="Glossary of systems theory">Glossary of systems theory</a></li>
+<li><a href="/wiki/Closed-circuit_television" title="Closed-circuit television">Closed-circuit television</a> (CCTV)</li>
+<li><a href="/wiki/Dynamical_system" title="Dynamical system">Dynamical system</a></li>
+<li><a href="/wiki/Isolated_system" title="Isolated system">Isolated system</a></li>
+<li><a href="/wiki/Open_system_(systems_theory)" title="Open system (systems theory)">Open system (systems theory)</a></li>
+<li><a href="/wiki/Thermodynamic_system" title="Thermodynamic system">Thermodynamic system</a></li>
+<li><a href="/wiki/Staged_combustion_cycle_(rocket)" class="mw-redirect" title="Staged combustion cycle (rocket)">Closed cycle rocket engine</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Closed_system&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Rana, N.C.; P.S. Joag (1991). <i>Classical Mechanics</i>. p.&#160;78. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-07-460315-4" title="Special:BookSources/978-0-07-460315-4">978-0-07-460315-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClosed+system&amp;rft.aufirst=N.C.&amp;rft.aulast=Rana&amp;rft.au=P.S.+Joag&amp;rft.btitle=Classical+Mechanics&amp;rft.date=1991&amp;rft.genre=book&amp;rft.isbn=978-0-07-460315-4&amp;rft.pages=78&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Lev_Landau" title="Lev Landau">Landau, L.D.</a>; E.M. Lifshitz (1976). <i>Mechanics</i> (third ed.). p.&#160;8. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7506-2896-9" title="Special:BookSources/978-0-7506-2896-9">978-0-7506-2896-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClosed+system&amp;rft.au=E.M.+Lifshitz&amp;rft.aufirst=L.D.&amp;rft.aulast=Landau&amp;rft.btitle=Mechanics&amp;rft.date=1976&amp;rft.edition=third&amp;rft.genre=book&amp;rft.isbn=978-0-7506-2896-9&amp;rft.pages=8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="/wiki/Ilya_Prigogine" title="Ilya Prigogine">Prigogine, I.</a>, Defay, R. (1950/1954). <i>Chemical Thermodynamics</i>, Longmans, Green &amp; Co, London, p. 66.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/L%C3%A1szl%C3%B3_Tisza" title="László Tisza">Tisza, L.</a> (1966). <i>Generalized Thermodynamics</i>, M.I.T Press, Cambridge MA, pp. 112–113.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="/wiki/Edward_A._Guggenheim" title="Edward A. Guggenheim">Guggenheim, E.A.</a> (1949/1967). <i>Thermodynamics. An Advanced Treatment for Chemists and Physicists</i>, (1st edition 1949) 5th edition 1967, North-Holland, Amsterdam, p. 14.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Münster, A. (1970). <i>Classical Thermodynamics</i>, translated by E.S. Halberstadt, Wiley–Interscience, London, pp. 6–7.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Haase, R. (1971). Survey of Fundamental Laws, chapter 1 of <i>Thermodynamics</i>, pages 1–97 of volume 1, ed. W. Jost, of <i>Physical Chemistry. An Advanced Treatise</i>, ed. H. Eyring, D. Henderson, W. Jost, Academic Press, New York, lcn 73–117081, p. 3.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Tschoegl, N.W. (2000). <i>Fundamentals of Equilibrium and Steady-State Thermodynamics</i>, Elsevier, Amsterdam, <a href="/wiki/Special:BookSources/0444504265" class="internal mw-magiclink-isbn">ISBN 0-444-50426-5</a>, p. 5.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Silbey, R.J., <a href="/wiki/Robert_A._Alberty" title="Robert A. Alberty">Alberty, R.A.</a>, Bawendi, M.G. (1955/2005). <i>Physical Chemistry</i>, fourth edition, Wiley, Hoboken NJ, p. 4.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="/wiki/Herbert_Callen" title="Herbert Callen">Callen, H.B.</a> (1960/1985). <i>Thermodynamics and an Introduction to Thermostatistics</i>, (1st edition 1960) 2nd edition 1985, Wiley, New York, <a href="/wiki/Special:BookSources/0471862568" class="internal mw-magiclink-isbn">ISBN 0-471-86256-8</a>, p. 17.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="/wiki/Dirk_ter_Haar" title="Dirk ter Haar">ter Haar, D.</a>, <a href="/wiki/Harald_Wergeland" title="Harald Wergeland">Wergeland, H.</a> (1966). <i>Elements of Thermodynamics</i>, Addison-Wesley Publishing, Reading MA, p. 43.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Rivas, Ángel; F. Huelga, Susana. <i>Open Quantum Systems</i>. Berlin Heidelberg: Springer-Verlag. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-642-23354-8" title="Special:BookSources/978-3-642-23354-8">978-3-642-23354-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClosed+system&amp;rft.au=F.+Huelga%2C+Susana&amp;rft.aufirst=%C3%81ngel&amp;rft.aulast=Rivas&amp;rft.btitle=Open+Quantum+Systems&amp;rft.genre=book&amp;rft.isbn=978-3-642-23354-8&amp;rft.place=Berlin+Heidelberg&amp;rft.pub=Springer-Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1220
+Cached time: 20170304120449
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.203 seconds
+Preprocessor visited node count: 443/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 5722/2097152 bytes
+Template argument size: 375/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/500
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 1.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  133.903      1 -total
+ 48.80%   65.344      1 Template:Reflist
+ 37.08%   49.656      3 Template:Cite_book
+ 25.45%   34.075      1 Template:About
+  5.86%    7.841      7 Template:Math
+  5.41%    7.241      1 Template:Further
+  4.03%    5.401      1 Template:Main_article
+  3.75%    5.019      1 Template:Sfrac
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:402048-0!*!0!!en!4!*!math=5 and timestamp 20170304120448 and revision id 739409343
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Closed_system&amp;oldid=739409343">https://en.wikipedia.org/w/index.php?title=Closed_system&amp;oldid=739409343</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cybernetics" title="Category:Cybernetics">Cybernetics</a></li><li><a href="/wiki/Category:Concepts_in_physics" title="Category:Concepts in physics">Concepts in physics</a></li><li><a href="/wiki/Category:Physical_systems" title="Category:Physical systems">Physical systems</a></li><li><a href="/wiki/Category:Systems_theory" title="Category:Systems theory">Systems theory</a></li><li><a href="/wiki/Category:Thermodynamic_systems" title="Category:Thermodynamic systems">Thermodynamic systems</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Closed+system" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Closed+system" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Closed_system"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Closed_system"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Closed_system" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Closed_system&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Closed_system&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Closed_system" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Closed_system" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Closed_system&amp;oldid=739409343" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Closed_system&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1468684" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Closed_system&amp;id=739409343" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Closed+system">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Closed+system&amp;returnto=Closed+system&amp;oldid=739409343&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Closed_system&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D9%85%D8%BA%D9%84%D9%82" title="نظام مغلق – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%97%D0%B0%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Затворена система – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Sistema_tancat" title="Sistema tancat – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Uzav%C5%99en%C3%A1_soustava" title="Uzavřená soustava – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Geschlossenes_System" title="Geschlossenes System – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Suletud_s%C3%BCsteem_(f%C3%BC%C3%BCsika)" title="Suletud süsteem (füüsika) – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CF%8C_%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1" title="Κλειστό σύστημα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Sistema_cerrado" title="Sistema cerrado – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_ferm%C3%A9" title="Système fermé – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8B%AB%ED%9E%8C%EA%B3%84" title="닫힌계 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Sistema_chiuso" title="Sistema chiuso – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Z%C3%A1rt_rendszer_(fizika)" title="Zárt rendszer (fizika) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Gesloten_systeem" title="Gesloten systeem – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Lukket_system" title="Lukket system – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Uk%C5%82ad_termodynamicznie_zamkni%C4%99ty" title="Układ termodynamicznie zamknięty – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Sistema_fechado_(f%C3%ADsica)" title="Sistema fechado (física) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_(%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0)" title="Закрытая система (физика) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Closed_system" title="Closed system – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Uzavret%C3%A1_s%C3%BAstava_(v%C3%BDmena_energie)" title="Uzavretá sústava (výmena energie) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Zaprti_sistem" title="Zaprti sistem – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Slutet_system" title="Slutet system – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kapal%C4%B1_sistem" title="Kapalı sistem – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D1%80%D0%B8%D1%82%D0%B0_%D1%82%D0%B5%D1%80%D0%BC%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D1%96%D1%87%D0%BD%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Закрита термодинамічна система – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B0%81%E9%96%89%E7%B3%BB%E7%B5%B1" title="封閉系統 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1468684#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 September 2016, at 14:27.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Closed_system&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.203","ppvisitednodes":{"value":443,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5722,"limit":2097152},"templateargumentsize":{"value":375,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  133.903      1 -total"," 48.80%   65.344      1 Template:Reflist"," 37.08%   49.656      3 Template:Cite_book"," 25.45%   34.075      1 Template:About","  5.86%    7.841      7 Template:Math","  5.41%    7.241      1 Template:Further","  4.03%    5.401      1 Template:Main_article","  3.75%    5.019      1 Template:Sfrac"]},"scribunto":{"limitreport-timeusage":{"value":"0.047","limit":"10.000"},"limitreport-memusage":{"value":1941368,"limit":52428800}},"cachereport":{"origin":"mw1220","timestamp":"20170304120449","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1246"});});</script>
+	</body>
+</html>

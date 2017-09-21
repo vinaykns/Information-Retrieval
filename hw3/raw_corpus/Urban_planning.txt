@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Urban planning - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Urban_planning","wgTitle":"Urban planning","wgCurRevisionId":766086938,"wgRevisionId":766086938,"wgArticleId":46212943,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Use dmy dates from April 2015","Use American English from April 2015","All Wikipedia articles written in American English","Wikipedia articles needing clarification from June 2015","Articles with DMOZ links","Wikipedia articles with GND identifiers","Urban planning"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Urban_planning","wgRelevantArticleId":46212943,"wgRequestId":"WMiOqgpAMFgAAAhdBLcAAAAW","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q69883","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hongkong_central_kowloon-full.jpg/1200px-Hongkong_central_kowloon-full.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Urban_planning"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Urban_planning&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Urban_planning&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Urban_planning"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Urban_planning rootpage-Urban_planning skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Urban planning</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a href="/wiki/File:Hongkong_central_kowloon-full.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hongkong_central_kowloon-full.jpg/280px-Hongkong_central_kowloon-full.jpg" width="280" height="210" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hongkong_central_kowloon-full.jpg/420px-Hongkong_central_kowloon-full.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hongkong_central_kowloon-full.jpg/560px-Hongkong_central_kowloon-full.jpg 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hongkong_central_kowloon-full.jpg" class="internal" title="Enlarge"></a></div>
+Urban planning designs settlements, from the smallest towns to the largest cities. Shown here is <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> from Western District overlooking <a href="/wiki/Kowloon" title="Kowloon">Kowloon</a>, across <a href="/wiki/Victoria_Harbour" title="Victoria Harbour">Victoria Harbour</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a href="/wiki/File:Partizanske4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Partizanske4.jpg/280px-Partizanske4.jpg" width="280" height="210" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Partizanske4.jpg/420px-Partizanske4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Partizanske4.jpg/560px-Partizanske4.jpg 2x" data-file-width="2304" data-file-height="1728" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Partizanske4.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Partiz%C3%A1nske" title="Partizánske">Partizánske</a> in <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> – an example of a typical planned industrial city founded in 1938 together with a shoemaking <a href="/wiki/Factory" title="Factory">factory</a> in which practically all adult inhabitants of the city were employed.</div>
+</div>
+</div>
+<p><b>Urban planning</b> is a technical and political process concerned with the development and <a href="/wiki/Land_use" title="Land use">use of land</a>, <a href="/wiki/Planning_permission" title="Planning permission">planning permission</a>, protection and use of the environment, <a href="/wiki/Public_welfare" class="mw-redirect" title="Public welfare">public welfare</a>, and the <a href="/wiki/Design" title="Design">design</a> of the <a href="/wiki/Urban_environment" class="mw-redirect" title="Urban environment">urban environment</a>, including air, water, and the <a href="/wiki/Urban_infrastructure" class="mw-redirect" title="Urban infrastructure">infrastructure</a> passing into and out of <a href="/wiki/Urban_area" title="Urban area">urban areas</a>, such as <a href="/wiki/Transportation" class="mw-redirect" title="Transportation">transportation</a>, <a href="/wiki/Communication" title="Communication">communications</a>, and <a href="/wiki/Distribution_network" class="mw-redirect" title="Distribution network">distribution networks</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Urban planning is also referred to as <b>urban and regional planning</b>, <b>regional planning</b>, <b>town planning</b>, <b>city planning</b>, <b>rural planning</b> or some combination in various areas worldwide. It takes many forms and it can share perspectives and practices with <a href="/wiki/Urban_design" title="Urban design">urban design</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Urban planning guides orderly development in urban, <a href="/wiki/Suburb" title="Suburb">suburban</a> and <a href="/wiki/Rural_area" title="Rural area">rural areas</a>. Although predominantly concerned with the planning of <a href="/wiki/Human_settlement" title="Human settlement">settlements</a> and communities, urban planning is also responsible for the planning and development of <a href="/wiki/Water_use" title="Water use">water use</a> and resources, rural and agricultural land, parks and conserving areas of natural environmental significance. <a href="/wiki/Urban_planner" title="Urban planner">Practitioners of urban planning</a> are concerned with research and analysis, strategic thinking, <a href="/wiki/Architecture" title="Architecture">architecture</a>, urban design, <a href="/wiki/Public_consultation" title="Public consultation">public consultation</a>, policy recommendations, implementation and management.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>Urban planners work with the cognate fields of architecture, <a href="/wiki/Landscape_architecture" title="Landscape architecture">landscape architecture</a>, <a href="/wiki/Civil_engineering" title="Civil engineering">civil engineering</a>, and <a href="/wiki/Public_administration" title="Public administration">public administration</a> to achieve strategic, policy and sustainability goals. Early urban planners were often members of these cognate fields. Today urban planning is a separate, independent professional discipline. The discipline is the broader category that includes different sub-fields such as <a href="/wiki/Land-use_planning" title="Land-use planning">land-use planning</a>, <a href="/wiki/Zoning" title="Zoning">zoning</a>, <a href="/wiki/Economic_development" title="Economic development">economic development</a>, <a href="/wiki/Environmental_planning" title="Environmental planning">environmental planning</a>, and <a href="/wiki/Transportation_planning" title="Transportation planning">transportation planning</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Theories"><span class="tocnumber">2</span> <span class="toctext">Theories</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Technical_aspects"><span class="tocnumber">3</span> <span class="toctext">Technical aspects</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Urban_planners"><span class="tocnumber">4</span> <span class="toctext">Urban planners</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urban_planning&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Further information: <a href="/wiki/History_of_urban_planning" title="History of urban planning">History of urban planning</a></div>
+<p>There is evidence of urban planning and designed communities dating back to the <a href="/wiki/Mesopotamia" title="Mesopotamia">Mesopotamian</a>, <a href="/wiki/Indus_Valley_Civilization" class="mw-redirect" title="Indus Valley Civilization">Indus Valley</a>, <a href="/wiki/Minoan_Civilization" class="mw-redirect" title="Minoan Civilization">Minoan</a>, and <a href="/wiki/Ancient_Egypt" title="Ancient Egypt">Egyptian</a> civilizations in the third millennium BCE. Archeologists studying the ruins of cities in these areas find paved streets that were laid out at right angles in a grid pattern.<sup id="cite_ref-Davreu1_5-0" class="reference"><a href="#cite_note-Davreu1-5">[5]</a></sup> The idea of a planned out urban area evolved as different civilizations adopted it. Beginning in the 8th century BCE, Greek city states were primarily centered on orthogonal (or grid-like) plans.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The <a href="/wiki/Ancient_Rome" title="Ancient Rome">ancient Romans</a>, inspired by the Greeks, also used orthogonal plans for their cities. City planning in the Roman world was developed for military defense and public convenience. The spread of the Roman Empire subsequently spread the ideas of urban planning. As the Roman Empire declined, these ideas slowly disappeared. However, many cities in Europe still held onto the planned Roman city center. Cities in Europe from the 9th to 14th centuries, often grew organically and sometimes chaotically. But many hundreds of new towns were newly built according to preconceived plans, and many others were enlarged with newly planned extensions. Most of these were realized from the 12th to 14th centuries, with a peak-period at the end of the 13th.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> From the 15th century on, much more is recorded of urban design and the people that were involved. In this period, theoretical treatises on architecture and urban planning start to appear in which theoretical questions are addressed and designs of towns and cities are described and depicted. During the Enlightenment period, several European rulers ambitiously attempted to redesign capital cities. During the <a href="/wiki/Second_French_Republic" class="mw-redirect" title="Second French Republic">Second French Republic</a>, <a href="/wiki/Baron_Georges-Eug%C3%A8ne_Haussmann" class="mw-redirect" title="Baron Georges-Eugène Haussmann">Baron Georges-Eugène Haussmann</a>, under the direction of <a href="/wiki/Napoleon_III" title="Napoleon III">Napoleon III</a>, redesigned the city of <a href="/wiki/Paris" title="Paris">Paris</a> into a more modern capital, with long, straight, wide boulevards.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>Planning and architecture went through a paradigm shift at the turn of the 20th century. The industrialized cities of the 19th century grew at a tremendous rate. The pace and style of this industrial construction was largely dictated by the concerns of private business. The evils of urban life for the <a href="/wiki/Working_poor" title="Working poor">working poor</a> were becoming increasingly evident as a matter for public concern. The <a href="/wiki/Laissez-faire" title="Laissez-faire">laissez-faire</a> style of government management of the economy, in fashion for most of the <a href="/wiki/Victorian_era" title="Victorian era">Victorian era</a>, was starting to give way to a <a href="/wiki/Social_liberalism" title="Social liberalism">New Liberalism</a> that championed intervention on the part of the poor and disadvantaged. Around 1900, theorists began developing urban planning models to mitigate the consequences of the <a href="/wiki/Industrial_age" class="mw-redirect" title="Industrial age">industrial age</a>, by providing citizens, especially factory workers, with healthier environments.</p>
+<p>Urban planning started to become professionalized during this time. The <a href="/wiki/Town_and_Country_Planning_Association" title="Town and Country Planning Association">Town and Country Planning Association</a> was founded in 1899 and the first academic course on urban planning was offered by the <a href="/wiki/University_of_Liverpool" title="University of Liverpool">University of Liverpool</a> in 1909.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> In the 1920s, the ideas of <a href="/wiki/Modernism" title="Modernism">modernism</a> and uniformity began to surface in urban planning, and lasted until the 1970s. Many planners started to believe that the ideas of modernism in urban planning led to higher crime rates and social problems.<sup id="cite_ref-Smith_Morris_1997_10-0" class="reference"><a href="#cite_note-Smith_Morris_1997-10">[10]</a></sup> Urban planners now focus more on individualism and diversity in urban centers.</p>
+<h2><span class="mw-headline" id="Theories">Theories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urban_planning&amp;action=edit&amp;section=2" title="Edit section: Theories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Theories_of_urban_planning" title="Theories of urban planning">Theories of urban planning</a></div>
+<p>Planning theory is the body of scientific concepts, definitions, behavioral relationships, and assumptions that define the body of knowledge of urban planning. There are eight procedural theories of planning that remain the principal theories of planning procedure today: the rational-comprehensive approach, the incremental approach, the transactive approach, the communicative approach, the advocacy approach, the equity approach, the radical approach, and the humanist or phenomenological approach.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Technical_aspects">Technical aspects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urban_planning&amp;action=edit&amp;section=3" title="Edit section: Technical aspects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Technical_aspects_of_urban_planning" title="Technical aspects of urban planning">Technical aspects of urban planning</a></div>
+<p>Technical aspects of urban planning involve the applying scientific, technical processes, considerations and features that are involved in planning for <a href="/wiki/Land_use" title="Land use">land use</a>, <a href="/wiki/Urban_design" title="Urban design">urban design</a>, <a href="/wiki/Natural_resources" class="mw-redirect" title="Natural resources">natural resources</a>, <a href="/wiki/Transportation" class="mw-redirect" title="Transportation">transportation</a>, and <a href="/wiki/Infrastructure" title="Infrastructure">infrastructure</a>. Urban planning includes techniques such as: predicting population growth, zoning, geographic mapping and analysis, analyzing park space, surveying the water supply, identifying transportation patterns, recognizing food supply demands, allocating healthcare and social services, and analyzing the impact of land use.</p>
+<h2><span class="mw-headline" id="Urban_planners">Urban planners</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urban_planning&amp;action=edit&amp;section=4" title="Edit section: Urban planners">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Urban_planner" title="Urban planner">Urban planner</a></div>
+<p>An urban planner is a professional who works in the field of urban planning for the purpose of optimizing the effectiveness of a community's land use and infrastructure. They formulate plans for the development and management of urban and suburban areas, typically analyzing land use compatibility as well as economic, environmental and social trends. In developing the plan for a community (whether commercial, residential, agricultural, natural or recreational), urban planners must also consider a wide array of issues such as sustainability, air pollution, traffic congestion, crime, land values, legislation and <a href="/wiki/Zoning" title="Zoning">zoning</a> codes.</p>
+<p>The importance of the urban planner is increasing throughout the 21st century, as modern society begins to face issues of increased population growth, climate change and unsustainable development. An urban planner could be considered a <a href="/wiki/Green-collar_worker" title="Green-collar worker">green collar</a> professional.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (June 2015)">clarification needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urban_planning&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:P_parthenon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/31px-P_parthenon.svg.png" width="31" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/47px-P_parthenon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/62px-P_parthenon.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Architecture" title="Portal:Architecture">Architecture portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Development_studies" title="Development studies">Development studies</a></li>
+<li><a href="/wiki/Distinguished_Canadian_Planners" title="Distinguished Canadian Planners">Distinguished Canadian Planners</a></li>
+<li><a href="/wiki/Index_of_urban_planning_articles" title="Index of urban planning articles">Index of urban planning articles</a></li>
+<li><a href="/wiki/List_of_planned_cities" title="List of planned cities">List of planned cities</a></li>
+<li><a href="/wiki/List_of_planning_journals" title="List of planning journals">List of planning journals</a></li>
+<li><a href="/wiki/List_of_urban_planners" title="List of urban planners">List of urban planners</a></li>
+<li><a href="/wiki/List_of_urban_theorists" title="List of urban theorists">List of urban theorists</a></li>
+<li><a href="/wiki/Regional_planning" title="Regional planning">Regional planning</a></li>
+<li><a href="/wiki/Rural_development" title="Rural development">Rural development</a></li>
+<li><a href="/wiki/Urban_history" title="Urban history">Urban history</a></li>
+<li><a href="/wiki/Urban_informatics" title="Urban informatics">Urban informatics</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urban_planning&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://mcgill.ca/urbanplanning/planning">"What is Urban Planning"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 24,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUrban+planning&amp;rft.btitle=What+is+Urban+Planning&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fmcgill.ca%2Furbanplanning%2Fplanning&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Van Assche, K., Beunen, R., Duineveld, M., &amp; de Jong, H. (2013). Co-evolutions of planning and design: Risks and benefits of design perspectives in planning systems. Planning Theory, 12(2), 177-198.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Taylor, Nigel (2007). <i>Urban Planning Theory since 1945</i>, London, Sage.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.planning.org/aboutplanning/whatisplanning.htm">"What Is Planning?"</a>. <i>www.planning.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUrban+planning&amp;rft.atitle=What+Is+Planning%3F&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.planning.org%2Faboutplanning%2Fwhatisplanning.htm&amp;rft.jtitle=www.planning.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Davreu1-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Davreu1_5-0">^</a></b></span> <span class="reference-text">Davreu, Robert (1978). "Cities of Mystery: The Lost Empire of the Indus Valley". <i>The World’s Last Mysteries</i>. (second edition). Sydney: Readers’ Digest. pp. 121-129. <a href="/wiki/Special:BookSources/0909486611" class="internal mw-magiclink-isbn">ISBN 0-909486-61-1</a>.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Kolb, Frank (1984). Die Stadt im Altertum. München: Verlag C.H. Beck. pp. 51-141: Morris, A.E.J. (1972). History of Urban Form. Prehistory to the Renaissance. London. pp. 22-23.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Boerefijn, Wim (2010). <a rel="nofollow" class="external text" href="http://dare.uva.nl/en/record/336940"><i>The foundation, planning and building of new towns in the 13th and 14th centuries in Europe. An architectural-historical research into urban form and its creation.</i></a> Phd. thesis Universiteit van Amsterdam. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-9025157-8" title="Special:BookSources/978-90-9025157-8">978-90-9025157-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUrban+planning&amp;rft.aufirst=Wim&amp;rft.aulast=Boerefijn&amp;rft.btitle=The+foundation%2C+planning+and+building+of+new+towns+in+the+13th+and+14th+centuries+in+Europe.+An+architectural-historical+research+into+urban+form+and+its+creation.&amp;rft.date=2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdare.uva.nl%2Fen%2Frecord%2F336940&amp;rft.isbn=978-90-9025157-8&amp;rft.pub=Phd.+thesis+Universiteit+van+Amsterdam&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jordan, David (1992). "Baron Haussmann and Modern Paris". <i>American Scholar</i>. <b>61</b> (1): 99.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUrban+planning&amp;rft.atitle=Baron+Haussmann+and+Modern+Paris&amp;rft.aufirst=David&amp;rft.aulast=Jordan&amp;rft.date=1992&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=American+Scholar&amp;rft.pages=99&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=61" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.britannica.com/EBchecked/topic/619445/urban-planning">"urban planning"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUrban+planning&amp;rft.btitle=urban+planning&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.britannica.com%2FEBchecked%2Ftopic%2F619445%2Furban-planning&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Smith_Morris_1997-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Smith_Morris_1997_10-0">^</a></b></span> <span class="reference-text">Smith Morris et al. <i>British Town Planning and Urban Design</i>, 1997, <a href="/wiki/Special:BookSources/0582234964" class="internal mw-magiclink-isbn">ISBN 0-582-23496-4</a>, Longman, Singapore.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.planetizen.com/node/73570/how-planners-use-planning-theory">"How Planners Use Planning Theory"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 24,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUrban+planning&amp;rft.btitle=How+Planners+Use+Planning+Theory&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.planetizen.com%2Fnode%2F73570%2Fhow-planners-use-planning-theory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urban_planning&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFPennington2008" class="citation encyclopaedia"><a href="/wiki/Mark_Pennington" title="Mark Pennington">Pennington, Mark</a> (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=yxNgXs3TkJYC">"Urban planning"</a>. In <a href="/wiki/Ronald_Hamowy" title="Ronald Hamowy">Hamowy, Ronald</a>. <i>The Encyclopedia of Libertarianism</i>. Thousand Oaks, CA: <a href="/wiki/SAGE_Publications" title="SAGE Publications">SAGE</a>; <a href="/wiki/Cato_Institute" title="Cato Institute">Cato Institute</a>. pp.&#160;517–18. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.4135%2F9781412965811.n316">10.4135/9781412965811.n316</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4129-6580-4" title="Special:BookSources/978-1-4129-6580-4">978-1-4129-6580-4</a>. <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>&#160;<a rel="nofollow" class="external text" href="//lccn.loc.gov/2008009151">2008009151</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/750831024">750831024</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUrban+planning&amp;rft.atitle=Urban+planning&amp;rft.aufirst=Mark&amp;rft.aulast=Pennington&amp;rft.btitle=The+Encyclopedia+of+Libertarianism&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DyxNgXs3TkJYC&amp;rft_id=info%3Adoi%2F10.4135%2F9781412965811.n316&amp;rft_id=info%3Alccn%2F2008009151&amp;rft_id=info%3Aoclcnum%2F750831024&amp;rft.isbn=978-1-4129-6580-4&amp;rft.pages=517-18&amp;rft.place=Thousand+Oaks%2C+CA&amp;rft.pub=SAGE%3B+Cato+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urban_planning&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-labelledby="sister-projects" class="metadata plainlinks plainlist mbox-small" style="overflow:hidden; border:1px solid #aaa; padding:0.75em; background:#f9f9f9;">
+<div style="padding-bottom: 0.75em; text-align: center;">Find more about<b style="display:block;">Urban planning</b>at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a></div>
+<ul style="border-top:1px solid #aaa; padding-top: 0.75em;">
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://commons.wikimedia.org/wiki/Category:Urban_studies_and_planning" class="extiw" title="c:Category:Urban studies and planning">Media</a> from Commons</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/27px-Wikiversity-logo-en.svg.png" width="27" height="24" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/41px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/54px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiversity.org/wiki/Portal:Urban_studies_and_planning" class="extiw" title="v:Portal:Urban studies and planning">Learning resources</a> from Wikiversity</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/27px-Wikidata-logo.svg.png" width="27" height="15" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/41px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/54px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://www.wikidata.org/wiki/Q69883" class="extiw" title="d:Q69883">Data</a> from Wikidata</span></li>
+</ul>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://dmoztools.net/Science/Social_Sciences/Urban_and_Regional_Planning/Directories/">Urban planning</a> at <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Urban_planning" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Urban_Planning" title="Template:Urban Planning"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Urban_Planning" title="Template talk:Urban Planning"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Urban_Planning&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Urban_planning" style="font-size:114%;margin:0 4em"><strong class="selflink">Urban planning</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Land_use" title="Land use">Land use</a></li>
+<li><a href="/wiki/Planning_permission" title="Planning permission">Planning permission</a></li>
+<li><a href="/wiki/Planning_and_zoning_commission" title="Planning and zoning commission">Planning and zoning commission</a></li>
+<li><a href="/wiki/Growth_management" title="Growth management">Growth management</a></li>
+<li><a href="/wiki/Development_economics" title="Development economics">Development economics</a></li>
+<li><a href="/wiki/Social_sciences" class="mw-redirect" title="Social sciences">Social sciences</a></li>
+<li><a href="/wiki/Public_policy" title="Public policy">Public policy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Major<br />
+branches</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7em"><strong class="selflink">Urban</strong></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Land-use_planning" title="Land-use planning">Land-use planning</a></li>
+<li><a href="/wiki/Comprehensive_planning" title="Comprehensive planning">Comprehensive planning</a> (US)</li>
+<li><a href="/wiki/Spatial_planning" title="Spatial planning">Spatial planning</a> (Eur)</li>
+<li><a href="/wiki/Planned_cities" class="mw-redirect" title="Planned cities">Planned cities</a></li>
+<li><a href="/wiki/Planned_community" title="Planned community">Planned community</a> / <a href="/wiki/Model_village" title="Model village">Model village</a></li>
+<li><a href="/wiki/Redevelopment" title="Redevelopment">Redevelopment</a></li>
+<li><a href="/wiki/Urban_design" title="Urban design">Urban design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Rural</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Conservation_development" title="Conservation development">Conservation development</a></li>
+<li><a href="/wiki/Preservation_development" title="Preservation development">Preservation development</a></li>
+<li><a href="/wiki/Rural_housing" title="Rural housing">Rural housing</a></li>
+<li><a href="/wiki/Village_design_statement" title="Village design statement">Village design statement</a> (UK)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em"><a href="/wiki/Regional_planning" title="Regional planning">Regional</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Regional_Planning_Association_of_America" title="Regional Planning Association of America">Regional Planning Association of America</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em"><a href="/wiki/Environmental_planning" title="Environmental planning">Environmental</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a></li>
+<li><a href="/wiki/Environmental_planning" title="Environmental planning">Environmental planning</a></li>
+<li><a href="/wiki/Recreation_resource_planning" title="Recreation resource planning">Recreation resource planning</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em"><a href="/wiki/Transportation_planning" title="Transportation planning">Transportation planning</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Transportation_forecasting" title="Transportation forecasting">Transportation forecasting</a></li>
+<li><a href="/wiki/Trip_distribution" title="Trip distribution">Trip distribution</a></li>
+<li><a href="/wiki/Rational_planning_model" title="Rational planning model">Rational planning model</a></li>
+<li><a href="/wiki/Transit-oriented_development" title="Transit-oriented development">Transit-oriented development</a></li>
+<li><a href="/wiki/Professional_transportation_planner" title="Professional transportation planner">Professional transportation planner</a></li>
+<li><a href="/wiki/Urban_freight_distribution" title="Urban freight distribution">Urban freight distribution</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em"><a href="/wiki/Economic_Development" class="mw-redirect" title="Economic Development">Economic Development</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Community_economic_development" title="Community economic development">Community economic development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts/<br />
+theories</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Movements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Athens_Charter" title="Athens Charter">Athens Charter</a></li>
+<li><a href="/wiki/Car-free_movement" title="Car-free movement">Car-free movement</a></li>
+<li><a href="/wiki/City_Beautiful_movement" title="City Beautiful movement">City Beautiful movement</a></li>
+<li><a href="/wiki/Dark-sky_movement" title="Dark-sky movement">Dark-sky movement</a></li>
+<li><a href="/wiki/Garden_city_movement" title="Garden city movement">Garden city movement</a></li>
+<li><a href="/wiki/Indigenous_planning" title="Indigenous planning">Indigenous planning</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">New Urbanism</a></li>
+<li><a href="/wiki/Settlement_movement" title="Settlement movement">Settlement movement</a></li>
+<li><a href="/wiki/Smart_Growth" class="mw-redirect" title="Smart Growth">Smart Growth</a></li>
+<li><a href="/wiki/Structuralism_(architecture)" title="Structuralism (architecture)">Structuralism</a></li>
+<li><a href="/wiki/Transition_towns" class="mw-redirect" title="Transition towns">Transition towns</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em"><a href="/wiki/Theories_of_urban_planning" title="Theories of urban planning">Theories</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Collaborative_planning" class="mw-redirect" title="Collaborative planning">Collaborative planning</a></li>
+<li><a href="/wiki/Context_theory" title="Context theory">Context theory</a></li>
+<li><a href="/wiki/Ekistics" title="Ekistics">Ekistics</a></li>
+<li><a href="/wiki/Principles_of_Intelligent_Urbanism" class="mw-redirect" title="Principles of Intelligent Urbanism">Intelligent urbanism</a></li>
+<li><a href="/wiki/Livable_streets" class="mw-redirect" title="Livable streets">Livable streets</a></li>
+<li><a href="/wiki/Radical_planning" title="Radical planning">Radical planning</a></li>
+<li><a href="/wiki/Urban_acupuncture" title="Urban acupuncture">Urban acupuncture</a></li>
+<li><a href="/wiki/Urban_renewal" title="Urban renewal">Urban renewal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Affordable_housing" title="Affordable housing">Affordable housing</a></li>
+<li><a href="/wiki/Cityscape" title="Cityscape">Cityscape</a></li>
+<li><a href="/wiki/Cluster_development" title="Cluster development">Cluster development</a></li>
+<li><a href="/wiki/Creative_city" title="Creative city">Creative city</a></li>
+<li><a href="/wiki/Company_town" title="Company town">Company town</a></li>
+<li><a href="/wiki/Complete_Communities" class="mw-redirect" title="Complete Communities">Complete Communities</a></li>
+<li><a href="/wiki/Eminent_domain" title="Eminent domain">Eminent domain</a> (US)</li>
+<li><a href="/wiki/Gentrification" title="Gentrification">Gentrification</a></li>
+<li><a href="/wiki/Infill" title="Infill">Infill</a></li>
+<li><a href="/wiki/Healthy_city" title="Healthy city">Healthy cities</a> / <a href="/wiki/Healthy_community_design" title="Healthy community design">Healthy community design</a></li>
+<li><a href="/wiki/LEED-ND" class="mw-redirect" title="LEED-ND">LEED-ND</a></li>
+<li><a href="/wiki/Mixed-use_development" title="Mixed-use development">Mixed-use development</a></li>
+<li><a href="/wiki/Model_Cities_Program" title="Model Cities Program">Model cities</a></li>
+<li><a href="/wiki/New_town" class="mw-redirect" title="New town">New town</a></li>
+<li><a href="/wiki/Placemaking" title="Placemaking">Placemaking</a></li>
+<li><a href="/wiki/Planned_community" title="Planned community">Planned community</a></li>
+<li><a href="/wiki/Planning_gain" title="Planning gain">Planning gain</a></li>
+<li><a href="/wiki/Suburbia" class="mw-redirect" title="Suburbia">Suburbia</a></li>
+<li><a href="/wiki/Temporary_use" title="Temporary use">Temporary use</a></li>
+<li><a href="/wiki/Third_place" title="Third place">Third place</a></li>
+<li><a href="/wiki/Urban_sprawl" title="Urban sprawl">Urban sprawl</a></li>
+<li><a href="/wiki/Urbanization" title="Urbanization">Urbanization</a></li>
+<li><a href="/wiki/Zoning" title="Zoning">Zoning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">People</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Theorists/<br />
+practitioners</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Thomas_Adams_(architect)" title="Thomas Adams (architect)">Thomas Adams</a></li>
+<li><a href="/wiki/Donald_Appleyard" title="Donald Appleyard">Donald Appleyard</a></li>
+<li><a href="/wiki/Edmund_Bacon_(architect)" title="Edmund Bacon (architect)">Edmund Bacon</a></li>
+<li><a href="/wiki/Guy_Benveniste" title="Guy Benveniste">Guy Benveniste</a></li>
+<li><a href="/wiki/Colin_Buchanan_(town_planner)" title="Colin Buchanan (town planner)">Colin Buchanan</a></li>
+<li><a href="/wiki/Daniel_Burnham" title="Daniel Burnham">Daniel Burnham</a></li>
+<li><a href="/wiki/Peter_Calthorpe" title="Peter Calthorpe">Peter Calthorpe</a></li>
+<li><a href="/wiki/Konstantinos_Apostolos_Doxiadis" class="mw-redirect" title="Konstantinos Apostolos Doxiadis">Konstantinos Doxiadis</a></li>
+<li><a href="/wiki/Andr%C3%A9s_Duany" title="Andrés Duany">Andrés Duany</a></li>
+<li><a href="/wiki/Patrick_Geddes" title="Patrick Geddes">Patrick Geddes</a></li>
+<li><a href="/wiki/Ebenezer_Howard" title="Ebenezer Howard">Ebenezer Howard</a></li>
+<li><a href="/wiki/Kevin_A._Lynch" title="Kevin A. Lynch">Kevin A. Lynch</a></li>
+<li><a href="/wiki/Ian_McHarg" title="Ian McHarg">Ian McHarg</a></li>
+<li><a href="/wiki/Clarence_Perry" title="Clarence Perry">Clarence Perry</a></li>
+<li><a href="/wiki/James_Rouse" title="James Rouse">James Rouse</a></li>
+<li><a href="/wiki/Clarence_Stein" title="Clarence Stein">Clarence Stein</a></li>
+<li><a href="/wiki/Raymond_Unwin" title="Raymond Unwin">Raymond Unwin</a></li>
+<li><a href="/wiki/List_of_urban_theorists" title="List of urban theorists">List of urban theorists</a></li>
+<li><a href="/wiki/List_of_urban_planners" title="List of urban planners">List of urban planners</a></li>
+</ul>
+<ul>
+<li class="mw-empty-elt"></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Critics</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Elizabeth_Farrelly" title="Elizabeth Farrelly">Elizabeth Farrelly</a></li>
+<li><a href="/wiki/Jane_Jacobs" title="Jane Jacobs">Jane Jacobs</a></li>
+<li><a href="/wiki/James_Howard_Kunstler" title="James Howard Kunstler">James Howard Kunstler</a></li>
+<li><a href="/wiki/Lewis_Mumford" title="Lewis Mumford">Lewis Mumford</a></li>
+<li><a href="/wiki/Randal_O%27Toole" title="Randal O'Toole">Randal O'Toole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related<br />
+disciplines</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Architecture" title="Architecture">Architecture</a></li>
+<li><a href="/wiki/Civil_engineering" title="Civil engineering">Civil engineering</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Geography" title="Geography">Geography</a></li>
+<li><a href="/wiki/Land_development" title="Land development">Land development</a></li>
+<li><a href="/wiki/Landscape_architecture" title="Landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Marine_spatial_planning" title="Marine spatial planning">Marine spatial planning</a></li>
+<li><a href="/wiki/Public_health" title="Public health">Public health</a></li>
+<li><a href="/wiki/Real_estate_development" title="Real estate development">Real estate development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Urban_planning" title="Category:Urban planning">Category</a></b></li>
+<li><a href="/wiki/Index_of_urban_planning_articles" title="Index of urban planning articles">Index of urban planning articles</a></li>
+<li><a href="/wiki/List_of_planned_cities" title="List of planned cities">List of planned cities</a></li>
+<li><a href="/wiki/List_of_planning_journals" title="List of planning journals">List of planning journals</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Urban_planning" class="extiw" title="commons:Category:Urban planning"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Social_sciences" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Social_sciences" title="Template:Social sciences"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Social_sciences" title="Template talk:Social sciences"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Social_sciences&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Social_sciences" style="font-size:114%;margin:0 4em"><a href="/wiki/Social_science" title="Social science">Social sciences</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Primary</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropology" title="Anthropology">Anthropology</a>
+<ul>
+<li><a href="/wiki/Archaeology" title="Archaeology">archaeology</a></li>
+<li><a href="/wiki/Cultural_anthropology" title="Cultural anthropology">cultural</a></li>
+<li><a href="/wiki/Linguistics" title="Linguistics">linguistics</a></li>
+<li><a href="/wiki/Social_anthropology" title="Social anthropology">social</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Economics" title="Economics">Economics</a>
+<ul>
+<li><a href="/wiki/Microeconomics" title="Microeconomics">microeconomics</a></li>
+<li><a href="/wiki/Macroeconomics" title="Macroeconomics">macroeconomics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Geography" title="Geography">Geography</a>
+<ul>
+<li><a href="/wiki/Human_geography" title="Human geography">human</a></li>
+<li><a href="/wiki/Integrated_geography" title="Integrated geography">integrative</a></li>
+</ul>
+</li>
+<li><a href="/wiki/History" title="History">History</a>
+<ul>
+<li><a href="/wiki/Cultural_history" title="Cultural history">cultural</a></li>
+<li><a href="/wiki/Economic_history" title="Economic history">economic</a></li>
+<li><a href="/wiki/Political_history" title="Political history">political</a></li>
+<li><a href="/wiki/Social_history" title="Social history">social</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Law" title="Law">Law</a>
+<ul>
+<li><a href="/wiki/Jurisprudence" title="Jurisprudence">jurisprudence</a></li>
+<li><a href="/wiki/Legal_history" title="Legal history">legal history</a></li>
+<li><a href="/wiki/List_of_national_legal_systems" title="List of national legal systems">legal systems</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Political_science" title="Political science">Political science</a>
+<ul>
+<li><a href="/wiki/International_relations" title="International relations">international relations</a></li>
+<li><a href="/wiki/Psephology" title="Psephology">psephology</a></li>
+<li><a href="/wiki/Public_administration" title="Public administration">public administration</a></li>
+<li><a href="/wiki/Public_policy" title="Public policy">public policy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Psychology" title="Psychology">Psychology</a>
+<ul>
+<li><a href="/wiki/Abnormal_psychology" title="Abnormal psychology">abnormal</a></li>
+<li><a href="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">biological</a></li>
+<li><a href="/wiki/Cognitive_psychology" title="Cognitive psychology">cognitive</a></li>
+<li><a href="/wiki/Developmental_psychology" title="Developmental psychology">developmental</a></li>
+<li><a href="/wiki/Personality_psychology" title="Personality psychology">personality</a></li>
+<li><a href="/wiki/Social_psychology" title="Social psychology">social</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sociology" title="Sociology">Sociology</a>
+<ul>
+<li><a href="/wiki/Criminology" title="Criminology">criminology</a></li>
+<li><a href="/wiki/Demography" title="Demography">demography</a></li>
+<li><a href="/wiki/Sociology_of_the_Internet" title="Sociology of the Internet">internet</a></li>
+<li><a href="/wiki/Rural_sociology" title="Rural sociology">rural</a></li>
+<li><a href="/wiki/Urban_sociology" title="Urban sociology">urban</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Interdisciplinary</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthrozoology" title="Anthrozoology">Anthrozoology</a></li>
+<li><a href="/wiki/Area_studies" title="Area studies">Area studies</a></li>
+<li><a href="/wiki/Business_studies" title="Business studies">Business studies</a></li>
+<li><a href="/wiki/Cognitive_science" title="Cognitive science">Cognitive science</a></li>
+<li><a href="/wiki/Communication_studies" title="Communication studies">Communication studies</a></li>
+<li><a href="/wiki/Community_studies" title="Community studies">Community studies</a></li>
+<li><a href="/wiki/Cultural_studies" title="Cultural studies">Cultural studies</a></li>
+<li><a href="/wiki/Development_studies" title="Development studies">Development studies</a></li>
+<li><a href="/wiki/Education" title="Education">Education</a></li>
+<li>Environmental (<a href="/wiki/Environmental_social_science" title="Environmental social science">social science</a></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">studies</a>)</li>
+<li><a href="/wiki/Food_studies" title="Food studies">Food studies</a></li>
+<li><a href="/wiki/Gender_studies" title="Gender studies">Gender studies</a></li>
+<li><a href="/wiki/Global_studies" title="Global studies">Global studies</a></li>
+<li><a href="/wiki/History_of_technology" title="History of technology">History of technology</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/Information_science" title="Information science">Information science</a></li>
+<li><a href="/wiki/International_studies" title="International studies">International studies</a></li>
+<li><a href="/wiki/Media_studies" title="Media studies">Media studies</a></li>
+<li><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Philosophy of science</a>
+<ul>
+<li><a href="/wiki/Philosophy_and_economics" title="Philosophy and economics">economics</a></li>
+<li><a href="/wiki/Philosophy_of_history" title="Philosophy of history">history</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">psychology</a></li>
+<li><a href="/wiki/Philosophy_of_social_science" title="Philosophy of social science">social science</a></li>
+</ul>
+</li>
+<li>Planning
+<ul>
+<li><a href="/wiki/Land-use_planning" title="Land-use planning">land use</a></li>
+<li><a href="/wiki/Regional_planning" title="Regional planning">regional</a></li>
+<li><strong class="selflink">urban</strong></li>
+</ul>
+</li>
+<li><a href="/wiki/Political_ecology" title="Political ecology">Political ecology</a></li>
+<li><a href="/wiki/Political_economy" title="Political economy">Political economy</a></li>
+<li><a href="/wiki/Public_health" title="Public health">Public health</a></li>
+<li><a href="/wiki/Regional_science" title="Regional science">Regional science</a></li>
+<li><a href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science and technology studies</a></li>
+<li><a href="/wiki/Science_studies" title="Science studies">Science studies</a>
+<ul>
+<li><a href="/wiki/History_of_science" title="History of science">historical</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Social_work" title="Social work">Social work</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other categorizations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Humanities" title="Humanities">Humanities</a></li>
+<li><i><a href="/wiki/Geisteswissenschaft" title="Geisteswissenschaft">Geisteswissenschaft</a></i></li>
+<li><a href="/wiki/Human_science" title="Human science">Human science</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Index_of_sociology_articles" title="Index of sociology articles">Index</a></li>
+<li><a href="/wiki/List_of_social_science_journals" title="List of social science journals">Journals</a></li>
+<li><a href="/wiki/Outline_of_social_science" title="Outline of social science">Outline</a></li>
+<li><a href="https://en.wikiversity.org/wiki/Portal:Social_Sciences" class="extiw" title="wikiversity:Portal:Social Sciences">Wikiversity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4056754-0">4056754-0</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00573354">00573354</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1220
+Cached time: 20170315003934
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.298 seconds
+Preprocessor visited node count: 1260/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73340/2097152 bytes
+Template argument size: 1104/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.085/10.000 seconds
+Lua memory usage: 4.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  222.547      1 -total
+ 24.03%   53.474      1 Template:Reflist
+ 18.09%   40.265      1 Template:Clarify
+ 17.10%   38.062      1 Template:Fix-span
+ 15.48%   34.451      4 Template:Cite_web
+ 14.68%   32.668      5 Template:Navbox
+ 13.06%   29.071      1 Template:Land-use_planning
+ 10.75%   23.921      1 Template:Authority_control
+  9.46%   21.048      2 Template:Category_handler
+  9.06%   20.158      1 Template:Use_dmy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:46212943-0!*!0!!en!4!* and timestamp 20170315003934 and revision id 766086938
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Urban_planning&amp;oldid=766086938">https://en.wikipedia.org/w/index.php?title=Urban_planning&amp;oldid=766086938</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Urban_planning" title="Category:Urban planning">Urban planning</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2015" title="Category:Use dmy dates from April 2015">Use dmy dates from April 2015</a></li><li><a href="/wiki/Category:Use_American_English_from_April_2015" title="Category:Use American English from April 2015">Use American English from April 2015</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">All Wikipedia articles written in American English</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_June_2015" title="Category:Wikipedia articles needing clarification from June 2015">Wikipedia articles needing clarification from June 2015</a></li><li><a href="/wiki/Category:Articles_with_DMOZ_links" title="Category:Articles with DMOZ links">Articles with DMOZ links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Urban+planning" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Urban+planning" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Urban_planning"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Urban_planning"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Urban_planning" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Urban_planning&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Urban_planning&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Urban_planning" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Urban_planning" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Urban_planning&amp;oldid=766086938" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Urban_planning&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q69883" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Urban_planning&amp;id=766086938" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Urban+planning">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Urban+planning&amp;returnto=Urban+planning&amp;oldid=766086938&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Urban_planning&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Urban_studies_and_planning" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D8%B9%D9%85%D8%B1%D8%A7%D9%86%D9%8A" title="تخطيط عمراني – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A8%E0%A6%97%E0%A6%B0_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A6%BE" title="নগর পরিকল্পনা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/To%CD%98-chh%C4%AB_k%C3%A8-o%C4%93" title="To͘-chhī kè-oē – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D0%B5" title="Гарадское планаванне – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D0%BE%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Градоустройство – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Urbano_planiranje" title="Urbano planiranje – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/K%C3%AAraozouriezh" title="Kêraozouriezh – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Planejament_urban%C3%ADstic" title="Planejament urbanístic – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Cynllunio_tref" title="Cynllunio tref – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Byplanl%C3%A6gning" title="Byplanlægning – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Stadtplanung" title="Stadtplanung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Planeering" title="Planeering – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%BF%CE%BB%CE%B5%CE%BF%CE%B4%CE%BF%CE%BC%CE%AF%CE%B1" title="Πολεοδομία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Planeamiento_urban%C3%ADstico" title="Planeamiento urbanístico – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Urboplanado" title="Urboplanado – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://eu.wikipedia.org/wiki/Hirigintza" title="Hirigintza – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D8%B1%DB%8C%D8%B2%DB%8C_%D8%B4%D9%87%D8%B1%DB%8C" title="برنامه‌ریزی شهری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Urbanisme" title="Urbanisme – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Planificaci%C3%B3n_urban%C3%ADstica" title="Planificación urbanística – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8F%84%EC%8B%9C_%EA%B3%84%ED%9A%8D" title="도시 계획 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%94%D5%A1%D5%B2%D5%A1%D6%84%D5%A1%D5%B7%D5%AB%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" title="Քաղաքաշինություն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%97%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8" title="नगरीय नियोजन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Urbanisti%C4%8Dko_planiranje" title="Urbanističko planiranje – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Perencanaan_perkotaan" title="Perencanaan perkotaan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Borgarskipulagning" title="Borgarskipulagning – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Urbanistica" title="Urbanistica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%A2%D7%A8%D7%99%D7%9D_%D7%95%D7%90%D7%96%D7%95%D7%A8%D7%99%D7%9D" title="תכנון ערים ואזורים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%95%D0%BB%D0%B4%D1%96_%D0%BC%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%B4%D1%96_%D0%BA%D3%A9%D1%80%D1%96%D0%BA%D1%82%D0%B5%D0%BD%D0%B4%D1%96%D1%80%D1%83" title="Елді мекендерді көріктендіру – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Mipango_miji" title="Mipango miji – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BA%9C%E0%BA%B1%E0%BA%87%E0%BB%80%E0%BA%A1%E0%BA%B7%E0%BA%AD%E0%BA%87" title="ການຜັງເມືອງ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Miest%C5%B3_planavimas" title="Miestų planavimas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mk badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://mk.wikipedia.org/wiki/%D0%A3%D1%80%D0%B1%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D0%BC" title="Урбанизам – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B4%97%E0%B4%B0%E0%B4%BE%E0%B4%B8%E0%B5%82%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%A3%E0%B4%82" title="നഗരാസൂത്രണം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8_%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80" title="विकास समिती – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Perancangan_bandar" title="Perancangan bandar – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Planologie" title="Planologie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB" title="都市計画 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Byplanlegging" title="Byplanlegging – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Byplanlegging" title="Byplanlegging – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Planificacion_urbana" title="Planificacion urbana – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Shaharsozlik" title="Shaharsozlik – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Planejamento_urbano" title="Planejamento urbano – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Planificare_urban%C4%83" title="Planificare urbană – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE" title="Градостроительство – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Urbanistika" title="Urbanistika – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Urban_planning" title="Urban planning – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%BE%D9%84%D8%A7%D9%86%D8%AF%D8%A7%D9%86%D8%A7%D9%86%DB%8C_%D8%B4%D8%A7%D8%B1%DB%8C" title="پلاندانانی شاری – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Urbanisti%C4%8Dko_planiranje" title="Urbanističko planiranje – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Urbanisti%C4%8Dko_planiranje" title="Urbanističko planiranje – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kaupunkisuunnittelu" title="Kaupunkisuunnittelu – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Stadsplanering" title="Stadsplanering – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Pagpaplano_ng_lungsod" title="Pagpaplano ng lungsod – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%95%E0%AE%B0%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AE%BF%E0%AE%9F%E0%AE%B2%E0%AF%8D" title="நகரத் திட்டமிடல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87" title="การผังเมือง – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kentsel_planlama" title="Kentsel planlama – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D1%81%D1%82%D0%BE%D0%B1%D1%83%D0%B4%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Містобудування – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B9%D9%85%D8%B1%D8%A7%D9%86%DB%8C_%D8%B7%D8%B1%D8%AD%D8%A8%D9%86%D8%AF%DB%8C" title="عمرانی طرحبندی – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Quy_ho%E1%BA%A1ch_%C4%91%C3%B4_th%E1%BB%8B" title="Quy hoạch đô thị – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%9F%8E%E5%B8%82%E8%A6%8F%E5%8A%83" title="城市規劃 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%92" title="城市规划 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q69883#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 February 2017, at 04:21.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Urban_planning&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.298","ppvisitednodes":{"value":1260,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73340,"limit":2097152},"templateargumentsize":{"value":1104,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  222.547      1 -total"," 24.03%   53.474      1 Template:Reflist"," 18.09%   40.265      1 Template:Clarify"," 17.10%   38.062      1 Template:Fix-span"," 15.48%   34.451      4 Template:Cite_web"," 14.68%   32.668      5 Template:Navbox"," 13.06%   29.071      1 Template:Land-use_planning"," 10.75%   23.921      1 Template:Authority_control","  9.46%   21.048      2 Template:Category_handler","  9.06%   20.158      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.085","limit":"10.000"},"limitreport-memusage":{"value":4559968,"limit":52428800}},"cachereport":{"origin":"mw1220","timestamp":"20170315003934","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1253"});});</script>
+	</body>
+</html>

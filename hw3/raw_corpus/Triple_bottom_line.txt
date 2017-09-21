@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Triple bottom line - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Triple_bottom_line","wgTitle":"Triple bottom line","wgCurRevisionId":756072442,"wgRevisionId":756072442,"wgArticleId":316929,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2014","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from August 2015","Articles with unsourced statements from March 2014","Pages using ISBN magic links","Welfare economics","Sustainable business","Corporate social responsibility","Accounting terminology","Accountability"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Triple_bottom_line","wgRelevantArticleId":316929,"wgRequestId":"WMg5AwpAAEMAAacIyA8AAAAL","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1252862","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Triple_Bottom_Line_graphic.jpg/1200px-Triple_Bottom_Line_graphic.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Triple_bottom_line"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Triple_bottom_line&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Triple_bottom_line&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Triple_bottom_line"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Triple_bottom_line rootpage-Triple_bottom_line skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Triple bottom line</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:Triple_Bottom_Line_graphic.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Triple_Bottom_Line_graphic.jpg/400px-Triple_Bottom_Line_graphic.jpg" width="400" height="283" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Triple_Bottom_Line_graphic.jpg/600px-Triple_Bottom_Line_graphic.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Triple_Bottom_Line_graphic.jpg/800px-Triple_Bottom_Line_graphic.jpg 2x" data-file-width="1241" data-file-height="877" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Triple_Bottom_Line_graphic.jpg" class="internal" title="Enlarge"></a></div>
+Graphic describing the three types of bottom lines</div>
+</div>
+</div>
+<p><b>Triple bottom line</b> (or otherwise noted as <b>TBL</b> or <b>3BL</b>) is an <a href="/wiki/Accounting" title="Accounting">accounting</a> framework with three parts: social, environmental (or ecological) and financial. Many organizations have adopted the TBL framework to evaluate their performance in a broader perspective to create greater business value.<sup id="cite_ref-TBF-IBR_1-0" class="reference"><a href="#cite_note-TBF-IBR-1">[1]</a></sup> The term was coined by <a href="/wiki/John_Elkington_(business_author)" title="John Elkington (business author)">John Elkington</a> in 1994.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>In traditional business accounting and common usage, the "<a href="/wiki/Bottom_line" class="mw-redirect" title="Bottom line">bottom line</a>" refers to either the "profit" or "loss", which is usually recorded at the very bottom line on a statement of revenue and expenses. Over the last 50 years, environmentalists and <a href="/wiki/Social_justice" title="Social justice">social justice</a> advocates have struggled to bring a broader definition of bottom line into public consciousness by introducing <a href="/wiki/Full_cost_accounting" class="mw-redirect" title="Full cost accounting">full cost accounting</a>. For example, if a corporation shows a monetary profit, but their asbestos mine causes thousands of deaths from asbestosis, and their <a href="/wiki/Copper_mine" class="mw-redirect" title="Copper mine">copper mine</a> pollutes a river, and the government ends up spending taxpayer money on health care and river clean-up, how do we perform a full societal <a href="/wiki/Cost_benefit_analysis" class="mw-redirect" title="Cost benefit analysis">cost benefit analysis</a>? The triple bottom line adds two more "bottom lines”: social and environmental (ecological) concerns.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> With the ratification of the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> and <a href="/wiki/ICLEI" title="ICLEI">ICLEI</a> TBL standard for urban and community accounting in early 2007,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> this became the dominant approach to <a href="/wiki/Public_sector" title="Public sector">public sector</a> full cost accounting. Similar UN standards apply to <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a> and <a href="/wiki/Human_capital" title="Human capital">human capital</a> measurement to assist in measurements required by TBL, e.g. the EcoBudget standard for reporting <a href="/wiki/Ecological_footprint" title="Ecological footprint">ecological footprint</a>. The TBL seems to be fairly widespread in South African media, as found in a 1990-2008 study of worldwide national newspapers.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>An example of an organization seeking a triple bottom line would be a <a href="/wiki/Social_enterprise" title="Social enterprise">social enterprise</a> run as a non-profit, but earning income by offering opportunities for handicapped people who have been labelled "unemployable", to earn a living recycling. The organization earns a profit, which is controlled by a volunteer Board, and ploughed back into the community. The social benefit is the meaningful employment of disadvantaged citizens, and the reduction in the society's welfare or disability costs. The environmental benefit comes from the recycling accomplished. In the <a href="/wiki/Private_sector" title="Private sector">private sector</a>, a commitment to Corporate social responsibility (CSR) implies a commitment to transparent reporting about the business' material impact for good on the environment and people. Triple bottom line is one framework for reporting this material impact. This is distinct from the more limited changes required to deal only with ecological issues. The triple bottom line has also been extended to encompass four pillars, known as the quadruple bottom line (QBL). The fourth pillar denotes a future-oriented approach (future generations, intergenerational equity, etc.). It is a long-term outlook that sets sustainable development and sustainability concerns apart from previous social, environmental, and economic considerations.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>The challenges of putting the TBL into practice relate to the measurement of social and ecological categories. Despite this, the TBL framework enables organizations to take a longer-term perspective and thus evaluate the future consequences of decisions.<sup id="cite_ref-TBF-IBR_1-1" class="reference"><a href="#cite_note-TBF-IBR-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Bottom_lines"><span class="tocnumber">2</span> <span class="toctext">Bottom lines</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Subsequent_development"><span class="tocnumber">3</span> <span class="toctext">Subsequent development</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Supporting_arguments"><span class="tocnumber">4</span> <span class="toctext">Supporting arguments</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Criticism"><span class="tocnumber">5</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Legislation"><span class="tocnumber">6</span> <span class="toctext">Legislation</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Citations"><span class="tocnumber">8.1</span> <span class="toctext">Citations</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Sources"><span class="tocnumber">8.2</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a> was defined by the <a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtland Commission</a> of the United Nations in 1987. Triple bottom line (TBL) accounting expands the traditional reporting framework to take into account social and environmental performance in addition to financial performance. In 1981, <a href="/wiki/Social_enterprise" title="Social enterprise">Freer Spreckley</a> first articulated the triple bottom line in a publication called 'Social Audit - A Management Tool for Co-operative Working'.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> In this work, he argued that enterprises should measure and report on s</p>
+<p>The phrase "triple bottom line" was articulated more fully by <a href="/wiki/John_Elkington_(business_author)" title="John Elkington (business author)">John Elkington</a> in his 1997 book <i>Cannibals with Forks: the Triple Bottom Line of 21st Century Business.</i><sup id="cite_ref-TBF-IBR_1-2" class="reference"><a href="#cite_note-TBF-IBR-1">[1]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> A <i>Triple Bottom Line Investing</i> group advocating and publicizing these principles was founded in 1998 by <a href="/wiki/Robert_J._Rubinstein" title="Robert J. Rubinstein">Robert J. Rubinstein</a>.</p>
+<p>For reporting their efforts companies may demonstrate their commitment to <a href="/wiki/Corporate_social_responsibility" title="Corporate social responsibility">Corporate social responsibility</a> (CSR) through the following:</p>
+<ul>
+<li>Top-level involvement (CEO, Board of Directors)</li>
+<li>Policy Investments</li>
+<li>Programs</li>
+<li>Signatories to voluntary standards</li>
+<li>Principles (UN Global Compact-Ceres Principles)</li>
+<li>Reporting (Global Reporting Initiative)</li>
+</ul>
+<p>The concept of TBL demands that a company's responsibility lies with <a href="/wiki/Stakeholder_(corporate)" title="Stakeholder (corporate)">stakeholders</a> rather than <a href="/wiki/Shareholders" class="mw-redirect" title="Shareholders">shareholders</a>. In this case, "stakeholders" refers to anyone who is influenced, either directly or indirectly, by the actions of the firm. According to the <a href="/wiki/Stakeholder_theory" title="Stakeholder theory">stakeholder theory</a>, the business entity should be used as a vehicle for coordinating stakeholder interests, instead of maximizing shareholder (owner) profit. A growing number of financial institutions incorporate a triple bottom line approach in their work. It is at the core of the business of banks in the <a href="/wiki/Global_Alliance_for_Banking_on_Values" title="Global Alliance for Banking on Values">Global Alliance for Banking on Values</a>, for example.</p>
+<p>The <a href="/wiki/Detroit" title="Detroit">Detroit</a>-based <a href="/wiki/Avalon_International_Breads" title="Avalon International Breads">Avalon International Breads</a> interprets the triple bottom line as consisting of "Earth", "Community", and "Employees".<sup id="cite_ref-Avalon_9-0" class="reference"><a href="#cite_note-Avalon-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="Bottom_lines">Bottom lines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=2" title="Edit section: Bottom lines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Triple_bottom_line&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2014)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>The triple bottom line consists of social equity, economic, and environmental factors. "People, planet and profit" succinctly describes the Triple bottom line and the goal of <a href="/wiki/Sustainability" title="Sustainability">sustainability</a>. The phrase, "people, planet, profit", was coined by John Elkington in 1994 while at Sustain Ability, and was lateras the title of the Anglo-Dutch oil company Shell's first sustainability report in 1997. As a result, one country in which the 3P concept took deep root was The Netherlands.</p>
+<p><b>"People"</b> pertains to fair and beneficial business practices toward labour and the community and region in which a corporation conducts its business. A TBL company conceives a reciprocal <a href="/wiki/Social_structure" title="Social structure">social structure</a> in which the well-being of corporate, labour and other stakeholder interests are interdependent.</p>
+<p>An enterprise dedicated to the triple bottom line seeks to provide benefit to many constituencies and not to exploit or endanger any group of them. The "upstreaming" of a portion of profit from the marketing of finished goods back to the original producer of raw materials, for example, a farmer in <a href="/wiki/Fair_trade" title="Fair trade">fair trade</a> agricultural practice, is a common feature. In concrete terms, a TBL business would not use child labour and monitor all contracted companies for child labour exploitation, would pay fair salaries to its workers, would maintain a safe work environment and tolerable working hours, and would not otherwise exploit a community or its labour force. A TBL business also typically seeks to "give back" by contributing to the strength and growth of its community with such things as health care and education. Quantifying this bottom line is relatively new, problematic and often subjective. The <a href="/wiki/Global_Reporting_Initiative" title="Global Reporting Initiative">Global Reporting Initiative</a> (GRI) has developed guidelines to enable corporations and <a href="/wiki/NGO" class="mw-redirect" title="NGO">NGOs</a> alike to comparably report on the social impact of a business.</p>
+<p><b>"Planet"</b> (<a href="/wiki/Natural_capital" title="Natural capital">natural capital</a>) refers to sustainable environmental practices. A TBL company endeavors to benefit the natural order as much as possible or at the least do no harm and minimise environmental impact. A TBL endeavour reduces its <a href="/wiki/Ecological_footprint" title="Ecological footprint">ecological footprint</a> by, among other things, carefully managing its consumption of energy and non-renewables and reducing manufacturing waste as well as rendering waste less <a href="/wiki/Toxicity" title="Toxicity">toxic</a> before disposing of it in a safe and legal manner. "<a href="/wiki/Cradle_to_grave" class="mw-redirect" title="Cradle to grave">Cradle to grave</a>" is uppermost in the thoughts of TBL manufacturing businesses, which typically conduct a <a href="/wiki/Life_cycle_assessment" class="mw-redirect" title="Life cycle assessment">life cycle assessment</a> of products to determine what the true environmental cost is from the growth and harvesting of raw materials to manufacture to distribution to eventual disposal by the end user.</p>
+<p>Currently, the cost of disposing of non-degradable or toxic products is borne financially by governments and environmentally by the residents near the disposal site and elsewhere. In TBL thinking, an enterprise which produces and markets a product which will create a waste problem should not be given a free ride by society. It would be more equitable for the business which manufactures and sells a problematic product to bear part of the cost of its ultimate disposal.</p>
+<p>Ecologically destructive practices, such as overfishing or other endangering depletions of resources are avoided by TBL companies. Often environmental sustainability is the more profitable course for a business in the long run. Arguments that it costs more to be environmentally sound are often specious when the course of the business is analyzed over a period of time. Generally, sustainability reporting metrics are better quantified and standardized for environmental issues than for social ones. A number of respected reporting institutes and registries exist including the Global Reporting Initiative, CERES, Institute 4 Sustainability and others.</p>
+<p>The eco bottom line is akin to the concept of <a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p><b>"Profit"</b> is the economic value created by the organization after deducting the cost of all inputs, including the cost of the capital tied up. It therefore differs from traditional accounting definitions of profit. In the original concept, within a sustainability framework, the "profit" aspect needs to be seen as the real economic benefit enjoyed by the host society. It is the real economic impact the organization has on its economic environment. This is often confused to be limited to the internal profit made by a company or organization (which nevertheless remains an essential starting point for the computation). Therefore, an original TBL approach cannot be interpreted as simply traditional corporate accounting profit <i>plus</i> social and environmental impacts unless the "profits" of other entities are included as a social benefit.</p>
+<h2><span class="mw-headline" id="Subsequent_development">Subsequent development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=3" title="Edit section: Subsequent development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Following the initial publication of the triple bottom line concept, students and practitioners have sought greater detail in how pillars can be evaluated.</p>
+<p>The People concept for example can be viewed in three dimensions – the organisation needs, the personal needs and the community issues associated with supplying future people into the business.</p>
+<p>Equally, Profit is a function of both a healthy sales stream, which needs a high focus on customer service, coupled with the adoption of a strategy to develop new customers to replace those that die away.</p>
+<p>And Planet can be divided into a multitude of subdivisions, although Reduce, Reuse and Recycle is a succinct way of steering though.</p>
+<h2><span class="mw-headline" id="Supporting_arguments">Supporting arguments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=4" title="Edit section: Supporting arguments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Triple_bottom_line&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2014)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>The following business-based arguments support the concept of TBL:</p>
+<ul>
+<li>Reaching untapped market potential: TBL companies can find financially profitable niches which were missed when money alone was the driving factor. Examples include:</li>
+</ul>
+<ol>
+<li>Adding <a href="/wiki/Ecotourism" title="Ecotourism">ecotourism</a> or <a href="/wiki/Geotourism" title="Geotourism">geotourism</a> to an already rich tourism market such as the <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a></li>
+<li>Developing profitable methods to assist existing NGOs with their missions such as fundraising, reaching clients, or creating networking opportunities with multiple NGOs</li>
+<li>Providing products or services which benefit underserved populations and/or the environment which are also financially profitable.</li>
+</ol>
+<ul>
+<li>Adapting to new business sectors: While the number of <a href="/wiki/Social_enterprises" class="mw-redirect" title="Social enterprises">social enterprises</a> is growing,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> and with the entry of the <a href="/wiki/B_Corporation" class="mw-redirect" title="B Corporation">B Corp movement</a>,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> there is more demand from consumers and investors for an accounting for social and environmental impact.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> For example, <a href="/wiki/Fair_trade" title="Fair trade">Fair Trade</a> and Ethical Trade companies require ethical and sustainable practices from all of their suppliers and service providers.</li>
+</ul>
+<p><a href="/wiki/Fiscal_policy" title="Fiscal policy">Fiscal policy</a> of governments usually claims to be concerned with identifying social and natural deficits on a less formal basis. However, such choices may be guided more by <a href="/wiki/Ideology" title="Ideology">ideology</a> than by <a href="/wiki/Economics" title="Economics">economics</a>. The primary benefit of embedding one approach to measurement of these deficits would be first to direct <a href="/wiki/Monetary_policy" title="Monetary policy">monetary policy</a> to reduce them, and eventually achieve a global <a href="/wiki/Monetary_reform" title="Monetary reform">monetary reform</a> by which they could be systematically and globally reduced in some uniform way.</p>
+<p>The argument is that the <a href="/wiki/Earth" title="Earth">Earth</a>'s <a href="/wiki/Carrying_capacity" title="Carrying capacity">carrying capacity</a> is at risk, and that in order to avoid catastrophic breakdown of <a href="/wiki/Climate" title="Climate">climate</a> or <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a>, there is need for comprehensive reform of <a href="/wiki/Global_financial_system" title="Global financial system">global financial institutions</a> similar in scale to what was undertaken at <a href="/wiki/Bretton_Woods_conference" class="mw-redirect" title="Bretton Woods conference">Bretton Woods</a> in 1944.</p>
+<p>With the emergence of an externally consistent <a href="/wiki/Green_economics" class="mw-redirect" title="Green economics">green economics</a> and agreement on definitions of potentially contentious terms such as <a href="/wiki/Full-cost_accounting" class="mw-redirect" title="Full-cost accounting">full-cost accounting</a>, <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a> and <a href="/wiki/Social_capital" title="Social capital">social capital</a>, the prospect of formal metrics for ecological and social loss or risk has grown less remote since the 1990s.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2015)">citation needed</span></a></i>]</sup></p>
+<p>In the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> in particular, the London Health Observatory has undertaken a formal programme to address social deficits via a fuller understanding of what "social capital" is, how it functions in a real <a href="/wiki/Community" title="Community">community</a> (that being the <a href="/wiki/City_of_London" title="City of London">City of London</a>), and how losses of it tend to require both <a href="/wiki/Financial_capital" title="Financial capital">financial capital</a> and significant political and social attention from <a href="/wiki/Volunteer" class="mw-redirect" title="Volunteer">volunteers</a> and professionals to help resolve. The data they rely on is extensive, building on decades of statistics of the <a href="/wiki/Greater_London_Council" title="Greater London Council">Greater London Council</a> since <a href="/wiki/World_War_II" title="World War II">World War II</a>. Similar studies have been undertaken in <a href="/wiki/North_America" title="North America">North America</a>.</p>
+<p>Studies of the <a href="/wiki/Value_of_Earth" title="Value of Earth">value of Earth</a> have tried to determine what might constitute an ecological or natural life deficit. The <a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a> relies on some measures of this sort, and actually relies on some <a href="/wiki/Value_of_life" title="Value of life">value of life</a> calculations that, among other things, are explicit about the ratio of the price of a human life between developed and developing nations (about 15 to 1). While the motive of this number was to simply assign responsibility for a cleanup, such stark honesty opens not just an economic but political door to some kind of negotiation — presumably to reduce that ratio in time to something seen as more equitable. As it is, people in developed nations can be said to benefit 15 times more from <a href="/wiki/Ecological_devastation" class="mw-redirect" title="Ecological devastation">ecological devastation</a> than in developing nations, in pure financial terms. According to the <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">IPCC</a>, they are thus obliged to pay 15 times more per life to avoid a loss of each such life to <a href="/wiki/Climate_change" title="Climate change">climate change</a> — the <a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a> seeks to implement exactly this formula, and is therefore sometimes cited as a first step towards getting nations to accept formal <a href="/wiki/Legal_liability" title="Legal liability">liability</a> for damage inflicted on ecosystems shared globally.</p>
+<p>Advocacy for triple bottom line reforms is common in <a href="/wiki/Green_Parties" class="mw-redirect" title="Green Parties">Green Parties</a>. Some of the measures undertaken in the <a href="/wiki/European_Union" title="European Union">European Union</a> towards the <a href="/wiki/Euro" title="Euro">Euro</a> currency integration standardize the reporting of ecological and social losses in such a way as to seem to endorse in principle the notion of unified accounts, or <a href="/wiki/Unit_of_account" title="Unit of account">unit of account</a>, for these deficits.</p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=5" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While many people agree with the importance of good social conditions and preservation of the environment, there are also many who disagree with the triple bottom line as the way to enhance these conditions. The following are the reasons why:</p>
+<ul>
+<li><i>Reductive method</i>: Concurrently the environment comes to be treated as an externality or background feature, an externality that tends not to have the human dimension build into its definition. Thus, in many writings, even in those critical of the triple-bottom-line approach, the social becomes a congeries of miscellaneous considerations left over from the other two prime categories.<sup id="cite_ref-academia.edu_14-0" class="reference"><a href="#cite_note-academia.edu-14">[14]</a></sup> Alternative approaches, such as <a href="/wiki/Circles_of_Sustainability" title="Circles of Sustainability">Circles of Sustainability</a>,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> that treat the economic as a social domain, alongside and in relation to the ecological, the political and the cultural are now being considered as more appropriate for understanding institutions, cities and regions.<sup id="cite_ref-academia.edu_14-1" class="reference"><a href="#cite_note-academia.edu-14">[14]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li>
+<li><i><a href="/wiki/Social_inertia" title="Social inertia">Inertia</a></i>: The difficulty of achieving global agreement on <a href="/wiki/Simultaneous_policy" class="mw-redirect" title="Simultaneous policy">simultaneous policy</a> may render such measures at best advisory, and thus unenforceable. For example, people may be unwilling to undergo a <a href="/wiki/Depression_(economics)" title="Depression (economics)">depression</a> or even sustained <a href="/wiki/Recession" title="Recession">recession</a> to replenish lost <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2014)">citation needed</span></a></i>]</sup></li>
+<li><i>Application</i>: According to Fred Robins' <i>The Challenge of TBL: A Responsibility to Whom?</i> one of the major weaknesses of the TBL framework is its ability to be applied in the practical world.</li>
+<li><i>Equating ecology with environment</i>: TBL is seen to be disregarding ecological sustainability with environmental effects, where in reality both economic and social viability is dependent on environmental well being. While <a href="/wiki/Greenwashing" title="Greenwashing">greenwashing</a> is not new, its use has increased over recent years to meet consumer demand for environmentally friendly goods and services. The problem is compounded by lax enforcement by regulatory agencies such as the Federal Trade Commission in the United States, the Competition Bureau in Canada, and the Committee of Advertising Practice and the Broadcast Committee of Advertising Practice in the United Kingdom. Critics of the practice suggest that the rise of greenwashing, paired with ineffective regulation, contributes to consumer skepticism of all green claims, and diminishes the power of the consumer in driving companies toward greener solutions for manufacturing processes and business operation.</li>
+<li><i>Time dimension</i>: While the triple bottom line incorporates the social, economical and environmental (People, Planet, Profit) dimensions of sustainable development, it does not explicitly address the fourth dimension: time. The time dimension focuses on preserving current value in all three other dimensions for later. This means assessment of short term, longer term and long term consequences of any action.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li>
+<li>This is summarised below as:
+<ul>
+<li>attempting to divert the attention of regulators and deflating pressure for regulatory change;</li>
+<li>seeking to persuade critics, such as non-government organisations, that they are both well-intentioned and have changed their ways;</li>
+<li>seeking to expand market share at the expense of those rivals not involved in greenwashing; this is especially attractive if little or no additional expenditure is required to change <i>performance</i>; alternatively, a company can engage in greenwashing in an attempt to narrow the perceived 'green' advantage of a rival;</li>
+<li>reducing staff turnover and making it easier to attract staff in the first place;</li>
+<li>making the company seem attractive for potential investors, especially those interested in ethical investment or socially responsive investment.</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Legislation">Legislation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=6" title="Edit section: Legislation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A focus on people, planet and profit has led to legislation changes around the world, often through <a href="/wiki/Social_enterprise" title="Social enterprise">social enterprise</a> or <a href="/wiki/Social_investing" class="mw-redirect" title="Social investing">social investment</a> or through the introduction of a new legal form, the <a href="/wiki/Community_Interest_Company" class="mw-redirect" title="Community Interest Company">Community Interest Company</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> In the United States, the <a href="/wiki/BCorp" class="mw-redirect" title="BCorp">BCorp</a> movement has been part of a call for legislation change to allow and encourage a focus on social and environmental impact, with BCorp a legal form for a company focused on "stakeholders, not just shareholders".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<p>In Australia, the triple bottom line was adopted as a part of the State Sustainability Strategy,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> and accepted by the <a href="/wiki/Western_Australian_Government" class="mw-redirect" title="Western Australian Government">Government of Western Australia</a> but its status was increasingly marginalised by subsequent premiers <a href="/wiki/Alan_Carpenter" title="Alan Carpenter">Alan Carpenter</a> and <a href="/wiki/Colin_Barnett" title="Colin Barnett">Colin Barnett</a> and is in doubt.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Emblem-money.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/28px-Emblem-money.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/42px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/56px-Emblem-money.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Business" class="mw-redirect" title="Portal:Business">Business portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/B_Corporation_(certification)" title="B Corporation (certification)">B Corporation (certification)</a></li>
+<li><a href="/wiki/Bottom_of_the_pyramid" title="Bottom of the pyramid">Bottom of the pyramid</a></li>
+<li><a href="/wiki/Circles_of_Sustainability" title="Circles of Sustainability">Circles of Sustainability</a></li>
+<li><a href="/wiki/Community_interest_company" title="Community interest company">Community interest company</a></li>
+<li><a href="/wiki/Conscious_business" title="Conscious business">Conscious business</a></li>
+<li><a href="/wiki/Double_bottom_line" title="Double bottom line">Double bottom line</a>, a similar concept predating the UN standard</li>
+<li><a href="/wiki/EC3_Global" class="mw-redirect" title="EC3 Global">EC3 Global</a></li>
+<li><a href="/wiki/Grassroots_Business_Fund" title="Grassroots Business Fund">Grassroots Business Fund</a></li>
+<li><a href="/wiki/Impact_investing" title="Impact investing">Impact investing</a></li>
+<li><a href="/wiki/Institute_for_Sustainable_Communication" title="Institute for Sustainable Communication">Institute for Sustainable Communication</a></li>
+<li><a href="/wiki/Low-profit_limited_liability_company" title="Low-profit limited liability company">Low-profit limited liability company</a></li>
+<li><a href="/wiki/Social_entrepreneurship" title="Social entrepreneurship">Social entrepreneurship</a></li>
+<li><a href="/wiki/Triple_top_line" title="Triple top line">Triple top line</a></li>
+<li><a href="/wiki/Value_network" title="Value network">Value network</a></li>
+<li><a href="/wiki/Value_network_analysis" title="Value network analysis">Value network analysis</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=9" title="Edit section: Citations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-TBF-IBR-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-TBF-IBR_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TBF-IBR_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TBF-IBR_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Slaper, Timothy F. and Hall, Tanya J. (2011). <a rel="nofollow" class="external text" href="http://www.ibrc.indiana.edu/ibr/2011/spring/article2.html">"The Triple Bottom Line: What Is It and How Does It Work?"</a> <i>Indiana Business Review</i>. Spring 2011, Volume 86, No. 1.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.economist.com/node/14301663">"Triple Bottom Line"</a>. The Economist. November 17, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.atitle=Triple+Bottom+Line&amp;rft.date=2009-11-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.economist.com%2Fnode%2F14301663&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.goethe.de/ges/umw/dos/nac/den/en3106180.htm">Sustainability – From Principle To Practice</a> <i><a href="/wiki/Goethe-Institut" title="Goethe-Institut">Goethe-Institut</a></i>, March 2008.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unep.org/delc/Portals/119/industrryRoleOfIndclean.pdf">Enhancing the role of industry through for example, private-public partnerships</a>, May 2011. <a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">United Nations Environment Programme</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">What the Papers Say: Trends in Sustainability <i><a href="/w/index.php?title=Ralf_Barkemeyer_et_al&amp;action=edit&amp;redlink=1" class="new" title="Ralf Barkemeyer et al (page does not exist)">Ralf Barkemeyer et al</a></i>, Spring 2009, Greenleaf Publishing.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ccsenet.org/journal/index.php/jms/article/view/27508/18663">SURF Framework for a Sustainable Economy</a> <i><a href="/w/index.php?title=Marilyn_Waite&amp;action=edit&amp;redlink=1" class="new" title="Marilyn Waite (page does not exist)">Marilyn Waite</a></i>, November 2013.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Freer Spreckley 1981 <a rel="nofollow" class="external text" href="http://www.locallivelihoods.com/cmsms/uploads/PDFs/Social%20Audit%20-%20A%20Management%20Tool.pdf">Social Audit - A Management Tool for Co-operative Working</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Brown, D., J. Dillard and R.S. Marshall. (2006) <a rel="nofollow" class="external text" href="http://www.recercat.net/bitstream/2072/2223/1/UABDT06-2.pdf">"Triple Bottom Line: A business metaphor for a social construct."</a> Portland State University, School of Business Administration. Retrieved on: 2007-07-18.</span></li>
+<li id="cite_note-Avalon-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Avalon_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.avalonbreads.net/about-us/triple-bottom-line/">"Triple Bottom Line: Earth, Community, Employees"</a>. Avalon International Breads<span class="reference-accessdate">. Retrieved <span class="nowrap">27 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.btitle=Triple+Bottom+Line%3A+Earth%2C+Community%2C+Employees&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.avalonbreads.net%2Fabout-us%2Ftriple-bottom-line%2F&amp;rft.pub=Avalon+International+Breads&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Paul_Ekins" title="Paul Ekins">Ekins</a>, Paul (1992). <i>The Gaia Atlas of Green Economics</i>. Anchor Books. p.&#160;191. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-385-41914-7" title="Special:BookSources/0-385-41914-7">0-385-41914-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.aufirst=Paul&amp;rft.aulast=Ekins&amp;rft.btitle=The+Gaia+Atlas+of+Green+Economics&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=0-385-41914-7&amp;rft.pages=191&amp;rft.pub=Anchor+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.socialenterprise.org.uk/uploads/files/2013/07/the_peoples_business.pdf">"The State of Social Enterprise"</a> <span style="font-size:85%;">(PDF)</span>. <i>Social Enterprise UK</i>. SEUK<span class="reference-accessdate">. Retrieved <span class="nowrap">15 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.atitle=The+State+of+Social+Enterprise&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.socialenterprise.org.uk%2Fuploads%2Ffiles%2F2013%2F07%2Fthe_peoples_business.pdf&amp;rft.jtitle=Social+Enterprise+UK&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Trapp, Roger. <a rel="nofollow" class="external text" href="http://www.forbes.com/sites/rogertrapp/2015/03/29/business-leaders-urged-to-find-a-purpose-in-life/">"Business Leaders Urged To Find A Purpose In Life"</a>. <i>Forbes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.atitle=Business+Leaders+Urged+To+Find+A+Purpose+In+Life&amp;rft.aufirst=Roger&amp;rft.aulast=Trapp&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.forbes.com%2Fsites%2Frogertrapp%2F2015%2F03%2F29%2Fbusiness-leaders-urged-to-find-a-purpose-in-life%2F&amp;rft.jtitle=Forbes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-wef-2015-millennial-survey-executivesummary.pdf">"Deloitte Millennial Survey 2015"</a> <span style="font-size:85%;">(PDF)</span>. Deloitte<span class="reference-accessdate">. Retrieved <span class="nowrap">15 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.btitle=Deloitte+Millennial+Survey+2015&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww2.deloitte.com%2Fcontent%2Fdam%2FDeloitte%2Fglobal%2FDocuments%2FAbout-Deloitte%2Fgx-wef-2015-millennial-survey-executivesummary.pdf&amp;rft.pub=Deloitte&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-academia.edu-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-academia.edu_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-academia.edu_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Scerri, Andy; <a href="/wiki/Paul_James_(academic)" title="Paul James (academic)">James, Paul</a> (2010). <a rel="nofollow" class="external text" href="http://www.academia.edu/3230887/Accounting_for_Sustainability_Combining_Qualitative_and_Quantitative_Research_in_Developing_Indicators">"Accounting for sustainability: Combining qualitative and quantitative research in developing 'indicators' of sustainability"</a>. <i>International Journal of Social Research Methodology</i>. <b>13</b> (1): 41–53.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.atitle=Accounting+for+sustainability%3A+Combining+qualitative+and+quantitative+research+in+developing+%98indicators%99+of+sustainability&amp;rft.aufirst=Andy&amp;rft.au=James%2C+Paul&amp;rft.aulast=Scerri&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.academia.edu%2F3230887%2FAccounting_for_Sustainability_Combining_Qualitative_and_Quantitative_Research_in_Developing_Indicators&amp;rft.issue=1&amp;rft.jtitle=International+Journal+of+Social+Research+Methodology&amp;rft.pages=41-53&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Paul James and Andy Scerri, ‘Auditing Cities through Circles of Sustainability’, Mark Amen, Noah J. Toly, Patricia L. Carney and Klaus Segbers, eds, <i>Cities and Global Governance</i>, Ashgate, Farnham, 2011, pp. 111–36.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Scerri, A. (2012). "Ends in view: The capabilities approach in ecological/sustainability economics". <i>Ecological Economics</i>. <b>77</b>: 7–10. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.ecolecon.2012.02.027">10.1016/j.ecolecon.2012.02.027</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.atitle=Ends+in+view%3A+The+capabilities+approach+in+ecological%2Fsustainability+economics&amp;rft.aufirst=A.&amp;rft.aulast=Scerri&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ecolecon.2012.02.027&amp;rft.jtitle=Ecological+Economics&amp;rft.pages=7-10&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=77" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Liam Magee, &amp; Andy Scerri (2012) ‘From Issues to Indicators: A Response to Grosskurth and Rotmans’, Local Environment 17(8): 915-933.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Lozano, R. (2012). "Towards better embedding sustainability into companies’ systems: an analysis of voluntary corporate initiatives," <i>Journal of Cleaner Production</i> 25 pp. 14-26</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.gov.uk/government/organisations/office-of-the-regulator-of-community-interest-companies">"Community Interest Companies"</a>. UK Government<span class="reference-accessdate">. Retrieved <span class="nowrap">15 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.btitle=Community+Interest+Companies&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Forganisations%2Foffice-of-the-regulator-of-community-interest-companies&amp;rft.pub=UK+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bcorporation.net/become-a-b-corp/how-to-become-a-b-corp/legal-roadmap">"Becoming a Legal BCorp"</a>. BCorp<span class="reference-accessdate">. Retrieved <span class="nowrap">15 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.btitle=Becoming+a+Legal+BCorp&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.bcorporation.net%2Fbecome-a-b-corp%2Fhow-to-become-a-b-corp%2Flegal-roadmap&amp;rft.pub=BCorp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20070830000447/http://www.sustainability.dpc.wa.gov.au/docs/Final%20Strategy/SSSFinal.pdf">Government of Western Australia. (2003, September). "Hope for the Future: The Western Australia State Sustainability Strategy."</a> Accessed: August 30, 2013.</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=10" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite class="citation book">John Elkington (1997). <i>Cannibals with Forks: The Triple Bottom Line of Twenty-First Century Business</i>. Capstone, Oxford.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.au=John+Elkington&amp;rft.btitle=Cannibals+with+Forks%3A+The+Triple+Bottom+Line+of+Twenty-First+Century+Business&amp;rft.date=1997&amp;rft.genre=book&amp;rft.pub=Capstone%2C+Oxford&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Scerri, Andy; <a href="/wiki/Paul_James_(academic)" title="Paul James (academic)">James, Paul</a> (2010). <a rel="nofollow" class="external text" href="http://www.academia.edu/3230887/Accounting_for_Sustainability_Combining_Qualitative_and_Quantitative_Research_in_Developing_Indicators">"Accounting for sustainability: Combining qualitative and quantitative research in developing 'indicators' of sustainability"</a>. <i>International Journal of Social Research Methodology</i>. <b>13</b> (1): 41–53.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+bottom+line&amp;rft.atitle=Accounting+for+sustainability%3A+Combining+qualitative+and+quantitative+research+in+developing+%98indicators%99+of+sustainability&amp;rft.aufirst=Andy&amp;rft.au=James%2C+Paul&amp;rft.aulast=Scerri&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.academia.edu%2F3230887%2FAccounting_for_Sustainability_Combining_Qualitative_and_Quantitative_Research_in_Developing_Indicators&amp;rft.issue=1&amp;rft.jtitle=International+Journal+of+Social+Research+Methodology&amp;rft.pages=41-53&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=11" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>Social Audit - A Management Tool for Co-operative Working 1981</i> by Freer Spreckley <a rel="nofollow" class="external text" href="http://www.locallivelihoods.com/cmsms/uploads/PDFs/Social%20Audit%20-%20A%20Management%20Tool.pdf">Local Livelihoods Publications</a></li>
+<li><i>The Gaia Atlas of Green Economics</i> (Gaia Future Series) [Paperback], by Paul Ekins, Anchor Books</li>
+<li><i>Harvard Business Review on Corporate Responsibility</i> by <a href="/wiki/Harvard_Business_School_Press" class="mw-redirect" title="Harvard Business School Press">Harvard Business School Press</a></li>
+<li><i>The Soul of a Business: Managing for Profit and the Common Good</i> by Tom Chappell</li>
+<li><i>Capitalism at the Crossroads: The Unlimited Business Opportunities in Solving the World's Most Difficult Problems</i> by Professor Stuart L. Hart</li>
+<li><i>The Triple Bottom Line: How Today's Best-Run Companies Are Achieving Economic, Social and Environmental Success—and How You Can Too</i> by Andrew W. Savitz and Karl Weber</li>
+<li><i>The Sustainability Advantage: Seven Business Case Benefits of a Triple Bottom Line (Conscientious Commerce)</i> by Bob Willard, <a href="/wiki/New_Society_Publishers" class="mw-redirect" title="New Society Publishers">New Society Publishers</a> <a href="/wiki/Special:BookSources/9780865714519" class="internal mw-magiclink-isbn">ISBN 978-0-86571-451-9</a></li>
+<li><i>SURF Framework for a Sustainable Economy</i> by Marilyn Waite <a rel="nofollow" class="external text" href="http://www.ccsenet.org/journal/index.php/jms/article/view/27508/18663">Journal of Management and Sustainability</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://theconversation.com/explainer-what-is-the-triple-bottom-line-22798">Explainer: what is the triple bottom line? - The Conversation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ibrc.indiana.edu/ibr/2011/spring/article2.html">The Triple Bottom Line: What Is It and How Does It Work? - Indiana Business Review</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.isa.org.usyd.edu.au/publications/balance.shtml">Balancing Act - A Triple Bottom Line Analysis of the Australian Economy</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.c4cr.org/">Citizens for Corporate Redesign</a> (<a href="/wiki/Minnesota" title="Minnesota">Minnesota</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.triplepundit.com/">Triple Pundit - Blog on Triple Bottom Line</a> (<a href="/wiki/United_States" title="United States">United States</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.corporate-responsibility.org/">Corporate Responsibility</a> (<a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.isa.org.usyd.edu.au/research/tbl.shtml">TBL Accounting without boundaries - Australian corporate and government experiences</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Social_and_environmental_accountability" style="padding:3px">
+<table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Social_accountability" title="Template:Social accountability"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Social_accountability" title="Template talk:Social accountability"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Social_accountability&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Social_and_environmental_accountability" style="font-size:114%;margin:0 4em"><a href="/wiki/Social_accounting#Formal_accountability" title="Social accounting">Social</a> and <a href="/wiki/Environmental_accounting" title="Environmental accounting">environmental</a> <a href="/wiki/Accountability" title="Accountability">accountability</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Business_ethics" title="Business ethics">Ethics</a> and<br />
+principles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aarhus_Convention" title="Aarhus Convention">Aarhus Convention</a></li>
+<li><a href="/wiki/Corporate_crime" title="Corporate crime">Corporate accountability</a>&#160;/ <a href="/wiki/Corporate_behaviour" title="Corporate behaviour">behaviour</a>&#160;/ <a href="/wiki/Corporate_social_responsibility" title="Corporate social responsibility">social responsibility</a></li>
+<li><a href="/wiki/Ethical_banking" title="Ethical banking">Ethical banking</a></li>
+<li><a href="/wiki/Ethical_code" title="Ethical code">Ethical code</a></li>
+<li><a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">Extended producer responsibility</a></li>
+<li><a href="/wiki/Organizational_ethics" title="Organizational ethics">Organizational ethics</a></li>
+<li><a href="/wiki/Organizational_justice" title="Organizational justice">Organizational justice</a></li>
+<li><a href="/wiki/Principles_for_Responsible_Investment" title="Principles for Responsible Investment">Principles for Responsible Investment</a></li>
+<li><a href="/wiki/Social_responsibility" title="Social responsibility">Social responsibility</a></li>
+<li><a href="/wiki/Stakeholder_theory" title="Stakeholder theory">Stakeholder theory</a></li>
+<li><a href="/wiki/Sullivan_principles" title="Sullivan principles">Sullivan principles</a></li>
+<li><a href="/wiki/Transparency_(behavior)" title="Transparency (behavior)">Transparency (behavioral</a></li>
+<li><a href="/wiki/Transparency_(social)" class="mw-redirect" title="Transparency (social)">social)</a></li>
+<li><a href="/wiki/United_Nations_Global_Compact" title="United Nations Global Compact">UN Global Compact</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="11" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:OilCleanupAfterValdezSpill.jpg" class="image" title="Clean up after the Exxon Valdez oil spill"><img alt="Clean up after the Exxon Valdez oil spill" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/OilCleanupAfterValdezSpill.jpg/125px-OilCleanupAfterValdezSpill.jpg" width="125" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/OilCleanupAfterValdezSpill.jpg/188px-OilCleanupAfterValdezSpill.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/OilCleanupAfterValdezSpill.jpg/250px-OilCleanupAfterValdezSpill.jpg 2x" data-file-width="400" data-file-height="259" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Social_accounting" title="Social accounting">Social<br />
+accounting</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Double_bottom_line" title="Double bottom line">Double bottom line</a></li>
+<li><a href="/wiki/Ethical_Positioning_Index_(EPI)" title="Ethical Positioning Index (EPI)">Ethical Positioning Index</a></li>
+<li><a href="/wiki/Higg_Index" title="Higg Index">Higg Index</a></li>
+<li><a href="/wiki/Impact_assessment" title="Impact assessment">Impact assessment</a>&#160;(<a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">environmental</a></li>
+<li><a href="/wiki/Equality_impact_assessment" title="Equality impact assessment">equality</a></li>
+<li><a href="/wiki/Social_impact_assessment" title="Social impact assessment">social</a>)</li>
+<li><a href="/wiki/ISO_26000" title="ISO 26000">ISO 26000</a></li>
+<li><a href="/wiki/Genuine_progress_indicator" title="Genuine progress indicator">Genuine progress indicator</a></li>
+<li><a href="/wiki/OHSAS_18001" title="OHSAS 18001">OHSAS 18001</a></li>
+<li><a href="/wiki/Performance_indicator" title="Performance indicator">Performance indicator</a></li>
+<li><a href="/wiki/SA8000" title="SA8000">SA8000</a></li>
+<li><a href="/wiki/Social_return_on_investment" title="Social return on investment">Social return on investment</a></li>
+<li><a href="/wiki/Whole-life_cost" title="Whole-life cost">Whole-life cost</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Environmental_accounting" title="Environmental accounting">Environmental<br />
+accounting</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_accounting" title="Carbon accounting">Carbon accounting</a></li>
+<li><a href="/wiki/Eco-Management_and_Audit_Scheme" title="Eco-Management and Audit Scheme">Eco-Management and Audit Scheme</a></li>
+<li><a href="/wiki/Emission_inventory" title="Emission inventory">Emission inventory</a></li>
+<li><a href="/wiki/Environmental_full-cost_accounting" title="Environmental full-cost accounting">Environmental full-cost accounting</a>&#160;/ <a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">impact assessment</a>&#160;/ <a href="/wiki/Environmental_management_system" title="Environmental management system">management system</a>&#160;/ <a href="/wiki/Environmental_profit_and_loss_account" title="Environmental profit and loss account">profit-and-loss account</a></li>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">ISO 14000</a></li>
+<li><a href="/wiki/ISO_14031" title="ISO 14031">ISO 14031:1999</a></li>
+<li><a href="/wiki/Life-cycle_assessment" title="Life-cycle assessment">Life-cycle assessment</a></li>
+<li><a href="/wiki/Pollutant_release_and_transfer_register" title="Pollutant release and transfer register">Pollutant release and transfer register</a></li>
+<li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a>&#160;/ <a href="/wiki/Sustainability_measurement" title="Sustainability measurement">measurement</a>&#160;/ <a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">metrics and indices</a>&#160;/ <a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">standards and certification</a>&#160;/ <a href="/wiki/Supply_chain_sustainability" title="Supply chain sustainability">supply chain</a></li>
+<li><a href="/wiki/Toxics_Release_Inventory" title="Toxics Release Inventory">Toxics Release Inventory</a></li>
+<li><strong class="selflink">Triple bottom line</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Reporting</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Global_Reporting_Initiative" title="Global Reporting Initiative">Global Reporting Initiative</a></li>
+<li><a href="/wiki/GxP" title="GxP">GxP guidelines</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Audit" title="Audit">Auditing</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Community-based_monitoring" title="Community-based monitoring">Community-based monitoring</a></li>
+<li><a href="/wiki/Environmental_audit" title="Environmental audit">Environmental</a>&#160;(<a href="/wiki/Environmental_certification" title="Environmental certification">certification</a>)</li>
+<li><a href="/wiki/Fair_trade" title="Fair trade">Fair trade</a>&#160;(<a href="/wiki/Fair_trade_certification" title="Fair trade certification">certification</a>)</li>
+<li><a href="/wiki/ISO_19011" title="ISO 19011">ISO 19011</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accord_on_Factory_and_Building_Safety_in_Bangladesh" class="mw-redirect" title="Accord on Factory and Building Safety in Bangladesh">Bangladesh Accord</a></li>
+<li><a href="/wiki/Benefit_corporation" title="Benefit corporation">Benefit corporation</a></li>
+<li><a href="/wiki/Child_labour" title="Child labour">Child labour</a></li>
+<li><a href="/wiki/Community_interest_company" title="Community interest company">Community interest company</a></li>
+<li><a href="/wiki/Conflict_of_interest" title="Conflict of interest">Conflict of interest</a></li>
+<li><a href="/wiki/Disaster" title="Disaster">Disasters</a></li>
+<li><a href="/wiki/Disinvestment" title="Disinvestment">Disinvestment</a></li>
+<li><a href="/wiki/Ecolabel" title="Ecolabel">Eco-labeling</a></li>
+<li><a href="/wiki/Environmental_pricing_reform" title="Environmental pricing reform">Environmental pricing reform</a></li>
+<li><a href="/wiki/Environmental,_social_and_corporate_governance" title="Environmental, social and corporate governance">Environmental, social and corporate governance</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical consumerism</a></li>
+<li><a href="/wiki/Euthenics" title="Euthenics">Euthenics</a></li>
+<li><a href="/wiki/Health_impact_assessment" title="Health impact assessment">Health impact assessment</a></li>
+<li><a href="/wiki/Market_governance_mechanism" title="Market governance mechanism">Market governance mechanism</a></li>
+<li><a href="/wiki/Product_certification" title="Product certification">Product certification</a></li>
+<li><a href="/wiki/Public_participation" title="Public participation">Public participation</a></li>
+<li><a href="/wiki/Social_enterprise" title="Social enterprise">Social enterprise</a></li>
+<li><a href="/wiki/Socially_responsible_investing" title="Socially responsible investing">Socially responsible investing</a></li>
+<li><a href="/wiki/Stakeholder_(corporate)" title="Stakeholder (corporate)">Stakeholder</a>&#160;(<a href="/wiki/Stakeholder_engagement" title="Stakeholder engagement">engagement</a>)</li>
+<li><a href="/wiki/Supply_chain_management" title="Supply chain management">Supply chain management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Social_responsibility" title="Category:Social responsibility">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Social_accountability" class="extiw" title="commons:Category:Social accountability">Commons</a></b></li>
+<li><a href="/wiki/Category:Social_responsibility_organizations" title="Category:Social responsibility organizations">Organizations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1175
+Cached time: 20170314183547
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.220 seconds
+Real time usage: 0.284 seconds
+Preprocessor visited node count: 1318/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 56160/2097152 bytes
+Template argument size: 1160/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.103/10.000 seconds
+Lua memory usage: 4.05 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  212.318      1 -total
+ 39.74%   84.379      1 Template:Reflist
+ 21.20%   45.019      2 Template:Refimprove_section
+ 15.47%   32.850      2 Template:Citation_needed
+ 14.74%   31.288      2 Template:Refimprove
+ 14.12%   29.973      2 Template:Fix
+ 13.34%   28.327      1 Template:Cite_news
+ 13.26%   28.151      2 Template:Ambox
+ 10.43%   22.150      6 Template:Cite_web
+  8.85%   18.787      1 Template:Social_accountability
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:316929-0!*!0!!en!4!* and timestamp 20170314183547 and revision id 756072442
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Triple_bottom_line&amp;oldid=756072442">https://en.wikipedia.org/w/index.php?title=Triple_bottom_line&amp;oldid=756072442</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Welfare_economics" title="Category:Welfare economics">Welfare economics</a></li><li><a href="/wiki/Category:Sustainable_business" title="Category:Sustainable business">Sustainable business</a></li><li><a href="/wiki/Category:Corporate_social_responsibility" title="Category:Corporate social responsibility">Corporate social responsibility</a></li><li><a href="/wiki/Category:Accounting_terminology" title="Category:Accounting terminology">Accounting terminology</a></li><li><a href="/wiki/Category:Accountability" title="Category:Accountability">Accountability</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2014" title="Category:Articles needing additional references from April 2014">Articles needing additional references from April 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2015" title="Category:Articles with unsourced statements from August 2015">Articles with unsourced statements from August 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2014" title="Category:Articles with unsourced statements from March 2014">Articles with unsourced statements from March 2014</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Triple+bottom+line" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Triple+bottom+line" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Triple_bottom_line"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Triple_bottom_line"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Triple_bottom_line" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Triple_bottom_line&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Triple_bottom_line&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Triple_bottom_line" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Triple_bottom_line" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Triple_bottom_line&amp;oldid=756072442" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Triple_bottom_line&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1252862" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Triple_bottom_line&amp;id=756072442" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Triple+bottom+line">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Triple+bottom+line&amp;returnto=Triple+bottom+line&amp;oldid=756072442&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Triple_bottom_line&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Troj%C3%AD_zodpov%C4%9Bdnost" title="Trojí zodpovědnost – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Drei-S%C3%A4ulen-Modell_(Nachhaltigkeit)" title="Drei-Säulen-Modell (Nachhaltigkeit) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Tulemuste_kolmikm%C3%B5%C3%B5de" title="Tulemuste kolmikmõõde – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Triple_resultado" title="Triple resultado – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Triple_bottom_line" title="Triple bottom line – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/People_Planet_Profit" title="People Planet Profit – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Trip%C3%A9_da_sustentabilidade" title="Tripé da sustentabilidade – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F_%D1%82%D1%80%D0%BE%D0%B9%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D1%8F" title="Концепция тройного критерия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Triple_bottom_line_reporting" title="Triple bottom line reporting – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1252862#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 December 2016, at 20:55.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Triple_bottom_line&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.284","ppvisitednodes":{"value":1318,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":56160,"limit":2097152},"templateargumentsize":{"value":1160,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  212.318      1 -total"," 39.74%   84.379      1 Template:Reflist"," 21.20%   45.019      2 Template:Refimprove_section"," 15.47%   32.850      2 Template:Citation_needed"," 14.74%   31.288      2 Template:Refimprove"," 14.12%   29.973      2 Template:Fix"," 13.34%   28.327      1 Template:Cite_news"," 13.26%   28.151      2 Template:Ambox"," 10.43%   22.150      6 Template:Cite_web","  8.85%   18.787      1 Template:Social_accountability"]},"scribunto":{"limitreport-timeusage":{"value":"0.103","limit":"10.000"},"limitreport-memusage":{"value":4251647,"limit":52428800}},"cachereport":{"origin":"mw1175","timestamp":"20170314183547","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>

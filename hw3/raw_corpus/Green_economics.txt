@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green economy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_economy","wgTitle":"Green economy","wgCurRevisionId":760619869,"wgRevisionId":760619869,"wgArticleId":996699,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","All articles with unsourced statements","Articles with unsourced statements from October 2011","Pages using ISBN magic links","Schools of economic thought","Industrial ecology","Natural resources","Resource economics","Socialism"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_economy","wgRelevantArticleId":996699,"wgRequestId":"WMdMogpAICwAADPlTOQAAABK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Green_economics","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Green_economy","wgWikibaseItemId":"Q598188","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/1200px-Sustainable_development.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_economy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_economy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_economy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_economy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_economy rootpage-Green_economy skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Green economy</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Green_economics&amp;redirect=no" class="mw-redirect" title="Green economics">Green economics</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Environmental_economics" title="Category:Environmental economics">a series</a> about</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em">Concepts</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Green_accounting" title="Green accounting">Green accounting</a></li>
+<li><strong class="selflink">Green economy</strong></li>
+<li><a href="/wiki/Green_trading" title="Green trading">Green trading</a></li>
+<li><a href="/wiki/Eco_commerce" title="Eco commerce">Eco commerce</a></li>
+<li><a href="/wiki/Green_job" title="Green job">Green job</a></li>
+<li><a href="/wiki/Environmental_enterprise" title="Environmental enterprise">Environmental enterprise</a></li>
+<li><a href="/wiki/Fiscal_environmentalism" title="Fiscal environmentalism">Fiscal environmentalism</a></li>
+<li><a href="/wiki/Environmental_finance" title="Environmental finance">Environmental finance</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Policies</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Sustainable tourism</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Environmental_tariff" class="mw-redirect" title="Environmental tariff">Environmental tariff</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Environmental_pricing_reform" title="Environmental pricing reform">Environmental pricing reform</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Dynamics</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li>
+<li><a href="/wiki/Marginal_abatement_cost" title="Marginal abatement cost">Marginal abatement cost</a></li>
+<li><a href="/wiki/Green_paradox" title="Green paradox">Green paradox</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Pollution_haven_hypothesis" title="Pollution haven hypothesis">Pollution haven hypothesis</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Carbon related</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Carbon_neutral_fuel" class="mw-redirect" title="Carbon neutral fuel">Carbon neutral fuel</a></li>
+<li><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon neutrality</a></li>
+<li><a href="/wiki/Carbon_pricing" class="mw-redirect" title="Carbon pricing">Carbon pricing</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_emission_trading" title="Carbon emission trading">Carbon emission trading</a></li>
+<li><a href="/wiki/Personal_carbon_trading" title="Personal carbon trading">Personal carbon trading</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Carbon_finance" title="Carbon finance">Carbon finance</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Carbon_diet" title="Carbon diet">Carbon diet</a></li>
+<li><a href="/wiki/Food_miles" title="Food miles">Food miles</a></li>
+<li><a href="/wiki/2000-watt_society" title="2000-watt society">2000-watt society</a></li>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Green_economics_sidebar" title="Template:Green economics sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Green_economics_sidebar" title="Template talk:Green economics sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_economics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>green economy</b> is defined as an <a href="/wiki/Economy" title="Economy">economy</a> that aims at reducing environmental risks and ecological scarcities, and that aims for <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a> without degrading the environment. It is closely related with <a href="/wiki/Ecological_economics" title="Ecological economics">ecological economics</a>, but has a more politically applied focus.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The 2011 <a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">UNEP</a> Green Economy Report argues "that to be green, an economy must not only be efficient, but also fair. Fairness implies recognising global and country level equity dimensions, particularly in assuring a just transition to an economy that is low-carbon, resource efficient, and socially inclusive." <sup id="cite_ref-unep.org_3-0" class="reference"><a href="#cite_note-unep.org-3">[3]</a></sup></p>
+<p>A feature distinguishing it from prior economic regimes is the direct valuation of <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a> and <a href="/wiki/Ecological_services" class="mw-redirect" title="Ecological services">ecological services</a> as having economic value (<i>see <a href="/wiki/The_Economics_of_Ecosystems_and_Biodiversity" title="The Economics of Ecosystems and Biodiversity">The Economics of Ecosystems and Biodiversity</a> and <a href="/wiki/Bank_of_Natural_Capital" title="Bank of Natural Capital">Bank of Natural Capital</a></i>) and a <a href="/wiki/Full_cost_accounting" class="mw-redirect" title="Full cost accounting">full cost accounting</a> regime in which costs externalized onto society via ecosystems are reliably traced back to, and accounted for as liabilities of, the entity that does the harm or neglects an asset.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Green Sticker and <a href="/wiki/Ecolabel" title="Ecolabel">ecolabel</a> practices have emerged as consumer facing measurements of friendliness to the environment and sustainable development. Many industries are starting to adopt these standards as a viable way to promote their greening practices in a <a href="/wiki/Globalizing" class="mw-redirect" title="Globalizing">globalizing</a> economy.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.22Green.22_economists_and_economics"><span class="tocnumber">1</span> <span class="toctext">"Green" economists and economics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Definition"><span class="tocnumber">2</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Ecological_measurements"><span class="tocnumber">3</span> <span class="toctext">Ecological measurements</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Green_energy_issues"><span class="tocnumber">4</span> <span class="toctext">Green energy issues</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Criticisms"><span class="tocnumber">5</span> <span class="toctext">Criticisms</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id=".22Green.22_economists_and_economics">"Green" economists and economics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_economy&amp;action=edit&amp;section=1" title="Edit section: &quot;Green&quot; economists and economics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Green economics" is loosely defined as any theory of economics by which an economy is considered to be component of the ecosystem in which it resides (after <a href="/wiki/Lynn_Margulis" title="Lynn Margulis">Lynn Margulis</a>). A holistic approach to the subject is typical, such that economic ideas are commingled with any number of other subjects, depending on the particular theorist. Proponents of <a href="/wiki/Feminism" title="Feminism">feminism</a>, <a href="/wiki/Postmodernism" title="Postmodernism">postmodernism</a>, the <a href="/wiki/Ecology_movement" class="mw-redirect" title="Ecology movement">ecology movement</a>, <a href="/wiki/Peace_movement" title="Peace movement">peace movement</a>, <a href="/wiki/Green_politics" title="Green politics">Green politics</a>, <a href="/wiki/Green_anarchism" title="Green anarchism">green anarchism</a> and <a href="/wiki/Anti-globalization" class="mw-redirect" title="Anti-globalization">anti-globalization</a> movement have used the term to describe very different ideas, all external to some equally ill-defined "mainstream" <a href="/wiki/Economics" title="Economics">economics</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup></p>
+<p>The use of the term is further ambiguated by the political distinction of <a href="/wiki/Green_parties" class="mw-redirect" title="Green parties">Green parties</a> which are formally organized and claim the capital-G "Green" term as a unique and distinguishing mark. It is thus preferable to refer to a loose school of "'green economists"' who generally advocate shifts towards a green economy, <a href="/wiki/Biomimicry" class="mw-redirect" title="Biomimicry">biomimicry</a> and a fuller accounting for <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a>. (<i>see <a href="/wiki/The_Economics_of_Ecosystems_and_Biodiversity" title="The Economics of Ecosystems and Biodiversity">The Economics of Ecosystems and Biodiversity</a> especially for current authoritative international work towards these goals and <a href="/wiki/Bank_of_Natural_Capital" title="Bank of Natural Capital">Bank of Natural Capital</a> for a layperson's presentation of these.</i>)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup></p>
+<p>Some economists view green economics as a branch or subfield of more established schools. For instance, it is regarded as <a href="/wiki/Classical_economics" title="Classical economics">classical economics</a> where the traditional land is generalized to <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a> and has some attributes in common with labor and physical capital (since natural capital assets like rivers directly substitute for man-made ones such as <a href="/wiki/Canal" title="Canal">canals</a>). Or, it is viewed as <a href="/wiki/Marxist_economics" class="mw-redirect" title="Marxist economics">Marxist economics</a> with nature represented as a form of <a href="/wiki/Lumpenproletariat" title="Lumpenproletariat">Lumpenproletariat</a>, an exploited base of non-human workers providing <a href="/wiki/Surplus_value" title="Surplus value">surplus value</a> to the human economy, or as a branch of <a href="/wiki/Neoclassical_economics" title="Neoclassical economics">neoclassical economics</a> in which the <a href="/wiki/Price_of_life" class="mw-redirect" title="Price of life">price of life</a> for developing vs. developed nations is held steady at a ratio reflecting a balance of power and that of non-human life is very low.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup></p>
+<p>An increasing commitment by the UNEP (and national governments such as the UK) to the ideas of <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a> and <a href="/wiki/Full_cost_accounting" class="mw-redirect" title="Full cost accounting">full cost accounting</a> under the banner 'green economy' could blur distinctions between the schools and redefine them all as variations of "green economics". As of 2010 the <a href="/wiki/Bretton_Woods_system" title="Bretton Woods system">Bretton Woods</a> institutions (notably the <a href="/wiki/World_Bank" title="World Bank">World Bank</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> and <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">International Monetary Fund</a> (via its "Green Fund" initiative) responsible for global <a href="/wiki/Monetary_policy" title="Monetary policy">monetary policy</a> have stated a clear intention to move towards <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a> valuation and a more official and universal <a href="/wiki/Biodiversity_finance" class="mw-redirect" title="Biodiversity finance">biodiversity finance</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup> Taking these into account targeting not less but radically zero emission and waste is what is promoted by the <a href="/wiki/Zero_Emissions_Research_and_Initiatives" title="Zero Emissions Research and Initiatives">Zero Emissions Research and Initiatives</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup> The UNEP 2011 Green Economy Report informs that "[b]ased on existing studies, the annual financing demand to green the global economy was estimated to be in the range US$ 1.05 to US$ 2.59 trillion. To place this demand in perspective, it is about one-tenth of total global investment per year, as measured by global Gross Capital Formation." <sup id="cite_ref-unep.org_3-1" class="reference"><a href="#cite_note-unep.org-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_economy&amp;action=edit&amp;section=2" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Karl Burkart defines a green economy as based on six main sectors:<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<ul>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Green_building" title="Green building">Green buildings</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Sustainable transport</a></li>
+<li><a href="/wiki/Water_management" class="mw-redirect" title="Water management">Water management</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+<li><a href="/wiki/Land_management" title="Land management">Land management</a></li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;">
+<div class="noresize"><map name="ImageMap_1_1429511692" id="ImageMap_1_1429511692">
+<area href="/wiki/Environment_(biophysical)" shape="poly" coords="52,73,55,82,61,90,68,96,82,104,99,109,98,117,99,124,102,132,106,137,112,144,118,148,108,153,98,156,84,159,68,160,58,159,45,156,33,151,22,144,15,138,9,130,6,123,5,116,6,107,10,99,16,90,24,84,31,79,40,76" alt="Environment" title="Environment" />
+<area href="/wiki/Equity_(economics)" shape="poly" coords="121,82,125,85,129,88,132,91,135,94,137,99,139,103,141,108,150,105,156,102,164,99,170,94,175,90,179,86,183,80,186,72,181,71,174,70,159,70,149,72,141,73,132,76" alt="Equitable" title="Equitable" />
+<area href="/wiki/Sustainable_development" shape="poly" coords="120,83,124,86,126,88,130,91,134,97,137,101,139,108,134,108,129,109,120,109,114,109,106,109,100,108,102,103,104,98,108,93,111,90" alt="Sustainable" title="Sustainable" />
+<area href="/wiki/Social_ecology" shape="poly" coords="53,72,63,70,69,70,79,70,88,71,99,73,107,76,114,79,118,82,114,85,111,88,107,92,103,97,101,102,99,108,93,106,86,104,78,100,71,96,64,91,59,85,56,79" alt="Bearable (Social ecology)" title="Bearable (Social ecology)" />
+<area href="/wiki/Environmental_economics" shape="poly" coords="100,109,99,114,100,120,103,129,106,135,110,139,114,143,120,147,124,144,129,140,133,136,136,130,139,124,140,119,140,114,139,109,136,110,129,111,121,111,113,111,107,110" alt="Viable (Environmental economics)" title="Viable (Environmental economics)" />
+<area href="/wiki/Economics" shape="poly" coords="188,72,195,74,203,77,210,81,218,85,226,93,231,100,234,107,235,114,234,122,231,129,228,135,223,140,217,145,211,149,202,153,194,156,185,158,175,159,162,160,155,159,148,158,141,156,132,153,126,150,121,148,126,145,131,139,135,135,140,124,141,117,141,112,141,109,145,108,154,105,172,96,180,87" alt="Economic" title="Economic" />
+<area href="/wiki/Society" shape="poly" coords="53,70,52,65,54,55,57,47,63,40,72,33,81,28,91,24,105,21,116,20,132,20,142,22,156,27,168,33,173,37,178,42,183,48,186,55,187,61,187,66,187,71,177,69,169,69,154,69,138,73,126,77,120,81,114,78,105,74,96,72,86,69,75,69,75,68,75,69" alt="Social" title="Social" /></map><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/300px-Sustainable_development.svg.png" width="300" height="191" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/450px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/600px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" usemap="#ImageMap_1_1429511692" /></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sustainable_development.svg" class="internal" title="Enlarge"></a></div>
+The three pillars of sustainability.</div>
+</div>
+</div>
+<p>The <a href="/wiki/International_Chamber_of_Commerce" title="International Chamber of Commerce">International Chamber of Commerce</a> (ICC) representing global business defines green economy as “an economy in which economic growth and environmental responsibility work together in a mutually reinforcing fashion while supporting progress on social development”.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>In 2012, the ICC published the Green Economy Roadmap, containing contributions from experts from around the globe brought together in a two-year consultation process. The Roadmap represents a comprehensive and multidisciplinary effort to clarify and frame the concept of “green economy”. It highlights the essential role of business in bringing solutions to common global challenges. It sets out the following 10 conditions which relate to business/intra-industry and collaborative action for a transition towards a green economy:</p>
+<ul>
+<li>Open and competitive markets</li>
+<li>Metrics, accounting, and reporting</li>
+<li>Finance and investment</li>
+<li>Awareness</li>
+<li>Life cycle approach</li>
+<li>Resource efficiency and decoupling</li>
+<li>Employment</li>
+<li>Education and skills</li>
+<li>Governance and partnership</li>
+<li>Integrated policy and decision-making</li>
+</ul>
+<h2><span class="mw-headline" id="Ecological_measurements">Ecological measurements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_economy&amp;action=edit&amp;section=3" title="Edit section: Ecological measurements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Measuring economic output and progress is done through the use of <a href="/wiki/Index_(economics)" title="Index (economics)">economic index</a> indicators. Green indices emerged from the need to measure human ecological impact, efficiency sectors like transport, energy, buildings and tourism, as well as the investment flows targeted to areas like renewable energy and cleantech innovation.</p>
+<ol>
+<li>2010 - 2016 Global Green Economy Index™ (GGEI),<sup id="cite_ref-ggei_9-0" class="reference"><a href="#cite_note-ggei-9">[9]</a></sup> published by consultancy Dual Citizen LLC is in its 5th edition. It measures the green economic performance and perceptions of it in 80 countries and 50 cities along four main dimensions of leadership &amp; climate change, efficiency sectors, markets &amp; investment and the environment.</li>
+<li>2009 - 2012 Green City Index <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> A global study commissioned by <a href="/wiki/Siemens" title="Siemens">Siemens</a></li>
+<li>2009 - 2013 <a href="/wiki/Circles_of_Sustainability" title="Circles of Sustainability">Circles of Sustainability</a> project scored 5 cities in 5 separate countries.</li>
+</ol>
+<p><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a> measurements are a way to gauge anthropogenic impact and are another standard used by municipal governments.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Green_energy_issues">Green energy issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_economy&amp;action=edit&amp;section=4" title="Edit section: Green energy issues">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Green economies require <a href="/wiki/Green_energy" class="mw-redirect" title="Green energy">green energy</a> generation based on <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> to replace <a href="/wiki/Fossil_fuels" class="mw-redirect" title="Fossil fuels">fossil fuels</a> as well as <a href="/wiki/Energy_conservation" title="Energy conservation">energy conservation</a> and <a href="/wiki/Efficient_energy_use" title="Efficient energy use">efficient energy use</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup></p>
+<p>There is justification for <a href="/wiki/Market_failure" title="Market failure">market failure</a> to respond to <a href="/wiki/Environmental_protection" title="Environmental protection">environmental protection</a> and <a href="/wiki/Climate_protection" class="mw-redirect" title="Climate protection">climate protection</a> needs with the excuse that high <a href="/wiki/External_costs" class="mw-redirect" title="External costs">external costs</a> and high initial costs for research, development, and marketing of <a href="/wiki/Green_energy" class="mw-redirect" title="Green energy">green energy</a> sources and green products prevents firms from voluntarily reducing their ecological footprints.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> The green economy may need government subsidies as market incentives to motivate firms to invest and produce green products and services. The <a href="/wiki/German_Renewable_Energy_Act" class="mw-redirect" title="German Renewable Energy Act">German Renewable Energy Act</a>, legislations of many other <a href="/wiki/Member_states_of_the_European_Union" class="mw-redirect" title="Member states of the European Union">member states of the European Union</a> and the <a href="/wiki/American_Recovery_and_Reinvestment_Act_of_2009" title="American Recovery and Reinvestment Act of 2009">American Recovery and Reinvestment Act of 2009</a>, all provide such market incentives.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup> However, other experts<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> argue that green strategies can be highly profitable for corporations that understand the business case for sustainability and can market green products and services beyond the traditional green consumer.</p>
+<h2><span class="mw-headline" id="Criticisms">Criticisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_economy&amp;action=edit&amp;section=5" title="Edit section: Criticisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A number of organisations and individuals have criticised aspects of the 'Green Economy', particularly the mainstream conceptions of it based on using <a href="/wiki/The_Economics_of_Ecosystems_and_Biodiversity" title="The Economics of Ecosystems and Biodiversity">price mechanisms to protect nature</a>, arguing that this will extend corporate control into new areas from forestry to water. The research organisation ETC Group argues that the corporate emphasis on bio-economy "will spur even greater convergence of corporate power and unleash the most massive resource grab in more than 500 years."<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Venezuelan professor Edgardo Lander says that the UNEP's report, <i>Towards a Green Economy</i>,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> while well-intentioned "ignores the fact that the capacity of existing political systems to establish regulations and restrictions to the free operation of the markets – even when a large majority of the population call for them – is seriously limited by the political and financial power of the corporations."<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Ulrich Hoffmann, in a paper for <a href="/wiki/UNCTAD" class="mw-redirect" title="UNCTAD">UNCTAD</a> also says that the focus on Green Economy and "green growth" in particular, "based on an evolutionary (and often reductionist) approach will not be sufficient to cope with the complexities of climate change" and "may rather give much false hope and excuses to do nothing really fundamental that can bring about a U-turn of global <a href="/wiki/Greenhouse_gas_emissions" class="mw-redirect" title="Greenhouse gas emissions">greenhouse gas emissions</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Clive Spash, an ecological economist, has criticised the use of economic growth to address environmental losses,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> and argued that the Green Economy, as advocated by the UN, is not a new approach at all and is actually a diversion from the real drivers of environmental crisis.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> He has also criticised the UN's project on the economics of ecosystems and biodiversity (TEEB),<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> and the basis for valuing ecosystems services in monetary terms.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_economy&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Agroecology" title="Agroecology">Agroecology</a></li>
+<li><a href="/wiki/Alternative_energy_indexes" title="Alternative energy indexes">Alternative energy indexes</a></li>
+<li><a href="/wiki/Chemical_Leasing" class="mw-redirect" title="Chemical Leasing">Chemical Leasing</a></li>
+<li><a href="/wiki/Circular_Economy" class="mw-redirect" title="Circular Economy">Circular Economy</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecological_Economics" class="mw-redirect" title="Ecological Economics">Ecological Economics</a></li>
+<li><a href="/wiki/Ecology_of_contexts" title="Ecology of contexts">Ecology of contexts</a></li>
+<li><a href="/wiki/Embodied_energy" title="Embodied energy">Embodied energy</a></li>
+<li><a href="/wiki/Embodied_water" class="mw-redirect" title="Embodied water">Embodied water</a></li>
+<li><a href="/wiki/Energy_accounting" title="Energy accounting">Energy accounting</a></li>
+<li><a href="/wiki/Energy_economics" title="Energy economics">Energy economics</a></li>
+<li><a href="/wiki/Energy_policy" title="Energy policy">Energy policy</a></li>
+<li><a href="/wiki/Energy_quality" title="Energy quality">Energy quality</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Exergy" title="Exergy">Exergy</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Free-market_environmentalism" title="Free-market environmentalism">Free-market environmentalism</a></li>
+<li><a href="/wiki/Green_accounting" title="Green accounting">Green accounting</a></li>
+<li><a href="/wiki/Human_development_theory" title="Human development theory">Human development theory</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">ISO 14000</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Land_value_tax" title="Land value tax">Land value tax</a></li>
+<li><a href="/wiki/List_of_Green_topics" class="mw-redirect" title="List of Green topics">List of Green topics</a></li>
+<li><a href="/wiki/Market_governance_mechanism" title="Market governance mechanism">Market Governance Mechanisms</a></li>
+<li><a href="/wiki/Natural_capital" title="Natural capital">Natural capital</a></li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Natural resource economics</a></li>
+<li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li>
+<li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li>
+<li><a href="/wiki/Restoration_economy" title="Restoration economy">Restoration economy</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable design</a></li>
+<li><a href="/wiki/Clean_Tech_Nation" title="Clean Tech Nation">Clean Tech Nation</a></li>
+<li><a href="/wiki/The_Economics_of_Ecosystems_and_Biodiversity" title="The Economics of Ecosystems and Biodiversity">The Economics of Ecosystems and Biodiversity</a> (TEEB)</li>
+<li><a href="/wiki/World_energy_resources_and_consumption" class="mw-redirect" title="World energy resources and consumption">World energy resources and consumption</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_economy&amp;action=edit&amp;section=7" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unep.org/greeneconomy/AboutGEI/WhatisGEI/tabid/29784/Default.aspx">"-- United Nations Environment Programme (UNEP) - Error page --"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.btitle=--+United+Nations+Environment+Programme+%28UNEP%29+-+Error+page+--&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.unep.org%2Fgreeneconomy%2FAboutGEI%2FWhatisGEI%2Ftabid%2F29784%2FDefault.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Lynn R. Kahle, Eda Gurel-Atay, Eds (2014). <i>Communicating Sustainability for the Green Economy</i>. New York: M.E. Sharpe. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7656-3680-5" title="Special:BookSources/978-0-7656-3680-5">978-0-7656-3680-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.au=Lynn+R.+Kahle%2C+Eda+Gurel-Atay%2C+Eds&amp;rft.btitle=Communicating+Sustainability+for+the+Green+Economy&amp;rft.date=2014&amp;rft.genre=book&amp;rft.isbn=978-0-7656-3680-5&amp;rft.place=New+York&amp;rft.pub=M.E.+Sharpe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-unep.org-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-unep.org_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-unep.org_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">UNEP, 2011, Towards a Green Economy: Pathways to Sustainable Development and Poverty Eradication, www.unep.org/greeneconomy</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sapiens.revues.org/1150">Runnals, D. (2011) “Environment and economy: joined at the hip or just strange bedfellows?”. <i>S.A.P.I.EN.S.</i> <b>4</b> (1)</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/science-environment-11642538">"World Bank to lead economic push on nature protection"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.atitle=World+Bank+to+lead+economic+push+on+nature+protection&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fscience-environment-11642538&amp;rft.jtitle=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mnn.com/green-tech/research-innovations/blogs/how-do-you-define-the-green-economy">"How do you define the 'green' economy?"</a>. MNN - Mother Nature Network. 2009-01-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-11-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.btitle=How+do+you+define+the+%27green%27+economy%3F&amp;rft.date=2009-01-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mnn.com%2Fgreen-tech%2Fresearch-innovations%2Fblogs%2Fhow-do-you-define-the-green-economy&amp;rft.pub=MNN+-+Mother+Nature+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iccwbo.org/products-and-services/trade-facilitation/green-economy-roadmap">"Green Economy Roadmap"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.btitle=Green+Economy+Roadmap&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iccwbo.org%2Fproducts-and-services%2Ftrade-facilitation%2Fgreen-economy-roadmap&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.uncsd2012.org/content/documents/528Green%20Economy%20Guidebook_100912_FINAL.pdf">UNDESA, (2012). A guidebook to the Green Economy.</a></span></li>
+<li id="cite_note-ggei-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-ggei_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dualcitizeninc.com/GGEI-2016.pdf">"2016 Global Green Economy Index"</a> <span style="font-size:85%;">(PDF)</span>. Dual Citizen LLC. 19 September 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.btitle=2016+Global+Green+Economy+Index&amp;rft.date=2016-09-19&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdualcitizeninc.com%2FGGEI-2016.pdf&amp;rft.pub=Dual+Citizen+LLC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.siemens.com/entry/cc/en/greencityindex.htm">"Home - English - Siemens Global Website"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.btitle=Home+-+English+-+Siemens+Global+Website&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.siemens.com%2Fentry%2Fcc%2Fen%2Fgreencityindex.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fcm.ca/Documents/reports/Ecological_Footprints_of_Canadian_Municipalities_and_Regions_EN.pdf">http://www.fcm.ca/Documents/reports/Ecological_Footprints_of_Canadian_Municipalities_and_Regions_EN.pdf</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">(Reinhardt, 1999; King and Lenox, 2002; Wagner, 203; Wagner, et al., 2005)</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="/wiki/Amory_Lovins" title="Amory Lovins">Amory Lovins</a>, <a href="/wiki/Hunter_Lovins" title="Hunter Lovins">Hunter Lovins</a>, and <a href="/wiki/Paul_Hawken" title="Paul Hawken">Paul Hawken</a>, authors of <i><a href="/wiki/Natural_Capitalism:_Creating_the_Next_Industrial_Revolution" class="mw-redirect" title="Natural Capitalism: Creating the Next Industrial Revolution">Natural Capitalism: Creating the Next Industrial Revolution</a></i>, and <a href="/wiki/Jay_Conrad_Levinson" title="Jay Conrad Levinson">Jay Conrad Levinson</a> and <a href="/wiki/Shel_Horowitz" title="Shel Horowitz">Shel Horowitz</a>, authors of <i>Guerrilla Marketing Goes Green</i></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.etcgroup.org/en/node/5296,">Etcgroup (2011) “Who will control the Green Economy"</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unep.org/greeneconomy/greeneconomyreport/tabid/29846/default.aspx">"Green Economy - Green Economy Report"</a>. UNEP. 2011-11-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-11-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.btitle=Green+Economy+-+Green+Economy+Report&amp;rft.date=2011-11-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.unep.org%2Fgreeneconomy%2Fgreeneconomyreport%2Ftabid%2F29846%2Fdefault.aspx&amp;rft.pub=UNEP&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tni.org/report/green-economy-wolf-sheeps-clothing">"The Green Economy: the Wolf in Sheep's clothing"</a>. <i>Transnational Institute</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.atitle=The+Green+Economy%3A+the+Wolf+in+Sheep%99s+clothing&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tni.org%2Freport%2Fgreen-economy-wolf-sheeps-clothing&amp;rft.jtitle=Transnational+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unctad.org/en/PublicationsLibrary/osgdp2011d5_en.pdf,">U.Hoffmann (2011), "Some reflections on climate change, green growth illusions and development space"</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.clivespash.org/fgml.pdf">Spash, C.L. 2007. Fallacies of economic growth in addressing environmental losses: Human induced climatic change. Newsletter of the Australia New Zealand Society for Ecological Economics (ANZSEE), no. May, 2-4</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://econpapers.repec.org/article/envjournl/ev21_3aeditev212.htm">"EconPapers: Green Economy, Red Herring"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.btitle=EconPapers%3A+Green+Economy%2C+Red+Herring&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Feconpapers.repec.org%2Farticle%2Fenvjournl%2Fev21_3aeditev212.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.clivespash.org/Spash_TEEB_2011_EV_v20_no2_final.pdf">Spash, C.L. 2011. Terrible economics, ecosystems and banking. Environmental Values, vol. 20, no. 2, 141-145</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.clivespash.org/Spash_Ecosystem_Value_EV_2008.pdf">Spash, C.L. 2008. How much is that ecosystem in the window? The one with the bio-diverse trail. Environmental Values, vol. 17, no. 2, 259-284</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_economy&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li>Jeremy Rifkin (2013), <a rel="nofollow" class="external text" href="http://www.thethirdindustrialrevolution.com/">"The Third Industrial Revolution"</a>. VII,233-242</li>
+<li>Brand, Ulrich (2012), "<a rel="nofollow" class="external text" href="http://www.ingentaconnect.com/search/article?option2=author&amp;value2=Ulrich+Brand&amp;sortDescending=true&amp;sortField=default&amp;pageSize=10&amp;index=1">Green Economy - the Next Oxymoron? No Lessons Learned from Failures of Implementing Sustainable Development</a>. GAIA 21(1): 28-35.</li>
+<li>Common, M. and Stagl, S. 2005. <i>Ecological Economics: An Introduction</i>. New York: Cambridge University Press.</li>
+<li>Daly, H. and Townsend, K. (eds.) 1993. <i>Valuing The Earth: Economics, Ecology, Ethics</i>. Cambridge, Mass.; London, England: MIT Press.</li>
+<li>Georgescu-Roegen, N. 1975. Energy and economic myths. <i>Southern Economic Journal</i> 41: 347-381.</li>
+<li>Hahnel, R. (2010), <i>Green Economics: Confronting the Ecological Crisis</i>. New York: M. E. Sharpe.</li>
+<li>Horowitz, S. 2010. "Amory Lovins: Reinventing Human Enterprise for Sustainability" Down to Business magazine, <a rel="nofollow" class="external free" href="http://frugalmarketing.com/dtb/amorylovins.shtml">http://frugalmarketing.com/dtb/amorylovins.shtml</a>.</li>
+<li>International Chamber of Commerce (ICC), (2012), <a rel="nofollow" class="external text" href="http://www.iccwbo.org/products-and-services/trade-facilitation/green-economy-roadmap">"ICC Green Economy Roadmap. A guide for business, policymakers and society"</a>.</li>
+<li>Kennet M., and Heinemann V, (2006) Green Economics, Setting the Scene. in International Journal of Green Economics, Vol 1 issue 1/2 (2006) Inderscience, Geneva.</li>
+<li>Kennet M., (2009) Emerging Pedogogy in an Emerging Discipline, Green Economics in Reardon J., (2009) Pluralist education, Routledge.</li>
+<li>Kennet M., (2008) Introduction to Green Economics, in Harvard School Economics Review.</li>
+<li>Kennet M.,and Kamarudin N., (2012) Green Economics: The Greening of Asia and China. The Green Economics Institute.</li>
+<li>Kennet M.,and Winston Ka-Ming Mak (2012) Green Economics and Climate Change. The Green Economics Institute</li>
+<li>Kennet M., and <a href="/wiki/Michelle_Gale_De_Oliveira" title="Michelle Gale De Oliveira">Michelle Gale De Oliveira</a>, and Winchester A., (2012) Green Economics:Women's Unequal Pay and Poverty. The Green Economics Institute</li>
+<li>Kennet M.,and Winchester A. and Felton J. (2012) Green Economics:Voices of Africa. The Green Economics Institute.</li>
+<li>Kennet M., and Felton J.,(2012)The Green Built Environment:A Handbook. The Green Economics Institute.</li>
+<li>Kennet M., and Courea E, Pepinyte (2011) Handbook of Green Economics. The Green Economics Institute.</li>
+<li>Kennet M., (2012) The Green Economics Reader. The Green Economics Institute.</li>
+<li>Kennet M., Heinemann V. and Gale De Oliviera M., (2010) Green Economics in Il Libro del Anno, Trecani. Italy.</li>
+<li>Kennet M.(2011) Green Economics. in Latvian Institute of Science Papers. (2011)</li>
+<li>Kennet M., (2009) Green Economics and the Socio Ecological Transformation, in Rosa Luxemburg Foundation Occasional Papers.71. G. Krause Dietz.</li>
+<li>Kennet M., (2010) Kennet, in 200 Visionaries. in Murtha. W. (2010) Red Wheel Publishers.</li>
+<li>Kennet M., and Gale de Oliveira (2012) Greening the Academy. Syracuse University.</li>
+<li>Kennet M., (2010) Green Economics. in Reardon J., Pluralist Education. Routledge.</li>
+<li>Kennet M., and Jocuite K., (2011) Green Economics and the Age of Global Transformation. in Proceedings of the 6th Annual Oxford University Conference on Green Economics, The Green Economics Institute. Ed. K.Jociute. (2011).</li>
+<li>King, Andrew; Lenox, Michael, 2002. ‘Does it really pay to be green?’ Journal of Industrial Ecology 5, 105-117.</li>
+<li>Krishnan R, Harris JM, Goodwin NR. (1995). <i>A Survey of Ecological Economics</i>. Island Press. <a href="/wiki/Special:BookSources/1559634111" class="internal mw-magiclink-isbn">ISBN 1-55963-411-1</a>, <a href="/wiki/Special:BookSources/9781559634113" class="internal mw-magiclink-isbn">ISBN 978-1-55963-411-3</a>.</li>
+<li>Martinez-Alier, J. (1990) Ecological Economics: Energy, Environment and Society. Oxford, England: Basil Blackwell.</li>
+<li>Martinez-Alier, J., Ropke, I. eds.(2008), Recent Developments in Ecological Economics, 2 vols., E. Elgar, Cheltenham, UK.</li>
+<li>Røpke, I. (2004) The early history of modern ecological economics. Ecological Economics 50(3-4): 293-314.</li>
+<li>Røpke, I. (2005) Trends in the development of ecological economics from the late 1980s to the early 2000s. Ecological Economics 55(2): 262-290.</li>
+<li>Reinhardt, F. (1999) ‘Market failure and the environmental policies of firms: economic rationales for ‘beyond compliance’ behavior.’ Journal of Industrial Ecology 3(1), 9-21.</li>
+<li><cite id="CITEREFScott_Cato2009" class="citation book"><a href="/wiki/Molly_Scott_Cato" title="Molly Scott Cato">Scott Cato, Molly</a> (2009). <a rel="nofollow" class="external text" href="https://books.google.com/books/about/Green_Economics.html?id=f385apGjlVYC&amp;redir_esc=y"><i>Green Economics: An Introduction to Theory, Policy and Practice</i></a>. <a href="/wiki/Earthscan" title="Earthscan">Earthscan</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1844075710" title="Special:BookSources/1844075710">1844075710</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.aufirst=Molly&amp;rft.aulast=Scott+Cato&amp;rft.btitle=Green+Economics%3A+An+Introduction+to+Theory%2C+Policy+and+Practice&amp;rft.date=2009&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FGreen_Economics.html%3Fid%3Df385apGjlVYC%26redir_esc%3Dy&amp;rft.isbn=1844075710&amp;rft.pub=Earthscan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Shmelev S., ed. (2017) Green Economy Reader. Lectures in Ecological Economics and Sustainability. Springer, 463 pp. <a rel="nofollow" class="external free" href="http://www.springer.com/gb/book/9783319389172">http://www.springer.com/gb/book/9783319389172</a></li>
+<li>Shmelev S. (2012) Ecological Economics: Sustainability in Practice. Springer, 248 pp. <a rel="nofollow" class="external free" href="http://www.springer.com/gb/book/9789400719712">http://www.springer.com/gb/book/9789400719712</a></li>
+<li>Shmelev S., Shmeleva I.A., eds. (2012) Sustainability Analysis: An Interdisciplinary Approach. Palgrave, 335 pp. <a rel="nofollow" class="external free" href="http://www.springer.com/gb/book/9780230355248">http://www.springer.com/gb/book/9780230355248</a></li>
+<li>Spash, C. L. (1999) The development of environmental thinking in economics. Environmental Values 8(4): 413-435.</li>
+<li>Vatn, A. (2005) Institutions and the Environment. Cheltenham: Edward Elgar</li>
+<li>United Nations Division for Sustainable Development (UNDESA) (2012), <a rel="nofollow" class="external text" href="http://www.uncsd2012.org/content/documents/528Green%20Economy%20Guidebook_100912_FINAL.pdf">“A guidebook to the Green Economy”</a>.</li>
+<li>United Nations Environment Programme (2010), Green Economy Report: A Preview. <a rel="nofollow" class="external free" href="http://www.unep.org/GreenEconomy/LinkClick.aspx?fileticket=JvDFtjopXsA%3d&amp;tabid=1350&amp;language=en-US">http://www.unep.org/GreenEconomy/LinkClick.aspx?fileticket=JvDFtjopXsA%3d&amp;tabid=1350&amp;language=en-US</a></li>
+<li>United Nations Environment Programme (2010), Developing Countries Success Stories. <a rel="nofollow" class="external free" href="http://www.unep.org/pdf/GreenEconomy_SuccessStories.pdf">http://www.unep.org/pdf/GreenEconomy_SuccessStories.pdf</a></li>
+<li>United Nations Environment Programme (2010), A Brief for Policymakers on the Green Economy and Millennium Development Goals. <a rel="nofollow" class="external free" href="http://www.unep.org/greeneconomy/Portals/30/docs/policymakers_brief_GEI&amp;MDG.pdf">http://www.unep.org/greeneconomy/Portals/30/docs/policymakers_brief_GEI&amp;MDG.pdf</a></li>
+<li>United Nations Environment Programme (2010), Driving a Green Economy Through Public Finance and Fiscal Policy Reform. <a rel="nofollow" class="external free" href="http://www.unep.org/greeneconomy/Portals/30/docs/DrivingGreenEconomy.pdf">http://www.unep.org/greeneconomy/Portals/30/docs/DrivingGreenEconomy.pdf</a></li>
+<li>United Nations Environment Programme (2009), Global Green New Deal Update, <a rel="nofollow" class="external free" href="http://www.unep.org/greeneconomy/LinkClick.aspx?fileticket=ciH9RD7XHwc%3d&amp;tabid=1394&amp;language=en-US">http://www.unep.org/greeneconomy/LinkClick.aspx?fileticket=ciH9RD7XHwc%3d&amp;tabid=1394&amp;language=en-US</a></li>
+<li>United Nations Environment Programme (2009), Global Green New Deal, Policy brief, <a rel="nofollow" class="external free" href="http://www.unep.org/pdf/A_Global_Green_New_Deal_Policy_Brief.pdf">http://www.unep.org/pdf/A_Global_Green_New_Deal_Policy_Brief.pdf</a></li>
+<li>United Nations Environment Programme (2008), Green Jobs: Towards Decent Work in a Sustainable, Low-Carbon World (Policy messages and main findings for decision makers), <a rel="nofollow" class="external free" href="http://www.unep.org/greeneconomy/LinkClick.aspx?fileticket=hR62Ck7RTX4%3d&amp;tabid=1377&amp;language=en-US">http://www.unep.org/greeneconomy/LinkClick.aspx?fileticket=hR62Ck7RTX4%3d&amp;tabid=1377&amp;language=en-US</a></li>
+<li>United Nations Environment Programme (2008), ‘Global green new deal - environmentally-focused investment historic opportunity for 21st century prosperity and job generation.’ London/Nairobi, October 22.</li>
+<li>Wagner, Ma. (2003) "Does it pay to be eco-efficient in the European energy supply industry?" Zeitschrift für Energiewirtschaft 27(4), 309-318.</li>
+<li>Wagner, M. et al. (2002) "The relationship between environmental and economic performance of firms: what does the theory propose and what does the empirical evidence tell us?" Greener Management International 34, 95-108.</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_economy&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.iccwbo.org/products-and-services/trade-facilitation/green-economy-roadmap">ICC Green Economy Roadmap</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.greeneconomycoalition.org">The Green Economy Coalition</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.2tix.net/zone/edit_page2.php">The Green Economist</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.unep.org/greeneconomy">UNEP – The Green Economy Initiative</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.earthsummit2012.org/">The 2012 Earth Summit</a></li>
+<li><a rel="nofollow" class="external text" href="http://greeneconomics.org.uk/">The Green Economics Institute</a></li>
+<li><a rel="nofollow" class="external text" href="http://greeneconomicsinstitute.wordpress.com/">The Green Economics Institute Global Campaigning Forum</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ecoeco.org/">The International Society for Ecological Economics (ISEE)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.americanprogress.org/issues/2008/09/green_recovery.html">Green Recovery</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inderscience.com/ijge">The International Journal of Green Economics</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.earth-policy.org/Indicators/index.htm">Eco-Economy Indicators</a></li>
+<li><a rel="nofollow" class="external text" href="http://earthtrends.wri.org/index.php">EarthTrends World Resources Institute</a></li>
+<li><a rel="nofollow" class="external text" href="http://inspiredeconomist.com/">The Inspired Economist</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ecoeco.org/education_encyclopedia.php">Ecological Economics Encyclopedia</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.elsevier.com/locate/ecolecon">The academic journal, <i>Ecological Economics</i></a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ussee.org/">The US Society of Ecological Economics</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.beijer.kva.se/">The Beijer International Institute for Ecological Economics</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.greeneconomist.org/">Green Economist website</a></li>
+<li><a rel="nofollow" class="external text" href="http://sustainableprosperity.ca/">Sustainable Prosperity</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.uvm.edu/giee">The Gund Institute of Ecological Economics</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.economics.rpi.edu/ecological.html">Ecological Economics at Rensselaer Polytechnic Institute</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fs.fed.us/eco/s21pre.htm">An ecological economics article about reconciling economics and its supporting ecosystem</a></li>
+<li><a rel="nofollow" class="external text" href="http://sef.umd.edu/files/ScientificAmerican_Daly_05.pdf">"Economics in a Full World", by Herman E. Daly</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.economics.noaa.gov/?goal=ecosystems">NOAA Economics of Ecosystems Data &amp; Products</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Sustainability" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sustainability" style="font-size:114%"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Population" title="Population">Population</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a href="/wiki/Human_population_control" class="mw-redirect" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Food</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Water</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Water_crisis" class="mw-redirect" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" class="mw-redirect" title="Water footprint">Footprint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Accountability</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Education_for_Sustainable_Development" class="mw-redirect" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a href="/wiki/Sustainable_market" class="mw-redirect" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a href="/wiki/Sustainability_practices_in_organizations" class="mw-redirect" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a href="/wiki/Sustainable_urban_drainage_systems" class="mw-redirect" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Management</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Agreements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="Crystal energy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/22px-Crystal_energy.svg.png" width="22" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/34px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="Aegopodium podagraria1 ies.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg" width="24" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/36px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a></span><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png" width="24" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/36px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Earth_Day_Flag.png" class="image"><img alt="Earth Day Flag.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/24px-Earth_Day_Flag.png" width="24" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/36px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 2x" data-file-width="6000" data-file-height="4000" /></a></span><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:The_Earth_seen_from_Apollo_17_with_transparent_background.png" class="image"><img alt="The Earth seen from Apollo 17 with transparent background.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/21px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/32px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/42px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" data-file-width="2790" data-file-height="2776" /></a></span><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Complex-adaptive-system.jpg" class="image"><img alt="Complex-adaptive-system.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/24px-Complex-adaptive-system.jpg" width="24" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/36px-Complex-adaptive-system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/48px-Complex-adaptive-system.jpg 2x" data-file-width="2100" data-file-height="1500" /></a></span><a href="/wiki/Portal:Systems_science" title="Portal:Systems science">Systems science portal</a></span></li>
+</ul>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20170312070359
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.256 seconds
+Real time usage: 0.319 seconds
+Preprocessor visited node count: 1802/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 71740/2097152 bytes
+Template argument size: 7511/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 4.02 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  247.261      1 -total
+ 37.67%   93.132      7 Template:Citation_needed
+ 33.90%   83.812      7 Template:Fix
+ 30.68%   75.853      1 Template:Reflist
+ 21.44%   53.012      9 Template:Cite_web
+ 17.34%   42.876      7 Template:Delink
+ 14.61%   36.131     14 Template:Category_handler
+  9.65%   23.861      1 Template:Green_economics_sidebar
+  8.91%   22.035      1 Template:Sidebar
+  5.07%   12.525      1 Template:Sustainability
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:996699-0!*!0!!en!4!* and timestamp 20170312070358 and revision id 760619869
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_economy&amp;oldid=760619869">https://en.wikipedia.org/w/index.php?title=Green_economy&amp;oldid=760619869</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Schools_of_economic_thought" title="Category:Schools of economic thought">Schools of economic thought</a></li><li><a href="/wiki/Category:Industrial_ecology" title="Category:Industrial ecology">Industrial ecology</a></li><li><a href="/wiki/Category:Natural_resources" title="Category:Natural resources">Natural resources</a></li><li><a href="/wiki/Category:Resource_economics" title="Category:Resource economics">Resource economics</a></li><li><a href="/wiki/Category:Socialism" title="Category:Socialism">Socialism</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2011" title="Category:Articles with unsourced statements from October 2011">Articles with unsourced statements from October 2011</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+economy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+economy" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_economy"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Green_economy"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Green_economy" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Green_economy&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_economy&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_economy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_economy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_economy&amp;oldid=760619869" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_economy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q598188" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_economy&amp;id=760619869" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+economy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Green+economy&amp;returnto=Green+economy&amp;oldid=760619869&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_economy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%A3%D8%AE%D8%B6%D8%B1" title="اقتصاد أخضر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Green_Economy" title="Green Economy – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Rohemajandus" title="Rohemajandus – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ekonomia_berde" title="Ekonomia berde – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%B3%D8%A8%D8%B2" title="اقتصاد سبز – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89conomie_verte" title="Économie verte – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Ekonomi_Hijau" title="Ekonomi Hijau – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Economia_verde" title="Economia verde – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%96%D0%B0%D1%81%D1%8B%D0%BB_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0" title="Жасыл экономика – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Gr%C3%A9ng_Economie" title="Gréng Economie – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/%C5%BDalioji_ekonomika" title="Žalioji ekonomika – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%95%D0%BA%D0%BE%D0%BB%D0%BE%D1%88%D0%BA%D0%B0_%D0%B5%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%98%D0%B0" title="Еколошка економија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B9%E0%B4%B0%E0%B4%BF%E0%B4%A4%E0%B4%B8%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B4%A6%E0%B5%8D%E0%B4%98%E0%B4%9F%E0%B4%A8" title="ഹരിതസമ്പദ്ഘടന – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E7%B5%8C%E6%B8%88" title="グリーン経済 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Gr%C3%B8nn_%C3%B8konomi" title="Grønn økonomi – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0" title="Зелёная экономика – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Green_economy" title="Green economy – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Gr%C3%B6n_ekonomi" title="Grön ekonomi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7" title="เศรษฐกิจสีเขียว – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_%D0%B5%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D0%BA%D0%B0" title="Зелена економіка – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Kinh_t%E1%BA%BF_xanh" title="Kinh tế xanh – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q598188#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 January 2017, at 02:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_economy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.319","ppvisitednodes":{"value":1802,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":71740,"limit":2097152},"templateargumentsize":{"value":7511,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  247.261      1 -total"," 37.67%   93.132      7 Template:Citation_needed"," 33.90%   83.812      7 Template:Fix"," 30.68%   75.853      1 Template:Reflist"," 21.44%   53.012      9 Template:Cite_web"," 17.34%   42.876      7 Template:Delink"," 14.61%   36.131     14 Template:Category_handler","  9.65%   23.861      1 Template:Green_economics_sidebar","  8.91%   22.035      1 Template:Sidebar","  5.07%   12.525      1 Template:Sustainability"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":4219809,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20170312070359","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1174"});});</script>
+	</body>
+</html>

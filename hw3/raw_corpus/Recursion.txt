@@ -1,0 +1,1479 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Recursion - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Recursion","wgTitle":"Recursion","wgCurRevisionId":757964609,"wgRevisionId":757964609,"wgArticleId":25407,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia pages semi-protected against vandalism","Articles needing additional references from June 2012","All articles needing additional references","CS1 maint: Multiple names: authors list","Theory of computation","Recursion","Self-reference"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Recursion","wgRelevantArticleId":25407,"wgRequestId":"WMeISApAAEAAAEQ6DOcAAABE","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q179976","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","ext.pygments":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/62/Droste.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Recursion"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Recursion"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Recursion rootpage-Recursion skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected due to vandalism"><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Recursion</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For other uses, see <a href="/wiki/Recursion_(disambiguation)" class="mw-disambig" title="Recursion (disambiguation)">Recursion (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Recursion&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(June 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Droste.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Droste.jpg/220px-Droste.jpg" width="220" height="337" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/6/62/Droste.jpg 1.5x" data-file-width="294" data-file-height="450" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Droste.jpg" class="internal" title="Enlarge"></a></div>
+A visual form of recursion known as the <i><a href="/wiki/Droste_effect" title="Droste effect">Droste effect</a></i>. The woman in this image holds an object that contains a smaller image of her holding an identical object, which in turn contains a smaller image of herself holding an identical object, and so forth. Advertisement for Droste <a href="/wiki/Hot_chocolate" title="Hot chocolate">cocoa</a>, c. 1900</div>
+</div>
+</div>
+<p><b>Recursion</b> occurs when a thing is defined in terms of itself or of its type. Recursion is used in a variety of disciplines ranging from <a href="/wiki/Linguistics" title="Linguistics">linguistics</a> to <a href="/wiki/Logic" title="Logic">logic</a>. The most common application of recursion is in <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a>, where a <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a> being defined is applied within its own definition. While this apparently defines an infinite number of instances (function values), it is often done in such a way that no loop or infinite chain of references can occur.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Formal_definitions"><span class="tocnumber">1</span> <span class="toctext">Formal definitions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Informal_definition"><span class="tocnumber">2</span> <span class="toctext">Informal definition</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#In_language"><span class="tocnumber">3</span> <span class="toctext">In language</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Recursive_humor"><span class="tocnumber">3.1</span> <span class="toctext">Recursive humor</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#In_mathematics"><span class="tocnumber">4</span> <span class="toctext">In mathematics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Recursively_defined_sets"><span class="tocnumber">4.1</span> <span class="toctext">Recursively defined sets</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Example:_the_natural_numbers"><span class="tocnumber">4.1.1</span> <span class="toctext">Example: the natural numbers</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Example:_The_set_of_true_reachable_propositions"><span class="tocnumber">4.1.2</span> <span class="toctext">Example: The set of true reachable propositions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Finite_subdivision_rules"><span class="tocnumber">4.2</span> <span class="toctext">Finite subdivision rules</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Functional_recursion"><span class="tocnumber">4.3</span> <span class="toctext">Functional recursion</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Proofs_involving_recursive_definitions"><span class="tocnumber">4.4</span> <span class="toctext">Proofs involving recursive definitions</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Recursive_optimization"><span class="tocnumber">4.5</span> <span class="toctext">Recursive optimization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#In_computer_science"><span class="tocnumber">5</span> <span class="toctext">In computer science</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#In_art"><span class="tocnumber">6</span> <span class="toctext">In art</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#The_recursion_theorem"><span class="tocnumber">7</span> <span class="toctext">The recursion theorem</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Proof_of_uniqueness"><span class="tocnumber">7.1</span> <span class="toctext">Proof of uniqueness</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Examples"><span class="tocnumber">7.2</span> <span class="toctext">Examples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Bibliography"><span class="tocnumber">10</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Formal_definitions">Formal definitions</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Serpiente_alquimica.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Serpiente_alquimica.jpg/220px-Serpiente_alquimica.jpg" width="220" height="219" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Serpiente_alquimica.jpg/330px-Serpiente_alquimica.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Serpiente_alquimica.jpg/440px-Serpiente_alquimica.jpg 2x" data-file-width="625" data-file-height="621" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Serpiente_alquimica.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Ouroboros" title="Ouroboros">Ouroboros</a>, an ancient symbol depicting a serpent or dragon eating its own tail.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a>, a class of objects or methods exhibit recursive behavior when they can be defined by two properties:</p>
+<ol>
+<li><span id="base_case"></span>A simple <b>base case</b> (or cases)—a terminating scenario that does not use recursion to produce an answer</li>
+<li>A set of rules that reduce all other cases toward the base case</li>
+</ol>
+<p>For example, the following is a recursive definition of a person's ancestors:</p>
+<ul>
+<li>One's <a href="/wiki/Parent" title="Parent">parents</a> are one's <a href="/wiki/Ancestor" title="Ancestor">ancestors</a> (<i>base case</i>).</li>
+<li>The ancestors of one's ancestors are also one's ancestors (<i>recursion step</i>).</li>
+</ul>
+<p>The <a href="/wiki/Fibonacci_sequence" class="mw-redirect" title="Fibonacci sequence">Fibonacci sequence</a> is a classic example of recursion:</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>Fib</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>&#xA0;as base case 1,</mtext>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\text{Fib}}(0)=0{\text{ as base case 1,}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/31a3ac9621fb67482cc66f1e2b370dede4fdb08d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:25.657ex; height:2.843ex;" alt="\text{Fib}(0)=0\text{ as base case 1,}" /></span></p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>Fib</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>&#xA0;as base case 2,</mtext>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\text{Fib}}(1)=1{\text{ as base case 2,}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/195ade62ee6aa7c8fdc0424ad64a61588e3e9010" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:25.657ex; height:2.843ex;" alt="\text{Fib}(1)=1\text{ as base case 2,}" /></span></p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>For all integers&#xA0;</mtext>
+        </mrow>
+        <mi>n</mi>
+        <mo>&gt;</mo>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mtext>&#xA0;</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>&#xA0;Fib</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>:=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>Fib</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>Fib</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\text{For all integers }}n&gt;1,~{\text{ Fib}}(n):={\text{Fib}}(n-1)+{\text{Fib}}(n-2).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/393d2f04e03a78c68e518b4f17a7c88a286782a8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:59.222ex; height:2.843ex;" alt="\text{For all integers }n&gt;1,~\text{ Fib}(n):=\text{Fib}(n-1) + \text{Fib}(n-2)." /></span></p>
+<p>Many mathematical axioms are based upon recursive rules. For example, the formal definition of the <a href="/wiki/Natural_number" title="Natural number">natural numbers</a> by the <a href="/wiki/Peano_axioms" title="Peano axioms">Peano axioms</a> can be described as: <i>0 is a natural number, and each natural number has a successor, which is also a natural number.</i> By this base case and recursive rule, one can generate the set of all natural numbers.</p>
+<p>Recursively defined mathematical objects include <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">functions</a>, <a href="/wiki/Set_(mathematics)" title="Set (mathematics)">sets</a>, and especially <a href="/wiki/Fractal" title="Fractal">fractals</a>.</p>
+<p>There are various more tongue-in-cheek "definitions" of recursion; see <a href="#Recursive_humor">recursive humor</a>.</p>
+<h2><span class="mw-headline" id="Informal_definition">Informal definition</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sourdough.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sourdough.jpg/220px-Sourdough.jpg" width="220" height="299" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sourdough.jpg/330px-Sourdough.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sourdough.jpg/440px-Sourdough.jpg 2x" data-file-width="2362" data-file-height="3215" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sourdough.jpg" class="internal" title="Enlarge"></a></div>
+Recently refreshed <a href="/wiki/Sourdough" title="Sourdough">sourdough</a>, bubbling through <a href="/wiki/Fermentation" title="Fermentation">fermentation</a>: the <a href="/wiki/Recipe" title="Recipe">recipe</a> calls for some sourdough left over from the last time the same recipe was made.</div>
+</div>
+</div>
+<p>Recursion is the process a procedure goes through when one of the steps of the procedure involves invoking the procedure itself. A procedure that goes through recursion is said to be 'recursive'.</p>
+<p>To understand recursion, one must recognize the distinction between a procedure and the running of a procedure. A procedure is a set of steps based on a set of rules. The running of a procedure involves actually following the rules and performing the steps. An analogy: a procedure is like a written recipe; running a procedure is like actually preparing the meal.</p>
+<p>Recursion is related to, but not the same as, a reference within the specification of a procedure to the execution of some other procedure. For instance, a recipe might refer to cooking vegetables, which is another procedure that in turn requires heating water, and so forth. However, a recursive procedure is where (at least) one of its steps calls for a new instance of the very same procedure, like a <a href="/wiki/Sourdough" title="Sourdough">sourdough</a> recipe calling for some dough left over from the last time the same recipe was made. This of course immediately creates the possibility of an endless loop; recursion can only be properly used in a definition if the step in question is skipped in certain cases so that the procedure can complete, like a sourdough recipe that also tells you how to get some starter dough in case you've never made it before. Even if properly defined, a recursive procedure is not easy for humans to perform, as it requires distinguishing the new from the old (partially executed) invocation of the procedure; this requires some administration of how far various simultaneous instances of the procedures have progressed. For this reason recursive definitions are very rare in everyday situations. An example could be the following procedure to find a way through a <a href="/wiki/Maze" title="Maze">maze</a>. Proceed forward until reaching either an exit or a branching point (a dead end is considered a branching point with 0 branches). If the point reached is an exit, terminate. Otherwise try each branch in turn, using the procedure recursively; if every trial fails by reaching only dead ends, return on the path that led to this branching point and report failure. Whether this actually defines a terminating procedure depends on the nature of the maze: it must not allow loops. In any case, executing the procedure requires carefully recording all currently explored branching points, and which of their branches have already been exhaustively tried.</p>
+<h2><span class="mw-headline" id="In_language">In language</span></h2>
+<p>Linguist <a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a> among many others has argued that the lack of an upper bound on the number of grammatical sentences in a language, and the lack of an upper bound on grammatical sentence length (beyond practical constraints such as the time available to utter one), can be explained as the consequence of recursion in natural language.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> This can be understood in terms of a recursive definition of a syntactic category, such as a sentence. A sentence can have a structure in which what follows the verb is another sentence: <i>Dorothy thinks witches are dangerous</i>, in which the sentence <i>witches are dangerous</i> occurs in the larger one. So a sentence can be defined recursively (very roughly) as something with a structure that includes a noun phrase, a verb, and optionally another sentence. This is really just a special case of the mathematical definition of recursion.</p>
+<p>This provides a way of understanding the creativity of language—the unbounded number of grammatical sentences—because it immediately predicts that sentences can be of arbitrary length: <i>Dorothy thinks that Toto suspects that Tin Man said that...</i>. Of course, there are many structures apart from sentences that can be defined recursively, and therefore many ways in which a sentence can embed instances of one category inside another. Over the years, languages in general have proved amenable to this kind of analysis.</p>
+<p>Recently, however, the generally accepted idea that recursion is an essential property of human language has been challenged by <a href="/wiki/Daniel_Everett" title="Daniel Everett">Daniel Everett</a> on the basis of his claims about the <a href="/wiki/Pirah%C3%A3_language" title="Pirahã language">Pirahã language</a>. Andrew Nevins, David Pesetsky and Cilene Rodrigues are among many who that have argued against this.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Literary <a href="/wiki/Self-reference" title="Self-reference">self-reference</a> can in any case be argued to be different in kind from mathematical or logical recursion.<sup id="cite_ref-Drucker2008_4-0" class="reference"><a href="#cite_note-Drucker2008-4">[4]</a></sup></p>
+<p>Recursion plays a crucial role not only in syntax, but also in natural language semantics. The word <i>and</i>, for example, can be construed as a function that can apply to sentence meanings to create new sentences, and likewise for noun phrase meanings, verb phrase meanings, and others. It can also apply to intransitive verbs, transitive verbs, or ditransitive verbs. In order to provide a single denotation for it that is suitably flexible, <i>and</i> is typically defined so that it can take any of these different types of meanings as arguments. This can be done by defining it for a simple case in which it combines sentences, and then defining the other cases recursively in terms of the simple one.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Recursive_humor">Recursive humor</span></h3>
+<p>Recursion is sometimes used humorously in computer science, programming, philosophy, or mathematics textbooks, generally by giving a <a href="/wiki/Circular_definition" title="Circular definition">circular definition</a> or <a href="/wiki/Self-reference" title="Self-reference">self-reference</a>, in which the putative recursive step does not get closer to a base case, but instead leads to an <a href="/wiki/Infinite_regress" title="Infinite regress">infinite regress</a>. It is not unusual for such books to include a joke entry in their <a href="/wiki/Glossary" title="Glossary">glossary</a> along the lines of:</p>
+<dl>
+<dd>Recursion, <i>see Recursion</i>.<sup id="cite_ref-Hunter_6-0" class="reference"><a href="#cite_note-Hunter-6">[6]</a></sup></dd>
+</dl>
+<p>A variation is found on page 269 in the <a href="/wiki/Back-of-the-book_index" class="mw-redirect" title="Back-of-the-book index">index</a> of some editions of <a href="/wiki/Brian_Kernighan" title="Brian Kernighan">Brian Kernighan</a> and <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a>'s book <i><a href="/wiki/The_C_Programming_Language_(book)" class="mw-redirect" title="The C Programming Language (book)">The C Programming Language</a></i>; the index entry recursively references itself ("recursion 86, 139, 141, 182, 202, 269"). The earliest version of this joke was in "Software Tools" by Kernighan and Plauger, and also appears in "The UNIX Programming Environment" by Kernighan and Pike. It did not appear in the first edition of <i>The C Programming Language</i>.</p>
+<p>Another joke is that "To understand recursion, you must understand recursion."<sup id="cite_ref-Hunter_6-1" class="reference"><a href="#cite_note-Hunter-6">[6]</a></sup> In the English-language version of the <a href="/wiki/Google" title="Google">Google</a> web search engine, when a search for "recursion" is made, the site suggests "Did you mean: <i>recursion</i>." An alternative form is the following, from <a href="/wiki/Andrew_Plotkin" title="Andrew Plotkin">Andrew Plotkin</a>: <i>"If you already know what recursion is, just remember the answer. Otherwise, find someone who is standing closer to <a href="/wiki/Douglas_Hofstadter" title="Douglas Hofstadter">Douglas Hofstadter</a> than you are; then ask him or her what recursion is."</i></p>
+<p><a href="/wiki/Recursive_acronym" title="Recursive acronym">Recursive acronyms</a> can also be examples of recursive humor. <a href="/wiki/PHP" title="PHP">PHP</a>, for example, stands for "PHP Hypertext Preprocessor", <a href="/wiki/Wine_(software)" title="Wine (software)">WINE</a> stands for "WINE Is Not an Emulator." and <a href="/wiki/GNU_Project" title="GNU Project">GNU</a> stands for "GNU's not Unix".</p>
+<h2><span class="mw-headline" id="In_mathematics">In mathematics</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Sierpinski_triangle.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/250px-Sierpinski_triangle.svg.png" width="250" height="217" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/375px-Sierpinski_triangle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/500px-Sierpinski_triangle.svg.png 2x" data-file-width="1024" data-file-height="887" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sierpinski_triangle.svg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Sierpinski_triangle" title="Sierpinski triangle">Sierpinski triangle</a>—a confined recursion of triangles that form a <a href="/wiki/Fractal" title="Fractal">fractal</a></div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Recursively_defined_sets">Recursively defined sets</span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Recursive_definition" title="Recursive definition">Recursive definition</a></div>
+<h4><span class="mw-headline" id="Example:_the_natural_numbers">Example: the natural numbers</span></h4>
+<div role="note" class="hatnote">See also: <a href="/wiki/Closure_(mathematics)" title="Closure (mathematics)">Closure (mathematics)</a></div>
+<p>The canonical example of a recursively defined set is given by the <a href="/wiki/Natural_numbers" class="mw-redirect" title="Natural numbers">natural numbers</a>:</p>
+<dl>
+<dd>0 is in <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.689ex; height:2.176ex;" alt="\mathbb {N} " /></span></dd>
+<dd>if <i>n</i> is in <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.689ex; height:2.176ex;" alt="\mathbb {N} " /></span>, then <i>n</i> + 1 is in <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.689ex; height:2.176ex;" alt="\mathbb {N} " /></span></dd>
+<dd>The set of natural numbers is the smallest set satisfying the previous two properties.</dd>
+</dl>
+<h4><span class="mw-headline" id="Example:_The_set_of_true_reachable_propositions">Example: The set of true reachable propositions</span></h4>
+<p>Another interesting example is the set of all "true reachable" propositions in an <a href="/wiki/Axiomatic_system" title="Axiomatic system">axiomatic system</a>.</p>
+<ul>
+<li>If a proposition is an axiom, it is a true reachable proposition.</li>
+<li>If a proposition can be obtained from true reachable propositions by means of inference rules, it is a true reachable proposition.</li>
+<li>The set of true reachable propositions is the smallest set of propositions satisfying these conditions.</li>
+</ul>
+<p>This set is called 'true reachable propositions' because in non-constructive approaches to the foundations of mathematics, the set of true propositions may be larger than the set recursively constructed from the axioms and rules of inference. See also <a href="/wiki/G%C3%B6del%27s_incompleteness_theorems" title="Gödel's incompleteness theorems">Gödel's incompleteness theorems</a>.</p>
+<h3><span class="mw-headline" id="Finite_subdivision_rules">Finite subdivision rules</span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Finite_subdivision_rule" title="Finite subdivision rule">Finite subdivision rule</a></div>
+<p>Finite subdivision rules are a geometric form of recursion, which can be used to create <a href="/wiki/Fractal" title="Fractal">fractal</a>-like images. A subdivision rule starts with a collection of polygons labelled by finitely many labels, and then each polygon is subdivided into smaller labelled polygons in a way that depends only on the labels of the original polygon. This process can be iterated. The standard `middle thirds' technique for creating the <a href="/wiki/Cantor_set" title="Cantor set">Cantor set</a> is a subdivision rule, as is <a href="/wiki/Barycentric_subdivision" title="Barycentric subdivision">barycentric subdivision</a>.</p>
+<h3><span class="mw-headline" id="Functional_recursion">Functional recursion</span></h3>
+<p>A <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a> may be partly defined in terms of itself. A familiar example is the <a href="/wiki/Fibonacci_number" title="Fibonacci number">Fibonacci number</a> sequence: <i>F</i>(<i>n</i>) = <i>F</i>(<i>n</i> − 1) + <i>F</i>(<i>n</i> − 2). For such a definition to be useful, it must lead to non-recursively defined values, in this case <i>F</i>(0) = 0 and <i>F</i>(1) = 1.</p>
+<p>A famous recursive function is the <a href="/wiki/Ackermann_function" title="Ackermann function">Ackermann function</a>, which—unlike the Fibonacci sequence—cannot easily be expressed without recursion.</p>
+<h3><span class="mw-headline" id="Proofs_involving_recursive_definitions">Proofs involving recursive definitions</span></h3>
+<p>Applying the standard technique of <a href="/wiki/Proof_by_cases" class="mw-redirect" title="Proof by cases">proof by cases</a> to recursively defined sets or functions, as in the preceding sections, yields <a href="/wiki/Structural_induction" title="Structural induction">structural induction</a>, a powerful generalization of <a href="/wiki/Mathematical_induction" title="Mathematical induction">mathematical induction</a> widely used to derive proofs in <a href="/wiki/Mathematical_logic" title="Mathematical logic">mathematical logic</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a>.</p>
+<h3><span class="mw-headline" id="Recursive_optimization">Recursive optimization</span></h3>
+<p><a href="/wiki/Dynamic_programming" title="Dynamic programming">Dynamic programming</a> is an approach to <a href="/wiki/Optimization_(mathematics)" class="mw-redirect" title="Optimization (mathematics)">optimization</a> that restates a multiperiod or multistep optimization problem in recursive form. The key result in dynamic programming is the <a href="/wiki/Bellman_equation" title="Bellman equation">Bellman equation</a>, which writes the value of the optimization problem at an earlier time (or earlier step) in terms of its value at a later time (or later step).</p>
+<h2><span class="mw-headline" id="In_computer_science">In computer science</span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Recursion_(computer_science)" title="Recursion (computer science)">Recursion (computer science)</a></div>
+<p>A common method of simplification is to divide a problem into subproblems of the same type. As a <a href="/wiki/Computer_programming" title="Computer programming">computer programming</a> technique, this is called <a href="/wiki/Divide_and_conquer_algorithm" title="Divide and conquer algorithm">divide and conquer</a> and is key to the design of many important algorithms. Divide and conquer serves as a top-down approach to problem solving, where problems are solved by solving smaller and smaller instances. A contrary approach is <a href="/wiki/Dynamic_programming" title="Dynamic programming">dynamic programming</a>. This approach serves as a bottom-up approach, where problems are solved by solving larger and larger instances, until the desired size is reached.</p>
+<p>A classic example of recursion is the definition of the <a href="/wiki/Factorial" title="Factorial">factorial</a> function, given here in C code:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="kt">unsigned</span> <span class="kt">int</span> <span class="nf">factorial</span><span class="p">(</span><span class="kt">unsigned</span> <span class="kt">int</span> <span class="n">n</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="n">n</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">return</span> <span class="mi">1</span><span class="p">;</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+        <span class="k">return</span> <span class="n">n</span> <span class="o">*</span> <span class="n">factorial</span><span class="p">(</span><span class="n">n</span> <span class="o">-</span> <span class="mi">1</span><span class="p">);</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+<p>The function calls itself recursively on a smaller version of the input (n - 1) and multiplies the result of the recursive call by n, until reaching the <a href="/wiki/Base_case_(recursion)" class="mw-redirect" title="Base case (recursion)">base case</a>, analogously to the mathematical definition of factorial.</p>
+<p>Recursion in computer programming is exemplified when a function is defined in terms of simpler, often smaller versions of itself. The solution to the problem is then devised by combining the solutions obtained from the simpler versions of the problem. One example application of recursion is in <a href="/wiki/Parser" class="mw-redirect" title="Parser">parsers</a> for programming languages. The great advantage of recursion is that an infinite set of possible sentences, designs or other data can be defined, parsed or produced by a finite computer program.</p>
+<p><a href="/wiki/Recurrence_relation" title="Recurrence relation">Recurrence relations</a> are equations to define one or more sequences recursively. Some specific kinds of recurrence relation can be "solved" to obtain a non-recursive definition.</p>
+<p>Use of recursion in an algorithm has both advantages and disadvantages. The main advantage is usually simplicity. The main disadvantage is often that the algorithm may require large amounts of memory if the depth of the recursion is very large.</p>
+<h2><span class="mw-headline" id="In_art">In art</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:First_matryoshka_museum_doll_open.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/First_matryoshka_museum_doll_open.jpg/220px-First_matryoshka_museum_doll_open.jpg" width="220" height="155" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/First_matryoshka_museum_doll_open.jpg/330px-First_matryoshka_museum_doll_open.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/First_matryoshka_museum_doll_open.jpg/440px-First_matryoshka_museum_doll_open.jpg 2x" data-file-width="500" data-file-height="352" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:First_matryoshka_museum_doll_open.jpg" class="internal" title="Enlarge"></a></div>
+Recursive dolls: the original set of <a href="/wiki/Matryoshka_doll" title="Matryoshka doll">Matryoshka dolls</a> by <a href="/wiki/Vasily_Zvyozdochkin" title="Vasily Zvyozdochkin">Zvyozdochkin</a> and <a href="/wiki/Sergey_Malyutin" title="Sergey Malyutin">Malyutin</a>, 1892</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Polittico_stefaneschi,_verso.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Polittico_stefaneschi%2C_verso.jpg/220px-Polittico_stefaneschi%2C_verso.jpg" width="220" height="194" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Polittico_stefaneschi%2C_verso.jpg/330px-Polittico_stefaneschi%2C_verso.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Polittico_stefaneschi%2C_verso.jpg/440px-Polittico_stefaneschi%2C_verso.jpg 2x" data-file-width="600" data-file-height="529" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Polittico_stefaneschi,_verso.jpg" class="internal" title="Enlarge"></a></div>
+Front face of <a href="/wiki/Giotto" title="Giotto">Giotto</a>'s <i><a href="/wiki/Stefaneschi_Triptych" title="Stefaneschi Triptych">Stefaneschi Triptych</a></i>, 1320, recursively contains an image of itself (held up by the kneeling figure in the central panel).</div>
+</div>
+</div>
+<div role="note" class="hatnote">See also: <a href="/wiki/Mathematics_and_art" title="Mathematics and art">Mathematics and art</a> and <a href="/wiki/Infinity_mirror" title="Infinity mirror">Infinity mirror</a></div>
+<p>The Russian Doll or <a href="/wiki/Matryoshka_doll" title="Matryoshka doll">Matryoshka Doll</a> is a physical artistic example of the recursive concept.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Recursion has been used in paintings since <a href="/wiki/Giotto" title="Giotto">Giotto</a>'s <i><a href="/wiki/Stefaneschi_Triptych" title="Stefaneschi Triptych">Stefaneschi Triptych</a></i>, made in 1320. Its central panel contains the kneeling figure of Cardinal Stefaneschi, holding up the triptych itself as an offering.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p><a href="/wiki/M._C._Escher" title="M. C. Escher">M. C. Escher</a>'s <i><a href="/wiki/Print_Gallery_(M._C._Escher)" title="Print Gallery (M. C. Escher)">Print Gallery</a></i> (1956) is a print which depicts a distorted city which contains a gallery which <a href="/wiki/Recursive" class="mw-redirect" title="Recursive">recursively</a> contains the picture, and so <i><a href="/wiki/Ad_infinitum" title="Ad infinitum">ad infinitum</a></i>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="The_recursion_theorem">The recursion theorem</span></h2>
+<p>In <a href="/wiki/Set_theory" title="Set theory">set theory</a>, this is a theorem guaranteeing that recursively defined functions exist. Given a set <i>X</i>, an element <i>a</i> of <i>X</i> and a function <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo>:</mo>
+        <mi>X</mi>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mi>X</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f:X\rightarrow X}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/245918678040123f009e350000a38b663951fff8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:10.842ex; height:2.509ex;" alt="f: X \rightarrow X" /></span>, the theorem states that there is a unique function <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo>:</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mi>X</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F:\mathbb {N} \rightarrow X}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb9b2e4d4c898d2319d2cea22660c03c406f9761" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:11.002ex; height:2.176ex;" alt="F: \mathbb{N} \rightarrow X" /></span> (where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.689ex; height:2.176ex;" alt="\mathbb {N} " /></span> denotes the set of natural numbers including zero) such that</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F(0)=a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e13d054d8df6f9f2770997b66344c4f390bae2d4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:9.104ex; height:2.843ex;" alt="F(0) = a" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F(n+1)=f(F(n))}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/872fa88af5e4b3ca934ba4abee41be187e3d3f94" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.225ex; height:2.843ex;" alt="F(n + 1) = f(F(n))" /></span></dd>
+</dl>
+<p>for any natural number <i>n</i>.</p>
+<h3><span class="mw-headline" id="Proof_of_uniqueness">Proof of uniqueness</span></h3>
+<p>Take two functions <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo>:</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mi>X</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F:\mathbb {N} \rightarrow X}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb9b2e4d4c898d2319d2cea22660c03c406f9761" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:11.002ex; height:2.176ex;" alt="F: \mathbb{N} \rightarrow X" /></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>G</mi>
+        <mo>:</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mi>X</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle G:\mathbb {N} \rightarrow X}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b7ad6ce89f36f7242cda0de98f9645cf7f975b18" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:11.088ex; height:2.176ex;" alt="G: \mathbb{N} \rightarrow X" /></span> such that:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F(0)=a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e13d054d8df6f9f2770997b66344c4f390bae2d4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:9.104ex; height:2.843ex;" alt="F(0) = a" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle G(0)=a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e4144e1a9d47560e0b5930da11b91807bde69f5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:9.189ex; height:2.843ex;" alt="G(0) = a" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F(n+1)=f(F(n))}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/872fa88af5e4b3ca934ba4abee41be187e3d3f94" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.225ex; height:2.843ex;" alt="F(n + 1) = f(F(n))" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle G(n+1)=f(G(n))}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e0c178891ef17320110f41eaeb21ab5307f996a2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.397ex; height:2.843ex;" alt="G(n + 1) = f(G(n))" /></span></dd>
+</dl>
+<p>where <i>a</i> is an element of <i>X</i>.</p>
+<p>It can be proved by <a href="/wiki/Mathematical_induction" title="Mathematical induction">mathematical induction</a> that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F(n)=G(n)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/333fb070c367ee695f65924c6c2e6fb63d5edcb1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:13.168ex; height:2.843ex;" alt="F(n) = G(n)" /></span> for all natural numbers <i>n</i>:</p>
+<dl>
+<dd><b>Base Case</b>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>a</mi>
+        <mo>=</mo>
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F(0)=a=G(0)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b2dbf2a4023102987e8a67d1405f7a47678d43e7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:17.053ex; height:2.843ex;" alt="F(0) = a = G(0)" /></span> so the equality holds for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/26819344e55f5e671c76c07c18eb4291fcec85ae" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.687ex; height:2.176ex;" alt="n=0" /></span>.</dd>
+</dl>
+<dl>
+<dd><b>Inductive Step</b>: Suppose <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F(k)=G(k)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e36aed00803ca0ee521a5727da0926f78cd10c83" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:12.801ex; height:2.843ex;" alt="F(k) = G(k)" /></span> for some <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k\in \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2a5bc4b7383031ba693b7433198ead7170954c1d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.761ex; height:2.176ex;" alt="k\in \mathbb {N} " /></span>. Then <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F(k+1)=f(F(k))=f(G(k))=G(k+1).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ebed4c94ea428c026075006a3bf76e722cf54f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:43.654ex; height:2.843ex;" alt="F(k+1) = f(F(k)) = f(G(k)) = G(k+1)." /></span>
+<dl>
+<dd>Hence F(k) = G(k) implies F(k+1) = G(k+1).</dd>
+</dl>
+</dd>
+</dl>
+<p>By induction, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F(n)=G(n)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/333fb070c367ee695f65924c6c2e6fb63d5edcb1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:13.168ex; height:2.843ex;" alt="F(n) = G(n)" /></span> for all <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n\in \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d059936e77a2d707e9ee0a1d9575a1d693ce5d0b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.945ex; height:2.176ex;" alt="n\in \mathbb {N} " /></span>.</p>
+<h3><span class="mw-headline" id="Examples">Examples</span></h3>
+<p>Some common recurrence relations are:</p>
+<ul>
+<li><a href="/wiki/Golden_Ratio" class="mw-redirect" title="Golden Ratio">Golden Ratio</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03D5;<!-- ϕ --></mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>&#x03D5;<!-- ϕ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \phi =1+(1/\phi )=1+(1/(1+(1/(1+1/...))))}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/69d4690170b13ddecd687d239e7ccb8a8437eda6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:46.772ex; height:2.843ex;" alt="\phi = 1 + (1/\phi) =  1 + (1/(1 + (1/(1 + 1/...))))" /></span></li>
+<li><a href="/wiki/Factorial" title="Factorial">Factorial</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+        <mo>!</mo>
+        <mo>=</mo>
+        <mi>n</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>!</mo>
+        <mo>=</mo>
+        <mi>n</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22EF;<!-- ⋯ --></mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n!=n(n-1)!=n(n-1)\cdots 1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/18e8856ae0afe9a15fe8ed2141e7f6a25bb6530c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:30.947ex; height:2.843ex;" alt="n! = n (n - 1)! = n (n - 1)\cdots 1" /></span></li>
+<li><a href="/wiki/Fibonacci_numbers" class="mw-redirect" title="Fibonacci numbers">Fibonacci numbers</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(n)=f(n-1)+f(n-2)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5292c0129a4ebd0f560bf6b1b3647dc5ac5eda6d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:27.58ex; height:2.843ex;" alt="f (n) = f (n - 1) + f (n - 2)" /></span></li>
+<li><a href="/wiki/Catalan_number" title="Catalan number">Catalan numbers</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>C</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C_{0}=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f16d74f9b1af01a229f5b576167e4f1d7969c83" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.016ex; height:2.509ex;" alt="C_{0}=1" /></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>C</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mn>4</mn>
+        <mi>n</mi>
+        <mo>+</mo>
+        <mn>2</mn>
+        <mo stretchy="false">)</mo>
+        <msub>
+          <mi>C</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo>+</mo>
+        <mn>2</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C_{n+1}=(4n+2)C_{n}/(n+2)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0f0927f514faab4d5636046f0371a7839081d1b9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:27.885ex; height:2.843ex;" alt="C_{n+1} = (4n+2)C_n/(n+2)" /></span></li>
+<li>Computing compound <a href="/wiki/Interest" title="Interest">interest</a></li>
+<li>The <a href="/wiki/Tower_of_Hanoi" title="Tower of Hanoi">Tower of Hanoi</a></li>
+<li><a href="/wiki/Ackermann_function" title="Ackermann function">Ackermann function</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;">
+<ul>
+<li><a href="/wiki/Corecursion" title="Corecursion">Corecursion</a></li>
+<li><a href="/wiki/Course-of-values_recursion" title="Course-of-values recursion">Course-of-values recursion</a></li>
+<li><a href="/wiki/Digital_infinity" title="Digital infinity">Digital infinity</a></li>
+<li><a href="/wiki/Fixed_point_combinator" class="mw-redirect" title="Fixed point combinator">Fixed point combinator</a></li>
+<li><a href="/wiki/Infinite_loop" title="Infinite loop">Infinite loop</a></li>
+<li><a href="/wiki/Infinitism" title="Infinitism">Infinitism</a></li>
+<li><a href="/wiki/Iterated_function" title="Iterated function">Iterated function</a></li>
+<li><a href="/wiki/Mise_en_abyme" title="Mise en abyme">Mise en abyme</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Reentrant_(subroutine)" class="mw-redirect" title="Reentrant (subroutine)">Reentrant (subroutine)</a></li>
+<li><a href="/wiki/Self-reference" title="Self-reference">Self-reference</a></li>
+<li><a href="/wiki/Strange_loop" title="Strange loop">Strange loop</a></li>
+<li><a href="/wiki/Tail_recursion" class="mw-redirect" title="Tail recursion">Tail recursion</a></li>
+<li><a href="/wiki/Tupper%27s_self-referential_formula" title="Tupper's self-referential formula">Tupper's self-referential formula</a></li>
+<li><a href="/wiki/Turtles_all_the_way_down" title="Turtles all the way down">Turtles all the way down</a></li>
+<li><a href="/wiki/Infinite_compositions_of_analytic_functions" title="Infinite compositions of analytic functions">Infinite compositions of analytic functions</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Pinker, Steven (1994). <i>The Language Instinct</i>. William Morrow.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.aufirst=Steven&amp;rft.aulast=Pinker&amp;rft.btitle=The+Language+Instinct&amp;rft.date=1994&amp;rft.genre=book&amp;rft.pub=William+Morrow&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pinker, Steven; Jackendoff, Ray (2005). "The faculty of language: What's so special about it?". <i>Cognition</i>. <b>95</b> (2): 201–236. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.cognition.2004.08.004">10.1016/j.cognition.2004.08.004</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15694646">15694646</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.atitle=The+faculty+of+language%3A+What%27s+so+special+about+it%3F&amp;rft.aufirst=Steven&amp;rft.au=Jackendoff%2C+Ray&amp;rft.aulast=Pinker&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cognition.2004.08.004&amp;rft_id=info%3Apmid%2F15694646&amp;rft.issue=2&amp;rft.jtitle=Cognition&amp;rft.pages=201-236&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=95" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nevins, Andrew; Pesetsky, David; Rodrigues, Cilene (2009). <a rel="nofollow" class="external text" href="http://web.mit.edu/linguistics/people/faculty/pesetsky/Nevins_Pesetsky_Rodrigues_2_Evidence_and_Argumentation_Reply_to_Everett.pdf">"Evidence and argumentation: A reply to Everett (2009)"</a> <span style="font-size:85%;">(PDF)</span>. <i>Language</i>. <b>85</b> (3): 671–681. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1353%2Flan.0.0140">10.1353/lan.0.0140</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.atitle=Evidence+and+argumentation%3A+A+reply+to+Everett+%282009%29&amp;rft.aufirst=Andrew&amp;rft.aulast=Nevins&amp;rft.au=Pesetsky%2C+David&amp;rft.au=Rodrigues%2C+Cilene&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2Flinguistics%2Fpeople%2Ffaculty%2Fpesetsky%2FNevins_Pesetsky_Rodrigues_2_Evidence_and_Argumentation_Reply_to_Everett.pdf&amp;rft_id=info%3Adoi%2F10.1353%2Flan.0.0140&amp;rft.issue=3&amp;rft.jtitle=Language&amp;rft.pages=671-681&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=85" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Drucker2008-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Drucker2008_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Drucker, Thomas (4 January 2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=R70M4zsVgREC&amp;pg=PA110"><i>Perspectives on the History of Mathematical Logic</i></a>. Springer Science &amp; Business Media. p.&#160;110. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8176-4768-1" title="Special:BookSources/978-0-8176-4768-1">978-0-8176-4768-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.aufirst=Thomas&amp;rft.aulast=Drucker&amp;rft.btitle=Perspectives+on+the+History+of+Mathematical+Logic&amp;rft.date=2008-01-04&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DR70M4zsVgREC%26pg%3DPA110&amp;rft.isbn=978-0-8176-4768-1&amp;rft.pages=110&amp;rft.pub=Springer+Science+%26+Business+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Barbara Partee and Mats Rooth. 1983. In Rainer Bäuerle et al., <i>Meaning, Use, and Interpretation of Language</i>. Reprinted in Paul Portner and Barbara Partee, eds. 2002. <i>Formal Semantics: The Essential Readings</i>. Blackwell.</span></li>
+<li id="cite_note-Hunter-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hunter_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hunter_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Hunter, David (2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=kuwhTxCVovQC&amp;dq=recursion+joke&amp;source=gbs_navlinks_s"><i>Essentials of Discrete Mathematics</i></a>. Jones and Bartlett. p.&#160;494.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.aufirst=David&amp;rft.aulast=Hunter&amp;rft.btitle=Essentials+of+Discrete+Mathematics&amp;rft.date=2011&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DkuwhTxCVovQC%26dq%3Drecursion%2Bjoke%26source%3Dgbs_navlinks_s&amp;rft.pages=494&amp;rft.pub=Jones+and+Bartlett&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Tang, Daisy. <a rel="nofollow" class="external text" href="http://www.cpp.edu/~ftang/courses/CS240/lectures/recursion.htm">"Recursion"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2015</span>. <q>More examples of recursion: Russian Matryoshka dolls. Each doll is made of solid wood or is hollow and contains another Matryoshka doll inside it.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.aufirst=Daisy&amp;rft.aulast=Tang&amp;rft.btitle=Recursion&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cpp.edu%2F~ftang%2Fcourses%2FCS240%2Flectures%2Frecursion.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://mv.vatican.va/3_EN/pages/PIN/PIN_Sala02_03.html">"Giotto di Bondone and assistants: Stefaneschi triptych"</a>. The Vatican<span class="reference-accessdate">. Retrieved <span class="nowrap">16 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.btitle=Giotto+di+Bondone+and+assistants%3A+Stefaneschi+triptych&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmv.vatican.va%2F3_EN%2Fpages%2FPIN%2FPIN_Sala02_03.html&amp;rft.pub=The+Vatican&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Cooper, Jonathan (5 September 2007). <a rel="nofollow" class="external text" href="http://www.doctordada.com/art/art-and-mathematics/">"Art and Mathematics"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.aufirst=Jonathan&amp;rft.aulast=Cooper&amp;rft.btitle=Art+and+Mathematics&amp;rft.date=2007-09-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.doctordada.com%2Fart%2Fart-and-mathematics%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation journal"><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Dijkstra, Edsger W.</a> (1960). "Recursive Programming". <i>Numerische Mathematik</i>. <b>2</b> (1): 312–318. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF01386232">10.1007/BF01386232</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.atitle=Recursive+Programming&amp;rft.aufirst=Edsger+W.&amp;rft.aulast=Dijkstra&amp;rft.date=1960&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF01386232&amp;rft.issue=1&amp;rft.jtitle=Numerische+Mathematik&amp;rft.pages=312-318&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Johnsonbaugh, Richard (2004). <i>Discrete Mathematics</i>. Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-117686-2" title="Special:BookSources/0-13-117686-2">0-13-117686-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.au=Johnsonbaugh%2C+Richard&amp;rft.btitle=Discrete+Mathematics&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-13-117686-2&amp;rft.pub=Prentice+Hall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Douglas_Hofstadter" title="Douglas Hofstadter">Hofstadter, Douglas</a> (1999). <i>Gödel, Escher, Bach: an Eternal Golden Braid</i>. Basic Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-465-02656-7" title="Special:BookSources/0-465-02656-7">0-465-02656-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.au=Hofstadter%2C+Douglas&amp;rft.btitle=G%C3%B6del%2C+Escher%2C+Bach%3A+an+Eternal+Golden+Braid&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=0-465-02656-7&amp;rft.pub=Basic+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Joseph_R._Shoenfield" title="Joseph R. Shoenfield">Shoenfield, Joseph R.</a> (2000). <i>Recursion Theory</i>. A K Peters Ltd. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56881-149-7" title="Special:BookSources/1-56881-149-7">1-56881-149-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.au=Shoenfield%2C+Joseph+R.&amp;rft.btitle=Recursion+Theory&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=1-56881-149-7&amp;rft.pub=A+K+Peters+Ltd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Causey, Robert L. (2001). <i>Logic, Sets, and Recursion</i>. Jones &amp; Bartlett. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7637-1695-2" title="Special:BookSources/0-7637-1695-2">0-7637-1695-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.au=Causey%2C+Robert+L.&amp;rft.btitle=Logic%2C+Sets%2C+and+Recursion&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-7637-1695-2&amp;rft.pub=Jones+%26+Bartlett&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Cori, Rene; Lascar, Daniel; Pelletier, Donald H. (2001). <i>Recursion Theory, Gödel's Theorems, Set Theory, Model Theory</i>. Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-850050-5" title="Special:BookSources/0-19-850050-5">0-19-850050-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.au=Cori%2C+Rene&amp;rft.au=Lascar%2C+Daniel&amp;rft.au=Pelletier%2C+Donald+H.&amp;rft.btitle=Recursion+Theory%2C+G%C3%B6del%27s+Theorems%2C+Set+Theory%2C+Model+Theory&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-19-850050-5&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Jon_Barwise" title="Jon Barwise">Barwise, Jon</a>; Moss, Lawrence S. (1996). <i>Vicious Circles</i>. Stanford Univ Center for the Study of Language and Information. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-850050-5" title="Special:BookSources/0-19-850050-5">0-19-850050-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.au=Barwise%2C+Jon&amp;rft.au=Moss%2C+Lawrence+S.&amp;rft.btitle=Vicious+Circles&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=0-19-850050-5&amp;rft.pub=Stanford+Univ+Center+for+the+Study+of+Language+and+Information&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> - offers a treatment of <a href="/wiki/Corecursion" title="Corecursion">corecursion</a>.</li>
+<li><cite class="citation book">Rosen, Kenneth H. (2002). <i>Discrete Mathematics and Its Applications</i>. McGraw-Hill College. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-293033-0" title="Special:BookSources/0-07-293033-0">0-07-293033-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.au=Rosen%2C+Kenneth+H.&amp;rft.btitle=Discrete+Mathematics+and+Its+Applications&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-07-293033-0&amp;rft.pub=McGraw-Hill+College&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, Clifford Stein (2001). <i>Introduction to Algorithms</i>. Mit Pr. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-03293-7" title="Special:BookSources/0-262-03293-7">0-262-03293-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.au=Cormen%2C+Thomas+H.%2C+Charles+E.+Leiserson%2C+Ronald+L.+Rivest%2C+Clifford+Stein&amp;rft.btitle=Introduction+to+Algorithms&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-262-03293-7&amp;rft.pub=Mit+Pr&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></li>
+<li><cite class="citation book">Kernighan, B.; Ritchie, D. (1988). <i>The C programming Language</i>. Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-110362-8" title="Special:BookSources/0-13-110362-8">0-13-110362-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.au=Kernighan%2C+B.&amp;rft.au=Ritchie%2C+D.&amp;rft.btitle=The+C+programming+Language&amp;rft.date=1988&amp;rft.genre=book&amp;rft.isbn=0-13-110362-8&amp;rft.pub=Prentice+Hall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Stokey, Nancy,; Robert Lucas; Edward Prescott (1989). <i>Recursive Methods in Economic Dynamics</i>. Harvard University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-674-75096-9" title="Special:BookSources/0-674-75096-9">0-674-75096-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.au=Edward+Prescott&amp;rft.au=Robert+Lucas&amp;rft.au=Stokey%2C+Nancy%2C&amp;rft.btitle=Recursive+Methods+in+Economic+Dynamics&amp;rft.date=1989&amp;rft.genre=book&amp;rft.isbn=0-674-75096-9&amp;rft.pub=Harvard+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></li>
+<li><cite class="citation book">Hungerford (1980). <i>Algebra</i>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-90518-1" title="Special:BookSources/978-0-387-90518-1">978-0-387-90518-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursion&amp;rft.au=Hungerford&amp;rft.btitle=Algebra&amp;rft.date=1980&amp;rft.genre=book&amp;rft.isbn=978-0-387-90518-1&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>, first chapter on set theory.</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiktionary-logo-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/recursion" class="extiw" title="wiktionary:recursion">recursion</a></b></i>&#160;or <i><b><a href="https://en.wiktionary.org/wiki/recursivity" class="extiw" title="wiktionary:recursivity">recursivity</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.freenetpages.co.uk/hp/alan.gauld/tutrecur.htm">Recursion</a> - tutorial by Alan Gauld</li>
+<li><a rel="nofollow" class="external text" href="http://amitksaha.files.wordpress.com/2009/05/recursion-primer.pdf">A Primer on Recursion</a>- contains pointers to recursion in Formal Languages, Linguistics, Math and Computer Science</li>
+<li><a rel="nofollow" class="external text" href="http://research.swtch.com/2010/03/zip-files-all-way-down.html">Zip Files All The Way Down</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ucl.ac.uk/psychlangsci/staff/linguistics-staff/nevins-publications/npr09b">Nevins, Andrew and David Pesetsky and Cilene Rodrigues. Evidence and Argumentation: A Reply to Everett (2009). Language 85.3: 671--681 (2009)</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Fractals" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Fractals" title="Template:Fractals"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Fractals" title="Template talk:Fractals"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fractals&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Fractals" style="font-size:114%;margin:0 4em"><a href="/wiki/Fractal" title="Fractal">Fractals</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Characteristics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fractal_dimension" title="Fractal dimension">Fractal dimensions</a>
+<ul>
+<li><a href="/wiki/Assouad_dimension" title="Assouad dimension">Assouad</a></li>
+<li><a href="/wiki/Minkowski%E2%80%93Bouligand_dimension" title="Minkowski–Bouligand dimension">Box-counting</a></li>
+<li><a href="/wiki/Correlation_dimension" title="Correlation dimension">Correlation</a></li>
+<li><a href="/wiki/Hausdorff_dimension" title="Hausdorff dimension">Hausdorff</a></li>
+<li><a href="/wiki/Packing_dimension" title="Packing dimension">Packing</a></li>
+<li><a href="/wiki/Lebesgue_covering_dimension" title="Lebesgue covering dimension">Topological</a></li>
+</ul>
+</li>
+<li><strong class="selflink">Recursion</strong></li>
+<li><a href="/wiki/Self-similarity" title="Self-similarity">Self-similarity</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="15" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/Barnsley_fern" title="Barnsley fern"><img alt="An image of a fern which exhibits affine self-similarity." src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Fractal_fern_explained.png/80px-Fractal_fern_explained.png" width="80" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Fractal_fern_explained.png/120px-Fractal_fern_explained.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Fractal_fern_explained.png/160px-Fractal_fern_explained.png 2x" data-file-width="333" data-file-height="465" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Iterated_function_system" title="Iterated function system">Iterated function<br />
+system</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barnsley_fern" title="Barnsley fern">Barnsley fern</a></li>
+<li><a href="/wiki/Cantor_set" title="Cantor set">Cantor set</a></li>
+<li><a href="/wiki/Dragon_curve" title="Dragon curve">Dragon curve</a></li>
+<li><a href="/wiki/Koch_snowflake" title="Koch snowflake">Koch snowflake</a></li>
+<li><a href="/wiki/Menger_sponge" title="Menger sponge">Menger sponge</a></li>
+<li><a href="/wiki/Sierpinski_carpet" title="Sierpinski carpet">Sierpinski carpet</a></li>
+<li><a href="/wiki/Sierpinski_triangle" title="Sierpinski triangle">Sierpinski triangle</a></li>
+<li><a href="/wiki/Space-filling_curve" title="Space-filling curve">Space-filling curve</a></li>
+<li><a href="/wiki/T-square_(fractal)" title="T-square (fractal)">T-square</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Strange_attractor" class="mw-redirect" title="Strange attractor">Strange attractor</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Multifractal_system" title="Multifractal system">Multifractal system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/L-system" title="L-system">L-system</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Space-filling_curve" title="Space-filling curve">Space-filling curve</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Escape-time<br />
+fractals</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Burning_Ship_fractal" title="Burning Ship fractal">Burning Ship fractal</a></li>
+<li><a href="/wiki/Julia_set" title="Julia set">Julia set</a>
+<ul>
+<li><a href="/wiki/Filled_Julia_set" title="Filled Julia set">Filled</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Lyapunov_fractal" title="Lyapunov fractal">Lyapunov fractal</a></li>
+<li><a href="/wiki/Mandelbrot_set" title="Mandelbrot set">Mandelbrot set</a></li>
+<li><a href="/wiki/Newton_fractal" title="Newton fractal">Newton fractal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Random fractals</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brownian_motion" title="Brownian motion">Brownian motion</a></li>
+<li><a href="/wiki/Brownian_tree" title="Brownian tree">Brownian tree</a></li>
+<li><a href="/wiki/Diffusion-limited_aggregation" title="Diffusion-limited aggregation">Diffusion-limited aggregation</a></li>
+<li><a href="/wiki/Fractal_landscape" title="Fractal landscape">Fractal landscape</a></li>
+<li><a href="/wiki/L%C3%A9vy_flight" title="Lévy flight">Lévy flight</a></li>
+<li><a href="/wiki/Percolation_theory" title="Percolation theory">Percolation theory</a></li>
+<li><a href="/wiki/Self-avoiding_walk" title="Self-avoiding walk">Self-avoiding walk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Georg_Cantor" title="Georg Cantor">Georg Cantor</a></li>
+<li><a href="/wiki/Felix_Hausdorff" title="Felix Hausdorff">Felix Hausdorff</a></li>
+<li><a href="/wiki/Gaston_Julia" title="Gaston Julia">Gaston Julia</a></li>
+<li><a href="/wiki/Helge_von_Koch" title="Helge von Koch">Helge von Koch</a></li>
+<li><a href="/wiki/Paul_L%C3%A9vy_(mathematician)" title="Paul Lévy (mathematician)">Paul Lévy</a></li>
+<li><a href="/wiki/Aleksandr_Lyapunov" title="Aleksandr Lyapunov">Aleksandr Lyapunov</a></li>
+<li><a href="/wiki/Benoit_Mandelbrot" title="Benoit Mandelbrot">Benoit Mandelbrot</a></li>
+<li><a href="/wiki/Lewis_Fry_Richardson" title="Lewis Fry Richardson">Lewis Fry Richardson</a></li>
+<li><a href="/wiki/Wac%C5%82aw_Sierpi%C5%84ski" title="Wacław Sierpiński">Wacław Sierpiński</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>"<a href="/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension" title="How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension">How Long Is the Coast of Britain?</a>"
+<ul>
+<li><a href="/wiki/Coastline_paradox" title="Coastline paradox">Coastline paradox</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_fractals_by_Hausdorff_dimension" title="List of fractals by Hausdorff dimension">List of fractals by Hausdorff dimension</a></li>
+<li><i><a href="/wiki/The_Beauty_of_Fractals" title="The Beauty of Fractals">The Beauty of Fractals</a></i> (1986 book)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Mathematical_logic" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Mathematical_logic" title="Template:Mathematical logic"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Mathematical_logic" title="Template talk:Mathematical logic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mathematical_logic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Mathematical_logic" style="font-size:114%;margin:0 4em"><a href="/wiki/Mathematical_logic" title="Mathematical logic">Mathematical logic</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li>
+<li><a href="/wiki/Formation_rule" title="Formation rule">Formation rule</a></li>
+<li><a href="/wiki/Formal_system" title="Formal system">Formal system</a></li>
+<li><a href="/wiki/Deductive_system" class="mw-redirect" title="Deductive system">Deductive system</a></li>
+<li><a href="/wiki/Formal_proof" title="Formal proof">Formal proof</a></li>
+<li><a href="/wiki/Formal_semantics_(logic)" class="mw-redirect" title="Formal semantics (logic)">Formal semantics</a></li>
+<li><a href="/wiki/Well-formed_formula" title="Well-formed formula">Well-formed formula</a></li>
+<li><a href="/wiki/Set_(mathematics)" title="Set (mathematics)">Set</a></li>
+<li><a href="/wiki/Element_(mathematics)" title="Element (mathematics)">Element</a></li>
+<li><a href="/wiki/Class_(set_theory)" title="Class (set theory)">Class</a></li>
+<li><a href="/wiki/Classical_logic" title="Classical logic">Classical logic</a></li>
+<li><a href="/wiki/Axiom" title="Axiom">Axiom</a></li>
+<li><a href="/wiki/Natural_deduction" title="Natural deduction">Natural deduction</a></li>
+<li><a href="/wiki/Rule_of_inference" title="Rule of inference">Rule of inference</a></li>
+<li><a href="/wiki/Finitary_relation" title="Finitary relation">Relation</a></li>
+<li><a href="/wiki/Theorem" title="Theorem">Theorem</a></li>
+<li><a href="/wiki/Logical_consequence" title="Logical consequence">Logical consequence</a></li>
+<li><a href="/wiki/Axiomatic_system" title="Axiomatic system">Axiomatic system</a></li>
+<li><a href="/wiki/Type_theory" title="Type theory">Type theory</a></li>
+<li><a href="/wiki/Symbol_(formal)" title="Symbol (formal)">Symbol</a></li>
+<li><a href="/wiki/Syntax_(logic)" title="Syntax (logic)">Syntax</a></li>
+<li><a href="/wiki/Theory_(mathematical_logic)" title="Theory (mathematical logic)">Theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Term_logic" title="Term logic">Traditional logic</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Proposition" title="Proposition">Proposition</a></li>
+<li><a href="/wiki/Inference" title="Inference">Inference</a></li>
+<li><a href="/wiki/Argument" title="Argument">Argument</a></li>
+<li><a href="/wiki/Validity" title="Validity">Validity</a></li>
+<li><a href="/wiki/Cogency" class="mw-redirect" title="Cogency">Cogency</a></li>
+<li><a href="/wiki/Syllogism" title="Syllogism">Syllogism</a></li>
+<li><a href="/wiki/Square_of_opposition" title="Square of opposition">Square of opposition</a></li>
+<li><a href="/wiki/Venn_diagram" title="Venn diagram">Venn diagram</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Propositional_calculus" title="Propositional calculus">Propositional<br />
+calculus</a><br />
+<a href="/wiki/Boolean_algebra" title="Boolean algebra">Boolean logic</a></div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Boolean_function" title="Boolean function">Boolean functions</a></li>
+<li><a href="/wiki/Propositional_calculus" title="Propositional calculus">Propositional calculus</a></li>
+<li><a href="/wiki/Propositional_formula" title="Propositional formula">Propositional formula</a></li>
+<li><a href="/wiki/Logical_connective" title="Logical connective">Logical connectives</a></li>
+<li><a href="/wiki/Truth_table" title="Truth table">Truth tables</a></li>
+<li><a href="/wiki/Many-valued_logic" title="Many-valued logic">Many-valued logic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Predicate_logic" class="mw-redirect" title="Predicate logic">Predicate logic</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First-order_logic" title="First-order logic">First-order</a></li>
+<li><a href="/wiki/Quantifier_(logic)" title="Quantifier (logic)">Quantifiers</a></li>
+<li><a href="/wiki/Predicate_(mathematical_logic)" title="Predicate (mathematical logic)">Predicate</a></li>
+<li><a href="/wiki/Second-order_logic" title="Second-order logic">Second-order</a></li>
+<li><a href="/wiki/Monadic_predicate_calculus" title="Monadic predicate calculus">Monadic predicate calculus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Naive_set_theory" title="Naive set theory">Naive set theory</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Set_(mathematics)" title="Set (mathematics)">Set</a></li>
+<li><a href="/wiki/Empty_set" title="Empty set">Empty set</a></li>
+<li><a href="/wiki/Element_(mathematics)" title="Element (mathematics)">Element</a></li>
+<li><a href="/wiki/Enumeration" title="Enumeration">Enumeration</a></li>
+<li><a href="/wiki/Extensionality" title="Extensionality">Extensionality</a></li>
+<li><a href="/wiki/Finite_set" title="Finite set">Finite set</a></li>
+<li><a href="/wiki/Infinite_set" title="Infinite set">Infinite set</a></li>
+<li><a href="/wiki/Subset" title="Subset">Subset</a></li>
+<li><a href="/wiki/Power_set" title="Power set">Power set</a></li>
+<li><a href="/wiki/Countable_set" title="Countable set">Countable set</a></li>
+<li><a href="/wiki/Uncountable_set" title="Uncountable set">Uncountable set</a></li>
+<li><a href="/wiki/Recursive_set" title="Recursive set">Recursive set</a></li>
+<li><a href="/wiki/Domain_of_a_function" title="Domain of a function">Domain</a></li>
+<li><a href="/wiki/Codomain" title="Codomain">Codomain</a></li>
+<li><a href="/wiki/Image_(mathematics)" title="Image (mathematics)">Image</a></li>
+<li><a href="/wiki/Map_(mathematics)" title="Map (mathematics)">Map</a></li>
+<li><a href="/wiki/Function_(mathematics)" title="Function (mathematics)">Function</a></li>
+<li><a href="/wiki/Binary_operation" title="Binary operation">Relation</a></li>
+<li><a href="/wiki/Ordered_pair" title="Ordered pair">Ordered pair</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Set_theory" title="Set theory">Set theory</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Foundations_of_mathematics" title="Foundations of mathematics">Foundations of mathematics</a></li>
+<li><a href="/wiki/Zermelo%E2%80%93Fraenkel_set_theory" title="Zermelo–Fraenkel set theory">Zermelo–Fraenkel set theory</a></li>
+<li><a href="/wiki/Axiom_of_choice" title="Axiom of choice">Axiom of choice</a></li>
+<li><a href="/wiki/General_set_theory" title="General set theory">General set theory</a></li>
+<li><a href="/wiki/Kripke%E2%80%93Platek_set_theory" title="Kripke–Platek set theory">Kripke–Platek set theory</a></li>
+<li><a href="/wiki/Von_Neumann%E2%80%93Bernays%E2%80%93G%C3%B6del_set_theory" title="Von Neumann–Bernays–Gödel set theory">Von Neumann–Bernays–Gödel set theory</a></li>
+<li><a href="/wiki/Morse%E2%80%93Kelley_set_theory" title="Morse–Kelley set theory">Morse–Kelley set theory</a></li>
+<li><a href="/wiki/Tarski%E2%80%93Grothendieck_set_theory" title="Tarski–Grothendieck set theory">Tarski–Grothendieck set theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Model_theory" title="Model theory">Model theory</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Structure_(mathematical_logic)" title="Structure (mathematical logic)">Model</a></li>
+<li><a href="/wiki/Interpretation_(logic)" title="Interpretation (logic)">Interpretation</a></li>
+<li><a href="/wiki/Non-standard_model" title="Non-standard model">Non-standard model</a></li>
+<li><a href="/wiki/Finite_model_theory" title="Finite model theory">Finite model theory</a></li>
+<li><a href="/wiki/Truth_value" title="Truth value">Truth value</a></li>
+<li><a href="/wiki/Validity" title="Validity">Validity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Proof_theory" title="Proof theory">Proof theory</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Formal_proof" title="Formal proof">Formal proof</a></li>
+<li><a href="/wiki/Deductive_system" class="mw-redirect" title="Deductive system">Deductive system</a></li>
+<li><a href="/wiki/Formal_system" title="Formal system">Formal system</a></li>
+<li><a href="/wiki/Theorem" title="Theorem">Theorem</a></li>
+<li><a href="/wiki/Logical_consequence" title="Logical consequence">Logical consequence</a></li>
+<li><a href="/wiki/Rule_of_inference" title="Rule of inference">Rule of inference</a></li>
+<li><a href="/wiki/Syntax_(logic)" title="Syntax (logic)">Syntax</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Computability_theory" title="Computability theory">Computability<br />
+theory</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Recursion</strong></li>
+<li><a href="/wiki/Recursive_set" title="Recursive set">Recursive set</a></li>
+<li><a href="/wiki/Recursively_enumerable_set" title="Recursively enumerable set">Recursively enumerable set</a></li>
+<li><a href="/wiki/Decision_problem" title="Decision problem">Decision problem</a></li>
+<li><a href="/wiki/Church%E2%80%93Turing_thesis" title="Church–Turing thesis">Church–Turing thesis</a></li>
+<li><a href="/wiki/Computable_function" title="Computable function">Computable function</a></li>
+<li><a href="/wiki/Primitive_recursive_function" title="Primitive recursive function">Primitive recursive function</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1218
+Cached time: 20170313035358
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.284 seconds
+Real time usage: 0.466 seconds
+Preprocessor visited node count: 1420/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 67474/2097152 bytes
+Template argument size: 331/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 4/500
+Lua time usage: 0.125/10.000 seconds
+Lua memory usage: 5.12 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  256.031      1 -total
+ 28.51%   72.995     14 Template:Cite_book
+ 16.84%   43.120      1 Template:Pp-vandalism
+  9.18%   23.516      1 Template:Refimprove
+  7.92%   20.271      1 Template:Other_uses
+  7.79%   19.938      1 Template:Ambox
+  6.38%   16.323      2 Template:Navbox
+  5.38%   13.784      3 Template:Cite_journal
+  4.73%   12.107      1 Template:Fractals
+  4.05%   10.366      3 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25407-0!*!0!!en!4!*!math=5 and timestamp 20170313035357 and revision id 757964609
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Recursion&amp;oldid=757964609">https://en.wikipedia.org/w/index.php?title=Recursion&amp;oldid=757964609</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Theory_of_computation" title="Category:Theory of computation">Theory of computation</a></li><li><a href="/wiki/Category:Recursion" title="Category:Recursion">Recursion</a></li><li><a href="/wiki/Category:Self-reference" title="Category:Self-reference">Self-reference</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_pages_semi-protected_against_vandalism" title="Category:Wikipedia pages semi-protected against vandalism">Wikipedia pages semi-protected against vandalism</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2012" title="Category:Articles needing additional references from June 2012">Articles needing additional references from June 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Recursion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Recursion" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Recursion"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Recursion"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Recursion" >Read</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Recursion&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Recursion&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Recursion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Recursion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Recursion&amp;oldid=757964609" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Recursion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q179976" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Recursion&amp;id=757964609" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Recursion">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Recursion&amp;returnto=Recursion&amp;oldid=757964609&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Recursion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Recursion" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%AF%D8%B9%D8%A7%D8%A1_%D8%B0%D8%A7%D8%AA%D9%8A" title="استدعاء ذاتي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF_(%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8)" title="পুনরাবৃত্তি (রিকার্শন) – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F" title="Рекурсия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Recursivitat" title="Recursivitat – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Rekurze" title="Rekurze – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Rekursion" title="Rekursion – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Rekursion" title="Rekursion – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Rekursioon" title="Rekursioon – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B1%CE%B4%CF%81%CE%BF%CE%BC%CE%AE" title="Αναδρομή – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Recursi%C3%B3n" title="Recursión – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Rikuro" title="Rikuro – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Errekurtsio" title="Errekurtsio – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/R%C3%A9cursivit%C3%A9" title="Récursivité – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Recursividade" title="Recursividade – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8C%D5%A5%D5%AF%D5%B8%D6%82%D6%80%D5%BD%D5%AB%D5%A1" title="Ռեկուրսիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8" title="प्रतिवर्तन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Rekurzija" title="Rekurzija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Rekurso" title="Rekurso – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Rekursi" title="Rekursi – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Recursion" title="Recursion – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Endurkv%C3%A6mt_fall" title="Endurkvæmt fall – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%A7%D7%95%D7%A8%D7%A1%D7%99%D7%94" title="רקורסיה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F" title="Рекурсия – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Rekursija" title="Rekursija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Rekursija" title="Rekursija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Rekurzi%C3%B3" title="Rekurzió – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B5%8D%E0%B4%B5%E0%B4%BE%E0%B4%B5%E0%B5%BC%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%A8%E0%B4%82" title="സ്വാവർത്തനം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Recursie" title="Recursie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Rekursjon" title="Rekursjon – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Rekursjon" title="Rekursjon – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Rekurencja" title="Rekurencja – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Recursividade" title="Recursividade – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Recursivitate" title="Recursivitate – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D0%B7%D1%96%D1%8F" title="Рекурзія – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F" title="Рекурсия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%AE%E0%A4%A8%E0%A4%B5%E0%A4%BE%E0%A4%A6" title="पुनर्गमनवाद – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Recursion" title="Recursion – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Rekurzia_(matematika)" title="Rekurzia (matematika) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Rekurzija" title="Rekurzija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D0%B7%D0%B8%D1%98%D0%B0" title="Рекурзија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Rekurzija" title="Rekurzija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Rekursio" title="Rekursio – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Rekursion" title="Rekursion – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Rekursiyon" title="Rekursiyon – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%81%E0%AE%B4%E0%AE%B2%E0%AF%8D" title="சுழல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%8B%E0%B9%89%E0%B8%B3" title="การเรียกซ้ำ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F" title="Рекурсия – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/%C3%96zyineleme" title="Özyineleme – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D1%96%D1%8F" title="Рекурсія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%80%92%E5%BD%92" title="递归 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q179976#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 January 2017, at 18:56.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Recursion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.466","ppvisitednodes":{"value":1420,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":67474,"limit":2097152},"templateargumentsize":{"value":331,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  256.031      1 -total"," 28.51%   72.995     14 Template:Cite_book"," 16.84%   43.120      1 Template:Pp-vandalism","  9.18%   23.516      1 Template:Refimprove","  7.92%   20.271      1 Template:Other_uses","  7.79%   19.938      1 Template:Ambox","  6.38%   16.323      2 Template:Navbox","  5.38%   13.784      3 Template:Cite_journal","  4.73%   12.107      1 Template:Fractals","  4.05%   10.366      3 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.125","limit":"10.000"},"limitreport-memusage":{"value":5367777,"limit":52428800}},"cachereport":{"origin":"mw1218","timestamp":"20170313035358","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1269"});});</script>
+	</body>
+</html>

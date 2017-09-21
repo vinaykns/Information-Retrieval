@@ -1,0 +1,1222 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Regenerative design - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Regenerative_design","wgTitle":"Regenerative design","wgCurRevisionId":760928079,"wgRevisionId":760928079,"wgArticleId":14967273,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from April 2011","All articles lacking in-text citations","Wikipedia articles needing style editing from April 2015","All articles needing style editing","All articles with unsourced statements","Articles with unsourced statements from April 2015","Articles with unsourced statements from February 2016","Systems theory","Sustainable design","Industrial ecology","Environmental design","Environmental social science concepts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Regenerative_design","wgRelevantArticleId":14967273,"wgRequestId":"WMh98QpAEK0AAB4NdVkAAABQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Regenerative_(design)","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Regenerative_design","wgWikibaseItemId":"Q7308043","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Regenerative_design"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Regenerative_design&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Regenerative_design&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Regenerative_design"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Regenerative_design rootpage-Regenerative_design skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Regenerative design</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Regenerative_(design)&amp;redirect=no" class="mw-redirect" title="Regenerative (design)">Regenerative (design)</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><span class="mbox-text-span"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Regenerative_design&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Regenerative_design" title="Talk:Regenerative design">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small></span>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-style ambox-No_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, related reading or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, <b>but its sources remain unclear because it lacks <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(April 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-style ambox-essay-like" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>is written like a <a href="/wiki/Wikipedia:What_Wikipedia_is_not#ESSAY" title="Wikipedia:What Wikipedia is not">personal reflection or opinion essay</a> that states a Wikipedia editor's personal feelings about a topic</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Regenerative_design&amp;action=edit">help improve it</a> by rewriting it in an <a href="/wiki/Wikipedia:Encyclopedic_style" class="mw-redirect" title="Wikipedia:Encyclopedic style">encyclopedic style</a>.</span> <small><i>(April 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-style ambox-Tone" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b>tone or style may not reflect the <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">encyclopedic tone</a> used on Wikipedia</b>. <span class="hide-when-compact">See Wikipedia's <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">guide to writing better articles</a> for suggestions.</span> <small><i>(April 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></td>
+</tr>
+</table>
+<p><b>Regenerative design</b> is a process-oriented <a href="/wiki/Systems_theory" title="Systems theory">systems theory</a> based approach to design. The term "regenerative" describes processes that restore, renew or revitalize their own sources of energy and materials, creating sustainable systems that integrate the needs of society with the integrity of nature. The basis is derived from <a href="/wiki/Systems_ecology" title="Systems ecology">systems ecology</a> with a closed loop input–output model or a model in which the output is greater than or equal to the input with all outputs viable and all inputs accounted for. Regenerative design is the <a href="/wiki/Biomimicry" class="mw-redirect" title="Biomimicry">biomimicry</a> of <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a> that provide for all human systems to function as a closed viable <a href="/wiki/Ecological_economics" title="Ecological economics">ecological economics</a> system for all industry. It parallels ecosystems in that organic (<a href="/wiki/Biotic_component" title="Biotic component">biotic</a>) and synthetic (<a href="/wiki/Abiotic" class="mw-redirect" title="Abiotic">abiotic</a>) material is not just metabolized but metamorphosed into new viable materials. <a href="/wiki/Ecosystem" title="Ecosystem">Ecosystems</a> and regeneratively designed systems are holistic frameworks that seek to create systems that are absolutely waste free. The model is meant to be applied to many different aspects of human habitation such as urban environments, buildings, economics, industry and social systems. Simply put, it is the design of <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a> and human behavior, or <a href="/wiki/Culture" title="Culture">culture</a> that function as human habitats.</p>
+<p>Whereas the highest aim of <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a> is to satisfy <a href="/wiki/Fundamental_human_needs" title="Fundamental human needs">fundamental human needs</a> today without compromising the possibility of future generations to satisfy theirs, the end-goal of regenerative design is to redevelop systems with absolute effectiveness, that allows for the co-evolution of the human species along with other thriving species.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Regenerative_versus_sustainable"><span class="tocnumber">2</span> <span class="toctext">Regenerative versus sustainable</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Preservation_versus_conservation"><span class="tocnumber">3</span> <span class="toctext">Preservation versus conservation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Food_systems"><span class="tocnumber">4</span> <span class="toctext">Food systems</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Size_of_regenerative_systems"><span class="tocnumber">5</span> <span class="toctext">Size of regenerative systems</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Quantifying_regenerativity"><span class="tocnumber">6</span> <span class="toctext">Quantifying regenerativity</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_design&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the late 1970s, <a href="/wiki/John_T._Lyle" title="John T. Lyle">John T. Lyle</a> (1934–1998), a <a href="/wiki/Landscape_architecture" title="Landscape architecture">landscape architecture</a> professor, challenged graduate students to envision a community in which daily activities were based on the value of living within the limits of available renewable resources without <a href="/wiki/Environmental_degradation" title="Environmental degradation">environmental degradation</a>. Over the next few decades an eclectic group of students, professors and experts from around the world and crossing many disciplines developed designs for an institute to be built at <a href="/wiki/Cal_Poly_Pomona" class="mw-redirect" title="Cal Poly Pomona">Cal Poly Pomona</a>. In 1992 the <a href="/w/index.php?title=Lyle_Center_for_Regenerative_Studies&amp;action=edit&amp;redlink=1" class="new" title="Lyle Center for Regenerative Studies (page does not exist)">Lyle Center for Regenerative Studies</a> was built over two years and opened in 1994. In that same year Lyle's book <i>Regenerative Design for Sustainable Development</i> was published by <a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">Wiley</a>. In 1995 Lyle worked with <a href="/wiki/William_McDonough" title="William McDonough">William McDonough</a> at <a href="/wiki/Oberlin_College" title="Oberlin College">Oberlin College</a> for the <a href="/wiki/Adam_Joseph_Lewis_Center_for_Environmental_Studies" title="Adam Joseph Lewis Center for Environmental Studies">Adam Joseph Lewis Center for Environmental Studies</a> completed in 2000. In 2002 McDonough's book, the more popular and successful, <i><a href="/wiki/Cradle_to_Cradle:_Remaking_the_Way_We_Make_Things" title="Cradle to Cradle: Remaking the Way We Make Things">Cradle to Cradle: Remaking the Way We Make Things</a></i> was published reiterating the concepts developed by Lyle.</p>
+<p>Lyle saw the connection between concepts developed by <a href="/wiki/Robert_Rodale" title="Robert Rodale">Bob Rodale</a> of the <a href="/wiki/Rodale_Institute" class="mw-redirect" title="Rodale Institute">Rodale Institute</a> for <a href="/wiki/Regenerative_agriculture" title="Regenerative agriculture">regenerative agriculture</a> and the opportunity to develop regenerative systems for all other aspects of the world. While regenerative agriculture focused solely on agriculture, Lyle expanded its concepts and use to all systems. With regenerative agriculture, the concepts are very straight forward and simple but Lyle understood that when developing for other types of systems, more complicated ideas such as <a href="/wiki/Entropy" title="Entropy">entropy</a> and <a href="/wiki/Embodied_energy" title="Embodied energy">emergy</a> must be taken into consideration.</p>
+<p>Swiss architect <a href="/wiki/Walter_R._Stahel" title="Walter R. Stahel">Walter R. Stahel</a> developed approaches entirely similar to Lyle's also in the late 1970s but instead coined the term <a href="/wiki/Cradle-to-cradle_design" title="Cradle-to-cradle design">cradle-to-cradle design</a> made popular by McDonough and <a href="/wiki/Michael_Braungart" title="Michael Braungart">Michael Braungart</a></p>
+<h2><span class="mw-headline" id="Regenerative_versus_sustainable">Regenerative versus sustainable</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_design&amp;action=edit&amp;section=2" title="Edit section: Regenerative versus sustainable">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Regeneration_(ecology)" title="Regeneration (ecology)">Regenerative</a> and <a href="/wiki/Sustainable" class="mw-redirect" title="Sustainable">sustainable</a> are essentially the same thing except for one key point: in a sustainable system, lost <a href="/wiki/Ecological_system" class="mw-redirect" title="Ecological system">ecological systems</a> are not returned to existence. In a regenerative system, those lost systems can ultimately begin "regenerating" back into existence. Put more simply, regenerative systems create a "better" world than we (humans) found it, now and into the future.</p>
+<p>There is also a linguistic problem with the word "sustainable", which in the strict sense is meant to mean "<a href="/wiki/Self-sustaining" class="mw-redirect" title="Self-sustaining">self-sustaining</a>". Because the word root "sustain" means "last" or "endure," the general public and even many non-experts in the industry define the word only as "able to last" or "the capacity to endure." In popular usage by designers and product manufacturers, "sustainable" has become a relative term referring to any material, process or product (including a building) which is less toxic or environmental harmful than those conventionally used. A product that contains 75% <a href="/wiki/Recycled" class="mw-redirect" title="Recycled">recycled</a> material is often considered "sustainable", but is in fact merely MORE sustainable than a comparable product that contains no recycled material. A truly sustainable material would be one made of 100% recycled material that can, in turn, be completely recycled into a comparable new material or product. This is rarely the case.</p>
+<p>"Regenerative" also suffers from a slightly different linguistic problem, the term is still competing with the biological community in terms of its use for the <a href="/wiki/Regeneration_(biology)" title="Regeneration (biology)">re-growth</a> of limbs etc.. However once the word itself gains wide usage, its meaning becomes more general, much like in the case of the term "sustainable". The base meaning of "re-generative" means the "capacity to bring into existence again." So if an item or system is regenerative the item or system has the capacity to bring itself into existence again. Using the example above, a truly regenerative product would not only be 100% recycled and recyclable, but it would also improve the environmental conditions at the factory where it was made, the business where it was used and so on throughout its life-cycle (creating habitat, filtering water, catalyzing <a href="/wiki/Nitrogen-fixation" class="mw-redirect" title="Nitrogen-fixation">nitrogen-fixation</a> processes in the soil, etc.).</p>
+<h2><span class="mw-headline" id="Preservation_versus_conservation">Preservation versus conservation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_design&amp;action=edit&amp;section=3" title="Edit section: Preservation versus conservation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Regenerists place more importance on conservation than on preservation. It is recognized in regenerative design that humans are a part of natural ecosystems. To exclude people is to create dense areas that destroy pockets of existing ecosystems while preserving pockets of ecosystems without allowing them to change naturally over time. By incorporating people into ecosystems all inputs are pulled from local areas and all outputs are accounted for creating a waste-less system. When human systems cease to create waste, what would once have been considered waste becomes a resource for the input in which the output comes from.</p>
+<h2><span class="mw-headline" id="Food_systems">Food systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_design&amp;action=edit&amp;section=4" title="Edit section: Food systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Regenerists call for the creation of demand on agricultural systems to produce regenerative foods. This is often compared to the creation of the demand for <a href="/wiki/Organic_food" title="Organic food">organic food</a>. Organic foods have a relation to regenerative foods in that regenerative food is all organic, but not all organic food is regenerative. Organic food is not regenerative if the byproduct of the <a href="/wiki/Food_crop" class="mw-redirect" title="Food crop">food crop</a> is not a resource for the next seasons crops and if other inputs for the crop did not come from other resources within the farm which it is grown in.</p>
+<h2><span class="mw-headline" id="Size_of_regenerative_systems">Size of regenerative systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_design&amp;action=edit&amp;section=5" title="Edit section: Size of regenerative systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The size of the regenerative system effects its regenerativity. The smaller a system is designed the more likely it is to be stable and regenerative. Multiple small regenerative systems that are put together to create larger regenerative systems help to create supplies for multiple human-inclusive-ecological systems.</p>
+<h2><span class="mw-headline" id="Quantifying_regenerativity">Quantifying regenerativity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_design&amp;action=edit&amp;section=6" title="Edit section: Quantifying regenerativity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Due to <a href="/wiki/Evolution" title="Evolution">evolution</a> and the continuing and largely unpredictable changes that occur over the lifetime of Earth, it is impossible to create a 100% regenerative system. One can only reach 99.999% efficiency<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2015)">citation needed</span></a></i>]</sup>, the ultimate goal. However, with the energy material interchange, it is possible to create enough energy to potentially create the equivalent amount of material used to create the system in the first instance.</p>
+<p>A completed object (an object with <a href="/wiki/Emergy" title="Emergy">emergy</a>, or embodied energy) can however create more energy than was used to create it. I.e. a <a href="/wiki/Solar_panel" title="Solar panel">solar panel</a> outputting more energy than its given embodied energy. However the system used to make up the solar panel: the inputs such as the materials for the object (silicon) and the solar radiation can only be regenerated if enough energy is produced to generate the materials used to make up the solar panel. However, today's solar panels are not yet that <a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">energy efficient</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2016)">citation needed</span></a></i>]</sup>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_design&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Adam_Joseph_Lewis_Center_for_Environmental_Studies" title="Adam Joseph Lewis Center for Environmental Studies">Adam Joseph Lewis Center for Environmental Studies</a></li>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a></li>
+<li><a href="/wiki/Booker_T._Whatley" title="Booker T. Whatley">Booker T. Whatley</a></li>
+<li><a href="/wiki/Cradle_to_cradle" class="mw-redirect" title="Cradle to cradle">Cradle to cradle</a></li>
+<li><a href="/wiki/Landscape_urbanism" title="Landscape urbanism">Landscape urbanism</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Regenerative_agriculture" title="Regenerative agriculture">Regenerative agriculture</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Walter_R._Stahel" title="Walter R. Stahel">Walter R. Stahel</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_design&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://books.google.com/books?id=k8eB9xtGuVcC&amp;printsec=frontcover&amp;dq=design+for+human+ecosystems&amp;cd=1#v=onepage&amp;q=&amp;f=false/"><i>Design for Human Ecosystems</i></a></li>
+<li><a rel="nofollow" class="external text" href="http://env.cpp.edu/rs/rs/">John T. Lyle Center for Regenerative Studies</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.regenesisgroup.com">Regenesis Group</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.soilsymbiotics.com">Soil Symbiotics</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.harmonicecological.com">Harmonic Ecological Design</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.regenerativedesigngroup.com">Regenerative Design Group</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.regenerativedesign.org">Regenerative Design Institute</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.regenarch.org">Regenerative Architecture</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cmpbs.org">Center for Maximum Potential Building Systems</a></li>
+<li><a rel="nofollow" class="external text" href="https://books.google.com/books?id=qB3v3gYofSUC&amp;dq=regenerative+design+for+sustainable+development&amp;printsec=frontcover&amp;source=bn&amp;hl=en&amp;ei=dt4jS_m1NY-QtgOUirjgDg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CB4Q6AEwAw#v=onepage&amp;q=&amp;f=false/"><i>Regenerative Design for Sustainable Development</i></a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Design" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Design" title="Template:Design"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Design" title="Template talk:Design"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Design&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Design" style="font-size:114%"><a href="/wiki/Design" title="Design">Design</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2" style="background:lemonchiffon;">
+<div>
+<ul>
+<li><a href="/wiki/Outline_of_design" title="Outline of design">Outline</a></li>
+<li><a href="/wiki/Portal:Design" title="Portal:Design">Portal</a></li>
+<li><a href="/wiki/Designer" title="Designer">Designer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><span style="float:left;width:6em">&#160;</span>
+<div id="Disciplines" style="font-size:114%">Disciplines</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;"><a href="/wiki/Communication_design" title="Communication design">Communication<br />
+design</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Advertising" title="Advertising">Advertising</a></li>
+<li><a href="/wiki/Book_design" title="Book design">Book design</a></li>
+<li><a href="/wiki/Corporate_design" title="Corporate design">Corporate design</a></li>
+<li><a href="/wiki/Exhibit_design" title="Exhibit design">Exhibit design</a></li>
+<li><a href="/wiki/Film_title_design" title="Film title design">Film title design</a></li>
+<li><a href="/wiki/Graphic_design" title="Graphic design">Graphic design</a>
+<ul>
+<li><a href="/wiki/Motion_graphic_design" title="Motion graphic design">Motion</a></li>
+<li><a href="/wiki/Postage_stamp_design" title="Postage stamp design">Postage stamp design</a></li>
+<li><a href="/wiki/Print_design" title="Print design">Print design</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Illustration" title="Illustration">Illustration</a></li>
+<li><a href="/wiki/Information_design" title="Information design">Information design</a></li>
+<li><a href="/wiki/Instructional_design" title="Instructional design">Instructional design</a></li>
+<li><a href="/wiki/News_design" title="News design">News design</a></li>
+<li><a href="/wiki/Photography" title="Photography">Photography</a></li>
+<li><a href="/wiki/Retail_design" title="Retail design">Retail design</a></li>
+<li><a href="/wiki/Signage" title="Signage">Signage</a>&#160;/ <a href="/wiki/Traffic_sign_design" title="Traffic sign design">Traffic sign design</a></li>
+<li><a href="/wiki/Typography" title="Typography">Typography</a>&#160;/ <a href="/wiki/Type_design" title="Type design">Type design</a></li>
+<li><a href="/wiki/Video_design" title="Video design">Video design</a></li>
+<li><a href="/wiki/Visual_merchandising" title="Visual merchandising">Visual merchandising</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;"><a href="/wiki/Environmental_design" title="Environmental design">Environmental<br />
+design</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Architecture" title="Architecture">Architecture</a></li>
+<li><a href="/wiki/Architectural_lighting_design" title="Architectural lighting design">Architectural lighting design</a></li>
+<li><a href="/wiki/Building_design" title="Building design">Building design</a>
+<ul>
+<li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecological_design" title="Ecological design">Ecological design</a></li>
+<li><a href="/wiki/Environmental_impact_design" title="Environmental impact design">Environmental impact design</a></li>
+<li><a href="/wiki/Garden_design" title="Garden design">Garden design</a>
+<ul>
+<li><a href="/wiki/Computer-aided_garden_design" title="Computer-aided garden design">Computer-aided</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Healthy_community_design" title="Healthy community design">Healthy community design</a></li>
+<li><a href="/wiki/Hotel_design" title="Hotel design">Hotel design</a></li>
+<li><a href="/wiki/Interior_architecture" title="Interior architecture">Interior architecture</a></li>
+<li><a href="/wiki/Interior_design" title="Interior design">Interior design</a>
+<ul>
+<li><a href="/wiki/Experiential_interior_design" title="Experiential interior design">EID</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Keyline_design" title="Keyline design">Keyline design</a></li>
+<li><a href="/wiki/Landscape_architecture" title="Landscape architecture">Landscape architecture</a>
+<ul>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Sustainable</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Landscape_design" title="Landscape design">Landscape design</a></li>
+<li><a href="/wiki/Spatial_design" title="Spatial design">Spatial design</a></li>
+<li><a href="/wiki/Urban_design" title="Urban design">Urban design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;"><a href="/wiki/Industrial_design" title="Industrial design">Industrial<br />
+design</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automotive_design" title="Automotive design">Automotive design</a></li>
+<li><a href="/wiki/Automotive_suspension_design" title="Automotive suspension design">Automotive suspension design</a></li>
+<li><a href="/wiki/CMF_design" title="CMF design">CMF design</a></li>
+<li><a href="/wiki/Corrugated_box_design" title="Corrugated box design">Corrugated box design</a></li>
+<li><a href="/wiki/Electric_guitar_design" title="Electric guitar design">Electric guitar design</a></li>
+<li><a href="/wiki/Furniture" title="Furniture">Furniture design</a>
+<ul>
+<li><a href="/wiki/Sustainable_furniture_design" title="Sustainable furniture design">Sustainable</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hardware_interface_design" title="Hardware interface design">Hardware interface design</a></li>
+<li><a href="/wiki/Motorcycle_design" title="Motorcycle design">Motorcycle design</a></li>
+<li><a href="/wiki/Packaging_and_labeling" title="Packaging and labeling">Packaging and labeling</a></li>
+<li><a href="/wiki/Photographic_lens_design" title="Photographic lens design">Photographic lens design</a></li>
+<li><a href="/wiki/Product_design" title="Product design">Product design</a></li>
+<li><a href="/wiki/Production_design" class="mw-redirect" title="Production design">Production design</a></li>
+<li><a href="/wiki/Sensory_design" title="Sensory design">Sensory design</a></li>
+<li><a href="/wiki/Service_design" title="Service design">Service design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;"><a href="/wiki/Interaction_design" title="Interaction design">Interaction<br />
+design</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Experience_design" title="Experience design">Experience design</a>
+<ul>
+<li><a href="/wiki/Employee_experience_design" title="Employee experience design">EED</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Game_design" title="Game design">Game design</a>
+<ul>
+<li><a href="/wiki/Level_design" title="Level design">Level design</a></li>
+<li><a href="/wiki/Video_game_design" title="Video game design">Video game design</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hardware_interface_design" title="Hardware interface design">Hardware interface design</a></li>
+<li><a href="/wiki/Icon_design" title="Icon design">Icon design</a></li>
+<li><a href="/wiki/Immersive_design" title="Immersive design">Immersive design</a></li>
+<li><a href="/wiki/Information_design" title="Information design">Information design</a></li>
+<li><a href="/wiki/Sonic_interaction_design" title="Sonic interaction design">Sonic interaction design</a></li>
+<li><a href="/wiki/User_experience_design" title="User experience design">User experience design</a></li>
+<li><a href="/wiki/User_interface_design" title="User interface design">User interface design</a></li>
+<li><a href="/wiki/Web_design" title="Web design">Web design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;">Other<br />
+<a href="/wiki/Applied_arts" title="Applied arts">applied arts</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Public_art" title="Public art">Public art design</a></li>
+<li><a href="/wiki/Ceramic_art" title="Ceramic art">Ceramic</a>&#160;/ <a href="/wiki/Glass_art" title="Glass art">glass design</a></li>
+<li><a href="/wiki/Fashion_design" title="Fashion design">Fashion design</a>
+<ul>
+<li><a href="/wiki/Costume_design" title="Costume design">Costume design</a></li>
+<li><a href="/wiki/Jewelry_design" class="mw-redirect" title="Jewelry design">Jewelry design</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Floral_design" title="Floral design">Floral design</a></li>
+<li><a href="/wiki/Game_art_design" title="Game art design">Game art design</a></li>
+<li><a href="/wiki/Property_designer" title="Property designer">Property design</a></li>
+<li><a href="/wiki/Scenic_design" title="Scenic design">Scenic design</a></li>
+<li><a href="/wiki/Sound_design" title="Sound design">Sound design</a></li>
+<li><a href="/wiki/Lighting_designer" title="Lighting designer">Stage/set lighting design</a></li>
+<li><a href="/wiki/Textile_design" title="Textile design">Textile design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;">Other<br />
+design<br />
+&amp; <a href="/wiki/Engineering" title="Engineering">engineering</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algorithm_design" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Boiler_design" title="Boiler design">Boiler design</a></li>
+<li><a href="/wiki/Conceptual_design" title="Conceptual design">Conceptual design</a></li>
+<li><a href="/wiki/Database_design" title="Database design">Database design</a></li>
+<li><a href="/wiki/Drug_design" title="Drug design">Drug design</a></li>
+<li><a href="/wiki/Electrical_system_design" title="Electrical system design">Electrical system design</a></li>
+<li><a href="/wiki/Design_of_experiments" title="Design of experiments">Experimental design</a></li>
+<li><a href="/wiki/Filter_design" title="Filter design">Filter design</a></li>
+<li><a href="/wiki/Job_design" title="Job design">Job design</a></li>
+<li><a href="/wiki/Integrated_circuit_design" title="Integrated circuit design">Integrated circuit design</a>
+<ul>
+<li><a href="/wiki/Circuit_design" title="Circuit design">Circuit design</a></li>
+<li><a href="/wiki/Physical_design_(electronics)" title="Physical design (electronics)">Physical design</a></li>
+<li><a href="/wiki/Power_network_design_(IC)" title="Power network design (IC)">Power network design</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nuclear_weapon_design" title="Nuclear weapon design">Nuclear weapon design</a></li>
+<li><a href="/wiki/Nucleic_acid_design" title="Nucleic acid design">Nucleic acid design</a></li>
+<li><a href="/wiki/Organization_design" class="mw-redirect" title="Organization design">Organization design</a></li>
+<li><a href="/wiki/Process_design" title="Process design">Process design</a></li>
+<li><a href="/wiki/Processor_design" title="Processor design">Processor design</a></li>
+<li><a href="/wiki/Protein_design" title="Protein design">Protein design</a></li>
+<li><a href="/wiki/Research_design" title="Research design">Research design</a></li>
+<li><a href="/wiki/Social_design" title="Social design">Social design</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Spacecraft_design" title="Spacecraft design">Spacecraft design</a></li>
+<li><a href="/wiki/Strategic_design" title="Strategic design">Strategic design</a></li>
+<li><a href="/wiki/Systems_design" title="Systems design">Systems design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><span style="float:left;width:6em">&#160;</span>
+<div id="Approaches" style="font-size:114%">Approaches</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Activity-centered_design" title="Activity-centered design">Activity-centered</a></li>
+<li><a href="/wiki/Adaptive_web_design" title="Adaptive web design">Adaptive web</a></li>
+<li><a href="/wiki/Affective_design" title="Affective design">Affective</a></li>
+<li><a href="/wiki/Design_by_committee" title="Design by committee">By committee</a></li>
+<li><a href="/wiki/Design_by_contract" title="Design by contract">By contract</a></li>
+<li><a href="/wiki/C-K_theory" title="C-K theory">C-K theory</a></li>
+<li><a href="/wiki/Design_closure" title="Design closure">Closure</a></li>
+<li><a href="/wiki/Participatory_design" title="Participatory design">Co-design</a></li>
+<li><a href="/wiki/Concept-oriented_design" title="Concept-oriented design">Concept-oriented</a></li>
+<li><a href="/wiki/Configuration_design" title="Configuration design">Configuration</a></li>
+<li><a href="/wiki/Contextual_design" title="Contextual design">Contextual</a></li>
+<li><a href="/wiki/Continuous_design" title="Continuous design">Continuous</a></li>
+<li><a href="/wiki/Cradle-to-cradle_design" title="Cradle-to-cradle design">Cradle-to-cradle</a></li>
+<li><a href="/wiki/Creative_problem-solving" title="Creative problem-solving">Creative problem-solving</a></li>
+<li><a href="/wiki/Creativity_techniques" title="Creativity techniques">Creativity techniques</a></li>
+<li><a href="/wiki/Critical_design" title="Critical design">Critical</a>
+<ul>
+<li><a href="/wiki/Design_fiction" title="Design fiction">Design fiction</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Defensive_design" title="Defensive design">Defensive</a></li>
+<li><a href="/wiki/Design%E2%80%93bid%E2%80%93build" title="Design–bid–build">Design–bid–build</a></li>
+<li><a href="/wiki/Design%E2%80%93build" title="Design–build">Design–build</a>
+<ul>
+<li><a href="/wiki/Architect-led_design%E2%80%93build" title="Architect-led design–build">architect-led</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Domain-driven_design" title="Domain-driven design">Domain-driven</a></li>
+<li><a href="/wiki/Ecodesign" title="Ecodesign">Ecodesign</a></li>
+<li><a href="/wiki/Energy_neutral_design" title="Energy neutral design">Energy neutral</a></li>
+<li><a href="/wiki/Engineering_design_process" title="Engineering design process">Engineering design process</a>
+<ul>
+<li><a href="/wiki/Probabilistic_design" title="Probabilistic design">Probabilistic design</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Error-tolerant_design" title="Error-tolerant design">Error-tolerant</a></li>
+<li><a href="/wiki/Fault-tolerant_design" class="mw-redirect" title="Fault-tolerant design">Fault-tolerant</a></li>
+<li><a href="/wiki/Framework-oriented_design" title="Framework-oriented design">Framework-oriented</a></li>
+<li><a href="/wiki/Design_for_assembly" title="Design for assembly">For assembly</a></li>
+<li><a href="/wiki/Design_for_behaviour_change" title="Design for behaviour change">For behaviour change</a></li>
+<li><a href="/wiki/Design_for_manufacturability" title="Design for manufacturability">For manufacturability</a></li>
+<li><a href="/wiki/Design_for_Six_Sigma" title="Design for Six Sigma">For Six Sigma</a></li>
+<li><a href="/wiki/Design_for_testing" title="Design for testing">For testing</a></li>
+<li><a href="/wiki/Design_for_X" title="Design for X">For X</a></li>
+<li><a href="/wiki/Functional_design" title="Functional design">Functional</a></li>
+<li><a href="/wiki/Generative_Design" title="Generative Design">Generative</a></li>
+<li><a href="/wiki/Geodesign" title="Geodesign">Geodesign</a></li>
+<li><a href="/wiki/High-level_design" title="High-level design">High-level</a></li>
+<li><a href="/wiki/Integrated_design" title="Integrated design">Integrated</a></li>
+<li><a href="/wiki/Integrated_topside_design" title="Integrated topside design">Integrated topside</a></li>
+<li><a href="/wiki/Intelligence-based_design" title="Intelligence-based design">Intelligence-based</a></li>
+<li><a href="/wiki/Iterative_design" title="Iterative design">Iterative</a></li>
+<li><a href="/wiki/KISS_principle" title="KISS principle">KISS principle</a></li>
+<li><a href="/wiki/Low-level_design" title="Low-level design">Low-level</a></li>
+<li><a href="/wiki/Metadesign" title="Metadesign">Metadesign</a></li>
+<li><a href="/wiki/Mind_map" title="Mind map">Mind mapping</a></li>
+<li><a href="/wiki/Modular_design" title="Modular design">Modular</a></li>
+<li><a href="/wiki/New_Wave_(design)" title="New Wave (design)">New Wave</a></li>
+<li><a href="/wiki/Object-oriented_design" title="Object-oriented design">Object-oriented</a></li>
+<li><a href="/wiki/Open_design" title="Open design">Open</a></li>
+<li><a href="/wiki/Parametric_design" title="Parametric design">Parametric</a></li>
+<li><a href="/wiki/Participatory_design" title="Participatory design">Participatory</a></li>
+<li><a href="/wiki/Platform-based_design" title="Platform-based design">Platform-based</a></li>
+<li><a href="/wiki/Policy-based_design" title="Policy-based design">Policy-based</a></li>
+<li><a href="/wiki/Process-centered_design" title="Process-centered design">Process-centered</a></li>
+<li><a href="/wiki/Public_interest_design" title="Public interest design">Public interest</a></li>
+<li><a href="/wiki/Rational_design" title="Rational design">Rational</a></li>
+<li><strong class="selflink">Regenerative</strong></li>
+<li><a href="/wiki/Reliability_engineering" title="Reliability engineering">Reliability engineering</a></li>
+<li><a href="/wiki/Research-based_design" title="Research-based design">Research-based</a></li>
+<li><a href="/wiki/Responsibility-driven_design" title="Responsibility-driven design">Responsibility-driven</a></li>
+<li><a href="/wiki/Responsive_web_design" title="Responsive web design">RWD</a></li>
+<li><a href="/wiki/Safe-life_design" title="Safe-life design">Safe-life</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+<li><a href="/wiki/Systemic_Design" class="mw-redirect" title="Systemic Design">Systemic</a>
+<ul>
+<li><a href="/wiki/Systems_Oriented_Design" class="mw-redirect" title="Systems Oriented Design">SOD</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tableless_web_design" title="Tableless web design">Tableless web</a></li>
+<li><a href="/wiki/Theory_of_constraints" title="Theory of constraints">Theory of constraints</a></li>
+<li><a href="/wiki/Top-down_and_bottom-up_design" title="Top-down and bottom-up design">Top-down and bottom-up</a></li>
+<li><a href="/wiki/Transformation_design" title="Transformation design">Transformation</a></li>
+<li><a href="/wiki/Transgenerational_design" title="Transgenerational design">Transgenerational</a></li>
+<li><a href="/wiki/TRIZ" title="TRIZ">TRIZ</a></li>
+<li><a href="/wiki/Universal_design" title="Universal design">Universal</a>
+<ul>
+<li><a href="/wiki/Design_for_All_(in_ICT)" title="Design for All (in ICT)">Design for All</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Usage-centered_design" title="Usage-centered design">Usage-centered</a></li>
+<li><a href="/wiki/Use-centered_design" title="Use-centered design">Use-centered</a></li>
+<li><a href="/wiki/User-centered_design" title="User-centered design">User-centered</a>
+<ul>
+<li><a href="/wiki/Empathic_design" title="Empathic design">Empathic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/User_innovation" title="User innovation">User innovation</a></li>
+<li><a href="/wiki/Value-driven_design" title="Value-driven design">Value-driven</a></li>
+<li><a href="/wiki/Value_sensitive_design" title="Value sensitive design">Value sensitive</a>
+<ul>
+<li><a href="/wiki/Privacy_by_Design" class="mw-redirect" title="Privacy by Design">Privacy by</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Design <a href="/wiki/Design_choice" title="Design choice">choice</a></li>
+<li><a href="/wiki/Design_computing" title="Design computing">computing</a></li>
+<li><a href="/wiki/Design_controls" title="Design controls">controls</a></li>
+<li><a href="/wiki/Design_flow_(EDA)" title="Design flow (EDA)">flow</a></li>
+<li><a href="/wiki/Design_leadership" title="Design leadership">leadership</a></li>
+<li><a href="/wiki/Design_management" title="Design management">management</a></li>
+<li><a href="/wiki/Design_marker" title="Design marker">marker</a></li>
+<li><a href="/wiki/Design_methods" title="Design methods">methods</a></li>
+<li><a href="/wiki/Design_pattern" title="Design pattern">pattern</a></li>
+<li><a href="/wiki/Design_research" title="Design research">research</a></li>
+<li><a href="/wiki/Design_science" title="Design science">science</a></li>
+<li><a href="/wiki/Design_strategy" title="Design strategy">strategy</a></li>
+<li><a href="/wiki/Design_theory" title="Design theory">theory</a></li>
+<li><a href="/wiki/Design_thinking" title="Design thinking">thinking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><span style="float:left;width:6em">&#160;</span>
+<div id="ToolsIntellectual_propertyOrganizationsAwards" style="font-size:114%">
+<div class="hlist">
+<ul>
+<li>Tools</li>
+<li>Intellectual property</li>
+<li>Organizations</li>
+<li>Awards</li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;"><a href="/wiki/Design_tool" title="Design tool">Tools</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algorithms-Aided_Design_(AAD)" title="Algorithms-Aided Design (AAD)">AAD</a></li>
+<li><a href="/wiki/Architectural_model" title="Architectural model">Architectural model</a></li>
+<li><a href="/wiki/Blueprint" title="Blueprint">Blueprint</a></li>
+<li><a href="/wiki/Comprehensive_layout" title="Comprehensive layout">Comprehensive layout</a></li>
+<li><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a>
+<ul>
+<li><a href="/wiki/Computer-aided_industrial_design" title="Computer-aided industrial design">CAID</a></li>
+<li><a href="/wiki/Virtual_home_design_software" title="Virtual home design software">Virtual home design software</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Computer-automated_design" title="Computer-automated design">CAutoD</a></li>
+<li><a href="/wiki/Design_quality_indicator" title="Design quality indicator">Design quality indicator</a></li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a></li>
+<li><a href="/wiki/Flowchart" title="Flowchart">Flowchart</a></li>
+<li><a href="/wiki/Mockup" title="Mockup">Mockup</a></li>
+<li><a href="/wiki/Product_design_specification" title="Product design specification">Product design specification</a></li>
+<li><a href="/wiki/Prototype" title="Prototype">Prototype</a></li>
+<li><a href="/wiki/Sketch_(drawing)" title="Sketch (drawing)">Sketch</a></li>
+<li><a href="/wiki/Storyboard" title="Storyboard">Storyboard</a></li>
+<li><a href="/wiki/Technical_drawing" title="Technical drawing">Technical drawing</a></li>
+<li><a href="/wiki/Web_design_program" class="mw-redirect" title="Web design program">Web design program</a></li>
+<li><a href="/wiki/Website_wireframe" title="Website wireframe">Website wireframe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;">Intellectual<br />
+property</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Community_design" title="Community design">Community design</a></li>
+<li><a href="/wiki/Design_around" title="Design around">Design around</a></li>
+<li><a href="/wiki/Design_patent" title="Design patent">Design patent</a></li>
+<li><i><a href="/wiki/Geschmacksmuster" title="Geschmacksmuster">Geschmacksmuster</a></i></li>
+<li><a href="/wiki/Industrial_design_right" title="Industrial design right">Industrial design rights</a>
+<ul>
+<li><a href="/wiki/Industrial_design_rights_in_the_European_Union" title="Industrial design rights in the European Union">European Union</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;">Organizations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AIGA" title="AIGA">AIGA</a></li>
+<li><a href="/wiki/Chartered_Society_of_Designers" title="Chartered Society of Designers">Chartered Society of Designers</a></li>
+<li><a href="/wiki/Design_and_Industries_Association" title="Design and Industries Association">Design and Industries Association</a></li>
+<li><a href="/wiki/Design_Council" title="Design Council">Design Council</a></li>
+<li><a href="/wiki/International_Forum_Design" title="International Forum Design">International Forum Design</a></li>
+<li><a href="/wiki/The_Design_Society" title="The Design Society">The Design Society</a></li>
+<li><a href="/wiki/Design_Research_Society" title="Design Research Society">Design Research Society</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lemonchiffon;">Awards</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/European_Design_Award" title="European Design Award">European Design Award</a></li>
+<li><a href="/wiki/German_Design_Award" title="German Design Award">German Design Award</a></li>
+<li><a href="/wiki/Good_Design_Award_(Chicago)" title="Good Design Award (Chicago)">Good Design Award (Chicago)</a></li>
+<li><a href="/wiki/Good_Design_Award_(Japan)" title="Good Design Award (Japan)">Good Design Award (Japan)</a></li>
+<li><a href="/wiki/Graphex" title="Graphex">Graphex</a></li>
+<li><a href="/wiki/IF_product_design_award" title="IF product design award">IF product design award</a></li>
+<li><a href="/wiki/James_Dyson_Award" title="James Dyson Award">James Dyson Award</a></li>
+<li><a href="/wiki/Prince_Philip_Designers_Prize" title="Prince Philip Designers Prize">Prince Philip Designers Prize</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><span style="float:left;width:6em">&#160;</span>
+<div id="Related_topics" style="font-size:114%">Related topics</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aesthetics" title="Aesthetics">Aesthetics</a></li>
+<li><a href="/wiki/Concept_art" title="Concept art">Concept art</a></li>
+<li><a href="/wiki/Creative_industries" title="Creative industries">Creative industries</a></li>
+<li><a href="/wiki/Cultural_icon" title="Cultural icon">Cultural icon</a></li>
+<li><a href="/wiki/.design" title=".design">.design</a></li>
+<li><a href="/wiki/Enterprise_architecture" title="Enterprise architecture">Enterprise architecture</a></li>
+<li><a href="/wiki/Futures_studies" title="Futures studies">Futures studies</a></li>
+<li><a href="/wiki/Intelligent_design" title="Intelligent design">Intelligent design</a></li>
+<li><a href="/wiki/New_product_development" title="New product development">New product development</a></li>
+<li><a href="/wiki/Philosophy_of_design" title="Philosophy of design">Philosophy of design</a></li>
+<li><a href="/wiki/Process_simulation" title="Process simulation">Process simulation</a></li>
+<li><a href="/wiki/Slow_design" title="Slow design">Slow design</a></li>
+<li><a href="/wiki/STEAM_fields" title="STEAM fields">STEAM fields</a></li>
+<li><a href="/wiki/Unintelligent_design" class="mw-redirect" title="Unintelligent design">Unintelligent design</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Wicked_problem" title="Wicked problem">Wicked problem</a></li>
+</ul>
+<ul>
+<li>Design <a href="/wiki/Design_brief" title="Design brief">brief</a></li>
+<li><a href="/wiki/Design_change" title="Design change">change</a></li>
+<li><a href="/wiki/Design_classic" title="Design classic">classic</a></li>
+<li><a href="/wiki/Design_director" title="Design director">director</a></li>
+<li><a href="/wiki/Design_education" title="Design education">education</a></li>
+<li><a href="/wiki/Design_elements_and_principles" class="mw-redirect" title="Design elements and principles">elements and principles</a></li>
+<li><a href="/wiki/Design_engineer" title="Design engineer">engineer</a></li>
+<li><a href="/wiki/Design_firm" class="mw-redirect" title="Design firm">firm</a></li>
+<li><a href="/wiki/Design_history" title="Design history">history</a></li>
+<li><a href="/wiki/Design_knowledge" title="Design knowledge">knowledge</a></li>
+<li><a href="/wiki/Design_language" title="Design language">language</a></li>
+<li><a href="/wiki/Design_life" title="Design life">life</a></li>
+<li><a href="/wiki/Design_load" title="Design load">load</a></li>
+<li><a href="/wiki/Design_museum" title="Design museum">museum</a></li>
+<li><a href="/wiki/Design_paradigm" title="Design paradigm">paradigm</a></li>
+<li><a href="/wiki/Design_rationale" title="Design rationale">rationale</a></li>
+<li><a href="/wiki/Design_review" title="Design review">review</a></li>
+<li><a href="/wiki/Design_specification" title="Design specification">specification</a></li>
+<li><a href="/wiki/Design_studio" title="Design studio">studio</a></li>
+<li><a href="/wiki/Design_technology" title="Design technology">technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><a href="https://commons.wikimedia.org/wiki/category:Design" class="extiw" title="commons:category:Design"><span style="color:#002bb8">Commons</span></a></li>
+<li><a href="https://en.wikibooks.org/wiki/Design" class="extiw" title="wikibooks:Design"><span style="color:#002bb8">Wikibooks</span></a></li>
+<li><a href="https://en.wikinews.org/wiki/Special:Search/Design" class="extiw" title="wikinews:Special:Search/Design"><span style="color:#002bb8">Wikinews</span></a></li>
+<li><a href="https://en.wikiquote.org/wiki/Design" class="extiw" title="wikiquote:Design"><span style="color:#002bb8">Wikiquote</span></a></li>
+<li><a href="https://en.wikisource.org/wiki/Category:Design" class="extiw" title="wikisource:Category:Design"><span style="color:#002bb8">Wikisource</span></a></li>
+<li><a href="https://en.wiktionary.org/wiki/Design" class="extiw" title="wiktionary:Design"><span style="color:#002bb8">Wiktionary</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Sustainability" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sustainability" style="font-size:114%"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Population" title="Population">Population</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a href="/wiki/Human_population_control" class="mw-redirect" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Food</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Water</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Water_crisis" class="mw-redirect" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" class="mw-redirect" title="Water footprint">Footprint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Accountability</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Education_for_Sustainable_Development" class="mw-redirect" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a href="/wiki/Sustainable_market" class="mw-redirect" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a href="/wiki/Sustainability_practices_in_organizations" class="mw-redirect" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a href="/wiki/Sustainable_urban_drainage_systems" class="mw-redirect" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Management</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Agreements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1190
+Cached time: 20170311220129
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.208 seconds
+Real time usage: 0.271 seconds
+Preprocessor visited node count: 1543/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 154221/2097152 bytes
+Template argument size: 22693/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.068/10.000 seconds
+Lua memory usage: 2.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  170.354      1 -total
+ 45.21%   77.010      4 Template:Ambox
+ 35.83%   61.037      1 Template:Multiple_issues
+ 32.02%   54.550      1 Template:Design
+ 30.28%   51.588      1 Template:Navbox_with_collapsible_groups
+ 18.29%   31.158      2 Template:Fix
+ 14.04%   23.913      1 Template:Fact
+ 12.78%   21.771      1 Template:No_footnotes
+ 10.17%   17.329      2 Template:Delink
+  8.20%   13.967      3 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14967273-0!*!0!!en!4!* and timestamp 20170311220129 and revision id 760928079
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Regenerative_design&amp;oldid=760928079">https://en.wikipedia.org/w/index.php?title=Regenerative_design&amp;oldid=760928079</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Systems_theory" title="Category:Systems theory">Systems theory</a></li><li><a href="/wiki/Category:Sustainable_design" title="Category:Sustainable design">Sustainable design</a></li><li><a href="/wiki/Category:Industrial_ecology" title="Category:Industrial ecology">Industrial ecology</a></li><li><a href="/wiki/Category:Environmental_design" title="Category:Environmental design">Environmental design</a></li><li><a href="/wiki/Category:Environmental_social_science_concepts" title="Category:Environmental social science concepts">Environmental social science concepts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_April_2011" title="Category:Articles lacking in-text citations from April 2011">Articles lacking in-text citations from April 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_style_editing_from_April_2015" title="Category:Wikipedia articles needing style editing from April 2015">Wikipedia articles needing style editing from April 2015</a></li><li><a href="/wiki/Category:All_articles_needing_style_editing" title="Category:All articles needing style editing">All articles needing style editing</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2015" title="Category:Articles with unsourced statements from April 2015">Articles with unsourced statements from April 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2016" title="Category:Articles with unsourced statements from February 2016">Articles with unsourced statements from February 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Regenerative+design" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Regenerative+design" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Regenerative_design"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Regenerative_design"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Regenerative_design" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Regenerative_design&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Regenerative_design&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Regenerative_design" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Regenerative_design" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Regenerative_design&amp;oldid=760928079" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Regenerative_design&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q7308043" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Regenerative_design&amp;id=760928079" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Regenerative+design">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Regenerative+design&amp;returnto=Regenerative+design&amp;oldid=760928079&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Regenerative_design&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q7308043#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 January 2017, at 21:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Regenerative_design&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.271","ppvisitednodes":{"value":1543,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":154221,"limit":2097152},"templateargumentsize":{"value":22693,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  170.354      1 -total"," 45.21%   77.010      4 Template:Ambox"," 35.83%   61.037      1 Template:Multiple_issues"," 32.02%   54.550      1 Template:Design"," 30.28%   51.588      1 Template:Navbox_with_collapsible_groups"," 18.29%   31.158      2 Template:Fix"," 14.04%   23.913      1 Template:Fact"," 12.78%   21.771      1 Template:No_footnotes"," 10.17%   17.329      2 Template:Delink","  8.20%   13.967      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.068","limit":"10.000"},"limitreport-memusage":{"value":2644234,"limit":52428800}},"cachereport":{"origin":"mw1190","timestamp":"20170311220129","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1218"});});</script>
+	</body>
+</html>

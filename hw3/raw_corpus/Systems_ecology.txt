@@ -1,0 +1,1332 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Systems ecology - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Systems_ecology","wgTitle":"Systems ecology","wgCurRevisionId":751761764,"wgRevisionId":751761764,"wgArticleId":3253299,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Systems ecology","Environmental science","Environmental social science","Formal sciences","Systems theory","Subfields of ecology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Systems_ecology","wgRelevantArticleId":3253299,"wgRequestId":"WMB6TgpAIDcAAC1b0voAAAAQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3076438","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/1c/Genomics_GTL_Program_Payoffs.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Systems_ecology"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Systems_ecology&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Systems_ecology&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Systems_ecology"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Systems_ecology rootpage-Systems_ecology skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Systems ecology</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Genomics_GTL_Program_Payoffs.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Genomics_GTL_Program_Payoffs.jpg/300px-Genomics_GTL_Program_Payoffs.jpg" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Genomics_GTL_Program_Payoffs.jpg/450px-Genomics_GTL_Program_Payoffs.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Genomics_GTL_Program_Payoffs.jpg/600px-Genomics_GTL_Program_Payoffs.jpg 2x" data-file-width="750" data-file-height="563" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Genomics_GTL_Program_Payoffs.jpg" class="internal" title="Enlarge"></a></div>
+Ecological analysis of CO<sub>2</sub> in an <a href="/wiki/Ecosystem" title="Ecosystem">ecosystem</a></div>
+</div>
+</div>
+<p><b>Systems ecology</b> is an <a href="/wiki/Interdisciplinary" class="mw-redirect" title="Interdisciplinary">interdisciplinary</a> field of <a href="/wiki/Ecology" title="Ecology">ecology</a>, a subset of <a href="/wiki/Earth_system_science" title="Earth system science">Earth system science</a>, that takes a <a href="/wiki/Holism" title="Holism">holistic</a> approach to the study of ecological systems, especially <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Systems ecology can be seen as an application of <a href="/wiki/General_systems_theory" class="mw-redirect" title="General systems theory">general systems theory</a> to ecology. Central to the systems ecology approach is the idea that an ecosystem is a <a href="/wiki/Complex_system" title="Complex system">complex system</a> exhibiting <a href="/wiki/Emergent_properties" class="mw-redirect" title="Emergent properties">emergent properties</a>. Systems ecology focuses on interactions and transactions within and between biological and ecological systems, and is especially concerned with the way the functioning of ecosystems can be influenced by human interventions. It uses and extends concepts from <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a> and develops other macroscopic descriptions of complex systems.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Closely_related_fields"><span class="tocnumber">2</span> <span class="toctext">Closely related fields</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Deep_ecology"><span class="tocnumber">2.1</span> <span class="toctext">Deep ecology</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Earth_systems_engineering_and_management"><span class="tocnumber">2.2</span> <span class="toctext">Earth systems engineering and management</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Ecological_economics"><span class="tocnumber">2.3</span> <span class="toctext">Ecological economics</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Ecological_energetics"><span class="tocnumber">2.4</span> <span class="toctext">Ecological energetics</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Ecological_humanities"><span class="tocnumber">2.5</span> <span class="toctext">Ecological humanities</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Ecosystem_ecology"><span class="tocnumber">2.6</span> <span class="toctext">Ecosystem ecology</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Industrial_ecology"><span class="tocnumber">2.7</span> <span class="toctext">Industrial ecology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Literature"><span class="tocnumber">5</span> <span class="toctext">Literature</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Systems ecology seeks a <a href="/wiki/Holism" title="Holism">holistic</a> view of the interactions and transactions within and between biological and ecological systems. Systems ecologists realise that the function of any ecosystem can be influenced by human economics in fundamental ways. They have therefore taken an additional transdisciplinary step by including economics in the consideration of <a href="/wiki/Ecological_economics" title="Ecological economics">ecological-economic</a> systems. In the words of <a href="/w/index.php?title=R.L._Kitching&amp;action=edit&amp;redlink=1" class="new" title="R.L. Kitching (page does not exist)">R.L. Kitching</a>:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<ul>
+<li><i>Systems ecology can be defined as the approach to the study of ecology of organisms using the techniques and philosophy of systems analysis: that is, the methods and tools developed, largely in engineering, for studying, characteriszing and making predictions about complex entities, that is, systems..</i></li>
+<li><i>In any study of an ecological system, an essential early procedure is to draw a diagram of the system of interest ... diagrams indicate the system's <b>boundaries</b> by a solid line. Within these boundaries, series of components are isolated which have been chosen to represent that portion of the world in which the systems analyst is interested ... If there are no connections across the systems' boundaries with the surrounding <b>systems environments</b>, the systems are described as</i> closed<i>. Ecological work, however, deals almost exclusively with</i> open <i>systems.</i><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+</ul>
+<p>As a mode of scientific enquiry, a central feature of Systems Ecology is the general application of the <a href="/wiki/Principles_of_energetics" class="mw-redirect" title="Principles of energetics">principles of energetics</a> to all systems at any scale. Perhaps the most notable proponent of this view was <a href="/wiki/Howard_T._Odum" title="Howard T. Odum">Howard T. Odum</a> - sometimes considered the father of ecosystems ecology. In this approach the principles of energetics constitute <a href="/wiki/Ecosystem_principles" class="mw-redirect" title="Ecosystem principles">ecosystem principles</a>. Reasoning by <a href="/w/index.php?title=Formal_analogy&amp;action=edit&amp;redlink=1" class="new" title="Formal analogy (page does not exist)">formal analogy</a> from one system to another enables the Systems Ecologist to see principles functioning in an analogous manner across system-scale boundaries. H.T. Odum commonly used the <a href="/wiki/Energy_Systems_Language" title="Energy Systems Language">Energy Systems Language</a> as a tool for making systems diagrams and flow charts.</p>
+<p>The fourth of these principles, the <a href="/wiki/Maximum_power_principle" title="Maximum power principle">principle of maximum power efficiency</a>, takes central place in the analysis and synthesis of ecological systems. The fourth principle suggests that the most evolutionarily advantageous system function occurs when the environmental load matches the internal resistance of the system. The further the environmental load is from matching the internal resistance, the further the system is away from its sustainable steady state. Therefore, the systems ecologist engages in a task of resistance and impedance matching in <a href="/wiki/Ecological_engineering" title="Ecological engineering">ecological engineering</a>, just as the <a href="/wiki/Electronic_engineer" class="mw-redirect" title="Electronic engineer">electronic engineer</a> would do.</p>
+<h2><span class="mw-headline" id="Closely_related_fields">Closely related fields</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=2" title="Edit section: Closely related fields">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Deep_ecology">Deep ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=3" title="Edit section: Deep ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></div>
+<p>Deep ecology is an ideology whose metaphysical underpinnings are deeply concerned with the science of ecology. The term was coined by <a href="/wiki/Arne_N%C3%A6ss" title="Arne Næss">Arne Naess</a>, a Norwegian philosopher, <a href="/wiki/Gandhi" class="mw-redirect" title="Gandhi">Gandhian</a> scholar, and <a href="/wiki/Environmental_activist" class="mw-redirect" title="Environmental activist">environmental activist</a>. He argues that the prevailing approach to <a href="/wiki/Environmental_management" class="mw-redirect" title="Environmental management">environmental management</a> is <a href="/wiki/Anthropocentric" class="mw-redirect" title="Anthropocentric">anthropocentric</a>, and that the natural environment is not only "more complex than we imagine, it is more complex than we can imagine."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Naess formulated deep ecology in 1973 at an environmental conference in Budapest.</p>
+<p><a href="/wiki/Joanna_Macy" title="Joanna Macy">Joanna Macy</a>, <a href="/wiki/John_Seed" title="John Seed">John Seed</a>, and others developed Naess' thesis into a branch they called <i>experiential deep ecology</i>. Their efforts were motivated by a need they perceived for the development of an "<a href="/wiki/Ecological_self" title="Ecological self">ecological self</a>", which views the human ego as an integrated part of a living system that encompasses the individual. They sought to transcend <a href="/wiki/Altruism" title="Altruism">altruism</a> with a deeper self-interest based on <a href="/w/index.php?title=Biospherical_equality&amp;action=edit&amp;redlink=1" class="new" title="Biospherical equality (page does not exist)">biospherical equality</a> beyond <a href="/w/index.php?title=Human_chauvinism&amp;action=edit&amp;redlink=1" class="new" title="Human chauvinism (page does not exist)">human chauvinism</a>.</p>
+<h3><span class="mw-headline" id="Earth_systems_engineering_and_management">Earth systems engineering and management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=4" title="Edit section: Earth systems engineering and management">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Earth_systems_engineering_and_management" title="Earth systems engineering and management">Earth systems engineering and management</a></div>
+<p>Earth systems engineering and management (ESEM) is a discipline used to analyze, design, engineer and manage <a href="/wiki/Complexity" title="Complexity">complex</a> <a href="/wiki/Natural_environment" title="Natural environment">environmental</a> <a href="/wiki/System" title="System">systems</a>. It entails a wide range of subject areas including anthropology, engineering, <a href="/wiki/Environmental_science" title="Environmental science">environmental science</a>, ethics and philosophy. At its core, ESEM looks to "rationally design and manage coupled human-natural systems in a highly integrated and ethical fashion"</p>
+<h3><span class="mw-headline" id="Ecological_economics">Ecological economics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=5" title="Edit section: Ecological economics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></div>
+<p>Ecological economics is a transdisciplinary field of academic research that addresses the dynamic and spatial interdependence between human economies and natural <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a>. Ecological economics brings together and connects different disciplines, within the natural and social sciences but especially between these broad areas. As the name suggests, the field is made up of researchers with a background in <a href="/wiki/Economics" title="Economics">economics</a> and <a href="/wiki/Ecology" title="Ecology">ecology</a>. An important motivation for the emergence of ecological economics has been criticism on the assumptions and approaches of traditional (mainstream) <a href="/wiki/Environmental_economics" title="Environmental economics">environmental and resource economics</a>.</p>
+<h3><span class="mw-headline" id="Ecological_energetics">Ecological energetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=6" title="Edit section: Ecological energetics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Ecological_energetics" class="mw-redirect" title="Ecological energetics">Ecological energetics</a></div>
+<p>Ecological energetics is the quantitative study of the flow of energy through ecological systems. It aims to uncover the <a href="/wiki/Scientific_law" title="Scientific law">principles</a> which describe the propensity of such energy flows through the trophic, or 'energy availing' levels of ecological networks. In systems ecology the principles of ecosystem energy flows or "ecosystem laws" (i.e. principles of ecological energetics) are considered formally analogous to the <a href="/wiki/Principles_of_energetics" class="mw-redirect" title="Principles of energetics">principles of energetics</a>.</p>
+<h3><span class="mw-headline" id="Ecological_humanities">Ecological humanities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=7" title="Edit section: Ecological humanities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></div>
+<p>Ecological humanities aims to bridge the divides between the sciences and the humanities, and between <a href="/wiki/Western_culture" title="Western culture">Western</a>, <a href="/wiki/Eastern_culture" class="mw-redirect" title="Eastern culture">Eastern</a> and <a href="/wiki/Indigenous_peoples" title="Indigenous peoples">Indigenous</a> ways of knowing nature. Like ecocentric political theory, the ecological humanities are characterised by a connectivity ontology and a commitment to two fundamental axioms relating to the need to submit to <a href="/wiki/Ecology" title="Ecology">ecological</a> laws and to see humanity as part of a larger living system.</p>
+<h3><span class="mw-headline" id="Ecosystem_ecology">Ecosystem ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=8" title="Edit section: Ecosystem ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ecoecolfigure1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/44/Ecoecolfigure1.jpg/220px-Ecoecolfigure1.jpg" width="220" height="144" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/44/Ecoecolfigure1.jpg/330px-Ecoecolfigure1.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/44/Ecoecolfigure1.jpg/440px-Ecoecolfigure1.jpg 2x" data-file-width="574" data-file-height="377" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ecoecolfigure1.jpg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Riparian_forest" title="Riparian forest">riparian forest</a> in the <a href="/wiki/White_Mountains_(New_Hampshire)" title="White Mountains (New Hampshire)">White Mountains</a>, <a href="/wiki/New_Hampshire" title="New Hampshire">New Hampshire</a> (USA)</div>
+</div>
+</div>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Ecosystem_ecology" title="Ecosystem ecology">Ecosystem ecology</a></div>
+<p>Ecosystem ecology is the integrated study of <a href="/wiki/Life" title="Life">biotic</a> and <a href="/wiki/Abiotic" class="mw-redirect" title="Abiotic">abiotic</a> components of <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a> and their interactions within an ecosystem framework. This <a href="/wiki/Science" title="Science">science</a> examines how ecosystems work and relates this to their components such as <a href="/wiki/Chemical" class="mw-redirect" title="Chemical">chemicals</a>, <a href="/wiki/Bedrock" title="Bedrock">bedrock</a>, <a href="/wiki/Soil" title="Soil">soil</a>, <a href="/wiki/Plant" title="Plant">plants</a>, and <a href="/wiki/Animal" title="Animal">animals</a>. Ecosystem ecology examines physical and biological structure and examines how these ecosystem characteristics interact.</p>
+<p>The relationship between systems ecology and ecosystem ecology is complex. Much of systems ecology can be considered a subset of ecosystem ecology. Ecosystem ecology also utilizes methods that have little to do with the holistic approach of systems ecology. However, systems ecology more actively considers external influences such as economics that usually fall outside the bounds of ecosystem ecology. Whereas ecosystem ecology can be defined as the scientific study of ecosystems, systems ecology is more of a particular approach to the study of ecological systems and phenomena that interact with these systems.</p>
+<h3><span class="mw-headline" id="Industrial_ecology">Industrial ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=9" title="Edit section: Industrial ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></div>
+<p>Industrial ecology is the study of <a href="/wiki/Industrial_process" class="mw-redirect" title="Industrial process">industrial processes</a> as linear (open loop) systems, in which resource and capital investments move through the system to become waste, to a closed loop system where wastes become inputs for new processes.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/28px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/42px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/56px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" data-file-width="2790" data-file-height="2776" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" width="32" height="21" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" data-file-width="6000" data-file-height="4000" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Terrestrial_globe.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6b/Terrestrial_globe.svg/29px-Terrestrial_globe.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6b/Terrestrial_globe.svg/43px-Terrestrial_globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6b/Terrestrial_globe.svg/58px-Terrestrial_globe.svg.png 2x" data-file-width="321" data-file-height="312" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Geography" title="Portal:Geography">Geography portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/32px-Complex-adaptive-system.jpg" width="32" height="23" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/48px-Complex-adaptive-system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/64px-Complex-adaptive-system.jpg 2x" data-file-width="2100" data-file-height="1500" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Systems_science" title="Portal:Systems science">Systems science portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Agroecology" title="Agroecology">Agroecology</a></li>
+<li><a href="/wiki/Ecological_literacy" title="Ecological literacy">Ecological literacy</a></li>
+<li><a href="/wiki/Emergy" title="Emergy">Emergy</a></li>
+<li><a href="/wiki/Energetics" title="Energetics">Energetics</a></li>
+<li><a href="/wiki/Energy_Systems_Language" title="Energy Systems Language">Energy Systems Language</a></li>
+<li><a href="/wiki/Holism_in_science" title="Holism in science">Holism in science</a></li>
+<li><a href="/wiki/Holon_(philosophy)" title="Holon (philosophy)">Holon (philosophy)</a></li>
+<li><a href="/wiki/Holistic_management" class="mw-redirect" title="Holistic management">Holistic management</a></li>
+<li><a href="/wiki/Landscape_ecology" title="Landscape ecology">Landscape ecology</a></li>
+<li><a href="/wiki/Antireductionism" title="Antireductionism">Antireductionism</a></li>
+<li><a href="/wiki/Biosemiotics" title="Biosemiotics">Biosemiotics</a></li>
+<li><a href="/wiki/Ecosemiotics" title="Ecosemiotics">Ecosemiotics</a></li>
+<li><a href="/wiki/MuSIASEM" title="MuSIASEM">MuSIASEM</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Shugart, Herman H., and Robert V. O'Neill. "Systems ecology". Dowden, Hutchingon &amp; Ross, 1979.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Van Dyne, George M. "Ecosystems, Systems Ecology, and Systems Ecologists". ORNL- 3975. Oak Ridge National Laboratory, Oak Ridge, TN, 1966.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Wilkinson, David M. (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=PFGWHyRyzBwC&amp;printsec=frontcover&amp;dq=Fundamental+Processes+in+Ecology:+An+Earth+Systems+Approach&amp;hl=en&amp;sa=X&amp;ved=0CBwQ6AEwAGoVChMImtPk2c2kyAIVFS2ICh0d-gWp#v=onepage&amp;q=Fundamental%20Processes%20in%20Ecology%3A%20An%20Earth%20Systems%20Approach&amp;f=false"><i>Fundamental Processes in Ecology: An Earth Systems Approach</i></a>. Oxford University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASystems+ecology&amp;rft.aufirst=David+M.&amp;rft.aulast=Wilkinson&amp;rft.btitle=Fundamental+Processes+in+Ecology%3A+An+Earth+Systems+Approach&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DPFGWHyRyzBwC%26printsec%3Dfrontcover%26dq%3DFundamental%2BProcesses%2Bin%2BEcology%3A%2BAn%2BEarth%2BSystems%2BApproach%26hl%3Den%26sa%3DX%26ved%3D0CBwQ6AEwAGoVChMImtPk2c2kyAIVFS2ICh0d-gWp%23v%3Donepage%26q%3DFundamental%2520Processes%2520in%2520Ecology%253A%2520An%2520Earth%2520Systems%2520Approach%26f%3Dfalse&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">R.L. Kitching 1983, p.9.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">(Kitching 1983, p.11)</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">A statement attributed to British biologist <a href="/wiki/J.B.S._Haldane" class="mw-redirect" title="J.B.S. Haldane">J.B.S. Haldane</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Literature">Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=12" title="Edit section: Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Gregory_Bateson" title="Gregory Bateson">Gregory Bateson</a>, <i>Steps to an Ecology of Mind</i>, 2000.</li>
+<li>Kenneth Edmund Ferguson, <i>Systems Analysis in Ecology</i>, WATT, 1966, 276 pp.</li>
+<li>Efraim Halfon, <i>Theoretical Systems Ecology: Advances and Case Studies</i>, 1979.</li>
+<li>J. W. Haefner, <i>Modeling Biological Systems: Principles and Applications</i>, London., UK, Chapman and Hall 1996, 473 pp.</li>
+<li>Richard F Johnston, Peter W Frank, Charles Duncan Michener, <i>Annual Review of Ecology and Systematics</i>, 1976, 307 pp.</li>
+<li>Jorgensen, Sven E., "Introduction to Systems Ecology", CRC Press, 2012.</li>
+<li>R.L. Kitching, <i>Systems ecology</i>, University of Queensland Press, 1983.</li>
+<li><a href="/wiki/Howard_T._Odum" title="Howard T. Odum">Howard T. Odum</a>, <i>Systems Ecology: An Introduction</i>, Wiley-Interscience, 1983.</li>
+<li><a href="/wiki/Howard_T._Odum" title="Howard T. Odum">Howard T. Odum</a>, <i>Ecological and General Systems: An Introduction to Systems Ecology</i>. University Press of Colorado, Niwot, CO, 1994.</li>
+<li>Friedrich Recknagel, <i>Applied Systems Ecology: Approach and Case Studies in Aquatic Ecology</i>, 1989.</li>
+<li>James. Sanderson &amp; Larry D. Harris, <i>Landscape Ecology: A Top-down Approach</i>, 2000, 246 pp.</li>
+<li>Sheldon Smith, <i>Human Systems Ecology: Studies in the Integration of Political Economy</i>, 1989.</li>
+<li>Shugart, H.H., O’Neil, R.V. (Eds.) <i>Systems Ecology</i>, Dowden, Hutchinson &amp; Ross, Inc., 1979.</li>
+<li>Van Dyne, George M., <i>Ecosystems, Systems Ecology, and Systems Ecologists</i>, ORNL- 3975. Oak Ridge National Laboratory, Oak Ridge, TN, pp.&#160;1–40, 1966.</li>
+<li>Patten, Bernard C. (editor), "Systems Analysis and Simulation in Ecology", Volume 1, Academic Press, 1971.</li>
+<li>Patten, Bernard C. (editor), "Systems Analysis and Simulation in Ecology", Volume 2, Academic Press, 1972.</li>
+<li>Patten, Bernard C. (editor), "Systems Analysis and Simulation in Ecology", Volume 3, Academic Press, 1975.</li>
+<li>Patten, Bernard C. (editor), "Systems Analysis and Simulation in Ecology", Volume 4, Academic Press, 1976.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Organisations</b></p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ecology.su.se/">Systems Ecology Department</a> at the Stockholm University.</li>
+<li><a rel="nofollow" class="external text" href="http://www.falw.vu.nl/Onderzoeksinstituten/index.cfm/home_subsection.cfm/subsectionid/55B99586-E22B-4B5C-89C65764F35DDB54">Systems Ecology Department</a> at the University of Amsterdam.</li>
+<li><a rel="nofollow" class="external text" href="http://www.esf.edu/efb/hall/se/">Systems ecology Lab</a> at SUNY-ESF.</li>
+<li><a rel="nofollow" class="external text" href="http://www.ees.ufl.edu/homepp/brown/syseco/">Systems Ecology program</a> at the University of Florida</li>
+<li><a rel="nofollow" class="external text" href="http://www.dbs.umt.edu/systemsecology/">Systems Ecology program</a> at the University of Montana</li>
+<li><a rel="nofollow" class="external text" href="http://www.sysecol.ethz.ch/">Terrestrial Systems Ecology</a> of ETH Zürich.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Ecology:_Modelling_ecosystems:_Trophic_components" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ecology:_Modelling_ecosystems:_Trophic_components" style="font-size:114%"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: <a href="/wiki/Trophic_level" title="Trophic level">Trophic</a> components</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abiotic_component" title="Abiotic component">Abiotic component</a></li>
+<li><a href="/wiki/Abiotic_stress" title="Abiotic stress">Abiotic stress</a></li>
+<li><a href="/wiki/Behavioral_ecology" title="Behavioral ecology">Behaviour</a></li>
+<li><a href="/wiki/Biogeochemical_cycle" title="Biogeochemical cycle">Biogeochemical cycle</a></li>
+<li><a href="/wiki/Biomass_(ecology)" title="Biomass (ecology)">Biomass</a></li>
+<li><a href="/wiki/Biotic_component" title="Biotic component">Biotic component</a></li>
+<li><a href="/wiki/Biotic_stress" title="Biotic stress">Biotic stress</a></li>
+<li><a href="/wiki/Carrying_capacity" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Competition_(biology)" title="Competition (biology)">Competition</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/Ecosystem_ecology" title="Ecosystem ecology">Ecosystem ecology</a></li>
+<li><a href="/wiki/Ecosystem_model" title="Ecosystem model">Ecosystem model</a></li>
+<li><a href="/wiki/Keystone_species" title="Keystone species">Keystone species</a></li>
+<li><a href="/wiki/List_of_feeding_behaviours" title="List of feeding behaviours">List of feeding behaviours</a></li>
+<li><a href="/wiki/Metabolic_theory_of_ecology" title="Metabolic theory of ecology">Metabolic theory of ecology</a></li>
+<li><a href="/wiki/Productivity_(ecology)" title="Productivity (ecology)">Productivity</a></li>
+<li><a href="/wiki/Resource_(biology)" title="Resource (biology)">Resource</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Primary_producers" title="Primary producers">Producers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autotroph" title="Autotroph">Autotrophs</a></li>
+<li><a href="/wiki/Chemosynthesis" title="Chemosynthesis">Chemosynthesis</a></li>
+<li><a href="/wiki/Chemotroph" title="Chemotroph">Chemotrophs</a></li>
+<li><a href="/wiki/Foundation_species" title="Foundation species">Foundation species</a></li>
+<li><a href="/wiki/Mixotroph" title="Mixotroph">Mixotrophs</a></li>
+<li><a href="/wiki/Myco-heterotrophy" title="Myco-heterotrophy">Myco-heterotrophy</a></li>
+<li><a href="/wiki/Mycotroph" title="Mycotroph">Mycotroph</a></li>
+<li><a href="/wiki/Organotroph" title="Organotroph">Organotrophs</a></li>
+<li><a href="/wiki/Photoheterotroph" title="Photoheterotroph">Photoheterotrophs</a></li>
+<li><a href="/wiki/Photosynthesis" title="Photosynthesis">Photosynthesis</a></li>
+<li><a href="/wiki/Photosynthetic_efficiency" title="Photosynthetic efficiency">Photosynthetic efficiency</a></li>
+<li><a href="/wiki/Phototroph" title="Phototroph">Phototrophs</a></li>
+<li><a href="/wiki/Primary_nutritional_groups" title="Primary nutritional groups">Primary nutritional groups</a></li>
+<li><a href="/wiki/Primary_production" title="Primary production">Primary production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Consumers_(food_chain)" class="mw-redirect" title="Consumers (food chain)">Consumers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apex_predator" title="Apex predator">Apex predator</a></li>
+<li><a href="/wiki/Bacterivore" title="Bacterivore">Bacterivore</a></li>
+<li><a href="/wiki/Carnivore" title="Carnivore">Carnivores</a></li>
+<li><a href="/wiki/Chemoorganotroph" class="mw-redirect" title="Chemoorganotroph">Chemoorganotroph</a></li>
+<li><a href="/wiki/Foraging" title="Foraging">Foraging</a></li>
+<li><a href="/wiki/Generalist_and_specialist_species" title="Generalist and specialist species">Generalist and specialist species</a></li>
+<li><a href="/wiki/Intraguild_predation" title="Intraguild predation">Intraguild predation</a></li>
+<li><a href="/wiki/Herbivore" title="Herbivore">Herbivores</a></li>
+<li><a href="/wiki/Heterotroph" title="Heterotroph">Heterotroph</a></li>
+<li><a href="/wiki/Heterotrophic_nutrition" title="Heterotrophic nutrition">Heterotrophic nutrition</a></li>
+<li><a href="/wiki/Insectivore" title="Insectivore">Insectivore</a></li>
+<li><a href="/wiki/Mesopredator_release_hypothesis" title="Mesopredator release hypothesis">Mesopredator release hypothesis</a></li>
+<li><a href="/wiki/Omnivore" title="Omnivore">Omnivores</a></li>
+<li><a href="/wiki/Optimal_foraging_theory" title="Optimal foraging theory">Optimal foraging theory</a></li>
+<li><a href="/wiki/Predation" title="Predation">Predation</a></li>
+<li><a href="/wiki/Prey_switching" title="Prey switching">Prey switching</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Decomposer" title="Decomposer">Decomposers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemoorganoheterotrophy" class="mw-redirect" title="Chemoorganoheterotrophy">Chemoorganoheterotrophy</a></li>
+<li><a href="/wiki/Decomposition" title="Decomposition">Decomposition</a></li>
+<li><a href="/wiki/Detritivore" title="Detritivore">Detritivores</a></li>
+<li><a href="/wiki/Detritus" title="Detritus">Detritus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Microorganism#Habitats_and_ecology" title="Microorganism">Microorganisms</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Archaea" title="Archaea">Archaea</a></li>
+<li><a href="/wiki/Bacteriophage" title="Bacteriophage">Bacteriophage</a></li>
+<li><a href="/wiki/Environmental_microbiology" class="mw-redirect" title="Environmental microbiology">Environmental microbiology</a></li>
+<li><a href="/wiki/Lithoautotroph" title="Lithoautotroph">Lithoautotroph</a></li>
+<li><a href="/wiki/Lithotroph" title="Lithotroph">Lithotrophy</a></li>
+<li><a href="/wiki/Microbial_cooperation" title="Microbial cooperation">Microbial cooperation</a></li>
+<li><a href="/wiki/Microbial_ecology" title="Microbial ecology">Microbial ecology</a></li>
+<li><a href="/wiki/Microbial_food_web" title="Microbial food web">Microbial food web</a></li>
+<li><a href="/wiki/Microbial_intelligence" title="Microbial intelligence">Microbial intelligence</a></li>
+<li><a href="/wiki/Microbial_loop" title="Microbial loop">Microbial loop</a></li>
+<li><a href="/wiki/Microbial_mat" title="Microbial mat">Microbial mat</a></li>
+<li><a href="/wiki/Microbial_metabolism" title="Microbial metabolism">Microbial metabolism</a></li>
+<li><a href="/wiki/Phage_ecology" title="Phage ecology">Phage ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Food_web" title="Food web">Food webs</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomagnification" title="Biomagnification">Biomagnification</a></li>
+<li><a href="/wiki/Ecological_efficiency" title="Ecological efficiency">Ecological efficiency</a></li>
+<li><a href="/wiki/Ecological_pyramid" title="Ecological pyramid">Ecological pyramid</a></li>
+<li><a href="/wiki/Energy_flow_(ecology)" title="Energy flow (ecology)">Energy flow</a></li>
+<li><a href="/wiki/Food_chain" title="Food chain">Food chain</a></li>
+<li><a href="/wiki/Trophic_level" title="Trophic level">Trophic level</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Example webs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seeps</a></li>
+<li><a href="/wiki/Hydrothermal_vent#Biological_communities" title="Hydrothermal vent">Hydrothermal vents</a></li>
+<li><a href="/wiki/Intertidal_ecology" title="Intertidal ecology">Intertidal</a></li>
+<li><a href="/wiki/Kelp_forest#Trophic_ecology" title="Kelp forest">Kelp forests</a></li>
+<li><a href="/wiki/Lake_ecosystem#Trophic_relationships" title="Lake ecosystem">Lakes</a></li>
+<li><a href="/wiki/North_Pacific_Subtropical_Gyre" class="mw-redirect" title="North Pacific Subtropical Gyre">North Pacific Subtropical Gyre</a></li>
+<li><a href="/wiki/River_ecosystem#Trophic_relationships" title="River ecosystem">Rivers</a></li>
+<li><a href="/wiki/Ecology_of_the_San_Francisco_Estuary#Food_web" title="Ecology of the San Francisco Estuary">San Francisco Estuary</a></li>
+<li><a href="/wiki/Soil_food_web" title="Soil food web">Soil</a></li>
+<li><a href="/wiki/Tide_pool" title="Tide pool">Tide pool</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Processes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ascendency" title="Ascendency">Ascendency</a></li>
+<li><a href="/wiki/Bioaccumulation" title="Bioaccumulation">Bioaccumulation</a></li>
+<li><a href="/wiki/Cascade_effect_(ecology)" title="Cascade effect (ecology)">Cascade effect</a></li>
+<li><a href="/wiki/Climax_community" title="Climax community">Climax community</a></li>
+<li><a href="/wiki/Competitive_exclusion_principle" title="Competitive exclusion principle">Competitive exclusion principle</a></li>
+<li><a href="/wiki/Consumer-resource_systems" title="Consumer-resource systems">Consumer-resource systems</a></li>
+<li><a href="/wiki/Copiotroph" title="Copiotroph">Copiotrophs</a></li>
+<li><a href="/wiki/Dominance_(ecology)" title="Dominance (ecology)">Dominance</a></li>
+<li><a href="/wiki/Ecological_network" title="Ecological network">Ecological network</a></li>
+<li><a href="/wiki/Ecological_succession" title="Ecological succession">Ecological succession</a></li>
+<li><a href="/wiki/Energy_quality" title="Energy quality">Energy quality</a></li>
+<li><a href="/wiki/Energy_Systems_Language" title="Energy Systems Language">Energy Systems Language</a></li>
+<li><a href="/wiki/F-ratio" title="F-ratio">f-ratio</a></li>
+<li><a href="/wiki/Feed_conversion_ratio" title="Feed conversion ratio">Feed conversion ratio</a></li>
+<li><a href="/wiki/Feeding_frenzy" title="Feeding frenzy">Feeding frenzy</a></li>
+<li><a href="/wiki/Mesotrophic_soil" title="Mesotrophic soil">Mesotrophic soil</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Nutrient cycle</a></li>
+<li><a href="/wiki/Oligotroph" title="Oligotroph">Oligotroph</a></li>
+<li><a href="/wiki/Paradox_of_the_plankton" title="Paradox of the plankton">Paradox of the plankton</a></li>
+<li><a href="/wiki/Trophic_cascade" title="Trophic cascade">Trophic cascade</a></li>
+<li><a href="/wiki/Trophic_mutualism" title="Trophic mutualism">Trophic mutualism</a></li>
+<li><a href="/wiki/Trophic_state_index" title="Trophic state index">Trophic state index</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Defense/counter</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Animal_coloration" title="Animal coloration">Animal coloration</a></li>
+<li><a href="/wiki/Antipredator_adaptation" class="mw-redirect" title="Antipredator adaptation">Antipredator adaptations</a></li>
+<li><a href="/wiki/Camouflage" title="Camouflage">Camouflage</a></li>
+<li><a href="/wiki/Deimatic_behaviour" title="Deimatic behaviour">Deimatic behaviour</a></li>
+<li><a href="/wiki/Herbivore_adaptations_to_plant_defense" title="Herbivore adaptations to plant defense">Herbivore adaptations to plant defense</a></li>
+<li><a href="/wiki/Mimicry" title="Mimicry">Mimicry</a></li>
+<li><a href="/wiki/Plant_defense_against_herbivory" title="Plant defense against herbivory">Plant defense against herbivory</a></li>
+<li><a href="/wiki/Shoaling_and_schooling#Predator_avoidance" title="Shoaling and schooling">Predator avoidance in schooling fish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Ecology:_Modelling_ecosystems:_Other_components" style="padding:3px">
+<table class="nowraplinks hlist collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ecology:_Modelling_ecosystems:_Other_components" style="font-size:114%"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: Other components</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Population_ecology" title="Population ecology">Population ecology</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abundance_(ecology)" title="Abundance (ecology)">Abundance</a></li>
+<li><a href="/wiki/Allee_effect" title="Allee effect">Allee effect</a></li>
+<li><a href="/wiki/Depensation" title="Depensation">Depensation</a></li>
+<li><a href="/wiki/Ecological_yield" title="Ecological yield">Ecological yield</a></li>
+<li><a href="/wiki/Effective_population_size" title="Effective population size">Effective population size</a></li>
+<li><a href="/wiki/Intraspecific_competition" title="Intraspecific competition">Intraspecific competition</a></li>
+<li><a href="/wiki/Logistic_function" title="Logistic function">Logistic function</a></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Maximum_sustainable_yield" title="Maximum sustainable yield">Maximum sustainable yield</a></li>
+<li><a href="/wiki/Overpopulation_in_wild_animals" class="mw-redirect" title="Overpopulation in wild animals">Overpopulation in wild animals</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Population_cycle" title="Population cycle">Population cycle</a></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_modeling" class="mw-redirect" title="Population modeling">Population modeling</a></li>
+<li><a href="/wiki/Population_size" title="Population size">Population size</a></li>
+<li><a href="/wiki/Lotka%E2%80%93Volterra_equations" title="Lotka–Volterra equations">Predator–prey (Lotka–Volterra) equations</a></li>
+<li><a href="/wiki/Recruitment_(biology)" title="Recruitment (biology)">Recruitment</a></li>
+<li><a href="/wiki/Resilience_(ecology)" class="mw-redirect" title="Resilience (ecology)">Resilience</a></li>
+<li><a href="/wiki/Small_population_size" title="Small population size">Small population size</a></li>
+<li><a href="/wiki/Ecological_stability" title="Ecological stability">Stability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Species</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Density-dependent_inhibition" class="mw-redirect" title="Density-dependent inhibition">Density-dependent inhibition</a></li>
+<li><a href="/wiki/Ecological_effects_of_biodiversity" title="Ecological effects of biodiversity">Ecological effects of biodiversity</a></li>
+<li><a href="/wiki/Ecological_extinction" title="Ecological extinction">Ecological extinction</a></li>
+<li><a href="/wiki/Endemic_species" class="mw-redirect" title="Endemic species">Endemic species</a></li>
+<li><a href="/wiki/Flagship_species" title="Flagship species">Flagship species</a></li>
+<li><a href="/wiki/Gradient_analysis" class="mw-redirect" title="Gradient analysis">Gradient analysis</a></li>
+<li><a href="/wiki/Indicator_species" title="Indicator species">Indicator species</a></li>
+<li><a href="/wiki/Introduced_species" title="Introduced species">Introduced species</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+<li><a href="/wiki/Latitudinal_gradients_in_species_diversity" title="Latitudinal gradients in species diversity">Latitudinal gradients in species diversity</a></li>
+<li><a href="/wiki/Minimum_viable_population" title="Minimum viable population">Minimum viable population</a></li>
+<li><a href="/wiki/Unified_neutral_theory_of_biodiversity" title="Unified neutral theory of biodiversity">Neutral theory</a></li>
+<li><a href="/wiki/Occupancy%E2%80%93abundance_relationship" title="Occupancy–abundance relationship">Occupancy–abundance relationship</a></li>
+<li><a href="/wiki/Population_viability_analysis" title="Population viability analysis">Population viability analysis</a></li>
+<li><a href="/wiki/Priority_effect" title="Priority effect">Priority effect</a></li>
+<li><a href="/wiki/Rapoport%27s_rule" title="Rapoport's rule">Rapoport's rule</a></li>
+<li><a href="/wiki/Relative_abundance_distribution" title="Relative abundance distribution">Relative abundance distribution</a></li>
+<li><a href="/wiki/Relative_species_abundance" title="Relative species abundance">Relative species abundance</a></li>
+<li><a href="/wiki/Species_diversity" title="Species diversity">Species diversity</a></li>
+<li><a href="/wiki/Species_homogeneity" title="Species homogeneity">Species homogeneity</a></li>
+<li><a href="/wiki/Species_richness" title="Species richness">Species richness</a></li>
+<li><a href="/wiki/Species_distribution" title="Species distribution">Species distribution</a></li>
+<li><a href="/wiki/Species-area_curve" class="mw-redirect" title="Species-area curve">Species-area curve</a></li>
+<li><a href="/wiki/Umbrella_species" title="Umbrella species">Umbrella species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Species interaction</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antibiosis" title="Antibiosis">Antibiosis</a></li>
+<li><a href="/wiki/Biological_interaction" title="Biological interaction">Biological interaction</a></li>
+<li><a href="/wiki/Commensalism" title="Commensalism">Commensalism</a></li>
+<li><a href="/wiki/Community_ecology" class="mw-redirect" title="Community ecology">Community ecology</a></li>
+<li><a href="/wiki/Ecological_facilitation" title="Ecological facilitation">Ecological facilitation</a></li>
+<li><a href="/wiki/Interspecific_competition" title="Interspecific competition">Interspecific competition</a></li>
+<li><a href="/wiki/Mutualism_(biology)" title="Mutualism (biology)">Mutualism</a></li>
+<li><a href="/wiki/Storage_effect" title="Storage effect">Storage effect</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Spatial_ecology" title="Spatial ecology">Spatial ecology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biogeography" title="Biogeography">Biogeography</a></li>
+<li><a href="/wiki/Cross-boundary_subsidy" title="Cross-boundary subsidy">Cross-boundary subsidy</a></li>
+<li><a href="/wiki/Ecocline" class="mw-redirect" title="Ecocline">Ecocline</a></li>
+<li><a href="/wiki/Ecotone" title="Ecotone">Ecotone</a></li>
+<li><a href="/wiki/Ecotype" title="Ecotype">Ecotype</a></li>
+<li><a href="/wiki/Disturbance_(ecology)" title="Disturbance (ecology)">Disturbance</a></li>
+<li><a href="/wiki/Edge_effects" title="Edge effects">Edge effects</a></li>
+<li><a href="/wiki/Foster%27s_rule" title="Foster's rule">Foster's rule</a></li>
+<li><a href="/wiki/Habitat_fragmentation" title="Habitat fragmentation">Habitat fragmentation</a></li>
+<li><a href="/wiki/Ideal_free_distribution" title="Ideal free distribution">Ideal free distribution</a></li>
+<li><a href="/wiki/Intermediate_Disturbance_Hypothesis" title="Intermediate Disturbance Hypothesis">Intermediate Disturbance Hypothesis</a></li>
+<li><a href="/wiki/Island_biogeography" class="mw-redirect" title="Island biogeography">Island biogeography</a></li>
+<li><a href="/wiki/Landscape_ecology" title="Landscape ecology">Landscape ecology</a></li>
+<li><a href="/wiki/Landscape_epidemiology" title="Landscape epidemiology">Landscape epidemiology</a></li>
+<li><a href="/wiki/Landscape_limnology" title="Landscape limnology">Landscape limnology</a></li>
+<li><a href="/wiki/Metapopulation" title="Metapopulation">Metapopulation</a></li>
+<li><a href="/wiki/Patch_dynamics" title="Patch dynamics">Patch dynamics</a></li>
+<li><a href="/wiki/R/K_selection_theory" title="R/K selection theory">r/K selection theory</a></li>
+<li><a href="/wiki/Source%E2%80%93sink_dynamics" title="Source–sink dynamics">Source–sink dynamics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Ecological_niche" title="Ecological niche">Niche</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ecological_niche" title="Ecological niche">Ecological niche</a></li>
+<li><a href="/wiki/Ecological_trap" title="Ecological trap">Ecological trap</a></li>
+<li><a href="/wiki/Ecosystem_engineer" title="Ecosystem engineer">Ecosystem engineer</a></li>
+<li><a href="/wiki/Environmental_niche_modelling" title="Environmental niche modelling">Environmental niche modelling</a></li>
+<li><a href="/wiki/Guild_(ecology)" title="Guild (ecology)">Guild</a></li>
+<li><a href="/wiki/Habitat" title="Habitat">Habitat</a></li>
+<li><a href="/wiki/Marine_habitats" title="Marine habitats">Marine habitats</a></li>
+<li><a href="/wiki/Limiting_similarity" title="Limiting similarity">Limiting similarity</a></li>
+<li><a href="/wiki/Niche_apportionment_models" title="Niche apportionment models">Niche apportionment models</a></li>
+<li><a href="/wiki/Niche_construction" title="Niche construction">Niche construction</a></li>
+<li><a href="/wiki/Niche_differentiation" title="Niche differentiation">Niche differentiation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Non-trophic_networks" title="Non-trophic networks">Other networks</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Assembly_rules" title="Assembly rules">Assembly rules</a></li>
+<li><a href="/wiki/Bateman%27s_principle" title="Bateman's principle">Bateman's principle</a></li>
+<li><a href="/wiki/Bioluminescence" title="Bioluminescence">Bioluminescence</a></li>
+<li><a href="/wiki/Ecological_collapse" title="Ecological collapse">Ecological collapse</a></li>
+<li><a href="/wiki/Ecological_debt" title="Ecological debt">Ecological debt</a></li>
+<li><a href="/wiki/Ecological_deficit" class="mw-redirect" title="Ecological deficit">Ecological deficit</a></li>
+<li><a href="/wiki/Ecological_energetics" class="mw-redirect" title="Ecological energetics">Ecological energetics</a></li>
+<li><a href="/wiki/Ecological_indicator" title="Ecological indicator">Ecological indicator</a></li>
+<li><a href="/wiki/Ecological_threshold" title="Ecological threshold">Ecological threshold</a></li>
+<li><a href="/wiki/Ecosystem_diversity" title="Ecosystem diversity">Ecosystem diversity</a></li>
+<li><a href="/wiki/Emergence" title="Emergence">Emergence</a></li>
+<li><a href="/wiki/Extinction_debt" title="Extinction debt">Extinction debt</a></li>
+<li><a href="/wiki/Kleiber%27s_law" title="Kleiber's law">Kleiber's law</a></li>
+<li><a href="/wiki/Liebig%27s_law_of_the_minimum" title="Liebig's law of the minimum">Liebig's law of the minimum</a></li>
+<li><a href="/wiki/Marginal_value_theorem" title="Marginal value theorem">Marginal value theorem</a></li>
+<li><a href="/wiki/Thorson%27s_rule" title="Thorson's rule">Thorson's rule</a></li>
+<li><a href="/wiki/Xerosere" title="Xerosere">Xerosere</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Allometry" title="Allometry">Allometry</a></li>
+<li><a href="/wiki/Alternative_stable_state" title="Alternative stable state">Alternative stable state</a></li>
+<li><a href="/wiki/Balance_of_nature" title="Balance of nature">Balance of nature</a></li>
+<li><a href="/wiki/Biological_data_visualization" title="Biological data visualization">Biological data visualization</a></li>
+<li><a href="/wiki/Constructal_theory" class="mw-redirect" title="Constructal theory">Constructal theory</a></li>
+<li><a href="/wiki/Cline_(biology)" title="Cline (biology)">Ecocline</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ecological_forecasting" title="Ecological forecasting">Ecological forecasting</a></li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li><a href="/wiki/Ecological_stoichiometry" title="Ecological stoichiometry">Ecological stoichiometry</a></li>
+<li><a href="/wiki/Ecopath" title="Ecopath">Ecopath</a></li>
+<li><a href="/wiki/Ecosystem_based_fisheries" class="mw-redirect" title="Ecosystem based fisheries">Ecosystem based fisheries</a></li>
+<li><a href="/wiki/Endolith" title="Endolith">Endolith</a></li>
+<li><a href="/wiki/Evolutionary_ecology" title="Evolutionary ecology">Evolutionary ecology</a></li>
+<li><a href="/wiki/Functional_ecology" title="Functional ecology">Functional ecology</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Macroecology" title="Macroecology">Macroecology</a></li>
+<li><a href="/wiki/Microecosystem" title="Microecosystem">Microecosystem</a></li>
+<li><a href="/wiki/Natural_environment" title="Natural environment">Natural environment</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><strong class="selflink">Systems ecology</strong></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Theoretical_ecology" title="Theoretical ecology">Theoretical ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/List_of_ecology_topics" class="mw-redirect" title="List of ecology topics">List of ecology topics</a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Systems.C2.A0.C2.A0.C2.B7_.C2.A0Systems_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Systems_science" title="Template:Systems science"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Systems_science" title="Template talk:Systems science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Systems_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Systems.C2.A0.C2.A0.C2.B7_.C2.A0Systems_science" style="font-size:114%"><a href="/wiki/System" title="System">Systems</a>&#160;<span style="font-weight:normal;">&#160;<b>·</b></span> &#160;<a href="/wiki/Systems_science" title="Systems science">Systems science</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Systems<br />
+types</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Human_body" title="Human body">Anatomical</a></li>
+<li><a href="/wiki/Systems_art" title="Systems art">Art</a></li>
+<li><a href="/wiki/Biological_system" title="Biological system">Biological</a></li>
+<li><a href="/wiki/Complex_system" title="Complex system">Complex</a></li>
+<li><a href="/wiki/Complex_adaptive_system" title="Complex adaptive system">Complex adaptive</a></li>
+<li><a href="/wiki/Conceptual_system" title="Conceptual system">Conceptual</a></li>
+<li><a href="/wiki/Coupled_human%E2%80%93environment_system" title="Coupled human–environment system">Coupled human–environment</a></li>
+<li><a href="/wiki/Database" title="Database">Database</a></li>
+<li><a href="/wiki/Dynamical_system" title="Dynamical system">Dynamical</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecological</a></li>
+<li><a href="/wiki/Economic_system" title="Economic system">Economic</a></li>
+<li><a href="/wiki/Energy_system" title="Energy system">Energy</a></li>
+<li><a href="/wiki/Formal_system" title="Formal system">Formal</a></li>
+<li><a href="/wiki/Global_Positioning_System" title="Global Positioning System">Global Positioning</a></li>
+<li><a href="/wiki/Holon_(philosophy)" title="Holon (philosophy)">Holarchic</a></li>
+<li><a href="/wiki/Information_system" title="Information system">Information</a></li>
+<li><a href="/wiki/List_of_national_legal_systems" title="List of national legal systems">Legal</a></li>
+<li><a href="/wiki/System_of_measurement" title="System of measurement">Measurement</a></li>
+<li><a href="/wiki/Metric_system" title="Metric system">Metric</a></li>
+<li><a href="/wiki/Multi-agent_system" title="Multi-agent system">Multi-agent</a></li>
+<li><a href="/wiki/Nervous_system" title="Nervous system">Nervous</a></li>
+<li><a href="/wiki/Nonlinear_system" title="Nonlinear system">Nonlinear</a></li>
+<li><a href="/wiki/Operating_system" title="Operating system">Operating</a></li>
+<li><a href="/wiki/Physical_system" title="Physical system">Physical</a></li>
+<li><a href="/wiki/Planetary_system" title="Planetary system">Planetary</a></li>
+<li><a href="/wiki/Political_system" title="Political system">Political</a></li>
+<li><a href="/wiki/Sensory_system" class="mw-redirect" title="Sensory system">Sensory</a></li>
+<li><a href="/wiki/Social_system" title="Social system">Social</a></li>
+<li><a href="/wiki/Star_system" title="Star system">Star</a></li>
+<li><a href="/wiki/Writing_system" title="Writing system">Writing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Systems_theory" title="Category:Systems theory">Theoretical<br />
+fields</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chaos_theory" title="Chaos theory">Chaos theory</a></li>
+<li><a href="/wiki/Complex_systems" title="Complex systems">Complex systems</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control theory</a></li>
+<li><a href="/wiki/Cybernetics" title="Cybernetics">Cybernetics</a></li>
+<li><a href="/wiki/Earth_system_science" title="Earth system science">Earth system science</a></li>
+<li><a href="/wiki/Living_systems" title="Living systems">Living systems</a></li>
+<li><a href="/wiki/Sociotechnical_system" title="Sociotechnical system">Sociotechnical system</a></li>
+<li><a href="/wiki/Systemics" title="Systemics">Systemics</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+<li><a href="/wiki/World-systems_theory" title="World-systems theory">World-systems theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;padding-right:0.5em;">Systems ...</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Systems_analysis" title="Systems analysis">analysis</a></li>
+<li><a href="/wiki/Systems_biology" title="Systems biology">biology</a></li>
+<li><a href="/wiki/System_dynamics" title="System dynamics">dynamics</a></li>
+<li><strong class="selflink">ecology</strong></li>
+<li><a href="/wiki/Systems_engineering" title="Systems engineering">engineering</a></li>
+<li><a href="/wiki/Systems_neuroscience" title="Systems neuroscience">neuroscience</a></li>
+<li><a href="/wiki/Systems_psychology" title="Systems psychology">psychology</a></li>
+<li><a href="/wiki/Systems_science" title="Systems science">science</a></li>
+<li><a href="/wiki/Systems_theory" title="Systems theory">theory</a></li>
+<li><a href="/wiki/Systems_thinking" title="Systems thinking">thinking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Systems_scientists" title="Category:Systems scientists">Systems<br />
+scientists</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Russell_L._Ackoff" title="Russell L. Ackoff">Russell L. Ackoff</a></li>
+<li><a href="/wiki/William_Ross_Ashby" class="mw-redirect" title="William Ross Ashby">William Ross Ashby</a></li>
+<li><a href="/wiki/B%C3%A9la_H._B%C3%A1n%C3%A1thy" title="Béla H. Bánáthy">Béla H. Bánáthy</a></li>
+<li><a href="/wiki/Gregory_Bateson" title="Gregory Bateson">Gregory Bateson</a></li>
+<li><a href="/wiki/Anthony_Stafford_Beer" class="mw-redirect" title="Anthony Stafford Beer">Anthony Stafford Beer</a></li>
+<li><a href="/wiki/Richard_E._Bellman" title="Richard E. Bellman">Richard E. Bellman</a></li>
+<li><a href="/wiki/Ludwig_von_Bertalanffy" title="Ludwig von Bertalanffy">Ludwig von Bertalanffy</a></li>
+<li><a href="/wiki/Kenneth_E._Boulding" title="Kenneth E. Boulding">Kenneth E. Boulding</a></li>
+<li><a href="/wiki/Murray_Bowen" title="Murray Bowen">Murray Bowen</a></li>
+<li><a href="/wiki/C._West_Churchman" title="C. West Churchman">C. West Churchman</a></li>
+<li><a href="/wiki/George_Dantzig" title="George Dantzig">George Dantzig</a></li>
+<li><a href="/wiki/Heinz_von_Foerster" title="Heinz von Foerster">Heinz von Foerster</a></li>
+<li><a href="/wiki/Jay_Wright_Forrester" title="Jay Wright Forrester">Jay Wright Forrester</a></li>
+<li><a href="/wiki/Charles_A_S_Hall" class="mw-redirect" title="Charles A S Hall">Charles A S Hall</a></li>
+<li><a href="/wiki/James_J._Kay" title="James J. Kay">James J. Kay</a></li>
+<li><a href="/wiki/George_Klir" title="George Klir">George Klir</a></li>
+<li><a href="/wiki/Edward_Norton_Lorenz" title="Edward Norton Lorenz">Edward Norton Lorenz</a></li>
+<li><a href="/wiki/Niklas_Luhmann" title="Niklas Luhmann">Niklas Luhmann</a></li>
+<li><a href="/wiki/Humberto_Maturana" title="Humberto Maturana">Humberto Maturana</a></li>
+<li><a href="/wiki/Margaret_Mead" title="Margaret Mead">Margaret Mead</a></li>
+<li><a href="/wiki/Donella_Meadows" title="Donella Meadows">Donella Meadows</a></li>
+<li><a href="/wiki/Mihajlo_D._Mesarovic" title="Mihajlo D. Mesarovic">Mihajlo D. Mesarovic</a></li>
+<li><a href="/wiki/James_Grier_Miller" title="James Grier Miller">James Grier Miller</a></li>
+<li><a href="/wiki/Howard_T._Odum" title="Howard T. Odum">Howard T. Odum</a></li>
+<li><a href="/wiki/Talcott_Parsons" title="Talcott Parsons">Talcott Parsons</a></li>
+<li><a href="/wiki/Ilya_Prigogine" title="Ilya Prigogine">Ilya Prigogine</a></li>
+<li><a href="/wiki/Qian_Xuesen" title="Qian Xuesen">Qian Xuesen</a></li>
+<li><a href="/wiki/Anatol_Rapoport" title="Anatol Rapoport">Anatol Rapoport</a></li>
+<li><a href="/wiki/Peter_Senge" title="Peter Senge">Peter Senge</a></li>
+<li><a href="/wiki/Claude_Shannon" title="Claude Shannon">Claude Shannon</a></li>
+<li><a href="/wiki/Francisco_Varela" title="Francisco Varela">Francisco Varela</a></li>
+<li><a href="/wiki/Kevin_Warwick" title="Kevin Warwick">Kevin Warwick</a></li>
+<li><a href="/wiki/Norbert_Wiener" title="Norbert Wiener">Norbert Wiener</a></li>
+<li><a href="/wiki/Anthony_Wilden" title="Anthony Wilden">Anthony Wilden</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> Categories</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Category:Systems" title="Category:Systems">Systems</a>
+<ul>
+<li><a href="/wiki/Category:Conceptual_systems" title="Category:Conceptual systems">conceptual</a></li>
+<li><a href="/wiki/Category:Physical_systems" title="Category:Physical systems">physical</a></li>
+<li><a href="/wiki/Category:Social_systems" title="Category:Social systems">social</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Category:Systems_science" title="Category:Systems science">Systems science</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold">
+<div>
+<ul>
+<li><a href="/wiki/File:Complex-adaptive-system.jpg" class="image"><img alt="Complex-adaptive-system.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/16px-Complex-adaptive-system.jpg" width="16" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/24px-Complex-adaptive-system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/32px-Complex-adaptive-system.jpg 2x" data-file-width="2100" data-file-height="1500" /></a> <a href="/wiki/Portal:Systems_science" title="Portal:Systems science">Systems science portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Environmental_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Environmental_science" title="Template:Environmental science"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Environmental_science" title="Template talk:Environmental science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Environmental_science" style="font-size:114%"><a href="/wiki/Environmental_science" title="Environmental science">Environmental science</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Main fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">Atmospheric sciences</a></li>
+<li><a href="/wiki/Biogeochemistry" title="Biogeochemistry">Biogeochemistry</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">Environmental chemistry</a></li>
+<li><a href="/wiki/Earth_science" title="Earth science">Geosciences</a></li>
+<li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a></li>
+<li><a href="/wiki/Limnology" title="Limnology">Limnology</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Environmental_soil_science" title="Environmental soil science">Soil science</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:The_Earth_seen_from_Apollo_17.jpg" class="image"><img alt="The Earth seen from Apollo 17.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/100px-The_Earth_seen_from_Apollo_17.jpg" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/150px-The_Earth_seen_from_Apollo_17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/200px-The_Earth_seen_from_Apollo_17.jpg 2x" data-file-width="3000" data-file-height="3002" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related fields</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biology" title="Biology">Biology</a></li>
+<li><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a>
+<ul>
+<li><a href="/wiki/Green_chemistry" title="Green chemistry">green</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Environmental_health" title="Environmental health">Environmental health</a>
+<ul>
+<li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">Environmental studies</a></li>
+<li><a href="/wiki/Environmental_toxicology" title="Environmental toxicology">Environmental toxicology</a></li>
+<li><a href="/wiki/Geodesy" title="Geodesy">Geodesy</a></li>
+<li><a href="/wiki/Physics" title="Physics">Physics</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Sustainability science</a></li>
+<li><strong class="selflink">Systems ecology</strong></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource management</a></li>
+<li><a href="/wiki/Pollution_control" class="mw-redirect" title="Pollution control">Pollution control</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+<li><a href="/wiki/Environmental_remediation" title="Environmental remediation">Remediation</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">Water purification</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Environmental_science" title="Category:Environmental science">Category</a>
+<ul>
+<li><a href="/wiki/Category:Environmental_scientists" title="Category:Environmental scientists">scientists</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Glossary_of_environmental_science" title="Glossary of environmental science">Glossary</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+<li><a href="/wiki/List_of_environmental_degree-granting_institutions" title="List of environmental degree-granting institutions">Institutions</a></li>
+<li><a href="/wiki/List_of_environmental_journals#Environmental_sciences" title="List of environmental journals">Journals</a></li>
+<li><a href="/wiki/List_of_environmental_research_institutes" title="List of environmental research institutes">Research institutes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Environmental_social_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Environmental_social_science" title="Template:Environmental social science"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Environmental_social_science" title="Template talk:Environmental social science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_social_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Environmental_social_science" style="font-size:114%"><a href="/wiki/Environmental_social_science" title="Environmental social science">Environmental social science</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ecological_anthropology" title="Ecological anthropology">Ecological anthropology</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_anthropology" title="Environmental anthropology">Environmental anthropology</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_communication" title="Environmental communication">Environmental communication</a></li>
+<li><a href="/wiki/Environmental_history" title="Environmental history">Environmental history</a></li>
+<li><a href="/wiki/Environmental_politics" title="Environmental politics">Environmental politics</a></li>
+<li><a href="/wiki/Environmental_psychology" title="Environmental psychology">Environmental psychology</a></li>
+<li><a href="/wiki/Environmental_sociology" title="Environmental sociology">Environmental sociology</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/Human_geography" title="Human geography">Human geography</a></li>
+<li><a href="/wiki/Political_ecology" title="Political ecology">Political ecology</a></li>
+<li><a href="/wiki/Regional_science" title="Regional science">Regional science</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/150px-Sustainable_development.svg.png" width="150" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/225px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/300px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agroecology" title="Agroecology">Agroecology</a></li>
+<li><a href="/wiki/Anthrozoology" title="Anthrozoology">Anthrozoology</a></li>
+<li><a href="/wiki/Behavioral_geography" title="Behavioral geography">Behavioral geography</a></li>
+<li><a href="/wiki/Community_studies" title="Community studies">Community studies</a></li>
+<li><a href="/wiki/Demography" title="Demography">Demography</a></li>
+<li>Design
+<ul>
+<li><a href="/wiki/Ecological_design" title="Ecological design">ecological</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">environmental</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li>Economics
+<ul>
+<li><a href="/wiki/Energy_economics" title="Energy economics">energy</a></li>
+<li><a href="/wiki/Thermoeconomics" title="Thermoeconomics">thermo</a></li>
+</ul>
+</li>
+<li>Environmental
+<ul>
+<li><a href="/wiki/Environmental_education" title="Environmental education">education</a></li>
+<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">ethics</a></li>
+<li><a href="/wiki/Environmental_law" title="Environmental law">law</a></li>
+<li><a href="/wiki/Environmental_science" title="Environmental science">science</a></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">studies</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ethnobiology" title="Ethnobiology">Ethnobiology</a>
+<ul>
+<li><a href="/wiki/Ethnobotany" title="Ethnobotany">botany</a></li>
+<li><a href="/wiki/Ethnoecology" title="Ethnoecology">ecology</a></li>
+<li><a href="/wiki/Ethnozoology" title="Ethnozoology">zoology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Forestry" title="Forestry">Forestry</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Integrated_geography" title="Integrated geography">Integrated geography</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Rural_sociology" title="Rural sociology">Rural sociology</a></li>
+<li><a href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science, technology and society</a>
+<ul>
+<li><a href="/wiki/Science_studies" title="Science studies">science studies</a></li>
+</ul>
+</li>
+<li>Sustainability
+<ul>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">studies</a></li>
+</ul>
+</li>
+<li><strong class="selflink">Systems ecology</strong></li>
+<li>Urban
+<ul>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">ecology</a></li>
+<li><a href="/wiki/Urban_geography" title="Urban geography">geography</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">metabolism</a></li>
+<li><a href="/wiki/Urban_studies" title="Urban studies">studies</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applied</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Architecture
+<ul>
+<li><a href="/wiki/Landscape_architecture" title="Landscape architecture">landscape</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">sustainable</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecopsychology" title="Ecopsychology">Ecopsychology</a></li>
+<li>Engineering
+<ul>
+<li><a href="/wiki/Ecological_engineering" title="Ecological engineering">ecological</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">environmental</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Green_criminology" title="Green criminology">Green criminology</a></li>
+<li>Health
+<ul>
+<li><a href="/wiki/Environmental_health" title="Environmental health">environmental</a></li>
+<li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li>
+<li><a href="/wiki/Occupational_safety_and_health" title="Occupational safety and health">occupational</a></li>
+<li><a href="/wiki/Public_health" title="Public health">public</a></li>
+</ul>
+</li>
+<li>Management
+<ul>
+<li><a href="/wiki/Environmental_resources_management" class="mw-redirect" title="Environmental resources management">environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">forest</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">natural resource</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">waste</a></li>
+</ul>
+</li>
+<li>Planning
+<ul>
+<li><a href="/wiki/Environmental_planning" title="Environmental planning">environmental</a></li>
+<li><a href="/wiki/Land-use_planning" title="Land-use planning">land use</a></li>
+<li><a href="/wiki/Regional_planning" title="Regional planning">regional</a></li>
+<li><a href="/wiki/Spatial_planning" title="Spatial planning">spatial</a></li>
+<li><a href="/wiki/Urban_planning" title="Urban planning">urban</a></li>
+</ul>
+</li>
+<li>Policy
+<ul>
+<li><a href="/wiki/Energy_policy" title="Energy policy">energy</a></li>
+<li><a href="/wiki/Environmental_policy" title="Environmental policy">environmental</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Environmental_social_science" title="Category:Environmental social science">Category</a></li>
+<li><a href="/wiki/Category:Environmental_social_science_concepts" title="Category:Environmental social science concepts">Concepts</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+<li><a href="/wiki/List_of_environmental_degree-granting_institutions" title="List of environmental degree-granting institutions">Institutions</a></li>
+<li><a href="/wiki/List_of_environmental_social_science_journals" title="List of environmental social science journals">Journals</a></li>
+<li><a href="/wiki/List_of_environment_research_institutes" class="mw-redirect" title="List of environment research institutes">Research institutes</a></li>
+<li><a href="/wiki/Category:Environmental_social_scientists" title="Category:Environmental social scientists">Scholars</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1244
+Cached time: 20170308144930
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.274 seconds
+Preprocessor visited node count: 834/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 93937/2097152 bytes
+Template argument size: 68/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/500
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 2.91 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  138.861      1 -total
+ 35.34%   49.068      6 Template:Navbox
+ 30.20%   41.937      1 Template:Reflist
+ 25.35%   35.196      1 Template:Cite_book
+ 15.50%   21.520      7 Template:Main_article
+ 14.61%   20.290      1 Template:Systems
+ 14.03%   19.487      1 Template:Modelling_ecosystems
+  9.95%   13.818      1 Template:Portal
+  7.59%   10.541      5 Template:Icon
+  5.63%    7.816      1 Template:Environmental_social_science
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3253299-0!*!0!!en!4!* and timestamp 20170308144930 and revision id 751761764
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Systems_ecology&amp;oldid=751761764">https://en.wikipedia.org/w/index.php?title=Systems_ecology&amp;oldid=751761764</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Systems_ecology" title="Category:Systems ecology">Systems ecology</a></li><li><a href="/wiki/Category:Environmental_science" title="Category:Environmental science">Environmental science</a></li><li><a href="/wiki/Category:Environmental_social_science" title="Category:Environmental social science">Environmental social science</a></li><li><a href="/wiki/Category:Formal_sciences" title="Category:Formal sciences">Formal sciences</a></li><li><a href="/wiki/Category:Systems_theory" title="Category:Systems theory">Systems theory</a></li><li><a href="/wiki/Category:Subfields_of_ecology" title="Category:Subfields of ecology">Subfields of ecology</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Systems+ecology" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Systems+ecology" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Systems_ecology"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Systems_ecology"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Systems_ecology" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Systems_ecology&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Systems_ecology&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Systems_ecology" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Systems_ecology" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Systems_ecology&amp;oldid=751761764" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Systems_ecology&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q3076438" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Systems_ecology&amp;id=751761764" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Systems+ecology">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Systems+ecology&amp;returnto=Systems+ecology&amp;oldid=751761764&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Systems_ecology&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Systeemecologie" title="Systeemecologie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Seestems_ecologie" title="Seestems ecologie – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Sistemska_ekologija" title="Sistemska ekologija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%B0_%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Системна екологія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q3076438#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 November 2016, at 18:20.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Systems_ecology&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.274","ppvisitednodes":{"value":834,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":93937,"limit":2097152},"templateargumentsize":{"value":68,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  138.861      1 -total"," 35.34%   49.068      6 Template:Navbox"," 30.20%   41.937      1 Template:Reflist"," 25.35%   35.196      1 Template:Cite_book"," 15.50%   21.520      7 Template:Main_article"," 14.61%   20.290      1 Template:Systems"," 14.03%   19.487      1 Template:Modelling_ecosystems","  9.95%   13.818      1 Template:Portal","  7.59%   10.541      5 Template:Icon","  5.63%    7.816      1 Template:Environmental_social_science"]},"scribunto":{"limitreport-timeusage":{"value":"0.066","limit":"10.000"},"limitreport-memusage":{"value":3054955,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20170308144930","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1185"});});</script>
+	</body>
+</html>

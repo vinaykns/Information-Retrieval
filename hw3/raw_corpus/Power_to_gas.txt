@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Power to gas - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Power_to_gas","wgTitle":"Power to gas","wgCurRevisionId":766515584,"wgRevisionId":766515584,"wgArticleId":39071843,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","Pages using ISBN magic links","Energy storage"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Power_to_gas","wgRelevantArticleId":39071843,"wgRequestId":"WMEKnwpAEK0AAAor5X8AAAHD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q12646543","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/c7/Power_to_Gas_HGas.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Power_to_gas"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Power_to_gas&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Power_to_gas&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Power_to_gas"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Power_to_gas rootpage-Power_to_gas skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Power to gas</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Power to gas</b> (also power-to-gas) (often abbreviated P2G) is a technology that converts <a href="/wiki/Electricity" title="Electricity">electrical</a> power to a gas <a href="/wiki/Fuel" title="Fuel">fuel</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> When using surplus power from <a href="/wiki/Wind_generation" class="mw-redirect" title="Wind generation">wind generation</a>, the concept is sometimes called <b>windgas</b>. There are currently three methods in use; all use electricity to <a href="/wiki/Water_splitting" title="Water splitting">split water</a> into <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> and <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> by means of <a href="/wiki/Electrolysis" title="Electrolysis">electrolysis</a>.</p>
+<p>In the first method, the resulting hydrogen is injected into the natural gas grid or is used in transport or industry.<sup id="cite_ref-Eberle_2-0" class="reference"><a href="#cite_note-Eberle-2">[2]</a></sup> The second method is to combine the hydrogen with <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> and convert the two gases to <a href="/wiki/Methane" title="Methane">methane</a> (see <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>) using a methanation reaction such as the <a href="/wiki/Sabatier_reaction" title="Sabatier reaction">Sabatier reaction</a>, or biological methanation resulting in an extra <a href="/wiki/Energy_conversion" class="mw-redirect" title="Energy conversion">energy conversion</a> <a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">loss</a> of 8%. The methane may then be fed into the natural gas grid. The third method uses the output gas of a <a href="/wiki/Wood_gas_generator" title="Wood gas generator">wood gas generator</a> or a <a href="/wiki/Biogas" title="Biogas">biogas</a> plant, after the <a href="/wiki/Biogas_upgrader" title="Biogas upgrader">biogas upgrader</a> is mixed with the produced hydrogen from the electrolyzer, to upgrade the quality of the biogas.</p>
+<p>Impurities, such as <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, <a href="/wiki/Water" title="Water">water</a>, <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">hydrogen sulfide</a>, and <a href="/wiki/Particulate" class="mw-redirect" title="Particulate">particulates</a>, must be removed from the biogas if the gas is used for pipeline storage to prevent damage.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Storage_function"><span class="tocnumber">1</span> <span class="toctext">Storage function</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Efficiency"><span class="tocnumber">1.1</span> <span class="toctext">Efficiency</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Electrolysis_technology"><span class="tocnumber">1.2</span> <span class="toctext">Electrolysis technology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Power_to_hydrogen"><span class="tocnumber">2</span> <span class="toctext">Power to hydrogen</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Grid_injection_without_compression"><span class="tocnumber">2.1</span> <span class="toctext">Grid injection without compression</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Power_to_methane"><span class="tocnumber">3</span> <span class="toctext">Power to methane</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Microbial_methanation"><span class="tocnumber">3.1</span> <span class="toctext">Microbial methanation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Biogas-upgrading_to_biomethane"><span class="tocnumber">4</span> <span class="toctext">Biogas-upgrading to biomethane</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Power_to_syngas"><span class="tocnumber">5</span> <span class="toctext">Power to syngas</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Initiatives"><span class="tocnumber">5.1</span> <span class="toctext">Initiatives</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Storage_function">Storage function</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=1" title="Edit section: Storage function">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Power-to-gas systems may be deployed as adjuncts to <a href="/wiki/Wind_park" class="mw-redirect" title="Wind park">wind parks</a> or <a href="/wiki/Solar_cell" title="Solar cell">solar-electric generation</a>. The excess power or off-peak power generated by wind generators or <a href="/wiki/Solar_array" class="mw-redirect" title="Solar array">solar arrays</a> may then be used at a later time for load balancing in the <a href="/w/index.php?title=Energy_grid&amp;action=edit&amp;redlink=1" class="new" title="Energy grid (page does not exist)">energy grid</a>. Before switching to <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, the German gas networks were operated using <a href="/wiki/Towngas" class="mw-redirect" title="Towngas">towngas</a>, which for 50–60&#160;% consisted of hydrogen. The storage capacity of the German natural gas network is more than 200,000 GWh which is enough for several months of energy requirement. By comparison, the capacity of all German pumped storage power plants amounts to only about 40 GWh. The storage requirement in Germany is estimated at 16GW in 2023, 80GW in 2033 and 130GW in 2050.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The transport of energy through a gas network is done with much less loss (&lt;0.1%) than in a power network (8%). The storage costs per kilowatt hour are estimated at €0.10 for hydrogen and €0.15 for methane.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The use of the existing <a href="/wiki/List_of_natural_gas_pipelines" title="List of natural gas pipelines">natural gas pipelines</a> for hydrogen was studied by the EU NaturalHy project<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> and US <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">DOE</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> The blending technology is also used in <a href="/wiki/HCNG" title="HCNG">HCNG</a>.</p>
+<h3><span class="mw-headline" id="Efficiency">Efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=2" title="Edit section: Efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2013 the round-trip efficiency of power-to-gas-storage was well below 50%, with the hydrogen path being able to reach an maximum efficiency of ~ 43% and methane of ~ 39% by using combined-cycle powerplants. If <a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a> plants are used that produce both electricity and heat, efficiency can be above 60%, but is still less than pumped hydro or battery storage.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> However, there is potential to increase efficiency of power-to-gas storage. In 2015 a study published in <a href="/wiki/Energy_and_Environmental_Science" title="Energy and Environmental Science">Energy and Environmental Science</a> found that by using <a href="/wiki/Unitized_regenerative_fuel_cell" title="Unitized regenerative fuel cell">reversible solid oxide electrochemical cells</a> and recycling waste heat in the storage process a round-trip efficiency electricity to electricity of more than 70% can be reached at low cost.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<table class="wikitable floatleft">
+<caption>Overall <a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">energy conversion efficiency</a> by pathway and fuel<br />
+using <a href="/wiki/Electrolysis_of_water" title="Electrolysis of water">electrolysis of water</a>, plus <a href="/wiki/Methanation" title="Methanation">methanation</a> to produce methane</caption>
+<tr>
+<th style="width: 120px;">Fuel</th>
+<th style="width: 110px;">Efficiency</th>
+<th>Conditions</th>
+</tr>
+<tr>
+<th colspan="3" style="text-align: left; padding: 9px 0 6px 9px;">Pathway: Electricity→Gas</th>
+</tr>
+<tr>
+<td>Hydrogen</td>
+<td align="center">54–72&#160;%</td>
+<td rowspan="2">200 bar compression</td>
+</tr>
+<tr>
+<td>Methane (<a href="/wiki/Substitute_natural_gas" title="Substitute natural gas">SNG</a>)</td>
+<td align="center">49–64&#160;%</td>
+</tr>
+<tr>
+<td>Hydrogen</td>
+<td align="center">57–73&#160;%</td>
+<td rowspan="2">80 bar compression (Natural gas pipeline)</td>
+</tr>
+<tr>
+<td>Methane (SNG)</td>
+<td align="center">50–64&#160;%</td>
+</tr>
+<tr>
+<td>Hydrogen</td>
+<td align="center">64–77&#160;%</td>
+<td rowspan="2">without compression</td>
+</tr>
+<tr>
+<td>Methane (SNG)</td>
+<td align="center">51–65&#160;%</td>
+</tr>
+<tr>
+<th colspan="3" style="text-align: left; padding: 9px 0 6px 9px;">Pathway: Electricity→Gas→Electricity</th>
+</tr>
+<tr>
+<td>Hydrogen</td>
+<td align="center">34–44&#160;%</td>
+<td rowspan="2">80 bar compression up to 60% back to electricity</td>
+</tr>
+<tr>
+<td>Methane (SNG)</td>
+<td align="center">30–38&#160;%</td>
+</tr>
+<tr>
+<th colspan="3" style="text-align: left; padding: 9px 0 6px 9px;">Pathway: Electricity→Gas→Electricity &amp; heat <small>(<a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a>)</small></th>
+</tr>
+<tr>
+<td>Hydrogen</td>
+<td align="center">48–62&#160;%</td>
+<td rowspan="2">80 bar compression and electricity/heat for 40/45&#160;%</td>
+</tr>
+<tr>
+<td>Methane (SNG)</td>
+<td align="center">43–54&#160;%</td>
+</tr>
+<tr>
+<th colspan="3" style="font-weight: normal; font-size: 0.85em; text-align: left; padding: 6px 0 4px; 4px;">Source: Fraunhofer IWES, p.&#160;18, February 2011 (in German)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></th>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Electrolysis_technology">Electrolysis technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=3" title="Edit section: Electrolysis technology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Advantages and disadvantages of the predominantly considered electrolysis technologies.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+</ul>
+<table class="wikitable">
+<caption>Alkaline Electrolysis</caption>
+<tr>
+<th>Advantage</th>
+<th>Disadvantage</th>
+</tr>
+<tr>
+<td>Commercial technology (high technology readiness level)</td>
+<td>Limited cost reduction and efficiency improvement potential</td>
+</tr>
+<tr>
+<td>Low investment electrolyser</td>
+<td>High maintenance intensity</td>
+</tr>
+<tr>
+<td>Large stack size</td>
+<td>Modest reactivity, ramp rates and flexibility (minimal load 20%)</td>
+</tr>
+<tr>
+<td>Extremely low hydrogen impurity (0.001&#160;%)</td>
+<td>Stacks &lt; 250&#160;kW require unusual AC/DC converters</td>
+</tr>
+<tr>
+<td>&#160;</td>
+<td>Corrosive electrolyte deteriorates when not operating nominally</td>
+</tr>
+</table>
+<table class="wikitable">
+<caption>Proton Exchange Membrane Electrolysis (PEME)</caption>
+<tr>
+<th>Advantage</th>
+<th>Disadvantage</th>
+</tr>
+<tr>
+<td>Reliable technology (no kinetics) and simple, compact design</td>
+<td>High investment costs (noble metals, membrane)</td>
+</tr>
+<tr>
+<td>Very fast response time</td>
+<td>Limited lifetime of membranes</td>
+</tr>
+<tr>
+<td>Cost reduction potential (modular design)</td>
+<td>Requires high water purity</td>
+</tr>
+</table>
+<table class="wikitable">
+<caption>Solid Oxide Electrolysis Cell (SOEC)</caption>
+<tr>
+<th>Advantage</th>
+<th>Disadvantage</th>
+</tr>
+<tr>
+<td>Highest electrolysis efficiency</td>
+<td>Very low technology readiness level (proof of concept)</td>
+</tr>
+<tr>
+<td>Low capital costs</td>
+<td>Poor lifetime because of high temperature and affected material stability</td>
+</tr>
+<tr>
+<td>Possibilities for integration with chemical methanation (heat recycling)</td>
+<td>Limited flexibility; constant load required</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Power_to_hydrogen">Power to hydrogen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=4" title="Edit section: Power to hydrogen">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In this method, electricity is used to <a href="/wiki/Water_splitting" title="Water splitting">split water</a> into hydrogen and oxygen by means of electrolysis. The resulting hydrogen is injected into the natural gas grid or is used in transport or industry.<sup id="cite_ref-Eberle_2-1" class="reference"><a href="#cite_note-Eberle-2">[2]</a></sup></p>
+<p><a href="/wiki/ITM_Power" title="ITM Power">ITM Power</a> won a tender in March 2013 for a <a href="/w/index.php?title=Th%C3%BCga_Group&amp;action=edit&amp;redlink=1" class="new" title="Thüga Group (page does not exist)">Thüga Group</a> project, to supply a 360&#160;kW self-pressurising <a href="/wiki/High-pressure_electrolysis" title="High-pressure electrolysis">high pressure electrolysis</a> rapid response <a href="/wiki/Proton_exchange_membrane" title="Proton exchange membrane">PEM</a> <a href="/wiki/Electrolysis_of_water" title="Electrolysis of water">electrolyser</a> <i>Rapid Response Electrolysis</i> Power-to-Gas energy storage plant. The unit produces 125&#160;kg/day of hydrogen gas and incorporates <a href="/wiki/AEG" title="AEG">AEG</a> power electronics. It will be situated at a <a href="/wiki/Mainova" title="Mainova">Mainova</a> AG site in the Schielestraße, <a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a> in the state of <a href="/wiki/Hessen" class="mw-redirect" title="Hessen">Hessen</a>. The operational data will be shared by the whole Thüga group – the largest network of energy companies in Germany with around 100 municipal utility members. The project partners include: badenova AG &amp; Co.&#160;kg, Erdgas Mittelsachsen GmbH, Energieversorgung Mittelrhein GmbH, erdgas schwaben GmbH, Gasversorgung Westerwald GmbH, <a href="/wiki/Mainova" title="Mainova">Mainova</a> Aktiengesellschaft, Stadtwerke Ansbach GmbH, Stadtwerke Bad Hersfeld GmbH, Thüga Energienetze GmbH, WEMAG AG, e-rp GmbH, ESWE Versorgungs AG with Thüga Aktiengesellschaft as project coordinator. Scientific partners will participate in the operational phase.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> It can produce 60 cubic metres of hydrogen per hour and feed 3,000 cubic metres of natural gas enriched with hydrogen into the grid per hour. An expansion of the pilot plant is planned from 2016, facilitating the full conversion of the hydrogen produced into methane to be directly injected into the natural gas grid.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Power_to_Gas_HGas.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Power_to_Gas_HGas.jpg/220px-Power_to_Gas_HGas.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Power_to_Gas_HGas.jpg/330px-Power_to_Gas_HGas.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/c7/Power_to_Gas_HGas.jpg 2x" data-file-width="380" data-file-height="380" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Power_to_Gas_HGas.jpg" class="internal" title="Enlarge"></a></div>
+Units like ITM Power's HGas generates hydrogen to be directly injected into the gas network as Power to Gas</div>
+</div>
+</div>
+<p>In December 2013, <a href="/wiki/ITM_Power" title="ITM Power">ITM Power</a>, <a href="/wiki/Mainova" title="Mainova">Mainova</a>, and NRM Netzdienste Rhein-Main GmbH began injecting hydrogen into the German gas distribution network using <a href="/wiki/ITM_Power" title="ITM Power">ITM Power</a> <a href="/w/index.php?title=HGas&amp;action=edit&amp;redlink=1" class="new" title="HGas (page does not exist)">HGas</a>, which is a rapid response <a href="/wiki/Proton_exchange_membrane" title="Proton exchange membrane">proton exchange membrane</a> <a href="/wiki/Electrolyser" class="mw-redirect" title="Electrolyser">electrolyser</a> plant. The power consumption of the electrolyser is 315 kilowatts. It produces about 60 cubic meters per hour of <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> and thus in one hour can feed 3,000 cubic meters of hydrogen-enriched natural gas into the network.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>On August 28, 2013, <a href="/wiki/E.ON" title="E.ON">E.ON Hanse</a>, <a href="/wiki/Solvay_(company)" class="mw-redirect" title="Solvay (company)">Solvicore</a>, and <a href="/w/index.php?title=Swissgas&amp;action=edit&amp;redlink=1" class="new" title="Swissgas (page does not exist)">Swissgas</a> inaugurated a commercial power-to-gas unit in <a href="/wiki/Falkenhagen" title="Falkenhagen">Falkenhagen</a>, Germany. The unit, which has a capacity of two megawatts, can produce 360 cubic meters of hydrogen per hour.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> The plant uses wind power and <a href="/wiki/Hydrogenics" title="Hydrogenics">Hydrogenics</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> electrolysis equipment to transform water into hydrogen, which is then injected into the existing regional natural gas transmission system. Swissgas, which represents over 100 local natural gas utilities, is a partner in the project with a 20 percent capital stake and an agreement to purchase a portion of the gas produced. A second 800&#160;kW power-to-gas project has been started in <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a>/Reitbrook district<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> and is expected to open in 2015.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>In August 2013, a 140 MW wind park in <a href="/wiki/Grapzow" title="Grapzow">Grapzow</a>, <a href="/wiki/Mecklenburg-Vorpommern" title="Mecklenburg-Vorpommern">Mecklenburg-Vorpommern</a> ,owned by <a href="/wiki/E.ON" title="E.ON">E.ON</a> received an electrolyser. The hydrogen produced can be used in an <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engine</a> or can be injected into the local gas grid. The hydrogen compression and storage system stores up to 27 MWh of energy and increases the overall efficiency of the wind park by tapping into wind energy that otherwise would be wasted.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> The electrolyser produces 210 Nm<sup>3</sup>/h of hydrogen and is operated by <a href="/w/index.php?title=RH2-WKA&amp;action=edit&amp;redlink=1" class="new" title="RH2-WKA (page does not exist)">RH2-WKA</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<p>In January 2011, <a href="/w/index.php?title=Secure_Supplies_Hydrogen&amp;action=edit&amp;redlink=1" class="new" title="Secure Supplies Hydrogen (page does not exist)">Secure Supplies Hydrogen</a>, an internationally certified engineering and warrantied power to gas vendor of quality Australian and USA made Hydrogen Fueling equipment, Hydrogen Fueled Engines and Hydrogen Home /Business Solar fuel cell Kits entered the market. Project's deploying (2015-2020) are focused on renewable power investments. Value adding Sites to produce a Hydrogen fuel and transfer storage gas. <a href="/w/index.php?title=Secure_Supplies&amp;action=edit&amp;redlink=1" class="new" title="Secure Supplies (page does not exist)">Secure Supplies</a> value adds all solar wind, geo thermal and hydropower projects. Enabling owners to achieve a higher ROI, to produce hydrogen gas grids to fuel industry and a variety of applications emission free. End users include Port Operators, Farms, Green Community residential development or and Renewable power operators. Gas is sold to gas grid or transported and used to fuel fixed engines or fuel cell that run 24r to pump water or make power for business and communities projects. Hydrogen Equipment along with Engineering and Service provision makes <a href="/w/index.php?title=Secure_Supplies&amp;action=edit&amp;redlink=1" class="new" title="Secure Supplies (page does not exist)">Secure Supplies</a> is well positioned to supply key markets globally.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<p>The INGRID project started in 2013 in <a href="/wiki/Apulia" title="Apulia">Apulia</a>, Italy. It is a four-year project with 39 MWh storage and a 1.2 MW electrolyser for smart grid monitoring and control.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> The hydrogen is used for grid balancing, transport, industry, and injection into the gas network.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<p>The surplus energy from the 12 MW <a href="/w/index.php?title=Prenzlau_Windpark&amp;action=edit&amp;redlink=1" class="new" title="Prenzlau Windpark (page does not exist)">Prenzlau Windpark</a> in <a href="/wiki/Brandenburg" title="Brandenburg">Brandenburg</a>, Germany<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> will be injected into the gas grid from 2014 on.</p>
+<p>The 6 MW Energiepark Mainz<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> from Stadtwerke Mainz, <a href="/wiki/RheinMain_University_of_Applied_Sciences" title="RheinMain University of Applied Sciences">RheinMain University of Applied Sciences</a>, <a href="/wiki/Linde_AG" class="mw-redirect" title="Linde AG">Linde</a> and <a href="/wiki/Siemens" title="Siemens">Siemens</a> in <a href="/wiki/Mainz" title="Mainz">Mainz</a> (Germany) will open in 2015.</p>
+<p>Power to gas and other <a href="/wiki/Energy_storage" title="Energy storage">energy storage</a> schemes to store and utilize <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> are part of Germany's <a href="/wiki/Energiewende" class="mw-redirect" title="Energiewende">Energiewende</a> (energy transition program).<sup id="cite_ref-Nature41013_26-0" class="reference"><a href="#cite_note-Nature41013-26">[26]</a></sup></p>
+<h3><span class="mw-headline" id="Grid_injection_without_compression">Grid injection without compression</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=5" title="Edit section: Grid injection without compression">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The core of the system is a <a href="/wiki/Proton_exchange_membrane" title="Proton exchange membrane">proton exchange membrane</a> (PEM) <a href="/wiki/Electrolyser" class="mw-redirect" title="Electrolyser">electrolyser</a>. The electrolyser converts electrical energy into chemical energy, which in turn facilitates the storage of electricity. A gas mixing plant ensures that the proportion of hydrogen in the natural gas stream does not exceed two per cent by volume, the technically permissible maximum value when a natural gas filling station is situated in the local distribution network. The electrolyser supplies the hydrogen-methane mixture at the same pressure as the gas distribution network, namely 3.5 bar. <sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<h2><span class="mw-headline" id="Power_to_methane">Power to methane</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=6" title="Edit section: Power to methane">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:Methanation_of_CO2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Methanation_of_CO2.png/400px-Methanation_of_CO2.png" width="400" height="240" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Methanation_of_CO2.png/600px-Methanation_of_CO2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/2/2a/Methanation_of_CO2.png 2x" data-file-width="800" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Methanation_of_CO2.png" class="internal" title="Enlarge"></a></div>
+Methanation of CO<sub>2</sub> by electrolytically obtained hydrogen</div>
+</div>
+</div>
+<p>The Power to Gas Methane method is to combine hydrogen from an electrolyzer with carbon dioxide and convert the two gases to methane<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> (see natural gas) using a methanation reaction such as the Sabatier reaction or biological methanation resulting in an extra energy conversion loss of 8%, the methane may then be fed into the natural gas grid if the purity requirement is reached.</p>
+<p>ZSW (Center for Solar Energy and Hydrogen Research) and SolarFuel GmbH (now ETOGAS GmbH) realized a demonstration project with 250&#160;kW electrical input power in Stuttgart, Germany. The plant was put into operation on October 30, 2012.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p>
+<p>The first industry-scale Power-to-Methane plant was realized by ETOGAS for Audi AG in Werlte, Germany. The plant with 6 MW electrical input power is using CO<sub>2</sub> from a waste-biogas plant and intermittent renewable power to produce synthetic natural gas (SNG) which is directly fed into the local gas grid (which is operated by EWE).<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> The plant is part of the Audi e-fuels program. The produced synthetic natural gas, named Audi e-gas, enables CO<sub>2</sub>-neutral mobility with standard CNG vehicles. Currently it is available to customers of Audi's first CNG car, the Audi A3 g-tron.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p>
+<p>In April 2014 the <a href="/wiki/European_Union" title="European Union">European Union’s</a> co-financed and from the <a href="/wiki/Karlsruhe_Institute_of_Technology" title="Karlsruhe Institute of Technology">KIT</a> coordinated<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> HELMETH<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> (Integrated <b>H</b>igh-Temperature <b>EL</b>ectrolysis and <b>METH</b>anation for Effective Power to Gas Conversion) research project started.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> The objective of the project is the proof of concept of a highly efficient Power-to-Gas technology by thermally integrating high temperature electrolysis (<a href="/wiki/Solid_oxide_electrolyser_cell" title="Solid oxide electrolyser cell">SOEC</a> technology) with CO<sub>2</sub>-methanation. Through the thermal integration of exothermal methanation and steam generation for the high temperature steam electrolysis a conversion efficiency &gt; 85% is expected (<a href="/wiki/Heat_of_combustion" title="Heat of combustion">higher heating value</a> of produced methane per used electrical energy). The process consists of a pressurized high-temperature steam <a href="/wiki/Electrolysis_of_water" title="Electrolysis of water">electrolysis</a> and a pressurized CO<sub>2</sub>-methanation module which are planned to be coupled in 2016. A methane output of approximately 30&#160;kW (higher heating value) is targeted.</p>
+<p><a href="/wiki/Europe" title="Europe">European</a> demonstration project STORE&amp;GO.<br />
+The technological maturity of Power to Gas is evaluated in the European 27 partner project STORE&amp;GO, which has started in March 2016 with a runtime of four years <sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>. Three different technological concepts are demonstrated in three different European countries (<a href="/wiki/Falkenhagen" title="Falkenhagen">Falkenhagen</a>/<a href="/wiki/Germany" title="Germany">Germany</a>, <a href="/wiki/Solothurn" title="Solothurn">Solothurn</a>/<a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>, <a href="/wiki/Troia,_Apulia" title="Troia, Apulia">Troia</a>/<a href="/wiki/Italy" title="Italy">Italy</a>). The technologies involved include biological and chemical <a href="/wiki/Methanation" title="Methanation">methanation</a>, direct capture of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> from atmosphere, liquefaction of the synthesized methane to bio-<a href="/wiki/Liquefied_natural_gas" title="Liquefied natural gas">LNG</a>, and direct injection into the gas grid. The overall goal of the project is to assess those technologies and various usage paths under technical<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>, economic <sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>, and legal <sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> aspects to identify business cases on the short and on the long term. The project is co-funded by the <a href="/wiki/European_Union" title="European Union">European Union’s</a> <a href="/wiki/Framework_Programmes_for_Research_and_Technological_Development#Horizon_2020" title="Framework Programmes for Research and Technological Development">Horizon 2020</a> research and innovation programme (18 million euro) and the Swiss government (6 million euro), with another 4 million euro coming from participating industrial partners <sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup>. The coordinator of the overall project is the research center of the <a href="/wiki/Deutscher_Verein_des_Gas-_und_Wasserfaches" title="Deutscher Verein des Gas- und Wasserfaches">DVGW</a> <sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> located at the <a href="/wiki/Karlsruhe_Institute_of_Technology" title="Karlsruhe Institute of Technology">KIT</a>.</p>
+<h3><span class="mw-headline" id="Microbial_methanation">Microbial methanation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=7" title="Edit section: Microbial methanation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The biological methanation combines both processes, the <a href="/wiki/Electrolysis" title="Electrolysis">electrolysis</a> of water to form <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> and the subsequent CO<sub>2</sub> reduction to <a href="/wiki/Methane" title="Methane">methane</a> using this <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>. During this process, methane forming microorganisms (methanogenic <a href="/wiki/Archaea" title="Archaea">archaea</a> or <a href="/wiki/Methanogens" class="mw-redirect" title="Methanogens">methanogens</a>) release <a href="/wiki/Enzymes" class="mw-redirect" title="Enzymes">enzymes</a> that reduce the <a href="/wiki/Overpotential" title="Overpotential">overpotential</a> of a non-catalytic <a href="/wiki/Electrode" title="Electrode">electrode</a> (the <a href="/wiki/Cathode" title="Cathode">cathode</a>) so that it can produce <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup> This microbial power-to-gas reaction occurs at ambient conditions, i.e. room temperature and pH 7, at efficiencies that routinely reach 80-100%.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> However, methane is formed more slowly than in the Sabatier reaction due to the lower temperatures. A direct conversion of CO<sub>2</sub> to <a href="/wiki/Methane" title="Methane">methane</a> has also been postulated, circumventing the need for <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> production.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup> Microorganisms involved in the microbial power-to-gas reaction are typically members of the order <i><a href="/wiki/Methanobacteriales" title="Methanobacteriales">Methanobacteriales</a></i>. <a href="/wiki/Genus" title="Genus">Genera</a> that were shown to catalyze this reaction are <i><a href="/wiki/Methanobacterium" title="Methanobacterium">Methanobacterium</a></i>,<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup> <i><a href="/wiki/Methanobrevibacter" title="Methanobrevibacter">Methanobrevibacter</a></i>,<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup> and <i><a href="/wiki/Methanothermobacter" title="Methanothermobacter">Methanothermobacter</a></i> (<a href="/wiki/Thermophile" title="Thermophile">thermophile</a>).<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup></p>
+<h2><span class="mw-headline" id="Biogas-upgrading_to_biomethane">Biogas-upgrading to biomethane</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=8" title="Edit section: Biogas-upgrading to biomethane">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the third method the carbon dioxide in the output of a wood gas generator or a biogas plant after the biogas upgrader is mixed with the produced hydrogen from the electrolyzer to produce methane. The free heat coming from the electrolyzer is used to cut heating costs in the biogas plant. The impurities carbon dioxide, water, hydrogen sulfide, and particulates must be removed from the biogas if the gas is used for pipeline storage to prevent damage.</p>
+<p>2014-Avedøre wastewater Services in <a href="/wiki/Aved%C3%B8re" title="Avedøre">Avedøre</a>, <a href="/wiki/Kopenhagen" class="mw-redirect" title="Kopenhagen">Kopenhagen</a> (Denmark) is adding a 1 MW electrolyzer plant to upgrade the <a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">anaerobic digestion</a> biogas from sewage sludge.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup> The produced hydrogen is used with the carbon dioxide from the biogas in a Sabatier reaction to produce methane. Electrochaea<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup> is testing another project outside P2G BioCat with biocatalytic methanation. The company uses an adapted strain of the thermophilic methanogen Methanothermobacter thermautotrophicus and has demonstrated its technology at laboratory-scale in an industrial environment.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup> A pre-commercial demonstration project with a 10,000-liter reactor vessel was executed between January and November 2013 in <a href="/wiki/Foulum" title="Foulum">Foulum</a>, Denmark.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup></p>
+<p>In 2016 <a href="/w/index.php?title=Torrgas&amp;action=edit&amp;redlink=1" class="new" title="Torrgas (page does not exist)">Torrgas</a>, <a href="/wiki/Siemens" title="Siemens">Siemens</a>, <a href="/w/index.php?title=Stedin&amp;action=edit&amp;redlink=1" class="new" title="Stedin (page does not exist)">Stedin</a>, <a href="/wiki/Gasunie" title="Gasunie">Gasunie</a>, A.Hak, <a href="/wiki/Hanze_University_of_Applied_Sciences,_Groningen" class="mw-redirect" title="Hanze University of Applied Sciences, Groningen">Hanzehogeschool</a>/EnTranCe and Energy Valley intend to open a 12 MW Power to Gas facility in <a href="/wiki/Delfzijl" title="Delfzijl">Delfzijl</a> (The Netherlands) where biogas from Torrgas (<a href="/wiki/Torrefaction" title="Torrefaction">biocoal</a>) will be upgraded with hydrogen from electrolysis and delivered to nearby industrial consumers.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup></p>
+<h2><span class="mw-headline" id="Power_to_syngas">Power to syngas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=9" title="Edit section: Power to syngas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="metadata mbox-small" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td colspan="2" class="mbox-text">Power-to-syngas process</td>
+</tr>
+<tr>
+<td style="width:1px"></td>
+<td class="mbox-text plainlist">
+<table style="border-spacing: 0px;">
+<tr style="height:1px;text-align:center">
+<td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em;background:#66FF66;">Water</td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em;background:#66FF66;">CO<sub>2</sub></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:3px solid black;padding:0.2em;background:yellow;">Electrolysis of Water</td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em">Oxygen</td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em">Hydrogen</td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:3px solid black;padding:0.2em;background:yellow;">Conversion Reactor</td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em">Water</td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em">Hydrogen</td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em">CO</td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<ul>
+<li>1st step: Electrolysis of Water (<a href="/wiki/Solid_oxide_electrolyser_cell" title="Solid oxide electrolyser cell">SOEC</a>) −water is split into hydrogen and oxygen.</li>
+<li>2nd step: Conversion Reactor (<a href="/wiki/Water-gas_shift_reaction#Reverse_water-gas_shift" title="Water-gas shift reaction">RWGSR</a>) −hydrogen and carbon dioxide are inputs to the Conversion Reactor that outputs hydrogen, carbon monoxide, and water.</li>
+</ul>
+<div class="quotebox" style="float: left; clear: left; margin: 0.5em 1.4em 0.8em 0; width:640px; padding: 6px; border: 1px solid #aaa; font-size: 88%; background-color: #F9F9F9;">
+<div class="" style="position: relative; text-align: center;">
+<div>
+<p>3H<sub>2</sub> + CO<sub>2</sub> → (2H<sub>2</sub> + CO)<sup>syngas</sup> + H<sub>2</sub>O</p>
+</div>
+</div>
+</div>
+<div style="clear:left;"></div>
+<ul>
+<li><a href="/wiki/Syngas" title="Syngas">Syngas</a> is used to produce <a href="/wiki/Synfuel" class="mw-redirect" title="Synfuel">synfuels</a>.</li>
+</ul>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:642px;"><a href="/wiki/File:Indirect_conversion_synthetic_fuels_processes.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/81/Indirect_conversion_synthetic_fuels_processes.jpg/640px-Indirect_conversion_synthetic_fuels_processes.jpg" width="640" height="251" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/8/81/Indirect_conversion_synthetic_fuels_processes.jpg 1.5x" data-file-width="848" data-file-height="332" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Indirect_conversion_synthetic_fuels_processes.jpg" class="internal" title="Enlarge"></a></div>
+Power-to-syngas <a href="/wiki/Raw_material" title="Raw material">feedstock</a> is the same as feedstock derived from other sources.</div>
+</div>
+</div>
+<div style="clear:left;"></div>
+<h3><span class="mw-headline" id="Initiatives">Initiatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=10" title="Edit section: Initiatives">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Other initiatives to create syngas from carbon dioxide and water may use different <a href="/wiki/Water_splitting" title="Water splitting">water splitting</a> methods.</p>
+<ul>
+<li><a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">CSP</a>
+<ul>
+<li>2004 Sunshine-to-Petrol —<a href="/wiki/Sandia_National_Laboratories" title="Sandia National Laboratories">Sandia National Laboratories</a>.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup><sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup><sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup></li>
+<li>2013 NewCO2Fuels —New CO2 Fuels Ltd (<a href="/wiki/ISO_3166-2:IL" title="ISO 3166-2:IL">IL</a>) and <a href="/wiki/Weizmann_Institute_of_Science" title="Weizmann Institute of Science">Weizmann Institute of Science</a>.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup><sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup><sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup><sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup></li>
+<li>2014 Solar-Jet Fuels —Consortium partners <a href="/wiki/ETH_Zurich" title="ETH Zurich">ETH</a>, <a href="/wiki/Royal_Dutch_Shell" title="Royal Dutch Shell">SHELL</a>, <a href="/wiki/German_Aerospace_Center" title="German Aerospace Center">DLR</a>, Bauhaus Luftfahrt, ARTTIC.<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[65]</a></sup><sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[66]</a></sup><sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[67]</a></sup><sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[68]</a></sup><sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup><sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[70]</a></sup></li>
+</ul>
+</li>
+<li><a href="/wiki/High-temperature_electrolysis" title="High-temperature electrolysis">HTE</a> / <a href="/wiki/Alkaline_water_electrolysis" title="Alkaline water electrolysis">Alkaline water electrolysis</a>
+<ul>
+<li>2004 Syntrolysis Fuels —<a href="/wiki/Idaho_National_Laboratory" title="Idaho National Laboratory">Idaho National Laboratory</a> and <a href="/wiki/CoorsTek#Subsidiaries_and_Outlying_Operations" title="CoorsTek">Ceramatec, Inc.</a> (US).<sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[71]</a></sup><sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[72]</a></sup><sup id="cite_ref-73" class="reference"><a href="#cite_note-73">[73]</a></sup><sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[74]</a></sup><sup id="cite_ref-75" class="reference"><a href="#cite_note-75">[75]</a></sup><sup id="cite_ref-76" class="reference"><a href="#cite_note-76">[76]</a></sup></li>
+<li>2008 WindFuels —Doty Energy (US).<sup id="cite_ref-77" class="reference"><a href="#cite_note-77">[77]</a></sup><sup id="cite_ref-78" class="reference"><a href="#cite_note-78">[78]</a></sup></li>
+<li>2012 Air Fuel Synthesis —Air Fuel Synthesis Ltd (UK).<sup id="cite_ref-79" class="reference"><a href="#cite_note-79">[79]</a></sup><sup id="cite_ref-80" class="reference"><a href="#cite_note-80">[80]</a></sup><sup id="cite_ref-81" class="reference"><a href="#cite_note-81">[81]</a></sup><sup id="cite_ref-82" class="reference"><a href="#cite_note-82">[82]</a></sup><sup id="cite_ref-83" class="reference"><a href="#cite_note-83">[83]</a></sup></li>
+<li>2013 Green Feed —<a href="/wiki/Ben-Gurion_University_of_the_Negev" title="Ben-Gurion University of the Negev">BGU</a> and Israel Strategic Alternative Energy Foundation (I-SAEF).<sup id="cite_ref-84" class="reference"><a href="#cite_note-84">[84]</a></sup><sup id="cite_ref-85" class="reference"><a href="#cite_note-85">[85]</a></sup><sup id="cite_ref-86" class="reference"><a href="#cite_note-86">[86]</a></sup><sup id="cite_ref-87" class="reference"><a href="#cite_note-87">[87]</a></sup></li>
+<li>2014 <a href="/wiki/E-diesel" title="E-diesel">E-diesel</a> —Sunfire, a clean technology company and <a href="/wiki/Audi" title="Audi">Audi</a>.<sup id="cite_ref-88" class="reference"><a href="#cite_note-88">[88]</a></sup><sup id="cite_ref-89" class="reference"><a href="#cite_note-89">[89]</a></sup><sup id="cite_ref-90" class="reference"><a href="#cite_note-90">[90]</a></sup></li>
+</ul>
+</li>
+</ul>
+<p>The US Naval Research Laboratory (NRL) is designing a power-to-liquids system using the Fischer-Tropsch Process to create fuel on board a ship at sea,<sup id="cite_ref-91" class="reference"><a href="#cite_note-91">[91]</a></sup> with the base products carbon dioxide (CO<sub>2</sub>) and water (H<sub>2</sub>O) being derived from sea water via "An Electrochemical Module Configuration For The Continuous Acidification Of Alkaline Water Sources And Recovery Of CO<sub>2</sub> With Continuous Hydrogen Gas Production".<sup id="cite_ref-92" class="reference"><a href="#cite_note-92">[92]</a></sup><sup id="cite_ref-93" class="reference"><a href="#cite_note-93">[93]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid energy storage</a></li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/Particulates" title="Particulates">Particulates</a></li>
+<li><a href="/wiki/Power-to-X" title="Power-to-X">Power-to-X</a></li>
+<li><a href="/wiki/Timeline_of_hydrogen_technologies" title="Timeline of hydrogen technologies">Timeline of hydrogen technologies</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=12" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lbst.de/ressources/docs2014/mks-studie-ptg-transport-status-quo-and-perspectives-for-development.pdf">DLR-Power to gas in transport-Status quo and perspectives for development</a></span></li>
+<li id="cite_note-Eberle-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Eberle_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Eberle_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Eberle, Ulrich; Mueller, Bernd; von Helmolt, Rittmar. <a rel="nofollow" class="external text" href="http://www.researchgate.net/publication/233987484_Fuel_cell_electric_vehicles_and_hydrogen_infrastructure_status_2012?ev=prf_pub">"Fuel cell electric vehicles and hydrogen infrastructure: status 2012"</a>. <a href="/wiki/Energy_%26_Environmental_Science" class="mw-redirect" title="Energy &amp; Environmental Science">Energy &amp; Environmental Science</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-12-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.aufirst=Ulrich&amp;rft.aulast=Eberle&amp;rft.au=Mueller%2C+Bernd&amp;rft.au=von+Helmolt%2C+Rittmar&amp;rft.btitle=Fuel+cell+electric+vehicles+and+hydrogen+infrastructure%3A+status+2012&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.researchgate.net%2Fpublication%2F233987484_Fuel_cell_electric_vehicles_and_hydrogen_infrastructure_status_2012%3Fev%3Dprf_pub&amp;rft.pub=Energy+%26+Environmental+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nrel.gov/docs/fy13osti/51995.pdf">NREL 2013: Blending hydrogen into natural gas pipeline networks: A review of key issues</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.agora-energiewende.org/fileadmin/downloads/publikationen/Studien/Speicher_in_der_Energiewende/Agora_Speicherstudie_EN_web.pdf">Electricity storage in the German energy transition</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hi-tech-online.com/en/hitech-213/hifuture/windpower-to-hydrogen.html">"Wind power to hydrogen"</a>. <i>hi!tech</i>. <a href="/wiki/Siemens" title="Siemens">Siemens</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Wind+power+to+hydrogen&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hi-tech-online.com%2Fen%2Fhitech-213%2Fhifuture%2Fwindpower-to-hydrogen.html&amp;rft.jtitle=hi%21tech&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">NaturalHY Project. <a rel="nofollow" class="external text" href="http://issuu.com/exergia/docs/naturalhy_brochure?e=1774604/5468248">"Using the Existing Natural Gas System for Hydrogen"</a>. EXERGIA<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.au=NaturalHY+Project&amp;rft.btitle=Using+the+Existing+Natural+Gas+System+for+Hydrogen&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fissuu.com%2Fexergia%2Fdocs%2Fnaturalhy_brochure%3Fe%3D1774604%2F5468248&amp;rft.pub=EXERGIA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nrel.gov/docs/fy13osti/51995.pdf">NREL - Blending hydrogen into natural gas pipeline networks A review of key issues</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="/wiki/Volker_Quaschning" title="Volker Quaschning">Volker Quaschning</a>, <i>Regenerative Energiesysteme. Technologie - Berechnung - Simulation</i>, Hanser 2013, p 373.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jensen; et al. (2015). "Large-scale electricity storage utilizing reversible solid oxide cells combined with underground storage of CO2 and CH4". <i><a href="/wiki/Energy_and_Environmental_Science" title="Energy and Environmental Science">Energy and Environmental Science</a></i>. <b>8</b>: 2471–2479. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1039%2Fc5ee01485a">10.1039/c5ee01485a</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Large-scale+electricity+storage+utilizing+reversible+solid+oxide+cells+combined+with+underground+storage+of+CO2+and+CH4&amp;rft.au=Jensen&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1039%2Fc5ee01485a&amp;rft.jtitle=Energy+and+Environmental+Science&amp;rft.pages=2471-2479&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">(German) <a rel="nofollow" class="external text" href="http://www.greenpeace-energy.de/fileadmin/docs/sonstiges/Greenpeace_Energy_Gutachten_Windgas_Fraunhofer_Sterner.pdf">Fraunhofer -Energiewirtschaftliche und ökologische Bewertung eines Windgas-Angebotes</a>, p. 18</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.di-verlag.de/media/content/GFE/issue_2_14/gfe2_14_fb_Grond.pdf?xaf26a=dbd42d30845f7a82752d5e8bc6b751a6">Power-to-gas: Climbing the technology readiness ladder</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.itm-power.com/news-item/first-sale-of-power-to-gas-plant-in-germany/">http://www.itm-power.com/news-item/first-sale-of-power-to-gas-plant-in-germany/</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuelcelltoday.com/news-events/news-archive/2013/july/ground-broken-at-itm-power-power-to-gas-pilot-plant-in-frankfurt">Ground broken at ITM Power power-to-gas pilot plant in Frankfurt</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.itm-power.com/news-item/injection-of-hydrogen-into-the-german-gas-distribution-grid/">http://www.itm-power.com/news-item/injection-of-hydrogen-into-the-german-gas-distribution-grid/</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.eon.com/en/media/news/press-releases/2013/8/28/eon-inaugurates-power-to-gas-unit-in-falkenhagen-in-eastern-germany.html">http://www.eon.com/en/media/news/press-releases/2013/8/28/eon-inaugurates-power-to-gas-unit-in-falkenhagen-in-eastern-germany.html</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/business/hydrogenics-and-enbridge-to-develop-utility-scale-energy-storage-1.1286432">Hydrogenics and Enbridge to develop utility-scale energy storage</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://renewables.seenews.com/news/e-on-hanse-starts-construction-of-power-to-gas-facility-in-hamburg-361477">E.on Hanse starts construction of power-to-gas facility in Hamburg</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eon.com/en/media/news/press-releases/2014/9/1/eon-power-to-gas-pilot-unit-falkenhagen.html">E.ON power-to-gas pilot unit in Falkenhagen first year of operation</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.renewableenergyfocus.com/view/35124/german-wind-park-with-1-mw-hydrogenics-electrolyser-for-power-to-gas-energy-storage/">German wind park with 1 MW Hydrogenics electrolyser for power-to-gas energy storage</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rh2-wka.de/">RH2-WKA</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://danieldonatelli.wix.com/hydrogen-generator">[1]</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuelcelltoday.com/news-events/news-archive/2012/july/ingrid-project-to-launch-12-mw-electrolyser-with-1-ton-of-storage-for-smart-grid-balancing-in-italy">INGRID Project to Launch 1.2 MW Electrolyser with 1 Ton of Storage for Smart Grid Balancing in Italy</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hydrogenics.com/docs/default-source/pdf/renewable-projects-references---grid-balancing-and-ptg.pdf?sfvrsn=0">Grid balancing, Power to Gas (PtG)</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thewindpower.net/windfarm_en_6309_prenzlau.php">Prenzlau Windpark (Germany)</a></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.energiepark-mainz.de/">Energiepark Mainz</a></span></li>
+<li id="cite_note-Nature41013-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Nature41013_26-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Schiermeier, Quirin (April 10, 2013). <a rel="nofollow" class="external text" href="http://www.nature.com/news/renewable-power-germany-s-energy-gamble-1.12755">"Renewable power: Germany's energy gamble: An ambitious plan to slash greenhouse-gas emissions must clear some high technical and economic hurdles."</a>. <i>Nature</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Renewable+power%3A+Germany%99s+energy+gamble%3A+An+ambitious+plan+to+slash+greenhouse-gas+emissions+must+clear+some+high+technical+and+economic+hurdles.&amp;rft.aufirst=Quirin&amp;rft.aulast=Schiermeier&amp;rft.date=2013-04-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnews%2Frenewable-power-germany-s-energy-gamble-1.12755&amp;rft.jtitle=Nature&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.energie-und-wende.de/no_cache/service/presse/presseinformationen/presseinformationen-detail/article/pressemitteilung-41.html">[2]</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dnv.com/binaries/DNV%20KEMA%20(2013)%20-%20Systems%20Analyses%20Power%20to%20Gas%20-%20Technology%20Review_tcm4-567461.pdf">DNV-Kema Systems analyses power to gas</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.zsw-bw.de/infoportal/presseinformationen/presse-detail/weltweit-groesste-power-to-gas-anlage-zur-methan-erzeugung-geht-in-betrieb.html">http://www.zsw-bw.de/infoportal/presseinformationen/presse-detail/weltweit-groesste-power-to-gas-anlage-zur-methan-erzeugung-geht-in-betrieb.html</a></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.audi.com/content/com/brand/en/vorsprung_durch_technik/content/2013/10/energy-turnaround-in-the-tank.html">http://www.audi.com/content/com/brand/en/vorsprung_durch_technik/content/2013/10/energy-turnaround-in-the-tank.html</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.audi.com/corporate/en/corporate-responsibility/we-live-responsibility/product/audi-e-gas-new-fuel.html">http://www.audi.com/corporate/en/corporate-responsibility/we-live-responsibility/product/audi-e-gas-new-fuel.html</a></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://vbt.ebi.kit.edu/index.pl/en/proj_steckb/HELMETH">"Engler-Bunte-Institute Division of Combustion Technology - Project HELMETH"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.btitle=Engler-Bunte-Institute+Division+of+Combustion+Technology+-+Project+HELMETH&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fvbt.ebi.kit.edu%2Findex.pl%2Fen%2Fproj_steckb%2FHELMETH&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.helmeth.eu/">"Project homepage - HELMETH"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.btitle=Project+homepage+-+HELMETH&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.helmeth.eu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kit.edu/kit/english/pi_2014_14950.php">"Karlsruhe Institute of Technology - Press Release 044/2014"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.btitle=Karlsruhe+Institute+of+Technology+-+Press+Release+044%2F2014&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.kit.edu%2Fkit%2Fenglish%2Fpi_2014_14950.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dvgw.de/en/english-pages/dvgw/news-details/meldung/21697/liste/29071/link//9fdb2cfb8c7bd1d3c7811603a2bcd6d3/">"Deutscher Verein des Gas und Wasserfaches e.V.: Press release - Project Store&amp;Go"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.btitle=Deutscher+Verein+des+Gas+und+Wasserfaches+e.V.%3A+Press+release+-+Project+Store%26Go&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dvgw.de%2Fen%2Fenglish-pages%2Fdvgw%2Fnews-details%2Fmeldung%2F21697%2Fliste%2F29071%2Flink%2F%2F9fdb2cfb8c7bd1d3c7811603a2bcd6d3%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wattdor4all.ch/projects/storego-erdgasnetz-als-riesen-batterie/">"Watt d'Or 4 all: „Store&amp;Go" – Erdgasnetz als Riesen-Batterie"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.btitle=Watt+d%99Or+4+all%3A+%9EStore%26Go%9C+%93+Erdgasnetz+als+Riesen-Batterie&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wattdor4all.ch%2Fprojects%2Fstorego-erdgasnetz-als-riesen-batterie%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.energieinstitut-linz.at/v2/portfolio-item/store-and-go/">"Store&amp;Go, Innovative large-scale energy STORagE technologies AND Power-to-Gas concepts after Optimisation"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.btitle=Store%26Go%2C+Innovative+large-scale+energy+STORagE+technologies+AND+Power-to-Gas+concepts+after+Optimisation&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energieinstitut-linz.at%2Fv2%2Fportfolio-item%2Fstore-and-go%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rug.nl/rechten/recht-en-samenleving/projecten/het-juridische-effect-van-innovatieve-energieconversie-en-_opslag">"Het juridische effect van innovatieve energieconversie en –opslag"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.btitle=Het+juridische+effect+van+innovatieve+energieconversie+en+%93opslag&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rug.nl%2Frechten%2Frecht-en-samenleving%2Fprojecten%2Fhet-juridische-effect-van-innovatieve-energieconversie-en-_opslag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.storeandgo.info/">"Project homepage - STORE&amp;GO"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.btitle=Project+homepage+-+STORE%26GO&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.storeandgo.info%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dvgw-ebi.de/download/Press_Release_Store-Go-Kick-Off_16-03-16.pdf">"Deutscher Verein des Gas und Wasserfaches e.V.: Press release - Innovative 28 million E project STORE&amp;GO started to show large scale energy storage by Power-to-Gas is already possible today"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.btitle=Deutscher+Verein+des+Gas+und+Wasserfaches+e.V.%3A+Press+release+-+Innovative+28+million+E+project+STORE%26GO+started+to+show+large+scale+energy+storage+by+Power-to-Gas+is+already+possible+today&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dvgw-ebi.de%2Fdownload%2FPress_Release_Store-Go-Kick-Off_16-03-16.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://mbio.asm.org/content/6/2/e00496-15.abstract">"Deutzmann, J. S.; Sahin, M.; Spormann, A. M., Extracellular enzymes facilitate electron uptake in biocorrosion and bioelectrosynthesis. mBio 2015, 6, (2)."</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Deutzmann%2C+J.+S.%3B+Sahin%2C+M.%3B+Spormann%2C+A.+M.%2C+Extracellular+enzymes+facilitate+electron+uptake+in+biocorrosion+and+bioelectrosynthesis.+mBio+2015%2C+6%2C+%282%29.&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmbio.asm.org%2Fcontent%2F6%2F2%2Fe00496-15.abstract&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0360319914022733">"Hydrogen evolution catalyzed by viable and non-viable cells on biocathodes"</a>. <i>International Journal of Hydrogen Energy</i>. <b>39</b>: 16841–16851. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.ijhydene.2014.08.015">10.1016/j.ijhydene.2014.08.015</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Hydrogen+evolution+catalyzed+by+viable+and+non-viable+cells+on+biocathodes&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0360319914022733&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ijhydene.2014.08.015&amp;rft.jtitle=International+Journal+of+Hydrogen+Energy&amp;rft.pages=16841-16851&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=39" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://aem.asm.org/content/78/23/8412.abstract">"Electrosynthesis of commodity chemicals by an autotrophic microbial community."</a>. <i>Appl. Environ. Microbiol</i>. <b>78</b> (23): 8412–8420. 2012. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1128%2Faem.02401-12">10.1128/aem.02401-12</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Electrosynthesis+of+commodity+chemicals+by+an+autotrophic+microbial+community.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Faem.asm.org%2Fcontent%2F78%2F23%2F8412.abstract&amp;rft_id=info%3Adoi%2F10.1128%2Faem.02401-12&amp;rft.issue=23&amp;rft.jtitle=Appl.+Environ.+Microbiol.&amp;rft.pages=8412-8420.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=78" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Comparison of Nonprecious Metal Cathode Materials for Methane Production by Electromethanogenesis". <i>ACS Sustainable Chemistry &amp; Engineering</i>. <b>2</b>: 910–917. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fsc400520x">10.1021/sc400520x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Comparison+of+Nonprecious+Metal+Cathode+Materials+for+Methane+Production+by+Electromethanogenesis&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fsc400520x&amp;rft.jtitle=ACS+Sustainable+Chemistry+%26+Engineering&amp;rft.pages=910-917&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Direct biological conversion of electric current into methane by electromethanogenesis.". <i>Environmental Science</i>. <b>43</b>: 3953–3958. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fes803531g">10.1021/es803531g</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Direct+biological+conversion+of+electric+current+into+methane+by+electromethanogenesis.&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fes803531g&amp;rft.jtitle=Environmental+Science&amp;rft.pages=3953-3958&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=43" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation journal">Beese-Vasbender, Pascal F.; Grote, Jan-Philipp; Garrelfs, Julia; Stratmann, Martin; Mayrhofer, Karl J.J. (2015). "Selective microbial electrosynthesis of methane by a pure culture of a marine lithoautotrophic archaeon.". <i>Bioelectrochemistry</i>. <b>102</b>: 50. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.bioelechem.2014.11.004">10.1016/j.bioelechem.2014.11.004</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Selective+microbial+electrosynthesis+of+methane+by+a+pure+culture+of+a+marine+lithoautotrophic+archaeon.&amp;rft.aufirst=Pascal+F.&amp;rft.au=Garrelfs%2C+Julia&amp;rft.au=Grote%2C+Jan-Philipp&amp;rft.aulast=Beese-Vasbender&amp;rft.au=Mayrhofer%2C+Karl+J.J.&amp;rft.au=Stratmann%2C+Martin&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.bioelechem.2014.11.004&amp;rft.jtitle=Bioelectrochemistry&amp;rft.pages=50&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=102" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation journal">Siegert, Michael; Yates, Matthew D.; Spormann, Alfred M.; Logan, Bruce E. "Methanobacterium <i>dominates biocathodic archaeal communities in methanogenic microbial electrolysis cells.</i>". <i><a href="/w/index.php?title=ACS_Sustainable_Chemistry_%26_Engineering&amp;action=edit&amp;redlink=1" class="new" title="ACS Sustainable Chemistry &amp; Engineering (page does not exist)">ACS Sustainable Chemistry &amp; Engineering</a></i>. <b>3</b> (7): 1668. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Facssuschemeng.5b00367">10.1021/acssuschemeng.5b00367</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Methanobacterium+dominates+biocathodic+archaeal+communities+in+methanogenic+microbial+electrolysis+cells.&amp;rft.aufirst=Michael&amp;rft.aulast=Siegert&amp;rft.au=Logan%2C+Bruce+E.&amp;rft.au=Spormann%2C+Alfred+M.&amp;rft.au=Yates%2C+Matthew+D.&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Facssuschemeng.5b00367&amp;rft.issue=7&amp;rft.jtitle=ACS+Sustainable+Chemistry+%26+Engineering&amp;rft.pages=1668&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation journal">Siegert, Michael; Li, Xiu-Fen; Yates, Matthew D.; Logan, Bruce E. "<i>The presence of hydrogenotrophic methanogens in the inoculum improves methane gas production in microbial electrolysis cells.</i>". <i>Frontiers in Microbiology</i>. <b>5</b>: 2015. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3389%2Ffmicb.2014.00778">10.3389/fmicb.2014.00778</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=The+presence+of+hydrogenotrophic+methanogens+in+the+inoculum+improves+methane+gas+production+in+microbial+electrolysis+cells.&amp;rft.aufirst=Michael&amp;rft.aulast=Siegert&amp;rft.au=Li%2C+Xiu-Fen&amp;rft.au=Logan%2C+Bruce+E.&amp;rft.au=Yates%2C+Matthew+D.&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.3389%2Ffmicb.2014.00778&amp;rft.jtitle=Frontiers+in+Microbiology&amp;rft.pages=2015&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sato, Kozo; Kawaguchi, Hideo; Kobayashi, Hajime (2013). "Bio-electrochemical conversion of carbon dioxide to methane in geological storage reservoirs.". <i>Energy Conversion and Management</i>. <b>66</b>: 343. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.enconman.2012.12.008">10.1016/j.enconman.2012.12.008</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Bio-electrochemical+conversion+of+carbon+dioxide+to+methane+in+geological+storage+reservoirs.&amp;rft.aufirst=Kozo&amp;rft.au=Kawaguchi%2C+Hideo&amp;rft.au=Kobayashi%2C+Hajime&amp;rft.aulast=Sato&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.enconman.2012.12.008&amp;rft.jtitle=Energy+Conversion+and+Management&amp;rft.pages=343&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=66" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://energinet.dk/EN/FORSKNING/Nyheder/Sider/Overskydende-vindkraft-bliver-til-groen-gas-i-Avedoere.aspx">Excess wind power is turned into green gas in Avedøre</a></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.electrochaea.com">Electrochaea</a></span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.hindawi.com/journals/archaea/2013/157529/">http://www.hindawi.com/journals/archaea/2013/157529/</a></span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.electrochaea.com/technology.html">http://www.electrochaea.com/technology.html</a></span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nvnom.com/homepage/power-gas-plant-delfzijl/">Power-to-Gas plant for Delfzijl</a></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://energy.sandia.gov/energy/renewable-energy/solar-energy/sunshine-to-petrol/">"Sunshine to Petrol"</a>. <i>Sandia National Laboratories</i>. United States Department of Energy (DOE)<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Sunshine+to+Petrol&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fenergy.sandia.gov%2Fenergy%2Frenewable-energy%2Fsolar-energy%2Fsunshine-to-petrol%2F&amp;rft.jtitle=Sandia+National+Laboratories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://energy.sandia.gov/wp-content/gallery/uploads/S2P_SAND2009-5796P.pdf">SNL: Sunshine to Petrol - Solar Recycling of Carbon Dioxide into Hydrocarbon Fuels</a></span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.fbo.gov/index?s=opportunity&amp;mode=form&amp;id=698e254d2c8fea2fc478add76d2aac1c&amp;tab=core&amp;_cview=0">"Sandia and Sunshine-to-Petrol™: Renewable Drop-in Transportation Fuels"</a>. <i>Federal Business Opportunities</i>. U.S. Federal Government. Oct 29, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Sandia+and+Sunshine-to-Petrol%84%A2%3A+Renewable+Drop-in+Transportation+Fuels&amp;rft.date=2013-10-29&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.fbo.gov%2Findex%3Fs%3Dopportunity%26mode%3Dform%26id%3D698e254d2c8fea2fc478add76d2aac1c%26tab%3Dcore%26_cview%3D0&amp;rft.jtitle=Federal+Business+Opportunities&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><cite class="citation web">Biello, David (September 23, 2010). <a rel="nofollow" class="external text" href="http://www.scientificamerican.com/article/turning-carbon-dioxide-back-into-fuel/">"Reverse Combustion: Can CO2 Be Turned Back into Fuel?"</a>. <i>Scientific American - Energy &amp; Sustainability</i>. Scientific American, a Division of Nature America, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">17 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Reverse+Combustion%3A+Can+CO2+Be+Turned+Back+into+Fuel%3F&amp;rft.aufirst=David&amp;rft.aulast=Biello&amp;rft.date=2010-09-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scientificamerican.com%2Farticle%2Fturning-carbon-dioxide-back-into-fuel%2F&amp;rft.jtitle=Scientific+American+-+Energy+%26+Sustainability&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><cite class="citation web">Lavelle, Marianne (August 11, 2011). <a rel="nofollow" class="external text" href="http://news.nationalgeographic.com/news/energy/2011/08/110811-turning-carbon-emissions-into-fuel/">"Carbon Recycling: Mining the Air for Fuel"</a>. <i>National Geographic - News</i>. National Geographic Society<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Carbon+Recycling%3A+Mining+the+Air+for+Fuel&amp;rft.aufirst=Marianne&amp;rft.aulast=Lavelle&amp;rft.date=2011-08-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.nationalgeographic.com%2Fnews%2Fenergy%2F2011%2F08%2F110811-turning-carbon-emissions-into-fuel%2F&amp;rft.jtitle=National+Geographic+-+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text">Onur Taylan and Halil Berberoglu (2013). Fuel Production Using Concentrated Solar Energy, Application of Solar Energy, Prof. Radu Rugescu (Ed.), <a href="/wiki/Special:BookSources/9789535109693" class="internal mw-magiclink-isbn">ISBN 978-953-51-0969-3</a>, InTech, DOI: 10.5772/54057. Available from: <a rel="nofollow" class="external text" href="http://www.intechopen.com/books/application-of-solar-energy/fuel-production-using-concentrated-solar-energy">Intechopen.com</a></span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.weizmann.org.uk/2012/12/18/bright-way-to-convert-greenhouse-gas-to-biofuel/">"Bright Way to Convert Greenhouse Gas to Biofuel"</a>. <i>Weizmann UK</i>. Weizmann UK. Registered Charity No. 232666. 18 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Bright+Way+to+Convert+Greenhouse+Gas+to+Biofuel&amp;rft.date=2012-12-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fweb.weizmann.org.uk%2F2012%2F12%2F18%2Fbright-way-to-convert-greenhouse-gas-to-biofuel%2F&amp;rft.jtitle=Weizmann+UK&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.newco2fuels.co.il/technology/1/process">"CO2 and H2O Dissociation Process"</a>. <i>NCF - Technology Process</i>. New CO2 Fuels Ltd<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=CO2+and+H2O+Dissociation+Process&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.newco2fuels.co.il%2Ftechnology%2F1%2Fprocess&amp;rft.jtitle=NCF+-+Technology+Process&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.newco2fuels.co.il/files/files/NCF%20Newsletter%20Issue01%20Sept%202012.pdf">Newsletter NewCO2Fuels, Issue 1, September 2012</a></span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.asx.com.au/asxpdf/20130411/pdf/42f6524n3tpxs3.pdf">From challenge to opportunity New <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span> Fuels: An Introduction...</a></span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.solar-jet.aero/page/about-solar-jet/objectives.php">"SOLAR-JET Project"</a>. <i>SOLAR-JET</i>. SOLAR-JET Project Office: ARTTIC<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=SOLAR-JET+Project&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solar-jet.aero%2Fpage%2Fabout-solar-jet%2Fobjectives.php&amp;rft.jtitle=SOLAR-JET&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ethz.ch/en/news-and-events/eth-news/news/2014/04/sunlight-to-jet-fuel.html">"Sunlight to jet fuel"</a>. <i>The ETH Zurich</i>. Eidgenössische Technische Hochschule Zürich<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Sunlight+to+jet+fuel&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.ethz.ch%2Fen%2Fnews-and-events%2Feth-news%2Fnews%2F2014%2F04%2Fsunlight-to-jet-fuel.html&amp;rft.jtitle=The+ETH+Zurich&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text"><cite class="citation web">Alexander, Meg (May 1, 2014). <a rel="nofollow" class="external text" href="http://www.gizmag.com/sunlight-carbon-dioxide-jet-fuel/31872/">"<span style="padding-left:0.2em;">"</span>Solar" jet fuel created from water and carbon dioxide"</a>. <i>Gizmag</i>. Gizmag<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=%22Solar%22+jet+fuel+created+from+water+and+carbon+dioxide&amp;rft.aufirst=Meg&amp;rft.aulast=Alexander&amp;rft.date=2014-05-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gizmag.com%2Fsunlight-carbon-dioxide-jet-fuel%2F31872%2F&amp;rft.jtitle=Gizmag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.greencarcongress.com/2015/04/20150428-solarjet.html">"SOLARJET demonstrates full process for thermochemical production of renewable jet fuel from H2O &amp; CO2"</a>. <i>Green Car Congress</i>. BioAge Group, LLC. 28 April 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=SOLARJET+demonstrates+full+process+for+thermochemical+production+of+renewable+jet+fuel+from+H2O+%26+CO2&amp;rft.date=2015-04-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.greencarcongress.com%2F2015%2F04%2F20150428-solarjet.html&amp;rft.jtitle=Green+Car+Congress&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://b60099084-dev-blakely-dot-google-solveforx.appspot.com/moonshots/aldo-steinfeld-solar-syngas">"Aldo Steinfeld - Solar Syngas"</a>. <i>Solve For &lt;X&gt;</i>. Google Inc.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Aldo+Steinfeld+-+Solar+Syngas&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fb60099084-dev-blakely-dot-google-solveforx.appspot.com%2Fmoonshots%2Faldo-steinfeld-solar-syngas&amp;rft.jtitle=Solve+For+%3CX%3E&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.psi.ch/lst/BooksEN/MRS_Bulletin_-_Energy_Quarterly,_Vol_38,_2013.pdf">Brewing fuels in a solar furnace</a></span></li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-71">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www4vip.inl.gov/factsheets/docs/syntrolysis.pdf">Syntrolysis, Synthetic Fuels from Carbon Dioxide, Electricity and Steam</a></span></li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thoughtware.tv/test/show/2274">"Synthetic Fuel (syntrolysis)"</a>. <i>Thoughtware.TV</i>. Thoughtware.TV. June 17, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">20 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Synthetic+Fuel+%28syntrolysis%29&amp;rft.date=2008-06-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thoughtware.tv%2Ftest%2Fshow%2F2274&amp;rft.jtitle=Thoughtware.TV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-73">^</a></b></span> <span class="reference-text"><cite class="citation journal">STOOTS C M; O’BRIEN J E; HARTVIGSEN J (January 1, 2007). <a rel="nofollow" class="external text" href="http://www5vip.inl.gov/technicalpublications/Documents/3867730.pdf">"Carbon neutral production of syngas <i>via</i> high temperature electrolytic reduction of steam and <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span>"</a> <span style="font-size:85%;">(PDF)</span>. <i>ASME 2007 International Mechanical Engineering Congress and Exposition</i>. ASME. 15: Sustainable Products and Processes: 185–194. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1115%2FIMECE2007-43667">10.1115/IMECE2007-43667</a>. <q><a rel="nofollow" class="external text" href="http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1601044">STOOTS C M, O’BRIEN J E, HARTVIGSEN J. Carbon neutral production of syngas <i>via</i> high temperature electrolytic reduction of steam and <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span> [C] //2007 ASME International Mechanical Engineering Congress and Exposition, Seattle, Washington, USA, 2007: 185-194.</a></q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Carbon+neutral+production+of+syngas+via+high+temperature+electrolytic+reduction+of+steam+and+%3Cspan+class%3D%22chemf+nowrap%22%3ECO%3Cspan+style%3D%22display%3Ainline-block%3Bmargin-bottom%3A-0.3em%3Bvertical-align%3A-0.4em%3Bline-height%3A1em%3Bfont-size%3A80%25%3Btext-align%3Aleft%22%3E%3Cbr+%2F%3E2%3C%2Fspan%3E%3C%2Fspan%3E&amp;rft.au=HARTVIGSEN+J&amp;rft.au=O%99BRIEN+J+E&amp;rft.au=STOOTS+C+M&amp;rft.date=2007-01-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww5vip.inl.gov%2Ftechnicalpublications%2FDocuments%2F3867730.pdf&amp;rft_id=info%3Adoi%2F10.1115%2FIMECE2007-43667&amp;rft.jtitle=ASME+2007+International+Mechanical+Engineering+Congress+and+Exposition&amp;rft.pages=185-194.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15%3A+Sustainable+Products+and+Processes" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-74">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hydrogen.energy.gov/pdfs/review04/3_nhi_overview_henderson.pdf">Nuclear Hydrogen Initiative Overview</a></span></li>
+<li id="cite_note-75"><span class="mw-cite-backlink"><b><a href="#cite_ref-75">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.iaea.org/About/Policy/GC/GC57/GC57InfDocuments/English/gc57inf-2-att1_en.pdf">Nuclear Hydrogen Production Technology</a></span></li>
+<li id="cite_note-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-76">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.topsoe.com/sites/default/files/topsoe_scot_electrolysis_synthetic_fuel_production.pdf">Electrolysis For Synthetic Fuel Production</a></span></li>
+<li id="cite_note-77"><span class="mw-cite-backlink"><b><a href="#cite_ref-77">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dotyenergy.com/Introduction/primer.htm">"The WindFuels™ Primer - Basic Explanation for the Non-scientist"</a>. <i>Doty Energy</i>. Doty Energy<span class="reference-accessdate">. Retrieved <span class="nowrap">16 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=The+WindFuels%84%A2+Primer+-+Basic+Explanation+for+the+Non-scientist&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdotyenergy.com%2FIntroduction%2Fprimer.htm&amp;rft.jtitle=Doty+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-78"><span class="mw-cite-backlink"><b><a href="#cite_ref-78">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dotyenergy.com/PDFs/Doty-WindFuels-WP.pdf">Securing Our Energy Future by Efficiently Recycling CO<sub>2</sub> into Transportation Fuels</a></span></li>
+<li id="cite_note-79"><span class="mw-cite-backlink"><b><a href="#cite_ref-79">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.airfuelsynthesis.com/technology/technical-review.html">"The AFS Process - turning air into a sustainable fuel"</a>. <i>Air Fuel Synthesis - Technical Review</i>. Air Fuel Synthesis Limited<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=The+AFS+Process+-+turning+air+into+a+sustainable+fuel&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.airfuelsynthesis.com%2Ftechnology%2Ftechnical-review.html&amp;rft.jtitle=Air+Fuel+Synthesis+-+Technical+Review&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-80"><span class="mw-cite-backlink"><b><a href="#cite_ref-80">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.airfuelsynthesis.com/images/stories/pdfs/demonstrator%20unit.pdf">Case Study: AFS demonstrator unit</a></span></li>
+<li id="cite_note-81"><span class="mw-cite-backlink"><b><a href="#cite_ref-81">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.planetforward.org/tv-segments/cars-fueled-by-air">"Cars Fueled by Air?"</a>. <i>PlanetForward.org</i>. Planet Forward<span class="reference-accessdate">. Retrieved <span class="nowrap">20 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Cars+Fueled+by+Air%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.planetforward.org%2Ftv-segments%2Fcars-fueled-by-air&amp;rft.jtitle=PlanetForward.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-82"><span class="mw-cite-backlink"><b><a href="#cite_ref-82">^</a></b></span> <span class="reference-text"><cite class="citation web">Rapier, Robert (October 31, 2012). <a rel="nofollow" class="external text" href="http://www.investingdaily.com/15833/investors-beware-of-fuel-from-thin-air/">"Investors Beware of Fuel from Thin Air"</a>. <i>Investing Daily</i>. Investing Daily, a division of Capitol Information Group, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">17 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Investors+Beware+of+Fuel+from+Thin+Air&amp;rft.aufirst=Robert&amp;rft.aulast=Rapier&amp;rft.date=2012-10-31&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.investingdaily.com%2F15833%2Finvestors-beware-of-fuel-from-thin-air%2F&amp;rft.jtitle=Investing+Daily&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-83"><span class="mw-cite-backlink"><b><a href="#cite_ref-83">^</a></b></span> <span class="reference-text">K.R. WILLIAMS AND N. VAN LOOKEREN CAMPAGNE, <a rel="nofollow" class="external text" href="https://web.anl.gov/PCS/acsfuel/preprint%20archive/Files/16_4_BOSTON_04-72_0017.pdf">SYNTHETIC FUELS FROM ATMOSPHERIC CARBON DIOXIDE</a></span></li>
+<li id="cite_note-84"><span class="mw-cite-backlink"><b><a href="#cite_ref-84">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://in.bgu.ac.il/en/Pages/news/oil_greenalternative.aspx">"BGU Researchers invent Green Alternative to Crude Oil"</a>. <i>Ben-Gurion University of the Negev</i>. Ben-Gurion University of the Negev. 13 November 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">17 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=BGU+Researchers+invent+Green+Alternative+to+Crude+Oil&amp;rft.date=2013-11-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fin.bgu.ac.il%2Fen%2FPages%2Fnews%2Foil_greenalternative.aspx&amp;rft.jtitle=Ben-Gurion+University+of+the+Negev&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-85"><span class="mw-cite-backlink"><b><a href="#cite_ref-85">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.i-saef.org/early-success.html">"Recent Success Story: Converting carbon dioxide, a damaging greenhouse gas, into fuel that may be used for transportation"</a>. <i>I-SAEF</i>. Israel Strategic Alternative Energy Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Recent+Success+Story%3A+Converting+carbon+dioxide%2C+a+damaging+greenhouse+gas%2C++into+fuel+that+may+be+used+for+transportation&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.i-saef.org%2Fearly-success.html&amp;rft.jtitle=I-SAEF&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-86"><span class="mw-cite-backlink"><b><a href="#cite_ref-86">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bgustudyabroad.org/media-center/news-releases/bgu-crude-oil.html">"BGU Researchers Develop New Type of Crude Oil Using Carbon Dioxide and Hydrogen"</a>. <i>American Associates (Ben-Gurion University of the Negev)</i>. American Associates (AABGU)<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=BGU+Researchers+Develop+New+Type+of+Crude+Oil+Using+Carbon+Dioxide+and+Hydrogen&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bgustudyabroad.org%2Fmedia-center%2Fnews-releases%2Fbgu-crude-oil.html&amp;rft.jtitle=American+Associates+%28Ben-Gurion+University+of+the+Negev%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-87"><span class="mw-cite-backlink"><b><a href="#cite_ref-87">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.greencarcongress.com/2013/11/20131121-bgu.html">"BGU researchers developing more efficient process for hydrogenation of CO2 to synthetic crude"</a>. <i>Green Car Congress</i>. BioAge Group, LLC. 21 November 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=BGU+researchers+developing+more+efficient+process+for+hydrogenation+of+CO2+to+synthetic+crude&amp;rft.date=2013-11-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.greencarcongress.com%2F2013%2F11%2F20131121-bgu.html&amp;rft.jtitle=Green+Car+Congress&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-88"><span class="mw-cite-backlink"><b><a href="#cite_ref-88">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.audi-mediaservices.com/publish/ms/content/en/public/pressemitteilungen/2015/04/21/fuel_of_the_future.html">"Fuel of the future: Research facility in Dresden produces first batch of Audi e-diesel"</a>. <i>Audi MediaServices - Press release</i>. Ingolstadt/Berlin: AUDI AG. 2015-04-21<span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Fuel+of+the+future%3A+Research+facility+in+Dresden+produces+first+batch+of+Audi+e-diesel&amp;rft.date=2015-04-21&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.audi-mediaservices.com%2Fpublish%2Fms%2Fcontent%2Fen%2Fpublic%2Fpressemitteilungen%2F2015%2F04%2F21%2Ffuel_of_the_future.html&amp;rft.jtitle=Audi+MediaServices+-+Press+release&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-89"><span class="mw-cite-backlink"><b><a href="#cite_ref-89">^</a></b></span> <span class="reference-text"><cite class="citation web">Rapier, Robert. <a rel="nofollow" class="external text" href="http://www.energytrendsinsider.com/2015/04/30/is-audis-carbon-neutral-diesel-a-game-changer/">"Is Audi's Carbon-Neutral Diesel a Game-Changer?"</a>. <i>Energy Trends Insider</i>. Energy Trends Insider<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Is+Audi%99s+Carbon-Neutral+Diesel+a+Game-Changer%3F&amp;rft.aufirst=Robert&amp;rft.aulast=Rapier&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energytrendsinsider.com%2F2015%2F04%2F30%2Fis-audis-carbon-neutral-diesel-a-game-changer%2F&amp;rft.jtitle=Energy+Trends+Insider&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-90"><span class="mw-cite-backlink"><b><a href="#cite_ref-90">^</a></b></span> <span class="reference-text"><cite class="citation web">Novella, Steven (28 April 2015). <a rel="nofollow" class="external text" href="http://theness.com/neurologicablog/index.php/audis-e-diesel/">"Apr 28 2015 Audi's E-Diesel"</a>. <i>The NeuroLogicaBlog - Technology</i>. Steven Novella, MD<span class="reference-accessdate">. Retrieved <span class="nowrap">24 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Apr+28+2015+Audi%99s+E-Diesel&amp;rft.aufirst=Steven&amp;rft.aulast=Novella&amp;rft.date=2015-04-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftheness.com%2Fneurologicablog%2Findex.php%2Faudis-e-diesel%2F&amp;rft.jtitle=The+NeuroLogicaBlog+-+Technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-91"><span class="mw-cite-backlink"><b><a href="#cite_ref-91">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.altenergy.org/new_energy/seawater-into-jet-fuel.html">"How the United States Navy Plans to Turn Seawater into Jet Fuel"</a>. <i>Alternative Energy</i>. altenergy.org<span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=How+the+United+States+Navy+Plans+to+Turn+Seawater+into+Jet+Fuel&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.altenergy.org%2Fnew_energy%2Fseawater-into-jet-fuel.html&amp;rft.jtitle=Alternative+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-92"><span class="mw-cite-backlink"><b><a href="#cite_ref-92">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.google.com/patents/US20140238869?cl=en">"Patent: US 20140238869 A1"</a>. <i>Google Patents</i>. Google Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+to+gas&amp;rft.atitle=Patent%3A+US+20140238869+A1&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.google.com%2Fpatents%2FUS20140238869%3Fcl%3Den&amp;rft.jtitle=Google+Patents&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-93"><span class="mw-cite-backlink"><b><a href="#cite_ref-93">^</a></b></span> <span class="reference-text">The total carbon content of the world's oceans is roughly 38,000 GtC. Over 95% of this carbon is in the form of dissolved bicarbonate ion (HCO<sub>3</sub> <sup>−</sup>). (Cline 1992, The Economics of Global Warming; Institute for International Economics: Washington D.C.). The dissolved bicarbonate and carbonate of the ocean is essentially bound CO<sub>2</sub> and the sum of these species along with gaseous CO<sub>2</sub>, shown in the following equation, represents the total carbon dioxide concentration [CO<sub>2</sub>]<sub>T</sub>, of the world's oceans. Σ[CO<sub>2</sub>]<sub>T</sub>=[CO<sub>2</sub>(g)]<sub>l</sub>+[HCO<sub>3</sub> <sup>−</sup>]+[CO<sub>3</sub> <sup>2−</sup>]</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=13" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Manuel Götz, Jonathan Lefebvre, Friedemann Mörs, Amy McDaniel Koch, Frank Graf, Siegfried Bajohr, Rainer Reimert, Thomas Kolb. <i>Renewable Power-to-Gas: A technological and economic review</i>. In: <i><a href="/wiki/Renewable_Energy_(journal)" title="Renewable Energy (journal)">Renewable Energy</a></i> 85, (2016), 1371–1390, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.renene.2015.07.066">10.1016/j.renene.2015.07.066</a>.</li>
+<li>Méziane Boudellal. "Le Power-to-Gas, Stockage de l'électricité d'origine renouvelable". 192 pages. In French only. Editor: Dunod, June 2016.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_to_gas&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.zsw-bw.de/en/the-zsw.html">Zentrum für Sonnenenergie-und Wasserstoff-Forschung (ZSW) Baden-Württemberg</a></li>
+<li>Smedley, Tim. <a rel="nofollow" class="external text" href="https://www.theguardian.com/sustainable-business/renewable-energy-power-gas-storage-fossil-fuels">Power-to-gas energy storage could help displace use of fossil fuels</a>, <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>, July 4, 2014. Retrieved from theguardian.com, July 21, 2014.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1227
+Cached time: 20170220165251
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.404 seconds
+Real time usage: 0.449 seconds
+Preprocessor visited node count: 3225/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 120495/2097152 bytes
+Template argument size: 934/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.193/10.000 seconds
+Lua memory usage: 3.3 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  373.080      1 -total
+ 74.57%  278.223      1 Template:Reflist
+ 39.77%  148.370     37 Template:Cite_web
+ 13.01%   48.536     11 Template:Cite_journal
+ 11.85%   44.227      1 Template:Sidebox
+  7.17%   26.736      9 Template:Chart
+  4.91%   18.332      3 Template:Chem
+  3.59%   13.391      3 Template:Chem/link
+  2.86%   10.654      9 Template:Chem/atom
+  1.49%    5.547      1 Template:DOI
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39071843-0!*!0!!en!4!* and timestamp 20170220165359 and revision id 766515584
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Power_to_gas&amp;oldid=766515584">https://en.wikipedia.org/w/index.php?title=Power_to_gas&amp;oldid=766515584</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_storage" title="Category:Energy storage">Energy storage</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Power+to+gas" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Power+to+gas" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Power_to_gas"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Power_to_gas"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Power_to_gas" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Power_to_gas&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Power_to_gas&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Power_to_gas" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Power_to_gas" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Power_to_gas&amp;oldid=766515584" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Power_to_gas&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q12646543" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Power_to_gas&amp;id=766515584" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Power+to+gas">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Power+to+gas&amp;returnto=Power+to+gas&amp;oldid=766515584&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Power_to_gas&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Power_to_gas" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Power-to-Gas" title="Power-to-Gas – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Conversion_d%27%C3%A9lectricit%C3%A9_en_gaz" title="Conversion d'électricité en gaz – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Power_to_Gas_sustav_(P2G)" title="Power to Gas sustav (P2G) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Power-to-gas" title="Power-to-gas – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Power-to-Gas" title="Power-to-Gas – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q12646543#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 February 2017, at 16:53.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Power_to_gas&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.404","walltime":"0.449","ppvisitednodes":{"value":3225,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":120495,"limit":2097152},"templateargumentsize":{"value":934,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  373.080      1 -total"," 74.57%  278.223      1 Template:Reflist"," 39.77%  148.370     37 Template:Cite_web"," 13.01%   48.536     11 Template:Cite_journal"," 11.85%   44.227      1 Template:Sidebox","  7.17%   26.736      9 Template:Chart","  4.91%   18.332      3 Template:Chem","  3.59%   13.391      3 Template:Chem/link","  2.86%   10.654      9 Template:Chem/atom","  1.49%    5.547      1 Template:DOI"]},"scribunto":{"limitreport-timeusage":{"value":"0.193","limit":"10.000"},"limitreport-memusage":{"value":3464809,"limit":52428800}},"cachereport":{"origin":"mw1227","timestamp":"20170220165251","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1218"});});</script>
+	</body>
+</html>

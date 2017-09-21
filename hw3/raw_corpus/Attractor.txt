@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Attractor - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Attractor","wgTitle":"Attractor","wgCurRevisionId":762893049,"wgRevisionId":762893049,"wgArticleId":191094,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from May 2013","Articles lacking in-text citations from March 2013","All articles lacking in-text citations","Pages using ISBN magic links","Limit sets"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Attractor","wgRelevantArticleId":191094,"wgRequestId":"WMQcqQpAAD0AAChn4G4AAABE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q507187","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/52/Atractor_Poisson_Saturne.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Attractor"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Attractor&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Attractor&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Attractor"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Attractor rootpage-Attractor skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Attractor</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For other uses, see <a href="/wiki/Attractor_(disambiguation)" class="mw-disambig" title="Attractor (disambiguation)">Attractor (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(March 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:335px;"><a href="/wiki/File:Atractor_Poisson_Saturne.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Atractor_Poisson_Saturne.jpg/333px-Atractor_Poisson_Saturne.jpg" width="333" height="250" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Atractor_Poisson_Saturne.jpg/500px-Atractor_Poisson_Saturne.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/52/Atractor_Poisson_Saturne.jpg 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Atractor_Poisson_Saturne.jpg" class="internal" title="Enlarge"></a></div>
+Visual representation of a strange attractor</div>
+</div>
+</div>
+<p>In the <a href="/wiki/Mathematics" title="Mathematics">mathematical</a> field of <a href="/wiki/Dynamical_system" title="Dynamical system">dynamical systems</a>, an <b>attractor</b> is a set of numerical values toward which a system tends to evolve, for a wide variety of starting conditions of the system.<sup id="cite_ref-Boeing2016Systems_1-0" class="reference"><a href="#cite_note-Boeing2016Systems-1">[1]</a></sup> System values that get close enough to the attractor values remain close even if slightly disturbed.</p>
+<p>In finite-dimensional systems, the evolving variable may be represented <a href="/wiki/Algebra" title="Algebra">algebraically</a> as an <i>n</i>-dimensional <a href="/wiki/Coordinate_vector" title="Coordinate vector">vector</a>. The attractor is a region in <a href="/wiki/Space_(mathematics)" title="Space (mathematics)"><i>n</i>-dimensional space</a>. In <a href="/wiki/Physics" title="Physics">physical systems</a>, the <i>n</i> dimensions may be, for example, two or three positional coordinates for each of one or more physical entities; in <a href="/wiki/Economics" title="Economics">economic systems</a>, they may be separate variables such as the <a href="/wiki/Inflation_rate" class="mw-redirect" title="Inflation rate">inflation rate</a> and the <a href="/wiki/Unemployment_rate" class="mw-redirect" title="Unemployment rate">unemployment rate</a>.</p>
+<p>If the evolving variable is two- or three-dimensional, the attractor of the dynamic process can be represented <a href="/wiki/Geometry" title="Geometry">geometrically</a> in two or three dimensions, (as for example in the three-dimensional case depicted to the right). An attractor can be a <a href="/wiki/Point_(geometry)" title="Point (geometry)">point</a>, a finite set of points, a <a href="/wiki/Curve" title="Curve">curve</a>, a <a href="/wiki/Manifold" title="Manifold">manifold</a>, or even a complicated set with a <a href="/wiki/Fractal" title="Fractal">fractal</a> structure known as a <i>strange attractor</i> (see <a href="/wiki/Attractor#Strange_attractor" title="Attractor">strange attractor</a> below). If the variable is a <a href="/wiki/Scalar_(mathematics)" title="Scalar (mathematics)">scalar</a>, the attractor is a subset of the real number line. Describing the attractors of chaotic dynamical systems has been one of the achievements of <a href="/wiki/Chaos_theory" title="Chaos theory">chaos theory</a>.</p>
+<p>A <a href="/wiki/Trajectory" title="Trajectory">trajectory</a> of the dynamical system in the attractor does not have to satisfy any special constraints except for remaining on the attractor, forward in time. The trajectory may be <a href="/wiki/Periodic_function" title="Periodic function">periodic</a> or <a href="/wiki/Chaos_theory" title="Chaos theory">chaotic</a>. If a set of points is periodic or chaotic, but the flow in the neighborhood is away from the set, the set is not an attractor, but instead is called a <b>repeller</b> (or <i>repellor</i>).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Motivation"><span class="tocnumber">1</span> <span class="toctext">Motivation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mathematical_definition"><span class="tocnumber">2</span> <span class="toctext">Mathematical definition</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Types_of_attractors"><span class="tocnumber">3</span> <span class="toctext">Types of attractors</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Fixed_point"><span class="tocnumber">3.1</span> <span class="toctext">Fixed point</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Finite_number_of_points"><span class="tocnumber">3.2</span> <span class="toctext">Finite number of points</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Limit_cycle"><span class="tocnumber">3.3</span> <span class="toctext">Limit cycle</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Limit_torus"><span class="tocnumber">3.4</span> <span class="toctext">Limit torus</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Strange_attractor"><span class="tocnumber">3.5</span> <span class="toctext">Strange attractor</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Effect_of_parameters_on_the_attractor"><span class="tocnumber">4</span> <span class="toctext">Effect of parameters on the attractor</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Basins_of_attraction"><span class="tocnumber">5</span> <span class="toctext">Basins of attraction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Linear_equation_or_system"><span class="tocnumber">5.1</span> <span class="toctext">Linear equation or system</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Nonlinear_equation_or_system"><span class="tocnumber">5.2</span> <span class="toctext">Nonlinear equation or system</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Partial_differential_equations"><span class="tocnumber">6</span> <span class="toctext">Partial differential equations</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Numerical_localization_.28visualization.29_of_attractors:_self-excited_and_hidden_attractors"><span class="tocnumber">7</span> <span class="toctext">Numerical localization (visualization) of attractors: self-excited and hidden attractors</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Motivation">Motivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=1" title="Edit section: Motivation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <a href="/wiki/Dynamical_system" title="Dynamical system">dynamical system</a> is generally described by one or more <a href="/wiki/Differential_equations" class="mw-redirect" title="Differential equations">differential</a> or <a href="/wiki/Difference_equations" class="mw-redirect" title="Difference equations">difference equations</a>. The equations of a given dynamical system specify its behavior over any given short period of time. To determine the system's behavior for a longer period, it is often necessary to <a href="/wiki/Integral" title="Integral">integrate</a> the equations, either through analytical means or through <a href="/wiki/Iteration" title="Iteration">iteration</a>, often with the aid of computers.</p>
+<p>Dynamical systems in the physical world tend to arise from <a href="/wiki/Dissipative_system" title="Dissipative system">dissipative</a> systems: if it were not for some driving force, the motion would cease. (Dissipation may come from <a href="/wiki/Friction" title="Friction">internal friction</a>, <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamic losses</a>, or loss of material, among many causes.) The dissipation and the driving force tend to balance, killing off initial transients and settle the system into its typical behavior. The subset of the <a href="/wiki/Phase_space" title="Phase space">phase space</a> of the dynamical system corresponding to the typical behavior is the <b>attractor</b>, also known as the attracting section or attractee.</p>
+<p>Invariant sets and <a href="/wiki/Limit_set" title="Limit set">limit sets</a> are similar to the attractor concept. An <i>invariant set</i> is a set that evolves to itself under the dynamics. Attractors may contain invariant sets. A <i>limit set</i> is a set of points such that there exists some initial state that ends up arbitrarily close to the limit set (i.e. to each point of the set) as time goes to infinity. Attractors are limit sets, but not all limit sets are attractors: It is possible to have some points of a system converge to a limit set, but different points when perturbed slightly off the limit set may get knocked off and never return to the vicinity of the limit set.</p>
+<p>For example, the <a href="/wiki/Pendulum#damped_pendulum" title="Pendulum">damped pendulum</a> has two invariant points: the point <span class="texhtml">x<sub>0</sub></span> of minimum height and the point <span class="texhtml">x<sub>1</sub></span> of maximum height. The point <span class="texhtml">x<sub>0</sub></span> is also a limit set, as trajectories converge to it; the point <span class="texhtml">x<sub>1</sub></span> is not a limit set. Because of the dissipation due to air resistance, the point <span class="texhtml">x<sub>0</sub></span> is also an attractor. If there was no dissipation, <span class="texhtml">x<sub>0</sub></span> would not be an attractor.</p>
+<h2><span class="mw-headline" id="Mathematical_definition">Mathematical definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=2" title="Edit section: Mathematical definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Let <i>t</i> represent time and let <i>f</i>(<i>t</i>, •) be a function which specifies the dynamics of the system. That is, if <i>a</i> is an <i>n</i>-dimensional point in the phase space, representing the initial state of the system, then <i>f</i>(0, <i>a</i>) = <i>a</i> and, for a positive value of <i>t</i>, <i>f</i>(<i>t</i>, <i>a</i>) is the result of the evolution of this state after <i>t</i> units of time. For example, if the system describes the evolution of a free particle in one dimension then the phase space is the plane <b>R</b><sup>2</sup> with coordinates (<i>x</i>,<i>v</i>), where <i>x</i> is the position of the particle, <i>v</i> is its velocity, <i>a</i>&#160;=&#160;(<i>x</i>,<i>v</i>), and the evolution is given by</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Julia_immediate_basin_1_3.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Julia_immediate_basin_1_3.png/220px-Julia_immediate_basin_1_3.png" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Julia_immediate_basin_1_3.png/330px-Julia_immediate_basin_1_3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Julia_immediate_basin_1_3.png/440px-Julia_immediate_basin_1_3.png 2x" data-file-width="1000" data-file-height="1000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Julia_immediate_basin_1_3.png" class="internal" title="Enlarge"></a></div>
+Attracting period-3 cycle and its immediate basin of attraction for a certain parametrization of <i>f</i>(<i>z</i>)&#160;=&#160;<i>z</i><sup>2</sup>&#160;+&#160;<i>c</i>. The three darkest points are the points of the 3-cycle, which lead to each other in sequence, and iteration from any point in the basin of attraction leads to (usually asymptotic) convergence to this sequence of three points.</div>
+</div>
+</div>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>,</mo>
+        <mi>v</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mi>t</mi>
+        <mi>v</mi>
+        <mo>,</mo>
+        <mi>v</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+        <mtext>&#xA0;</mtext>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(t,(x,v))=(x+tv,v).\ }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4aba59230d3e69e6d6be484bf32ce42aab46939f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:25.292ex; height:2.843ex;" alt=" f(t,(x,v))=(x+tv,v).\ " /></span></dd>
+</dl>
+<p>An <b>attractor</b> is a <a href="/wiki/Subset" title="Subset">subset</a> <i>A</i> of the <a href="/wiki/Phase_space" title="Phase space">phase space</a> characterized by the following three conditions:</p>
+<ul>
+<li><i>A</i> is <i>forward invariant</i> under <i>f</i>: if <i>a</i> is an element of <i>A</i> then so is <i>f</i>(<i>t</i>,<i>a</i>), for all&#160;<i>t</i>&#160;&gt;&#160;0.</li>
+<li>There exists a <a href="/wiki/Neighbourhood_(mathematics)" title="Neighbourhood (mathematics)">neighborhood</a> of <i>A</i>, called the <b>basin of attraction</b> for <i>A</i> and denoted <i>B</i>(<i>A</i>), which consists of all points <i>b</i> that "enter <i>A</i> in the limit <i>t</i>&#160;→&#160;∞". More formally, <i>B</i>(<i>A</i>) is the set of all points <i>b</i> in the phase space with the following property:</li>
+</ul>
+<dl>
+<dd>
+<dl>
+<dd>For any open neighborhood <i>N</i> of <i>A</i>, there is a positive constant <i>T</i> such that <i>f</i>(<i>t</i>,<i>b</i>) ∈ <i>N</i> for all real <i>t</i> &gt; <i>T</i>.</dd>
+</dl>
+</dd>
+</dl>
+<ul>
+<li>There is no proper (non-empty) subset of <i>A</i> having the first two properties.</li>
+</ul>
+<p>Since the basin of attraction contains an <a href="/wiki/Open_set" title="Open set">open set</a> containing <i>A</i>, every point that is sufficiently close to <i>A</i> is attracted to <i>A</i>. The definition of an attractor uses a <a href="/wiki/Metric_space" title="Metric space">metric</a> on the phase space, but the resulting notion usually depends only on the topology of the phase space. In the case of <b>R</b><sup><i>n</i></sup>, the Euclidean norm is typically used.</p>
+<p>Many other definitions of attractor occur in the literature. For example, some authors require that an attractor have positive <a href="/wiki/Measure_(mathematics)" title="Measure (mathematics)">measure</a> (preventing a point from being an attractor), others relax the requirement that <i>B</i>(<i>A</i>) be a neighborhood <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Types_of_attractors">Types of attractors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=3" title="Edit section: Types of attractors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Attractors are portions or <a href="/wiki/Subset" title="Subset">subsets</a> of the <a href="/wiki/Configuration_space#Phase_space" title="Configuration space">phase space</a> of a <a href="/wiki/Dynamical_system" title="Dynamical system">dynamical system</a>. Until the 1960s, attractors were thought of as being <a href="/wiki/Geometric_primitive" title="Geometric primitive">simple geometric subsets</a> of the phase space, like <a href="/wiki/Point_(geometry)" title="Point (geometry)">points</a>, <a href="/wiki/Line_(mathematics)" class="mw-redirect" title="Line (mathematics)">lines</a>, <a href="/wiki/Surface_(topology)" title="Surface (topology)">surfaces</a>, and simple regions of <a href="/wiki/Three-dimensional_space" title="Three-dimensional space">three-dimensional space</a>. More complex attractors that cannot be categorized as simple geometric subsets, such as <a href="/wiki/Topology" title="Topology">topologically</a> wild sets, were known of at the time but were thought to be fragile anomalies. <a href="/wiki/Stephen_Smale" title="Stephen Smale">Stephen Smale</a> was able to show that his <a href="/wiki/Horseshoe_map" title="Horseshoe map">horseshoe map</a> was <a href="/wiki/Structural_stability" title="Structural stability">robust</a> and that its attractor had the structure of a <a href="/wiki/Cantor_set" title="Cantor set">Cantor set</a>.</p>
+<p>Two simple attractors are a <a href="/wiki/Fixed_point_(mathematics)" title="Fixed point (mathematics)">fixed point</a> and the <a href="/wiki/Limit_cycle" title="Limit cycle">limit cycle</a>. Attractors can take on many other geometric shapes (phase space subsets). But when these sets (or the motions within them) cannot be easily described as simple combinations (e.g. <a href="/wiki/Intersection_(set_theory)" title="Intersection (set theory)">intersection</a> and <a href="/wiki/Union_(set_theory)" title="Union (set theory)">union</a>) of <a href="/wiki/Geometric_primitive" title="Geometric primitive">fundamental geometric objects</a> (e.g. <a href="/wiki/Line_(mathematics)" class="mw-redirect" title="Line (mathematics)">lines</a>, <a href="/wiki/Surface_(topology)" title="Surface (topology)">surfaces</a>, <a href="/wiki/Sphere" title="Sphere">spheres</a>, <a href="/wiki/Toroid" title="Toroid">toroids</a>, <a href="/wiki/Manifold" title="Manifold">manifolds</a>), then the attractor is called a <i><a href="/wiki/Attractor#Strange_attractor" title="Attractor">strange attractor</a></i>.</p>
+<h3><span class="mw-headline" id="Fixed_point">Fixed point</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=4" title="Edit section: Fixed point">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Critical_orbit_3d.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Critical_orbit_3d.png/220px-Critical_orbit_3d.png" width="220" height="110" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Critical_orbit_3d.png/330px-Critical_orbit_3d.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Critical_orbit_3d.png/440px-Critical_orbit_3d.png 2x" data-file-width="2000" data-file-height="1000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Critical_orbit_3d.png" class="internal" title="Enlarge"></a></div>
+Weakly attracting fixed point for a complex number evolving according to a <a href="/wiki/Complex_quadratic_polynomial" title="Complex quadratic polynomial">complex quadratic polynomial</a>. The phase space is the horizontal complex plane; the vertical axis measures the frequency with which points in the complex plane are visited. The point in the complex plane directly below the peak frequency is the fixed point attractor.</div>
+</div>
+</div>
+<p>A <a href="/wiki/Fixed_point_(mathematics)" title="Fixed point (mathematics)">fixed point</a> of a function or transformation is a point that is mapped to itself by the function or transformation.<sup id="cite_ref-Boeing2016Systems_1-1" class="reference"><a href="#cite_note-Boeing2016Systems-1">[1]</a></sup> If we regard the evolution of a dynamical system as a series of transformations, then there may or may not be a point which remains fixed under each transformation. The final state that a dynamical system evolves towards corresponds to an attracting fixed point of the evolution function for that system, such as the center bottom position of a <a href="/wiki/Pendulum#damped_pendulum" title="Pendulum">damped pendulum</a>, the level and flat water line of sloshing water in a glass, or the bottom center of a bowl contain a rolling marble. But the fixed point(s) of a dynamic system is not necessarily an attractor of the system. For example, if the bowl containing a rolling marble was inverted and the marble was balanced on top of the bowl, the center bottom (now top) of the bowl is a fixed state, but not an attractor. This is equivalent to the difference between <a href="/wiki/Stability_theory#Stability_of_fixed_points" title="Stability theory">stable and unstable equilibria</a>. In the case of a marble on top of an inverted bowl (a hill), that point at the top of the bowl (hill) is a fixed point (equilibrium), but not an attractor (stable equilibrium).</p>
+<p>In addition, physical dynamic systems with at least one fixed point invariably have multiple fixed points and attractors due to the reality of dynamics in the physical world, including the <a href="/wiki/Nonlinear_dynamics" class="mw-redirect" title="Nonlinear dynamics">nonlinear dynamics</a> of <a href="/wiki/Stiction" title="Stiction">stiction</a>, <a href="/wiki/Friction" title="Friction">friction</a>, <a href="/wiki/Surface_roughness" title="Surface roughness">surface roughness</a>, <a href="/wiki/Deformation_(engineering)" title="Deformation (engineering)">deformation</a> (both <a href="/wiki/Elastic_deformation" class="mw-redirect" title="Elastic deformation">elastic</a> and <a href="/wiki/Plastic" title="Plastic">plasticity</a>), and even <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a>.<sup id="cite_ref-Contact_of_Nominally_Flat_Surfaces_3-0" class="reference"><a href="#cite_note-Contact_of_Nominally_Flat_Surfaces-3">[3]</a></sup> In the case of a marble on top of an inverted bowl, even if the bowl seems perfectly <a href="/wiki/Sphere#Hemisphere" title="Sphere">hemispherical</a>, and the marble's <a href="/wiki/Sphere" title="Sphere">spherical</a> shape, are both much more complex surfaces when examined under a microscope, and their <a href="/wiki/Contact_mechanics#History" title="Contact mechanics">shapes change</a> or <a href="/wiki/Deformation_(mechanics)" title="Deformation (mechanics)">deform</a> during contact. Any physical surface can be seen to have a rough terrain of multiple peaks, valleys, saddle points, ridges, ravines, and plains.<sup id="cite_ref-NISTIR_89-4088_4-0" class="reference"><a href="#cite_note-NISTIR_89-4088-4">[4]</a></sup> There are many points in this surface terrain (and the dynamic system of a similarly rough marble rolling around on this microscopic terrain) that are considered <a href="/wiki/Critical_point_(mathematics)" title="Critical point (mathematics)">stationary</a> or fixed points, some of which are categorized as attractors.</p>
+<h3><span class="mw-headline" id="Finite_number_of_points">Finite number of points</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=5" title="Edit section: Finite number of points">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a <a href="/wiki/Discrete_time_and_continuous_time" title="Discrete time and continuous time">discrete-time</a> system, an attractor can take the form of a finite number of points that are visited in sequence. Each of these points is called a <a href="/wiki/Periodic_point" title="Periodic point">periodic point</a>. This is illustrated by the <a href="/wiki/Logistic_map" title="Logistic map">logistic map</a>, which depending on its specific parameter value can have an attractor consisting of 2<sup><i>n</i></sup> points, 3×2<sup><i>n</i></sup> points, etc., for any value of <i>n</i>.</p>
+<h3><span class="mw-headline" id="Limit_cycle">Limit cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=6" title="Edit section: Limit cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Limit_cycle" title="Limit cycle">Limit cycle</a></div>
+<p>A <a href="/wiki/Limit_cycle" title="Limit cycle">limit cycle</a> is a periodic orbit of a continuous dynamical system that is <a href="/wiki/Isolated_point" title="Isolated point">isolated</a>. Examples include the swings of a <a href="/wiki/Pendulum_clock" title="Pendulum clock">pendulum clock</a>, the tuning circuit of a radio, and the heartbeat while resting. (The limit cycle of an ideal pendulum is not an example of a limit cycle attractor because its orbits are not isolated: in the phase space of the ideal pendulum, near any point of a periodic orbit there is another point that belongs to a different periodic orbit, so the former orbit is not attracting).</p>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:VanDerPolPhaseSpace.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/VanDerPolPhaseSpace.png/250px-VanDerPolPhaseSpace.png" width="250" height="163" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/VanDerPolPhaseSpace.png/375px-VanDerPolPhaseSpace.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/VanDerPolPhaseSpace.png/500px-VanDerPolPhaseSpace.png 2x" data-file-width="1024" data-file-height="668" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:VanDerPolPhaseSpace.png" class="internal" title="Enlarge"></a></div>
+<center><a href="/wiki/Van_der_Pol_oscillator" title="Van der Pol oscillator">Van der Pol</a> <a href="/wiki/Phase_portrait" title="Phase portrait">phase portrait</a>: an attracting limit cycle</center>
+</div>
+</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Limit_torus">Limit torus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=7" title="Edit section: Limit torus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There may be more than one frequency in the periodic trajectory of the system through the state of a limit cycle. For example, in physics, one frequency may dictate the rate at which a planet orbits a star while a second frequency describes the oscillations in the distance between the two bodies. If two of these frequencies form an <a href="/wiki/Irrational_number" title="Irrational number">irrational fraction</a> (i.e. they are <a href="/wiki/Commensurability_(mathematics)" title="Commensurability (mathematics)">incommensurate</a>), the trajectory is no longer closed, and the limit cycle becomes a limit <a href="/wiki/Torus" title="Torus">torus</a>. This kind of attractor is called an <span class="texhtml"><i>N</i><sub><i>t</i></sub></span>-torus if there are <span class="texhtml">N<sub>t</sub></span> incommensurate frequencies. For example, here is a 2-torus:</p>
+<p><a href="/wiki/File:Torus.png" class="image"><img alt="Torus.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Torus.png/300px-Torus.png" width="300" height="192" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Torus.png/450px-Torus.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Torus.png/600px-Torus.png 2x" data-file-width="784" data-file-height="502" /></a></p>
+<p>A time series corresponding to this attractor is a <a href="/wiki/Quasiperiodic" class="mw-redirect" title="Quasiperiodic">quasiperiodic</a> series: A discretely sampled sum of <span class="texhtml">N<sub>t</sub></span> periodic functions (not necessarily <a href="/wiki/Sine" title="Sine">sine</a> waves) with incommensurate frequencies. Such a time series does not have a strict periodicity, but its <a href="/wiki/Power_spectrum" class="mw-redirect" title="Power spectrum">power spectrum</a> still consists only of sharp lines.</p>
+<h3><span class="mw-headline" id="Strange_attractor">Strange attractor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=8" title="Edit section: Strange attractor">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Lorenz_attractor_yb.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/200px-Lorenz_attractor_yb.svg.png" width="200" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/300px-Lorenz_attractor_yb.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/400px-Lorenz_attractor_yb.svg.png 2x" data-file-width="750" data-file-height="750" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lorenz_attractor_yb.svg" class="internal" title="Enlarge"></a></div>
+A plot of Lorenz's strange attractor for values&#160;<i>ρ</i>&#160;=&#160;28,&#160;<i>σ</i>&#160;=&#160;10,&#160;<i>β</i>&#160;=&#160;8/3</div>
+</div>
+</div>
+<p>An attractor is called <b>strange</b> if it has a <a href="/wiki/Fractal" title="Fractal">fractal</a> structure.<sup id="cite_ref-Boeing2016Systems_1-2" class="reference"><a href="#cite_note-Boeing2016Systems-1">[1]</a></sup> This is often the case when the dynamics on it are <a href="/wiki/Chaos_theory" title="Chaos theory">chaotic</a>, but <a href="/wiki/Strange_nonchaotic_attractor" title="Strange nonchaotic attractor">strange nonchaotic attractors</a> also exist. If a strange attractor is chaotic, exhibiting <a href="/wiki/Sensitive_dependence_on_initial_conditions" class="mw-redirect" title="Sensitive dependence on initial conditions">sensitive dependence on initial conditions</a>, then any two arbitrarily close alternative initial points on the attractor, after any of various numbers of iterations, will lead to points that are arbitrarily far apart (subject to the confines of the attractor), and after any of various other numbers of iterations will lead to points that are arbitrarily close together. Thus a dynamic system with a chaotic attractor is locally unstable yet globally stable: once some sequences have entered the attractor, nearby points diverge from one another but never depart from the attractor.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The term <b>strange attractor</b> was coined by <a href="/wiki/David_Ruelle" title="David Ruelle">David Ruelle</a> and <a href="/wiki/Floris_Takens" title="Floris Takens">Floris Takens</a> to describe the attractor resulting from a series of <a href="/wiki/Bifurcation_theory" title="Bifurcation theory">bifurcations</a> of a system describing fluid flow.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Strange attractors are often <a href="/wiki/Differentiable" class="mw-redirect" title="Differentiable">differentiable</a> in a few directions, but some are <a href="/wiki/Homeomorphic" class="mw-redirect" title="Homeomorphic">like</a> a <a href="/wiki/Cantor_dust" class="mw-redirect" title="Cantor dust">Cantor dust</a>, and therefore not differentiable. Strange attractors may also be found in presence of noise, where they may be shown to support invariant random probability measures of Sinai–Ruelle–Bowen type.<sup id="cite_ref-Stochastic_climate_dynamics:_Random_attractors_and_time-dependent_invariant_measures_7-0" class="reference"><a href="#cite_note-Stochastic_climate_dynamics:_Random_attractors_and_time-dependent_invariant_measures-7">[7]</a></sup></p>
+<p>Examples of strange attractors include the <a href="/wiki/Double_scroll_attractor" class="mw-redirect" title="Double scroll attractor">double-scroll attractor</a>, <a href="/wiki/H%C3%A9non_map" title="Hénon map">Hénon attractor</a>, <a href="/wiki/R%C3%B6ssler_attractor" title="Rössler attractor">Rössler attractor</a>, Tamari attractor, and the <a href="/wiki/Lorenz_attractor" class="mw-redirect" title="Lorenz attractor">Lorenz attractor</a>.</p>
+<h2><span class="mw-headline" id="Effect_of_parameters_on_the_attractor">Effect of parameters on the attractor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=9" title="Edit section: Effect of parameters on the attractor">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:LogisticMap_BifurcationDiagram.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LogisticMap_BifurcationDiagram.png/300px-LogisticMap_BifurcationDiagram.png" width="300" height="212" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LogisticMap_BifurcationDiagram.png/450px-LogisticMap_BifurcationDiagram.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LogisticMap_BifurcationDiagram.png/600px-LogisticMap_BifurcationDiagram.png 2x" data-file-width="1838" data-file-height="1300" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:LogisticMap_BifurcationDiagram.png" class="internal" title="Enlarge"></a></div>
+Bifurcation diagram of the <a href="/wiki/Logistic_map" title="Logistic map">logistic map</a>. The attractor for any value of the parameter <i>r</i> is shown on the vertical line at that <i>r</i>.</div>
+</div>
+</div>
+<p>A particular functional form of a dynamic equation can have various types of attractor depending on the particular parameter values used in the function. An example is the well-studied <a href="/wiki/Logistic_map" title="Logistic map">logistic map</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>r</mi>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x_{t+1}=rx_{t}(1-x_{t}),}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d7c656ae2536cc6d115e9e3f0951e1c893133982" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:19.315ex; height:2.843ex;" alt="x_{t+1}=rx_t(1-x_t)," /></span> whose basins of attraction for various values of the parameter <i>r</i> are shown in the diagram. At some values of the parameter the attractor is a single point, at others it is two points that are visited in turn, at others it is 2<sup><i>n</i></sup> points or <i>k</i>&#160;×&#160;2<sup><i>n</i></sup> points that are visited in turn, for any value of <i>n</i> depending on the value of the parameter <i>r</i>, and at other values of <i>r</i> an infinitude of points are visited.<sup id="cite_ref-Boeing2016Systems_1-3" class="reference"><a href="#cite_note-Boeing2016Systems-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Basins_of_attraction">Basins of attraction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=10" title="Edit section: Basins of attraction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An attractor's <b>basin of attraction</b> is the region of the <a href="/wiki/Phase_space" title="Phase space">phase space</a>, over which iterations are defined, such that any point (any <a href="/wiki/Initial_condition" title="Initial condition">initial condition</a>) in that region will eventually be iterated into the attractor.<sup id="cite_ref-Boeing2016Systems_1-4" class="reference"><a href="#cite_note-Boeing2016Systems-1">[1]</a></sup> For a <a href="/wiki/Stability_(mathematics)" class="mw-redirect" title="Stability (mathematics)">stable</a> <a href="/wiki/Linear_system" title="Linear system">linear system</a>, every point in the phase space is in the basin of attraction. However, in <a href="/wiki/Nonlinear_system" title="Nonlinear system">nonlinear systems</a>, some points may map directly or <a href="/wiki/Asymptotic_behavior" class="mw-redirect" title="Asymptotic behavior">asymptotically</a> to infinity, while other points may lie in a different basin of attraction and map asymptotically into a different attractor; other initial conditions may be in or map directly into a non-attracting point or cycle.</p>
+<h3><span class="mw-headline" id="Linear_equation_or_system">Linear equation or system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=11" title="Edit section: Linear equation or system">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A single-variable (univariate) linear <a href="/wiki/Difference_equation" class="mw-redirect" title="Difference equation">difference equation</a> of the <a href="/wiki/Homogeneous_equation" class="mw-redirect" title="Homogeneous equation">homogeneous form</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>a</mi>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x_{t}=ax_{t-1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe21638218864bc4ab00a960c3b3d6cc6dbe2b0b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:10.811ex; height:2.009ex;" alt="x_t=ax_{t-1}" /></span> diverges to infinity if |<i>a</i>| &gt; 1 from all initial points except 0; there is no attractor and therefore no basin of attraction. But if |<i>a</i>| &lt; 1 all points on the number line map asymptotically (or directly in the case of 0) to 0; 0 is the attractor, and the entire number line is the basin of attraction.</p>
+<p>Likewise, a linear <a href="/wiki/Matrix_difference_equation" title="Matrix difference equation">matrix difference equation</a> in a dynamic <a href="/wiki/Coordinate_vector" title="Coordinate vector">vector</a> <i>X</i>, of the homogeneous form <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>X</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>A</mi>
+        <msub>
+          <mi>X</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle X_{t}=AX_{t-1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4bf8e00ade4625b141ff4831e1f21a549f69e8d9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:12.514ex; height:2.676ex;" alt="X_t=AX_{t-1}" /></span> in terms of <a href="/wiki/Square_matrix" title="Square matrix">square matrix</a> <i>A</i> will have all elements of the dynamic vector diverge to infinity if the largest <a href="/wiki/Eigenvalue" class="mw-redirect" title="Eigenvalue">eigenvalue</a> of <i>A</i> is greater than 1 in absolute value; there is no attractor and no basin of attraction. But if the largest eigenvalue is less than 1 in magnitude, all initial vectors will asymptotically converge to the zero vector, which is the attractor; the entire <i>n</i>-dimensional space of potential initial vectors is the basin of attraction.</p>
+<p>Similar features apply to linear <a href="/wiki/Differential_equation" title="Differential equation">differential equations</a>. The scalar equation <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>d</mi>
+        <mi>x</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo>=</mo>
+        <mi>a</mi>
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle dx/dt=ax}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/500e884f848ed4c86a59282efb3df62730a6ef9a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:11.505ex; height:2.843ex;" alt=" dx/dt =ax" /></span> causes all initial values of <i>x</i> except zero to diverge to infinity if <i>a</i> &gt; 0 but to converge to an attractor at the value 0 if <i>a</i> &lt; 0, making the entire number line the basin of attraction for 0. And the matrix system <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>d</mi>
+        <mi>X</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo>=</mo>
+        <mi>A</mi>
+        <mi>X</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle dX/dt=AX}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e70a42bf31b569d686e87274658435209f57dd5d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:13.319ex; height:2.843ex;" alt="dX/dt=AX" /></span> gives divergence from all initial points except the vector of zeroes if any eigenvalue of the matrix <i>A</i> is positive; but if all the eigenvalues are negative the vector of zeroes is an attractor whose basin of attraction is the entire phase space.</p>
+<h3><span class="mw-headline" id="Nonlinear_equation_or_system">Nonlinear equation or system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=12" title="Edit section: Nonlinear equation or system">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Equations or systems that are <a href="/wiki/Nonlinear_system" title="Nonlinear system">nonlinear</a> can give rise to a richer variety of behavior than can linear systems. One example is <a href="/wiki/Newton%27s_method" title="Newton's method">Newton's method</a> of iterating to a root of a nonlinear expression. If the expression has more than one <a href="/wiki/Real_number" title="Real number">real</a> root, some starting points for the iterative algorithm will lead to one of the roots asymptotically, and other starting points will lead to another. The basins of attraction for the expression's roots are generally not simple—it is not simply that the points nearest one root all map there, giving a basin of attraction consisting of nearby points. The basins of attraction can be infinite in number and arbitrarily small. For example,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> for the function <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msup>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>11</mn>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mn>12</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(x)=x^{3}-2x^{2}-11x+12}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/02759d2b16332f13718236ef3067fd2e9a8d2a82" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:28.129ex; height:3.176ex;" alt="f(x)=x^{3}-2x^{2}-11x+12" /></span>, the following initial conditions are in successive basins of attraction:</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Newtroot_1_0_0_0_0_m1.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Newtroot_1_0_0_0_0_m1.png/220px-Newtroot_1_0_0_0_0_m1.png" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Newtroot_1_0_0_0_0_m1.png/330px-Newtroot_1_0_0_0_0_m1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Newtroot_1_0_0_0_0_m1.png/440px-Newtroot_1_0_0_0_0_m1.png 2x" data-file-width="1655" data-file-height="1655" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Newtroot_1_0_0_0_0_m1.png" class="internal" title="Enlarge"></a></div>
+Basins of attraction in the complex plane for using Newton's method to solve <i>x</i><sup>5</sup>&#160;−&#160;1&#160;=&#160;0. Points in like-colored regions map to the same root; darker means more iterations are needed to converge.</div>
+</div>
+</div>
+<dl>
+<dd>2.35287527 converges to 4;</dd>
+<dd>2.35284172 converges to −3;</dd>
+<dd>2.35283735 converges to 4;</dd>
+<dd>2.352836327 converges to −3;</dd>
+<dd>2.352836323 converges to 1.</dd>
+</dl>
+<p>Newton's method can also be applied to <a href="/wiki/Complex_analysis" title="Complex analysis">complex functions</a> to find their roots. Each root has a basin of attraction in the <a href="/wiki/Complex_plane" title="Complex plane">complex plane</a>; these basins can be mapped as in the image shown. As can be seen, the combined basin of attraction for a particular root can have many disconnected regions. For many complex functions, the boundaries of the basins of attraction are <a href="/wiki/Fractal" title="Fractal">fractals</a>.</p>
+<h2><span class="mw-headline" id="Partial_differential_equations">Partial differential equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=13" title="Edit section: Partial differential equations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Parabolic_partial_differential_equation" title="Parabolic partial differential equation">Parabolic partial differential equations</a> may have finite-dimensional attractors. The diffusive part of the equation damps higher frequencies and in some cases leads to a global attractor. The <i>Ginzburg–Landau</i>, the <i>Kuramoto–Sivashinsky</i>, and the two-dimensional, forced <a href="/wiki/Navier%E2%80%93Stokes_equation" class="mw-redirect" title="Navier–Stokes equation">Navier–Stokes equations</a> are all known to have global attractors of finite dimension.</p>
+<p>For the three-dimensional, incompressible Navier–Stokes equation with periodic <a href="/wiki/Boundary_condition" class="mw-redirect" title="Boundary condition">boundary conditions</a>, if it has a global attractor, then this attractor will be of finite dimensions.</p>
+<h2><span class="mw-headline" id="Numerical_localization_.28visualization.29_of_attractors:_self-excited_and_hidden_attractors">Numerical localization (visualization) of attractors: self-excited and hidden attractors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=14" title="Edit section: Numerical localization (visualization) of attractors: self-excited and hidden attractors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Chua-chaotic-hidden-attractor.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Chua-chaotic-hidden-attractor.jpg/220px-Chua-chaotic-hidden-attractor.jpg" width="220" height="238" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Chua-chaotic-hidden-attractor.jpg/330px-Chua-chaotic-hidden-attractor.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Chua-chaotic-hidden-attractor.jpg/440px-Chua-chaotic-hidden-attractor.jpg 2x" data-file-width="548" data-file-height="593" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Chua-chaotic-hidden-attractor.jpg" class="internal" title="Enlarge"></a></div>
+Chaotic <a href="/wiki/Hidden_attractor" class="mw-redirect" title="Hidden attractor">hidden attractor</a> (green domain) in <a href="/wiki/Chua%27s_circuit" title="Chua's circuit">Chua's system</a>. Trajectories with initial data in a neighborhood of two saddle points (blue) tend (red arrow) to infinity or tend (black arrow) to stable zero equilibrium point (orange).</div>
+</div>
+</div>
+<p>From a computational point of view, attractors can be naturally regarded as <i>self-excited attractors</i> or <i><a href="/wiki/Hidden_attractor" class="mw-redirect" title="Hidden attractor">hidden attractors</a></i>.<sup id="cite_ref-2011-PLA-Hidden-Chua-attractor_9-0" class="reference"><a href="#cite_note-2011-PLA-Hidden-Chua-attractor-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-2012-Physica-D-Hidden-attractor-Chua-circuit-smooth_11-0" class="reference"><a href="#cite_note-2012-Physica-D-Hidden-attractor-Chua-circuit-smooth-11">[11]</a></sup><sup id="cite_ref-2013-IJBC-Hidden-attractors_12-0" class="reference"><a href="#cite_note-2013-IJBC-Hidden-attractors-12">[12]</a></sup> Self-excited attractors can be localized numerically by standard computational procedures, in which after a transient sequence, a trajectory starting from a point on an unstable manifold in a small neighborhood of an unstable equilibrium reaches an attractor (like classical attractors in the <a href="/wiki/Van_der_Pol" title="Van der Pol">Van der Pol</a>, <a href="/wiki/Belousov%E2%80%93Zhabotinsky_reaction" title="Belousov–Zhabotinsky reaction">Belousov–Zhabotinsky</a>, <a href="/wiki/Lorenz_attractor" class="mw-redirect" title="Lorenz attractor">Lorenz</a>, and many other dynamical systems). In contrast, the basin of attraction of a <a href="/wiki/Hidden_attractor" class="mw-redirect" title="Hidden attractor">hidden attractor</a> does not contain neighborhoods of equilibria, so the <a href="/wiki/Hidden_attractor" class="mw-redirect" title="Hidden attractor">hidden attractor</a> cannot be localized by standard computational procedures.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Attractor" class="extiw" title="commons:Attractor">Attractor</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Cycle_detection" title="Cycle detection">Cycle detection</a></li>
+<li><a href="/wiki/Hyperbolic_set" title="Hyperbolic set">Hyperbolic set</a></li>
+<li><a href="/wiki/Stable_manifold" title="Stable manifold">Stable manifold</a></li>
+<li><a href="/wiki/Steady_state" title="Steady state">Steady state</a></li>
+<li><a href="/wiki/Wada_basin" class="mw-redirect" title="Wada basin">Wada basin</a></li>
+<li><a href="/wiki/Hidden_oscillation" title="Hidden oscillation">Hidden oscillation</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Boeing2016Systems-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Boeing2016Systems_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Boeing2016Systems_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Boeing2016Systems_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Boeing2016Systems_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Boeing2016Systems_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Boeing, G. (2016). <a rel="nofollow" class="external text" href="http://geoffboeing.com/publications/nonlinear-chaos-fractals-prediction/">"Visual Analysis of Nonlinear Dynamical Systems: Chaos, Fractals, Self-Similarity and the Limits of Prediction"</a>. <i>Systems</i>. <b>4</b> (4): 37. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3390%2Fsystems4040037">10.3390/systems4040037</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Visual+Analysis+of+Nonlinear+Dynamical+Systems%3A+Chaos%2C+Fractals%2C+Self-Similarity+and+the+Limits+of+Prediction&amp;rft.au=Boeing%2C+G.&amp;rft.date=2016&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fgeoffboeing.com%2Fpublications%2Fnonlinear-chaos-fractals-prediction%2F&amp;rft_id=info%3Adoi%2F10.3390%2Fsystems4040037&amp;rft.issue=4&amp;rft.jtitle=Systems&amp;rft.pages=37&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Milnor, J. (1985). "On the Concept of Attractor." Comm. Math. Phys 99: 177–195.</span></li>
+<li id="cite_note-Contact_of_Nominally_Flat_Surfaces-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Contact_of_Nominally_Flat_Surfaces_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Greenwood, J. A.; J. B. P. Williamson (6 December 1966). <a rel="nofollow" class="external text" href="http://rspa.royalsocietypublishing.org/content/295/1442/300.abstract">"Contact of Nominally Flat Surfaces"</a>. <i>Proceedings of the Royal Society</i>. <b>295</b> (1442): 300–319. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1098%2Frspa.1966.0242">10.1098/rspa.1966.0242</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Contact+of+Nominally+Flat+Surfaces&amp;rft.aufirst=J.+A.&amp;rft.au=J.+B.+P.+Williamson&amp;rft.aulast=Greenwood&amp;rft.date=1966-12-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Frspa.royalsocietypublishing.org%2Fcontent%2F295%2F1442%2F300.abstract&amp;rft_id=info%3Adoi%2F10.1098%2Frspa.1966.0242&amp;rft.issue=1442&amp;rft.jtitle=Proceedings+of+the+Royal+Society&amp;rft.pages=300-319&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=295" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NISTIR_89-4088-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-NISTIR_89-4088_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Vorberger, T. V. (1990). <a rel="nofollow" class="external text" href="http://www.nist.gov/calibrations/upload/89-4088.pdf"><i>Surface Finish Metrology Tutorial</i></a> <span style="font-size:85%;">(PDF)</span>. U.S. Department of Commerce, National Institute of Standards (NIST). p.&#160;5.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.aufirst=T.+V.&amp;rft.aulast=Vorberger&amp;rft.btitle=Surface+Finish+Metrology+Tutorial&amp;rft.date=1990&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nist.gov%2Fcalibrations%2Fupload%2F89-4088.pdf&amp;rft.pages=5&amp;rft.pub=U.S.+Department+of+Commerce%2C+National+Institute+of+Standards+%28NIST%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Grebogi, Celso, Edward Ott, and James A. Yorke. "Chaos, Strange Attractors, and Fractal Basin Boundaries in Nonlinear Dynamics." Science 238, no. 4827 (1987): 632–638.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ruelle, David; Takens, Floris (1971). <a rel="nofollow" class="external text" href="http://projecteuclid.org/euclid.cmp/1103857186">"On the nature of turbulence"</a>. <i>Communications in Mathematical Physics</i>. <b>20</b> (3): 167–192. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fbf01646553">10.1007/bf01646553</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=On+the+nature+of+turbulence&amp;rft.aufirst=David&amp;rft.aulast=Ruelle&amp;rft.au=Takens%2C+Floris&amp;rft.date=1971&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fprojecteuclid.org%2Feuclid.cmp%2F1103857186&amp;rft_id=info%3Adoi%2F10.1007%2Fbf01646553&amp;rft.issue=3&amp;rft.jtitle=Communications+in+Mathematical+Physics&amp;rft.pages=167-192&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Stochastic_climate_dynamics:_Random_attractors_and_time-dependent_invariant_measures-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stochastic_climate_dynamics:_Random_attractors_and_time-dependent_invariant_measures_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chekroun M. D.; Simonnet E. &amp; Ghil M. (2011). "Stochastic climate dynamics: Random attractors and time-dependent invariant measures". <i>Physica D</i>. <b>240</b> (21): 1685–1700. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.physd.2011.06.005">10.1016/j.physd.2011.06.005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Stochastic+climate+dynamics%3A+Random+attractors+and+time-dependent+invariant+measures&amp;rft.au=Chekroun+M.+D.&amp;rft.au=Ghil+M.&amp;rft.au=Simonnet+E.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.physd.2011.06.005&amp;rft.issue=21&amp;rft.jtitle=Physica+D.&amp;rft.pages=1685-1700&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=240" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Dence, Thomas, "Cubics, chaos and Newton's method", <i><a href="/wiki/Mathematical_Gazette" class="mw-redirect" title="Mathematical Gazette">Mathematical Gazette</a></i> 81, November 1997, 403–408.</span></li>
+<li id="cite_note-2011-PLA-Hidden-Chua-attractor-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-2011-PLA-Hidden-Chua-attractor_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Leonov G.A.; Vagaitsev V.I.; Kuznetsov N.V. (2011). <a rel="nofollow" class="external text" href="http://www.math.spbu.ru/user/nk/PDF/2011-PhysLetA-Hidden-Attractor-Chua.pdf">"Localization of hidden Chua's attractors"</a> <span style="font-size:85%;">(PDF)</span>. <i>Physics Letters A</i>. <b>375</b> (23): 2230–2233. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.physleta.2011.04.037">10.1016/j.physleta.2011.04.037</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Localization+of+hidden+Chua%27s+attractors&amp;rft.au=Kuznetsov+N.V.&amp;rft.au=Leonov+G.A.&amp;rft.au=Vagaitsev+V.I.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.math.spbu.ru%2Fuser%2Fnk%2FPDF%2F2011-PhysLetA-Hidden-Attractor-Chua.pdf&amp;rft_id=info%3Adoi%2F10.1016%2Fj.physleta.2011.04.037&amp;rft.issue=23&amp;rft.jtitle=Physics+Letters+A&amp;rft.pages=2230-2233&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=375" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bragin V.O.; Vagaitsev V.I.; Kuznetsov N.V.; Leonov G.A. (2011). <a rel="nofollow" class="external text" href="http://www.math.spbu.ru/user/nk/PDF/2011-TiSU-Hidden-oscillations-attractors-Aizerman-Kalman-conjectures.pdf">"Algorithms for Finding Hidden Oscillations in Nonlinear Systems. The Aizerman and Kalman Conjectures and Chua's Circuits"</a> <span style="font-size:85%;">(PDF)</span>. <i>Journal of Computer and Systems Sciences International</i>. <b>50</b> (5): 511–543. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1134%2FS106423071104006X">10.1134/S106423071104006X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Algorithms+for+Finding+Hidden+Oscillations+in+Nonlinear+Systems.+The+Aizerman+and+Kalman+Conjectures+and+Chua%27s+Circuits&amp;rft.au=Bragin+V.O.&amp;rft.au=Kuznetsov+N.V.&amp;rft.au=Leonov+G.A.&amp;rft.au=Vagaitsev+V.I.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.math.spbu.ru%2Fuser%2Fnk%2FPDF%2F2011-TiSU-Hidden-oscillations-attractors-Aizerman-Kalman-conjectures.pdf&amp;rft_id=info%3Adoi%2F10.1134%2FS106423071104006X&amp;rft.issue=5&amp;rft.jtitle=Journal+of+Computer+and+Systems+Sciences+International&amp;rft.pages=511-543&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2012-Physica-D-Hidden-attractor-Chua-circuit-smooth-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-2012-Physica-D-Hidden-attractor-Chua-circuit-smooth_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Leonov G.A.; Vagaitsev V.I.; Kuznetsov N.V. (2012). <a rel="nofollow" class="external text" href="http://www.math.spbu.ru/user/nk/PDF/2012-Physica-D-Hidden-attractor-Chua-circuit-smooth.pdf">"Hidden attractor in smooth Chua systems"</a> <span style="font-size:85%;">(PDF)</span>. <i>Physica D</i>. <b>241</b> (18): 1482–1486. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.physd.2012.05.016">10.1016/j.physd.2012.05.016</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Hidden+attractor+in+smooth+Chua+systems&amp;rft.au=Kuznetsov+N.V.&amp;rft.au=Leonov+G.A.&amp;rft.au=Vagaitsev+V.I.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.math.spbu.ru%2Fuser%2Fnk%2FPDF%2F2012-Physica-D-Hidden-attractor-Chua-circuit-smooth.pdf&amp;rft_id=info%3Adoi%2F10.1016%2Fj.physd.2012.05.016&amp;rft.issue=18&amp;rft.jtitle=Physica+D&amp;rft.pages=1482-1486&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=241" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2013-IJBC-Hidden-attractors-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-2013-IJBC-Hidden-attractors_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Leonov G.A.; Kuznetsov N.V. (2013). <a rel="nofollow" class="external text" href="http://www.worldscientific.com/doi/pdf/10.1142/S0218127413300024">"Hidden attractors in dynamical systems. From hidden oscillations in Hilbert–Kolmogorov, Aizerman, and Kalman problems to hidden chaotic attractor in Chua circuits"</a>. <i>International Journal of Bifurcation and Chaos</i>. <b>23</b> (1): art. no. 1330002. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1142%2FS0218127413300024">10.1142/S0218127413300024</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Hidden+attractors+in+dynamical+systems.+From+hidden+oscillations+in+Hilbert%93Kolmogorov%2C+Aizerman%2C+and+Kalman+problems+to+hidden+chaotic+attractor+in+Chua+circuits&amp;rft.au=Kuznetsov+N.V.&amp;rft.au=Leonov+G.A.&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.worldscientific.com%2Fdoi%2Fpdf%2F10.1142%2FS0218127413300024&amp;rft_id=info%3Adoi%2F10.1142%2FS0218127413300024&amp;rft.issue=1&amp;rft.jtitle=International+Journal+of+Bifurcation+and+Chaos&amp;rft.pages=art.+no.+1330002&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=23" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=17" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation web"><a href="/wiki/John_Milnor" title="John Milnor">John Milnor</a> (ed.). <a rel="nofollow" class="external text" href="http://www.scholarpedia.org/article/Attractor">"Attractor"</a>. <i><a href="/wiki/Scholarpedia" title="Scholarpedia">Scholarpedia</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Attractor&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scholarpedia.org%2Farticle%2FAttractor&amp;rft.jtitle=Scholarpedia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal"><a href="/wiki/David_Ruelle" title="David Ruelle">David Ruelle</a>; <a href="/wiki/Floris_Takens" title="Floris Takens">Floris Takens</a> (1971). "On the nature of turbulence". <i>Communications of Mathematical Physics</i>. <b>20</b> (3): 167–192. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF01646553">10.1007/BF01646553</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=On+the+nature+of+turbulence&amp;rft.au=David+Ruelle&amp;rft.au=Floris+Takens&amp;rft.date=1971&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF01646553&amp;rft.issue=3&amp;rft.jtitle=Communications+of+Mathematical+Physics&amp;rft.pages=167-192&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">D. Ruelle (1981). "Small random perturbations of dynamical systems and the definition of attractors". <i>Communications of Mathematical Physics</i>. <b>82</b>: 137–151. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF01206949">10.1007/BF01206949</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Small+random+perturbations+of+dynamical+systems+and+the+definition+of+attractors&amp;rft.au=D.+Ruelle&amp;rft.date=1981&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF01206949&amp;rft.jtitle=Communications+of+Mathematical+Physics&amp;rft.pages=137-151&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=82" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal"><a href="/wiki/John_Milnor" title="John Milnor">John Milnor</a> (1985). "On the concept of attractor". <i>Communications of Mathematical Physics</i>. <b>99</b> (2): 177–195. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF01212280">10.1007/BF01212280</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=On+the+concept+of+attractor&amp;rft.au=John+Milnor&amp;rft.date=1985&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF01212280&amp;rft.issue=2&amp;rft.jtitle=Communications+of+Mathematical+Physics&amp;rft.pages=177-195&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=99" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">David Ruelle (1989). <i>Elements of Differentiable Dynamics and Bifurcation Theory</i>. Academic Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-12-601710-7" title="Special:BookSources/0-12-601710-7">0-12-601710-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.au=David+Ruelle&amp;rft.btitle=Elements+of+Differentiable+Dynamics+and+Bifurcation+Theory&amp;rft.date=1989&amp;rft.genre=book&amp;rft.isbn=0-12-601710-7&amp;rft.pub=Academic+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal"><a href="/wiki/David_Ruelle" title="David Ruelle">Ruelle, David</a> (August 2006). <a rel="nofollow" class="external text" href="http://www.ams.org/notices/200607/what-is-ruelle.pdf">"What is...a Strange Attractor?"</a> <span style="font-size:85%;">(<a href="/wiki/PDF" class="mw-redirect" title="PDF">PDF</a>)</span>. <i><a href="/wiki/Notices_of_the_American_Mathematical_Society" title="Notices of the American Mathematical Society">Notices of the American Mathematical Society</a></i>. <b>53</b> (7): 764–765<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=What+is...a+Strange+Attractor%3F&amp;rft.aufirst=David&amp;rft.aulast=Ruelle&amp;rft.date=2006-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ams.org%2Fnotices%2F200607%2Fwhat-is-ruelle.pdf&amp;rft.issue=7&amp;rft.jtitle=Notices+of+the+American+Mathematical+Society&amp;rft.pages=764-765&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=53" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Grebogi; Ott; Pelikan; Yorke (1984). "Strange attractors that are not chaotic". <i>Physica D</i>. <b>13</b>: 261–268. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0167-2789%2884%2990282-3">10.1016/0167-2789(84)90282-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Strange+attractors+that+are+not+chaotic&amp;rft.au=Grebogi&amp;rft.au=Ott&amp;rft.au=Pelikan&amp;rft.au=Yorke&amp;rft.date=1984&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0167-2789%2884%2990282-3&amp;rft.jtitle=Physica+D&amp;rft.pages=261-268&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Chekroun, M. D.; E. Simonnet; M. Ghil (2011). "Stochastic climate dynamics: Random attractors and time-dependent invariant measures". <i>Physica D</i>. 240 (21): 1685–1700. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.physd.2011.06.005">10.1016/j.physd.2011.06.005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Stochastic+climate+dynamics%3A+Random+attractors+and+time-dependent+invariant+measures&amp;rft.au=Chekroun%2C+M.+D.&amp;rft.au=E.+Simonnet&amp;rft.au=M.+Ghil&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.physd.2011.06.005&amp;rft.jtitle=Physica+D&amp;rft.pages=1685-1700&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=240+%2821%29" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/Edward_Lorenz" class="mw-redirect" title="Edward Lorenz">Edward N. Lorenz</a> (1996) <i>The Essence of Chaos</i> <a href="/wiki/Special:BookSources/0295975148" class="internal mw-magiclink-isbn">ISBN 0-295-97514-8</a></li>
+<li><a href="/wiki/James_Gleick" title="James Gleick">James Gleick</a> (1988) <i>Chaos: Making a New Science</i> <a href="/wiki/Special:BookSources/0140092501" class="internal mw-magiclink-isbn">ISBN 0-14-009250-1</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attractor&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.scholarpedia.org/article/Basin_of_attraction">Basin of attraction on Scholarpedia</a></li>
+<li><a rel="nofollow" class="external text" href="http://slide.nethium.pl/album_en.net?gNwADMfFmY">A gallery of trigonometric strange attractors</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.chuacircuits.com/sim.php">Double scroll attractor</a> Chua's circuit simulation</li>
+<li><a rel="nofollow" class="external text" href="https://ccrma.stanford.edu/~stilti/images/chaotic_attractors/poly.html">A gallery of polynomial strange attractors</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.chaoscope.org">Chaoscope, a 3D Strange Attractor rendering freeware</a></li>
+<li><a rel="nofollow" class="external text" href="http://ronrecord.com/PhD/intro.html">Research abstract</a> and <a rel="nofollow" class="external text" href="ftp://ftp2.sco.com/pub/skunkware/src/x11/misc/mathrec-1.1c.tar.gz">software laboratory</a></li>
+<li><a rel="nofollow" class="external text" href="http://wokos.nethium.pl/attractors_en.net">Online strange attractors generator</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131112192849/http://1618.pl/home/math_viz/attractor/attractor.html">Interactive trigonometric attractors generator</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bentamari.com/attractors">Economic attractor</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20170301005642
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.192 seconds
+Real time usage: 0.275 seconds
+Preprocessor visited node count: 1302/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36661/2097152 bytes
+Template argument size: 448/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.083/10.000 seconds
+Lua memory usage: 4.31 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  177.179      1 -total
+ 40.09%   71.040     14 Template:Cite_journal
+ 38.95%   69.017      1 Template:Reflist
+ 15.09%   26.737      1 Template:More_footnotes
+ 11.69%   20.704      1 Template:Ambox
+ 11.16%   19.769      1 Template:Other_uses
+  6.44%   11.402      1 Template:Use_dmy_dates
+  4.54%    8.043      1 Template:DMCA
+  4.40%    7.795      2 Template:Cite_book
+  3.92%    6.940      1 Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:191094-0!*!0!!en!4!*!math=5 and timestamp 20170301005641 and revision id 762893049
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Attractor&amp;oldid=762893049">https://en.wikipedia.org/w/index.php?title=Attractor&amp;oldid=762893049</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Limit_sets" title="Category:Limit sets">Limit sets</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_May_2013" title="Category:Use dmy dates from May 2013">Use dmy dates from May 2013</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_March_2013" title="Category:Articles lacking in-text citations from March 2013">Articles lacking in-text citations from March 2013</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Attractor" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Attractor" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Attractor"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Attractor"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Attractor" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Attractor&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Attractor&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Attractor" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Attractor" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Attractor&amp;oldid=762893049" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Attractor&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q507187" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Attractor&amp;id=762893049" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Attractor">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Attractor&amp;returnto=Attractor&amp;oldid=762893049&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Attractor&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Attractors" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Atractor" title="Atractor – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Atraktor" title="Atraktor – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Attraktor" title="Attraktor – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Atractor" title="Atractor – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Atraktoro" title="Atraktoro – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Attracteur" title="Attracteur – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Atractor" title="Atractor – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%81%8C%EA%B0%9C" title="끌개 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Attrattore" title="Attrattore – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Atraktorius" title="Atraktorius – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Attractor" title="Attractor – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC" title="アトラクター – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Attraktor" title="Attraktor – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Atraktor" title="Atraktor – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Atractor" title="Atractor – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80" title="Аттрактор – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Attratturi_stranu" title="Attratturi stranu – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Atraktor" title="Atraktor – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80" title="Атрактор – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Attraktori" title="Attraktori – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Attraktor" title="Attraktor – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80" title="Атрактор – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%90%B8%E5%BC%95%E5%AD%90" title="吸引子 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q507187#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 January 2017, at 08:04.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Attractor&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.275","ppvisitednodes":{"value":1302,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36661,"limit":2097152},"templateargumentsize":{"value":448,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  177.179      1 -total"," 40.09%   71.040     14 Template:Cite_journal"," 38.95%   69.017      1 Template:Reflist"," 15.09%   26.737      1 Template:More_footnotes"," 11.69%   20.704      1 Template:Ambox"," 11.16%   19.769      1 Template:Other_uses","  6.44%   11.402      1 Template:Use_dmy_dates","  4.54%    8.043      1 Template:DMCA","  4.40%    7.795      2 Template:Cite_book","  3.92%    6.940      1 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.083","limit":"10.000"},"limitreport-memusage":{"value":4517612,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20170301005642","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1266"});});</script>
+	</body>
+</html>

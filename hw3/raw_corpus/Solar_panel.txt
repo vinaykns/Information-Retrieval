@@ -1,0 +1,1169 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Solar panel - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solar_panel","wgTitle":"Solar panel","wgCurRevisionId":767864338,"wgRevisionId":767864338,"wgArticleId":3507365,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","Use dmy dates from July 2013","All articles with unsourced statements","Articles with unsourced statements from February 2014","All accuracy disputes","Articles with disputed statements from January 2013","Articles that may contain original research from August 2013","All articles that may contain original research","Commons category with local link different than on Wikidata","Photovoltaics","Solar-powered devices"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solar_panel","wgRelevantArticleId":3507365,"wgRequestId":"WMVjdApAEK4AAAfQlBAAAABM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q774583","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Photovoltaik_Dachanlage_Hannover_-_Schwarze_Heide_-_1_MW.jpg/1200px-Photovoltaik_Dachanlage_Hannover_-_Schwarze_Heide_-_1_MW.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solar_panel"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Solar_panel&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Solar_panel&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Solar_panel"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Solar_panel rootpage-Solar_panel skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Solar panel</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width: 280px">
+<tr>
+<td><a href="/wiki/File:Photovoltaik_Dachanlage_Hannover_-_Schwarze_Heide_-_1_MW.jpg" class="image" title="Solar PV modules mounted on a flat roof."><img alt="Solar PV modules mounted on a flat roof." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Photovoltaik_Dachanlage_Hannover_-_Schwarze_Heide_-_1_MW.jpg/280px-Photovoltaik_Dachanlage_Hannover_-_Schwarze_Heide_-_1_MW.jpg" width="280" height="186" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Photovoltaik_Dachanlage_Hannover_-_Schwarze_Heide_-_1_MW.jpg/420px-Photovoltaik_Dachanlage_Hannover_-_Schwarze_Heide_-_1_MW.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Photovoltaik_Dachanlage_Hannover_-_Schwarze_Heide_-_1_MW.jpg/560px-Photovoltaik_Dachanlage_Hannover_-_Schwarze_Heide_-_1_MW.jpg 2x" data-file-width="5067" data-file-height="3370" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Flatplate.png" class="image" title="Two solar hot water panels on a rooftop"><img alt="Two solar hot water panels on a rooftop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flatplate.png/280px-Flatplate.png" width="280" height="144" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flatplate.png/420px-Flatplate.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flatplate.png/560px-Flatplate.png 2x" data-file-width="1000" data-file-height="514" /></a></td>
+</tr>
+<tr>
+<td>Solar PV modules (top) and two <a href="/wiki/Solar_hot_water_panel" class="mw-redirect" title="Solar hot water panel">solar hot water panels</a> (bottom) mounted on rooftops</td>
+</tr>
+</table>
+<p><b>Solar panel</b> refers to a panel designed to absorb the sun's rays as a source of energy for generating electricity or heating.</p>
+<p>A <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> (PV) module is a packaged, connect assembly of typically 6×10 photovoltaic <a href="/wiki/Solar_cell" title="Solar cell">solar cells</a>. Photovoltaic modules constitute the photovoltaic array of a <a href="/wiki/Photovoltaic_system" title="Photovoltaic system">photovoltaic system</a> that generates and supplies <a href="/wiki/Solar_electricity" class="mw-redirect" title="Solar electricity">solar electricity</a> in commercial and residential applications. Each module is rated by its <a href="/wiki/Direct_current" title="Direct current">DC</a> output power under standard test conditions (STC), and typically ranges from 100 to 365 watts. The <a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">efficiency</a> of a module determines the area of a module given the same rated output&#160;–  an 8% efficient 230 watt module will have twice the area of a 16% efficient 230 watt module. There are a few commercially available solar modules that exceed 22% efficiency<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and reportedly also exceeding 24%.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> A single solar module can produce only a limited amount of power; most installations contain multiple modules. A photovoltaic system typically includes an array of photovoltaic modules, an <a href="/wiki/Inverter" class="mw-redirect" title="Inverter">inverter</a>, a <a href="/wiki/Battery_(electricity)" title="Battery (electricity)">battery pack</a> for storage, interconnection wiring, and optionally a <a href="/wiki/Solar_tracker" title="Solar tracker">solar tracking</a> mechanism.</p>
+<p>The most common application of solar panels is <a href="/wiki/Solar_water_heating" title="Solar water heating">solar water heating</a> systems.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>The price of solar power has continued to fall so that in many countries it is cheaper than ordinary <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuel</a> electricity from the grid (there is "<a href="/wiki/Grid_parity" title="Grid parity">grid parity</a>").<sup id="cite_ref-UN-Energy-2012_5-0" class="reference"><a href="#cite_note-UN-Energy-2012-5">[5]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Theory_and_construction"><span class="tocnumber">1</span> <span class="toctext">Theory and construction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Efficiencies"><span class="tocnumber">2</span> <span class="toctext">Efficiencies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Cell_to_Module"><span class="tocnumber">2.1</span> <span class="toctext">Cell to Module</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Technology"><span class="tocnumber">3</span> <span class="toctext">Technology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Thin_film"><span class="tocnumber">3.1</span> <span class="toctext">Thin film</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Smart_solar_modules"><span class="tocnumber">4</span> <span class="toctext">Smart solar modules</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Performance_and_degradation"><span class="tocnumber">5</span> <span class="toctext">Performance and degradation</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Maintenance"><span class="tocnumber">6</span> <span class="toctext">Maintenance</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Recycling"><span class="tocnumber">7</span> <span class="toctext">Recycling</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Production"><span class="tocnumber">8</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Price"><span class="tocnumber">9</span> <span class="toctext">Price</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Mounting_and_tracking"><span class="tocnumber">10</span> <span class="toctext">Mounting and tracking</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Standards"><span class="tocnumber">11</span> <span class="toctext">Standards</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Applications"><span class="tocnumber">12</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Gallery"><span class="tocnumber">13</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">14</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">15</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Theory_and_construction">Theory and construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=1" title="Edit section: Theory and construction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Solar_cell" title="Solar cell">Solar cell</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:From_a_solar_cell_to_a_PV_system.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/From_a_solar_cell_to_a_PV_system.svg/220px-From_a_solar_cell_to_a_PV_system.svg.png" width="220" height="181" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/From_a_solar_cell_to_a_PV_system.svg/330px-From_a_solar_cell_to_a_PV_system.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/From_a_solar_cell_to_a_PV_system.svg/440px-From_a_solar_cell_to_a_PV_system.svg.png 2x" data-file-width="2927" data-file-height="2406" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:From_a_solar_cell_to_a_PV_system.svg" class="internal" title="Enlarge"></a></div>
+From a <a href="/wiki/Solar_cell" title="Solar cell">solar cell</a> to a <a href="/wiki/PV_system" class="mw-redirect" title="PV system">PV system</a></div>
+</div>
+</div>
+<p>Photovoltaic modules use light energy (<a href="/wiki/Photon" title="Photon">photons</a>) from the Sun to generate electricity through the <a href="/wiki/Photovoltaic_effect" title="Photovoltaic effect">photovoltaic effect</a>. The majority of modules use <a href="/wiki/Wafer_(electronics)" title="Wafer (electronics)">wafer</a>-based <a href="/wiki/Crystalline_silicon" title="Crystalline silicon">crystalline silicon</a> cells or <a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">thin-film cells</a>. The structural (<a href="/wiki/Dead_and_live_loads" class="mw-redirect" title="Dead and live loads">load carrying</a>) member of a module can either be the top layer or the back layer. Cells must also be protected from mechanical damage and moisture. Most modules are rigid, but semi-flexible ones are available, based on thin-film cells. The cells must be connected electrically in series, one to another. Externally, most of photovoltaic modules use <a href="/wiki/MC4_connector" title="MC4 connector">MC4 connectors</a> type to facilitate easy weatherproof connections to the rest of the system.</p>
+<p>Modules electrical connections are made <a href="/wiki/Series_circuits" class="mw-redirect" title="Series circuits">in series</a> to achieve a desired output voltage and/or <a href="/wiki/Parallel_circuits" class="mw-redirect" title="Parallel circuits">in parallel</a> to provide a desired current capability. The conducting wires that take the current off the modules may contain silver, copper or other non-magnetic conductive [transition metals]. Bypass <a href="/wiki/Diode" title="Diode">diodes</a> may be incorporated or used externally, in case of partial module shading, to maximize the output of module sections still illuminated.</p>
+<p>Some special solar PV modules include <a href="/wiki/Solar_concentrator" class="mw-redirect" title="Solar concentrator">concentrators</a> in which light is focused by <a href="/wiki/Lens_(optics)" title="Lens (optics)">lenses</a> or mirrors onto smaller cells. This enables the use of cells with a high cost per unit area (such as <a href="/wiki/Gallium_arsenide" title="Gallium arsenide">gallium arsenide</a>) in a cost-effective way.</p>
+<h2><span class="mw-headline" id="Efficiencies">Efficiencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=2" title="Edit section: Efficiencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:Best_Research-Cell_Efficiencies.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Best_Research-Cell_Efficiencies.png/350px-Best_Research-Cell_Efficiencies.png" width="350" height="198" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Best_Research-Cell_Efficiencies.png/525px-Best_Research-Cell_Efficiencies.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Best_Research-Cell_Efficiencies.png/700px-Best_Research-Cell_Efficiencies.png 2x" data-file-width="2800" data-file-height="1581" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Best_Research-Cell_Efficiencies.png" class="internal" title="Enlarge"></a></div>
+Reported timeline of <a href="/wiki/Solar_cell" title="Solar cell">solar cell</a> energy conversion efficiencies since 1976 (<a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">National Renewable Energy Laboratory</a>)</div>
+</div>
+</div>
+<p>Depending on construction, photovoltaic modules can produce electricity from a range of <a href="/wiki/Frequency" title="Frequency">frequencies of light</a>, but usually cannot cover the entire solar range (specifically, <a href="/wiki/Ultraviolet" title="Ultraviolet">ultraviolet</a>, <a href="/wiki/Infrared" title="Infrared">infrared</a> and low or diffused light). Hence, much of the incident <a href="/wiki/Sunlight" title="Sunlight">sunlight</a> energy is wasted by solar modules, and they can give far higher efficiencies if illuminated with <a href="/wiki/Monochromatic" class="mw-redirect" title="Monochromatic">monochromatic</a> light. Therefore, another design concept is to split the light into different wavelength ranges and direct the beams onto different cells tuned to those ranges.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>]</sup> This has been projected to be capable of raising efficiency by 50%. Scientists from Spectrolab, a subsidiary of <a href="/wiki/Boeing" title="Boeing">Boeing</a>, have reported development of <a href="/wiki/Multi-junction_solar_cell" title="Multi-junction solar cell">multi-junction solar cells</a> with an efficiency of more than 40%, a new world record for solar photovoltaic cells.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The Spectrolab scientists also predict that concentrator solar cells could achieve efficiencies of more than 45% or even 50% in the future, with theoretical efficiencies being about 58% in cells with more than three junctions.</p>
+<p>Currently the best achieved sunlight conversion rate (solar module efficiency) is around 21.5% in new commercial products<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> typically lower than the efficiencies of their cells in isolation. The most efficient mass-produced solar modules<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Disputed_statement" class="mw-redirect" title="Wikipedia:Disputed statement"><span title="This claim has reliable sources with contradicting facts (January 2013)">disputed</span></a> <span class="metadata">– <a href="/wiki/Talk:Solar_panel" title="Talk:Solar panel">discuss</a></span></i>]</sup> have power density values of up to 175&#160;W/m<sup>2</sup> (16.22&#160;W/ft<sup>2</sup>).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Research by <a href="/wiki/Imperial_College,_London" class="mw-redirect" title="Imperial College, London">Imperial College, London</a> has shown that the efficiency of a solar panel can be improved by studding the light-receiving semiconductor surface with <a href="/wiki/Aluminum" class="mw-redirect" title="Aluminum">aluminum</a> nanocylinders similar to the <a href="/wiki/Ridges" class="mw-redirect" title="Ridges">ridges</a> on <a href="/wiki/Lego_blocks" class="mw-redirect" title="Lego blocks">Lego blocks</a>. The <a href="/wiki/Light_scattering" title="Light scattering">scattered</a> <a href="/wiki/Light" title="Light">light</a> then travels along a longer path in the semiconductor which means that more photons can be absorbed and converted into current. Although these nanocylinders have been used previously (aluminum was preceded by <a href="/wiki/Gold" title="Gold">gold</a> and <a href="/wiki/Silver" title="Silver">silver</a>), the light scattering occurred in the near infrared region and visible light was absorbed strongly. Aluminum was found to have absorbed the ultraviolet part of the spectrum, while the visible and near infrared parts of the spectrum were found to be scattered by the aluminum surface. This, the research argued, could bring down the cost significantly and improve the efficiency as aluminum is more abundant and less costly than gold and silver. The research also noted that the increase in current makes thinner film solar panels technically feasible without "compromising power conversion efficiencies, thus reducing material consumption".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<ul>
+<li>Efficiencies of solar panel can be calculated by MPP (Maximum power point) value of solar panels</li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverters</a> convert the DC power to AC power by performing MPPT process: solar inverter samples the output Power (I-V curve) from the solar cell and applies the proper resistance (load) to solar cells to obtain maximum power.</li>
+<li>MPP (Maximum power point) of the solar panel consists of MPP voltage (V mpp) and MPP current (I mpp): it is a capacity of the solar panel and the higher value can make higher MPP.</li>
+</ul>
+<p>Micro-inverted solar panels are wired in <a href="/wiki/Series_and_parallel_circuits#Parallel_circuits" title="Series and parallel circuits">parallel</a> which produces more output than normal panels which are wired in <a href="/wiki/Series_and_parallel_circuits#Series_circuits" title="Series and parallel circuits">series</a> with the output of the series determined by the lowest performing panel (this is known as the "Christmas light effect"). Micro-inverters work independently so each panel contributes its maximum possible output given the available sunlight.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h3><span class="mw-headline" id="Cell_to_Module">Cell to Module</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=3" title="Edit section: Cell to Module">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Cell to Module ratio (CTM) refers to power or efficiency ratio of a solar panel and the cells it consists of.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Technology">Technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=4" title="Edit section: Technology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main articles: <a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon</a> and <a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">Thin film solar cell</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Global_Market_Share_by_PV_Technology_from_1990_to_2013.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Global_Market_Share_by_PV_Technology_from_1990_to_2013.svg/220px-Global_Market_Share_by_PV_Technology_from_1990_to_2013.svg.png" width="220" height="142" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Global_Market_Share_by_PV_Technology_from_1990_to_2013.svg/330px-Global_Market_Share_by_PV_Technology_from_1990_to_2013.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Global_Market_Share_by_PV_Technology_from_1990_to_2013.svg/440px-Global_Market_Share_by_PV_Technology_from_1990_to_2013.svg.png 2x" data-file-width="1252" data-file-height="810" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Global_Market_Share_by_PV_Technology_from_1990_to_2013.svg" class="internal" title="Enlarge"></a></div>
+Market-share of PV technologies since 1990</div>
+</div>
+</div>
+<p>Most solar modules are currently produced from crystalline silicon (c-Si) <a href="/wiki/Solar_cells" class="mw-redirect" title="Solar cells">solar cells</a> made of <a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">multicrystalline</a> and <a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">monocrystalline silicon</a>. In 2013, crystalline silicon accounted for more than 90 percent of worldwide PV production, while the rest of the overall market is made up of <a href="/wiki/Thin_film_solar_cells" class="mw-redirect" title="Thin film solar cells">thin-film technologies</a> using <a href="/wiki/CdTe_PV" class="mw-redirect" title="CdTe PV">cadmium telluride</a>, <a href="/wiki/CIGS_panel" class="mw-redirect" title="CIGS panel">CIGS</a> and <a href="/wiki/Amorphous_silicon" title="Amorphous silicon">amorphous silicon</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Emerging, <a href="/wiki/Thin_film_solar_cell#Emerging_photovoltaics" class="mw-redirect" title="Thin film solar cell">third generation</a> solar technologies use advanced thin-film cells. They produce a relatively high-efficiency conversion for the low cost compared to other solar technologies. Also, high-cost, high-efficiency, and close-packed rectangular <a href="/wiki/Multi-junction_solar_cell" title="Multi-junction solar cell">multi-junction (MJ) cells</a> are preferably used in <a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">solar panels on spacecraft</a>, as they offer the highest ratio of generated power per kilogram lifted into space. MJ-cells are <a href="/wiki/Compound_semiconductor" class="mw-redirect" title="Compound semiconductor">compound semiconductors</a> and made of <a href="/wiki/Gallium_arsenide" title="Gallium arsenide">gallium arsenide</a> (GaAs) and other semiconductor materials. Another emerging PV technology using MJ-cells is <a href="/wiki/Concentrator_photovoltaics" title="Concentrator photovoltaics">concentrator photovoltaics</a> ( CPV ).</p>
+<h3><span class="mw-headline" id="Thin_film">Thin film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=5" title="Edit section: Thin film">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In rigid <a href="/wiki/Thin-film_module" class="mw-redirect" title="Thin-film module">thin-film modules</a>, the cell and the module are manufactured in the same production line. The cell is created on a glass <a href="/wiki/Substrate_(materials_science)" class="mw-redirect" title="Substrate (materials science)">substrate</a> or superstrate, and the electrical connections are created <i>in situ</i>, a so-called "monolithic integration". The substrate or superstrate is laminated with an encapsulant to a front or back <a href="https://en.wiktionary.org/wiki/sheet" class="extiw" title="wikt:sheet">sheet</a>, usually another sheet of glass. The main cell technologies in this category are <a href="/wiki/Cadmium_telluride" title="Cadmium telluride">CdTe</a>, or <a href="/wiki/Amorphous_silicon" title="Amorphous silicon">a-Si</a>, or <a href="/wiki/Micromorphous_silicon" class="mw-redirect" title="Micromorphous silicon">a-Si+uc-Si tandem</a>, or <a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">CIGS</a> (or variant). Amorphous silicon has a sunlight conversion rate of 6–12%</p>
+<p>Flexible thin film cells and modules are created on the same production line by depositing the <a href="/wiki/Photoactive_layer" title="Photoactive layer">photoactive layer</a> and other necessary layers on a <a href="/wiki/Flexible_substrate" class="mw-redirect" title="Flexible substrate">flexible substrate</a>. If the substrate is an <a href="/wiki/Insulator_(electrical)" class="mw-redirect" title="Insulator (electrical)">insulator</a> (e.g. <a href="/wiki/Polyester" title="Polyester">polyester</a> or <a href="/wiki/Polyimide" title="Polyimide">polyimide</a> film) then <a href="/wiki/Die_(integrated_circuit)" title="Die (integrated circuit)">monolithic</a> integration can be used. If it is a conductor then another technique for electrical connection must be used. The cells are assembled into modules by <a href="/wiki/Laminating" class="mw-redirect" title="Laminating">laminating</a> them to a transparent colourless <a href="/wiki/Fluoropolymer" title="Fluoropolymer">fluoropolymer</a> on the front side (typically <a href="/wiki/ETFE" title="ETFE">ETFE</a> or <a href="/wiki/Fluorinated_ethylene_propylene" title="Fluorinated ethylene propylene">FEP</a>) and a polymer suitable for bonding to the final substrate on the other side.</p>
+<h2><span class="mw-headline" id="Smart_solar_modules">Smart solar modules</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=6" title="Edit section: Smart solar modules">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main articles: <a href="/wiki/Smart_module" title="Smart module">Smart module</a> and <a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></div>
+<p>Several companies have begun embedding electronics into PV modules. This enables performing <a href="/wiki/Maximum_power_point_tracking" title="Maximum power point tracking">maximum power point tracking</a> (MPPT) for each module individually, and the measurement of performance data for monitoring and fault detection at module level. Some of these solutions make use of <a href="/wiki/Power_optimizer" title="Power optimizer">power optimizers</a>, a DC-to-DC converter technology developed to maximize the power harvest from solar photovoltaic systems. As of about 2010, such electronics can also compensate for shading effects, wherein a shadow falling across a section of a module causes the electrical output of one or more strings of cells in the module to fall to zero, but not having the output of the entire module fall to zero.</p>
+<h2><span class="mw-headline" id="Performance_and_degradation">Performance and degradation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=7" title="Edit section: Performance and degradation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Solar_panel&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span> <small><i>(August 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>Module performance is generally rated under standard test conditions (STC): <a href="/wiki/Irradiance" title="Irradiance">irradiance</a> of 1,000 <a href="/wiki/W/m2" class="mw-redirect" title="W/m2">W/m²</a>, solar <a href="/wiki/Spectrum" title="Spectrum">spectrum</a> of <a href="/wiki/Airmass" class="mw-redirect" title="Airmass">AM</a> 1.5 and module temperature at 25&#160;°C.</p>
+<p>Electrical characteristics include nominal power (P<sub>MAX</sub>, measured in <a href="/wiki/Watt" title="Watt">W</a>), <a href="/wiki/Open_circuit_voltage" class="mw-redirect" title="Open circuit voltage">open circuit voltage</a> (V<sub>OC</sub>), <a href="/wiki/Short_circuit_current" class="mw-redirect" title="Short circuit current">short circuit current</a> (I<sub>SC</sub>, measured in <a href="/wiki/Ampere" title="Ampere">amperes</a>), maximum power voltage (V<sub>MPP</sub>), maximum power current (I<sub>MPP</sub>), peak power, (<a href="/wiki/Watt-peak" class="mw-redirect" title="Watt-peak">watt-peak</a>, W<sub>p</sub>), and module efficiency (%).</p>
+<p>Nominal voltage refers to the voltage of the battery that the module is best suited to charge; this is a leftover term from the days when solar modules were only used to charge batteries. The actual voltage output of the module changes as lighting, temperature and load conditions change, so there is never one specific voltage at which the module operates. Nominal voltage allows users, at a glance, to make sure the module is compatible with a given system.</p>
+<p>Open circuit voltage or V<sub>OC</sub> is the maximum voltage that the module can produce when not connected to an electrical circuit or system. V<sub>OC</sub> can be measured with a <a href="/wiki/Voltmeter" title="Voltmeter">voltmeter</a> directly on an illuminated module's terminals or on its disconnected cable.</p>
+<p>The peak power rating, W<sub>p</sub>, is the maximum output under standard test conditions (not the maximum possible output). Typical modules, which could measure approximately 1x2 meters or 2x4 feet, will be rated from as low as 75 watts to as high as 350 watts, depending on their efficiency. At the time of testing, the test modules are binned according to their test results, and a typical manufacturer might rate their modules in 5 watt increments, and either rate them at +/- 3%, +/-5%, +3/-0% or +5/-0%.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>Solar modules must withstand rain, <a href="/wiki/Hail" title="Hail">hail</a>, heavy snow load, and cycles of heat and cold for many years. Many <a href="/wiki/Crystalline_silicon" title="Crystalline silicon">crystalline silicon</a> module manufacturers offer a <a href="/wiki/Warranty" title="Warranty">warranty</a> that guarantees electrical production for 10 years at 90% of rated power output and 25 years at 80%.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<p><a href="/wiki/Potential_induced_degradation" title="Potential induced degradation">Potential induced degradation</a> (also called PID) is a potential induced performance degradation in crystalline photovoltaic modules, caused by so-called stray currents. This effect may cause power loss of up to 30 percent.</p>
+<p>The largest challenge of photovoltaic technology is the efficiencies of such solar systems. While utilizing such systems draws a great interest due to the long term returns of profit, the efficacy needs to come a long way before making it plausible to be introduced in all consumers of electricity.</p>
+<p>The problem resides in the enormous activation energy that must be overcome for a photon to excite an electron for harvesting purposes. Advancements in photovoltaic technologies have brought about the process of "doping" the silicon substrate to lower the activation energy thereby making the panel more efficient in converting photons to retrievable electrons.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Chemicals such as Boron (p-type) are applied into the semiconductor crystal in order to create donor and acceptor energy levels substantially closer to the valence and conductor <a rel="nofollow" class="external text" href="http://2012books.lardbucket.org/books/principles-of-general-chemistry-v1.0/section_16/6520efadc9fafd08d3043572e61e9765.jpg">bands</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> In doing so, the addition of Boron impurity allows the activation energy to decrease 20 fold from 1.12 eV to 0.05 eV. Since the potential difference (E<sub>B</sub>) is so low, the Boron is able to thermally ionize at room temperatures. This allows for free energy carriers in the conduction and valence bands thereby allowing greater conversion of photons to electrons.</p>
+<p>Solar power allows for greater efficiency than heat, such as the generation of energy in heat engines. The drawback with heat is that most of the heat created is lost to the surroundings. Thermal efficiency is as defined:</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mi>h</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2261;<!-- ≡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>W</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>o</mi>
+                <mi>u</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>Q</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mi>n</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>Q</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>o</mi>
+                <mi>u</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>Q</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mi>n</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{th}\equiv {\frac {W_{out}}{Q_{in}}}=1-{\frac {Q_{out}}{Q_{in}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a2dee4ec17f87bb4735ba08917074a74055401c3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:24.092ex; height:6.176ex;" alt="\eta _{th}\equiv {\frac {W_{out}}{Q_{in}}}=1-{\frac {Q_{out}}{Q_{in}}}" /></span></p>
+<p>Due to the inherent irreversibility of heat production for useful work, efficiency levels are decreased. On the other hand, with solar panels there isn't a requirement to retain any heat, and there are no drawbacks such as friction.</p>
+<h2><span class="mw-headline" id="Maintenance">Maintenance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=8" title="Edit section: Maintenance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Solar panel conversion efficiency, typically in the 20 percent range, is reduced by dust, grime, pollen, and other particulates that accumulate on the solar panel. "A dirty solar panel can reduce its power capabilities by up to 30 percent in high dust/pollen or desert areas", says Seamus Curran, associate professor of physics at the University of Houston and director of the Institute for NanoEnergy, which specializes in the design, engineering, and assembly of nanostructures.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<p>Paying to have solar panels cleaned is often not a good investment; researchers found panels that hadn’t been cleaned, or rained on, for 145 days during a summer drought in California, lost only 7.4 percent of their efficiency. Overall, for a typical residential solar system of 5 kilowatts, washing panels halfway through the summer would translate into a mere $20 gain in electricity production until the summer drought ends—in about 2 ½ months. For larger commercial rooftop systems, the financial losses are bigger but still rarely enough to warrant the cost of washing the panels. On average, panels lost a little less than 0.05 percent of their overall efficiency per day.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="Recycling">Recycling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=9" title="Edit section: Recycling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most parts of a solar module can be recycled including up to 95% of certain semiconductor materials or the glass as well as large amounts of ferrous and non-ferrous metals.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Some private companies and non-profit organizations are currently engaged in take-back and recycling operations for end-of-life modules.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<p>Recycling possibilities depend on the kind of technology used in the modules:</p>
+<ul>
+<li>Silicon based modules: aluminum frames and junction boxes are dismantled manually at the beginning of the process. The module is then crushed in a mill and the different fractions are separated - glass, plastics and metals.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> It is possible to recover more than 80% of the incoming weight.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> This process can be performed by flat glass recyclers since morphology and composition of a PV module is similar to those flat glasses used in the building and automotive industry. The recovered glass for example is readily accepted by the glass foam and glass insulation industry.</li>
+<li>Non-silicon based modules: they require specific recycling technologies such as the use of chemical baths in order to separate the different semiconductor materials.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> For <a href="/wiki/Cadmium_telluride" title="Cadmium telluride">cadmium telluride</a> modules, the recycling process begins by crushing the module and subsequently separating the different fractions. This recycling process is designed to recover up to 90% of the glass and 95% of the semiconductor materials contained.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> Some commercial-scale recycling facilities have been created in recent years by private companies.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></li>
+</ul>
+<p>Since 2010, there is an annual European conference bringing together manufacturers, recyclers and researchers to look at the future of PV module recycling.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></p>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=10" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">List of photovoltaics companies</a></div>
+<table class="wikitable floatright" style="font-size: 0.9em; text-align: center; margin-left: 12px;">
+<tr>
+<th>#</th>
+<th>Top Module Producer</th>
+<th>Shipments in 2014 (<a href="/wiki/Megawatt" class="mw-redirect" title="Megawatt">MW</a>)</th>
+</tr>
+<tr>
+<td>1.</td>
+<td align="left"><a href="/wiki/Yingli" title="Yingli">Yingli</a></td>
+<td>3,200</td>
+</tr>
+<tr>
+<td>2.</td>
+<td align="left"><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></td>
+<td>2,580</td>
+</tr>
+<tr>
+<td>3.</td>
+<td align="left"><a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp Solar</a></td>
+<td>2,100</td>
+</tr>
+<tr>
+<td>4.</td>
+<td align="left"><a href="/wiki/Canadian_Solar" title="Canadian Solar">Canadian Solar</a></td>
+<td>1,894</td>
+</tr>
+<tr>
+<td>5.</td>
+<td align="left"><a href="/wiki/Jinko_Solar" title="Jinko Solar">Jinko Solar</a></td>
+<td>1,765</td>
+</tr>
+<tr>
+<td>6.</td>
+<td align="left"><a href="/w/index.php?title=ReneSola&amp;action=edit&amp;redlink=1" class="new" title="ReneSola (page does not exist)">ReneSola</a></td>
+<td>1,728</td>
+</tr>
+<tr>
+<td>7.</td>
+<td align="left"><a href="/wiki/First_Solar" title="First Solar">First Solar</a></td>
+<td>1,600</td>
+</tr>
+<tr>
+<td>8.</td>
+<td align="left"><a href="/wiki/Hanwha_SolarOne" class="mw-redirect" title="Hanwha SolarOne">Hanwha SolarOne</a></td>
+<td>1,280</td>
+</tr>
+<tr>
+<td>9.</td>
+<td align="left"><a href="/wiki/Kyocera" title="Kyocera">Kyocera</a></td>
+<td>1,200</td>
+</tr>
+<tr>
+<td>10.</td>
+<td align="left"><a href="/wiki/JA_Solar" class="mw-redirect" title="JA Solar">JA Solar</a></td>
+<td>1,173</td>
+</tr>
+</table>
+<p>In 2010, 15.9 <a href="/wiki/GigaWatt" class="mw-redirect" title="GigaWatt">GW</a> of solar PV system installations were completed, with solar PV pricing survey and market research company PVinsights reporting growth of 117.8% in solar PV installation on a year-on-year basis.</p>
+<p>With over 100% year-on-year growth in PV system installation, PV module makers dramatically increased their shipments of solar modules in 2010. They actively expanded their capacity and turned themselves into gigawatt <a href="/wiki/GigaWatt" class="mw-redirect" title="GigaWatt">GW</a> players.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> According to PVinsights, five of the top ten PV module companies in 2010 are GW players. Suntech, First Solar, Sharp, Yingli and Trina Solar are GW producers now, and most of them doubled their shipments in 2010.<sup id="cite_ref-pvmarketresearch1_32-0" class="reference"><a href="#cite_note-pvmarketresearch1-32">[32]</a></sup></p>
+<p>The basis of producing solar panels revolves around the use of silicon cells.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> These silicon cells are typically 10-20% efficient<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> at converting sunlight into electricity, with newer production models now exceeding 22%.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></p>
+<p>In order for solar panels to become more efficient, researchers across the world have been trying to develop new technologies to make solar panels more effective at turning sunlight into energy.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></p>
+<p>In 2014, the world's top ten solar module producers in terms of shipped capacity during the calendar year of 2014 were <a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a>, <a href="/wiki/Yingli" title="Yingli">Yingli</a>, <a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp Solar</a> and <a href="/wiki/Canadian_Solar" title="Canadian Solar">Canadian Solar</a>.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Price">Price</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=11" title="Edit section: Price">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Grid_parity" title="Grid parity">Grid parity</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Swansons-law.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Swansons-law.svg/220px-Swansons-law.svg.png" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Swansons-law.svg/330px-Swansons-law.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Swansons-law.svg/440px-Swansons-law.svg.png 2x" data-file-width="800" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Swansons-law.svg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Swanson%27s_law" title="Swanson's law">Swanson's law</a> states that with every doubling of production of panels, there has been a 20 percent reduction in the cost of panels.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></div>
+</div>
+</div>
+<p>Average pricing information divides in three pricing categories: those buying small quantities (modules of all sizes in the kilowatt range annually), mid-range buyers (typically up to 10&#160;<a href="/wiki/MWp" class="mw-redirect" title="MWp">MWp</a> annually), and large quantity buyers (self-explanatory—and with access to the lowest prices). Over the long term there is clearly a systematic reduction in the price of cells and modules. For example, in 2012 it was estimated that the quantity cost per watt was about US$0.60, which was 250 times lower than the cost in 1970 of US$150.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> A 2015 study shows price/kWh dropping by 10% per year since 1980, and predicts that solar could contribute 20% of total electricity consumption by 2030, whereas the <a href="/wiki/International_Energy_Agency" title="International Energy Agency">International Energy Agency</a> predicts 16% by 2050.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></p>
+<p>Real world energy production costs depend a great deal on local weather conditions. In a cloudy country such as the United Kingdom, the cost per produced kWh is higher than in sunnier countries like Spain.</p>
+<p>Following to <a href="/wiki/Rocky_Mountain_Institute" title="Rocky Mountain Institute">RMI</a>, <a href="/wiki/Balance_of_system" title="Balance of system">Balance-of-System</a> (BoS) elements, this is, non-module cost of non-<a href="/wiki/Microinverter" class="mw-redirect" title="Microinverter">microinverter</a> solar modules (as wiring, converters, racking systems and various components) make up about half of the total costs of installations.</p>
+<p>For merchant solar power stations, where the electricity is being sold into the electricity transmission network, the cost of <a href="/wiki/Solar_energy" title="Solar energy">solar energy</a> will need to match the wholesale electricity price. This point is sometimes called 'wholesale grid parity' or 'busbar parity'.<sup id="cite_ref-UN-Energy-2012_5-1" class="reference"><a href="#cite_note-UN-Energy-2012-5">[5]</a></sup></p>
+<p>Some photovoltaic systems, such as rooftop installations, can supply power directly to an electricity user. In these cases, the installation can be competitive when the output cost matches the price at which the user pays for his electricity consumption. This situation is sometimes called 'retail grid parity', 'socket parity' or 'dynamic grid parity'.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup> Research carried out by <a href="/wiki/UN-Energy" title="UN-Energy">UN-Energy</a> in 2012 suggests areas of sunny countries with high electricity prices, such as Italy, Spain and Australia, and areas using diesel generators, have reached retail grid parity.<sup id="cite_ref-UN-Energy-2012_5-2" class="reference"><a href="#cite_note-UN-Energy-2012-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Mounting_and_tracking">Mounting and tracking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=12" title="Edit section: Mounting and tracking">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main articles: <a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a> and <a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:EarthRangersCentre-ImageEnhancement.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EarthRangersCentre-ImageEnhancement.jpg/220px-EarthRangersCentre-ImageEnhancement.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EarthRangersCentre-ImageEnhancement.jpg/330px-EarthRangersCentre-ImageEnhancement.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EarthRangersCentre-ImageEnhancement.jpg/440px-EarthRangersCentre-ImageEnhancement.jpg 2x" data-file-width="4928" data-file-height="3264" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:EarthRangersCentre-ImageEnhancement.jpg" class="internal" title="Enlarge"></a></div>
+Solar modules mounted on solar trackers</div>
+</div>
+</div>
+<p><br />
+Ground mounted photovoltaic system are usually large, utility-scale <a href="/wiki/Solar_power_plants" class="mw-redirect" title="Solar power plants">solar power plants</a>. Their solar modules are held in place by racks or frames that are attached to ground based mounting supports.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> Ground based mounting supports include:</p>
+<ul>
+<li>Pole mounts, which are driven directly into the ground or embedded in concrete.</li>
+<li>Foundation mounts, such as concrete slabs or poured footings</li>
+<li>Ballasted footing mounts, such as concrete or steel bases that use weight to secure the solar module system in position and do not require ground penetration. This type of mounting system is well suited for sites where excavation is not possible such as capped landfills and simplifies decommissioning or relocation of solar module systems.</li>
+</ul>
+<p>Roof-mounted solar power systems consist of solar modules held in place by racks or frames attached to roof-based mounting supports.<sup id="cite_ref-eco_45-0" class="reference"><a href="#cite_note-eco-45">[45]</a></sup> Roof-based mounting supports include:</p>
+<ul>
+<li>Pole mounts, which are attached directly to the roof structure and may use additional rails for attaching the module racking or frames.</li>
+<li>Ballasted footing mounts, such as concrete or steel bases that use weight to secure the panel system in position and do not require through penetration. This mounting method allows for decommissioning or relocation of solar panel systems with no adverse effect on the roof structure.</li>
+<li>All wiring connecting adjacent solar modules to the energy harvesting equipment must be installed according to local electrical codes and should be run in a conduit appropriate for the climate conditions</li>
+</ul>
+<p><a href="/wiki/Solar_tracker" title="Solar tracker">Solar trackers</a> increase the amount of energy produced per module at a cost of mechanical complexity and need for maintenance. They sense the direction of the Sun and tilt or rotate the modules as needed for maximum exposure to the light.<sup id="cite_ref-NREL_tracker_46-0" class="reference"><a href="#cite_note-NREL_tracker-46">[46]</a></sup><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup> Alternatively, fixed racks hold modules stationary as the sun moves across the sky. The fixed rack sets the angle at which the module is held. Tilt angles equivalent to an installation's latitude are common. Most of these fixed racks are set on poles above ground.<sup id="cite_ref-mounting_tilt_48-0" class="reference"><a href="#cite_note-mounting_tilt-48">[48]</a></sup> Panels that face West or East may provide slightly lower energy, but evens out the supply, and may provide more power during peak demand.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup></p>
+<h2><span class="mw-headline" id="Standards">Standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=13" title="Edit section: Standards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Standards generally used in photovoltaic modules:</p>
+<ul>
+<li><a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a> 61215 (<a href="/wiki/Crystalline_silicon" title="Crystalline silicon">crystalline silicon</a> performance), 61646 (<a href="/wiki/Thin_film" title="Thin film">thin film</a> performance) and 61730 (all modules, safety)</li>
+<li><a href="/w/index.php?title=ISO_9488&amp;action=edit&amp;redlink=1" class="new" title="ISO 9488 (page does not exist)">ISO 9488</a> Solar energy—Vocabulary.</li>
+<li><a href="/w/index.php?title=UL_1703&amp;action=edit&amp;redlink=1" class="new" title="UL 1703 (page does not exist)">UL 1703</a> From <a href="/wiki/Underwriters_Laboratories" class="mw-redirect" title="Underwriters Laboratories">Underwriters Laboratories</a></li>
+<li><a href="/w/index.php?title=UL_1741&amp;action=edit&amp;redlink=1" class="new" title="UL 1741 (page does not exist)">UL 1741</a> From <a href="/wiki/Underwriters_Laboratories" class="mw-redirect" title="Underwriters Laboratories">Underwriters Laboratories</a></li>
+<li><a href="/w/index.php?title=UL_2703&amp;action=edit&amp;redlink=1" class="new" title="UL 2703 (page does not exist)">UL 2703</a> From <a href="/wiki/Underwriters_Laboratories" class="mw-redirect" title="Underwriters Laboratories">Underwriters Laboratories</a></li>
+<li><a href="/wiki/CE_mark" class="mw-redirect" title="CE mark">CE mark</a></li>
+<li><a href="/w/index.php?title=Electrical_Safety_Tester&amp;action=edit&amp;redlink=1" class="new" title="Electrical Safety Tester (page does not exist)">Electrical Safety Tester</a> (EST) Series (EST-460, EST-22V, EST-22H, EST-110).</li>
+</ul>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=14" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are many practical applications for the use of solar panels or photovoltaics. It can first be used in agriculture as a power source for irrigation. In health care solar panels can be used to refrigerate medical supplies. It can also be used for infrastructure. PV modules are used in <a href="/wiki/Photovoltaic_system" title="Photovoltaic system">photovoltaic systems</a> and include a <a href="/wiki/Photovoltaic_system#Other_systems" title="Photovoltaic system">large variety of electric devices</a>:</p>
+<ul>
+<li><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Photovoltaic power stations</a></li>
+<li><a href="/wiki/Rooftop_solar_PV" class="mw-redirect" title="Rooftop solar PV">Rooftop solar PV</a> systems</li>
+<li><a href="/wiki/PV_system#Standalone" class="mw-redirect" title="PV system">Standalone PV systems</a></li>
+<li><a href="/wiki/Solar_hybrid_power_systems" title="Solar hybrid power systems">Solar hybrid power systems</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Solar_plane" class="mw-redirect" title="Solar plane">Solar planes</a></li>
+<li><a href="/wiki/Solar-pumped_laser" title="Solar-pumped laser">Solar-pumped lasers</a></li>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicles</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecrafts</a> and <a href="/wiki/Space_station" title="Space station">space stations</a></li>
+</ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=15" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:SoSie%2BSoSchiff_Ansicht.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/SoSie%2BSoSchiff_Ansicht.jpg/120px-SoSie%2BSoSchiff_Ansicht.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/SoSie%2BSoSchiff_Ansicht.jpg/180px-SoSie%2BSoSchiff_Ansicht.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/SoSie%2BSoSchiff_Ansicht.jpg/240px-SoSie%2BSoSchiff_Ansicht.jpg 2x" data-file-width="2161" data-file-height="1625" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Solar Settlement with the <a href="/wiki/Sun_Ship" title="Sun Ship">Sun Ship</a> in the background (Freiburg, Germany)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:34.5px auto;"><a href="/wiki/File:LuftSS.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/LuftSS.jpg/120px-LuftSS.jpg" width="120" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/LuftSS.jpg/180px-LuftSS.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/LuftSS.jpg/240px-LuftSS.jpg 2x" data-file-width="3744" data-file-height="2516" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Bird's eye view of the Solar Settlement</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:PV_solar_roof_mount_and_rack.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/de/PV_solar_roof_mount_and_rack.jpg/120px-PV_solar_roof_mount_and_rack.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/de/PV_solar_roof_mount_and_rack.jpg/180px-PV_solar_roof_mount_and_rack.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/de/PV_solar_roof_mount_and_rack.jpg/240px-PV_solar_roof_mount_and_rack.jpg 2x" data-file-width="2856" data-file-height="2142" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A roof-mounted solar panel system installed on a sloped roof using pole mounts and rails</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30.5px auto;"><a href="/wiki/File:Solar_panels_in_yate_england_arp.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Solar_panels_in_yate_england_arp.jpg/120px-Solar_panels_in_yate_england_arp.jpg" width="120" height="89" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Solar_panels_in_yate_england_arp.jpg/180px-Solar_panels_in_yate_england_arp.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Solar_panels_in_yate_england_arp.jpg/240px-Solar_panels_in_yate_england_arp.jpg 2x" data-file-width="1980" data-file-height="1470" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Solar panels roof-mounted on a house in <a href="/wiki/Yate" title="Yate">Yate</a>, <a href="/wiki/South_Gloucestershire" title="South Gloucestershire">South Gloucestershire</a>, <a href="/wiki/England" title="England">England</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:36px auto;"><a href="/wiki/File:Onduleur_hybride_2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Onduleur_hybride_2.JPG/120px-Onduleur_hybride_2.JPG" width="120" height="78" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Onduleur_hybride_2.JPG/180px-Onduleur_hybride_2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Onduleur_hybride_2.JPG/240px-Onduleur_hybride_2.JPG 2x" data-file-width="2154" data-file-height="1401" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Rooftop PV hybrid system</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Solar_panels_on_house_roof.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Solar_panels_on_house_roof.jpg/120px-Solar_panels_on_house_roof.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Solar_panels_on_house_roof.jpg/180px-Solar_panels_on_house_roof.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Solar_panels_on_house_roof.jpg/240px-Solar_panels_on_house_roof.jpg 2x" data-file-width="3872" data-file-height="2592" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Photovoltaic solar panels on the roof of a house near <a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:39px auto;"><a href="/wiki/File:Solar_Panels_on_Caguas,_Puerto_Rico_Walmart.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Solar_Panels_on_Caguas%2C_Puerto_Rico_Walmart.jpg/120px-Solar_Panels_on_Caguas%2C_Puerto_Rico_Walmart.jpg" width="120" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Solar_Panels_on_Caguas%2C_Puerto_Rico_Walmart.jpg/180px-Solar_Panels_on_Caguas%2C_Puerto_Rico_Walmart.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Solar_Panels_on_Caguas%2C_Puerto_Rico_Walmart.jpg/240px-Solar_Panels_on_Caguas%2C_Puerto_Rico_Walmart.jpg 2x" data-file-width="2198" data-file-height="1318" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Solar modules mounted on a <a href="/wiki/Walmart" title="Walmart">Walmart</a> in <a href="/wiki/Caguas,_Puerto_Rico" title="Caguas, Puerto Rico">Caguas, Puerto Rico</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Tuebingen-friedenskirche.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tuebingen-friedenskirche.jpg/120px-Tuebingen-friedenskirche.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tuebingen-friedenskirche.jpg/180px-Tuebingen-friedenskirche.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tuebingen-friedenskirche.jpg/240px-Tuebingen-friedenskirche.jpg 2x" data-file-width="1638" data-file-height="1228" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Roof with CIS-solar-cells in Tübingen, Germany</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:PV_solar_installers_on_sloped_roof.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/PV_solar_installers_on_sloped_roof.jpg/120px-PV_solar_installers_on_sloped_roof.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/PV_solar_installers_on_sloped_roof.jpg/180px-PV_solar_installers_on_sloped_roof.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/PV_solar_installers_on_sloped_roof.jpg/240px-PV_solar_installers_on_sloped_roof.jpg 2x" data-file-width="2856" data-file-height="2142" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Technicians installing photovoltaic modules on a roof-mounted rack</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:39px auto;"><a href="/wiki/File:Solar_panels_in_Ogiinuur.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Solar_panels_in_Ogiinuur.jpg/120px-Solar_panels_in_Ogiinuur.jpg" width="120" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Solar_panels_in_Ogiinuur.jpg/180px-Solar_panels_in_Ogiinuur.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Solar_panels_in_Ogiinuur.jpg/240px-Solar_panels_in_Ogiinuur.jpg 2x" data-file-width="2030" data-file-height="1218" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A solar array composed of a solar panel with 24 solar modules in rural Mongolia</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg/120px-Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg/180px-Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg/240px-Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg 2x" data-file-width="2288" data-file-height="1712" /></a></div>
+</div>
+<div class="gallerytext">
+<p>525&#160;kW BIPV commercial roofing system in Gillette Stadium (Foxborough, Massachusetts)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Earth_horizon_and_International_Space_Station_solar_panel_array_(Expedition_17_crew,_August_2008).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Earth_horizon_and_International_Space_Station_solar_panel_array_%28Expedition_17_crew%2C_August_2008%29.jpg/120px-Earth_horizon_and_International_Space_Station_solar_panel_array_%28Expedition_17_crew%2C_August_2008%29.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Earth_horizon_and_International_Space_Station_solar_panel_array_%28Expedition_17_crew%2C_August_2008%29.jpg/180px-Earth_horizon_and_International_Space_Station_solar_panel_array_%28Expedition_17_crew%2C_August_2008%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Earth_horizon_and_International_Space_Station_solar_panel_array_%28Expedition_17_crew%2C_August_2008%29.jpg/240px-Earth_horizon_and_International_Space_Station_solar_panel_array_%28Expedition_17_crew%2C_August_2008%29.jpg 2x" data-file-width="3072" data-file-height="2040" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Solar modules on the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 24em; -webkit-column-width: 24em; column-width: 24em;">
+<ul>
+<li><a href="/wiki/Domestic_energy_consumption" title="Domestic energy consumption">Domestic energy consumption</a></li>
+<li><a href="/wiki/Digital_modeling_and_fabrication" title="Digital modeling and fabrication">Digital modeling and fabrication</a></li>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">List of photovoltaics companies</a></li>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Sky_footage" title="Sky footage">Sky footage</a></li>
+<li><a href="/wiki/Solar_cooker" title="Solar cooker">Solar cooker</a></li>
+<li><a href="/wiki/Solar_roadway" class="mw-redirect" title="Solar roadway">Solar roadway</a></li>
+<li><a href="/wiki/Solar_oven" class="mw-redirect" title="Solar oven">Solar oven</a></li>
+<li><a href="/wiki/Solar_still" title="Solar still">Solar still</a></li>
+<li><a href="/wiki/SolarCity" title="SolarCity">SolarCity</a></li>
+<li><a href="/wiki/Grid-tied_electrical_system" title="Grid-tied electrical system">Grid-tied electrical system</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_panel&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://mashable.com/2015/10/02/elon-musk-solarcity-new-solar-panel/#rl51EY6uOPqG">Ulanoff, L. Elon Musk and SolarCity unveil ‘world’smost efficient’ solar panel, Mashable, October 2, 2015, accessed June 28, 2016</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.sciencedaily.com/releases/2016/05/160517121811.htm">Milestone in solar cell efficiency achieved: New record for unfocused sunlight edges closer to theoretic limits. Wilson da Silva. Science Daily. May 17, 2016</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sciencedaily.com/releases/2016/05/160517121811.htm">University of New South Wales. "Milestone in solar cell efficiency achieved: New record for unfocused sunlight edges closer to theoretic limits." ScienceDaily, 17 May 2016.</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Li, Wei; Rubin, Tzameret H.; Onyina, Paul A. (2013-05-01). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/sd.1547/abstract">"Comparing Solar Water Heater Popularization Policies in China, Israel and Australia: The Roles of Governments in Adopting Green Innovations"</a>. <i>Sustainable Development</i>. <b>21</b> (3): 160–170. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fsd.1547">10.1002/sd.1547</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1099-1719">1099-1719</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.atitle=Comparing+Solar+Water+Heater+Popularization+Policies+in+China%2C+Israel+and+Australia%3A+The+Roles+of+Governments+in+Adopting+Green+Innovations&amp;rft.aufirst=Wei&amp;rft.aulast=Li&amp;rft.au=Onyina%2C+Paul+A.&amp;rft.au=Rubin%2C+Tzameret+H.&amp;rft.date=2013-05-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fsd.1547%2Fabstract&amp;rft_id=info%3Adoi%2F10.1002%2Fsd.1547&amp;rft.issn=1099-1719&amp;rft.issue=3&amp;rft.jtitle=Sustainable+Development&amp;rft.pages=160-170&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=21" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-UN-Energy-2012-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-UN-Energy-2012_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UN-Energy-2012_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-UN-Energy-2012_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation report">Morgan Baziliana; et al. (17 May 2012). <a rel="nofollow" class="external text" href="http://www.un-energy.org/stories/2498-re-considering-the-economics-of-photovoltaic-power">Re-considering the economics of photovoltaic power</a>. <i>UN-Energy</i> (Report). United Nations<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.au=Morgan+Baziliana&amp;rft.btitle=Re-considering+the+economics+of+photovoltaic+power&amp;rft.date=2012-05-17&amp;rft.genre=report&amp;rft_id=http%3A%2F%2Fwww.un-energy.org%2Fstories%2F2498-re-considering-the-economics-of-photovoltaic-power&amp;rft.pub=United+Nations&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">KING, R.R., et al., Appl. Phys. Letters 90 (2007) 183516.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://us.sunpower.com/homes/products-services/solar-panels/e-series/">"SunPower e20 Module"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=SunPower+e20+Module&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fus.sunpower.com%2Fhomes%2Fproducts-services%2Fsolar-panels%2Fe-series%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.panasonic.com/business/pesna/includes/pdf/eco-construction-solution/HIT_Power_220A_Datasheet.pdf">"HIT® Photovoltaic Module"</a> <span style="font-size:85%;">(PDF)</span>. Sanyo / Panasonic<span class="reference-accessdate">. Retrieved <span class="nowrap">25 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=HIT%AE+Photovoltaic+Module&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.panasonic.com%2Fbusiness%2Fpesna%2Fincludes%2Fpdf%2Feco-construction-solution%2FHIT_Power_220A_Datasheet.pdf&amp;rft.pub=Sanyo+%2F+Panasonic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thehindu.com/sci-tech/science/improving-the-efficiency-of-solar-panels/article5265330.ece">"Improving the efficiency of solar panels"</a>. The Hindu. 24 October 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">24 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=Improving+the+efficiency+of+solar+panels&amp;rft.date=2013-10-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thehindu.com%2Fsci-tech%2Fscience%2Fimproving-the-efficiency-of-solar-panels%2Farticle5265330.ece&amp;rft.pub=The+Hindu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.solarcompared.co.uk/micro-inverters-for-residential-solar-arrays/">"Micro Inverters for Residential Solar Arrays"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=Micro+Inverters+for+Residential+Solar+Arrays&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solarcompared.co.uk%2Fmicro-inverters-for-residential-solar-arrays%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cell-to-module.com">www.cell-to-module.com</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ise.fraunhofer.de/en/downloads-englisch/pdf-files-englisch/photovoltaics-report-slides.pdf">Photovoltaics Report, Fraunhofer ISE, 28 July 2014</a>, pages 18,19</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.q-cells.com/fileadmin/Website_Relaunch_2014/4_Products/4.1_Solar_Modules/4.1.1_Q.PEAK-G3/Hanwha_Q_CELLS_Data_sheet_QPEAK-G3_265-280_2014_11_Rev08_EN.pdf">[1]</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.phoenixsolar-group.com/dms/produkte/module/pdf/en/FirstSolar_PD-5-401-03-Global-Series-3-Datasheet/PD-5-401-03%20Global%20Series%203%20Datasheet.pdf">"First Solar – FS-377 / FS-380 / FS-382 / FS-385 Datasheet"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=First+Solar+%93+FS-377+%2F+FS-380+%2F+FS-382+%2F+FS-385+Datasheet&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.phoenixsolar-group.com%2Fdms%2Fprodukte%2Fmodule%2Fpdf%2Fen%2FFirstSolar_PD-5-401-03-Global-Series-3-Datasheet%2FPD-5-401-03%2520Global%2520Series%25203%2520Datasheet.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.trinasolar.com/images/PDF/datasheets/us/TSM-PA14_US.pdf">"TSM PC/PM14 Datasheet"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=TSM+PC%2FPM14+Datasheet&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.trinasolar.com%2Fimages%2FPDF%2Fdatasheets%2Fus%2FTSM-PA14_US.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.yinglisolar.com/frontend/downloads/datasheets/YGE_235_Series_US.pdf">"YGE 235 Data sheet"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=YGE+235+Data+sheet&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.yinglisolar.com%2Ffrontend%2Fdownloads%2Fdatasheets%2FYGE_235_Series_US.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cti-solar.com/userfiles/file/brochlet%20CTI-SOLAR%20vers%20EN.pdf">"CTI Solar sales brochure"</a> <span style="font-size:85%;">(PDF)</span>. <i>cti-solar.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.atitle=CTI+Solar+sales+brochure&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cti-solar.com%2Fuserfiles%2Ffile%2Fbrochlet%2520CTI-SOLAR%2520vers%2520EN.pdf&amp;rft.jtitle=cti-solar.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://science.howstuffworks.com/environmental/energy/solar-cell2.htm">"How Solar Cells Work"</a>. <i>HowStuffWorks</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.atitle=How+Solar+Cells+Work&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fscience.howstuffworks.com%2Fenvironmental%2Fenergy%2Fsolar-cell2.htm&amp;rft.jtitle=HowStuffWorks&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://2012books.lardbucket.org/books/principles-of-general-chemistry-v1.0/s16-06-bonding-in-metals-and-semicond.html">"Bonding in Metals and Semiconductors"</a>. <i>2012books.lardbucket.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.atitle=Bonding+in+Metals+and+Semiconductors&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2F2012books.lardbucket.org%2Fbooks%2Fprinciples-of-general-chemistry-v1.0%2Fs16-06-bonding-in-metals-and-semicond.html&amp;rft.jtitle=2012books.lardbucket.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Crawford, Mike (October 2012). <a rel="nofollow" class="external text" href="https://www.asme.org/engineering-topics/articles/energy/self-cleaning-solar-panels-maximize-efficiency">"Self-Cleaning Solar Panels Maximize Efficiency"</a>. <i>The American Society of Mechanical Engineers</i>. ASME<span class="reference-accessdate">. Retrieved <span class="nowrap">15 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.atitle=Self-Cleaning+Solar+Panels+Maximize+Efficiency&amp;rft.aufirst=Mike&amp;rft.aulast=Crawford&amp;rft.date=2012-10&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.asme.org%2Fengineering-topics%2Farticles%2Fenergy%2Fself-cleaning-solar-panels-maximize-efficiency&amp;rft.jtitle=The+American+Society+of+Mechanical+Engineers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Patringenaru, Ioana (August 2013). <a rel="nofollow" class="external text" href="http://ucsdnews.ucsd.edu/pressrelease/cleaning_solar_panels_often_not_worth_the_cost_engineers_at_uc_san_diego_fi">"Cleaning Solar Panels Often Not Worth the Cost, Engineers at UC San Diego Find"</a>. <i>UC San Diego News Center</i>. UC San Diego News Center<span class="reference-accessdate">. Retrieved <span class="nowrap">31 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.atitle=Cleaning+Solar+Panels+Often+Not+Worth+the+Cost%2C+Engineers+at+UC+San+Diego+Find&amp;rft.aufirst=Ioana&amp;rft.aulast=Patringenaru&amp;rft.date=2013-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fucsdnews.ucsd.edu%2Fpressrelease%2Fcleaning_solar_panels_often_not_worth_the_cost_engineers_at_uc_san_diego_fi&amp;rft.jtitle=UC+San+Diego+News+Center&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Lisa Krueger. 1999. <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bnl.gov/pv/files/PRS_Agenda/2_Krueger_IEEE-Presentation-Final.pdf">"Overview of First Solar's Module Collection and Recycling Program"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Brookhaven_National_Laboratory" title="Brookhaven National Laboratory">Brookhaven National Laboratory</a> p. 23<span class="reference-accessdate">. Retrieved August 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=Overview+of+First+Solar%27s+Module+Collection+and+Recycling+Program&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bnl.gov%2Fpv%2Ffiles%2FPRS_Agenda%2F2_Krueger_IEEE-Presentation-Final.pdf&amp;rft.pub=Brookhaven+National+Laboratory+p.+23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Karsten Wambach. 1999. <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bnl.gov/pv/files/PRS_Agenda/3_4_PV-Module-RecyclingWambach.pdf">"A Voluntary Take Back Scheme and Industrial Recycling of Photovoltaic Modules"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Brookhaven_National_Laboratory" title="Brookhaven National Laboratory">Brookhaven National Laboratory</a> p. 37<span class="reference-accessdate">. Retrieved August 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=A+Voluntary+Take+Back+Scheme+and+Industrial+Recycling+of+Photovoltaic+Modules&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bnl.gov%2Fpv%2Ffiles%2FPRS_Agenda%2F3_4_PV-Module-RecyclingWambach.pdf&amp;rft.pub=Brookhaven+National+Laboratory+p.+37&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Krueger. 1999. p. 12-14</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Wambach. 1999. p. 15</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Wambach. 1999. p. 17</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Krueger. 1999. p. 23</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Wambach. 1999. p. 23</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unendlich-viel-energie.de/en/details/browse/11/article/253/first-breakthrough-in-solar-photovoltaic-module-recycling-experts-say.html">"First Breakthrough In Solar Photovoltaic Module Recycling, Experts Say"</a>. <a href="/wiki/European_Photovoltaic_Industry_Association" class="mw-redirect" title="European Photovoltaic Industry Association">European Photovoltaic Industry Association</a><span class="reference-accessdate">. Retrieved January 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=First+Breakthrough+In+Solar+Photovoltaic+Module+Recycling%2C+Experts+Say&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.unendlich-viel-energie.de%2Fen%2Fdetails%2Fbrowse%2F11%2Farticle%2F253%2Ffirst-breakthrough-in-solar-photovoltaic-module-recycling-experts-say.html&amp;rft.pub=European+Photovoltaic+Industry+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pvcycle.org/3rd-international-conference-on-pv-module-recycling/">"3rd International Conference on PV Module Recycling"</a>. PV CYCLE<span class="reference-accessdate">. Retrieved October 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=3rd+International+Conference+on+PV+Module+Recycling&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pvcycle.org%2F3rd-international-conference-on-pv-module-recycling%2F&amp;rft.pub=PV+CYCLE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.helicalpower.com">"Solar Power Plant Report"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=Solar+Power+Plant+Report&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.helicalpower.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pvmarketresearch1-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-pvmarketresearch1_32-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pvinsights.com/Report/ReportPMM04A.php">"PVinsights announces worldwide 2010 top 10 ranking of PV module makers"</a>. www.pvinsights.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=PVinsights+announces+worldwide+2010+top+10+ranking+of+PV+module+makers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpvinsights.com%2FReport%2FReportPMM04A.php&amp;rft.pub=www.pvinsights.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.solarpowerworldonline.com/2013/05/what-are-solar-panels-made-of/">http://www.solarpowerworldonline.com/2013/05/what-are-solar-panels-made-of/</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.engineeringchallenges.org/cms/8996/9082.aspx">http://www.engineeringchallenges.org/cms/8996/9082.aspx</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.solarcity.com/newsroom/press/solarcity-unveils-world%E2%80%99s-most-efficient-rooftop-solar-panel-be-made-america">"SolarCity Press Release"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=SolarCity+Press+Release&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solarcity.com%2Fnewsroom%2Fpress%2Fsolarcity-unveils-world%25E2%2580%2599s-most-efficient-rooftop-solar-panel-be-made-america&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.asme.org/engineering-topics/articles/renewable-energy/making-solar-panels-more-efficient">https://www.asme.org/engineering-topics/articles/renewable-energy/making-solar-panels-more-efficient</a></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pv-tech.org/editors_blog/who_are_the_leaders_and_laggards_of_the_top_10_pv_module_manufacturers_in_2">"Leaders and laggards of the top 10 PV module manufacturers in 2014"</a>. PV Tech<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=Leaders+and+laggards+of+the+top+10+PV+module+manufacturers+in+2014&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pv-tech.org%2Feditors_blog%2Fwho_are_the_leaders_and_laggards_of_the_top_10_pv_module_manufacturers_in_2&amp;rft.pub=PV+Tech&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.greentechmedia.com/articles/read/Is-there-really-a-Swansons-Law">"Swanson's Law and Making US Solar Scale Like Germany"</a>. <i>Greentech Media</i>. 24 November 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.atitle=Swanson%27s+Law+and+Making+US+Solar+Scale+Like+Germany&amp;rft.date=2014-11-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.greentechmedia.com%2Farticles%2Fread%2FIs-there-really-a-Swansons-Law&amp;rft.jtitle=Greentech+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web">ENF Ltd. (8 January 2013). <a rel="nofollow" class="external text" href="http://www.enfsolar.com/news/Small-Chinese-Solar-Manufacturers-Decimated-in-2012">"Small Chinese Solar Manufacturers Decimated in 2012 | Solar PV Business News | ENF Company Directory"</a>. Enfsolar.com<span class="reference-accessdate">. Retrieved <span class="nowrap">29 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.au=ENF+Ltd.&amp;rft.btitle=Small+Chinese+Solar+Manufacturers+Decimated+in+2012+%26%23124%3B+Solar+PV+Business+News+%26%23124%3B+ENF+Company+Directory&amp;rft.date=2013-01-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.enfsolar.com%2Fnews%2FSmall-Chinese-Solar-Manufacturers-Decimated-in-2012&amp;rft.pub=Enfsolar.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://www.nap.edu/catalog.php?record_id=5954"><i>Harnessing Light</i></a>. National Research Council. 1997. p.&#160;162.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=Harnessing+Light&amp;rft.date=1997&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nap.edu%2Fcatalog.php%3Frecord_id%3D5954&amp;rft.pages=162&amp;rft.pub=National+Research+Council&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web">J. Doyne Farmer, François Lafond (2 November 2015). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0048733315001699">"How predictable is technological progress?"</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.respol.2015.11.001">10.1016/j.respol.2015.11.001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.au=J.+Doyne+Farmer%2C+Fran%C3%A7ois+Lafond&amp;rft.btitle=How+predictable+is+technological+progress%3F&amp;rft.date=2015-11-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0048733315001699&amp;rft_id=info%3Adoi%2F10.1016%2Fj.respol.2015.11.001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> License: cc. Note: Appendix F. A trend extrapolation of solar energy capacity.</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.epia.org/fileadmin/user_upload/Publications/Competing_Full_Report.pdf">"Solar Photovoltaics competing in the energy sector – On the road to competitiveness"</a> <span style="font-size:85%;">(PDF)</span>. EPIA<span class="reference-accessdate">. Retrieved August 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=Solar+Photovoltaics+competing+in+the+energy+sector+%93+On+the+road+to+competitiveness&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epia.org%2Ffileadmin%2Fuser_upload%2FPublications%2FCompeting_Full_Report.pdf&amp;rft.pub=EPIA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">SolarProfessional.com <a rel="nofollow" class="external text" href="http://solarprofessional.com/articles/products-equipment/racking/ground-mount-pv-racking-systems">Ground-Mount PV Racking Systems</a> March 2013</span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text">Massachusetts Department of Energy Resources <a rel="nofollow" class="external text" href="http://www.mass.gov/eea/docs/doer/renewables/solar/solar-pv-guide.pdf">Ground-Mounted Solar Photovoltaic Systems</a>, December 2012</span></li>
+<li id="cite_note-eco-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-eco_45-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ecodiy.org/california%20PV/californian%20photovoltaic%20best.htm">"A Guide To Photovoltaic System Design And Installation"</a>. ecodiy.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=A+Guide+To+Photovoltaic+System+Design+And+Installation&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ecodiy.org%2Fcalifornia%2520PV%2Fcalifornian%2520photovoltaic%2520best.htm&amp;rft.pub=ecodiy.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NREL_tracker-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-NREL_tracker_46-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Shingleton, J. <a rel="nofollow" class="external text" href="http://www.nrel.gov/docs/fy08osti/42769.pdf">"One-Axis Trackers – Improved Reliability, Durability, Performance, and Cost Reduction"</a> <span style="font-size:85%;">(PDF)</span>. National Renewable Energy Laboratory<span class="reference-accessdate">. Retrieved <span class="nowrap">30 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.aufirst=J&amp;rft.aulast=Shingleton&amp;rft.btitle=One-Axis+Trackers+%93+Improved+Reliability%2C+Durability%2C+Performance%2C+and+Cost+Reduction&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nrel.gov%2Fdocs%2Ffy08osti%2F42769.pdf&amp;rft.pub=National+Renewable+Energy+Laboratory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web">Mousazadeh, Hossain; et al. <a rel="nofollow" class="external text" href="http://xa.yimg.com/kq/groups/22199541/1797755549/name/A%252Breview%252Bof%252Bprinciple%252Band%252Bsun-tracking%252Bmethods%252Bfor%252Bmaximizing.pdf">"A review of principle and sun-tracking methods for maximizing"</a> <span style="font-size:85%;">(PDF)</span>. <i>Renewable and Sustainable Energy Reviews 13 (2009) 1800–1818</i>. Elsevier<span class="reference-accessdate">. Retrieved <span class="nowrap">30 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.atitle=A+review+of+principle+and+sun-tracking+methods+for+maximizing&amp;rft.aufirst=Hossain&amp;rft.aulast=Mousazadeh&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fxa.yimg.com%2Fkq%2Fgroups%2F22199541%2F1797755549%2Fname%2FA%25252Breview%25252Bof%25252Bprinciple%25252Band%25252Bsun-tracking%25252Bmethods%25252Bfor%25252Bmaximizing.pdf&amp;rft.jtitle=Renewable+and+Sustainable+Energy+Reviews+13+%282009%29+1800%931818&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mounting_tilt-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-mounting_tilt_48-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.solarpaneltilt.com/">"Optimum Tilt of Solar Panels"</a>. MACS Lab<span class="reference-accessdate">. Retrieved <span class="nowrap">19 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+panel&amp;rft.btitle=Optimum+Tilt+of+Solar+Panels&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solarpaneltilt.com%2F&amp;rft.pub=MACS+Lab&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.telegraph.co.uk/news/earth/energy/solarpower/10996273/Most-solar-panels-are-facing-the-wrong-direction-say-scientists.html">http://www.telegraph.co.uk/news/earth/energy/solarpower/10996273/Most-solar-panels-are-facing-the-wrong-direction-say-scientists.html</a></span></li>
+</ol>
+</div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics">Photovoltaics</a></b></i>.</td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="Photovoltaics" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Photovoltaics" title="Template talk:Photovoltaics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Photovoltaics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Photovoltaics" style="font-size:114%"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></li>
+<li><a href="/wiki/Photoelectric_effect" title="Photoelectric effect">Photoelectric effect</a></li>
+<li><a href="/wiki/Solar_insolation" class="mw-redirect" title="Solar insolation">Solar insolation</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">Nominal power (Watt-peak)</a></li>
+<li><a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">Thin film solar cell</a></li>
+<li><a href="/wiki/Multijunction_photovoltaic_cell" class="mw-redirect" title="Multijunction photovoltaic cell">Multijunction photovoltaic cell</a></li>
+<li><a href="/wiki/Third_generation_photovoltaic_cell" class="mw-redirect" title="Third generation photovoltaic cell">Third generation photovoltaic cell</a></li>
+<li><a href="/wiki/Solar_cell_research" title="Solar cell research">Solar cell research</a></li>
+<li><a href="/wiki/Quantum_efficiency_of_a_solar_cell" class="mw-redirect" title="Quantum efficiency of a solar cell">Quantum efficiency of a solar cell</a></li>
+<li><a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">Thermophotovoltaic</a></li>
+<li><a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></li>
+<li><a href="/wiki/Sun-free_photovoltaics" title="Sun-free photovoltaics">Sun-free photovoltaics</a></li>
+<li><a href="/wiki/Polarizing_organic_photovoltaics" title="Polarizing organic photovoltaics">Polarizing organic photovoltaics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_semiconductor_materials" title="List of semiconductor materials">List of semiconductor materials</a></li>
+<li><a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon (c-Si)</a></li>
+<li><a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">Polycrystalline silicon (multi-Si)</a></li>
+<li><a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">Monocrystalline silicon (mono-Si)</a></li>
+<li><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">Copper indium gallium selenide</a></li>
+<li><a href="/wiki/Amorphous_silicon" title="Amorphous silicon">Amorphous silicon (a-Si)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/Timeline_of_solar_cells" title="Timeline of solar cells">Timeline of solar cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:4inch_poly_solar_cell.jpg" class="image"><img alt="4inch poly solar cell.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/150px-4inch_poly_solar_cell.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/225px-4inch_poly_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/300px-4inch_poly_solar_cell.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_cell" title="Solar cell">Solar cells</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polymer_solar_cell" class="mw-redirect" title="Polymer solar cell">Polymer solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></li>
+<li><a href="/wiki/Quantum_dot_solar_cell" title="Quantum dot solar cell">Quantum dot solar cell</a></li>
+<li><a href="/wiki/Hybrid_solar_cell" title="Hybrid solar cell">Hybrid solar cell</a></li>
+<li><a href="/wiki/Plasmonic_solar_cell" title="Plasmonic solar cell">Plasmonic solar cell</a></li>
+<li><a href="/wiki/Carbon_nanotubes_in_photovoltaics" title="Carbon nanotubes in photovoltaics">Carbon nanotubes in photovoltaics</a></li>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">Cadmium telluride photovoltaics</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide_solar_cells" title="Copper indium gallium selenide solar cells">Copper indium gallium selenide solar cells</a></li>
+<li><a href="/wiki/Printed_solar_panel" class="mw-redirect" title="Printed solar panel">Printed solar panel</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Solar panel</strong></li>
+<li><a href="/wiki/Balance_of_system" title="Balance of system">Balance of system</a></li>
+<li><a href="/wiki/Solar_charge_controller" class="mw-redirect" title="Solar charge controller">Solar charge controller</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></li>
+<li><a href="/wiki/Solar_cable" title="Solar cable">Solar cable</a></li>
+<li><a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a></li>
+<li><a href="/wiki/Maximum_power_point_tracker" class="mw-redirect" title="Maximum power point tracker">Maximum power point tracker</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Solar_shingles" class="mw-redirect" title="Solar shingles">Solar shingles</a></li>
+<li><a href="/wiki/Solar_mirror#Photovoltaic_augmentation" title="Solar mirror">Solar mirror</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perturb_and_observe_method" class="mw-redirect" title="Perturb and observe method">Perturb and observe method</a></li>
+<li><a href="/wiki/Incremental_conductance_method" class="mw-redirect" title="Incremental conductance method">Incremental conductance method</a></li>
+<li><a href="/wiki/Constant_voltage_method" class="mw-redirect" title="Constant voltage method">Constant voltage method</a></li>
+<li><a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">Fill factor</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Appliances</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar-powered_refrigerator" title="Solar-powered refrigerator">Solar-powered refrigerator</a></li>
+<li><a href="/wiki/Solar_air_conditioning#Photovoltaic_.28PV.29_solar_cooling" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_charger" title="Solar charger">Solar charger</a></li>
+<li><a href="/wiki/Solar_backpack" title="Solar backpack">Solar backpack</a></li>
+<li><a href="/wiki/Solar_tree" title="Solar tree">Solar tree</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+<li><a href="/wiki/Solar-powered_watch" title="Solar-powered watch">Solar-powered watch</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Photovoltaic_keyboard" title="Photovoltaic keyboard">Photovoltaic keyboard</a></li>
+<li><a href="/wiki/Solar_road_stud" title="Solar road stud">Solar road stud</a></li>
+<li><a href="/wiki/Solar_cell_phone_charger" title="Solar cell phone charger">Solar cell phone charger</a></li>
+<li><a href="/wiki/Solar_notebook" title="Solar notebook">Solar notebook</a></li>
+<li><a href="/wiki/Solar-powered_calculator" title="Solar-powered calculator">Solar-powered calculator</a></li>
+<li><a href="/wiki/Solar-powered_fountain" title="Solar-powered fountain">Solar-powered fountain</a></li>
+<li><a href="/wiki/Solar-powered_radio" title="Solar-powered radio">Solar-powered radio</a></li>
+<li><a href="/wiki/Solar-powered_flashlight" title="Solar-powered flashlight">Solar-powered flashlight</a></li>
+<li><a href="/wiki/Solar-powered_fan" title="Solar-powered fan">Solar-powered fan</a></li>
+<li><a href="/wiki/Solar_street_light" title="Solar street light">Solar street light</a></li>
+<li><a href="/wiki/Solar_traffic_light" title="Solar traffic light">Solar traffic light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Land transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Solar_car" title="Solar car">Solar car</a></li>
+<li><a href="/wiki/Solar_roadway" class="mw-redirect" title="Solar roadway">Solar roadway</a></li>
+<li><a href="/wiki/Solar_golf_cart" title="Solar golf cart">Solar golf cart</a></li>
+<li><a href="/wiki/The_Quiet_Achiever" title="The Quiet Achiever">The Quiet Achiever</a></li>
+<li><a href="/wiki/Sunmobile" title="Sunmobile">Sunmobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Air transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Mauro_Solar_Riser" title="Mauro Solar Riser">Mauro Solar Riser</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a></li>
+<li><a href="/wiki/Solar-Powered_Aircraft_Developments_Solar_One" title="Solar-Powered Aircraft Developments Solar One">Solar-Powered Aircraft Developments Solar One</a></li>
+<li><a href="/wiki/Gossamer_Penguin" class="mw-redirect" title="Gossamer Penguin">Gossamer Penguin</a></li>
+<li><a href="/wiki/Qinetiq_Zephyr" title="Qinetiq Zephyr">Qinetiq Zephyr</a></li>
+<li><a href="/wiki/Solar_Challenger" class="mw-redirect" title="Solar Challenger">Solar Challenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Water transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_boat#Types" title="Electric boat">Solar boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Solar vehicle racing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_car_racing" title="Solar car racing">Solar car racing</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a href="/wiki/Solar_challenge_(disambiguation)" class="mw-redirect mw-disambig" title="Solar challenge (disambiguation)">Solar challenges</a></li>
+<li><a href="/wiki/World_Solar_Challenge" title="World Solar Challenge">World Solar Challenge</a></li>
+<li><a href="/wiki/American_Solar_Challenge" title="American Solar Challenge">American Solar Challenge</a></li>
+<li><a href="/wiki/Formula_Sun_Grand_Prix" title="Formula Sun Grand Prix">Formula Sun Grand Prix</a></li>
+<li><a href="/wiki/Solar_Cup" title="Solar Cup">Solar Cup</a></li>
+<li><a href="/wiki/Frisian_Solar_Challenge" title="Frisian Solar Challenge">Frisian Solar Challenge</a></li>
+<li><a href="/wiki/Solar_Splash" title="Solar Splash">Solar Splash</a></li>
+<li><a href="/wiki/South_African_Solar_Challenge" title="South African Solar Challenge">South African Solar Challenge</a></li>
+<li><a href="/wiki/Tour_de_Sol" title="Tour de Sol">Tour de Sol</a></li>
+<li><a href="/wiki/Hunt-Winston_School_Solar_Car_Challenge" class="mw-redirect" title="Hunt-Winston School Solar Car Challenge">Hunt-Winston School Solar Car Challenge</a></li>
+<li><a href="/wiki/Victorian_Model_Solar_Vehicle_Challenge" title="Victorian Model Solar Vehicle Challenge">Victorian Model Solar Vehicle Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Generation systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">PV power station</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alamosa_photovoltaic_power_plant" title="Alamosa photovoltaic power plant">Alamosa photovoltaic power plant</a></li>
+<li><a href="/wiki/Beneixama_photovoltaic_power_plant" title="Beneixama photovoltaic power plant">Beneixama photovoltaic power plant</a></li>
+<li><a href="/wiki/Blythe_Photovoltaic_Power_Plant" title="Blythe Photovoltaic Power Plant">Blythe Photovoltaic Power Plant</a></li>
+<li><a href="/wiki/Copper_Mountain_Solar_Facility" title="Copper Mountain Solar Facility">Copper Mountain Solar Facility</a></li>
+<li><a href="/wiki/Darro_Solar_Park" title="Darro Solar Park">Darro Solar Park</a></li>
+<li><a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">Erlasee Solar Park</a></li>
+<li><a href="/wiki/Huanghe_Hydropower_Golmud_Solar_Park" title="Huanghe Hydropower Golmud Solar Park">Golmud Solar Park</a></li>
+<li><a href="/wiki/Gottelborn_Solar_Park" class="mw-redirect" title="Gottelborn Solar Park">Gottelborn Solar Park</a></li>
+<li><a href="/wiki/Guadarranque_solar_power_plant" class="mw-redirect" title="Guadarranque solar power plant">Guadarranque solar power plant</a></li>
+<li><a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">Köthen Solar Park</a></li>
+<li><a href="/wiki/Moura_Photovoltaic_Power_Station" title="Moura Photovoltaic Power Station">Moura Photovoltaic Power Station</a></li>
+<li><a href="/wiki/Olmedilla_Photovoltaic_Park" title="Olmedilla Photovoltaic Park">Olmedilla Photovoltaic Park</a></li>
+<li><a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">Pocking Solar Park</a></li>
+<li><a href="/wiki/Puertollano_Photovoltaic_Park" title="Puertollano Photovoltaic Park">Puertollano Photovoltaic Park</a></li>
+<li><a href="/wiki/Topaz_Solar_Farm" title="Topaz Solar Farm">Topaz Solar Farm</a></li>
+<li><a href="/wiki/Wyandot_Solar_Facility" title="Wyandot Solar Facility">Wyandot Solar Facility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Building-mounted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Solar_Ark" title="Solar Ark">Solar Ark</a></li>
+<li><a href="/wiki/Solar_Umbrella_house" title="Solar Umbrella house">Solar Umbrella house</a></li>
+<li><a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">Strasskirchen Solar Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Bulgaria" title="Solar power in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_Chile" title="Solar power in Chile">Chile</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Solar_power_in_France" title="Solar power in France">France</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Switzerland" title="Solar power in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">PV companies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_countries_by_photovoltaics_production" class="mw-redirect" title="List of countries by photovoltaics production">List of countries by photovoltaics production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual producers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_Solar" title="First Solar">First Solar</a></li>
+<li><a href="/wiki/Hanwha_Q_CELLS" class="mw-redirect" title="Hanwha Q CELLS">Hanwha Q CELLS</a></li>
+<li><a href="/wiki/JA_Solar" class="mw-redirect" title="JA Solar">JA Solar</a></li>
+<li><a href="/wiki/Motech_Solar" title="Motech Solar">Motech Solar</a></li>
+<li><a href="/wiki/Renewable_Energy_Corporation" title="Renewable Energy Corporation">REC</a></li>
+<li><a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp</a></li>
+<li><a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a></li>
+<li><a href="/wiki/Solyndra" title="Solyndra">Solyndra</a></li>
+<li><a href="/wiki/SUNGEN_International_Limited" title="SUNGEN International Limited">Sungen Solar</a></li>
+<li><a href="/wiki/Sunpower" class="mw-redirect" title="Sunpower">Sunpower</a></li>
+<li><a href="/wiki/Suntech" class="mw-redirect" title="Suntech">Suntech</a></li>
+<li><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></li>
+<li><a href="/wiki/Yingli_Solar" class="mw-redirect" title="Yingli Solar">Yingli Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1188
+Cached time: 20170312150200
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.476 seconds
+Real time usage: 0.607 seconds
+Preprocessor visited node count: 2363/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 127587/2097152 bytes
+Template argument size: 1473/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.198/10.000 seconds
+Lua memory usage: 5.18 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  469.062      1 -total
+ 38.31%  179.700      1 Template:Reflist
+ 20.84%   97.753     28 Template:Cite_web
+ 14.55%   68.252      2 Template:Fix
+ 11.79%   55.301      1 Template:Citation_needed
+  7.82%   36.701      1 Template:Use_dmy_dates
+  7.51%   35.249      6 Template:Navbox
+  7.27%   34.080      3 Template:Category_handler
+  6.47%   30.355      1 Template:Cite_journal
+  6.34%   29.736      2 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3507365-0!*!0!!en!4!*!math=5 and timestamp 20170312150159 and revision id 767864338
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solar_panel&amp;oldid=767864338">https://en.wikipedia.org/w/index.php?title=Solar_panel&amp;oldid=767864338</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Photovoltaics</a></li><li><a href="/wiki/Category:Solar-powered_devices" title="Category:Solar-powered devices">Solar-powered devices</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2013" title="Category:Use dmy dates from July 2013">Use dmy dates from July 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2014" title="Category:Articles with unsourced statements from February 2014">Articles with unsourced statements from February 2014</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_January_2013" title="Category:Articles with disputed statements from January 2013">Articles with disputed statements from January 2013</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_August_2013" title="Category:Articles that may contain original research from August 2013">Articles that may contain original research from August 2013</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Solar+panel" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Solar+panel" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Solar_panel"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Solar_panel"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Solar_panel" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Solar_panel&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Solar_panel&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Solar_panel" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Solar_panel" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Solar_panel&amp;oldid=767864338" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Solar_panel&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q774583" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solar_panel&amp;id=767864338" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solar+panel">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Solar+panel&amp;returnto=Solar+panel&amp;oldid=767864338&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Solar_panel&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Solar_panels" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Sonpaneel" title="Sonpaneel – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D9%88%D8%AD_%D8%B6%D9%88%D8%A6%D9%8A_%D8%AC%D9%87%D8%AF%D9%8A" title="لوح ضوئي جهدي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/G%C3%BCn%C9%99%C5%9F_paneli" title="Günəş paneli – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D1%8D%D1%8F" title="Сонечная батарэя – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BB%D1%8A%D0%BD%D1%87%D0%B5%D0%B2%D0%B0_%D0%B1%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D1%8F" title="Слънчева батерия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Placa_solar" title="Placa solar – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Sol%C3%A1rn%C3%AD_panel" title="Solární panel – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Panel_solar" title="Panel solar – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Solcellepanel" title="Solcellepanel – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Solarmodul" title="Solarmodul – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/Sh%C3%A1%C5%84d%C3%AD%C3%ADn_bits%CA%BC%C4%85%CC%81%C4%85%CC%81d%C4%99%CC%81%C4%99%CC%81%CA%BC_atsinilt%C5%82%CA%BCish_%C3%A1l%CA%BC%C4%AF%CC%81" title="Sháńdíín bitsʼą́ą́dę́ę́ʼ atsiniltłʼish álʼį́ – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/P%C3%A4ikesepatarei" title="Päikesepatarei – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Panel_solar" title="Panel solar – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Sunpanelo" title="Sunpanelo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Panel_fotovoltaiko" title="Panel fotovoltaiko – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%D9%84_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C" title="پانل خورشیدی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Panneau_solaire" title="Panneau solaire – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Panel_solar" title="Panel solar – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D6%80%D6%87%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B4%D5%A1%D6%80%D5%BF%D5%AF%D5%B8%D6%81" title="Արևային մարտկոց – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8C%E0%A4%B0_%E0%A4%AA%E0%A5%88%E0%A4%A8%E0%A4%B2" title="सौर पैनल – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Panel_surya" title="Panel surya – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B3%8C%E0%B2%B0_%E0%B2%AB%E0%B2%B2%E0%B2%95" title="ಸೌರ ಫಲಕ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Convectrum_solare" title="Convectrum solare – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Saul%C4%97s_modulis" title="Saulės modulis – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Lib%C3%A1y%C3%A1_m%C3%B3%C3%AD" title="Libáyá móí – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B5%8B%E0%B4%B3%E0%B4%BE%E0%B5%BC_%E0%B4%AA%E0%B4%BE%E0%B4%A8%E0%B5%BD" title="സോളാർ പാനൽ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Zonnepaneel" title="Zonnepaneel – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB" title="ソーラーパネル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Quyosh_batareyasi" title="Quyosh batareyasi – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Panou_solar" title="Panou solar – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F" title="Солнечная батарея – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Solar_panel" title="Solar panel – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Solar_panel" title="Solar panel – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Sol%C3%A1rny_panel" title="Solárny panel – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B0%D1%80%D0%BD%D0%B8_%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB" title="Соларни панел – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Solpanel" title="Solpanel – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%91%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F%D2%B3%D0%BE%D0%B8_%D0%BE%D1%84%D1%82%D0%BE%D0%B1%D3%A3" title="Батареяҳои офтобӣ – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9F_paneli" title="Güneş paneli – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BD%D1%8F%D1%87%D0%BD%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D1%8C" title="Сонячна панель – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/T%E1%BA%A5m_n%C4%83ng_l%C6%B0%E1%BB%A3ng_m%E1%BA%B7t_tr%E1%BB%9Di" title="Tấm năng lượng mặt trời – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Panes_%C3%A5_solea" title="Panes å solea – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%96%D7%95%D7%A0%D7%A4%D7%90%D7%A0%D7%A2%D7%9C" title="זונפאנעל – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E8%83%BD%E6%9D%BF" title="太陽能板 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%85%89%E4%BC%8F%E6%A8%A1%E7%B5%84" title="光伏模組 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q774583#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 February 2017, at 11:30.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Solar_panel&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.476","walltime":"0.607","ppvisitednodes":{"value":2363,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":127587,"limit":2097152},"templateargumentsize":{"value":1473,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  469.062      1 -total"," 38.31%  179.700      1 Template:Reflist"," 20.84%   97.753     28 Template:Cite_web"," 14.55%   68.252      2 Template:Fix"," 11.79%   55.301      1 Template:Citation_needed","  7.82%   36.701      1 Template:Use_dmy_dates","  7.51%   35.249      6 Template:Navbox","  7.27%   34.080      3 Template:Category_handler","  6.47%   30.355      1 Template:Cite_journal","  6.34%   29.736      2 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.198","limit":"10.000"},"limitreport-memusage":{"value":5436645,"limit":52428800}},"cachereport":{"origin":"mw1188","timestamp":"20170312150200","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1219"});});</script>
+	</body>
+</html>

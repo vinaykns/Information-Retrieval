@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>The Limits to Growth - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Limits_to_Growth","wgTitle":"The Limits to Growth","wgCurRevisionId":766515769,"wgRevisionId":766515769,"wgArticleId":66618,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 errors: dates","Pages using ISBN magic links","Commons category with page title same as on Wikidata","Wikipedia articles with GND identifiers","1972 books","1972 in the environment","2004 books","Demographic economics","Ecological economics","Books critical of economic growth","Environmental non-fiction books","Futurology books","Peak oil books","Sustainability books","Systems theory books"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Limits_to_Growth","wgRelevantArticleId":66618,"wgRequestId":"WMlOtApAEKoAABA3mKYAAABU","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Limits_to_Growth","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/The_Limits_to_Growth","wgWikibaseItemId":"Q277111","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/b/b6/Cover_first_edition_Limits_to_growth.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Limits_to_Growth"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/The_Limits_to_Growth"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-The_Limits_to_Growth rootpage-The_Limits_to_Growth skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>The Limits to Growth</i></h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Limits_to_Growth&amp;redirect=no" class="mw-redirect" title="Limits to Growth">Limits to Growth</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<caption style="font-style:italic;padding-bottom:0.2em;">The Limits to Growth</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Cover_first_edition_Limits_to_growth.jpg" class="image"><img alt="Cover first edition Limits to growth.jpg" src="//upload.wikimedia.org/wikipedia/en/b/b6/Cover_first_edition_Limits_to_growth.jpg" width="162" height="240" data-file-width="162" data-file-height="240" /></a>
+<div><i>The Limits to Growth</i> first edition cover.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Author</th>
+<td><a href="/wiki/Donella_Meadows" title="Donella Meadows">Donella H. Meadows</a><br />
+<a href="/wiki/Dennis_Meadows" title="Dennis Meadows">Dennis L. Meadows</a><br />
+<a href="/wiki/J%C3%B8rgen_Randers" title="Jørgen Randers">Jørgen Randers</a><br />
+William W. Behrens III</td>
+</tr>
+<tr>
+<th scope="row">Language</th>
+<td>English</td>
+</tr>
+<tr>
+<th scope="row">Published</th>
+<td>1972 Universe Books</td>
+</tr>
+<tr>
+<th scope="row">Pages</th>
+<td>205</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a></th>
+<td><a href="/wiki/Special:BookSources/0-87663-165-0" title="Special:BookSources/0-87663-165-0">0-87663-165-0</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/OCLC#Identifiers_and_linked_data" title="OCLC"><abbr title="Online Computer Library Center number">OCLC</abbr></a></th>
+<td><a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/307838">307838</a></td>
+</tr>
+<tr>
+<th scope="row">Followed&#160;by</th>
+<td><i><a href="/wiki/The_First_Global_Revolution" title="The First Global Revolution">The First Global Revolution</a></i></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-top:#aaa 1px solid;font-size:90%;">digital: <a rel="nofollow" class="external text" href="http://collections.dartmouth.edu/teitexts/meadows/diplomatic/meadows_ltg-diplomatic.html">Digitized 1972 edition</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Club_of_Rome_Logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Club_of_Rome_Logo.svg/220px-Club_of_Rome_Logo.svg.png" width="220" height="187" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Club_of_Rome_Logo.svg/330px-Club_of_Rome_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Club_of_Rome_Logo.svg/440px-Club_of_Rome_Logo.svg.png 2x" data-file-width="270" data-file-height="230" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Club_of_Rome_Logo.svg" class="internal" title="Enlarge"></a></div>
+Logo of the <a href="/wiki/Club_of_Rome" title="Club of Rome">Club of Rome</a>.</div>
+</div>
+</div>
+<p><i><b>The Limits to Growth</b></i> is a 1972 book about the <a href="/wiki/Computer_simulation" title="Computer simulation">computer simulation</a> of exponential <a href="/wiki/Economic_growth" title="Economic growth">economic</a> and <a href="/wiki/Population_growth" title="Population growth">population growth</a> with finite resource supplies.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Funded by the <a href="/wiki/Volkswagen_Foundation" title="Volkswagen Foundation">Volkswagen Foundation</a><sup id="cite_ref-Jens_Rehl.C3.A4nder.2C_Barbara_Riegler.2C_german_2-0" class="reference"><a href="#cite_note-Jens_Rehl.C3.A4nder.2C_Barbara_Riegler.2C_german-2">[2]</a></sup> and commissioned by the <a href="/wiki/Club_of_Rome" title="Club of Rome">Club of Rome</a>, it was first presented at the <a href="/wiki/St._Gallen_Symposium" title="St. Gallen Symposium">St. Gallen Symposium</a>. Its authors were <a href="/wiki/Donella_Meadows" title="Donella Meadows">Donella H. Meadows</a>, <a href="/wiki/Dennis_Meadows" title="Dennis Meadows">Dennis L. Meadows</a>, <a href="/wiki/J%C3%B8rgen_Randers" title="Jørgen Randers">Jørgen Randers</a>, and William W. Behrens III. The book used the <a href="/wiki/World3" title="World3">World3</a> model to simulate<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> the consequence of interactions between the Earth's and human systems.</p>
+<p>The original version presented a model based on five variables: <a href="/wiki/World_population" title="World population">world population</a>, industrialisation, pollution, food production and <a href="/wiki/Resources_depletion" class="mw-redirect" title="Resources depletion">resources depletion</a>. These variables are considered to grow <a href="/wiki/Exponential_growth" title="Exponential growth">exponentially</a>, while the ability of technology to increase resources availability is only <a href="/wiki/Linear_function" title="Linear function">linear</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The authors intended to explore the possibility of a sustainable feedback pattern that would be achieved by altering growth trends among the five variables under three scenarios. They noted that their projections for the values of the variables in each scenario were predictions "only in the most limited sense of the word," and were only indications of the system's behavioral tendencies.<sup id="cite_ref-Peter_A._Victor_2008_pp._92-93_6-0" class="reference"><a href="#cite_note-Peter_A._Victor_2008_pp._92-93-6">[6]</a></sup> Two of the scenarios saw "overshoot and collapse" of the global system by the mid to latter part of the 21st century, while a third scenario resulted in a "stabilized world."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>The book continues to generate fervent debate and has been the subject of several subsequent publications. The most recent updated version was published on June 1, 2004 by Chelsea Green Publishing Company and <a href="/wiki/Earthscan" title="Earthscan">Earthscan</a> under the name <i>Limits to Growth: The 30-Year Update</i>. Donella H. Meadows, Jørgen Randers, and <a href="/wiki/Dennis_Meadows" title="Dennis Meadows">Dennis Meadows</a> have updated and expanded the original version.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Purpose"><span class="tocnumber">1</span> <span class="toctext">Purpose</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Exponential_reserve_index"><span class="tocnumber">2</span> <span class="toctext">Exponential reserve index</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Negative_reviews"><span class="tocnumber">3</span> <span class="toctext">Negative reviews</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Positive_reviews"><span class="tocnumber">4</span> <span class="toctext">Positive reviews</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Legacy"><span class="tocnumber">5</span> <span class="toctext">Legacy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#1977:_5_years"><span class="tocnumber">5.1</span> <span class="toctext">1977: 5 years</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#1987:_15_years"><span class="tocnumber">5.2</span> <span class="toctext">1987: 15 years</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#1992:_20_years"><span class="tocnumber">5.3</span> <span class="toctext">1992: 20 years</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#2002:_30_years"><span class="tocnumber">5.4</span> <span class="toctext">2002: 30 years</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#2007:_35_years"><span class="tocnumber">5.5</span> <span class="toctext">2007: 35 years</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#2012:_40_years"><span class="tocnumber">5.6</span> <span class="toctext">2012: 40 years</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Related_books"><span class="tocnumber">6</span> <span class="toctext">Related books</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Editions"><span class="tocnumber">10</span> <span class="toctext">Editions</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Video_and_audio"><span class="tocnumber">11.1</span> <span class="toctext">Video and audio</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Purpose">Purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=1" title="Edit section: Purpose">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The purpose of <i>The Limits to Growth</i> was not to make specific predictions, but to explore how exponential growth interacts with finite resources. Because the size of resources is not known, only the general behavior can be explored.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Exponential_reserve_index">Exponential reserve index</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=2" title="Edit section: Exponential reserve index">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Terra.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/220px-Terra.png" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/330px-Terra.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/440px-Terra.png 2x" data-file-width="599" data-file-height="599" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Terra.png" class="internal" title="Enlarge"></a></div>
+The planet Earth is a finite system, which means it has limited or finite resources</div>
+</div>
+</div>
+<p>One key idea within <i>The Limits to Growth</i> is the notion that if the rate of resource use is increasing, the amount of reserves cannot be calculated by simply taking the current known reserves and dividing by the current yearly usage, as is typically done to obtain a static index. For example, in 1972, the amount of chromium reserves was 775 million metric tons, of which 1.85 million metric tons were mined annually (see <a href="/wiki/Exponential_growth" title="Exponential growth">exponential growth</a>). The static index is 775/1.85=418 years, but the rate of chromium consumption was growing at 2.6% annually (<i>Limits to Growth</i>, pp.&#160;54–71). If instead of assuming a constant rate of usage, the assumption of a constant rate of growth of 2.6% annually is made, the resource will instead last</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>ln</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mn>0.026</mn>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mn>418</mn>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mn>0.026</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>95 years</mtext>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {\ln(1+0.026\times 418)}{0.026}}\approx {\text{95 years}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac49697850e9eec03591201862b268271e36b384" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:31.707ex; height:5.843ex;" alt="{\frac {\ln(1+0.026\times 418)}{0.026}}\approx {\text{95 years}}" /></span></dd>
+</dl>
+<p>In general, the formula for calculating the amount of time left for a resource with constant consumption growth is:<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>y</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>ln</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mo stretchy="false">(</mo>
+              <mi>r</mi>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mi>s</mi>
+              <mo stretchy="false">)</mo>
+              <mo>+</mo>
+              <mn>1</mn>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mi>r</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle y={\frac {\ln((r\times s)+1)}{r}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3d370512f4cd0a65f45a579ae1b9c226169f8a4e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:19.766ex; height:5.676ex;" alt="y={\frac {\ln((r\times s)+1)}{r}}" /></span></dd>
+</dl>
+<p>where:</p>
+<dl>
+<dd><i>y</i> = years left;</dd>
+<dd><i>r</i> = 0.026, the <a href="/wiki/Continuous_compounding#Continuous_compounding" class="mw-redirect" title="Continuous compounding">continuous compounding</a> growth rate (2.6%).</dd>
+<dd><i>s</i> = R/C or static reserve.</dd>
+<dd><i>R</i> = reserve;</dd>
+<dd><i>C</i> = (annual) consumption.</dd>
+</dl>
+<p>The authors list a number of similar exponential indices comparing current reserves to current reserves multiplied by a factor of five:</p>
+<dl>
+<dd>
+<table class="wikitable">
+<tr>
+<th colspan="2"></th>
+<th colspan="3">Years</th>
+</tr>
+<tr valign="top">
+<th align="left">Resource</th>
+<th>Consumption growth rate, annual</th>
+<th>Static index</th>
+<th>Exponential index</th>
+<th>5 times reserves exponential index</th>
+</tr>
+<tr>
+<td width="100">Chromium</td>
+<td width="100" align="right">2.6%</td>
+<td width="100" align="right">420</td>
+<td width="100" align="right">95</td>
+<td width="100" align="right">154</td>
+</tr>
+<tr>
+<td>Gold</td>
+<td align="right">4.1%</td>
+<td align="right">11</td>
+<td align="right">9</td>
+<td align="right">29</td>
+</tr>
+<tr>
+<td>Iron</td>
+<td align="right">1.8%</td>
+<td align="right">240</td>
+<td align="right">93</td>
+<td align="right">173</td>
+</tr>
+<tr>
+<td>Petroleum</td>
+<td align="right">3.9%</td>
+<td align="right">31</td>
+<td align="right">20</td>
+<td align="right">50</td>
+</tr>
+</table>
+</dd>
+</dl>
+<p>The static reserve numbers assume that the usage is constant, and the exponential reserve assumes that the growth rate is constant.</p>
+<p>The exponential index has been interpreted as a prediction of the number of years until the world would "run out" of various resources, both by environmentalist groups calling for greater conservation and restrictions on use, and by skeptics criticizing the index when supplies failed to run out.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> What <i>The Limits to Growth</i> actually has is the above table, which has the <i>current reserves</i> (that is no new sources of oil are found) for oil running out in 1992 assuming constant exponential growth. In <i>Limits to Growth: The Thirty Year Update</i> there are several pages explaining that new resources are found over time and that the <i>current reserves</i> therefore change but that ultimately resources are finite. (Earlier editions did explain this as well, but not in as much detail.) The standard model includes a resource base of double that of what they have calculated, but the book includes model runs where the assumed resources are infinite, but those model runs still result in overshoot and collapse from other factors.</p>
+<h2><span class="mw-headline" id="Negative_reviews">Negative reviews</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=3" title="Edit section: Negative reviews">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The report has been criticized by academics, economists and businessmen.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Critics claimed that history proved the projections to be incorrect, which was specifically based on the popular belief that <i>The Limits to Growth</i> predicted resource depletion and associated economic collapse by the end of the 20th century.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> <i>The Limits to Growth</i> faced ridicule as early as the 1970s.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Attacks were made on the methodology, the computer, the conclusions, the rhetoric and the people behind the project.<sup id="cite_ref-alan201013_22-0" class="reference"><a href="#cite_note-alan201013-22">[22]</a></sup> Yale economist <a href="/wiki/Henry_C._Wallich" class="mw-redirect" title="Henry C. Wallich">Henry C. Wallich</a> agreed that growth could not continue indefinitely, but that a natural end to growth was preferable to intervention. Wallich stated that technology could solve all the problems the report was concerned about, but only if growth continued apace. By stopping growth too soon, Wallich warned, the world would be "consigning billions to permanent poverty".<sup id="cite_ref-alan201013_22-1" class="reference"><a href="#cite_note-alan201013-22">[22]</a></sup></p>
+<p><a href="/wiki/Robert_Solow" title="Robert Solow">Robert Solow</a> from <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a> argued that prediction in <i>The Limits to Growth</i> was based on a weak foundation of data (<i>Newsweek</i>, March 13, 1972, p.&#160;103). Allen Kneese and Ronald Riker of <a href="/wiki/Resources_for_the_Future" title="Resources for the Future">Resources for the Future</a> (RFF) stated:</p>
+<blockquote>
+<p>The authors load their case by letting some things grow exponentially and others not. Population, capital and pollution grow exponentially in all models, but technologies for expanding resources and controlling pollution are permitted to grow, if at all, only in discrete increments.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+</blockquote>
+<p>Critics also argue that the authors of the report claimed to accept that the then-known resources of minerals and energy could, and would, grow in the future, and consumption growth rates could also decline. The theoretical expiry time for each resource would therefore need to be updated as new discoveries, technologies and trends came to light.</p>
+<h2><span class="mw-headline" id="Positive_reviews">Positive reviews</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=4" title="Edit section: Positive reviews">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quotebox" style="float: right; clear: right; margin: 0.5em 0 0.8em 1.4em; width:25%; padding: 6px; border: 1px solid #aaa; font-size: 88%; background-color: #f8f8f8;">
+<div class="" style="position: relative; text-align: left;">
+<div>
+<p>With few exceptions, economics as a discipline has been dominated by a perception of living in an unlimited world, where resource and pollution problems in one area were solved by moving resources or people to other parts. The very hint of any global limitation as suggested in the report <i>The Limits to Growth</i> was met with disbelief and rejection by businesses and most economists. However, this conclusion was mostly based on false premises.</p>
+</div>
+</div>
+<cite style="display: block; text-align: right;">– <a href="#CITEREFMeyerN.C3.B8rg.C3.A5rd2010">Meyer &amp; Nørgård (2010)</a>.</cite></div>
+<p>In 2008, Graham Turner from the <a href="/wiki/Commonwealth_Scientific_and_Industrial_Research_Organisation" title="Commonwealth Scientific and Industrial Research Organisation">Commonwealth Scientific and Industrial Research Organisation</a> (CSIRO) published "A comparison of <i>The Limits to Growth</i> with thirty years of reality".<sup id="cite_ref-Turner_2008_24-0" class="reference"><a href="#cite_note-Turner_2008-24">[24]</a></sup> Turner found that the observed historical data from 1970 to 2000 closely matches the simulated results of the "standard run" limits of growth model for almost all the outputs reported. "The comparison is well within uncertainty bounds of nearly all the data in terms of both magnitude and the trends over time."<sup id="cite_ref-Turner_2008_24-1" class="reference"><a href="#cite_note-Turner_2008-24">[24]</a></sup> Turner also examined a number of reports, particularly by economists, which over the years have purported to discredit the limits-to-growth model. Turner says these reports are flawed, and reflect misunderstandings about the model.<sup id="cite_ref-Turner_2008_24-2" class="reference"><a href="#cite_note-Turner_2008-24">[24]</a></sup> In 2010, Nørgård, Peet and Ragnarsdóttir called the book a "pioneering report", and said that it "has withstood the test of time and, indeed, has only become more relevant."<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<p>In 2014, <i>The Guardian</i> published an article about a new Graham Turner review – 40 years later of "The Limits to Growth" according to which the actual data and the 1972 forecasts still match.<sup id="cite_ref-turner2014_26-0" class="reference"><a href="#cite_note-turner2014-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=5" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Club of Rome has persisted after <i>The Limits of Growth</i> and has generally provided comprehensive updates to the book on a 5-year basis.</p>
+<h3><span class="mw-headline" id="1977:_5_years">1977: 5 years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=6" title="Edit section: 1977: 5 years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An independent retrospective on the public debate over <i>The Limits to Growth</i> concluded in 1978 that optimistic attitudes had won out, causing a general loss of momentum in the environmentalist movement. While summarizing a large number of opposing arguments, the article concluded that "scientific arguments for and against each position ... have, it would seem, played only a small part in the general acceptance of alternative perspectives."<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></p>
+<h3><span class="mw-headline" id="1987:_15_years">1987: 15 years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=7" title="Edit section: 1987: 15 years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1989, a symposium was held in <a href="/wiki/Hanover" title="Hanover">Hanover</a>, <a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a>, entitled "Beyond the Limits to Growth: Global Industrial Society, Vision or Nightmare?"</p>
+<h3><span class="mw-headline" id="1992:_20_years">1992: 20 years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=8" title="Edit section: 1992: 20 years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1993, <i><a href="/wiki/Beyond_the_Limits" title="Beyond the Limits">Beyond the Limits</a></i> was published as a 20-year update on the original material.</p>
+<h3><span class="mw-headline" id="2002:_30_years">2002: 30 years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=9" title="Edit section: 2002: 30 years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Limits to Growth: The 30-Year Update</i> was published in 2004.</p>
+<h3><span class="mw-headline" id="2007:_35_years">2007: 35 years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=10" title="Edit section: 2007: 35 years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2008 Graham Turner at the <a href="/wiki/Commonwealth_Scientific_and_Industrial_Research_Organisation" title="Commonwealth Scientific and Industrial Research Organisation">Commonwealth Scientific and Industrial Research Organisation</a> (CSIRO) in Australia published a paper called "A Comparison of `The Limits to Growth` with Thirty Years of Reality".<sup id="cite_ref-CSIRO_29-0" class="reference"><a href="#cite_note-CSIRO-29">[29]</a></sup> It examined the past thirty years of reality with the predictions made in 1972 and found that changes in industrial production, food production and pollution are all in line with one of the book's three scenarios so far – that of 'business as usual'. This set of predictions in LtG goes on to forecast <a href="/wiki/Economic_collapse" title="Economic collapse">economic</a> and <a href="/wiki/Societal_collapse" title="Societal collapse">societal collapse</a> in the 21st century.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> In 2010, Peet, Nørgård, and Ragnarsdóttir called the book a "pioneering report". They said that, "its approach remains useful and that its conclusions are still surprisingly valid... unfortunately the report has been largely dismissed by critics as a doomsday prophecy that has not held up to scrutiny."<sup id="cite_ref-Solutions_31-0" class="reference"><a href="#cite_note-Solutions-31">[31]</a></sup></p>
+<p>In a 2009 article published in <i><a href="/wiki/American_Scientist" title="American Scientist">American Scientist</a></i> titled "Revisiting the Limits to Growth After Peak Oil," Hall and Day noted that "the values predicted by the limits-to-growth model and actual data for 2008 are very close."<sup id="cite_ref-American_Scientist_32-0" class="reference"><a href="#cite_note-American_Scientist-32">[32]</a></sup> These findings are consistent with the above-mentioned 2008 CSIRO study which concluded: "The analysis shows that 30 years of historical data compares favorably with key features… [of the Limits to Growth] ‘standard run’ scenario, which results in collapse of the global system midway through the 21st Century."<sup id="cite_ref-CSIRO_29-1" class="reference"><a href="#cite_note-CSIRO-29">[29]</a></sup></p>
+<p>In 2008 researcher Peter A. Victor wrote, that even though D.H. Meadows et al. probably underestimated price-mechanism's role in adjusting, their critics have overestimated it. He states that <i>Limits to Growth</i> has had a significant impact on the conception of environmental issues and notes that the models in the book were meant to be taken as predictions "only in the most limited sense of the word" as they wrote.<sup id="cite_ref-Peter_A._Victor_2008_pp._92-93_6-1" class="reference"><a href="#cite_note-Peter_A._Victor_2008_pp._92-93-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="2012:_40_years">2012: 40 years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=11" title="Edit section: 2012: 40 years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Already_Beyond_-_40_Years_Limits_to_Growth,_280,_Liang_Shi_Max_Planck_Institute_for_Dynamics_and_Self-Organisation_Xiaoxi_Wang_Potsdam_Institute_for_Climate_Impact_Research_Tonni_Kurniawan_United_Nations_University.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Already_Beyond_-_40_Years_Limits_to_Growth%2C_280%2C_Liang_Shi_Max_Planck_Institute_for_Dynamics_and_Self-Organisation_Xiaoxi_Wang_Potsdam_Institute_for_Climate_Impact_Research_Tonni_Kurniawan_United_Nations_University.jpg/220px-thumbnail.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Already_Beyond_-_40_Years_Limits_to_Growth%2C_280%2C_Liang_Shi_Max_Planck_Institute_for_Dynamics_and_Self-Organisation_Xiaoxi_Wang_Potsdam_Institute_for_Climate_Impact_Research_Tonni_Kurniawan_United_Nations_University.jpg/330px-thumbnail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Already_Beyond_-_40_Years_Limits_to_Growth%2C_280%2C_Liang_Shi_Max_Planck_Institute_for_Dynamics_and_Self-Organisation_Xiaoxi_Wang_Potsdam_Institute_for_Climate_Impact_Research_Tonni_Kurniawan_United_Nations_University.jpg/440px-thumbnail.jpg 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Already_Beyond_-_40_Years_Limits_to_Growth,_280,_Liang_Shi_Max_Planck_Institute_for_Dynamics_and_Self-Organisation_Xiaoxi_Wang_Potsdam_Institute_for_Climate_Impact_Research_Tonni_Kurniawan_United_Nations_University.jpg" class="internal" title="Enlarge"></a></div>
+Already Beyond? Early stage <a href="/wiki/Researcher" class="mw-redirect" title="Researcher">researchers</a> from <a href="/wiki/China" title="China">China</a> and <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> with <a href="/wiki/Dennis_Meadows" title="Dennis Meadows">Dennis Meadows</a></div>
+</div>
+</div>
+<p>In 2011 <a href="/wiki/Ugo_Bardi" title="Ugo Bardi">Ugo Bardi</a> published a book-length academic study of <i>The Limits to Growth</i>, its methods and historical reception and concluded that "The warnings that we received in 1972 ... are becoming increasingly more worrisome as reality seems to be following closely the curves that the ... scenario had generated."<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> A popular analysis of the accuracy of the report by science writer <a href="/wiki/Richard_Heinberg" title="Richard Heinberg">Richard Heinberg</a> was also published.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+<p>In 2012 the <a href="/wiki/Smithsonian_Institution" title="Smithsonian Institution">Smithsonian Institution</a> held a symposium entitled "Perspectives on <i>Limits to Growth</i>".<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> Another symposium was held in <a href="/wiki/Hanover" title="Hanover">Hanover</a>, <a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a> entitled "Already Beyond?"<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></p>
+<p><i>Limits to Growth</i> did not receive an official update in 2012, but one of its coauthors, <a href="/wiki/J%C3%B8rgen_Randers" title="Jørgen Randers">Jørgen Randers</a>, published a book, <i><a href="/wiki/2052:_A_Global_Forecast_for_the_Next_Forty_Years" title="2052: A Global Forecast for the Next Forty Years">2052: A Global Forecast for the Next Forty Years</a></i>.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></p>
+<p>In a 2012 writing in <i>American Scientist</i>, Brian Hayes stated that the model is "more a polemical tool than a scientific instrument". He went on to say that the graphs generated by the computer program should not, as the authors note, be used as predictions.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></p>
+<p>In 2014 Graham Turner concluded that "preparing for a collapsing global system could be even more important than trying to avoid collapse."<sup id="cite_ref-turner2014_26-1" class="reference"><a href="#cite_note-turner2014-26">[26]</a></sup></p>
+<p>In 2016 a report published by the UK <a rel="nofollow" class="external text" href="http://limits2growth.org.uk/">All-Party Parliamentary Group on Limits to Growth</a> concluded that "there is unsettling evidence that society is still following the ‘standard run’ of the original study – in which overshoot leads to an eventual collapse of production and living standards".<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> The report also highlights that some issues not well covered in the original 1972 report, such as <a href="/wiki/Climate_change" title="Climate change">climate change</a>, present additional challenges for human development.</p>
+<h2><span class="mw-headline" id="Related_books">Related books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=12" title="Edit section: Related books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many books about humanity's uncertain future have appeared regularly over the years. Precursors to <i>Limits to Growth</i> included <a href="/wiki/Thomas_Robert_Malthus" title="Thomas Robert Malthus">Thomas Malthus's</a> <i><a href="/wiki/An_Essay_on_the_Principle_of_Population" title="An Essay on the Principle of Population">An Essay on the Principle of Population</a></i> (1798), <a href="/wiki/Harrison_Brown" title="Harrison Brown">Harrison Brown</a>'s <i><a href="/w/index.php?title=The_Challenge_of_Man%27s_Future&amp;action=edit&amp;redlink=1" class="new" title="The Challenge of Man's Future (page does not exist)">The Challenge of Man's Future</a></i> (1956), <a href="/wiki/Rachel_Carson" title="Rachel Carson">Rachel Carson</a>'s <i><a href="/wiki/Silent_Spring" title="Silent Spring">Silent Spring</a></i> (1962) and <a href="/wiki/Paul_R._Ehrlich" title="Paul R. Ehrlich">Paul R. Ehrlich</a>'s <i><a href="/wiki/The_Population_Bomb" title="The Population Bomb">The Population Bomb</a></i> (1968).<sup id="cite_ref-alan2010_40-0" class="reference"><a href="#cite_note-alan2010-40">[40]</a></sup> Some of the notable books published after 1972 include the <i><a href="/wiki/State_of_the_World_(book_series)" title="State of the World (book series)">State of the World</a></i> reports issued by the <a href="/wiki/Worldwatch_Institute" title="Worldwatch Institute">Worldwatch Institute</a> (produced annually since 1984); the influential <i><a href="/wiki/Our_Common_Future" title="Our Common Future">Our Common Future</a></i>, published by the UN’s <a href="/wiki/World_Commission_on_Environment_and_Development" class="mw-redirect" title="World Commission on Environment and Development">World Commission on Environment and Development</a> (1987); <i><a href="/wiki/Earth_in_the_Balance" title="Earth in the Balance">Earth in the Balance</a></i>, written by then-US senator <a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a> (1992); and <i>Earth Odyssey</i> (<a href="/wiki/Special:BookSources/9780767900591" class="internal mw-magiclink-isbn">ISBN 978-0767900591</a>) by journalist <a href="/wiki/Mark_Hertsgaard" title="Mark Hertsgaard">Mark Hertsgaard</a> (1999).<sup id="cite_ref-alan2010_40-1" class="reference"><a href="#cite_note-alan2010-40">[40]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Attractiveness_principle" title="Attractiveness principle">Attractiveness principle</a></li>
+<li><a href="/wiki/Albert_Allen_Bartlett" title="Albert Allen Bartlett">Albert Allen Bartlett</a></li>
+<li><a href="/wiki/Cornucopian" title="Cornucopian">Cornucopian</a></li>
+<li><a href="/wiki/Donella_Meadows%27_twelve_leverage_points_to_intervene_in_a_system" class="mw-redirect" title="Donella Meadows' twelve leverage points to intervene in a system">Donella Meadows' twelve leverage points to intervene in a system</a></li>
+<li><a href="/wiki/DYNAMO_(programming_language)" title="DYNAMO (programming language)">DYNAMO (programming language)</a></li>
+<li><a href="/wiki/Degrowth" title="Degrowth">Degrowth</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Economic_growth" title="Economic growth">Economic growth</a></li>
+<li><a href="/wiki/Energy_crisis" title="Energy crisis">Energy crisis</a></li>
+<li><a href="/wiki/Energy_development" title="Energy development">Energy development</a></li>
+<li><a href="/wiki/Genetic_bottleneck" class="mw-redirect" title="Genetic bottleneck">Genetic bottleneck</a></li>
+<li><a href="/wiki/Hubbert_peak_theory" title="Hubbert peak theory">Hubbert peak theory</a></li>
+<li><a href="/wiki/Jevons%27s_paradox" class="mw-redirect" title="Jevons's paradox">Jevons's paradox</a></li>
+<li><a href="/wiki/List_of_environmental_books" title="List of environmental books">List of environmental books</a></li>
+<li><a href="/wiki/Malthusian_catastrophe" title="Malthusian catastrophe">Malthusian catastrophe</a></li>
+<li><a href="/wiki/Negative_Population_Growth" title="Negative Population Growth">Negative Population Growth</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Population_Connection" title="Population Connection">Population Connection</a> (formerly 'Zero Population Growth')</li>
+<li><a href="/wiki/Post-growth" title="Post-growth">Post-growth</a></li>
+<li><a href="/wiki/Productivism" title="Productivism">Productivism</a></li>
+<li><a href="/wiki/Richard_Rainwater" title="Richard Rainwater">Richard Rainwater</a></li>
+<li><a href="/wiki/Julian_L._Simon" class="mw-redirect" title="Julian L. Simon">Julian L. Simon</a></li>
+<li><a href="/wiki/Societal_collapse" title="Societal collapse">Societal collapse</a></li>
+<li><a href="/wiki/Steady-state_economy" title="Steady-state economy">Steady-state economy</a></li>
+<li><a href="/wiki/System_dynamics" title="System dynamics">System dynamics</a></li>
+<li><a href="/wiki/The_Global_2000_Report_to_the_President" title="The Global 2000 Report to the President">The Global 2000 Report to the President</a></li>
+<li><i><a href="/wiki/The_Coal_Question" title="The Coal Question">The Coal Question</a></i></li>
+<li><i><a href="/wiki/The_Population_Bomb" title="The Population Bomb">The Population Bomb</a></i></li>
+<li><i><a href="/wiki/The_Revenge_of_Gaia" title="The Revenge of Gaia">The Revenge of Gaia</a></i></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=14" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">MacKenzie, Debora (10 January 2012). <a rel="nofollow" class="external text" href="http://www.newscientist.com/article/mg21328462.100-boom-and-doom-revisiting-prophecies-of-collapse.html">"Boom and doom: Revisiting prophecies of collapse"</a>. New Scientist<span class="reference-accessdate">. Retrieved <span class="nowrap">1 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.aufirst=Debora&amp;rft.aulast=MacKenzie&amp;rft.btitle=Boom+and+doom%3A+Revisiting+prophecies+of+collapse&amp;rft.date=2012-01-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.newscientist.com%2Farticle%2Fmg21328462.100-boom-and-doom-revisiting-prophecies-of-collapse.html&amp;rft.pub=New+Scientist&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Jens_Rehl.C3.A4nder.2C_Barbara_Riegler.2C_german-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jens_Rehl.C3.A4nder.2C_Barbara_Riegler.2C_german_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Rehländer, Jens; Riegler, Barbara (28 November 2012). <a rel="nofollow" class="external text" href="https://www.volkswagenstiftung.de/veranstaltungen/veranstaltungsarchiv/detailansicht-veranstaltung/news/detail/artikel/40-jahre-grenzen-des-wachstums-oeffentliche-abendveranstaltung-mit-dennis-meadows-1/marginal/3815.html">"40 Jahre "Grenzen des Wachstums: Öffentliche Abendveranstaltung mit Dennis Meadows"</a> (in German). volkswagenstiftung.de.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.aufirst=Jens&amp;rft.aulast=Rehl%C3%A4nder&amp;rft.au=Riegler%2C+Barbara&amp;rft.btitle=40+Jahre+%22Grenzen+des+Wachstums%3A+%C3%96ffentliche+Abendveranstaltung+mit+Dennis+Meadows&amp;rft.date=2012-11-28&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.volkswagenstiftung.de%2Fveranstaltungen%2Fveranstaltungsarchiv%2Fdetailansicht-veranstaltung%2Fnews%2Fdetail%2Fartikel%2F40-jahre-grenzen-des-wachstums-oeffentliche-abendveranstaltung-mit-dennis-meadows-1%2Fmarginal%2F3815.html&amp;rft.pub=volkswagenstiftung.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">The models were run on <a href="/wiki/DYNAMO_(programming_language)" title="DYNAMO (programming language)">DYNAMO</a>, a simulation programming language.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Edwards, Paul N. (2010) <a rel="nofollow" class="external text" href="https://books.google.com/books?id=K9_LsJBCqWMC&amp;pg=PA366"><i>A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming</i></a> MIT Press <a href="/wiki/Special:BookSources/9780262290715" class="internal mw-magiclink-isbn">ISBN 9780262290715</a> pp. 366–71</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="#CITEREFMeadowsothers1972">Meadows &amp; others 1972</a>.</span></li>
+<li id="cite_note-Peter_A._Victor_2008_pp._92-93-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Peter_A._Victor_2008_pp._92-93_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Peter_A._Victor_2008_pp._92-93_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Peter A. Victor (2008). <i>Managing Without Growth</i>, <a href="/wiki/Edward_Elgar_Publishing" title="Edward Elgar Publishing">Edward Elgar Publishing</a>, pp. 92–3, <a href="/wiki/Special:BookSources/9781847200785" class="internal mw-magiclink-isbn">ISBN 978-1-84720-078-5</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Graham Turner (2008). <a rel="nofollow" class="external text" href="http://www.csiro.au/files/files/plje.pdf">"A Comparison of `The Limits to Growth` with Thirty Years of Reality"</a>. p. 11. Commonwealth Scientific and Industrial Research Organisation (<a href="/wiki/CSIRO" class="mw-redirect" title="CSIRO">CSIRO</a>).</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">"To Grow or not to Grow", <a href="/wiki/Newsweek" title="Newsweek">Newsweek</a>, March 13, 1972, pp. 102–3</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Donella H. Meadows, Gary. Meadows, Jorgen Randers, and William W. Behrens III. (1972).<br />
+<i>The Limits to Growth</i>. New York: Universe Books. <a href="/wiki/Special:BookSources/0876631650" class="internal mw-magiclink-isbn">ISBN 0-87663-165-0</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Henry C. Wallich, "More on Growth", <a href="/wiki/NewsWeek" class="mw-redirect" title="NewsWeek">NewsWeek</a>, March 13, 1972, p. 86.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Meadows, D. (1974). <i>The Limits to Growth</i>, Second Edition Revised, Signet. <a href="/wiki/Special:BookSources/9780451066176" class="internal mw-magiclink-isbn">ISBN 978-0-451-06617-6</a>, pp. 99–101</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Limits To Growth, pg 60, Derivation: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+        <mo>=</mo>
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+        </msubsup>
+        <mi>C</mi>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C1;<!-- ρ --></mi>
+            <mi>t</mi>
+          </mrow>
+        </msup>
+        <mtext>&#xA0;</mtext>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>C</mi>
+            <mi>&#x03C1;<!-- ρ --></mi>
+          </mfrac>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <msup>
+            <mi>e</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>&#x03C1;<!-- ρ --></mi>
+              <mi>y</mi>
+            </mrow>
+          </msup>
+          <mo>&#x2212;<!-- − --></mo>
+          <mn>1</mn>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R=\int _{0}^{y}Ce^{\rho t}\ dt={\frac {C}{\rho }}\left(e^{\rho y}-1\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f612e448c780239e9172606ba32e6174ccd87b62" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:30.991ex; height:5.843ex;" alt="R=\int _{0}^{y}Ce^{\rho t}\ dt={\frac {C}{\rho }}\left(e^{\rho y}-1\right)" /></span> reverts to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>y</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>ln</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mrow>
+                <mo>(</mo>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>&#x03C1;<!-- ρ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mfrac>
+                    <mi>R</mi>
+                    <mi>C</mi>
+                  </mfrac>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mi>&#x03C1;<!-- ρ --></mi>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle y={\frac {\ln \left(1+\rho {\frac {R}{C}}\right)}{\rho }}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7a1a65a1cfaf71b5e9a50c66537de837aec6785d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:17.854ex; height:8.009ex;" alt="y={\frac {\ln \left(1+\rho {\frac {R}{C}}\right)}{\rho }}." /></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_Skeptical_Environmentalist" title="The Skeptical Environmentalist">The Skeptical Environmentalist</a></i>, p. 121</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oswego.edu/~edunne/200ch17.html">Chapter 17: Growth and Productivity-The Long-Run Possibilities</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.economist.com/finance/displaystory.cfm?story_id=E1_TPPSNVT">"Treading lightly"</a>. <i><a href="/wiki/The_Economist" title="The Economist">The Economist</a></i>. 19 September 2002.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.atitle=Treading+lightly&amp;rft.date=2002-09-19&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.economist.com%2Ffinance%2Fdisplaystory.cfm%3Fstory_id%3DE1_TPPSNVT&amp;rft.jtitle=The+Economist&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.reason.com/news/show/34758.html">Reason Magazine – Science and Public Policy</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a href="#CITEREFMeyerN.C3.B8rg.C3.A5rd2010">Meyer &amp; Nørgård 2010</a>.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://books.google.co.uk/books/about/Models_of_Doom.html?id=BJIXmQEACAAJ">https://books.google.co.uk/books/about/Models_of_Doom.html?id=BJIXmQEACAAJ</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a href="#CITEREFvan_VuurenFaber2009">van Vuuren &amp; Faber 2009</a>, p. 23.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kaysen, Carl (1972). "The Computer That Printed out W*O*L*F*". <i><a href="/wiki/Foreign_Affairs" title="Foreign Affairs">Foreign Affairs</a></i>. <b>50</b> (4): 660–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F20037939">10.2307/20037939</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/20037939">20037939</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.atitle=The+Computer+That+Printed+out+W%2AO%2AL%2AF%2A&amp;rft.aufirst=Carl&amp;rft.aulast=Kaysen&amp;rft.date=1972&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F20037939&amp;rft_id=info%3Adoi%2F10.2307%2F20037939&amp;rft.issue=4&amp;rft.jtitle=Foreign+Affairs&amp;rft.pages=660-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Solow, Robert M. (1973). "Is the End of the World at Hand?". <i>Challenge</i>. <b>16</b> (1): 39–50. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F40719094">10.2307/40719094</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/40719094">40719094</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.atitle=Is+the+End+of+the+World+at+Hand%3F&amp;rft.aufirst=Robert+M.&amp;rft.aulast=Solow&amp;rft.date=1973&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F40719094&amp;rft_id=info%3Adoi%2F10.2307%2F40719094&amp;rft.issue=1&amp;rft.jtitle=Challenge&amp;rft.pages=39-50&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-alan201013-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-alan201013_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-alan201013_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Alan Atkisson (2010). <a rel="nofollow" class="external text" href="http://www.earthscan.co.uk/Portals/0/pdfs/Believing_Cassandra_Ch1.pdf">Believing Cassandra: How to be an Optimist in a Pessimist's World</a>, Earthscan, p. 13.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Newsweek" title="Newsweek">Newsweek</a></i>, March 13, 1972, p. 103.</span></li>
+<li id="cite_note-Turner_2008-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Turner_2008_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Turner_2008_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Turner_2008_24-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFTurner2008">Turner 2008</a>, p. 37.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a href="#CITEREFN.C3.B8rg.C3.A5rdPeetRagnarsd.C3.B3ttir2010">Nørgård, Peet &amp; Ragnarsdóttir 2010</a>.</span></li>
+<li id="cite_note-turner2014-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-turner2014_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-turner2014_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="Turner2014" class="citation web">Turner, Graham (August 2014). Rickards, Lauren, ed. <a rel="nofollow" class="external text" href="http://sustainable.unimelb.edu.au/sites/default/files/docs/MSSI-ResearchPaper-4_Turner_2014.pdf">"Is Global Collapse Imminent?"</a> <span style="font-size:85%;">(PDF)</span>. <i>sustainable.unimelb.edu.au</i> (Research Paper No. 4). MSSI Research Papers. Melbourne, Australia: Melbourne Sustainable Society Institute, The University of Melbourne. p.&#160;16. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7340-4940-7" title="Special:BookSources/978-0-7340-4940-7">978-0-7340-4940-7</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-19</span></span>. <q>Regrettably, the alignment of data trends with the LTG dynamics indicates that the early stages of collapse could occur within a decade, or might even be underway. This suggests, from a rational risk-based perspective, that we have squandered the past decades, and that preparing for a collapsing global system could be even more important than trying to avoid collapse.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.atitle=Is+Global+Collapse+Imminent%3F&amp;rft.aufirst=Graham&amp;rft.aulast=Turner&amp;rft.date=2014-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsustainable.unimelb.edu.au%2Fsites%2Fdefault%2Ffiles%2Fdocs%2FMSSI-ResearchPaper-4_Turner_2014.pdf&amp;rft.isbn=978-0-7340-4940-7&amp;rft.jtitle=sustainable.unimelb.edu.au&amp;rft.pages=16&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.theguardian.com/commentisfree/2014/sep/02/limits-to-growth-was-right-new-research-shows-were-nearing-collapse">Limits to Growth was right. New research shows we're nearing collapse</a>, <i>The Guardian</i></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sandbach, F. (1 November 1978). "The Rise and Fall of the Limits to Growth Debate". <i>Social Studies of Science</i>. <b>8</b> (4): 495–520. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F030631277800800404">10.1177/030631277800800404</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.atitle=The+Rise+and+Fall+of+the+Limits+to+Growth+Debate&amp;rft.aufirst=F.&amp;rft.aulast=Sandbach&amp;rft.date=1978-11-01&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1177%2F030631277800800404&amp;rft.issue=4&amp;rft.jtitle=Social+Studies+of+Science&amp;rft.pages=495-520&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CSIRO-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-CSIRO_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CSIRO_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Turner, Graham (2008). <a rel="nofollow" class="external text" href="http://www.csiro.au/Outcomes/Environment/Population-Sustainability/SEEDPaper19.aspx">"A Comparison of `The Limits to Growth` with Thirty Years of Reality"</a>. <i>Socio-Economics and the Environment in Discussion (SEED). CSIRO Working Paper Series</i>. Commonwealth Scientific and Industrial Research Organisation (<a href="/wiki/CSIRO" class="mw-redirect" title="CSIRO">CSIRO</a>). 2008-09: 52. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.gloenvcha.2008.05.001">10.1016/j.gloenvcha.2008.05.001</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1834-5638">1834-5638</a><span class="reference-accessdate">. Retrieved July 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.atitle=A+Comparison+of+%60The+Limits+to+Growth%60+with+Thirty+Years+of+Reality&amp;rft.aufirst=Graham&amp;rft.aulast=Turner&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.csiro.au%2FOutcomes%2FEnvironment%2FPopulation-Sustainability%2FSEEDPaper19.aspx&amp;rft_id=info%3Adoi%2F10.1016%2Fj.gloenvcha.2008.05.001&amp;rft.issn=1834-5638&amp;rft.jtitle=Socio-Economics+and+the+Environment+in+Discussion+%28SEED%29.+CSIRO+Working+Paper+Series&amp;rft.pages=52&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2008-09" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.newscientist.com/article/dn16058-prophesy-of-economic-collapse-coming-true.html">"Prophesy of economic collapse 'coming true'"</a>, by Jeff Hecht, <i><a href="/wiki/New_Scientist" title="New Scientist">New Scientist</a></i>, 17 November 2008</span></li>
+<li id="cite_note-Solutions-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-Solutions_31-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nørgård, Jørgen Stig; John Peet; Kristín Vala Ragnarsdóttir (Feb 2010). <a rel="nofollow" class="external text" href="http://www.thesolutionsjournal.com/node/569">"The History of The Limits to Growth"</a>. <i>Solutions Journal</i>. <b>1</b> (2): 59–63<span class="reference-accessdate">. Retrieved July 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.atitle=The+History+of+The+Limits+to+Growth&amp;rft.aufirst=J%C3%B8rgen+Stig&amp;rft.au=John+Peet&amp;rft.au=Krist%C3n+Vala+Ragnarsd%C3%B3ttir&amp;rft.aulast=N%C3%B8rg%C3%A5rd&amp;rft.date=2010-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thesolutionsjournal.com%2Fnode%2F569&amp;rft.issue=2&amp;rft.jtitle=Solutions+Journal&amp;rft.pages=59-63&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-American_Scientist-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-American_Scientist_32-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Charles_A_S_Hall" class="mw-redirect" title="Charles A S Hall">Hall, Charles A. S.</a>; John W. Day (May–June 2009). <a rel="nofollow" class="external text" href="http://www.esf.edu/efb/hall/2009-05hall0327.pdf">"Revisiting the Limits to Growth After Peak Oil"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/American_Scientist" title="American Scientist">American Scientist</a></i>. <a href="/wiki/Sigma_Xi,_The_Scientific_Research_Society" class="mw-redirect" title="Sigma Xi, The Scientific Research Society">Sigma Xi, The Scientific Research Society</a>/<a href="/wiki/State_University_of_New_York_College_of_Environmental_Science_and_Forestry" title="State University of New York College of Environmental Science and Forestry">State University of New York College of Environmental Science and Forestry</a>. <b>97</b>: 230–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1511%2F2009.78.230">10.1511/2009.78.230</a><span class="reference-accessdate">. Retrieved July 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.atitle=Revisiting+the+Limits+to+Growth+After+Peak+Oil&amp;rft.aufirst=Charles+A.+S.&amp;rft.au=John+W.+Day&amp;rft.aulast=Hall&amp;rft.date=2009-05%2F2009-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.esf.edu%2Fefb%2Fhall%2F2009-05hall0327.pdf&amp;rft_id=info%3Adoi%2F10.1511%2F2009.78.230&amp;rft.jtitle=American+Scientist&amp;rft.pages=230-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=97" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Ugo_Bardi" title="Ugo Bardi">Ugo Bardi</a>. <a rel="nofollow" class="external text" href="http://www.springerlink.com/content/978-1-4419-9415-8#section=899088&amp;page=1&amp;locus=4">The Limits to Growth Revisited</a></i>. <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a> 2011 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2F978-1-4419-9416-5">10.1007/978-1-4419-9416-5</a> p. 3</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation book">Heinberg, Richard (2011). <i>The end of growth: adapting to our new economic reality</i> (3rd printing. ed.). Gabriola Island, B.C.: New Society Publishers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0865716951" title="Special:BookSources/0865716951">0865716951</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.aufirst=Richard&amp;rft.aulast=Heinberg&amp;rft.btitle=The+end+of+growth%3A+adapting+to+our+new+economic+reality&amp;rft.date=2011&amp;rft.edition=3rd+printing.&amp;rft.genre=book&amp;rft.isbn=0865716951&amp;rft.place=Gabriola+Island%2C+B.C.&amp;rft.pub=New+Society+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140809063037/http://www.si.edu/consortia/limitstogrowth2012">Perspectives on Limits to Growth: Challenges to Building a Sustainable Planet</a></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.volkswagenstiftung.de/en/events/event-reports/berichte/documentation-limits-to-growth.html">Documentation: "Already Beyond? – 40 Years Limits to Growth"</a></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation book">Randers, Jorgen. <i>2052</i>. White River Junction, Vt.: Chelsea Green Pub. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1603584218" title="Special:BookSources/1603584218">1603584218</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.aufirst=Jorgen&amp;rft.aulast=Randers&amp;rft.btitle=2052&amp;rft.genre=book&amp;rft.isbn=1603584218&amp;rft.place=White+River+Junction%2C+Vt.&amp;rft.pub=Chelsea+Green+Pub.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web">Brian Hayes (May–June 2012). <a rel="nofollow" class="external text" href="http://www.americanscientist.org/issues/pub/computation-and-the-human-predicament">"Computation and the Human Predicament – The Limits to Growth and the limits to computer modeling"</a>. American Scientist. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1511%2F2012.96.186">10.1511/2012.96.186</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.au=Brian+Hayes&amp;rft.btitle=Computation+and+the+Human+Predicament+%93+The+Limits+to+Growth+and+the+limits+to+computer+modeling&amp;rft.date=2012-05%2F2012-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.americanscientist.org%2Fissues%2Fpub%2Fcomputation-and-the-human-predicament&amp;rft_id=info%3Adoi%2F10.1511%2F2012.96.186&amp;rft.pub=American+Scientist&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation report">Jackon, Tim; Webster, Robin (April 2016). <a rel="nofollow" class="external text" href="http://limits2growth.org.uk/wp-content/uploads/2016/04/Jackson-and-Webster-2016-Limits-Revisited.pdf">Limits Revisited: A review of the limits to growth debate</a> <span style="font-size:85%;">(PDF)</span> (Report). London, UK: All-Party Parliamentary Group on Limits to Growth<span class="reference-accessdate">. Retrieved <span class="nowrap">October 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.aufirst=Tim&amp;rft.aulast=Jackon&amp;rft.au=Webster%2C+Robin&amp;rft.btitle=Limits+Revisited%3A+A+review+of+the+limits+to+growth+debate&amp;rft.date=2016-04&amp;rft.genre=report&amp;rft_id=http%3A%2F%2Flimits2growth.org.uk%2Fwp-content%2Fuploads%2F2016%2F04%2FJackson-and-Webster-2016-Limits-Revisited.pdf&amp;rft.place=London%2C+UK&amp;rft.pub=All-Party+Parliamentary+Group+on+Limits+to+Growth&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-alan2010-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-alan2010_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-alan2010_40-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Alan Atkisson (2010). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120123173440/http://www.earthscan.co.uk/Portals/0/pdfs/Believing_Cassandra_Ch1.pdf">"Believing Cassandra: How to be an Optimist in a Pessimist's World"</a>, <a href="/wiki/Earthscan" title="Earthscan">Earthscan</a>, pp. 17–18.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFMeadowsothers1972" class="citation">Meadows, D. H.; Meadows, D. L.; Randers, J.; Behrens III, W. W. (1972), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ulyPB2pl0SwC&amp;q=intitle:the+intitle:limits+intitle:to+intitle:growth&amp;dq=intitle:the+intitle:limits+intitle:to+intitle:growth&amp;hl=en&amp;ei=5KASTuXBO8mOmQXx4JniAw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CD8Q6AEwAw">The Limits to Growth<i>: a report for the Club of Rome's project on the predicament of mankind</i></a>, Universe Books, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87663-165-0" title="Special:BookSources/0-87663-165-0">0-87663-165-0</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.au=Behrens+III%2C+W.+W.&amp;rft.aufirst=D.+H.&amp;rft.aulast=Meadows&amp;rft.au=Meadows%2C+D.+L.&amp;rft.au=Randers%2C+J.&amp;rft.btitle=The+Limits+to+Growth%3A+a+report+for+the+Club+of+Rome%27s+project+on+the+predicament+of+mankind&amp;rft.date=1972&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DulyPB2pl0SwC%26q%3Dintitle%3Athe%2Bintitle%3Alimits%2Bintitle%3Ato%2Bintitle%3Agrowth%26dq%3Dintitle%3Athe%2Bintitle%3Alimits%2Bintitle%3Ato%2Bintitle%3Agrowth%26hl%3Den%26ei%3D5KASTuXBO8mOmQXx4JniAw%26sa%3DX%26oi%3Dbook_result%26ct%3Dresult%26resnum%3D4%26ved%3D0CD8Q6AEwAw&amp;rft.isbn=0-87663-165-0&amp;rft.pub=Universe+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li><cite id="CITEREFMeyerN.C3.B8rg.C3.A5rd2010" class="citation">Meyer, N. I.; Nørgård, J. S. (2010), <a rel="nofollow" class="external text" href="http://www2.dmu.dk/1_om_dmu/2_afdelinger/3_atmi/ceeh/Collection%20of%20Extended%20Abstracts.pdf#page=134"><i>Policy Means for Sustainable Energy Scenarios (abstract)</i></a> <span style="font-size:85%;">(PDF)</span>, Denmark: International Conference on Energy, Environment and Health – Optimisation of Future Energy Systems, pp.&#160;133–7</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.aufirst=N.+I.&amp;rft.aulast=Meyer&amp;rft.au=N%C3%B8rg%C3%A5rd%2C+J.+S.&amp;rft.btitle=Policy+Means+for+Sustainable+Energy+Scenarios+%28abstract%29&amp;rft.date=2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww2.dmu.dk%2F1_om_dmu%2F2_afdelinger%2F3_atmi%2Fceeh%2FCollection%2520of%2520Extended%2520Abstracts.pdf%23page%3D134&amp;rft.pages=133-7&amp;rft.place=Denmark&amp;rft.pub=International+Conference+on+Energy%2C+Environment+and+Health+%93+Optimisation+of+Future+Energy+Systems&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li><cite id="CITEREFN.C3.B8rg.C3.A5rdPeetRagnarsd.C3.B3ttir2010" class="citation">Nørgård, J. S.; Peet, J.; Ragnarsdóttir, K. V. (2010), <a rel="nofollow" class="external text" href="http://orbit.dtu.dk/getResource?recordId=256588&amp;objectId=1&amp;versionId=1">"The History of The Limits to Growth"</a>, <i>Solutions</i>, <b>2</b> (1): 59–63</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.atitle=The+History+of+The+Limits+to+Growth&amp;rft.aufirst=J.+S.&amp;rft.aulast=N%C3%B8rg%C3%A5rd&amp;rft.au=Peet%2C+J.&amp;rft.au=Ragnarsd%C3%B3ttir%2C+K.+V.&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Forbit.dtu.dk%2FgetResource%3FrecordId%3D256588%26objectId%3D1%26versionId%3D1&amp;rft.issue=1&amp;rft.jtitle=Solutions&amp;rft.pages=59-63&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li><cite id="CITEREFTurner2008" class="citation">Turner, Graham (2008), <a rel="nofollow" class="external text" href="http://www.csiro.au/files/files/plje.pdf"><i>A comparison of</i> The Limits to Growth <i>with thirty years of reality</i></a> <span style="font-size:85%;">(PDF)</span>, Commonwealth Scientific and Industrial Research Organisation (<a href="/wiki/CSIRO" class="mw-redirect" title="CSIRO">CSIRO</a>) Sustainable Ecosystems</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.aufirst=Graham&amp;rft.aulast=Turner&amp;rft.btitle=A+comparison+of+The+Limits+to+Growth+with+thirty+years+of+reality&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.csiro.au%2Ffiles%2Ffiles%2Fplje.pdf&amp;rft.pub=Commonwealth+Scientific+and+Industrial+Research+Organisation+%28CSIRO%29+Sustainable+Ecosystems&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li><cite id="CITEREFvan_VuurenFaber2009" class="citation">van Vuuren, D. P.; Faber, A. (2009), <a rel="nofollow" class="external text" href="http://www.pbl.nl/bibliotheek/rapporten/500201001.pdf"><i>Growing within Limits – A Report to the Global Assembly 2009 of the Club of Rome</i></a> <span style="font-size:85%;">(PDF)</span>, <a href="/wiki/Netherlands_Environmental_Assessment_Agency" title="Netherlands Environmental Assessment Agency">Netherlands Environmental Assessment Agency</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-6960-234-9" title="Special:BookSources/978-90-6960-234-9">978-90-6960-234-9</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Limits+to+Growth&amp;rft.au=Faber%2C+A.&amp;rft.aufirst=D.+P.&amp;rft.aulast=van+Vuuren&amp;rft.btitle=Growing+within+Limits+%93+A+Report+to+the+Global+Assembly+2009+of+the+Club+of+Rome&amp;rft.date=2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.pbl.nl%2Fbibliotheek%2Frapporten%2F500201001.pdf&amp;rft.isbn=978-90-6960-234-9&amp;rft.pub=Netherlands+Environmental+Assessment+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="Editions">Editions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=16" title="Edit section: Editions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Special:BookSources/0876631650" class="internal mw-magiclink-isbn">ISBN 0-87663-165-0</a>, 1972 first edition (<a rel="nofollow" class="external text" href="http://collections.dartmouth.edu/teitexts/meadows/diplomatic/meadows_ltg-diplomatic.html">digital version)</a></li>
+<li><a href="/wiki/Special:BookSources/0876632223" class="internal mw-magiclink-isbn">ISBN 0-87663-222-3</a>, 1974 second edition (cloth)</li>
+<li><a href="/wiki/Special:BookSources/087663918X" class="internal mw-magiclink-isbn">ISBN 0-87663-918-X</a>, 1974 second edition (paperback)</li>
+<li><a href="/wiki/Special:BookSources/9781931498586" class="internal mw-magiclink-isbn">ISBN 978-1-931498-58-6</a>, <a href="/wiki/ASIN" class="mw-redirect" title="ASIN">ASIN</a> 1-931498-58-X, 2004 <i>Limits to Growth: The 30-Year Update</i></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:The_Limits_to_Growth" class="extiw" title="commons:Category:The Limits to Growth">The Limits to Growth</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikiversity-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" width="40" height="32" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></td>
+<td class="mbox-text plainlist">Wikiversity has learning resources about <i><b><a href="https://en.wikiversity.org/wiki/Limits_To_Growth" class="extiw" title="v:Limits To Growth">Limits To Growth</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf">The Limits to Growth 1972 edition</a>, <a rel="nofollow" class="external text" href="http://www.donellameadows.org/the-limits-to-growth-now-available-to-read-online/">licensed</a> under a <a href="/wiki/Creative_Commons" title="Creative Commons">Creative Commons</a> <a href="/wiki/Creative_Commons_license" title="Creative Commons license">Attribution Noncommercial license</a></li>
+<li>YAN Kun(2011). <a rel="nofollow" class="external text" href="http://www.nature.ac.cn/papers/paper-pdf/ConnectionEquation-pdf.pdf">The tendency equation between the annual population and the annual GDP in the United Kingdom</a> (Brief annotation of the connection equation(R), p3-p5), Xi'an: Xi'an Modern Nonlinear Science Applying Institute.</li>
+</ul>
+<h3><span class="mw-headline" id="Video_and_audio">Video and audio</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit&amp;section=18" title="Edit section: Video and audio">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=f2oyU0RusiA"><span class="plainlinks">Smithsonian: 40 years Limits of Growth</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Global_human_population" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Population" title="Template:Population"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Population" title="Template talk:Population"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Population&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Global_human_population" style="font-size:114%;margin:0 4em"><a href="/wiki/World_population" title="World population">Global human population</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Major topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biocapacity" title="Biocapacity">Biocapacity</a></li>
+<li><a href="/wiki/Optimum_population" title="Optimum population">Optimum population</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a>
+<ul>
+<li><a href="/wiki/Malthusian_catastrophe" title="Malthusian catastrophe">Malthusian catastrophe</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Population" title="Population">Population</a></li>
+<li><a href="/wiki/Population_ethics" title="Population ethics">Population ethics</a></li>
+<li><a href="/wiki/Population_momentum" title="Population momentum">Population momentum</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Reproductive_rights" title="Reproductive rights">Women's reproductive rights</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero population growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Biological and<br />
+related topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a>
+<ul>
+<li><a href="/wiki/Population_Matters#Pledge_two_or_fewer" title="Population Matters">Pledge two or fewer</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Human_population_planning" title="Human population planning">Human population planning</a>
+<ul>
+<li><a href="/wiki/One-child_policy" title="One-child policy">One-child policy</a></li>
+<li><a href="/wiki/Two-child_policy" title="Two-child policy">Two-child policy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Population_biology" title="Population biology">Population biology</a></li>
+<li><a href="/wiki/Population_decline" title="Population decline">Population decline</a></li>
+<li><a href="/wiki/Population_density" title="Population density">Population density</a>
+<ul>
+<li><a href="/wiki/Physiological_density" title="Physiological density">Physiological density</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_growth" title="Population growth">Population growth</a></li>
+<li><a href="/wiki/Population_model" title="Population model">Population model</a></li>
+<li><a href="/wiki/Population_pyramid" title="Population pyramid">Population pyramid</a></li>
+<li><a href="/wiki/Projections_of_population_growth" title="Projections of population growth">Projections of population growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;"><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on<br />
+the environment</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Desertification" title="Desertification">Desertification</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Environmental impact</a>
+<ul>
+<li><a href="/wiki/Environmental_impact_of_agriculture" title="Environmental impact of agriculture">of agriculture</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">of aviation</a></li>
+<li><a href="/wiki/Environmental_impact_of_biodiesel" title="Environmental impact of biodiesel">of biodiesel</a></li>
+<li><a href="/wiki/Environmental_impact_of_concrete" title="Environmental impact of concrete">of concrete</a></li>
+<li><a href="/wiki/Environmental_impact_of_electricity_generation" title="Environmental impact of electricity generation">of electricity generation</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_energy_industry" title="Environmental impact of the energy industry">of the energy industry</a></li>
+<li><a href="/wiki/Environmental_impact_of_fishing" title="Environmental impact of fishing">of fishing</a></li>
+<li><a href="/wiki/Environmental_impact_of_irrigation" title="Environmental impact of irrigation">of irrigation</a></li>
+<li><a href="/wiki/Environmental_impact_of_mining" title="Environmental impact of mining">of mining</a></li>
+<li><a href="/wiki/Off-roading#Environmental_impact" title="Off-roading">of off-roading</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_oil_shale_industry" title="Environmental impact of the oil shale industry">of oil shale industry</a></li>
+<li><a href="/wiki/Social_and_environmental_impact_of_palm_oil" title="Social and environmental impact of palm oil">of palm oil</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper" title="Environmental impact of paper">of paper</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_petroleum_industry" title="Environmental impact of the petroleum industry">of the petroleum industry</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">of reservoirs</a></li>
+<li><a href="/wiki/Environmental_impact_of_shipping" title="Environmental impact of shipping">of shipping</a></li>
+<li><a href="/wiki/Environmental_impact_of_war" title="Environmental impact of war">of war</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Industrialisation" title="Industrialisation">Industrialisation</a></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Land degradation</a></li>
+<li><a href="/wiki/Land_reclamation" title="Land reclamation">Land reclamation</a></li>
+<li><a href="/wiki/Overconsumption" title="Overconsumption">Overconsumption</a></li>
+<li><a href="/wiki/Pollution" title="Pollution">Pollution</a></li>
+<li><a href="/wiki/Quarry" title="Quarry">Quarrying</a></li>
+<li><a href="/wiki/Urbanization" title="Urbanization">Urbanization</a>
+<ul>
+<li><a href="/wiki/Green_belt" title="Green belt">Loss of green belts</a></li>
+<li><a href="/wiki/Urban_sprawl" title="Urban sprawl">Urban sprawl</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Waste" title="Waste">Waste</a></li>
+<li><a href="/wiki/Water_scarcity" title="Water scarcity">Water scarcity</a>
+<ul>
+<li><a href="/wiki/Overdrafting" title="Overdrafting">Overdrafting</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Population_ecology" title="Population ecology">Population<br />
+ecology</a></div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carrying_capacity#Humans" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Food security</a></li>
+<li><a href="/wiki/Habitat_destruction" title="Habitat destruction">Habitat destruction</a></li>
+<li><span class="nowrap"><a href="/wiki/I_%3D_PAT" title="I = PAT">I = P × A  × T</a></span></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Overshoot_(population)" title="Overshoot (population)">Overshoot (population)</a></li>
+<li><a href="/wiki/World_energy_consumption" title="World energy consumption">World energy consumption</a></li>
+<li><a href="/wiki/World_energy_resources" title="World energy resources">World energy resources</a></li>
+<li><a href="/wiki/World3" title="World3">World3 model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Literature</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/A_Modest_Proposal" title="A Modest Proposal">A Modest Proposal</a></i></li>
+<li><i><a href="/wiki/Observations_Concerning_the_Increase_of_Mankind,_Peopling_of_Countries,_etc." title="Observations Concerning the Increase of Mankind, Peopling of Countries, etc.">Observations Concerning the Increase of Mankind, Peopling of Countries, etc.</a></i></li>
+<li><i><a href="/wiki/An_Essay_on_the_Principle_of_Population" title="An Essay on the Principle of Population">An Essay on the Principle of Population</a></i></li>
+<li>"<a href="/wiki/How_Much_Land_Does_a_Man_Need%3F" title="How Much Land Does a Man Need?">How Much Land Does a Man Need?</a>"</li>
+<li><i><a href="/wiki/Operating_Manual_for_Spaceship_Earth" title="Operating Manual for Spaceship Earth">Operating Manual for Spaceship Earth</a></i></li>
+<li><i><a href="/wiki/Population_Control:_Real_Costs,_Illusory_Benefits" title="Population Control: Real Costs, Illusory Benefits">Population Control: Real Costs, Illusory Benefits</a></i></li>
+<li><i><strong class="selflink">The Limits to Growth</strong></i></li>
+<li><i><a href="/wiki/The_Population_Bomb" title="The Population Bomb">The Population Bomb</a></i></li>
+<li><i><a href="/wiki/The_Skeptical_Environmentalist" title="The Skeptical Environmentalist">The Skeptical Environmentalist</a></i></li>
+<li><i><a href="/wiki/The_Ultimate_Resource" title="The Ultimate Resource">The Ultimate Resource</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Publications</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Population_and_Environment" title="Population and Environment">Population and Environment</a></li>
+<li><a href="/wiki/Population_and_Development_Review" title="Population and Development Review">Population and Development Review</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Lists</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Population_and_housing_censuses_by_country" title="Population and housing censuses by country">Population and housing censuses by country</a></li>
+<li><a href="/wiki/List_of_metropolitan_areas_by_population" title="List of metropolitan areas by population">Metropolitan areas by population</a></li>
+<li><a href="/wiki/Population_milestone_babies" title="Population milestone babies">Population milestone babies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">
+<div style="padding:0.1em 0;line-height:1.2em;">Events and<br />
+organizations</div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/7_Billion_Actions" title="7 Billion Actions">7 Billion Actions</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">International Conference on Population and Development</a></li>
+<li><a href="/wiki/Population_Action_International" title="Population Action International">Population Action International</a></li>
+<li><a href="/wiki/Population_Connection" title="Population Connection">Population Connection</a></li>
+<li><a href="/wiki/Population_Matters" title="Population Matters">Population Matters</a></li>
+<li><a href="/wiki/Population_Research_Institute" title="Population Research Institute">Population Research Institute</a></li>
+<li><a href="/wiki/United_Nations_Population_Fund" title="United Nations Population Fund">United Nations Population Fund</a></li>
+<li><a href="/wiki/Voluntary_Human_Extinction_Movement" title="Voluntary Human Extinction Movement">Voluntary Human Extinction Movement</a></li>
+<li><a href="/wiki/World_Population_Day" title="World Population Day">World Population Day</a></li>
+<li><a href="/wiki/World_Population_Foundation" title="World Population Foundation">World Population Foundation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Classic_Maya_collapse" title="Classic Maya collapse">Classic Maya collapse</a></li>
+<li><a href="/wiki/Fertility_and_intelligence" title="Fertility and intelligence">Fertility and intelligence</a></li>
+<li><a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Human_migration" title="Human migration">Migration</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Human_overpopulation" class="extiw" title="commons:Category:Human overpopulation">Commons</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Human_overpopulation" title="Category:Human overpopulation">Human overpopulation</a></li>
+<li><a href="/wiki/Category:Human_activities_with_impact_on_the_environment" title="Category:Human activities with impact on the environment">Human activities with impact on the environment</a></li>
+<li><a href="/wiki/Category:Human_migration" title="Category:Human migration">Human migration</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4217805-8">4217805-8</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1170
+Cached time: 20170313062147
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.344 seconds
+Real time usage: 0.452 seconds
+Preprocessor visited node count: 2563/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 87871/2097152 bytes
+Template argument size: 6387/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.127/10.000 seconds
+Lua memory usage: 4.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  342.005      1 -total
+ 36.09%  123.414      1 Template:Reflist
+ 18.56%   63.473      1 Template:Infobox_book
+ 15.74%   53.817      1 Template:Infobox
+ 11.41%   39.008      4 Template:Cite_web
+  8.89%   30.404      1 Template:Commons_category
+  7.76%   26.544      2 Template:Sister_project
+  7.61%   26.014      1 Template:Commons
+  7.19%   24.579      2 Template:Side_box
+  7.07%   24.165      6 Template:Cite_journal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:66618-0!*!0!!en!4!*!math=5 and timestamp 20170313062147 and revision id 766515769
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Limits_to_Growth&amp;oldid=766515769">https://en.wikipedia.org/w/index.php?title=The_Limits_to_Growth&amp;oldid=766515769</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1972_books" title="Category:1972 books">1972 books</a></li><li><a href="/wiki/Category:1972_in_the_environment" title="Category:1972 in the environment">1972 in the environment</a></li><li><a href="/wiki/Category:2004_books" title="Category:2004 books">2004 books</a></li><li><a href="/wiki/Category:Demographic_economics" title="Category:Demographic economics">Demographic economics</a></li><li><a href="/wiki/Category:Ecological_economics" title="Category:Ecological economics">Ecological economics</a></li><li><a href="/wiki/Category:Books_critical_of_economic_growth" title="Category:Books critical of economic growth">Books critical of economic growth</a></li><li><a href="/wiki/Category:Environmental_non-fiction_books" title="Category:Environmental non-fiction books">Environmental non-fiction books</a></li><li><a href="/wiki/Category:Futurology_books" title="Category:Futurology books">Futurology books</a></li><li><a href="/wiki/Category:Peak_oil_books" title="Category:Peak oil books">Peak oil books</a></li><li><a href="/wiki/Category:Sustainability_books" title="Category:Sustainability books">Sustainability books</a></li><li><a href="/wiki/Category:Systems_theory_books" title="Category:Systems theory books">Systems theory books</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Limits+to+Growth" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Limits+to+Growth" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Limits_to_Growth"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:The_Limits_to_Growth"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/The_Limits_to_Growth" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Limits_to_Growth" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Limits_to_Growth" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Limits_to_Growth&amp;oldid=766515769" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Limits_to_Growth&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q277111" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Limits_to_Growth&amp;id=766515769" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Limits+to+Growth">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Limits+to+Growth&amp;returnto=The+Limits+to+Growth&amp;oldid=766515769&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=The_Limits_to_Growth&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:The_Limits_to_Growth" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/The_Limits_to_Growth" title="The Limits to Growth – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/The_Limits_to_Growth" title="The Limits to Growth – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Gr%C3%A6nser_for_v%C3%A6kst" title="Grænser for vækst – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Die_Grenzen_des_Wachstums" title="Die Grenzen des Wachstums – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kasvu_piirid" title="Kasvu piirid – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Los_l%C3%ADmites_del_crecimiento" title="Los límites del crecimiento – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/La_limoj_de_kreskado" title="La limoj de kreskado – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Halte_%C3%A0_la_croissance_%3F" title="Halte à la croissance ? – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Os_l%C3%ADmites_do_crecemento" title="Os límites do crecemento – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B3%D5%AB_%D5%BD%D5%A1%D5%B0%D5%B4%D5%A1%D5%B6%D5%B6%D5%A5%D6%80" title="Աճի սահմաններ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A5%83%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%8F%E0%A4%81" title="संवृद्धि की सीमाएँ – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Rapporto_sui_limiti_dello_sviluppo" title="Rapporto sui limiti dello sviluppo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/De_grenzen_aan_de_groei" title="De grenzen aan de groei – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%88%90%E9%95%B7%E3%81%AE%E9%99%90%E7%95%8C" title="成長の限界 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Hvor_g%C3%A5r_grensen%3F" title="Hvor går grensen? – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Granice_wzrostu_(raport_Klubu_Rzymskiego)" title="Granice wzrostu (raport Klubu Rzymskiego) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Os_Limites_do_Crescimento" title="Os Limites do Crescimento – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8B_%D1%80%D0%BE%D1%81%D1%82%D0%B0" title="Пределы роста – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Granice_rasta" title="Granice rasta – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kasvun_rajat" title="Kasvun rajat – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D1%96_%D0%B7%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%8F" title="Межі зростання – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A2%9E%E9%95%BF%E7%9A%84%E6%9E%81%E9%99%90" title="增长的极限 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q277111#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 February 2017, at 16:55.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=The_Limits_to_Growth&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.452","ppvisitednodes":{"value":2563,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":87871,"limit":2097152},"templateargumentsize":{"value":6387,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  342.005      1 -total"," 36.09%  123.414      1 Template:Reflist"," 18.56%   63.473      1 Template:Infobox_book"," 15.74%   53.817      1 Template:Infobox"," 11.41%   39.008      4 Template:Cite_web","  8.89%   30.404      1 Template:Commons_category","  7.76%   26.544      2 Template:Sister_project","  7.61%   26.014      1 Template:Commons","  7.19%   24.579      2 Template:Side_box","  7.07%   24.165      6 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.127","limit":"10.000"},"limitreport-memusage":{"value":5139722,"limit":52428800}},"cachereport":{"origin":"mw1170","timestamp":"20170313062147","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1215"});});</script>
+	</body>
+</html>

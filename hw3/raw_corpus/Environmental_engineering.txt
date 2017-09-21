@@ -1,0 +1,1559 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Environmental engineering - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Environmental_engineering","wgTitle":"Environmental engineering","wgCurRevisionId":769313583,"wgRevisionId":769313583,"wgArticleId":50702,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2014","Articles with unsourced statements from September 2007","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Pages using ISBN magic links","Chemical engineering","Civil engineering","Environmental engineering","Environmental science","Engineering disciplines","Environmental terminology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Environmental_engineering","wgRelevantArticleId":50702,"wgRequestId":"WMY4UApAMEoAAF-jppUAAABB","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q146326","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wonga_wetlands_sewage_plant.jpg/1200px-Wonga_wetlands_sewage_plant.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Environmental_engineering"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Environmental_engineering&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Environmental_engineering&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Environmental_engineering"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Environmental_engineering rootpage-Environmental_engineering skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Environmental engineering</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">See also: <a href="/wiki/Ecological_engineering" title="Ecological engineering">Ecological engineering</a></div>
+<p><b>Environmental engineering</b> is the branch of engineering concerned with the application of scientific and engineering principles for protection of human populations from the effects of adverse environmental factors; protection of environments, both local and global, from potentially deleterious effects of natural and human activities; and improvement of environmental quality.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Environmental engineering can also be described as a branch of applied science and technology that addresses the issues of energy preservation, production asset and control of waste from human and animal activities. Furthermore, it is concerned with finding plausible solutions in the field of public health, such as <a href="/wiki/Waterborne_diseases" title="Waterborne diseases">waterborne diseases</a>, implementing laws which promote adequate sanitation in urban, rural and recreational areas. It involves <a href="/wiki/Water_pollution" title="Water pollution">waste water management</a>, <a href="/wiki/Air_pollution" title="Air pollution">air pollution</a> control, recycling, <a href="/wiki/Waste_disposal" class="mw-redirect" title="Waste disposal">waste disposal</a>, radiation protection, industrial hygiene, animal agriculture, environmental sustainability, <a href="/wiki/Public_health" title="Public health">public health</a> and <a href="/wiki/Environmental_engineering_law" title="Environmental engineering law">environmental engineering law</a>. It also includes studies on the environmental impact of proposed construction projects.</p>
+<p>Environmental engineers study the effect of technological advances on the environment. To do so, they conduct studies on hazardous-<a href="/wiki/Waste_management" title="Waste management">waste management</a> to evaluate the significance of such hazards, advise on treatment and containment, and develop regulations to prevent mishaps. Environmental engineers design <a href="/wiki/Water_purification" title="Water purification">municipal water supply</a> and <a href="/wiki/Industrial_wastewater_treatment" title="Industrial wastewater treatment">industrial wastewater treatment</a> systems.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> They address local and worldwide environmental issues such as the effects of <a href="/wiki/Acid_rain" title="Acid rain">acid rain</a>, <a href="/wiki/Global_warming" title="Global warming">global warming</a>, <a href="/wiki/Ozone_depletion" title="Ozone depletion">ozone depletion</a>, water pollution and air pollution from <a href="/wiki/Automobile_emissions_control" class="mw-redirect" title="Automobile emissions control">automobile exhausts</a> and <a href="/wiki/AP_42_Compilation_of_Air_Pollutant_Emission_Factors" title="AP 42 Compilation of Air Pollutant Emission Factors">industrial sources</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-Bureau_of_Labor_Statistics.2C_U.S._Department_of_Labor.U.S._Department_of_Labor.2C_Occupational_Outlook_Handbook.2C_2010-11_Edition_6-0" class="reference"><a href="#cite_note-Bureau_of_Labor_Statistics.2C_U.S._Department_of_Labor.U.S._Department_of_Labor.2C_Occupational_Outlook_Handbook.2C_2010-11_Edition-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>At many universities environmental engineering programs are offered at either the department of <a href="/wiki/Civil_engineering" title="Civil engineering">civil engineering</a> or the department of <a href="/wiki/Chemical_engineering" title="Chemical engineering">chemical engineering</a> at engineering faculties. Environmental "civil" engineers focus on hydrology, water resources management, bioremediation, and water treatment plant design. Environmental "chemical" engineers, on the other hand, focus on environmental chemistry, advanced air and water treatment technologies and separation processes.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup></p>
+<p>Additionally, engineers are more frequently obtaining specialized training in law (<a href="/wiki/Juris_Doctor" title="Juris Doctor">J.D.</a>) and are utilizing their technical expertise in the practices of <a href="/wiki/Environmental_engineering_law" title="Environmental engineering law">environmental engineering law</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2007)">citation needed</span></a></i>]</sup></p>
+<p>Most jurisdictions also impose licensing and registration requirements.</p>
+<p><span id="History"></span></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Development"><span class="tocnumber">1</span> <span class="toctext">Development</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Scope"><span class="tocnumber">2</span> <span class="toctext">Scope</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Solid_waste_management"><span class="tocnumber">2.1</span> <span class="toctext">Solid waste management</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Environmental_impact_assessment_and_mitigation"><span class="tocnumber">2.2</span> <span class="toctext">Environmental impact assessment and mitigation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Water_supply_and_treatment"><span class="tocnumber">2.3</span> <span class="toctext">Water supply and treatment</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Wastewater_treatment"><span class="tocnumber">2.4</span> <span class="toctext">Wastewater treatment</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Air_pollution_management"><span class="tocnumber">2.5</span> <span class="toctext">Air pollution management</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Environmental_Protection_Agency"><span class="tocnumber">2.6</span> <span class="toctext">Environmental Protection Agency</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Ecological_engineering_for_sustainable_agriculture_in_arid_and_semiarid_West_African_regions.5B13.5D"><span class="tocnumber">3</span> <span class="toctext">Ecological engineering for sustainable agriculture in arid and semiarid West African regions<sup>[13]</sup></span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Education"><span class="tocnumber">4</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Prominent_environmental_engineers"><span class="tocnumber">5</span> <span class="toctext">Prominent environmental engineers</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=1" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ever since people first recognized that their health is related to the <a href="/wiki/Environmental_quality" title="Environmental quality">quality of their environment</a>, they have applied principles to attempt to improve the quality of their environment. The ancient Indian <a href="/wiki/Harappan_civilization" class="mw-redirect" title="Harappan civilization">Harappan civilization</a> utilized early sewers in some cities more than 5000 years ago. The <a href="/wiki/Roman_aqueduct" title="Roman aqueduct">Romans constructed aqueducts</a> to prevent drought and to create a clean, healthful water supply for the <a href="/wiki/Metropolitan_area" title="Metropolitan area">metropolis</a> of <a href="/wiki/Rome" title="Rome">Rome</a>. In the 15th century, <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a> created laws restricting the development and degradation of alpine country that constituted the region's water supply.</p>
+<p>The field emerged as a separate environmental discipline during the middle third of the 20th century in response to widespread public concern about water and pollution and increasingly extensive environmental quality degradation. However, its roots extend back to early efforts in public health engineering.<sup id="cite_ref-National_Science_Foundation..28Dec._3.2C_2009.29.Environmental_Engineering_8-0" class="reference"><a href="#cite_note-National_Science_Foundation..28Dec._3.2C_2009.29.Environmental_Engineering-8">[8]</a></sup> Modern environmental engineering began in <a href="/wiki/London" title="London">London</a> in the mid-19th century when <a href="/wiki/Joseph_Bazalgette" title="Joseph Bazalgette">Joseph Bazalgette</a> designed the first major <a href="/wiki/Sewage_collection_and_disposal" class="mw-redirect" title="Sewage collection and disposal">sewerage</a> system that reduced the incidence of waterborne diseases such as <a href="/wiki/Cholera" title="Cholera">cholera</a>. The introduction of drinking water treatment and sewage treatment in industrialized countries reduced waterborne diseases from leading causes of death to rarities.<sup id="cite_ref-Water_industry_from_The_Oxford_Companion_to_British_History_online_9-0" class="reference"><a href="#cite_note-Water_industry_from_The_Oxford_Companion_to_British_History_online-9">[9]</a></sup></p>
+<p>In many cases, as societies grew, actions that were intended to achieve benefits for those societies had longer-term impacts which reduced other environmental qualities. One example is the widespread application of the pesticide <a href="/wiki/DDT" class="mw-redirect" title="DDT">DDT</a> to control agricultural pests in the years following <a href="/wiki/World_War_II" title="World War II">World War II</a>. While the <a href="/wiki/Agriculture" title="Agriculture">agricultural</a> benefits were outstanding and crop yields increased dramatically thus reducing world hunger substantially, and <a href="/wiki/Malaria" title="Malaria">malaria</a> was controlled better than it ever had been, numerous species were brought to the verge of extinction due to the impact of the DDT on their reproductive cycles. The story of DDT as vividly told in <a href="/wiki/Rachel_Carson" title="Rachel Carson">Rachel Carson</a>'s <i><a href="/wiki/Silent_Spring" title="Silent Spring">Silent Spring</a></i> (1962) is considered to be the birth of the modern environmental movement and of the modern field of "environmental engineering."<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movements</a> and <a href="/wiki/Law" title="Law">laws</a> restricting public actions that would harm the environment have been developed by various societies for millennia. Notable examples are the laws decreeing the construction of <a href="/wiki/Sanitary_sewer" title="Sanitary sewer">sewers</a> in <a href="/wiki/London_sewerage_system" title="London sewerage system">London</a> and <a href="/wiki/Paris_Sewer_Museum" title="Paris Sewer Museum">Paris</a> in the 19th century and the creation of the U.S. national park system in the early 20th century.</p>
+<h2><span class="mw-headline" id="Scope">Scope</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=2" title="Edit section: Scope">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Solid_waste_management">Solid waste management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=3" title="Edit section: Solid waste management">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="Environmental_impact_assessment_and_mitigation">Environmental impact assessment and mitigation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=4" title="Edit section: Environmental impact assessment and mitigation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a></div>
+<p>Scientists have air pollution dispersion models to evaluate the concentration of a pollutant at a receptor or the impact on overall air quality from vehicle exhausts and industrial flue gas stack emissions. To some extent, this field overlaps the desire to decrease carbon dioxide and other greenhouse gas emissions from combustion processes. They apply scientific and engineering principles to evaluate if there are likely to be any adverse impacts to water quality, air quality, <a href="/wiki/Habitat_(ecology)" class="mw-redirect" title="Habitat (ecology)">habitat</a> quality, <a href="/wiki/Flora_(plants)" class="mw-redirect" title="Flora (plants)">flora</a> and <a href="/wiki/Fauna_(animals)" class="mw-redirect" title="Fauna (animals)">fauna</a>, agricultural capacity, <a href="/wiki/Traffic" title="Traffic">traffic</a> impacts, social impacts, ecological impacts, noise impacts, visual (landscape) impacts, etc. If impacts are expected, they then develop mitigation measures to limit or prevent such impacts. An example of a mitigation measure would be the creation of <a href="/wiki/Wetland" title="Wetland">wetlands</a> in a nearby location to mitigate the filling in of wetlands necessary for a road development if it is not possible to reroute the road.</p>
+<p>In the United States, the practice of environmental assessment was formally initiated on January 1, 1970, the effective date of the <a href="/wiki/National_Environmental_Policy_Act" title="National Environmental Policy Act">National Environmental Policy Act</a> (NEPA). Since that time, more than 100 developing and developed nations either have planned specific analogous laws or have adopted procedure used elsewhere. NEPA is applicable to all federal agencies in the United States.<sup id="cite_ref-McGraw-Hill.2C_Inc_11-0" class="reference"><a href="#cite_note-McGraw-Hill.2C_Inc-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Water_supply_and_treatment">Water supply and treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=5" title="Edit section: Water supply and treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wonga_wetlands_sewage_plant.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wonga_wetlands_sewage_plant.jpg/220px-Wonga_wetlands_sewage_plant.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wonga_wetlands_sewage_plant.jpg/330px-Wonga_wetlands_sewage_plant.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wonga_wetlands_sewage_plant.jpg/440px-Wonga_wetlands_sewage_plant.jpg 2x" data-file-width="1600" data-file-height="1067" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Wonga_wetlands_sewage_plant.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a> plant, <a href="/wiki/Australia" title="Australia">Australia</a></div>
+</div>
+</div>
+<p>They evaluate the water balance within a <a href="/wiki/Drainage_basin" title="Drainage basin">watershed</a> and determine the available water supply, the water needed for various needs in that watershed, the seasonal cycles of water movement through the watershed and they develop systems to store, treat, and convey water for various uses. Water is treated to achieve water quality objectives for the end uses. In the case of a <a href="/wiki/Potable_water" class="mw-redirect" title="Potable water">potable water</a> supply, water is treated to minimize the risk of <a href="/wiki/Infectious_disease" class="mw-redirect" title="Infectious disease">infectious disease</a> transmission, the risk of non-infectious illness, and to create a palatable water flavor. Water distribution systems are designed and built to provide adequate water pressure and flow rates to meet various end-user needs such as domestic use, fire suppression, and <a href="/wiki/Irrigation" title="Irrigation">irrigation</a>.</p>
+<h3><span class="mw-headline" id="Wastewater_treatment">Wastewater treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=6" title="Edit section: Wastewater treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Water_pollution.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/d/d6/Water_pollution.jpg" width="200" height="174" class="thumbimage" data-file-width="200" data-file-height="174" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Water_pollution.jpg" class="internal" title="Enlarge"></a></div>
+Water pollution</div>
+</div>
+</div>
+<p>There are numerous wastewater treatment technologies. A wastewater treatment train can consist of a primary clarifier system to remove solid and floating materials, a secondary treatment system consisting of an <a href="/wiki/Aeration" title="Aeration">aeration</a> basin followed by <a href="/wiki/Flocculation" title="Flocculation">flocculation</a> and <a href="/wiki/Settling" title="Settling">sedimentation</a> or an <a href="/wiki/Activated_sludge" title="Activated sludge">activated sludge</a> system and a secondary clarifier, a tertiary biological <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> removal system, and a final <a href="/wiki/Disinfection" class="mw-redirect" title="Disinfection">disinfection</a> process. The aeration basin/activated sludge system removes organic material by growing bacteria (activated sludge). The secondary clarifier removes the activated sludge from the water. The tertiary system, although not always included due to costs, is becoming more prevalent to remove nitrogen and <a href="/wiki/Phosphorus" title="Phosphorus">phosphorus</a> and to disinfect the water before discharge to a surface water stream or ocean outfall.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h3><span class="mw-headline" id="Air_pollution_management">Air pollution management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=7" title="Edit section: Air pollution management">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Scientists have developed <a href="/wiki/Atmospheric_dispersion_modeling" title="Atmospheric dispersion modeling">air pollution dispersion models</a> to evaluate the concentration of a pollutant at a receptor or the impact on overall air quality from vehicle <a href="/wiki/Exhaust_system" title="Exhaust system">exhausts</a> and industrial <a href="/wiki/Flue_gas_stack" class="mw-redirect" title="Flue gas stack">flue gas stack</a> emissions. To some extent, this field overlaps the desire to decrease <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> and other <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> emissions from combustion processes.</p>
+<h3><span class="mw-headline" id="Environmental_Protection_Agency">Environmental Protection Agency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=8" title="Edit section: Environmental Protection Agency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/U.S._Environmental_Protection_Agency" class="mw-redirect" title="U.S. Environmental Protection Agency">U.S. Environmental Protection Agency</a> (EPA) is one of the many agencies that work with environmental engineers to solve key issues. An important component of EPA's mission is to protect and improve air, water, and overall environmental quality in order to avoid or mitigate the consequences of harmful effects.</p>
+<h2><span class="mw-headline" id="Ecological_engineering_for_sustainable_agriculture_in_arid_and_semiarid_West_African_regions.5B13.5D">Ecological engineering for sustainable agriculture in arid and semiarid West African regions<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=9" title="Edit section: Ecological engineering for sustainable agriculture in arid and semiarid West African regions[13]">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ecological engineering offers new alternatives for the management of agricultural systems that are more tailored to the ever-changing social and environmental necessities in these regions. This requires managing the complexity of agrosystems, while striving to mimic the functioning of natural ecosystems of West African drylands and taking advantage of traditional practices and local know-how resulting from a long process of adaptation to environmental constraints.</p>
+<ol>
+<li>Acting on biodiversity. Biodiversity is essential to the productivity of ecosystems and their temporal stability under the impact of external disturbances. Several ecological processes related to biodiversity may be intensified for the benefit of agrosilvopastoral systems: promoting diversity and soil microorganism activity to benefit&#160;plants, associating and utilizing the mutual benefits of plants</li>
+<li>Utilizing organic matter and nutrient cycles. The productivity of agrosystems with low chemical input use in dryland regions is primarily based on efficient organic resource management, and in turn on the nutrient and energy flows they induce. It is thus possible to intervene at several levels: enhancing crop-livestock farming integration to preserve natural resources, restoring the biological activity of soils via specific organic&#160;inputs, supplying nutrients to plants locally.</li>
+<li>Enhancing available water use. Water supplies are limited and irregular in dryland areas. Current management of these supplies—which involves capturing rainwater and surface runoff—could be improved in several ways: adapting to erratic rainfall or drought risks by focusing on: (i) the organization of the farm and community (farm plot patterns in association with the random rainfall distribution, etc.), and on (ii) cropping techniques to reduce crop water needs (plant choices, weeding, etc.), preserving water in crop fields by hampering runoff, accounting for the essential role of trees regarding soil and water in drylands.</li>
+<li>Managing landscapes and associated ecological processes. Ecological crop pest regulation by their natural enemies is one ecosystem service provided by biodiversity. Better pest management could be considered in association with promoting biodiversity at different scales, e.g. from the plant to the landscape.</li>
+</ol>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=10" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Courses aimed at developing graduates with specific skills in environmental systems or environmental technology are becoming more common and fall into broad classes:</p>
+<ul>
+<li><i><a href="/wiki/Mechanical_engineering" title="Mechanical engineering">Mechanical engineering</a></i> courses oriented towards designing machines and mechanical systems for environmental use such as water treatment facilities, pumping stations, garbage segregation plants and other mechanical facilities;</li>
+<li><i>Environmental engineering or environmental systems</i> courses oriented towards a civil engineering approach in which structures and the landscape are constructed to blend with or protect the environment;</li>
+<li><i><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">Environmental chemistry</a></i>, <i>sustainable chemistry</i> or <i>environmental <a href="/wiki/Chemical_engineer" title="Chemical engineer">chemical</a> engineering</i> courses oriented towards understanding the effects (good and bad) of chemicals in the environment. Focus on mining processes, pollutants and commonly also cover biochemical processes;</li>
+<li><i><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a></i> courses oriented towards producing electronic or electrical graduates capable of developing devices and artifacts able to monitor, measure, model and control environmental impact, including monitoring and managing energy generation from renewable sources.</li>
+</ul>
+<h2><span class="mw-headline" id="Prominent_environmental_engineers">Prominent environmental engineers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=11" title="Edit section: Prominent environmental engineers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Robert_A._Gearheart" title="Robert A. Gearheart">Robert A. Gearheart</a></li>
+<li><a href="/wiki/Paul_V._Roberts" title="Paul V. Roberts">Paul V. Roberts</a></li>
+<li><a href="/wiki/Daniel_A._Vallero" title="Daniel A. Vallero">Daniel A. Vallero</a></li>
+<li><a href="/wiki/Abel_Wolman" title="Abel Wolman">Abel Wolman</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" width="32" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" width="32" height="21" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" data-file-width="6000" data-file-height="4000" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><a href="/wiki/American_Academy_of_Environmental_Engineers_and_Scientists" title="American Academy of Environmental Engineers and Scientists">American Academy of Environmental Engineers and Scientists</a></li>
+<li><a href="/wiki/Association_of_Environmental_Engineering_and_Science_Professors" title="Association of Environmental Engineering and Science Professors">Association of Environmental Engineering and Science Professors</a></li>
+<li><a href="/wiki/Association_of_Environmental_Professionals" title="Association of Environmental Professionals">Association of Environmental Professionals</a></li>
+<li><a href="/wiki/Atmospheric_dispersion_modeling" title="Atmospheric dispersion modeling">Atmospheric dispersion modeling</a></li>
+<li><a href="/wiki/Biofiltration" class="mw-redirect" title="Biofiltration">Biofiltration</a></li>
+<li><a href="/wiki/Confederation_of_European_Environmental_Engineering_Societies" title="Confederation of European Environmental Engineering Societies">Confederation of European Environmental Engineering Societies</a></li>
+<li><a href="/wiki/Ecological_sanitation" title="Ecological sanitation">Ecological sanitation</a></li>
+<li><a href="/wiki/Engineering_geology" title="Engineering geology">Engineering geology</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_engineering_law" title="Environmental engineering law">Environmental engineering law</a></li>
+<li><a href="/wiki/Environmental_engineering_science" title="Environmental engineering science">Environmental engineering science</a></li>
+<li><a href="/wiki/Environmental_health" title="Environmental health">Environmental health</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a></li>
+<li><a href="/wiki/Environmental_management" class="mw-redirect" title="Environmental management">Environmental management</a></li>
+<li><a href="/wiki/Environmental_restoration" title="Environmental restoration">Environmental restoration</a></li>
+<li><a href="/wiki/Environmental_science" title="Environmental science">Environmental science</a></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">Environmental studies</a></li>
+<li><a href="/wiki/Civil_engineering" title="Civil engineering">Civil engineering</a></li>
+<li><a href="/wiki/Geoprofessions" title="Geoprofessions">Geoprofessions</a></li>
+<li><a href="/wiki/Hydraulic_engineering" title="Hydraulic engineering">Hydraulic engineering</a></li>
+<li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a></li>
+<li><a href="/wiki/Institute_of_Environmental_Management_and_Assessment" title="Institute of Environmental Management and Assessment">Institute of Environmental Management and Assessment</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">List of environmental degrees</a></li>
+<li><a href="/wiki/List_of_environmental_engineers" title="List of environmental engineers">List of environmental engineers</a></li>
+<li><a href="/wiki/Society_of_Environmental_Engineers" title="Society of Environmental Engineers">Society of Environmental Engineers</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">Water purification</a></li>
+<li><a href="/wiki/Water_quality_modeling" class="mw-redirect" title="Water quality modeling">Water quality modeling</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.aaees.org/">The American Academy of Environmental Engineers</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Beychok, Milton R. (1967). <i><a href="/wiki/Aqueous_Wastes_from_Petroleum_and_Petrochemical_Plants" title="Aqueous Wastes from Petroleum and Petrochemical Plants">Aqueous Wastes from Petroleum and Petrochemical Plants</a></i> (1st ed.). John Wiley &amp; Sons. <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a> 67019834.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+engineering&amp;rft.au=Beychok%2C+Milton+R.&amp;rft.btitle=Aqueous+Wastes+from+Petroleum+and+Petrochemical+Plants&amp;rft.date=1967&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Tchobanoglous, G.; Burton, F.L. &amp; Stensel, H.D. (2003). <i>Wastewater Engineering (Treatment Disposal Reuse) / Metcalf &amp; Eddy, Inc.</i> (4th ed.). McGraw-Hill Book Company. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-041878-0" title="Special:BookSources/0-07-041878-0">0-07-041878-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+engineering&amp;rft.au=Burton%2C+F.L.&amp;rft.au=Stensel%2C+H.D.&amp;rft.au=Tchobanoglous%2C+G.&amp;rft.btitle=Wastewater+Engineering+%28Treatment+Disposal+Reuse%29+%2F+Metcalf+%26+Eddy%2C+Inc.&amp;rft.date=2003&amp;rft.edition=4th&amp;rft.genre=book&amp;rft.isbn=0-07-041878-0&amp;rft.pub=McGraw-Hill+Book+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Turner, D.B. (1994). <i>Workbook of atmospheric dispersion estimates: an introduction to dispersion modeling</i> (2nd ed.). CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56670-023-X" title="Special:BookSources/1-56670-023-X">1-56670-023-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+engineering&amp;rft.au=Turner%2C+D.B.&amp;rft.btitle=Workbook+of+atmospheric+dispersion+estimates%3A+an+introduction+to+dispersion+modeling&amp;rft.date=1994&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=1-56670-023-X&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Beychok, M.R. (2005). <i><a href="/wiki/Fundamentals_Of_Stack_Gas_Dispersion" class="mw-redirect" title="Fundamentals Of Stack Gas Dispersion">Fundamentals Of Stack Gas Dispersion</a></i> (4th ed.). author-published. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-9644588-0-2" title="Special:BookSources/0-9644588-0-2">0-9644588-0-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+engineering&amp;rft.au=Beychok%2C+M.R.&amp;rft.btitle=Fundamentals+Of+Stack+Gas+Dispersion&amp;rft.date=2005&amp;rft.edition=4th&amp;rft.genre=book&amp;rft.isbn=0-9644588-0-2&amp;rft.pub=author-published&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bureau_of_Labor_Statistics.2C_U.S._Department_of_Labor.U.S._Department_of_Labor.2C_Occupational_Outlook_Handbook.2C_2010-11_Edition-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bureau_of_Labor_Statistics.2C_U.S._Department_of_Labor.U.S._Department_of_Labor.2C_Occupational_Outlook_Handbook.2C_2010-11_Edition_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bls.gov/oco/ocos027.htm">"Architecture and Engineering Occupations&#160;: Occupational Outlook Handbook&#160;: U.S. Bureau of Labor Statistics"</a>. Bls.gov. 2012-03-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+engineering&amp;rft.btitle=Architecture+and+Engineering+Occupations+%3A+Occupational+Outlook+Handbook+%3A+U.S.+Bureau+of+Labor+Statistics&amp;rft.date=2012-03-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bls.gov%2Foco%2Focos027.htm&amp;rft.pub=Bls.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>Career Information Center. Agribusiness, Environment, and Natural Resources</i> (9th ed.). Macmillan Reference. 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+engineering&amp;rft.btitle=Career+Information+Center.+Agribusiness%2C+Environment%2C+and+Natural+Resources&amp;rft.date=2007&amp;rft.edition=9th&amp;rft.genre=book&amp;rft.pub=Macmillan+Reference&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-National_Science_Foundation..28Dec._3.2C_2009.29.Environmental_Engineering-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-National_Science_Foundation..28Dec._3.2C_2009.29.Environmental_Engineering_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501029">"Funding - Environmental Engineering - US National Science Foundation (NSF)"</a>. nsf.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+engineering&amp;rft.btitle=Funding+-+Environmental+Engineering+-+US+National+Science+Foundation+%28NSF%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nsf.gov%2Ffunding%2Fpgm_summ.jsp%3Fpims_id%3D501029&amp;rft.pub=nsf.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Water_industry_from_The_Oxford_Companion_to_British_History_online-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Water_industry_from_The_Oxford_Companion_to_British_History_online_9-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.encyclopedia.com/topic/Waterborne_infections.aspx">[1]</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>Sustainable Development (n.d.) Environmental Science</i>. Detroit. 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+engineering&amp;rft.btitle=Sustainable+Development+%28n.d.%29+Environmental+Science&amp;rft.date=2009&amp;rft.genre=book&amp;rft.pub=Detroit&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-McGraw-Hill.2C_Inc-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-McGraw-Hill.2C_Inc_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>McGraw-Hill Encyclopedia of Environmental Science and Engineering</i> (3rd ed.). McGraw-Hill, Inc. 1993.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+engineering&amp;rft.btitle=McGraw-Hill+Encyclopedia+of+Environmental+Science+and+Engineering&amp;rft.date=1993&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.pub=McGraw-Hill%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Sims, J. (2003). <i>Activated sludge, Environmental Encyclopedia</i>. Detroit.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+engineering&amp;rft.au=Sims%2C+J.&amp;rft.btitle=Activated+sludge%2C+Environmental+Encyclopedia&amp;rft.date=2003&amp;rft.genre=book&amp;rft.pub=Detroit&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">D. Masse; JL. Chotte; E. Scopel (2015). <a rel="nofollow" class="external text" href="http://www.csf-desertification.eu/combating-desertification/item/ecological-engineering">"Ecological engineering for sustainable agriculture in arid and semiarid West African regions"</a>. <i>Fiche thématique du CSFD</i> (11): 2.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+engineering&amp;rft.atitle=Ecological+engineering+for+sustainable+agriculture+in+arid+and+semiarid+West+African+regions&amp;rft.au=D.+Masse&amp;rft.au=E.+Scopel&amp;rft.au=JL.+Chotte&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.csf-desertification.eu%2Fcombating-desertification%2Fitem%2Fecological-engineering&amp;rft.issue=11&amp;rft.jtitle=Fiche+th%C3%A9matique+du+CSFD&amp;rft.pages=2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li>Davis, M. L. and D. A. Cornwell, (2006) <i>Introduction to environmental engineering</i> (4th ed.) McGraw-Hill <a href="/wiki/Special:BookSources/9780072424119" class="internal mw-magiclink-isbn">ISBN 978-0072424119</a></li>
+</ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikiversity-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" width="40" height="32" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></td>
+<td class="mbox-text plainlist">At <a href="/wiki/Wikiversity" title="Wikiversity">Wikiversity</a>, you can learn more and teach others about <b>Environmental engineering</b> at the <a href="https://en.wikiversity.org/wiki/Topic:Environmental_engineering" class="extiw" title="v:Topic:Environmental engineering">Department of Environmental engineering</a></td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="Engineering" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Engineering_fields" title="Template:Engineering fields"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Engineering_fields" title="Template talk:Engineering fields"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Engineering_fields&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Engineering" style="font-size:114%;margin:0 4em"><a href="/wiki/Engineering" title="Engineering">Engineering</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Civil_engineering" title="Civil engineering">Civil</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Architectural_engineering" title="Architectural engineering">Architectural</a></li>
+<li><a href="/wiki/Construction_engineering" title="Construction engineering">Construction</a></li>
+<li><a href="/wiki/Earthquake_engineering" title="Earthquake engineering">Earthquake</a></li>
+<li><a href="/wiki/Hydraulic_engineering" title="Hydraulic engineering">Hydraulic</a></li>
+<li><a href="/wiki/Mining_engineering" title="Mining engineering">Mining</a></li>
+<li><a href="/wiki/Structural_engineering" title="Structural engineering">Structural</a></li>
+<li><a href="/wiki/Geotechnical_engineering" title="Geotechnical engineering">Geotechnical</a></li>
+<li><a href="/wiki/Transportation_engineering" title="Transportation engineering">Transportation</a></li>
+<li><strong class="selflink">Environmental</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mechanical_engineering" title="Mechanical engineering">Mechanical</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aerospace_engineering" title="Aerospace engineering">Aerospace</a></li>
+<li><a href="/wiki/Acoustical_engineering" title="Acoustical engineering">Acoustical</a></li>
+<li><a href="/wiki/Automotive_engineering" title="Automotive engineering">Automotive</a></li>
+<li><a href="/wiki/Marine_engineering" title="Marine engineering">Marine</a></li>
+<li><a href="/wiki/Mechatronics" title="Mechatronics">Mechatronics</a></li>
+<li><a href="/wiki/Railway_engineering" title="Railway engineering">Railway</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Electrical_engineering" title="Electrical engineering">Electrical</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_engineering" title="Computer engineering">Computer</a></li>
+<li><a href="/wiki/Control_engineering" title="Control engineering">Control</a></li>
+<li><a href="/wiki/Electronic_engineering" title="Electronic engineering">Electronics</a></li>
+<li><a href="/wiki/Electromechanics" title="Electromechanics">Electromechanics</a></li>
+<li><a href="/wiki/Optical_engineering" title="Optical engineering">Optical</a></li>
+<li><a href="/wiki/Power_engineering" title="Power engineering">Power</a></li>
+<li><a href="/wiki/Photonics" title="Photonics">Photonics</a></li>
+<li><a href="/wiki/Telecommunications_engineering" title="Telecommunications engineering">Telecommunications</a></li>
+<li><a href="/wiki/Radio-frequency_engineering" title="Radio-frequency engineering">Radio Frequency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chemical_engineering" title="Chemical engineering">Chemical</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biochemical_engineering" title="Biochemical engineering">Biochemical</a></li>
+<li><a href="/wiki/Biological_engineering" title="Biological engineering">Biological</a></li>
+<li><a href="/wiki/Molecular_engineering" title="Molecular engineering">Molecular</a></li>
+<li><a href="/wiki/Nanotechnology" title="Nanotechnology">Nanotechnology</a></li>
+<li><a href="/wiki/Process_engineering" title="Process engineering">Process</a></li>
+<li><a href="/wiki/Chemical_reaction_engineering" title="Chemical reaction engineering">Reaction</a></li>
+<li><a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Transport_phenomena" title="Transport phenomena">Transport phenomena</a></li>
+<li><a href="/wiki/Petroleum_engineering" title="Petroleum engineering">Petroleum</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Interdisciplinarity" title="Interdisciplinarity">Interdisciplinarity</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Audio_engineer" title="Audio engineer">Audio</a></li>
+<li><a href="/wiki/Engineering_mathematics" title="Engineering mathematics">Engineering mathematics</a></li>
+<li><a href="/wiki/Biomedical_engineering" title="Biomedical engineering">Biomedical</a></li>
+<li><a href="/wiki/Fire_protection_engineering" title="Fire protection engineering">Fire</a></li>
+<li><a href="/wiki/Industrial_engineering" title="Industrial engineering">Industrial</a></li>
+<li><a href="/wiki/Materials_science" title="Materials science">Materials science</a></li>
+<li><a href="/wiki/Robotics" title="Robotics">Robotics</a></li>
+<li><a href="/wiki/Military_engineering" title="Military engineering">Military</a></li>
+<li><a href="/wiki/Nuclear_engineering" title="Nuclear engineering">Nuclear</a></li>
+<li><a href="/wiki/Security_engineering" title="Security engineering">Security</a></li>
+<li><a href="/wiki/Systems_engineering" title="Systems engineering">Systems</a></li>
+<li><a href="/wiki/Privacy_engineering" title="Privacy engineering">Privacy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_engineering_branches" title="List of engineering branches">List of engineering branches</a></li>
+<li>&#160;<img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Engineering" title="Category:Engineering">Category:Engineering</a></b></li>
+<li>&#160;<img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/File:Nuvola_apps_kcmsystem.svg" class="image"><img alt="Nuvola apps kcmsystem.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/16px-Nuvola_apps_kcmsystem.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/24px-Nuvola_apps_kcmsystem.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/32px-Nuvola_apps_kcmsystem.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Portal:Engineering" title="Portal:Engineering">Engineering portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Technology" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Technology" title="Template:Technology"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Technology" title="Template talk:Technology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Technology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Technology" style="font-size:114%;margin:0 4em"><a href="/wiki/Technology" title="Technology">Technology</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Outline_of_technology" title="Outline of technology">Outline of technology</a></li>
+<li><a href="/wiki/Outline_of_applied_science" title="Outline of applied science">Outline of applied science</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Agriculture" title="Agriculture">Agriculture</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agricultural_engineering" title="Agricultural engineering">Agricultural engineering</a></li>
+<li><a href="/wiki/Aquaculture" title="Aquaculture">Aquaculture</a></li>
+<li><a href="/wiki/Fisheries_science" title="Fisheries science">Fisheries science</a></li>
+<li><a href="/wiki/Food_chemistry" title="Food chemistry">Food chemistry</a></li>
+<li><a href="/wiki/Food_engineering" title="Food engineering">Food engineering</a></li>
+<li><a href="/wiki/Food_microbiology" title="Food microbiology">Food microbiology</a></li>
+<li><a href="/wiki/Food_technology" title="Food technology">Food technology</a></li>
+<li><a href="/wiki/Genetic_use_restriction_technology" title="Genetic use restriction technology">GURT</a></li>
+<li><a href="/wiki/ICT_in_agriculture" class="mw-redirect" title="ICT in agriculture">ICT</a></li>
+<li><a href="/wiki/Nutrition" title="Nutrition">Nutrition</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Biomedical_technology" title="Biomedical technology">Biomedical</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bioinformatics" title="Bioinformatics">Bioinformatics</a></li>
+<li><a href="/wiki/Biological_engineering" title="Biological engineering">Biological engineering</a></li>
+<li><a href="/wiki/Biomechatronics" title="Biomechatronics">Biomechatronics</a></li>
+<li><a href="/wiki/Biomedical_engineering" title="Biomedical engineering">Biomedical engineering</a></li>
+<li><a href="/wiki/Biotechnology" title="Biotechnology">Biotechnology</a></li>
+<li><a href="/wiki/Cheminformatics" title="Cheminformatics">Cheminformatics</a></li>
+<li><a href="/wiki/Genetic_engineering" title="Genetic engineering">Genetic engineering</a></li>
+<li><a href="/wiki/Healthcare_science" class="mw-redirect" title="Healthcare science">Healthcare science</a></li>
+<li><a href="/wiki/Medical_research" title="Medical research">Medical research</a></li>
+<li><a href="/wiki/Medical_technology" class="mw-redirect" title="Medical technology">Medical technology</a></li>
+<li><a href="/wiki/Nanomedicine" title="Nanomedicine">Nanomedicine</a></li>
+<li><a href="/wiki/Neuroscience" title="Neuroscience">Neuroscience</a></li>
+<li><a href="/wiki/Neurotechnology" title="Neurotechnology">Neurotechnology</a></li>
+<li><a href="/wiki/Pharmacology" title="Pharmacology">Pharmacology</a></li>
+<li><a href="/wiki/Reproductive_technology" title="Reproductive technology">Reproductive technology</a></li>
+<li><a href="/wiki/Tissue_engineering" title="Tissue engineering">Tissue engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Architecture" title="Architecture">Buildings</a> and<br />
+<a href="/wiki/Construction" title="Construction">construction</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acoustical_engineering" title="Acoustical engineering">Acoustical engineering</a></li>
+<li><a href="/wiki/Architectural_engineering" title="Architectural engineering">Architectural engineering</a></li>
+<li><a href="/wiki/Building_services_engineering" title="Building services engineering">Building services engineering</a></li>
+<li><a href="/wiki/Civil_engineering" title="Civil engineering">Civil engineering</a></li>
+<li><a href="/wiki/Construction_engineering" title="Construction engineering">Construction engineering</a></li>
+<li><a href="/wiki/Domestic_technology" title="Domestic technology">Domestic technology</a></li>
+<li><a href="/wiki/Facade_engineering" title="Facade engineering">Facade engineering</a></li>
+<li><a href="/wiki/Fire_protection_engineering" title="Fire protection engineering">Fire protection engineering</a></li>
+<li><a href="/wiki/Safety_engineering" title="Safety engineering">Safety engineering</a></li>
+<li><a href="/wiki/Sanitary_engineering" title="Sanitary engineering">Sanitary engineering</a></li>
+<li><a href="/wiki/Structural_engineering" title="Structural engineering">Structural engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Educational_technology" title="Educational technology">Educational</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Educational_software" title="Educational software">Educational software</a></li>
+<li><a href="/wiki/Digital_technologies_in_education" class="mw-redirect" title="Digital technologies in education">Digital technologies in education</a></li>
+<li><a href="/wiki/Information_and_communication_technologies_in_education" class="mw-redirect" title="Information and communication technologies in education">ICT in education</a></li>
+<li><a href="/wiki/Impact_of_technology_on_the_educational_system" class="mw-redirect" title="Impact of technology on the educational system">Impact</a></li>
+<li><a href="/wiki/Multimedia_learning" class="mw-redirect" title="Multimedia learning">Multimedia learning</a></li>
+<li><a href="/wiki/Virtual_campus" title="Virtual campus">Virtual campus</a></li>
+<li><a href="/wiki/Virtual_education" class="mw-redirect" title="Virtual education">Virtual education</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Energy_technology" title="Energy technology">Energy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nuclear_engineering" title="Nuclear engineering">Nuclear engineering</a></li>
+<li><a href="/wiki/Nuclear_technology" title="Nuclear technology">Nuclear technology</a></li>
+<li><a href="/wiki/Petroleum_engineering" title="Petroleum engineering">Petroleum engineering</a></li>
+<li><a href="/wiki/Soft_energy_technology" title="Soft energy technology">Soft energy technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Clean_technology" title="Clean technology">Clean technology</a></li>
+<li><a href="/wiki/Clean_coal_technology" title="Clean coal technology">Clean coal technology</a></li>
+<li><a href="/wiki/Ecological_design" title="Ecological design">Ecological design</a></li>
+<li><a href="/wiki/Ecological_engineering" title="Ecological engineering">Ecological engineering</a></li>
+<li><a href="/wiki/Ecotechnology" title="Ecotechnology">Ecotechnology</a></li>
+<li><strong class="selflink">Environmental engineering</strong></li>
+<li><a href="/wiki/Environmental_engineering_science" title="Environmental engineering science">Environmental engineering science</a></li>
+<li><a href="/wiki/Green_building" title="Green building">Green building</a></li>
+<li><a href="/wiki/Green_nanotechnology" title="Green nanotechnology">Green nanotechnology</a></li>
+<li><a href="/wiki/Landscape_engineering" title="Landscape engineering">Landscape engineering</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable design</a></li>
+<li><a href="/wiki/Sustainable_engineering" title="Sustainable engineering">Sustainable engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Industrial_technology" title="Industrial technology">Industrial</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automation" title="Automation">Automation</a></li>
+<li><a href="/wiki/Business_informatics" title="Business informatics">Business informatics</a></li>
+<li><a href="/wiki/Engineering_management" title="Engineering management">Engineering management</a></li>
+<li><a href="/wiki/Enterprise_engineering" title="Enterprise engineering">Enterprise engineering</a></li>
+<li><a href="/wiki/Computational_finance" title="Computational finance">Financial engineering</a></li>
+<li><a href="/wiki/Industrial_biotechnology" class="mw-redirect" title="Industrial biotechnology">Industrial biotechnology</a></li>
+<li><a href="/wiki/Industrial_engineering" title="Industrial engineering">Industrial engineering</a></li>
+<li><a href="/wiki/Metallurgy" title="Metallurgy">Metallurgy</a></li>
+<li><a href="/wiki/Mining_engineering" title="Mining engineering">Mining engineering</a></li>
+<li><a href="/wiki/Productivity_improving_technologies_(historical)" class="mw-redirect" title="Productivity improving technologies (historical)">Productivity improving technologies</a></li>
+<li><a href="/wiki/Research_and_development" title="Research and development">Research and development</a></li>
+<li><a href="/wiki/Tribology" title="Tribology">Tribology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Information_and_communications_technology" title="Information and communications technology">IT and<br />
+communications</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a></li>
+<li><a href="/wiki/Broadcast_engineering" title="Broadcast engineering">Broadcast engineering</a></li>
+<li><a href="/wiki/Computer_engineering" title="Computer engineering">Computer engineering</a></li>
+<li><a href="/wiki/Computer_science" title="Computer science">Computer science</a></li>
+<li><a href="/wiki/Financial_technology" title="Financial technology">Financial technology</a></li>
+<li><a href="/wiki/Information_technology" title="Information technology">Information technology</a></li>
+<li><a href="/wiki/Music_technology" title="Music technology">Music technology</a></li>
+<li><a href="/wiki/Ontology_engineering" title="Ontology engineering">Ontology engineering</a></li>
+<li><a href="/wiki/RF_engineering" class="mw-redirect" title="RF engineering">RF engineering</a></li>
+<li><a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a></li>
+<li><a href="/wiki/Telecommunications_engineering" title="Telecommunications engineering">Telecommunications engineering</a></li>
+<li><a href="/wiki/Visual_technology" title="Visual technology">Visual technology</a></li>
+<li><a href="/wiki/Web_engineering" title="Web engineering">Web engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Military_technology" title="Military technology">Military</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Army_engineering_maintenance" title="Army engineering maintenance">Army engineering maintenance</a></li>
+<li><a href="/wiki/Electronic_warfare" title="Electronic warfare">Electronic warfare</a></li>
+<li><a href="/wiki/Military_communications" title="Military communications">Military communications</a></li>
+<li><a href="/wiki/Military_engineering" title="Military engineering">Military engineering</a></li>
+<li><a href="/wiki/Stealth_technology" title="Stealth technology">Stealth technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Transport" title="Transport">Transport</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aerospace_engineering" title="Aerospace engineering">Aerospace engineering</a></li>
+<li><a href="/wiki/Automotive_engineering" title="Automotive engineering">Automotive engineering</a></li>
+<li><a href="/wiki/Naval_architecture" title="Naval architecture">Naval architecture</a></li>
+<li><a href="/wiki/Space_technology" class="mw-redirect" title="Space technology">Space technology</a></li>
+<li><a href="/wiki/Traffic_engineering_(transportation)" title="Traffic engineering (transportation)">Traffic engineering</a></li>
+<li><a href="/wiki/Transport_engineering" class="mw-redirect" title="Transport engineering">Transport engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Others</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Applied_science" title="Applied science">Applied<br />
+science</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cryogenics" title="Cryogenics">Cryogenics</a></li>
+<li><a href="/wiki/Electro-optics" title="Electro-optics">Electro-optics</a></li>
+<li><a href="/wiki/Electronics" title="Electronics">Electronics</a></li>
+<li><a href="/wiki/Engineering_geology" title="Engineering geology">Engineering geology</a></li>
+<li><a href="/wiki/Engineering_physics" title="Engineering physics">Engineering physics</a></li>
+<li><a href="/wiki/Hydraulics" title="Hydraulics">Hydraulics</a></li>
+<li><a href="/wiki/Materials_science" title="Materials science">Materials science</a></li>
+<li><a href="/wiki/Microfabrication" title="Microfabrication">Microfabrication</a></li>
+<li><a href="/wiki/Nanoengineering" title="Nanoengineering">Nanoengineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Engineering" title="Engineering">Engineering</a><br />
+(<a href="/wiki/List_of_engineering_branches" title="List of engineering branches">list</a>)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Audio_engineering" class="mw-redirect" title="Audio engineering">Audio</a></li>
+<li><a href="/wiki/Biochemical_engineering" title="Biochemical engineering">Biochemical</a></li>
+<li><a href="/wiki/Ceramic_engineering" title="Ceramic engineering">Ceramic</a></li>
+<li><a href="/wiki/Chemical_engineering" title="Chemical engineering">Chemical</a></li>
+<li><a href="/wiki/Polymer_engineering" title="Polymer engineering">Polymer</a></li>
+<li><a href="/wiki/Control_engineering" title="Control engineering">Control</a></li>
+<li><a href="/wiki/Electrical_engineering" title="Electrical engineering">Electrical</a></li>
+<li><a href="/wiki/Electronic_engineering" title="Electronic engineering">Electronic</a></li>
+<li><a href="/wiki/Entertainment_technology" title="Entertainment technology">Entertainment</a></li>
+<li><a href="/wiki/Geotechnical_engineering" title="Geotechnical engineering">Geotechnical</a></li>
+<li><a href="/wiki/Hydraulic_engineering" title="Hydraulic engineering">Hydraulic</a></li>
+<li><a href="/wiki/Mechanical_engineering" title="Mechanical engineering">Mechanical</a></li>
+<li><a href="/wiki/Mechatronics" title="Mechatronics">Mechatronics</a></li>
+<li><a href="/wiki/Optical_engineering" title="Optical engineering">Optical</a></li>
+<li><a href="/wiki/Protein_engineering" title="Protein engineering">Protein</a></li>
+<li><a href="/wiki/Quantum_technology" title="Quantum technology">Quantum</a></li>
+<li><a href="/wiki/Robotics" title="Robotics">Robotics</a>
+<ul>
+<li><a href="/wiki/Animatronics" title="Animatronics">Animatronics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Systems_engineering" title="Systems engineering">Systems</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Infrastructure" title="Infrastructure">Infrastructure</a></li>
+<li><a href="/wiki/Invention" title="Invention">Invention</a>
+<ul>
+<li><a href="/wiki/Timeline_of_historic_inventions" title="Timeline of historic inventions">Timeline</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Knowledge" title="Knowledge">Knowledge</a></li>
+<li><a href="/wiki/Machine" title="Machine">Machine</a></li>
+<li><a href="/wiki/Skill" title="Skill">Skill</a>
+<ul>
+<li><a href="/wiki/Craft" title="Craft">Craft</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tool" title="Tool">Tool</a>
+<ul>
+<li><a href="/wiki/Gadget" title="Gadget">Gadget</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Scales</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Femtotechnology" title="Femtotechnology">Femtotechnology</a></li>
+<li><a href="/wiki/Picotechnology" title="Picotechnology">Picotechnology</a></li>
+<li><a href="/wiki/Nanotechnology" title="Nanotechnology">Nanotechnology</a></li>
+<li><a href="/wiki/Microtechnology" title="Microtechnology">Microtechnology</a></li>
+<li><a href="/wiki/Macro-engineering" title="Macro-engineering">Macro-engineering</a></li>
+<li><a href="/wiki/Megascale_engineering" title="Megascale engineering">Megascale engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/History_of_technology" title="History of technology">History</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Outline_of_prehistoric_technology" title="Outline of prehistoric technology">Prehistoric technology</a></li>
+<li><a href="/wiki/Neolithic_Revolution" title="Neolithic Revolution">Neolithic Revolution</a></li>
+<li><a href="/wiki/Ancient_technology" title="Ancient technology">Ancient technology</a></li>
+<li><a href="/wiki/Medieval_technology" title="Medieval technology">Medieval technology</a></li>
+<li><a href="/wiki/Renaissance_technology" title="Renaissance technology">Renaissance technology</a></li>
+<li><a href="/wiki/Industrial_Revolution" title="Industrial Revolution">Industrial Revolution</a>
+<ul>
+<li><a href="/wiki/Second_Industrial_Revolution" title="Second Industrial Revolution">Second</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Atomic_Age" title="Atomic Age">Atomic Age</a></li>
+<li><a href="/wiki/Jet_Age" title="Jet Age">Jet Age</a></li>
+<li><a href="/wiki/Space_Age" title="Space Age">Space Age</a></li>
+<li><a href="/wiki/Digital_Revolution" title="Digital Revolution">Digital Revolution</a></li>
+<li><a href="/wiki/Information_Age" title="Information Age">Information Age</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Theories_of_technology" title="Theories of technology">Theories</a> and<br />
+concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a></li>
+<li><a href="/wiki/Collingridge_dilemma" title="Collingridge dilemma">Collingridge dilemma</a></li>
+<li><a href="/wiki/Critique_of_technology" title="Critique of technology">Critique of technology</a></li>
+<li><a href="/wiki/Diffusion_of_innovations" title="Diffusion of innovations">Diffusion of innovations</a></li>
+<li><a href="/wiki/Disruptive_innovation" title="Disruptive innovation">Disruptive innovation</a></li>
+<li><a href="/wiki/Dual-use_technology" title="Dual-use technology">Dual-use technology</a></li>
+<li><a href="/wiki/Ephemeralization" title="Ephemeralization">Ephemeralization</a></li>
+<li><a href="/wiki/High_tech" title="High tech">High tech</a></li>
+<li><a href="/wiki/Hype_cycle" title="Hype cycle">Hype cycle</a></li>
+<li><a href="/wiki/Low-technology" class="mw-redirect" title="Low-technology">Low-technology</a></li>
+<li><a href="/wiki/Mature_technology" title="Mature technology">Mature technology</a></li>
+<li><a href="/wiki/Strategy_of_Technology" title="Strategy of Technology">Strategy of Technology</a></li>
+<li><a href="/wiki/Technicism" title="Technicism">Technicism</a></li>
+<li><a href="/wiki/Techno-progressivism" title="Techno-progressivism">Techno-progressivism</a></li>
+<li><a href="/wiki/Technocapitalism" title="Technocapitalism">Technocapitalism</a></li>
+<li><a href="/wiki/Technocentrism" title="Technocentrism">Technocentrism</a></li>
+<li><a href="/wiki/Technocracy" title="Technocracy">Technocracy</a></li>
+<li><a href="/wiki/Technocriticism" title="Technocriticism">Technocriticism</a></li>
+<li><a href="/wiki/Technoculture" title="Technoculture">Technoculture</a></li>
+<li><a href="/wiki/Technoethics" class="mw-redirect" title="Technoethics">Technoethics</a></li>
+<li><a href="/wiki/Technoetic" class="mw-redirect" title="Technoetic">Technoetic</a></li>
+<li><a href="/wiki/Technogaianism" title="Technogaianism">Technogaianism</a></li>
+<li><a href="/wiki/Technoliberalism" title="Technoliberalism">Technoliberalism</a></li>
+<li><a href="/wiki/Technolibertarianism" title="Technolibertarianism">Technolibertarianism</a></li>
+<li><a href="/wiki/Technological_alliance" title="Technological alliance">Technological alliance</a></li>
+<li><a href="/wiki/Technological_apartheid" title="Technological apartheid">Technological apartheid</a></li>
+<li><a href="/wiki/Technological_change" title="Technological change">Technological change</a></li>
+<li><a href="/wiki/Technological_convergence" title="Technological convergence">Technological convergence</a></li>
+<li><a href="/wiki/Technological_determinism" title="Technological determinism">Technological determinism</a></li>
+<li><a href="/wiki/Technological_escalation" title="Technological escalation">Technological escalation</a></li>
+<li><a href="/wiki/Technological_evolution" title="Technological evolution">Technological evolution</a></li>
+<li><a href="/wiki/Technological_fix" title="Technological fix">Technological fix</a></li>
+<li><a href="/wiki/Technological_innovation_system" title="Technological innovation system">Technological innovation system</a></li>
+<li><a href="/wiki/Technological_momentum" title="Technological momentum">Technological momentum</a></li>
+<li><a href="/wiki/Technological_nationalism" title="Technological nationalism">Technological nationalism</a></li>
+<li><a href="/wiki/Technological_paradigm" title="Technological paradigm">Technological paradigm</a></li>
+<li><a href="/wiki/Technological_rationality" title="Technological rationality">Technological rationality</a></li>
+<li><a href="/wiki/Technological_revival" title="Technological revival">Technological revival</a></li>
+<li><a href="/wiki/Technological_revolution" title="Technological revolution">Technological revolution</a></li>
+<li><a href="/wiki/Technological_self-efficacy" title="Technological self-efficacy">Technological self-efficacy</a></li>
+<li><a href="/wiki/Technological_singularity" title="Technological singularity">Technological singularity</a>
+<ul>
+<li><a href="/wiki/Singularitarianism" title="Singularitarianism">Singularitarianism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Technological_somnambulism" title="Technological somnambulism">Technological somnambulism</a></li>
+<li><a href="/wiki/Technological_transitions" title="Technological transitions">Technological transitions</a></li>
+<li><a href="/wiki/Technological_unemployment" title="Technological unemployment">Technological unemployment</a></li>
+<li><a href="/wiki/Technological_utopianism" title="Technological utopianism">Technological utopianism</a></li>
+<li><a href="/wiki/Technology_lifecycle" class="mw-redirect" title="Technology lifecycle">Technology lifecycle</a>
+<ul>
+<li><a href="/wiki/Technology_acceptance_model" title="Technology acceptance model">Technology acceptance model</a></li>
+<li><a href="/wiki/Technology_adoption_lifecycle" class="mw-redirect" title="Technology adoption lifecycle">Technology adoption lifecycle</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Technomancy" title="Technomancy">Technomancy</a></li>
+<li><a href="/wiki/Technopaganism" title="Technopaganism">Technopaganism</a></li>
+<li><a href="/wiki/Technorealism" title="Technorealism">Technorealism</a></li>
+<li><a href="/wiki/Technoromanticism" title="Technoromanticism">Technoromanticism</a></li>
+<li><a href="/wiki/Technoscience" title="Technoscience">Technoscience</a>
+<ul>
+<li><a href="/wiki/Feminist_technoscience" title="Feminist technoscience">feminist</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Transhumanism" title="Transhumanism">Transhumanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Emerging_technologies" title="Emerging technologies">Emerging technologies</a>
+<ul>
+<li><a href="/wiki/List_of_emerging_technologies" title="List of emerging technologies">List</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Fictional_technology" title="Fictional technology">Fictional technology</a></li>
+<li><a href="/wiki/Category:High-technology_business_districts" title="Category:High-technology business districts">High-technology business districts</a></li>
+<li><a href="/wiki/Kardashev_scale" title="Kardashev scale">Kardashev scale</a></li>
+<li><a href="/wiki/List_of_technologies" title="List of technologies">List of technologies</a></li>
+<li><a href="/wiki/Philosophy_of_technology" title="Philosophy of technology">Philosophy of technology</a>
+<ul>
+<li><a href="/wiki/Ethics_of_technology" title="Ethics of technology">Ethics of technology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science, technology and society</a>
+<ul>
+<li><a href="/wiki/Technology_dynamics" title="Technology dynamics">Technology dynamics</a></li>
+<li><a href="/wiki/Category:Science_and_technology_by_country" title="Category:Science and technology by country">Science and technology by country</a></li>
+</ul>
+</li>
+<li><a href="/wiki/STEM_fields" class="mw-redirect" title="STEM fields">STEM fields</a>
+<ul>
+<li><a href="/wiki/Pre-STEM" title="Pre-STEM">Pre-STEM</a></li>
+<li><a href="/wiki/Women_in_STEM_fields" title="Women in STEM fields">women</a></li>
+</ul>
+</li>
+<li><a href="/wiki/STEAM_fields" title="STEAM fields">STEAM fields</a></li>
+<li><a href="/wiki/Technology_alignment" title="Technology alignment">Technology alignment</a></li>
+<li><a href="/wiki/Technology_assessment" title="Technology assessment">Technology assessment</a></li>
+<li><a href="/wiki/Technology_brokering" title="Technology brokering">Technology brokering</a></li>
+<li><a href="/wiki/Category:Technology_companies" title="Category:Technology companies">Technology companies</a></li>
+<li><a href="/wiki/Technology_demonstration" title="Technology demonstration">Technology demonstration</a></li>
+<li><a href="/wiki/Technology_education" title="Technology education">Technology education</a>
+<ul>
+<li><a href="/wiki/Category:Technical_universities_and_colleges" title="Category:Technical universities and colleges">Technical universities and colleges</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Technology_evangelist" title="Technology evangelist">Technology evangelist</a></li>
+<li><a href="/wiki/Technology_fusion" title="Technology fusion">Technology fusion</a></li>
+<li><a href="/wiki/Technology_governance" title="Technology governance">Technology governance</a></li>
+<li><a href="/wiki/Technology_integration" title="Technology integration">Technology integration</a></li>
+<li><a href="/wiki/Technology_journalism" title="Technology journalism">Technology journalism</a></li>
+<li><a href="/wiki/Technology_management" title="Technology management">Technology management</a></li>
+<li><a href="/wiki/Technology_museum" title="Technology museum">Technology museum</a></li>
+<li><a href="/wiki/Technology_policy" title="Technology policy">Technology policy</a></li>
+<li><a href="/wiki/Technology_shock" title="Technology shock">Technology shock</a></li>
+<li><a href="/wiki/Technology_strategy" title="Technology strategy">Technology strategy</a></li>
+<li><a href="/wiki/Technology_and_society" title="Technology and society">Technology and society</a></li>
+<li><a href="/wiki/Technology_transfer" title="Technology transfer">Technology transfer</a></li>
+<li><a href="/wiki/Technophilia" title="Technophilia">Technophilia</a></li>
+<li><a href="/wiki/Technophobia" title="Technophobia">Technophobia</a></li>
+<li><a href="/wiki/Technoself" class="mw-redirect" title="Technoself">Technoself</a></li>
+<li><a href="/wiki/Technosexual" title="Technosexual">Technosexual</a></li>
+<li><a href="/wiki/Technosignature" title="Technosignature">Technosignature</a></li>
+<li><a href="/wiki/Technostress" title="Technostress">Technostress</a></li>
+<li><a href="/wiki/Terotechnology" title="Terotechnology">Terotechnology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Technology" title="Book:Technology">Book</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Technology" title="Category:Technology">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Technology" title="Portal:Technology">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Sustainability" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Population" title="Population">Population</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a href="/wiki/Human_population_control" class="mw-redirect" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Food</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Water</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Water_crisis" class="mw-redirect" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" class="mw-redirect" title="Water footprint">Footprint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Accountability</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Education_for_Sustainable_Development" class="mw-redirect" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a href="/wiki/Sustainable_market" class="mw-redirect" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a href="/wiki/Sustainability_practices_in_organizations" class="mw-redirect" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a href="/wiki/Sustainable_urban_drainage_systems" class="mw-redirect" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Management</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Agreements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Human_impact_on_the_environment" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Human_impact_on_the_environment" title="Template:Human impact on the environment"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Human_impact_on_the_environment" title="Template talk:Human impact on the environment"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Human_impact_on_the_environment&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Human_impact_on_the_environment" style="font-size:114%;margin:0 4em"><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Environmental_issue" title="Environmental issue">Environmental issues</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Impact assessment</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">List of issues</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Planetary_boundaries.svg" class="image" title="Planetary boundaries"><img alt="Planetary boundaries" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/140px-Planetary_boundaries.svg.png" width="140" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/210px-Planetary_boundaries.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/280px-Planetary_boundaries.svg.png 2x" data-file-width="1417" data-file-height="1163" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Causes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Environmental_impact_of_agriculture" title="Environmental impact of agriculture">Agriculture</a>
+<ul>
+<li><a href="/wiki/Environmental_impact_of_fishing" title="Environmental impact of fishing">fishing</a></li>
+<li><a href="/wiki/Environmental_impact_of_irrigation" title="Environmental impact of irrigation">irrigation</a></li>
+<li><a href="/wiki/Environmental_impact_of_meat_production" title="Environmental impact of meat production">meat production</a></li>
+<li><a href="/wiki/Social_and_environmental_impact_of_palm_oil" title="Social and environmental impact of palm oil">palm oil</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Environmental_impact_of_the_energy_industry" title="Environmental impact of the energy industry">Energy industry</a>
+<ul>
+<li><a href="/wiki/Environmental_impact_of_biodiesel" title="Environmental impact of biodiesel">biodiesel</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_coal_industry" title="Environmental impact of the coal industry">coal</a></li>
+<li><a href="/wiki/Environmental_impact_of_electricity_generation" title="Environmental impact of electricity generation">electricity generation</a></li>
+<li><a href="/wiki/Environmental_impact_of_nuclear_power" title="Environmental impact of nuclear power">nuclear power</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_oil_shale_industry" title="Environmental impact of the oil shale industry">oil shale</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_petroleum_industry" title="Environmental impact of the petroleum industry">petroleum</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">reservoirs</a></li>
+<li><a href="/wiki/Environmental_impact_of_wind_power" title="Environmental impact of wind power">wind power</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Manufacturing" title="Manufacturing">Manufacturing</a>
+<ul>
+<li><a href="/wiki/Environmental_impact_of_cleaning_agents" title="Environmental impact of cleaning agents">cleaning agents</a></li>
+<li><a href="/wiki/Environmental_impact_of_concrete" title="Environmental impact of concrete">concrete</a></li>
+<li><a href="/wiki/Environmental_impact_of_nanotechnology" class="mw-redirect" title="Environmental impact of nanotechnology">nanotechnology</a></li>
+<li><a href="/wiki/Environmental_impact_of_paint" title="Environmental impact of paint">paint</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper" title="Environmental impact of paper">paper</a></li>
+<li><a href="/wiki/Environmental_impact_of_pesticides" title="Environmental impact of pesticides">pesticides</a></li>
+<li><a href="/wiki/Environmental_impact_of_pharmaceuticals_and_personal_care_products" title="Environmental impact of pharmaceuticals and personal care products">pharmaceuticals and personal care</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Environmental_impact_of_transport" title="Environmental impact of transport">Transport</a>
+<ul>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">aviation</a></li>
+<li><a href="/wiki/Environmental_impact_of_roads" class="mw-redirect" title="Environmental impact of roads">roads</a></li>
+<li><a href="/wiki/Environmental_impact_of_shipping" title="Environmental impact of shipping">shipping</a></li>
+</ul>
+</li>
+<li>Other
+<ul>
+<li><a href="/wiki/Land_use#Environment" title="Land use">land use</a></li>
+<li><a href="/wiki/Environmental_impact_of_mining" title="Environmental impact of mining">mining</a></li>
+<li><a href="/wiki/Genetic_pollution" title="Genetic pollution">genetic pollution</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">human overpopulation</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">overexploitation</a></li>
+<li><a href="/wiki/Particulates" title="Particulates">particulates</a></li>
+<li><a href="/wiki/Pollution" title="Pollution">pollution</a></li>
+<li><a href="/wiki/Environmental_impact_of_war" title="Environmental impact of war">war</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Effects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biodiversity_threats" class="mw-redirect" title="Biodiversity threats">Biodiversity threats</a>
+<ul>
+<li><a href="/wiki/Biodiversity_loss" title="Biodiversity loss">Biodiversity loss</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Climate_change" title="Climate change">Climate change</a></li>
+<li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a href="/wiki/Desertification" title="Desertification">Desertification</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Erosion" title="Erosion">Erosion</a></li>
+<li><a href="/wiki/Environmental_issues_with_coral_reefs" title="Environmental issues with coral reefs">Coral reefs</a></li>
+<li><a href="/wiki/Freshwater_cycle" class="mw-redirect" title="Freshwater cycle">Freshwater cycle</a></li>
+<li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li>
+<li><a href="/wiki/Habitat_destruction" title="Habitat destruction">Habitat destruction</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Human_impact_on_the_nitrogen_cycle" title="Human impact on the nitrogen cycle">Nitrogen cycle</a></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Land degradation</a></li>
+<li><a href="/wiki/Land_surface_effects_on_climate" title="Land surface effects on climate">Land surface effects on climate</a></li>
+<li><a href="/wiki/Phosphorus_cycle#Human_influences" title="Phosphorus cycle">Phosphorus cycle</a></li>
+<li><a href="/wiki/Ocean_acidification#Possible_impacts" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mitigation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Cleaner_production" title="Cleaner production">Cleaner production</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Ecological_engineering" title="Ecological engineering">Ecological engineering</a></li>
+<li><strong class="selflink">Environmental engineering</strong></li>
+<li><a href="/wiki/Environmental_mitigation" title="Environmental mitigation">Environmental mitigation</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Mitigation_banking" title="Mitigation banking">Mitigation banking</a></li>
+<li><a href="/wiki/Organic_farming" title="Organic farming">Organic farming</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a>
+<ul>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">urban</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Restoration_ecology" title="Restoration ecology">Restoration ecology</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable consumption</a></li>
+<li><a href="/wiki/Waste_minimisation" title="Waste minimisation">Waste minimization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li>&#160;<img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Environmental_impact" class="extiw" title="commons:Category:Environmental impact">Commons</a></b></li>
+<li>&#160;<img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Environmental_impact_by_source" title="Category:Environmental impact by source">Category</a></li>
+<li><a href="/wiki/Category:Environmental_impact_by_country" title="Category:Environmental impact by country">by country</a></li>
+<li><a href="/wiki/Category:Environmental_impact_assessment" title="Category:Environmental impact assessment">assessment</a></li>
+<li><a href="/wiki/Category:Environmental_mitigation" title="Category:Environmental mitigation">mitigation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85044170">sh85044170</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4061650-2">4061650-2</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11976343v">cb11976343v</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11976343v">(data)</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00564909">00564909</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX524846">XX524846</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1239
+Cached time: 20170313061232
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.280 seconds
+Real time usage: 0.367 seconds
+Preprocessor visited node count: 1586/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 152291/2097152 bytes
+Template argument size: 1309/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.113/10.000 seconds
+Lua memory usage: 5.31 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  241.163      1 -total
+ 30.16%   72.723      1 Template:Reflist
+ 23.24%   56.041      7 Template:Navbox
+ 20.26%   48.858      8 Template:Cite_book
+ 18.30%   44.131      2 Template:Citation_needed
+ 16.63%   40.108      2 Template:Fix
+  9.03%   21.768      4 Template:Category_handler
+  8.51%   20.515      1 Template:Engineering_fields
+  7.80%   18.822      1 Template:See_also
+  7.75%   18.678      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:50702-0!*!0!!en!4!* and timestamp 20170313061232 and revision id 769313583
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Environmental_engineering&amp;oldid=769313583">https://en.wikipedia.org/w/index.php?title=Environmental_engineering&amp;oldid=769313583</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_engineering" title="Category:Chemical engineering">Chemical engineering</a></li><li><a href="/wiki/Category:Civil_engineering" title="Category:Civil engineering">Civil engineering</a></li><li><a href="/wiki/Category:Environmental_engineering" title="Category:Environmental engineering">Environmental engineering</a></li><li><a href="/wiki/Category:Environmental_science" title="Category:Environmental science">Environmental science</a></li><li><a href="/wiki/Category:Engineering_disciplines" title="Category:Engineering disciplines">Engineering disciplines</a></li><li><a href="/wiki/Category:Environmental_terminology" title="Category:Environmental terminology">Environmental terminology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2014" title="Category:Articles with unsourced statements from May 2014">Articles with unsourced statements from May 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2007" title="Category:Articles with unsourced statements from September 2007">Articles with unsourced statements from September 2007</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Environmental+engineering" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Environmental+engineering" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Environmental_engineering"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Environmental_engineering"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Environmental_engineering" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Environmental_engineering&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Environmental_engineering&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Environmental_engineering" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Environmental_engineering" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Environmental_engineering&amp;oldid=769313583" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Environmental_engineering&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q146326" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Environmental_engineering&amp;id=769313583" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Environmental+engineering">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Environmental+engineering&amp;returnto=Environmental+engineering&amp;oldid=769313583&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Environmental_engineering&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Environmental_engineering" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9" title="هندسة بيئية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Kho%C3%A2n-k%C3%A9ng_kang-t%C3%AAng" title="Khoân-kéng kang-têng – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D0%B0_%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Инженерна екология – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Enginyeria_ambiental" title="Enginyeria ambiental – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Umweltingenieurwissenschaften" title="Umweltingenieurwissenschaften – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9C%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A0%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD%CF%84%CE%BF%CF%82" title="Μηχανική Περιβάλλοντος – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ingenier%C3%ADa_ambiental" title="Ingeniería ambiental – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C_%D9%85%D8%AD%DB%8C%D8%B7_%D8%B2%DB%8C%D8%B3%D8%AA" title="مهندسی محیط زیست – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/G%C3%A9nie_%C3%A9cologique" title="Génie écologique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%AA%E0%AA%B0%E0%AB%8D%E0%AA%AF%E0%AA%BE%E0%AA%B5%E0%AA%B0%E0%AA%A3%E0%AB%80%E0%AA%AF_%E0%AA%87%E0%AA%9C%E0%AA%A8%E0%AB%87%E0%AA%B0%E0%AB%80" title="પર્યાવરણીય ઇજનેરી – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%99%98%EA%B2%BD%EA%B3%B5%ED%95%99" title="환경공학 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%80" title="पर्यावरण अभियांत्रिकी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Teknik_lingkungan" title="Teknik lingkungan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ingegneria_ambientale" title="Ingegneria ambientale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%A0%D7%93%D7%A1%D7%AA_%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94" title="הנדסת הסביבה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/K%C3%B6rnyezetm%C3%A9rn%C3%B6k" title="Környezetmérnök – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%80" title="पर्यावरण अभियांत्रिकी – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Kejuruteraan_alam_sekitar" title="Kejuruteraan alam sekitar – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E5%B7%A5%E5%AD%A6" title="環境工学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/In%C5%BCynieria_%C5%9Brodowiska" title="Inżynieria środowiska – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Engenharia_do_ambiente" title="Engenharia do ambiente – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ingineria_mediului" title="Ingineria mediului – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0_%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B5%D0%B9_%D1%81%D1%80%D0%B5%D0%B4%D1%8B" title="Инженерная защита окружающей среды – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B7%8F%E0%B6%BB%E0%B7%92%E0%B7%83%E0%B6%BB%E0%B7%92%E0%B6%9A_%E0%B6%89%E0%B6%82%E0%B6%A2%E0%B7%92%E0%B6%B1%E0%B7%9A%E0%B6%BB%E0%B7%94_%E0%B7%80%E0%B7%92%E0%B6%AF%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B7%8F%E0%B7%80" title="පාරිසරික ඉංජිනේරු විද්‍යාව – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1%DB%8C%DB%8C_%DA%98%DB%8C%D9%86%DA%AF%DB%95%DB%8C%DB%8C" title="ئەندازیاریی ژینگەیی – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D0%BD%D0%B6%D0%B5%D1%9A%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%B7%D0%B0%D1%88%D1%82%D0%B8%D1%82%D0%B5_%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5" title="Инжењерство заштите животне средине – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Milj%C3%B6ingenj%C3%B6r" title="Miljöingenjör – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Inhinyeriyang_pangkapaligiran" title="Inhinyeriyang pangkapaligiran – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A7%E0%B8%94%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1" title="วิศวกรรมสิ่งแวดล้อม – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/%C3%87evre_m%C3%BChendisli%C4%9Fi" title="Çevre mühendisliği – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Energi%C3%BDa_seri%C5%9Fdeleri_we_da%C5%9Fky_gur%C5%9Fawy_gorama_in%C5%BEenerligi" title="Energiýa serişdeleri we daşky gurşawy gorama inženerligi – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%85%D8%A7%D8%AD%D9%88%D9%84%DB%8C%D8%A7%D8%AA%DB%8C_%DB%81%D9%86%D8%AF%D8%B3%DB%8C%D8%A7%D8%AA" title="ماحولیاتی ہندسیات – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%8E%AF%E5%A2%83%E5%B7%A5%E7%A8%8B" title="环境工程 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q146326#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 8 March 2017, at 19:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Environmental_engineering&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.367","ppvisitednodes":{"value":1586,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":152291,"limit":2097152},"templateargumentsize":{"value":1309,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  241.163      1 -total"," 30.16%   72.723      1 Template:Reflist"," 23.24%   56.041      7 Template:Navbox"," 20.26%   48.858      8 Template:Cite_book"," 18.30%   44.131      2 Template:Citation_needed"," 16.63%   40.108      2 Template:Fix","  9.03%   21.768      4 Template:Category_handler","  8.51%   20.515      1 Template:Engineering_fields","  7.80%   18.822      1 Template:See_also","  7.75%   18.678      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.113","limit":"10.000"},"limitreport-memusage":{"value":5569393,"limit":52428800}},"cachereport":{"origin":"mw1239","timestamp":"20170313061232","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":457,"wgHostname":"mw1239"});});</script>
+	</body>
+</html>

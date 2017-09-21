@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Conceptual framework - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Conceptual_framework","wgTitle":"Conceptual framework","wgCurRevisionId":770202108,"wgRevisionId":770202108,"wgArticleId":555650,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Research","Thought","Conceptual models"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Conceptual_framework","wgRelevantArticleId":555650,"wgRequestId":"WMiivApAMFoAAC0XvKYAAAAY","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q13600188","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Conceptual_framework"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Conceptual_framework&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Conceptual_framework&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Conceptual_framework"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Conceptual_framework rootpage-Conceptual_framework skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Conceptual framework</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For the concept in aesthetics and art criticism, see <a href="/wiki/The_Conceptual_Framework" title="The Conceptual Framework">The Conceptual Framework</a>. For the concept in computing, see <a href="/wiki/Conceptual_schema" title="Conceptual schema">Conceptual schema</a>. For the concept in philosophy, see <a href="/wiki/Paradigm" title="Paradigm">Paradigm</a>.</div>
+<p>A <b>conceptual framework</b> is an analytical tool with several variations and contexts. It is used to make conceptual distinctions and organize ideas. Strong conceptual frameworks capture something real and do this in a way that is easy to remember and apply.</p>
+<p><a href="/wiki/Isaiah_Berlin" title="Isaiah Berlin">Isaiah Berlin</a> used the metaphor of a "fox" and a "hedgehog" to make conceptual distinctions in how important philosophers and authors view the world.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Berlin describes hedgehogs as those who use a single idea or organizing principle to view the world (such as <a href="/wiki/Dante_Alighieri" title="Dante Alighieri">Dante Alighieri</a>, <a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Blaise Pascal</a>, <a href="/wiki/Fyodor_Dostoyevsky" title="Fyodor Dostoyevsky">Fyodor Dostoyevsky</a>, <a href="/wiki/Plato" title="Plato">Plato</a>, <a href="/wiki/Henrik_Ibsen" title="Henrik Ibsen">Henrik Ibsen</a> and <a href="/wiki/Georg_Wilhelm_Friedrich_Hegel" title="Georg Wilhelm Friedrich Hegel">Georg Wilhelm Friedrich Hegel</a>). Foxes, on the other hand, incorporate a type of pluralism and view the world through multiple, sometimes conflicting, lenses (examples include <a href="/wiki/Johann_Wolfgang_von_Goethe" title="Johann Wolfgang von Goethe">Johann Wolfgang von Goethe</a>, <a href="/wiki/James_Joyce" title="James Joyce">James Joyce</a>, <a href="/wiki/William_Shakespeare" title="William Shakespeare">William Shakespeare</a>, <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>, <a href="/wiki/Herodotus" title="Herodotus">Herodotus</a>, <a href="/wiki/Moli%C3%A8re" title="Molière">Molière</a>, <a href="/wiki/Honor%C3%A9_de_Balzac" title="Honoré de Balzac">Honoré de Balzac</a>).</p>
+<p>Economists use the conceptual framework of "<a href="/wiki/Supply_(economics)" title="Supply (economics)">supply</a>" and "<a href="/wiki/Demand_(economics)" class="mw-redirect" title="Demand (economics)">demand</a>" to distinguish between the behavior and incentive systems of firms and consumers.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Like many conceptual frameworks, supply and demand can be presented through visual or graphical representations (see <a href="/wiki/Demand_curve" title="Demand curve">demand curve</a>).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types"><span class="tocnumber">2</span> <span class="toctext">Types</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conceptual_framework&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The use of the term <i>conceptual framework</i> crosses both scale (large and small theories)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and contexts (social science,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> marketing,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> applied science,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> art<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> etc.). Its explicit definition and application can therefore vary.</p>
+<p>Conceptual frameworks are particularly useful as organizing devices in empirical research. One set of scholars has applied the notion of conceptual framework to <a href="/wiki/Deductive" class="mw-redirect" title="Deductive">deductive</a>, empirical research at the micro- or individual study level.<sup id="cite_ref-Shields_10-0" class="reference"><a href="#cite_note-Shields-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-books.google.com_12-0" class="reference"><a href="#cite_note-books.google.com-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> They employ <a href="/wiki/American_football_plays" title="American football plays">American football plays</a> as a useful metaphor to clarify the meaning of <i>conceptual framework</i> (used in the context of a deductive empirical study).</p>
+<p>Likewise, conceptual frameworks are abstract representations, connected to the research project's goal that direct the collection and analysis of data (on the plane of observation – the ground). Critically, a football play is a "plan of action" tied to a particular, timely, purpose, usually summarized as long or short yardage.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Shields and Rangarajan argue that it is this tie to "purpose" that make <a href="/wiki/American_football_plays" title="American football plays">American football plays</a> such a good metaphor. They define a conceptual framework as "the way ideas are organized to achieve a research project's purpose".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Like football plays conceptual frameworks are connected to a research purpose. <a href="/wiki/Explanation" title="Explanation">Explanation</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> is the most common type of research purpose employed in empirical research. The formal <a href="/wiki/Hypothesis" title="Hypothesis">hypothesis</a> is the framework associated with <a href="/wiki/Explanation" title="Explanation">explanation</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Explanatory research usually focuses on "why" or "what caused" a phenomenon to occur. Formal hypotheses posit possible explanations (answers to the why question) that are tested by collecting data and assessing the evidence (usually quantitative using statistical tests). For example, Kai Huang<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> wanted to determine what factors contributed to residential fires in U.S. cities. Three factors were posited to influence residential fires. These factors (environment, population and building characteristics) became the hypotheses or conceptual framework he used to achieve his purpose – explain factors that influenced home fires in U.S. cities.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conceptual_framework&amp;action=edit&amp;section=2" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Several types of conceptual frameworks have been identified,<sup id="cite_ref-Shields_10-1" class="reference"><a href="#cite_note-Shields-10">[10]</a></sup><sup id="cite_ref-books.google.com_12-1" class="reference"><a href="#cite_note-books.google.com-12">[12]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> and line up with a research purpose in the following ways:</p>
+<ul>
+<li><a href="/wiki/Working_hypothesis" title="Working hypothesis">Working hypothesis</a> – <a href="/wiki/Exploration" title="Exploration">Exploration</a> or <a href="/wiki/Exploratory_research" title="Exploratory research">Exploratory research</a></li>
+<li>Descriptive categories – <a href="/wiki/Description" title="Description">Description</a> or <a href="/wiki/Descriptive_research" title="Descriptive research">Descriptive research</a></li>
+<li>Practical ideal type – <a href="/wiki/Analysis" title="Analysis">Analysis (Gauging)</a></li>
+<li>Models of <a href="/wiki/Operations_research" title="Operations research">operations research</a> – <a href="/wiki/Decision_making" class="mw-redirect" title="Decision making">Decision making</a></li>
+<li>Formal hypothesis – <a href="/wiki/Explanation" title="Explanation">Explanation</a> and <a href="/wiki/Prediction" title="Prediction">Prediction</a></li>
+</ul>
+<p>Note that Shields and Rangarajan (2013) do not claim that the above are the only framework-purpose pairing. Nor do they claim the system is applicable to <a href="/wiki/Inductive_reasoning" title="Inductive reasoning">inductive</a> forms of empirical research. Rather, the conceptual framework-research purpose pairings they propose are useful and provide new scholars a point of departure to develop their own <a href="/wiki/Research_design" title="Research design">research design</a>.<sup id="cite_ref-books.google.com_12-2" class="reference"><a href="#cite_note-books.google.com-12">[12]</a></sup></p>
+<p>Frameworks have also been used to explain <a href="/wiki/Conflict_theory" class="mw-redirect" title="Conflict theory">conflict theory</a> and the balance necessary to reach what amounts to resolution. Within these conflict frameworks, visible and invisible variables function under concepts of relevance. Boundaries form and within these boundaries, tensions regarding laws and chaos (or freedom) are mitigated. These frameworks often function like cells, with sub-frameworks, stasis, evolution and revolution.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> <a href="/wiki/Anomalistics" title="Anomalistics">Anomalies</a> may exist without adequate "lenses" or "filters" to see them and may become visible only when the tools exist to define them.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conceptual_framework&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Analogy" title="Analogy">Analogy</a></li>
+<li><a href="/wiki/Inquiry" title="Inquiry">Inquiry</a></li>
+<li><a href="/wiki/Conceptual_model" title="Conceptual model">Conceptual model</a></li>
+<li><a href="/wiki/Theory" title="Theory">Theory</a></li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conceptual_framework&amp;action=edit&amp;section=4" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Abraham_Kaplan" title="Abraham Kaplan">Kaplan, Abraham</a>. (1964). <i>The Conduct of Inquiry: Methodology for Behavioral Science</i>. Scranton, PA: Chandler Publishing Co. <a href="/wiki/Special:BookSources/9780352117007" class="internal mw-magiclink-isbn">ISBN 978-0352117007</a></li>
+<li>Botha, M.E. (1989), "Theory Development in Perspective: The Role of Conceptual Frameworks and Models in Theory Development", <i><a href="/wiki/Journal_of_Advanced_Nursing" title="Journal of Advanced Nursing">Journal of Advanced Nursing</a></i> 14(1), 49–55. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>: <a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1365-2648.1989.tb03404.x">10.1111/j.1365-2648.1989.tb03404.x</a></li>
+<li><a href="/wiki/John_Dewey" title="John Dewey">Dewey, John</a>. (1938). <i>Logic: The Theory of Inquiry</i>. New York: Hold Rinehart and Winston. <a href="/wiki/Special:BookSources/9780030052507" class="internal mw-magiclink-isbn">ISBN 978-0030052507</a></li>
+<li>Shields, Patricia, Jed and Nandhini Rangarjan. 2013. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=tVYbAgAAQBAJ&amp;printsec=frontcover&amp;dq=inauthor:%22Patricia+M.+Shields%22&amp;hl=en&amp;sa=X&amp;ei=c3iIU6X7HdOYyASjlIDwBw&amp;ved=0CC4Q6wEwAA#v=onepage&amp;q&amp;f=false"><i>A Playbook for Research Methods: Integrating Conceptual Frameworks and Project Management</i></a>. Stillwater, OK: New Forums Press. <a href="/wiki/Special:BookSources/9781581072471" class="internal mw-magiclink-isbn">ISBN 978-1581072471</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conceptual_framework&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Isaiah Berlin, 1953. <i><a href="/wiki/The_Hedgehog_and_the_Fox" title="The Hedgehog and the Fox">The Hedgehog and the Fox</a>: An Essay on Tolstoy's View of History</i>, London: Weidenfeld &amp; Nicolson; 1986 New York: Simon and Schuster, introduction by M. Walzer.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Colander, David. 2013. <i>Microeconomics,</i> 9th edition, New York: McGraw Hill and Frank, Robert and Ben Bernanke. 2013. <i>Principles of Microeconomics,</i> 5th edition. New York: McGraw Hill.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Ravitch, and Riggan. 2012 <i>Reason and Rigor: How Conceptual Frameworks guide Research,</i> Thousand Oaks CA: Sage p. xiii</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Maxwell, J. 2009. "Designing a qualitative study" in <i>The State Handbook of Applied Social Science Research</i> edited by L. Bickmam and D. Rog. Thousand Oaks, CA: Sage p. 222.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Rodman, Hyman. 1980. "Are Conceptual Frameworks Necessary for Theory Building? The Case of Family Sociology". <i>The Sociological Quarterly</i> Vol. 21, No. 3 pp. 429-441.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Moorstein, Mark. Frameworks, Conflict in Balance.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Jaworski, B, Stathakopoulos, V. and Krishnan H. S. 1993. "Control Combinations in Marketing: Conceptual Framework and Empirical Evidence" <i><a href="/wiki/Journal_of_Marketing" title="Journal of Marketing">Journal of Marketing</a></i> Vol. 57, No. 1, pp. 57-69.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Hobbs, R. and Norton, D. 2006. "Towards a Conceptual Framework for Restoration Ecology." <i>Restoration Ecology.</i> Vol. 4, No. 2, pp. 93–110.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="/wiki/Umberto_Eco" title="Umberto Eco">Umberto Eco</a>, 1978. <i>A Theory of Semiotics</i>, Indiana University Press, p 310 endnote #47 <a href="/wiki/Special:BookSources/9780253202178" class="internal mw-magiclink-isbn">ISBN 978-0253202178</a></span></li>
+<li id="cite_note-Shields-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Shields_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Shields_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/Patricia_M._Shields" title="Patricia M. Shields">Patricia M. Shields</a> and Hassan Tajalli (2006), "Intermediate Theory: The Missing Link in Successful Student Scholarship, <i>Journal of Public Affairs Education</i> 12(3): 313–334. <a rel="nofollow" class="external free" href="https://digital.library.txstate.edu/handle/10877/3967">https://digital.library.txstate.edu/handle/10877/3967</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Baum, K. 2003. "Assessing Group Conflict: Understanding the Line-Staff Relationship in Fire Service" in <i>Handbook of Conflict Management</i> edited by W. Pammer and J. Killian. New York: Marcel Decker. pp. 129 – 135.</span></li>
+<li id="cite_note-books.google.com-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-books.google.com_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-books.google.com_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-books.google.com_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/Patricia_M._Shields" title="Patricia M. Shields">Shields, Patricia</a> and Rangarjan, N. 2013. A Playbook for Research Methods: Integrating Conceptual Frameworks and Project Management. <a rel="nofollow" class="external autonumber" href="https://books.google.com/books?id=tVYbAgAAQBAJ&amp;printsec=frontcover&amp;dq=inauthor:%22Patricia+M.+Shields%22&amp;hl=en&amp;sa=X&amp;ei=c3iIU6X7HdOYyASjlIDwBw&amp;ved=0CC4Q6wEwAA#v=onepage&amp;q&amp;f=false">[1]</a>. Stillwater, OK: New Forums Press.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Shields, Patricia 1998. "Pragmatism as a Philosophy of Science: A Tool for Public Administration," Research in Public Administration. Volume 4: 195-225. <a rel="nofollow" class="external free" href="https://digital.library.txstate.edu/handle/10877/3954">https://digital.library.txstate.edu/handle/10877/3954</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Shields, Patricia. 2014. <a rel="nofollow" class="external text" href="https://www.researchgate.net/publication/263861162_Tools_for_Writing_Excellent_Papers_2014_ASPA_Student_Summit">Tools for Excellent Papers</a>: 2014 ASPA Student Summit. Presentation at the <a href="/wiki/American_Society_for_Public_Administration" title="American Society for Public Administration">American Society for Public Administration</a> annual conference, Washington DC March 15, This powerpoint depicts the connection between football and conceptual frameworks in the context of a large graduate student paper. The national presentation was delivered before Public Administration graduate students in Washington DC.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a href="/wiki/Patricia_M._Shields" title="Patricia M. Shields">Shields, Patricia</a> and Rangarjan, N. 2013. A Playbook for Research Methods: Integrating Conceptual Frameworks and Project Management. <a rel="nofollow" class="external autonumber" href="https://books.google.com/books?id=tVYbAgAAQBAJ&amp;printsec=frontcover&amp;dq=inauthor:%22Patricia+M.+Shields%22&amp;hl=en&amp;sa=X&amp;ei=c3iIU6X7HdOYyASjlIDwBw&amp;ved=0CC4Q6wEwAA#v=onepage&amp;q&amp;f=false">[2]</a>. Stillwater, OK: New Forums Press. p. 24.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Babbie, Earl. 2007. <i>The Practice of Social Research</i> (11th edition). Belmont, CA: Thompson, Wadsworth pp. 89. Babbie also identifies exploration and description as purposes of empirical research</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Brains, C., Willnat, L., Manheim, J. and Rich, R. 2011. <i>Empirical Political Analysis: Quantitative and Qualitative Research Methods</i> New York, NY: Longman, pp. 75-77. Brains et al 2011 also identify exploration, explanation and description as research purposes. Explanation is connected to hypotheses testing (as a framework). The other research purposes are not connected to a framework.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Huang, Kai. 2009. "Population and Building Factors that impact residential fire rates in large U.S. Cities." <i>Applied Research Projects</i>, Texas State University.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://digital.library.txstate.edu/handle/10877/3592">Huang, Kai. 2009. "Population and Building Factors that impact residential fire rates in large U.S. Cities</a>." <i>Applied Research Projects</i>, Texas State University. p. 42. The formal hypotheses took the form of relational statements. H1: environmental factors influence residential fire rates; H2: populations characteristics influence residential fire rates; H3: Building factors influence residential fire rates. These hypotheses could be represented visually as H1: A → RFR; H2: B → RFR; H3: C → RFR where A = environmental factors; B= population characteristics; C = Building Factors and RFR = Residential Fire Rates</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a href="/wiki/Patricia_M._Shields" title="Patricia M. Shields">Patricia M. Shields</a> (1998). "Pragmatism as a Philosophy of Science:A Tool for Public Administration," <i>Research in Public Administration.</i> Volume 4: 195–225. <a rel="nofollow" class="external free" href="https://digital.library.txstate.edu/handle/10877/3954">https://digital.library.txstate.edu/handle/10877/3954</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation book">Moorstein, Mark. <i>Frameworks, Conflict in Balance</i>. <a href="/wiki/IUniverse" title="IUniverse">iUniverse</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0595318247" title="Special:BookSources/978-0595318247">978-0595318247</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConceptual+framework&amp;rft.aufirst=Mark&amp;rft.aulast=Moorstein&amp;rft.btitle=Frameworks%2C+Conflict+in+Balance&amp;rft.genre=book&amp;rft.isbn=978-0595318247&amp;rft.pub=iUniverse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a href="/wiki/Thomas_Kuhn" title="Thomas Kuhn">Thomas Kuhn</a>. (1996)<i><a href="/wiki/The_Structure_of_Scientific_Revolutions" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a></i></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="World_view" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:World_view" title="Template:World view"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:World_view" title="Template talk:World view"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:World_view&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="World_view" style="font-size:114%;margin:0 4em"><a href="/wiki/World_view" title="World view">World view</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Related_terms" style="font-size:114%;margin:0 4em">Related terms</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Basic_belief" title="Basic belief">Basic beliefs</a>/<a href="/wiki/Belief" title="Belief">Beliefs</a></li>
+<li><a href="/wiki/Collective_consciousness" title="Collective consciousness">Collective consciousness</a>/<a href="/wiki/Collective_unconscious" title="Collective unconscious">Collective unconscious</a></li>
+<li><a href="/wiki/Conceptual_system" title="Conceptual system">Conceptual system</a></li>
+<li><a href="/wiki/Context_(language_use)" title="Context (language use)">Context</a></li>
+<li><a href="/wiki/Convention_(norm)" title="Convention (norm)">Conventions</a></li>
+<li><a href="/wiki/Cultural_movement" title="Cultural movement">Cultural movement</a></li>
+<li><a href="/wiki/Epic_poetry" title="Epic poetry">Epic poetry</a>/<a href="/wiki/National_epic" title="National epic">National epics</a>/<a href="/wiki/Pan-national_epic" title="Pan-national epic">Pan-national epics</a></li>
+<li><a href="/wiki/Fact" title="Fact">Facts</a> &amp; <a href="/wiki/Factoid" title="Factoid">Factoids</a></li>
+<li><a href="/wiki/Framing_(social_sciences)" title="Framing (social sciences)">Framing</a></li>
+<li><a href="/wiki/Ideology" title="Ideology">Ideology</a></li>
+<li><a href="/wiki/Life_stance" title="Life stance">Life stance</a></li>
+<li><a href="/wiki/Lifestyle_(sociology)" title="Lifestyle (sociology)">Lifestyle</a></li>
+<li><a href="/wiki/Meme" title="Meme">Memes</a>/<a href="/wiki/Memeplex" title="Memeplex">Memeplex</a></li>
+<li><a href="/wiki/Mental_model" title="Mental model">Mental model</a></li>
+<li><a href="/wiki/Metanarrative" title="Metanarrative">Metanarrative</a></li>
+<li><a href="/wiki/Mindset" title="Mindset">Mindset</a></li>
+<li><a href="/wiki/Norm_(social)" title="Norm (social)">Norms</a></li>
+<li><a href="/wiki/Paradigm" title="Paradigm">Paradigm</a></li>
+<li><a href="/wiki/Philosophical_theory" title="Philosophical theory">Philosophical theory</a></li>
+<li><a href="/wiki/Point_of_view_(philosophy)" title="Point of view (philosophy)">Point of view</a></li>
+<li><a href="/wiki/Presupposition" title="Presupposition">Presuppositions</a></li>
+<li><a href="/wiki/Reality_tunnel" title="Reality tunnel">Reality tunnel</a></li>
+<li><a href="/wiki/Received_view" title="Received view">Received view</a></li>
+<li><a href="/wiki/Schema_(psychology)" title="Schema (psychology)">Schemata</a></li>
+<li><a href="/wiki/School_of_thought" title="School of thought">School of thought</a></li>
+<li><a href="/wiki/Set_(psychology)" title="Set (psychology)">Set</a></li>
+<li><a href="/wiki/Social_reality" title="Social reality">Social reality</a></li>
+<li><a href="/wiki/Theory_of_everything" title="Theory of everything">Theory of everything</a></li>
+<li><a href="/wiki/Umwelt" title="Umwelt">Umwelt</a></li>
+<li><a href="/wiki/Value_system" class="mw-redirect" title="Value system">Value system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Aspects" style="font-size:114%;margin:0 4em">Aspects</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:15em"><a href="/wiki/Bias" title="Bias">Biases</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Academic_bias" title="Academic bias">Academic</a></li>
+<li><a href="/wiki/Attentional_bias" title="Attentional bias">Attentional</a></li>
+<li><a href="/wiki/Attitude_polarization" class="mw-redirect" title="Attitude polarization">Attitude polarization</a></li>
+<li><a href="/wiki/Belief_bias" title="Belief bias">Belief</a></li>
+<li><a href="/wiki/Cognitive_bias" title="Cognitive bias">Cognitive</a> (<a href="/wiki/List_of_cognitive_biases" title="List of cognitive biases">list</a>)</li>
+<li><a href="/wiki/Collective_narcissism" title="Collective narcissism">Collective narcissism</a></li>
+<li><a href="/wiki/Confirmation_bias" title="Confirmation bias">Confirmation</a></li>
+<li><a href="/wiki/Congruence_bias" title="Congruence bias">Congruence</a></li>
+<li><a href="/wiki/Cryptomnesia" title="Cryptomnesia">Cryptomnesia</a></li>
+<li><a href="/wiki/Cultural_bias" title="Cultural bias">Cultural</a></li>
+<li><a href="/wiki/Ethnocentrism" title="Ethnocentrism">Ethnocentrism</a></li>
+<li><a href="/wiki/Filter_bubble" title="Filter bubble">Filter bubble</a></li>
+<li><a href="/wiki/Homophily" title="Homophily">Homophily</a></li>
+<li><a href="/wiki/In-group_favoritism" title="In-group favoritism">In-group favoritism</a></li>
+<li><a href="/wiki/Magical_thinking" title="Magical thinking">Magical thinking</a></li>
+<li><a href="/wiki/Media_bias" title="Media bias">Media</a></li>
+<li><a href="/wiki/Observer-expectancy_effect" title="Observer-expectancy effect">Observer-expectancy</a></li>
+<li><a href="/wiki/Observational_error" title="Observational error">Observational error</a></li>
+<li><a href="/wiki/Selective_exposure_theory" title="Selective exposure theory">Selective exposure</a></li>
+<li><a href="/wiki/Selective_perception" title="Selective perception">Selective perception</a></li>
+<li><a href="/wiki/Self-deception" title="Self-deception">Self-deception</a></li>
+<li><a href="/wiki/Self-fulfilling_prophecy" title="Self-fulfilling prophecy">Self-fulfilling prophecy</a> (<a href="/wiki/Clever_Hans" title="Clever Hans">Clever Hans effect</a>, <a href="/wiki/Placebo" title="Placebo">placebo effect</a>, <a href="/wiki/Wishful_thinking" title="Wishful thinking">wishful thinking</a>)</li>
+<li><a href="/wiki/Status_quo_bias" title="Status quo bias">Status quo</a></li>
+<li><a href="/wiki/Stereotype" title="Stereotype">Stereotyping</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em">Change and maintenance</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Activism" title="Activism">Activism</a></li>
+<li><a href="/wiki/Argument" title="Argument">Argument</a></li>
+<li><a href="/wiki/Argumentum_ad_populum" title="Argumentum ad populum">Argumentum ad populum</a></li>
+<li><a href="/wiki/Attitude_change" title="Attitude change">Attitude change</a></li>
+<li><a href="/wiki/Censorship" title="Censorship">Censorship</a></li>
+<li><a href="/wiki/Charisma" title="Charisma">Charisma</a></li>
+<li><a href="/wiki/Circular_reporting" title="Circular reporting">Circular reporting</a></li>
+<li><a href="/wiki/Cognitive_dissonance" title="Cognitive dissonance">Cognitive dissonance</a></li>
+<li><a href="/wiki/Critical_thinking" title="Critical thinking">Critical thinking</a></li>
+<li><a href="/wiki/Crowd_manipulation" title="Crowd manipulation">Crowd manipulation</a></li>
+<li><a href="/wiki/Cultural_dissonance" title="Cultural dissonance">Cultural dissonance</a></li>
+<li><a href="/wiki/Deprogramming" title="Deprogramming">Deprogramming</a></li>
+<li><a href="/wiki/Echo_chamber_(media)" title="Echo chamber (media)">Echo chamber</a></li>
+<li><a href="/wiki/Education" title="Education">Education</a> (<a href="/wiki/Religious_education" title="Religious education">religious</a>, <a href="/wiki/Values_education" title="Values education">values</a>)</li>
+<li><a href="/wiki/Euphemism" title="Euphemism">Euphemism</a></li>
+<li><a href="/wiki/Excommunication" title="Excommunication">Excommunication</a></li>
+<li><a href="/wiki/Fear_mongering" class="mw-redirect" title="Fear mongering">Fear mongering</a></li>
+<li><a href="/wiki/Historical_revisionism_(negationism)" class="mw-redirect" title="Historical revisionism (negationism)">Historical revisionism</a></li>
+<li><a href="/wiki/Ideological_repression" title="Ideological repression">Ideological repression</a></li>
+<li><a href="/wiki/Indoctrination" title="Indoctrination">Indoctrination</a></li>
+<li><a href="/wiki/Media_manipulation" title="Media manipulation">Media manipulation</a></li>
+<li><a href="/wiki/Media_regulation" title="Media regulation">Media regulation</a></li>
+<li><a href="/wiki/Mind_control" title="Mind control">Mind control</a></li>
+<li><a href="/wiki/Missionary" title="Missionary">Missionaries</a></li>
+<li><a href="/wiki/Moral_entrepreneur" title="Moral entrepreneur">Moral entrepreneurship</a></li>
+<li><a href="/wiki/Persuasion" title="Persuasion">Persuasion</a></li>
+<li><a href="/wiki/Polite_fiction" title="Polite fiction">Polite fiction</a></li>
+<li><a href="/wiki/Political_engineering" title="Political engineering">Political engineering</a></li>
+<li><a href="/wiki/Propaganda" title="Propaganda">Propaganda</a></li>
+<li><a href="/wiki/Propaganda_model" title="Propaganda model">Propaganda model</a></li>
+<li><a href="/wiki/Proselytism" title="Proselytism">Proselytism</a></li>
+<li><a href="/wiki/Psychological_manipulation" title="Psychological manipulation">Psychological manipulation</a></li>
+<li><a href="/wiki/Psychological_warfare" title="Psychological warfare">Psychological warfare</a></li>
+<li><a href="/wiki/Religious_conversion" title="Religious conversion">Religious conversion</a> (<a href="/wiki/Forced_conversion" title="Forced conversion">forced</a>)</li>
+<li><a href="/wiki/Religious_persecution" title="Religious persecution">Religious persecution</a></li>
+<li><a href="/wiki/Religious_uniformity" title="Religious uniformity">Religious uniformity</a></li>
+<li><a href="/wiki/Revolution" title="Revolution">Revolutions</a></li>
+<li><a href="/wiki/Rhetoric" title="Rhetoric">Rhetoric</a></li>
+<li><a href="/wiki/Self-censorship" title="Self-censorship">Self-censorship</a></li>
+<li><a href="/wiki/Social_change" title="Social change">Social change</a></li>
+<li><a href="/wiki/Social_control" title="Social control">Social control</a></li>
+<li><a href="/wiki/Social_engineering_(political_science)" title="Social engineering (political science)">Social engineering</a></li>
+<li><a href="/wiki/Social_influence" title="Social influence">Social influence</a></li>
+<li><a href="/wiki/Social_progress" title="Social progress">Social progress</a></li>
+<li><a href="/wiki/Suppression_of_dissent" title="Suppression of dissent">Suppression of dissent</a></li>
+<li><a href="/wiki/Systemic_bias" title="Systemic bias">Systemic bias</a></li>
+<li><a href="/wiki/Woozle_effect" title="Woozle effect">Woozle effect</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em"><a href="/wiki/Culture" title="Culture">Culture</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropology" title="Anthropology">Anthropology</a> (<a href="/wiki/Cultural_anthropology" title="Cultural anthropology">cultural</a>, <a href="/wiki/Social_anthropology" title="Social anthropology">social</a>)</li>
+<li><a href="/wiki/Calendar" title="Calendar">Calendars</a></li>
+<li><a href="/wiki/Ceremony" title="Ceremony">Ceremonies</a></li>
+<li><a href="/wiki/Coronation" title="Coronation">Coronations</a></li>
+<li><a href="/wiki/Cross-cultural_psychology" title="Cross-cultural psychology">Cross-cultural psychology</a></li>
+<li><a href="/wiki/Cultural_psychology" title="Cultural psychology">Cultural psychology</a></li>
+<li><a href="/wiki/Doctrine" title="Doctrine">Doctrine</a></li>
+<li><a href="/wiki/Employment" title="Employment">Employment</a>/<a href="/wiki/Serfdom" title="Serfdom">Serfdom</a>/<a href="/wiki/Slavery" title="Slavery">Slavery</a></li>
+<li><a href="/wiki/Family" title="Family">Families</a></li>
+<li><a href="/wiki/Funeral" title="Funeral">Funerals</a>/<a href="/wiki/Burial" title="Burial">Burial</a></li>
+<li><a href="/wiki/Game" title="Game">Games</a></li>
+<li><a href="/wiki/Holiday" title="Holiday">Holidays</a></li>
+<li><a href="/wiki/Hygiene" title="Hygiene">Hygiene</a> (<a href="/wiki/Ritual_purification" title="Ritual purification">ritual</a>)</li>
+<li><a href="/wiki/Identity_(philosophy)" title="Identity (philosophy)">Identity (philosophy)</a> (<a href="/wiki/Cultural_identity" title="Cultural identity">cultural</a>)</li>
+<li><a href="/wiki/Institution" title="Institution">Institutions</a></li>
+<li><a href="/wiki/Liminality" title="Liminality">Liminality</a></li>
+<li><a href="/wiki/Liturgy" title="Liturgy">Liturgy</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Myth_and_ritual" title="Myth and ritual">Myth and ritual</a></li>
+<li><a href="/wiki/Oath" title="Oath">Oaths</a></li>
+<li><a href="/wiki/Pilgrimage" title="Pilgrimage">Pilgrimages</a></li>
+<li><a href="/wiki/Play_(activity)" title="Play (activity)">Play</a></li>
+<li><a href="/wiki/Rite_of_passage" title="Rite of passage">Rites of passage</a> (<a href="/wiki/Secular_coming-of-age_ceremony" title="Secular coming-of-age ceremony">secular</a>)</li>
+<li><a href="/wiki/Ritual" title="Ritual">Rituals</a></li>
+<li><a href="/wiki/Social_class" title="Social class">Social class</a>/<a href="/wiki/Social_status" title="Social status">Social status</a>/<a href="/wiki/Caste" title="Caste">Caste</a></li>
+<li><a href="/wiki/Symbol" title="Symbol">Symbols</a></li>
+<li><a href="/wiki/Symbolic_boundaries" title="Symbolic boundaries">Symbolic boundaries</a></li>
+<li><a href="/wiki/Worship" title="Worship">Worship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em"><a href="/wiki/Groupthink" title="Groupthink">Groupthink</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abilene_paradox" title="Abilene paradox">Abilene paradox</a></li>
+<li><a href="/wiki/Bandwagon_effect" title="Bandwagon effect">Bandwagon effect</a></li>
+<li><a href="/wiki/Collective" title="Collective">Collectives</a></li>
+<li><a href="/wiki/Collective_behavior" title="Collective behavior">Collective behavior</a> (<a href="/wiki/Collective_animal_behavior" title="Collective animal behavior">animal</a>)</li>
+<li><a href="/wiki/Collective_effervescence" title="Collective effervescence">Collective effervescence</a></li>
+<li><a href="/wiki/Collective_intelligence" title="Collective intelligence">Collective intelligence</a></li>
+<li><a href="/wiki/Conformity" title="Conformity">Conformity</a></li>
+<li><a href="/wiki/Consensus_theory" title="Consensus theory">Consensus theory</a></li>
+<li><a href="/wiki/Crowd" title="Crowd">Crowd</a></li>
+<li><a href="/wiki/Crowd_psychology" title="Crowd psychology">Crowd psychology</a></li>
+<li><a href="/wiki/Cult" title="Cult">Cults</a></li>
+<li><a href="/wiki/Culture-bound_syndrome" title="Culture-bound syndrome">Culture-bound syndromes</a></li>
+<li><a href="/wiki/Deindividuation" title="Deindividuation">Deindividuation</a></li>
+<li><a href="/wiki/Democracy" title="Democracy">Democracy</a></li>
+<li><a href="/wiki/Emergence" title="Emergence">Emergence</a></li>
+<li><a href="/wiki/Emotional_contagion" title="Emotional contagion">Emotional contagion</a></li>
+<li><a href="/wiki/Entitativity" title="Entitativity">Entitativity</a></li>
+<li><a href="/wiki/False-consensus_effect" class="mw-redirect" title="False-consensus effect">False-consensus effect</a></li>
+<li><a href="/wiki/Folie_%C3%A0_deux" title="Folie à deux">Folie à deux</a></li>
+<li><a href="/wiki/Group_action_(sociology)" title="Group action (sociology)">Group action</a></li>
+<li><a href="/wiki/Group_dynamics" title="Group dynamics">Group dynamics</a></li>
+<li><a href="/wiki/Group_emotion" title="Group emotion">Group emotion</a></li>
+<li><a href="/wiki/Group_polarization" title="Group polarization">Group polarization</a></li>
+<li><a href="/wiki/Groupshift" title="Groupshift">Groupshift</a></li>
+<li><a href="/wiki/Herd_behavior" title="Herd behavior">Herd behavior</a></li>
+<li><a href="/wiki/Holism" title="Holism">Holism</a></li>
+<li><a href="/wiki/Hysterical_contagion" title="Hysterical contagion">Hysterical contagion</a></li>
+<li><a href="/wiki/Information_cascade" title="Information cascade">Information cascade</a></li>
+<li><a href="/wiki/Invisible_hand" title="Invisible hand">Invisible hand</a></li>
+<li><a href="/wiki/Lynching" title="Lynching">Lynching</a></li>
+<li><a href="/wiki/Majoritarianism" title="Majoritarianism">Majoritarianism</a>/<a href="/wiki/Ochlocracy" title="Ochlocracy">Ochlocracy</a></li>
+<li><a href="/wiki/Mass_action_(sociology)" title="Mass action (sociology)">Mass action</a></li>
+<li><a href="/wiki/Mass_hysteria" title="Mass hysteria">Mass hysteria</a></li>
+<li><a href="/wiki/Mass_psychogenic_illness" title="Mass psychogenic illness">Mass psychogenic illness</a></li>
+<li><a href="/wiki/Milieu_control" title="Milieu control">Milieu control</a></li>
+<li><a href="/wiki/Mobbing" title="Mobbing">Mobbing</a></li>
+<li><a href="/wiki/Moral_panic" title="Moral panic">Moral panic</a></li>
+<li><a href="/wiki/Organization" title="Organization">Organizations</a></li>
+<li><a href="/wiki/Peer_pressure" title="Peer pressure">Peer pressure</a></li>
+<li><a href="/wiki/Pluralistic_ignorance" title="Pluralistic ignorance">Pluralistic ignorance</a></li>
+<li><a href="/wiki/Political_correctness" title="Political correctness">Political correctness</a></li>
+<li><a href="/wiki/Pseudoconsensus" title="Pseudoconsensus">Pseudoconsensus</a></li>
+<li><a href="/wiki/Scapegoating" title="Scapegoating">Scapegoating</a></li>
+<li><a href="/wiki/Self-organization" title="Self-organization">Self-organization</a></li>
+<li><a href="/wiki/Social_actions" title="Social actions">Social action</a></li>
+<li><a href="/wiki/Social_behavior" title="Social behavior">Social behavior</a></li>
+<li><a href="/wiki/Social_emotions" title="Social emotions">Social emotions</a></li>
+<li><a href="/wiki/Social_exclusion" title="Social exclusion">Social exclusion</a></li>
+<li><a href="/wiki/Social_facilitation" title="Social facilitation">Social facilitation</a> (<a href="/wiki/Social_facilitation_in_animals" title="Social facilitation in animals">animal</a>)</li>
+<li><a href="/wiki/Social_group" title="Social group">Social group</a></li>
+<li><a href="/wiki/Social_proof" title="Social proof">Social proof</a></li>
+<li><a href="/wiki/Social_psychology" title="Social psychology">Social psychology</a></li>
+<li><a href="/wiki/Sociology" title="Sociology">Sociology</a></li>
+<li><a href="/wiki/Spontaneous_order" title="Spontaneous order">Spontaneous order</a></li>
+<li><a href="/wiki/Status_quo" title="Status quo">Status quo</a></li>
+<li><a href="/wiki/Stigmergy" title="Stigmergy">Stigmergy</a></li>
+<li><a href="/wiki/Swarm_behaviour" title="Swarm behaviour">Swarm behaviour</a></li>
+<li><a href="/wiki/System_justification" title="System justification">System justification</a></li>
+<li><a href="/wiki/Systems_thinking" title="Systems thinking">Systems thinking</a></li>
+<li><a href="/wiki/Viral_phenomenon" title="Viral phenomenon">Viral phenomena</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em"><a href="/wiki/Knowledge" title="Knowledge">Knowledge</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Axiom" title="Axiom">Axioms</a> (<a href="/wiki/Tacit_assumption" title="Tacit assumption">tacit assumptions</a>)</li>
+<li><strong class="selflink">Conceptual framework</strong></li>
+<li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a> (<a href="/wiki/Outline_of_epistemology" title="Outline of epistemology">outline</a>)</li>
+<li><a href="/wiki/Evidence" title="Evidence">Evidence</a> (<a href="/wiki/Anecdotal_evidence" title="Anecdotal evidence">anecdotal</a>, <a href="/wiki/Scientific_evidence" title="Scientific evidence">scientific</a>)</li>
+<li><a href="/wiki/Explanation" title="Explanation">Explanations</a></li>
+<li><a href="/wiki/Faith" title="Faith">Faith</a> (<a href="/wiki/Fideism" title="Fideism">fideism</a>)</li>
+<li><a href="/wiki/Gnosis" title="Gnosis">Gnosis</a></li>
+<li><a href="/wiki/Intuition" title="Intuition">Intuition</a></li>
+<li><a href="/wiki/Meaning-making" title="Meaning-making">Meaning-making</a></li>
+<li><a href="/wiki/Memory" title="Memory">Memory</a></li>
+<li><a href="/wiki/Metaknowledge" title="Metaknowledge">Metaknowledge</a></li>
+<li><a href="/wiki/Methodology" title="Methodology">Methodology</a></li>
+<li><a href="/wiki/Observation" title="Observation">Observation</a></li>
+<li><a href="/wiki/Observational_learning" title="Observational learning">Observational learning</a></li>
+<li><a href="/wiki/Perception" title="Perception">Perception</a></li>
+<li><a href="/wiki/Reason" title="Reason">Reasoning</a> (<a href="/wiki/Fallacy" title="Fallacy">fallacious</a>, <a href="/wiki/Logic" title="Logic">logic</a>)</li>
+<li><a href="/wiki/Revelation" title="Revelation">Revelation</a></li>
+<li><a href="/wiki/Testimony" title="Testimony">Testimony</a></li>
+<li><a href="/wiki/Tradition" title="Tradition">Tradition</a> (<a href="/wiki/Folklore" title="Folklore">folklore</a>)</li>
+<li><a href="/wiki/Truth" title="Truth">Truth</a> (<a href="/wiki/Consensus_theory_of_truth" title="Consensus theory of truth">consensus theory</a>, <a href="/wiki/Criteria_of_truth" title="Criteria of truth">criteria</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em"><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Etiology" title="Etiology">Ætiology</a></li>
+<li><a href="/wiki/Afterlife" title="Afterlife">Afterlife</a></li>
+<li><a href="/wiki/Anima_mundi" title="Anima mundi">Anima mundi</a></li>
+<li><a href="/wiki/Being" title="Being">Being</a></li>
+<li><a href="/wiki/Causality" title="Causality">Causality</a></li>
+<li><a href="/wiki/Concept" title="Concept">Concepts</a></li>
+<li><a href="/wiki/Consciousness" title="Consciousness">Consciousness</a> (<a href="/wiki/Mind%E2%80%93body_problem" title="Mind–body problem">mind–body problem</a>)</li>
+<li><a href="/wiki/Cosmogony" title="Cosmogony">Cosmogony</a></li>
+<li><a href="/wiki/Cosmology" title="Cosmology">Cosmology</a> (<a href="/wiki/Religious_cosmology" title="Religious cosmology">religious</a>)</li>
+<li><a href="/wiki/Creation_myth" title="Creation myth">Creation myth</a></li>
+<li><a href="/wiki/Deity" title="Deity">Deities</a> (<a href="/wiki/Existence_of_God" title="Existence of God">existence</a>)</li>
+<li><a href="/wiki/Destiny" title="Destiny">Destiny</a></li>
+<li><a href="/wiki/Eschatology" title="Eschatology">Eschatology</a></li>
+<li><a href="/wiki/Everything" title="Everything">Everything</a>/<a href="/wiki/Nothing" title="Nothing">Nothing</a></li>
+<li><a href="/wiki/Evolution" title="Evolution">Evolution</a></li>
+<li><a href="/wiki/Existence" title="Existence">Existence</a></li>
+<li><a href="/wiki/Fiction" title="Fiction">Fiction</a>/<a href="/wiki/Non-fiction" title="Non-fiction">Non-fiction</a></li>
+<li><a href="/wiki/Free_will" title="Free will">Free will</a></li>
+<li><a href="/wiki/Future" title="Future">Future</a></li>
+<li><a href="/wiki/History" title="History">History</a></li>
+<li><a href="/wiki/Idea" title="Idea">Ideas</a></li>
+<li><a href="/wiki/Idios_kosmos" title="Idios kosmos">Idios kosmos</a></li>
+<li><a href="/wiki/Illusion" title="Illusion">Illusions</a></li>
+<li><a href="/wiki/Incarnation" title="Incarnation">Incarnation</a></li>
+<li><a href="/wiki/Information" title="Information">Information</a></li>
+<li><a href="/wiki/Intelligence" title="Intelligence">Intelligence</a></li>
+<li><a href="/wiki/Magic_(paranormal)" title="Magic (paranormal)">Magic</a></li>
+<li><a href="/wiki/Matter_(philosophy)" title="Matter (philosophy)">Matter</a></li>
+<li><a href="/wiki/Miracle" title="Miracle">Miracles</a></li>
+<li><a href="/wiki/Mythology" title="Mythology">Mythology</a> (<a href="/wiki/Comparative_mythology" title="Comparative mythology">comparative</a>)</li>
+<li><a href="/wiki/National_myth" title="National myth">National mythoi</a></li>
+<li><a href="/wiki/Nature" title="Nature">Nature</a> (<a href="/wiki/Nature_(philosophy)" title="Nature (philosophy)">philosophical</a>)</li>
+<li><a href="/wiki/Ontology" title="Ontology">Ontology</a></li>
+<li><a href="/wiki/Origin_myth" title="Origin myth">Origin myths</a> (<a href="/wiki/Political_myth" title="Political myth">political myths</a>)</li>
+<li><a href="/wiki/Otherworld" title="Otherworld">Otherworlds</a> (<a href="/wiki/Axis_mundi" title="Axis mundi">axes mundi</a>)</li>
+<li><a href="/wiki/Problem_of_evil" title="Problem of evil">Problem of evil</a></li>
+<li><a href="/wiki/Physics" title="Physics">Physics</a> (<a href="/wiki/Natural_philosophy" title="Natural philosophy">natural philosophy</a>)</li>
+<li><a href="/wiki/Reality" title="Reality">Reality</a></li>
+<li><a href="/wiki/Soul" title="Soul">Souls</a></li>
+<li><a href="/wiki/Spirit" title="Spirit">Spirit</a></li>
+<li><a href="/wiki/Supernatural" title="Supernatural">Supernature</a></li>
+<li><a href="/wiki/Teleology" title="Teleology">Teleology</a></li>
+<li><a href="/wiki/Theology" title="Theology">Theology</a></li>
+<li><a href="/wiki/Time" title="Time">Time</a></li>
+<li><a href="/wiki/Unobservable" title="Unobservable">Unobservables</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em"><a href="/wiki/Axiology" title="Axiology">Value</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aesthetics" title="Aesthetics">Æsthetics</a></li>
+<li><a href="/wiki/Alms" title="Alms">Almsgiving</a>/<a href="/wiki/Charity_(practice)" title="Charity (practice)">Charity</a></li>
+<li><a href="/wiki/Altruism" title="Altruism">Altruism</a></li>
+<li><a href="/wiki/Autonomy" title="Autonomy">Autonomy</a></li>
+<li><a href="/wiki/Beauty" title="Beauty">Beauty</a></li>
+<li><a href="/wiki/Code_of_conduct" title="Code of conduct">Codes of conduct</a></li>
+<li><a href="/wiki/Comedy" title="Comedy">Comedy</a></li>
+<li><a href="/wiki/Common_good" title="Common good">Common good</a></li>
+<li><a href="/wiki/Conscience" title="Conscience">Conscience</a></li>
+<li><a href="/wiki/Consent" title="Consent">Consent</a></li>
+<li><a href="/wiki/Creativity" title="Creativity">Creativity</a></li>
+<li><a href="/wiki/Disgust" title="Disgust">Disgust</a></li>
+<li><a href="/wiki/Duty" title="Duty">Duty</a></li>
+<li><a href="/wiki/Economics" title="Economics">Economics</a></li>
+<li><a href="/wiki/Ecstasy_(philosophy)" title="Ecstasy (philosophy)">Ecstasy</a> (<a href="/wiki/Ecstasy_(emotion)" title="Ecstasy (emotion)">emotional</a>, <a href="/wiki/Religious_ecstasy" title="Religious ecstasy">religious</a>)</li>
+<li><a href="/wiki/Elegance" title="Elegance">Elegance</a></li>
+<li><a href="/wiki/Emotion" title="Emotion">Emotions</a> (<a href="/wiki/Aesthetic_emotions" title="Aesthetic emotions">æsthetic</a>)</li>
+<li><a href="/wiki/Entertainment" title="Entertainment">Entertainment</a></li>
+<li><a href="/wiki/Eroticism" title="Eroticism">Eroticism</a></li>
+<li><a href="/wiki/Ethics" title="Ethics">Ethics</a></li>
+<li><a href="/wiki/Etiquette" title="Etiquette">Étiquette</a></li>
+<li><a href="/wiki/Family_values" title="Family values">Family values</a></li>
+<li><a href="/wiki/Food_and_drink_prohibitions" title="Food and drink prohibitions">Food and drink prohibitions</a> (<a href="/wiki/Unclean_animal" title="Unclean animal">unclean animals</a>)</li>
+<li><a href="/wiki/Golden_Rule" title="Golden Rule">Golden Rule</a></li>
+<li><a href="/wiki/Guilt_(emotion)" title="Guilt (emotion)">Guilt</a>/<a href="/wiki/Culpability" title="Culpability">Culpability</a></li>
+<li><a href="/wiki/Happiness" title="Happiness">Happiness</a></li>
+<li><a href="/wiki/Harmony" title="Harmony">Harmony</a></li>
+<li><a href="/wiki/Honour" title="Honour">Honour</a></li>
+<li><a href="/wiki/Human_rights" title="Human rights">Human rights</a></li>
+<li><a href="/wiki/Judgement" title="Judgement">Judgement</a></li>
+<li><a href="/wiki/Justice" title="Justice">Justice</a></li>
+<li><a href="/wiki/Law" title="Law">Laws</a> (<a href="/wiki/Jurisprudence" title="Jurisprudence">jurisprudence</a>, <a href="/wiki/Religious_law" title="Religious law">religious</a>)</li>
+<li><a href="/wiki/Liberty" title="Liberty">Liberty</a> (<a href="/wiki/Political_freedom" title="Political freedom">political freedom</a>)</li>
+<li><a href="/wiki/Love" title="Love">Love</a></li>
+<li><a href="/wiki/Magnificence_(history_of_ideas)" title="Magnificence (history of ideas)">Magnificence</a></li>
+<li><a href="/wiki/Maxim_(philosophy)" title="Maxim (philosophy)">Maxims</a></li>
+<li><a href="/wiki/Meaning_of_life" title="Meaning of life">Meaning of life</a></li>
+<li><a href="/wiki/Morality" title="Morality">Morality</a> (<a href="/wiki/Public_morality" title="Public morality">public</a>)</li>
+<li><a href="/wiki/Obligation" title="Obligation">Obligations</a></li>
+<li><a href="/wiki/Peace" title="Peace">Peace</a></li>
+<li><a href="/wiki/Piety" title="Piety">Piety</a></li>
+<li><a href="/wiki/Praxeology" title="Praxeology">Praxeology</a></li>
+<li><a href="/wiki/Principle" title="Principle">Principles</a></li>
+<li><a href="/wiki/Punishment" title="Punishment">Punishment</a></li>
+<li><a href="/wiki/Quality_(philosophy)" title="Quality (philosophy)">Qualities</a></li>
+<li><a href="/wiki/Repentance" title="Repentance">Repentance</a></li>
+<li><a href="/wiki/Reverence_(emotion)" title="Reverence (emotion)">Reverence</a></li>
+<li><a href="/wiki/Rights" title="Rights">Rights</a></li>
+<li><a href="/wiki/Human_sexuality" title="Human sexuality">Sexuality</a> (<a href="/wiki/Sexual_ethics" title="Sexual ethics">ethics</a>)</li>
+<li><a href="/wiki/Sin" title="Sin">Sin</a></li>
+<li><a href="/wiki/Social_stigma" title="Social stigma">Social stigma</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Style_(visual_arts)" title="Style (visual arts)">Styles</a></li>
+<li><a href="/wiki/Sublime_(philosophy)" title="Sublime (philosophy)">Sublime, The</a></li>
+<li><a href="/wiki/Suffering" title="Suffering">Suffering</a></li>
+<li><a href="/wiki/Sympathy" title="Sympathy">Sympathy</a></li>
+<li><a href="/wiki/Taboo" title="Taboo">Taboo</a></li>
+<li><a href="/wiki/Taste_(sociology)" title="Taste (sociology)">Taste</a></li>
+<li><a href="/wiki/Theodicy" title="Theodicy">Theodicy</a></li>
+<li><a href="/wiki/Trust_(social_sciences)" class="mw-redirect" title="Trust (social sciences)">Trust</a></li>
+<li><a href="/wiki/Unspoken_rule" title="Unspoken rule">Unspoken rules</a></li>
+<li><a href="/wiki/Virtue" title="Virtue">Virtues</a> &amp; <a href="/wiki/Vice" title="Vice">Vices</a></li>
+<li><a href="/wiki/Work_of_art" title="Work of art">Works of art</a></li>
+<li><a href="/wiki/Wrongdoing" title="Wrongdoing">Wrongdoing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Examples" style="font-size:114%;margin:0 4em">Examples</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:15em"><a href="/wiki/Attitude_(psychology)" title="Attitude (psychology)">Attitudes</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nihilism" title="Nihilism">Nihilism</a></li>
+<li><a href="/wiki/Optimism" title="Optimism">Optimism</a></li>
+<li><a href="/wiki/Pessimism" title="Pessimism">Pessimism</a></li>
+<li><a href="/wiki/Recluse" title="Recluse">Reclusion</a></li>
+<li><a href="/wiki/Weltschmerz" title="Weltschmerz">Weltschmerz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em">Economic &amp; political <a href="/wiki/Ideology" title="Ideology">ideologies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Authoritarianism" title="Authoritarianism">Authoritarianism</a></li>
+<li><a href="/wiki/Anarchism" title="Anarchism">Anarchism</a></li>
+<li><a href="/wiki/Capitalism" title="Capitalism">Capitalism</a></li>
+<li><a href="/wiki/Christian_democracy" title="Christian democracy">Christian democracy</a></li>
+<li><a href="/wiki/Collectivism" title="Collectivism">Collectivism</a></li>
+<li><a href="/wiki/Colonialism" title="Colonialism">Colonialism</a></li>
+<li><a href="/wiki/Communalism" title="Communalism">Communalism</a></li>
+<li><a href="/wiki/Communism" title="Communism">Communism</a></li>
+<li><a href="/wiki/Communitarianism" title="Communitarianism">Communitarianism</a></li>
+<li><a href="/wiki/Conservatism" title="Conservatism">Conservatism</a></li>
+<li><a href="/wiki/Constitutionalism" title="Constitutionalism">Constitutionalism</a></li>
+<li><a href="/wiki/Distributism" title="Distributism">Distributism</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Extremism" title="Extremism">Extremism</a></li>
+<li><a href="/wiki/Fanaticism" title="Fanaticism">Fanaticism</a></li>
+<li><a href="/wiki/Fascism" title="Fascism">Fascism</a></li>
+<li><a href="/wiki/Feminism" title="Feminism">Feminism</a></li>
+<li><a href="/wiki/Fundamentalism" title="Fundamentalism">Fundamentalism</a></li>
+<li><a href="/wiki/Globalism" title="Globalism">Globalism</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Imperialism" title="Imperialism">Imperialism</a></li>
+<li><a href="/wiki/Individualism" title="Individualism">Individualism</a></li>
+<li><a href="/wiki/Industrialism" class="mw-redirect" title="Industrialism">Industrialism</a></li>
+<li><a href="/wiki/Intellectualism" title="Intellectualism">Intellectualism</a></li>
+<li><a href="/wiki/Islamism" title="Islamism">Islamism</a></li>
+<li><a href="/wiki/Liberalism" title="Liberalism">Liberalism</a></li>
+<li><a href="/wiki/Libertarianism" title="Libertarianism">Libertarianism</a></li>
+<li><a href="/wiki/Masculism" title="Masculism">Masculism</a></li>
+<li><a href="/wiki/Militarism" title="Militarism">Militarism</a></li>
+<li><a href="/wiki/Monarchism" title="Monarchism">Monarchism</a></li>
+<li><a href="/wiki/Nationalism" title="Nationalism">Nationalism</a></li>
+<li><a href="/wiki/Pacifism" title="Pacifism">Pacifism</a></li>
+<li><a href="/wiki/Progressivism" title="Progressivism">Progressivism</a></li>
+<li><a href="/wiki/Political_radicalism" title="Political radicalism">Radicalism</a></li>
+<li><a href="/wiki/Reformism" title="Reformism">Reformism</a></li>
+<li><a href="/wiki/Republicanism" title="Republicanism">Republicanism</a></li>
+<li><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a></li>
+<li><a href="/wiki/Socialism" title="Socialism">Socialism</a></li>
+<li><a href="/wiki/Utilitarianism" title="Utilitarianism">Utilitarianism</a></li>
+<li><a href="/wiki/Veganism" title="Veganism">Veganism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em"><a href="/wiki/Religion" title="Religion">Religions</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/African_traditional_religions" class="mw-redirect" title="African traditional religions">African traditional religions</a></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD" class="mw-redirect" title="Bahá'í">Bahá'í</a></li>
+<li><a href="/wiki/Buddhism" title="Buddhism">Buddhism</a></li>
+<li><a href="/wiki/Cao_Dai" class="mw-redirect" title="Cao Dai">Cao Dai</a></li>
+<li><a href="/wiki/Cheondoism" title="Cheondoism">Cheondoism</a></li>
+<li><a href="/wiki/Chinese_traditional_religion" class="mw-redirect" title="Chinese traditional religion">Chinese traditional religions</a></li>
+<li><a href="/wiki/Christianity" title="Christianity">Christianity</a></li>
+<li><a href="/wiki/Ethnic_religion" title="Ethnic religion">Ethnic religions</a></li>
+<li><a href="/wiki/H%C3%B2a_H%E1%BA%A3o" title="Hòa Hảo">Hòa Hảo</a></li>
+<li><a href="/wiki/Hinduism" title="Hinduism">Hinduism</a></li>
+<li><a href="/wiki/Islam" title="Islam">Islam</a></li>
+<li><a href="/wiki/Jainism" title="Jainism">Jainism</a></li>
+<li><a href="/wiki/Judaism" title="Judaism">Judaism</a></li>
+<li><a href="/wiki/Korean_shamanism" title="Korean shamanism">Korean shamanism</a></li>
+<li><a href="/wiki/Neo-Paganism" class="mw-redirect" title="Neo-Paganism">Neo-Paganism</a></li>
+<li><a href="/wiki/Rastafarianism" class="mw-redirect" title="Rastafarianism">Rastafarianism</a></li>
+<li><a href="/wiki/Secular" class="mw-redirect" title="Secular">Secular</a>/<a href="/wiki/Nonreligious" class="mw-redirect" title="Nonreligious">Nonreligious</a>/<a href="/wiki/Agnostic" class="mw-redirect" title="Agnostic">Agnostic</a>/<a href="/wiki/Atheist" class="mw-redirect" title="Atheist">Atheist</a></li>
+<li><a href="/wiki/Shinto" title="Shinto">Shinto</a></li>
+<li><a href="/wiki/Sikhism" title="Sikhism">Sikhism</a></li>
+<li><a href="/wiki/Spiritism" title="Spiritism">Spiritism</a></li>
+<li><a href="/wiki/Taoism" title="Taoism">Taoism</a></li>
+<li><a href="/wiki/Tenrikyo" title="Tenrikyo">Tenrikyo</a></li>
+<li><a href="/wiki/Tenriism" class="mw-redirect" title="Tenriism">Tenriism</a></li>
+<li><a href="/wiki/Unitarian_Universalism" title="Unitarian Universalism">Unitarian Universalism</a></li>
+<li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em">Schools of <a href="/wiki/Philosophy" title="Philosophy">philosophy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agriculturalism" title="Agriculturalism">Agriculturalism</a></li>
+<li><a href="/wiki/Aristotelianism" title="Aristotelianism">Aristotelianism</a></li>
+<li><a href="/wiki/Atomism" title="Atomism">Atomism</a></li>
+<li><a href="/wiki/Averroism" title="Averroism">Averroism</a></li>
+<li><a href="/wiki/Cartesianism" title="Cartesianism">Cartesianism</a></li>
+<li><a href="/wiki/Charvaka" title="Charvaka">Cārvāka</a></li>
+<li><a href="/wiki/Collectivism" title="Collectivism">Collectivism</a></li>
+<li><a href="/wiki/Confucianism" title="Confucianism">Confucianism</a>/<a href="/wiki/New_Confucianism" title="New Confucianism">New Confucianism</a></li>
+<li><a href="/wiki/Critical_theory" title="Critical theory">Critical theory</a></li>
+<li><a href="/wiki/Cynicism_(philosophy)" title="Cynicism (philosophy)">Cynicism</a></li>
+<li><a href="/wiki/Cyrenaics" title="Cyrenaics">Cyrenaics</a></li>
+<li><a href="/wiki/Determinism" title="Determinism">Determinism</a></li>
+<li><a href="/wiki/Dualism" title="Dualism">Dualism</a></li>
+<li><a href="/wiki/Eleatics" title="Eleatics">Eleatics</a></li>
+<li><a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><a href="/wiki/Eretrian_school" title="Eretrian school">Eretrian school</a></li>
+<li><a href="/wiki/Epicureanism" title="Epicureanism">Epicureanism</a></li>
+<li><a href="/wiki/Existentialism" title="Existentialism">Existentialism</a></li>
+<li><a href="/wiki/Foundationalism" title="Foundationalism">Foundationalism</a></li>
+<li><a href="/wiki/Hedonism" title="Hedonism">Hedonism</a></li>
+<li><a href="/wiki/Hegelianism" title="Hegelianism">Hegelianism</a></li>
+<li><a href="/wiki/Hermeneutics" title="Hermeneutics">Hermeneutics</a></li>
+<li><a href="/wiki/Historicism" title="Historicism">Historicism</a>/<a href="/wiki/New_Historicism" title="New Historicism">New Historicism</a></li>
+<li><a href="/wiki/Holism" title="Holism">Holism</a></li>
+<li><a href="/wiki/Humanism" title="Humanism">Humanism</a>/<a href="/wiki/Renaissance_humanism" title="Renaissance humanism">Renaissance humanism</a></li>
+<li><a href="/wiki/Illuminationism" title="Illuminationism">Illuminationism</a></li>
+<li><a href="/wiki/Kalam" title="Kalam">ʿIlm al-Kalām</a></li>
+<li><a href="/wiki/Idealism" title="Idealism">Idealism</a></li>
+<li><a href="/wiki/Individualism" title="Individualism">Individualism</a></li>
+<li><a href="/wiki/Ionian_School_(philosophy)" title="Ionian School (philosophy)">Ionian</a></li>
+<li><a href="/wiki/Kantianism" title="Kantianism">Kantianism</a>/<a href="/wiki/Neo-Kantianism" title="Neo-Kantianism">Neo-Kantianism</a></li>
+<li><a href="/wiki/Kokugaku" title="Kokugaku">Kokugaku</a></li>
+<li><a href="/wiki/Legalism_(Chinese_philosophy)" title="Legalism (Chinese philosophy)">Legalism</a></li>
+<li><a href="/wiki/School_of_Names" title="School of Names">Logicians</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Mohism" title="Mohism">Mohism</a></li>
+<li><a href="/wiki/Megarian_school" title="Megarian school">Megarian school</a></li>
+<li><a href="/wiki/Modernism" title="Modernism">Modernism</a>/<a href="/wiki/Postmodernism" title="Postmodernism">Postmodernism</a></li>
+<li><a href="/wiki/Monism" title="Monism">Monism</a></li>
+<li><a href="/wiki/Natural_Law" class="mw-redirect" title="Natural Law">Natural Law</a></li>
+<li><a href="/wiki/School_of_Naturalists" title="School of Naturalists">Naturalism (Chinese)</a></li>
+<li><a href="/wiki/Naturalism_(philosophy)" title="Naturalism (philosophy)">Naturalism (western)</a></li>
+<li><a href="/wiki/Nihilism" title="Nihilism">Nihilism</a></li>
+<li><a href="/wiki/Peripatetic_school" title="Peripatetic school">Peripatetic</a></li>
+<li><a href="/wiki/Phenomenology_(philosophy)" title="Phenomenology (philosophy)">Phenomenology</a></li>
+<li><a href="/wiki/Platonism" title="Platonism">Platonism</a>/<a href="/wiki/Neoplatonism" title="Neoplatonism">Neoplatonism</a></li>
+<li><a href="/wiki/Pluralist_school" title="Pluralist school">Pluralism</a></li>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a></li>
+<li><a href="/wiki/Pragmatism" title="Pragmatism">Pragmatism</a></li>
+<li><a href="/wiki/Pre-Socratic_philosophy" title="Pre-Socratic philosophy">Presocratic</a></li>
+<li><a href="/wiki/Pyrrhonism" title="Pyrrhonism">Pyrrhonism</a></li>
+<li><a href="/wiki/Pythagoreanism" title="Pythagoreanism">Pythagoreanism</a>/<a href="/wiki/Neopythagoreanism" title="Neopythagoreanism">Neopythagoreanism</a></li>
+<li><a href="/wiki/Rationalism" title="Rationalism">Rationalism</a></li>
+<li><a href="/wiki/Reductionism" title="Reductionism">Reductionism</a></li>
+<li><a href="/wiki/Scholasticism" title="Scholasticism">Scholasticism</a>/<a href="/wiki/Neo-Scholasticism" title="Neo-Scholasticism">Neo-Scholasticism</a></li>
+<li><a href="/wiki/Social_constructionism" title="Social constructionism">Social constructionism</a></li>
+<li><a href="/wiki/Sophism" title="Sophism">Sophism</a></li>
+<li><a href="/wiki/Spinozism" title="Spinozism">Spinozism</a></li>
+<li><a href="/wiki/Stoicism" title="Stoicism">Stoicism</a></li>
+<li><a href="/wiki/Structuralism" title="Structuralism">Structuralism</a>/<a href="/wiki/Post-structuralism" title="Post-structuralism">Post-structuralism</a></li>
+<li><a href="/wiki/Thomism" title="Thomism">Thomism</a></li>
+<li><a href="/wiki/Transcendentalism" title="Transcendentalism">Transcendentalism</a></li>
+<li><a href="/wiki/Utilitarianism" title="Utilitarianism">Utilitarianism</a></li>
+<li><a href="/wiki/Yangism" title="Yangism">Yangism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1255
+Cached time: 20170315021108
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.187 seconds
+Preprocessor visited node count: 962/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 116063/2097152 bytes
+Template argument size: 15364/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.030/10.000 seconds
+Lua memory usage: 2.08 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  102.818      1 -total
+ 36.81%   37.844      1 Template:Reflist
+ 33.52%   34.464      1 Template:World_view
+ 31.40%   32.285      1 Template:Navbox_with_collapsible_groups
+ 25.44%   26.155      1 Template:Cite_book
+ 15.13%   15.560      1 Template:About
+  5.51%    5.661      2 Template:Navbox
+  4.18%    4.302      1 Template:Doi
+  2.06%    2.122      2 Template:Hide_in_print
+  0.97%    0.993      1 Template:Str_left
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:555650-0!*!0!!en!*!* and timestamp 20170315021108 and revision id 770202108
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Conceptual_framework&amp;oldid=770202108">https://en.wikipedia.org/w/index.php?title=Conceptual_framework&amp;oldid=770202108</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Research" title="Category:Research">Research</a></li><li><a href="/wiki/Category:Thought" title="Category:Thought">Thought</a></li><li><a href="/wiki/Category:Conceptual_models" title="Category:Conceptual models">Conceptual models</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Conceptual+framework" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Conceptual+framework" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Conceptual_framework"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Conceptual_framework"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Conceptual_framework" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Conceptual_framework&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Conceptual_framework&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Conceptual_framework" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Conceptual_framework" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Conceptual_framework&amp;oldid=770202108" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Conceptual_framework&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q13600188" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Conceptual_framework&amp;id=770202108" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Conceptual+framework">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Conceptual+framework&amp;returnto=Conceptual+framework&amp;oldid=770202108&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Conceptual_framework&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%83%D0%B0%D0%BB%D0%BD%D0%B0_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0" title="Концептуална рамка – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D8%B1%DA%86%D9%88%D8%A8_%D9%85%D9%81%D9%87%D9%88%D9%85%DB%8C" title="چارچوب مفهومی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cadre_conceptuel" title="Cadre conceptuel – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E8%B2%A1%E5%8B%99%E4%BC%9A%E8%A8%88%E3%81%AE%E6%A6%82%E5%BF%B5%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF" title="財務会計の概念フレームワーク – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Framework" title="Framework – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Teoreettinen_viitekehys" title="Teoreettinen viitekehys – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%A6%82%E5%BF%B5%E6%A1%86%E6%9E%B6" title="概念框架 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q13600188#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 March 2017, at 01:00.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Conceptual_framework&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.187","ppvisitednodes":{"value":962,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":116063,"limit":2097152},"templateargumentsize":{"value":15364,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  102.818      1 -total"," 36.81%   37.844      1 Template:Reflist"," 33.52%   34.464      1 Template:World_view"," 31.40%   32.285      1 Template:Navbox_with_collapsible_groups"," 25.44%   26.155      1 Template:Cite_book"," 15.13%   15.560      1 Template:About","  5.51%    5.661      2 Template:Navbox","  4.18%    4.302      1 Template:Doi","  2.06%    2.122      2 Template:Hide_in_print","  0.97%    0.993      1 Template:Str_left"]},"scribunto":{"limitreport-timeusage":{"value":"0.030","limit":"10.000"},"limitreport-memusage":{"value":2184131,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20170315021108","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":259,"wgHostname":"mw1255"});});</script>
+	</body>
+</html>

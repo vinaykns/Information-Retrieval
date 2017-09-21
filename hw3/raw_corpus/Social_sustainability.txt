@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Social sustainability - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Social_sustainability","wgTitle":"Social sustainability","wgCurRevisionId":762265372,"wgRevisionId":762265372,"wgArticleId":21578153,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Sustainable development","Human development"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Social_sustainability","wgRelevantArticleId":21578153,"wgRequestId":"WMR27ApAMEsAAIHFWnMAAABE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q594912","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/1200px-Sustainable_development.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Social_sustainability"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Social_sustainability&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Social_sustainability&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Social_sustainability"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Social_sustainability rootpage-Social_sustainability skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Social sustainability</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="float:right; clear:right; border: 1px solid #BBB; margin-left: 1em; margin-top: 1.2em; align: right auto 1em; padding:0.1em; background-color: #f4f6f7;">
+<tr style="background-color: white;">
+<td style="border: 1px solid lightgray;">
+<div class="center">
+<div class="floatnone">
+<div class="noresize" style="height: 153px; width: 240px; "><map name="ImageMap_1_59453054" id="ImageMap_1_59453054">
+<area href="/wiki/Environment_(biophysical)" shape="poly" coords="41,58,44,66,49,72,55,77,66,83,79,87,78,93,79,99,82,105,85,110,90,115,95,118,86,122,78,125,67,127,55,128,46,127,36,125,26,121,17,116,12,110,7,104,5,98,4,93,5,86,8,79,13,72,19,67,25,64,32,61" alt="Environment" title="Environment" />
+<area href="/wiki/Equity_(economics)" shape="poly" coords="97,66,100,68,103,70,105,73,108,75,110,79,111,83,113,86,120,84,125,82,131,79,136,76,140,72,143,69,146,64,149,58,145,57,139,56,127,56,119,57,113,59,106,61" alt="Equitable" title="Equitable" />
+<area href="/wiki/Sustainable_development" shape="poly" coords="96,66,99,69,101,71,104,73,107,77,110,81,111,86,107,87,103,87,96,88,91,88,85,87,80,86,82,83,83,78,86,75,89,72" alt="Sustainable" title="Sustainable" />
+<area href="/wiki/Social_ecology" shape="poly" coords="43,58,50,56,56,56,63,56,71,57,79,59,86,61,91,64,95,66,92,68,89,71,86,74,83,78,81,82,79,86,75,85,69,83,62,80,57,77,52,73,47,68,45,64" alt="Bearable (Social ecology)" title="Bearable (Social ecology)" />
+<area href="/wiki/Environmental_economics" shape="poly" coords="80,87,80,91,80,96,83,104,85,108,88,111,91,114,96,118,100,115,103,112,106,109,109,104,111,100,112,95,112,92,112,88,109,88,103,89,97,89,90,89,86,88" alt="Viable (Environmental economics)" title="Viable (Environmental economics)" />
+<area href="/wiki/Economics" shape="poly" coords="150,58,156,59,162,62,168,65,175,68,181,74,185,80,187,86,188,92,187,98,185,103,182,108,179,112,174,116,169,119,161,123,155,125,148,127,140,128,130,128,124,127,119,126,113,125,106,123,101,120,97,118,101,116,105,112,108,108,112,99,113,94,113,90,113,87,116,86,123,84,137,77,144,70" alt="Economic" title="Economic" />
+<area href="/wiki/Society" shape="poly" coords="42,56,42,52,43,44,46,38,51,32,57,26,65,23,73,20,84,17,93,16,106,16,114,18,125,21,134,26,138,30,143,34,146,38,149,44,150,49,150,53,150,57,141,56,136,55,123,56,111,58,101,62,96,65,92,62,84,59,77,57,69,56,60,55,60,55,60,55" alt="Social" title="Social" /></map><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/240px-Sustainable_development.svg.png" width="240" height="153" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/360px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/480px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" usemap="#ImageMap_1_59453054" />
+<div style="margin-left: 220px; margin-top: -20px; text-align: left;"><a href="/wiki/File:Sustainable_development.svg" title="About this image"><img alt="About this image" src="/w/extensions/ImageMap/desc-20.png?15600" style="border: none;" /></a></div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr style="font-size: 87%; line-height:134%">
+<td style="border: 0px;"><a href="/wiki/Venn_diagram" title="Venn diagram">Venn diagram</a> of sustainable development:<br />
+at the confluence of three constituent parts<sup id="cite_ref-Adams2006_1-0" class="reference"><a href="#cite_note-Adams2006-1">[1]</a></sup></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Circles_of_Sustainability_image_(assessment_-_Melbourne_2011).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Circles_of_Sustainability_image_%28assessment_-_Melbourne_2011%29.jpg/250px-Circles_of_Sustainability_image_%28assessment_-_Melbourne_2011%29.jpg" width="250" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Circles_of_Sustainability_image_%28assessment_-_Melbourne_2011%29.jpg/375px-Circles_of_Sustainability_image_%28assessment_-_Melbourne_2011%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Circles_of_Sustainability_image_%28assessment_-_Melbourne_2011%29.jpg/500px-Circles_of_Sustainability_image_%28assessment_-_Melbourne_2011%29.jpg 2x" data-file-width="1144" data-file-height="1037" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Circles_of_Sustainability_image_(assessment_-_Melbourne_2011).jpg" class="internal" title="Enlarge"></a></div>
+The four domains of social sustainability according to the <a href="/wiki/Circles_of_Sustainability" title="Circles of Sustainability">Circles of Sustainability</a> approach used by the <a href="/wiki/United_Nations_Global_Compact" title="United Nations Global Compact">United Nations</a><sup id="cite_ref-citiesprogramme.com_2-0" class="reference"><a href="#cite_note-citiesprogramme.com-2">[2]</a></sup></div>
+</div>
+</div>
+<p><b>Social sustainability</b> is the least defined and least understood of the different ways of approaching <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> and <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a>. Social sustainability has had considerably less attention in public dialogue than economic and environmental sustainability.</p>
+<p>There are several approaches to social sustainability. The first, which posits a triad of environmental sustainability, <a href="/w/index.php?title=Economic_sustainability&amp;action=edit&amp;redlink=1" class="new" title="Economic sustainability (page does not exist)">economic sustainability</a>, and social sustainability, is the most widely accepted as a model for addressing sustainability. The concept of "social sustainability" in this approach encompasses such topics as: <a href="/wiki/Social_equity" title="Social equity">social equity</a>, <a href="/wiki/Livability" class="mw-redirect" title="Livability">livability</a>, <a href="/wiki/Health_equity" title="Health equity">health equity</a>, <a href="/wiki/Community_development" title="Community development">community development</a>, <a href="/wiki/Social_capital" title="Social capital">social capital</a>, <a href="/wiki/Social_support" title="Social support">social support</a>, <a href="/wiki/Human_rights" title="Human rights">human rights</a>, <a href="/wiki/Labour_rights" class="mw-redirect" title="Labour rights">labour rights</a>, <a href="/wiki/Placemaking" title="Placemaking">placemaking</a>, <a href="/wiki/Social_responsibility" title="Social responsibility">social responsibility</a>, <a href="/wiki/Social_justice" title="Social justice">social justice</a>, <a href="/wiki/Cultural_competence" class="mw-redirect" title="Cultural competence">cultural competence</a>, community resilience, and human adaptation.</p>
+<p>A second, more recent, approach suggests that all of the domains of sustainability are social: including ecological, economic, political and cultural sustainability. These domains of social sustainability are all dependent upon the relationship between the social and the natural, with the "ecological domain" defined as human embeddedness in the environment. In these terms, social sustainability encompasses all human activities.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> It is not just relevant to the focussed intersection of economics, the environment and the social.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> (See the Venn diagram and the <a href="/wiki/Circles_of_Sustainability" title="Circles of Sustainability">Circles of Sustainability</a> diagram).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definitions"><span class="tocnumber">1</span> <span class="toctext">Definitions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Dimensions"><span class="tocnumber">2</span> <span class="toctext">Dimensions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Application_and_Verification"><span class="tocnumber">3</span> <span class="toctext">Application and Verification</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Notes"><span class="tocnumber">5.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#External_links"><span class="tocnumber">5.2</span> <span class="toctext">External links</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definitions">Definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_sustainability&amp;action=edit&amp;section=1" title="Edit section: Definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the Western Australia Council of Social Services (WACOSS)<a rel="nofollow" class="external autonumber" href="http://auspsa.anu.edu.au/proceedings/publications/Partridgepaper.pdf">[1]</a>: <i>"Social sustainability occurs when the formal and informal processes; systems; structures; and relationships actively support the capacity of current and future generations to create healthy and liveable communities. Socially sustainable communities are equitable, diverse, connected and democratic and provide a good quality of life."</i></p>
+<p>Another definition has been developed by <a rel="nofollow" class="external text" href="http://www.social-life.co/">Social Life</a>, a UK-based social enterprise specialising in place based innovation (originally set up by the <a href="/wiki/Young_Foundation" title="Young Foundation">Young Foundation</a>). For Social Life, social sustainability is "<i>a process for creating sustainable, successful places that promote wellbeing, by understanding what people need from the places they live and work. Social sustainability combines design of the physical realm with design of the social world – infrastructure to support social and cultural life, social amenities, systems for citizen engagement and space for people and places to evolve</i>."<sup id="cite_ref-social-life.co_5-0" class="reference"><a href="#cite_note-social-life.co-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Dimensions">Dimensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_sustainability&amp;action=edit&amp;section=2" title="Edit section: Dimensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Social Life have developed a <a rel="nofollow" class="external text" href="http://www.social-life.co/publication/Social-Sustainability/">framework for social sustainability</a> which has four dimensions: amenities and infrastructure, social and cultural life, voice and influence, and space to grow.<sup id="cite_ref-social-life.co_5-1" class="reference"><a href="#cite_note-social-life.co-5">[5]</a></sup></p>
+<p>Nobel Laureate <a href="/wiki/Amartya_Sen" title="Amartya Sen">Amartya Sen</a> gives the following dimensions for social sustainability <a rel="nofollow" class="external autonumber" href="http://integral-sustainability.net/wp-content/uploads/sas4-2-hodgson.pdf">[2]</a>:</p>
+<ul>
+<li><b>Equity</b> - the community provides equitable opportunities and outcomes for all its members, particularly the poorest and most vulnerable members of the community</li>
+<li><b>Diversity</b> - the community promotes and encourages diversity</li>
+<li><b>Interconnected/Social cohesions</b> - the community provides processes, systems and structures that promote connectedness within and outside the community at the formal, informal and institutional level</li>
+<li><b>Quality of life</b> - the community ensures that basic needs are met and fosters a good quality of life for all members at the individual, group and community level (e.g. health, housing, education, employment, safety)</li>
+<li><b>Democracy and governance</b> - the community provides democratic processes and open and accountable governance structures.</li>
+<li><b>Maturity</b> - the individual accept the responsibility of consistent growth and improvement through broader social attributes (e.g. communication styles, behavioural patterns, indirect education and philosophical explorations)</li>
+</ul>
+<p>Also we can speak of Sustainable Human Development that can be seen as development that promotes the capabilities of present people without compromising capabilities of future generations.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> In the human development paradigm, environment and natural resources should constitute a means of achieving better standards of living just as income represents a means of increasing social expenditure and, in the end, well-being.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>The different aspects of social sustainability are often considered in <a href="/wiki/Socially_responsible_investing" title="Socially responsible investing">socially responsible investing</a> (SRI). Social sustainability criteria that are commonly used by SRI funds and indexes to rate publicly traded companies include: community, diversity, employee relations, human rights, product safety, reporting, and governance structure.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<table class="vertical-navbox nowraplinks infobox" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em"><a href="/wiki/Wikipedia:LIBRARY" class="mw-redirect" title="Wikipedia:LIBRARY">Library resources</a> about<br />
+<b>Social sustainability</b>
+<hr /></td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left;">
+<ul>
+<li><a class="external text" href="//tools.wmflabs.org/ftl/cgi-bin/ftl?st=&amp;su=Sustainable+development--Social+aspects">Resources in your library</a></li>
+<li><a class="external text" href="//tools.wmflabs.org/ftl/cgi-bin/ftl?st=&amp;su=Sustainable+development--Social+aspects&amp;library=0CHOOSE0">Resources in other libraries</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Application_and_Verification">Application and Verification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_sustainability&amp;action=edit&amp;section=3" title="Edit section: Application and Verification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/United_Nations_Guiding_Principles_on_Business_and_Human_Rights" title="United Nations Guiding Principles on Business and Human Rights">UN Guiding Principles on Business and Human Rights</a> state that countries have the obligation to “respect, protect, and fulfill human rights and fundamental freedoms” and that business enterprises are required to comply with all applicable laws and respect human rights.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Both production and procurement of goods and services should be documented to verify satisfaction of these international principles and laws.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>The UN Guiding Principles also include a reporting framework,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> which teaches companies how to report their interaction with human rights issues. In addition resources like <a rel="nofollow" class="external text" href="http://www.free2work.org/">Free2Work</a>, the <a href="/wiki/Global_Reporting_Initiative" title="Global Reporting Initiative">Global Reporting Initiative</a>, and <a rel="nofollow" class="external text" href="http://business-humanrights.org/">Business and Human Rights Resource Centre</a> all provide information on organizational disclosures and performance in social sustainability.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Certifications from internationally recognized and accredited organizations are available to aid in verifying the social sustainability of products and services. The <a href="/wiki/Forest_Stewardship_Council" title="Forest Stewardship Council">Forest Stewardship Council</a> (paper and forest products), <a rel="nofollow" class="external text" href="http://www.cocoainitiative.org/en/">International Cocoa Initiative</a>, and <a href="/wiki/Kimberley_Process_Certification_Scheme" title="Kimberley Process Certification Scheme">Kimberly Process</a> (diamonds) are examples of such organizations and initiatives.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_sustainability&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Circles_of_Sustainability" title="Circles of Sustainability">Circles of Sustainability</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Sustainable business</a></li>
+<li><a href="/wiki/Socially_responsible_investing" title="Socially responsible investing">Socially responsible investing</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_sustainability&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Hicks, 1997 D.A. Hicks, The inequality-adjusted human development index: a constructive proposal, World Development 25 (8) (1997), pp.&#160;1283–1298.</li>
+<li>Hinterberger, F., et al. (1999) Sustainable Human Development Index. A suggestion for Greening the UN Indicator of Social and Economic Welfare, Wuppertal Institute, Wuppertal.</li>
+<li><cite class="citation journal">Magee, Liam, Andy Scerri, <a href="/wiki/Paul_James_(academic)" title="Paul James (academic)">Paul James</a>, James A. Thom, Lin Padgham, Sarah Hickmott, Hepu Deng, Felicity Cahill (2013). <a rel="nofollow" class="external text" href="http://www.academia.edu/4362669/Reframing_Social_Sustainability_Reporting_Towards_an_Engaged_Approach">"Reframing social sustainability reporting: Towards an engaged approach"</a>. <i>Environment, Development and Sustainability</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.atitle=Reframing+social+sustainability+reporting%3A+Towards+an+engaged+approach&amp;rft.au=Magee%2C+Liam%2C+Andy+Scerri%2C+Paul+James%2C+James+A.+Thom%2C+Lin+Padgham%2C+Sarah+Hickmott%2C+Hepu+Deng%2C+Felicity+Cahill&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.academia.edu%2F4362669%2FReframing_Social_Sustainability_Reporting_Towards_an_Engaged_Approach&amp;rft.jtitle=Environment%2C+Development+and+Sustainability&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></li>
+<li><cite class="citation journal">Magee, Liam; <a href="/wiki/Paul_James_(academic)" title="Paul James (academic)">James, Paul</a>; Scerri, Andy (2012). <a rel="nofollow" class="external text" href="http://www.academia.edu/5178539/Measuring_Social_Sustainability_A_Community-Centred_Approach">"Measuring Social Sustainability: A Community-Centred Approach"</a>. <i>Applied Research in the Quality of Life</i>. <b>7</b> (3): 239–61.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.atitle=Measuring+Social+Sustainability%3A+A+Community-Centred+Approach&amp;rft.aufirst=Liam&amp;rft.au=James%2C+Paul&amp;rft.aulast=Magee&amp;rft.au=Scerri%2C+Andy&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.academia.edu%2F5178539%2FMeasuring_Social_Sustainability_A_Community-Centred_Approach&amp;rft.issue=3&amp;rft.jtitle=Applied+Research+in+the+Quality+of+Life&amp;rft.pages=239-61&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Woodcraft, S., et al. (2012) Design for Social Sustainability, Social Life, London.</li>
+<li>Partridge, E. (2005)‘Social sustainability’: a useful theoretical framework? Paper presented at the Australasian Political Science Association Annual Conference 2005, Dunedin, New Zealand, 28–30 September 2005</li>
+<li><cite class="citation journal">Dugarova, Esuna; et al. (2014). <a rel="nofollow" class="external text" href="http://www.unrisd.org/80256B3C005BCCF9/search/BC60903DE0BEA0B8C1257C78004C8415?OpenDocument">"Social Drivers of Sustainable Development"</a>. UNRISD, Geneva.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.atitle=Social+Drivers+of+Sustainable+Development&amp;rft.au=Dugarova%2C+Esuna&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.unrisd.org%2F80256B3C005BCCF9%2Fsearch%2FBC60903DE0BEA0B8C1257C78004C8415%3FOpenDocument&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>United Nations Development Programme (various years) Human Development Report, Oxford University Press, Oxford.</li>
+<li>World Bank (1992) World Development Report 1992: Development and the Environment, Oxford University Press, New York.</li>
+<li>World Commission on Environment and Development (1987) Our Common Future, Oxford University Press, Great Britain.</li>
+<li>World Economic Forum (2002) Environmental Sustainability Index, Columbia University <a rel="nofollow" class="external autonumber" href="http://www.ciesin.columbia.edu/indicators/ESI">[3]</a>.</li>
+</ul>
+<p><sup id="cite_ref-Basic_Concepts_of_Social_Sustainability_15-0" class="reference"><a href="#cite_note-Basic_Concepts_of_Social_Sustainability-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_sustainability&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Adams2006-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Adams2006_1-0">^</a></b></span> <span class="reference-text">Adams, W.M. (2006). <a rel="nofollow" class="external text" href="http://cmsdata.iucn.org/downloads/iucn_future_of_sustanability.pdf">"The Future of Sustainability: Re-thinking Environment and Development in the Twenty-first Century."</a> Report of the IUCN Renowned Thinkers Meeting, 29–31 January 2006. Retrieved on: 2009-02-16.</span></li>
+<li id="cite_note-citiesprogramme.com-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-citiesprogramme.com_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://citiesprogramme.com/archives/resource/circles-of-sustainability-urban-profile-process">http://citiesprogramme.com/archives/resource/circles-of-sustainability-urban-profile-process</a> <cite class="citation journal">Liam Magee; Andy Scerri; Paul James; James A. Thom; Lin Padgham; Sarah Hickmott; Hepu Deng; Felicity Cahill (2013). <a rel="nofollow" class="external text" href="http://www.academia.edu/4362669/Reframing_Social_Sustainability_Reporting_Towards_an_Engaged_Approach">"Reframing social sustainability reporting: Towards an engaged approach"</a>. <i>Environment, Development and Sustainability</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.atitle=Reframing+social+sustainability+reporting%3A+Towards+an+engaged+approach&amp;rft.au=Andy+Scerri&amp;rft.au=Felicity+Cahill&amp;rft.au=Hepu+Deng&amp;rft.au=James+A.+Thom&amp;rft.au=Liam+Magee&amp;rft.au=Lin+Padgham&amp;rft.au=Paul+James&amp;rft.au=Sarah+Hickmott&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.academia.edu%2F4362669%2FReframing_Social_Sustainability_Reporting_Towards_an_Engaged_Approach&amp;rft.jtitle=Environment%2C+Development+and+Sustainability&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Paul_James_(academic)" title="Paul James (academic)">James, Paul</a>; with Magee, Liam; Scerri, Andy; Steger, Manfred B. (2015). <a rel="nofollow" class="external text" href="http://www.academia.edu/9294719/Urban_Sustainability_in_Theory_and_Practice_Circles_of_Sustainability_2015_"><i>Urban Sustainability in Theory and Practice: Circles of Sustainability</i></a>. London: Routledge.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.aufirst=Paul&amp;rft.aulast=James&amp;rft.au=Scerri%2C+Andy&amp;rft.au=Steger%2C+Manfred+B.&amp;rft.au=with+Magee%2C+Liam&amp;rft.btitle=Urban+Sustainability+in+Theory+and+Practice%3A+Circles+of+Sustainability&amp;rft.date=2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.academia.edu%2F9294719%2FUrban_Sustainability_in_Theory_and_Practice_Circles_of_Sustainability_2015_&amp;rft.place=London&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Liam Magee; Andy Scerri; Paul James; James A. Thom; Lin Padgham; Sarah Hickmott; Hepu Deng; Felicity Cahill (2013). <a rel="nofollow" class="external text" href="http://www.academia.edu/4362669/Reframing_Social_Sustainability_Reporting_Towards_an_Engaged_Approach">"Reframing social sustainability reporting: Towards an engaged approach"</a>. <i>Environment, Development and Sustainability</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.atitle=Reframing+social+sustainability+reporting%3A+Towards+an+engaged+approach&amp;rft.au=Andy+Scerri&amp;rft.au=Felicity+Cahill&amp;rft.au=Hepu+Deng&amp;rft.au=James+A.+Thom&amp;rft.au=Liam+Magee&amp;rft.au=Lin+Padgham&amp;rft.au=Paul+James&amp;rft.au=Sarah+Hickmott&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.academia.edu%2F4362669%2FReframing_Social_Sustainability_Reporting_Towards_an_Engaged_Approach&amp;rft.jtitle=Environment%2C+Development+and+Sustainability&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-social-life.co-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-social-life.co_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-social-life.co_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.social-life.co/media/files/DESIGN_FOR_SOCIAL_SUSTAINABILITY_3.pdf">S.Woodcraft et al (2011) Design for Social Sustainability, Social Life, London</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Sen, A.K. (2000) ‘The ends and means of sustainability’, keynote address at the International Conference on Transition to sustainability, Tokyo, May</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Anand, S. and Sen, A.K. (1996) ‘Sustainable human development: concepts and priorities’, Office of Development Studies Discussion Paper, No. 1, UNDP, New York</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">KLD Research. Environmental, Social and Governance Rating Criteria. 2007</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">The Combined Code on Corporate Governance, June 2008</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">United Nations Human Rights, Office of the Commissioner. <a rel="nofollow" class="external text" href="http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">"Guiding Principles on Business and Human Rights"</a> <span style="font-size:85%;">(PDF)</span>. United Nations, New York and Geneva<span class="reference-accessdate">. Retrieved <span class="nowrap">10 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.au=United+Nations+Human+Rights%2C+Office+of+the+Commissioner&amp;rft.btitle=Guiding+Principles+on+Business+and+Human+Rights&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ohchr.org%2FDocuments%2FPublications%2FGuidingPrinciplesBusinessHR_EN.pdf&amp;rft.pub=United+Nations%2C+New+York+and+Geneva&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://sftool.gov/plan/541/verifying-delivery-sustainable-products-services">"Verifying Delivery of Sustainable Products and Services - GSA Sustainable Facilities Tool"</a>. <i>sftool.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.atitle=Verifying+Delivery+of+Sustainable+Products+and+Services+-+GSA+Sustainable+Facilities+Tool&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fsftool.gov%2Fplan%2F541%2Fverifying-delivery-sustainable-products-services&amp;rft.jtitle=sftool.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ungpreporting.org/">"UN Guiding Principles Reporting Framework"</a>. <i>www.ungpreporting.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.atitle=UN+Guiding+Principles+Reporting+Framework&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ungpreporting.org%2F&amp;rft.jtitle=www.ungpreporting.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://sftool.gov/plan/545/social-sustainability">"Social Sustainability - GSA Sustainable Facilities Tool"</a>. <i>sftool.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.atitle=Social+Sustainability+-+GSA+Sustainable+Facilities+Tool&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fsftool.gov%2Fplan%2F545%2Fsocial-sustainability&amp;rft.jtitle=sftool.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://sftool.gov/plan/546/social-sustainability-initiatives-guidelines-standards">"Social Sustainability Initiatives, Guidelines, and Standards - GSA Sustainable Facilities Tool"</a>. <i>sftool.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.atitle=Social+Sustainability+Initiatives%2C+Guidelines%2C+and+Standards+-+GSA+Sustainable+Facilities+Tool&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fsftool.gov%2Fplan%2F546%2Fsocial-sustainability-initiatives-guidelines-standards&amp;rft.jtitle=sftool.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Basic_Concepts_of_Social_Sustainability-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Basic_Concepts_of_Social_Sustainability_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Raphael, Daniel. <a rel="nofollow" class="external text" href="https://www.dropbox.com/s/o89aonf6zo9bg0m/00%20BCOSS%20PUBLISHED.doc">"PhD"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+sustainability&amp;rft.aufirst=Daniel&amp;rft.aulast=Raphael&amp;rft.btitle=PhD&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fo89aonf6zo9bg0m%2F00%2520BCOSS%2520PUBLISHED.doc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_sustainability&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://host.uniroma3.it/dipartimenti/economia/pdf/WP41.pdf">Costantini, V., Monni, S., (2004) "Measuring Human and Sustainable Development: An integrated approach for European Countries", Working paper n. 41, Department of Economics, Roma Tre University,</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.circlesofsustainability.org/">Circles of Sustainability</a> - website for the <a href="/wiki/Circles_of_Sustainability" title="Circles of Sustainability">Circles of Sustainability</a> approach</li>
+<li><a rel="nofollow" class="external text" href="http://www.pitt.edu/~super1/lecture/lec1131/index.htm">Sustainable Human Development - University of Pittsburgh</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.undp.org/">UNDP</a></li>
+<li><a rel="nofollow" class="external text" href="http://hurilink.org/tools/UNDP_integrating_hr.pdf">UNDP, Integrating human rights with sustainable human development, "A UNDP policy document"</a></li>
+<li><a rel="nofollow" class="external text" href="http://sedici.unlp.edu.ar/handle/10915/36495">Unplanned Urban Growth and its Effect on the Sustainability</a> Discoli, Carlos; Martini, Irene. Scientific &amp; Academic Publishing - Resources and Environment; vol. 2, no. 3. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:2163-2618">2163-2618</a>.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Sustainability" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sustainability" style="font-size:114%"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><strong class="selflink">Social sustainability</strong></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Population" title="Population">Population</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a href="/wiki/Human_population_control" class="mw-redirect" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Food</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Water</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Water_crisis" class="mw-redirect" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" class="mw-redirect" title="Water footprint">Footprint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Accountability</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Education_for_Sustainable_Development" class="mw-redirect" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a href="/wiki/Sustainable_market" class="mw-redirect" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a href="/wiki/Sustainability_practices_in_organizations" class="mw-redirect" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a href="/wiki/Sustainable_urban_drainage_systems" class="mw-redirect" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Management</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Agreements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Simple_living" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Simple_living" title="Template:Simple living"><abbr title="View this template" style="text-align:center;;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Simple_living" title="Template talk:Simple living"><abbr title="Discuss this template" style="text-align:center;;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Simple_living&amp;action=edit"><abbr title="Edit this template" style="text-align:center;;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Simple_living" style="font-size:114%"><a href="/wiki/Simple_living" title="Simple living">Simple living</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Practices</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barter" title="Barter">Barter</a></li>
+<li><a href="/wiki/DIY_ethic" title="DIY ethic">DIY ethic</a></li>
+<li><a href="/wiki/Downshifting" title="Downshifting">Downshifting</a></li>
+<li><a href="/wiki/Dry_toilet" title="Dry toilet">Dry toilet</a></li>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Freeganism" title="Freeganism">Freeganism</a></li>
+<li><a href="/wiki/Frugality" title="Frugality">Frugality</a></li>
+<li><a href="/wiki/Gift_economy" title="Gift economy">Gift economy</a></li>
+<li><a href="/wiki/Intentional_community" title="Intentional community">Intentional community</a></li>
+<li><a href="/wiki/Local_currency" title="Local currency">Local currency</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a href="/wiki/Minimalism" title="Minimalism">Minimalism</a></li>
+<li><a href="/wiki/No_frills" title="No frills">No frills</a></li>
+<li><a href="/wiki/Off-the-grid" title="Off-the-grid">Off-the-grid</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Self-sufficiency" title="Self-sufficiency">Self-sufficiency</a></li>
+<li><a href="/wiki/Subsistence_agriculture" title="Subsistence agriculture">Subsistence agriculture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Sustainable living</a></li>
+<li><a href="/wiki/Sustainable_sanitation" title="Sustainable sanitation">Sustainable sanitation</a></li>
+<li><a href="/wiki/Veganism" title="Veganism">Veganism</a></li>
+<li><a href="/wiki/Vegetarianism" title="Vegetarianism">Vegetarianism</a></li>
+<li><a href="/wiki/Tax_resistance" title="Tax resistance">War tax resistance</a></li>
+<li><a href="/wiki/WWOOF" title="WWOOF">WWOOF</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Religious and spiritual</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asceticism" title="Asceticism">Asceticism</a></li>
+<li><a href="/wiki/Aparigraha" title="Aparigraha">Aparigraha</a></li>
+<li><a href="/wiki/Cynicism_(philosophy)" title="Cynicism (philosophy)">Cynicism</a></li>
+<li><a href="/wiki/Detachment_(philosophy)" title="Detachment (philosophy)">Detachment</a></li>
+<li><a href="/wiki/Distributism" title="Distributism">Distributism</a></li>
+<li><a href="/wiki/Jesus_movement" title="Jesus movement">Jesus movement</a></li>
+<li><a href="/wiki/Mendicant" title="Mendicant">Mendicant</a></li>
+<li><a href="/wiki/Sati_(Buddhism)" title="Sati (Buddhism)">Mindfulness</a></li>
+<li><a href="/wiki/Monasticism" title="Monasticism">Monasticism</a></li>
+<li><a href="/wiki/New_Monasticism" title="New Monasticism">New Monasticism</a></li>
+<li><a href="/wiki/Plain_dress" title="Plain dress">Plain dress</a></li>
+<li><a href="/wiki/Plain_people" title="Plain people">Plain people</a></li>
+<li><a href="/wiki/Quakers" title="Quakers">Quakers</a></li>
+<li><a href="/wiki/Rastafari" title="Rastafari">Rastafari</a></li>
+<li><a href="/wiki/Temperance_(virtue)" title="Temperance (virtue)">Temperance</a></li>
+<li><a href="/wiki/Testimony_of_Simplicity" title="Testimony of Simplicity">Testimony of simplicity</a></li>
+<li><a href="/wiki/Tolstoyan_movement" title="Tolstoyan movement">Tolstoyan movement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Secular movements</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Back-to-the-land_movement" title="Back-to-the-land movement">Back-to-the-land</a></li>
+<li><a href="/wiki/Car-free_movement" title="Car-free movement">Car-free</a></li>
+<li><a href="/wiki/Movement_for_Compassionate_Living" title="Movement for Compassionate Living">Compassionate living</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental</a></li>
+<li><a href="/wiki/Hippie" title="Hippie">Hippie</a></li>
+<li><a href="/wiki/Slow_movement_(culture)" title="Slow movement (culture)">Slow</a></li>
+<li><a href="/wiki/Small_house_movement" class="mw-redirect" title="Small house movement">Small house</a></li>
+<li><a href="/wiki/Transition_town" title="Transition town">Transition town</a></li>
+<li><a href="/wiki/Open_Source_Ecology" title="Open Source Ecology">Open Source Ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Notable writers</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wendell_Berry" title="Wendell Berry">Wendell Berry</a></li>
+<li><a href="/wiki/Ernest_Callenbach" title="Ernest Callenbach">Ernest Callenbach</a></li>
+<li><a href="/wiki/G._K._Chesterton" title="G. K. Chesterton">G. K. Chesterton</a></li>
+<li><a href="/wiki/Duane_Elgin" title="Duane Elgin">Duane Elgin</a></li>
+<li><a href="/wiki/Mahatma_Gandhi" title="Mahatma Gandhi">Mahatma Gandhi</a></li>
+<li><a href="/wiki/Richard_Gregg_(social_philosopher)" title="Richard Gregg (social philosopher)">Richard Gregg</a></li>
+<li><a href="/wiki/Tom_Hodgkinson" title="Tom Hodgkinson">Tom Hodgkinson</a></li>
+<li><a href="/wiki/Harlan_Hubbard" title="Harlan Hubbard">Harlan Hubbard</a></li>
+<li><a href="/wiki/Satish_Kumar" title="Satish Kumar">Satish Kumar</a></li>
+<li><a href="/wiki/Helen_Nearing" title="Helen Nearing">Helen Nearing</a></li>
+<li><a href="/wiki/Scott_Nearing" title="Scott Nearing">Scott Nearing</a></li>
+<li><a href="/wiki/Peace_Pilgrim" title="Peace Pilgrim">Peace Pilgrim</a></li>
+<li><a href="/w/index.php?title=Vicki_Robin&amp;action=edit&amp;redlink=1" class="new" title="Vicki Robin (page does not exist)">Vicki Robin</a></li>
+<li><a href="/wiki/Nick_Rosen" title="Nick Rosen">Nick Rosen</a></li>
+<li><a href="/wiki/Dugald_Semple" title="Dugald Semple">Dugald Semple</a></li>
+<li><a href="/wiki/E._F._Schumacher" title="E. F. Schumacher">E. F. Schumacher</a></li>
+<li><a href="/wiki/Henry_David_Thoreau" title="Henry David Thoreau">Henry David Thoreau</a></li>
+<li><a href="/wiki/Leo_Tolstoy" title="Leo Tolstoy">Leo Tolstoy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Modern-day adherents</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mark_Boyle_(Moneyless_Man)" title="Mark Boyle (Moneyless Man)">Mark Boyle</a></li>
+<li><a href="/wiki/Jim_Merkel" title="Jim Merkel">Jim Merkel</a></li>
+<li><a href="/wiki/Suelo" title="Suelo">Suelo</a></li>
+<li><a href="/wiki/Thomas_(activist)" title="Thomas (activist)">Thomas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Media</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>"<a href="/wiki/Anekdote_zur_Senkung_der_Arbeitsmoral" title="Anekdote zur Senkung der Arbeitsmoral">Anekdote zur Senkung der Arbeitsmoral</a>"</li>
+<li><i><a href="/wiki/Escape_from_Affluenza" title="Escape from Affluenza">Escape from Affluenza</a></i></li>
+<li><i><a href="/wiki/The_Good_Life_(1975_TV_series)" title="The Good Life (1975 TV series)">The Good Life</a></i></li>
+<li><i><a href="/wiki/The_Moon_and_the_Sledgehammer" title="The Moon and the Sledgehammer">The Moon and the Sledgehammer</a></i></li>
+<li><i><a href="/wiki/Mother_Earth_News" title="Mother Earth News">Mother Earth News</a></i></li>
+<li><i><a href="/wiki/The_Power_of_Half" title="The Power of Half">The Power of Half</a></i></li>
+<li><i><a href="/wiki/Small_Is_Beautiful" title="Small Is Beautiful">Small Is Beautiful</a></i></li>
+<li><i><a href="/wiki/Walden" title="Walden">Walden</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Affluenza" title="Affluenza">Affluenza</a></li>
+<li><a href="/wiki/Agrarianism" title="Agrarianism">Agrarianism</a></li>
+<li><a href="/wiki/Anarcho-primitivism" title="Anarcho-primitivism">Anarcho-primitivism</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a></li>
+<li><a href="/wiki/Bohemianism" title="Bohemianism">Bohemianism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Degrowth" title="Degrowth">Degrowth</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Food_miles" title="Food miles">Food miles</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/The_good_life" title="The good life">The good life</a></li>
+<li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li>
+<li><a href="/wiki/Hedonophobia" title="Hedonophobia">Hedonophobia</a></li>
+<li><a href="/wiki/Intentional_living" title="Intentional living">Intentional living</a></li>
+<li><a href="/wiki/Itinerant_groups_in_Europe" title="Itinerant groups in Europe">Itinerant</a></li>
+<li><a href="/wiki/Low-technology" class="mw-redirect" title="Low-technology">Low-technology</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Work%E2%80%93life_balance" title="Work–life balance">Work–life balance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1301
+Cached time: 20170311220819
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.184 seconds
+Real time usage: 0.220 seconds
+Preprocessor visited node count: 969/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 68862/2097152 bytes
+Template argument size: 725/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 3.54 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  151.688      1 -total
+ 28.44%   43.134      1 Template:Reflist
+ 26.54%   40.254      5 Template:Cite_journal
+ 14.36%   21.779      1 Template:Library_resources_box
+ 12.32%   18.685      6 Template:Cite_web
+ 11.98%   18.169      2 Template:Navbox
+  9.90%   15.010      1 Template:Sustainability
+  5.99%    9.089      1 Template:ISSN
+  4.89%    7.412      1 Template:Pillars_of_sustainability
+  4.61%    6.987      1 Template:Simple_living
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21578153-0!*!*!!en!4!* and timestamp 20170311220819 and revision id 762265372
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Social_sustainability&amp;oldid=762265372">https://en.wikipedia.org/w/index.php?title=Social_sustainability&amp;oldid=762265372</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sustainable_development" title="Category:Sustainable development">Sustainable development</a></li><li><a href="/wiki/Category:Human_development" title="Category:Human development">Human development</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Social+sustainability" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Social+sustainability" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Social_sustainability"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Social_sustainability"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Social_sustainability" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Social_sustainability&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Social_sustainability&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Social_sustainability" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Social_sustainability" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Social_sustainability&amp;oldid=762265372" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Social_sustainability&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q594912" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Social_sustainability&amp;id=762265372" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Social+sustainability">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Social+sustainability&amp;returnto=Social+sustainability&amp;oldid=762265372&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Social_sustainability&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Soziale_Nachhaltigkeit" title="Soziale Nachhaltigkeit – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q594912#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 January 2017, at 18:37.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Social_sustainability&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.220","ppvisitednodes":{"value":969,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":68862,"limit":2097152},"templateargumentsize":{"value":725,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  151.688      1 -total"," 28.44%   43.134      1 Template:Reflist"," 26.54%   40.254      5 Template:Cite_journal"," 14.36%   21.779      1 Template:Library_resources_box"," 12.32%   18.685      6 Template:Cite_web"," 11.98%   18.169      2 Template:Navbox","  9.90%   15.010      1 Template:Sustainability","  5.99%    9.089      1 Template:ISSN","  4.89%    7.412      1 Template:Pillars_of_sustainability","  4.61%    6.987      1 Template:Simple_living"]},"scribunto":{"limitreport-timeusage":{"value":"0.069","limit":"10.000"},"limitreport-memusage":{"value":3707455,"limit":52428800}},"cachereport":{"origin":"mw1301","timestamp":"20170311220819","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":54,"wgHostname":"mw1240"});});</script>
+	</body>
+</html>

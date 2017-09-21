@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Gasification - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gasification","wgTitle":"Gasification","wgCurRevisionId":768256972,"wgRevisionId":768256972,"wgArticleId":262256,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from June 2014","Articles with unsourced statements from July 2011","Energy conversion","Power station technology","Thermal treatment","Waste treatment technology","Fuel gas","Gas technologies","Synthetic fuel technologies","Sustainable technologies","Pyrolysis","Industrial gases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gasification","wgRelevantArticleId":262256,"wgRequestId":"WMJPowpAMFkAAHNXnDsAAAFD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Biomass_gasification","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Gasification","wgWikibaseItemId":"Q646882","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/13/El-v-01_ubt.jpeg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gasification"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gasification&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Gasification&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Gasification"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gasification rootpage-Gasification skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Gasification</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Biomass_gasification&amp;redirect=no" class="mw-redirect" title="Biomass gasification">Biomass gasification</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the process. For the water carbonator, see <a href="/wiki/Gasogene" title="Gasogene">Gasogene</a>. For the automobile device, see <a href="/wiki/Wood_gas_generator" title="Wood gas generator">Wood gas generator</a>.</div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:18.0em;">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of a series about</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Sustainable_energy" title="Sustainable energy">Sustainable energy</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:El-v-01_ubt.jpeg" class="image" title="Wind turbines near Vendsyssel, Denmark (2004)"><img alt="Wind turbines near Vendsyssel, Denmark (2004)" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/180px-El-v-01_ubt.jpeg" width="180" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/270px-El-v-01_ubt.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/360px-El-v-01_ubt.jpeg 2x" data-file-width="588" data-file-height="245" /></a></td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#c8ffb8;"><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Green_building" title="Green building">Green building</a></li>
+<li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Heat pump</a></li>
+<li><a href="/wiki/Low-carbon_power" title="Low-carbon power">Low-carbon power</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#c8ffb8;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">Anaerobic digestion</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#c8ffb8;"><a href="/wiki/Sustainable_transport" title="Sustainable transport">Sustainable transport</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Electric_vehicle" title="Electric vehicle">Electric vehicle</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li>
+<li><a href="/wiki/Green_vehicle" title="Green vehicle">Green vehicle</a></li>
+<li><a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">Plug-in hybrid</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;padding-top:0;border-top:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;font-size:90%;white-space:nowrap;">
+<div style="height:1.5em;padding-left:0.4em;"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/16px-Sustainable_development.svg.png" width="16" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a> <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></div>
+<div style="padding-left:0.4em;">
+<ul>
+<li><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="Wind-turbine-icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/16px-Wind-turbine-icon.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/24px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/32px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></li>
+<li><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="Aegopodium podagraria1 ies.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/16px-Aegopodium_podagraria1_ies.jpg" width="16" height="14" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sustainable_energy" title="Template:Sustainable energy"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sustainable_energy" title="Template talk:Sustainable energy"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainable_energy&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Gasification</b> is a process that converts <a href="/wiki/Biomass" title="Biomass">organic</a> or <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuel</a> based <a href="/wiki/Carbonaceous" class="mw-redirect" title="Carbonaceous">carbonaceous</a> materials into <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a>, <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> and <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>. This is achieved by reacting the material at high temperatures (&gt;700&#160;°C), without combustion, with a controlled amount of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> and/or <a href="/wiki/Steam" title="Steam">steam</a>. The resulting gas mixture is called <a href="/wiki/Syngas" title="Syngas">syngas</a> (from synthesis gas) or <a href="/wiki/Producer_gas" title="Producer gas">producer gas</a> and is itself a fuel. The power derived from gasification and combustion of the resultant gas is considered to be a source of <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> if the gasified compounds were obtained from biomass.<sup id="cite_ref-nnfcc_1-0" class="reference"><a href="#cite_note-nnfcc-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>The advantage of gasification is that using the syngas is potentially more efficient than direct combustion of the original fuel because it can be combusted at higher temperatures or even in <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cells</a>, so that the thermodynamic upper limit to the efficiency defined by <a href="/wiki/Carnot%27s_rule" class="mw-redirect" title="Carnot's rule">Carnot's rule</a> is higher or (in case of fuel cells) not applicable. Syngas may be burned directly in <a href="/wiki/Internal_combustion_engines" class="mw-redirect" title="Internal combustion engines">gas engines</a>, used to produce <a href="/wiki/Methanol" title="Methanol">methanol</a> and hydrogen, or converted via the <a href="/wiki/Fischer%E2%80%93Tropsch_process" title="Fischer–Tropsch process">Fischer–Tropsch process</a> into <a href="/wiki/Synthetic_fuel" title="Synthetic fuel">synthetic fuel</a>. Gasification can also begin with material which would otherwise have been disposed of such as <a href="/wiki/Organic_waste" class="mw-redirect" title="Organic waste">biodegradable waste</a>. In addition, the high-temperature process refines out corrosive ash elements such as <a href="/wiki/Chloride" title="Chloride">chloride</a> and <a href="/wiki/Potassium" title="Potassium">potassium</a>, allowing clean gas production from otherwise problematic fuels. Gasification of fossil fuels is currently widely used on industrial scales to generate electricity.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Chemical_reactions"><span class="tocnumber">2</span> <span class="toctext">Chemical reactions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gasification_processes"><span class="tocnumber">3</span> <span class="toctext">Gasification processes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Counter-current_fixed_bed_.28.22up_draft.22.29_gasifier"><span class="tocnumber">3.1</span> <span class="toctext">Counter-current fixed bed ("up draft") gasifier</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Co-current_fixed_bed_.28.22down_draft.22.29_gasifier"><span class="tocnumber">3.2</span> <span class="toctext">Co-current fixed bed ("down draft") gasifier</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Fluidized_bed_reactor"><span class="tocnumber">3.3</span> <span class="toctext">Fluidized bed reactor</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Entrained_flow_gasifier"><span class="tocnumber">3.4</span> <span class="toctext">Entrained flow gasifier</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Plasma_gasifier"><span class="tocnumber">3.5</span> <span class="toctext">Plasma gasifier</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Feedstock"><span class="tocnumber">4</span> <span class="toctext">Feedstock</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Waste_disposal"><span class="tocnumber">4.1</span> <span class="toctext">Waste disposal</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Current_applications"><span class="tocnumber">5</span> <span class="toctext">Current applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Heat"><span class="tocnumber">5.1</span> <span class="toctext">Heat</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Electricity"><span class="tocnumber">5.2</span> <span class="toctext">Electricity</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Combined_heat_and_power"><span class="tocnumber">5.3</span> <span class="toctext">Combined heat and power</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Transport_fuel"><span class="tocnumber">5.4</span> <span class="toctext">Transport fuel</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Renewable_energy_and_fuels"><span class="tocnumber">5.5</span> <span class="toctext">Renewable energy and fuels</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Adler_Diplomat_3_GS_mit_Holzgasgenerator-hinten_rechts.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Adler_Diplomat_3_GS_mit_Holzgasgenerator-hinten_rechts.JPG/220px-Adler_Diplomat_3_GS_mit_Holzgasgenerator-hinten_rechts.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Adler_Diplomat_3_GS_mit_Holzgasgenerator-hinten_rechts.JPG/330px-Adler_Diplomat_3_GS_mit_Holzgasgenerator-hinten_rechts.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Adler_Diplomat_3_GS_mit_Holzgasgenerator-hinten_rechts.JPG/440px-Adler_Diplomat_3_GS_mit_Holzgasgenerator-hinten_rechts.JPG 2x" data-file-width="2816" data-file-height="2112" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Adler_Diplomat_3_GS_mit_Holzgasgenerator-hinten_rechts.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Adler_Diplomat" title="Adler Diplomat">Adler Diplomat</a> 3 with gas generator (1941)</div>
+</div>
+</div>
+<p>The process of producing energy using the gasification method has been in use for more than 180 years. In the early time <a href="/wiki/Coal" title="Coal">coal</a> and <a href="/wiki/Peat" title="Peat">peat</a> were used to power these plants. Initially developed to produce <a href="/wiki/Town_gas" class="mw-redirect" title="Town gas">town gas</a> for lighting and cooking in the 1800s, this was replaced by electricity and <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, it was also used in <a href="/wiki/Blast_furnaces" class="mw-redirect" title="Blast furnaces">blast furnaces</a> but the bigger role was played in the production of <a href="/wiki/Chemical_synthesis" title="Chemical synthesis">synthetic</a> chemicals where it has been in use since the 1920s.</p>
+<p>During both <a href="/wiki/World_wars" class="mw-redirect" title="World wars">world wars</a>, especially the <a href="/wiki/World_War_II" title="World War II">World War II</a>, the need for fuel produced by gasification reemerged due to the shortage of petroleum.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> <a href="/wiki/Wood_gas_generator" title="Wood gas generator">Wood gas generators</a>, called Gasogene or Gazogène, were used to power motor vehicles in <a href="/wiki/Europe" title="Europe">Europe</a>. By 1945 there were trucks, buses and agricultural machines that were powered by gasification. It is estimated that there were close to 9,000,000 vehicles running on producer gas all over the world.</p>
+<h2><span class="mw-headline" id="Chemical_reactions">Chemical reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=2" title="Edit section: Chemical reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In a gasifier, the carbonaceous material undergoes several different processes:</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Pyrolysis.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d9/Pyrolysis.svg/150px-Pyrolysis.svg.png" width="150" height="120" class="thumbimage" data-file-width="150" data-file-height="120" /></a>
+<div class="thumbcaption">Pyrolysis of carbonaceous fuels</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:161px;"><a href="/wiki/File:Gasification.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/e/e1/Gasification.gif" width="159" height="70" class="thumbimage" data-file-width="159" data-file-height="70" /></a>
+<div class="thumbcaption">Gasification of char</div>
+</div>
+</div>
+<ol>
+<li>The <a href="/wiki/Dehydration_reaction" title="Dehydration reaction">dehydration</a> or drying process occurs at around 100&#160;°C. Typically the resulting steam is mixed into the gas flow and may be involved with subsequent chemical reactions, notably the water-gas reaction if the temperature is sufficiently high (see step #5).</li>
+<li>The <i><a href="/wiki/Pyrolysis" title="Pyrolysis">pyrolysis</a></i> (or devolatilization) process occurs at around 200-300&#160;°C. Volatiles are released and <a href="/wiki/Charring" title="Charring">char</a> is produced, resulting in up to 70% weight loss for coal. The process is dependent on the properties of the carbonaceous material and determines the structure and composition of the char, which will then undergo gasification reactions.</li>
+<li>The <i><a href="/wiki/Combustion" title="Combustion">combustion</a></i> process occurs as the volatile products and some of the char react with oxygen to primarily form carbon dioxide and small amounts of carbon monoxide, which provides heat for the subsequent gasification reactions. Letting <b>C</b> represent a carbon-containing <a href="/wiki/Organic_compound" title="Organic compound">organic compound</a>, the basic reaction here is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">C</mi>
+          </mrow>
+        </mrow>
+        <mo>+</mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">O</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">C</mi>
+              <mi mathvariant="normal">O</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\rm {C}}+{\rm {O}}_{2}\rightarrow {\rm {CO}}_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a4e07f5374c449c379b38941d7831407082e8211" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:15.613ex; height:2.509ex;" alt="{\rm C} + {\rm O}_2 \rarr {\rm CO}_2" /></span></li>
+<li>The <i>gasification</i> process occurs as the char reacts with steam to produce carbon monoxide and hydrogen, via the reaction <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">C</mi>
+          </mrow>
+        </mrow>
+        <mo>+</mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">H</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">O</mi>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">H</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">C</mi>
+            <mi mathvariant="normal">O</mi>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\rm {C}}+{\rm {H}}_{2}{\rm {O}}\rightarrow {\rm {H}}_{2}+{\rm {CO}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4ecc6605cc701d2b53182965b97d017788ce4b9e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:21.971ex; height:2.509ex;" alt="{\rm C} + {\rm H}_2 {\rm O} \rarr {\rm H}_2 + {\rm CO}" /></span></li>
+<li>In addition, the <a href="/wiki/Reversible_reaction" title="Reversible reaction">reversible</a> gas phase <a href="/wiki/Water-gas_shift_reaction" title="Water-gas shift reaction">water-gas shift reaction</a> reaches <a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">equilibrium</a> very fast at the temperatures in a gasifier. This balances the concentrations of carbon monoxide, steam, carbon dioxide and hydrogen. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">C</mi>
+            <mi mathvariant="normal">O</mi>
+          </mrow>
+        </mrow>
+        <mo>+</mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">H</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">O</mi>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">&#x2194;<!-- ↔ --></mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">C</mi>
+              <mi mathvariant="normal">O</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">H</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\rm {CO}}+{\rm {H}}_{2}{\rm {O}}\leftrightarrow {\rm {CO}}_{2}+{\rm {H}}_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6f726480dfdb50e9ceef06472ee39e130a4adcaf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:24.851ex; height:2.509ex;" alt="{\rm CO} + {\rm H}_2 {\rm O} \lrarr {\rm CO}_2 + {\rm H}_2" /></span></li>
+</ol>
+<p>In essence, a limited amount of oxygen or air is introduced into the reactor to allow some of the organic material to be "burned" to produce carbon dioxide and energy, which drives a second reaction that converts further organic material to hydrogen and additional carbon dioxide. Further reactions occur when the formed carbon monoxide and residual <a href="/wiki/Water" title="Water">water</a> from the organic material react to form methane and excess carbon dioxide (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>4</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">C</mi>
+            <mi mathvariant="normal">O</mi>
+          </mrow>
+        </mrow>
+        <mo>+</mo>
+        <mn>2</mn>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">H</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">O</mi>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">C</mi>
+              <mi mathvariant="normal">H</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>4</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mn>3</mn>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">C</mi>
+              <mi mathvariant="normal">O</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 4{\rm {CO}}+2{\rm {H}}_{2}{\rm {O}}\rightarrow {\rm {CH}}_{4}+3{\rm {CO}}_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7a7495f967df542b0a5a2ac1753743e5a51ed689" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:30.058ex; height:2.509ex;" alt="{\displaystyle 4{\rm {CO}}+2{\rm {H}}_{2}{\rm {O}}\rightarrow {\rm {CH}}_{4}+3{\rm {CO}}_{2}}" /></span>). This third reaction occurs more abundantly in reactors that increase the <a href="/wiki/Residence_time_distribution" title="Residence time distribution">residence time</a> of the reactive gases and organic materials, as well as heat and pressure. <a href="/wiki/Catalysts" class="mw-redirect" title="Catalysts">Catalysts</a> are used in more sophisticated reactors to improve reaction rates, thus moving the system closer to the reaction equilibrium for a fixed residence time.</p>
+<h2><span class="mw-headline" id="Gasification_processes">Gasification processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=3" title="Edit section: Gasification processes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:502px;"><a href="/wiki/File:Gasifier_types.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gasifier_types.svg/500px-Gasifier_types.svg.png" width="500" height="277" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gasifier_types.svg/750px-Gasifier_types.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gasifier_types.svg/1000px-Gasifier_types.svg.png 2x" data-file-width="638" data-file-height="354" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gasifier_types.svg" class="internal" title="Enlarge"></a></div>
+Main gasifier types</div>
+</div>
+</div>
+<p>Several types of gasifiers are currently available for commercial use: counter-current fixed bed, co-current fixed bed, <a href="/wiki/Fluidized_bed" title="Fluidized bed">fluidized bed</a>, entrained flow, plasma, and free radical.<sup id="cite_ref-nnfcc_1-1" class="reference"><a href="#cite_note-nnfcc-1">[1]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Counter-current_fixed_bed_.28.22up_draft.22.29_gasifier">Counter-current fixed bed ("up draft") gasifier</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=4" title="Edit section: Counter-current fixed bed (&quot;up draft&quot;) gasifier">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A fixed bed of carbonaceous fuel (e.g. coal or biomass) through which the "gasification agent" (steam, oxygen and/or air) flows in counter-current configuration.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> The ash is either removed in the dry condition or as a <a href="/wiki/Slag" title="Slag">slag</a>. The slagging gasifiers have a lower ratio of steam to carbon,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> achieving temperatures higher than the ash fusion temperature. The nature of the gasifier means that the fuel must have high mechanical strength and must ideally be non-caking so that it will form a permeable bed, although recent developments have reduced these restrictions to some extent.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2014)">citation needed</span></a></i>]</sup> The throughput for this type of gasifier is relatively low. Thermal efficiency is high as the temperatures in the gas exit are relatively low. However, this means that tar and methane production is significant at typical operation temperatures, so product gas must be extensively cleaned before use. The tar can be recycled to the reactor.</p>
+<p>In the gasification of fine, undensified biomass such as <a href="/wiki/Rice_husks" class="mw-redirect" title="Rice husks">rice hulls</a>, it is necessary to blow air into the reactor by means of a fan. This creates very high gasification temperature, as high as 1000 C. Above the gasification zone, a bed of fine and hot char is formed, and as the gas is blow forced through this bed, most complex hydrocarbons are broken down into simple components of hydrogen and carbon monoxide.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Co-current_fixed_bed_.28.22down_draft.22.29_gasifier">Co-current fixed bed ("down draft") gasifier</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=5" title="Edit section: Co-current fixed bed (&quot;down draft&quot;) gasifier">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Similar to the counter-current type, but the gasification agent gas flows in co-current configuration with the fuel (downwards, hence the name "down draft gasifier"). Heat needs to be added to the upper part of the bed, either by combusting small amounts of the fuel or from external heat sources. The produced gas leaves the gasifier at a high temperature, and most of this heat is often transferred to the gasification agent added in the top of the bed, resulting in an energy efficiency on level with the counter-current type. Since all tars must pass through a hot bed of char in this configuration, tar levels are much lower than the counter-current type.</p>
+<h3><span class="mw-headline" id="Fluidized_bed_reactor">Fluidized bed reactor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=6" title="Edit section: Fluidized bed reactor">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The fuel is <a href="/wiki/Fluidization" title="Fluidization">fluidized</a> in oxygen and steam or air. The ash is removed dry or as heavy agglomerates that defluidize. The temperatures are relatively low in dry ash gasifiers, so the fuel must be highly reactive; low-grade coals are particularly suitable. The agglomerating gasifiers have slightly higher temperatures, and are suitable for higher rank coals. Fuel throughput is higher than for the fixed bed, but not as high as for the entrained flow gasifier. The conversion efficiency can be rather low due to <a href="/wiki/Elutriation" title="Elutriation">elutriation</a> of carbonaceous material. Recycle or subsequent combustion of solids can be used to increase conversion. Fluidized bed gasifiers are most useful for fuels that form highly corrosive ash that would damage the walls of slagging gasifiers. Biomass fuels generally contain high levels of corrosive ash.</p>
+<h3><span class="mw-headline" id="Entrained_flow_gasifier">Entrained flow gasifier</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=7" title="Edit section: Entrained flow gasifier">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A dry pulverized solid, an atomized liquid fuel or a fuel slurry is gasified with oxygen (much less frequent: air) in co-current flow. The gasification reactions take place in a dense cloud of very fine particles. Most coals are suitable for this type of gasifier because of the high <a href="/wiki/Operating_temperature" title="Operating temperature">operating temperatures</a> and because the coal particles are well separated from one another.</p>
+<p>The high temperatures and pressures also mean that a higher throughput can be achieved, however thermal efficiency is somewhat lower as the gas must be cooled before it can be cleaned with existing technology. The high temperatures also mean that tar and methane are not present in the product gas; however the oxygen requirement is higher than for the other types of gasifiers. All entrained flow gasifiers remove the major part of the ash as a slag as the operating temperature is well above the ash fusion temperature.</p>
+<p>A smaller fraction of the ash is produced either as a very fine dry <a href="/wiki/Fly_ash" title="Fly ash">fly ash</a> or as a black colored fly ash slurry. Some fuels, in particular certain types of biomasses, can form slag that is corrosive for ceramic inner walls that serve to protect the gasifier outer wall. However some entrained flow type of gasifiers do not possess a ceramic inner wall but have an inner water or steam cooled wall covered with partially solidified slag. These types of gasifiers do not suffer from corrosive slags.</p>
+<p>Some fuels have ashes with very high ash fusion temperatures. In this case mostly limestone is mixed with the fuel prior to gasification. Addition of a little limestone will usually suffice for the lowering the fusion temperatures. The fuel particles must be much smaller than for other types of gasifiers. This means the fuel must be pulverized, which requires somewhat more energy than for the other types of gasifiers. By far the most energy consumption related to entrained flow gasification is not the milling of the fuel but the production of oxygen used for the gasification.</p>
+<h3><span class="mw-headline" id="Plasma_gasifier">Plasma gasifier</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=8" title="Edit section: Plasma gasifier">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a <a href="/wiki/Plasma_gasification" title="Plasma gasification">plasma gasifier</a> a high-voltage current is fed to a torch, creating a high-temperature arc. The inorganic residue is retrieved as a glass-like substance.</p>
+<h2><span class="mw-headline" id="Feedstock">Feedstock</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=9" title="Edit section: Feedstock">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are a large number of different feedstock types for use in a gasifier, each with different characteristics, including size, shape, bulk density, moisture content, energy content, chemical composition, ash fusion characteristics, and homogeneity of all these properties. Coal and petroleum coke are used as primary feedstocks for many large gasification plants worldwide. Additionally, a variety of biomass and waste-derived feedstocks can be gasified, with wood pellets and chips, waste wood, plastics and aluminium, <a href="/wiki/Municipal_Solid_Waste" class="mw-redirect" title="Municipal Solid Waste">Municipal Solid Waste</a> (MSW), <a href="/wiki/Refuse-derived_fuel" title="Refuse-derived fuel">Refuse-derived fuel</a> (RDF), agricultural and industrial wastes, sewage sludge, switch grass, discarded seed corn, corn stover and other crop residues all being used.<sup id="cite_ref-nnfcc_1-2" class="reference"><a href="#cite_note-nnfcc-1">[1]</a></sup></p>
+<p><a href="/wiki/Chemrec" title="Chemrec">Chemrec</a> has developed a process for gasification of <a href="/wiki/Black_liquor" title="Black liquor">black liquor</a>.<sup id="cite_ref-chemrec_12-0" class="reference"><a href="#cite_note-chemrec-12">[12]</a></sup></p>
+<h3><span class="mw-headline" id="Waste_disposal">Waste disposal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=10" title="Edit section: Waste disposal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:HTCW_reactor.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/HTCW_reactor.jpg/150px-HTCW_reactor.jpg" width="150" height="316" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/HTCW_reactor.jpg/225px-HTCW_reactor.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f2/HTCW_reactor.jpg 2x" data-file-width="275" data-file-height="580" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HTCW_reactor.jpg" class="internal" title="Enlarge"></a></div>
+HTCW reactor, one of several proposed waste gasification processes. According to the sales and sales management consultants <i>KBI Group</i> a pilot plant in Arnstadt implementing this process has completed initial tests.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></div>
+</div>
+</div>
+<p>Waste gasification has several advantages over incineration:</p>
+<ul>
+<li>The necessary extensive flue gas cleaning may be performed on the syngas instead of the much larger volume of <a href="/wiki/Flue_gas" title="Flue gas">flue gas</a> after combustion.</li>
+<li><a href="/wiki/Electric_power" title="Electric power">Electric power</a> may be generated in <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">engines</a> and <a href="/wiki/Gas_turbine" title="Gas turbine">gas turbines</a>, which are much cheaper and more efficient than the <a href="/wiki/Rankine_cycle" title="Rankine cycle">steam cycle</a> used in incineration. Even fuel cells may potentially be used, but these have rather severe requirements regarding the purity of the gas.</li>
+<li>Chemical processing (<a href="/wiki/Gas_to_liquids" title="Gas to liquids">Gas to liquids</a>) of the syngas may produce other synthetic fuels instead of electricity.</li>
+<li>Some gasification processes treat ash containing heavy metals at very high temperatures so that it is released in a glassy and chemically stable form.</li>
+</ul>
+<p>A major challenge for waste gasification technologies is to reach an acceptable (positive) gross electric efficiency. The high efficiency of converting syngas to electric power is counteracted by significant power consumption in the waste preprocessing, the consumption of large amounts of pure oxygen (which is often used as gasification agent), and gas cleaning. Another challenge becoming apparent when implementing the processes in real life is to obtain long service intervals in the plants, so that it is not necessary to close down the plant every few months for cleaning the reactor.</p>
+<p>Environmental advocates have called gasification "incineration in disguise" and argue that the technology is still dangerous to air quality and public health. "Since 2003 numerous proposals for waste treatment facilities hoping to use... gasification technologies failed to receive final approval to operate when the claims of project proponents did not withstand public and governmental scrutiny of key claims," according to the Global Alliance for Incinerator Alternatives.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> One facility which operated from 2009-2011 in Ottawa had 29 "emissions incidents" and 13 "spills" over those three years. It was also only able to operate roughly 25% of the time.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>Several waste gasification processes have been proposed, but few have yet been built and tested, and only a handful have been implemented as plants processing real waste, and most of the time in combination with fossil fuels.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>One plant (in <a href="/wiki/Chiba,_Chiba" title="Chiba, Chiba">Chiba</a>, Japan using the Thermoselect process<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>) has been processing industrial waste since year 2000, but has not yet documented positive net energy production from the process.</p>
+<p>In the United States, gasification of waste is expanding across the country. <a href="/wiki/Ze-gen" title="Ze-gen">Ze-gen</a> is operating a waste gasification demonstration facility in <a href="/wiki/New_Bedford,_Massachusetts" title="New Bedford, Massachusetts">New Bedford, Massachusetts</a>. The facility was designed to demonstrate gasification of specific non-MSW waste streams using <i>liquid metal gasification</i>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> This facility came after widespread public opposition shelved plans for a similar plant in <a href="/wiki/Attleboro,_Massachusetts" title="Attleboro, Massachusetts">Attleboro, Massachusetts</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> In addition, construction of a biomass gasification plant <a rel="nofollow" class="external text" href="http://www.ajc.com/news/dekalb/biomass-proposal-draws-protesters-976960.html">was approved in DeKalb County, Georgia on June 14, 2011</a>.</p>
+<p>Also in the USA, plasma is being used to gasify municipal solid waste, hazardous waste and biomedical waste at the Hurlburt Field Florida Special Operations Command Air Force base. PyroGenesis Canada Inc. is the technology provider. InnerPoint Energy in Cedar Hill, MO has a gasification system going.<sup id="cite_ref-afsoc.af.mil_20-0" class="reference"><a href="#cite_note-afsoc.af.mil-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="Current_applications">Current applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=11" title="Edit section: Current applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Syngas can be used for heat production and for generation of mechanical and electrical power. Like other gaseous fuels, producer gas gives greater control over power levels when compared to solid fuels, leading to more efficient and cleaner operation.</p>
+<p>Syngas can also be used for further processing to liquid fuels or chemicals.</p>
+<h3><span class="mw-headline" id="Heat">Heat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=12" title="Edit section: Heat">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gasifiers offer a flexible option for thermal applications, as they can be retrofitted into existing gas fueled devices such as <a href="/wiki/Oven" title="Oven">ovens</a>, <a href="/wiki/Furnace" title="Furnace">furnaces</a>, <a href="/wiki/Boiler" title="Boiler">boilers</a>, etc., where syngas may replace fossil fuels. <a href="/wiki/Heating_value" class="mw-redirect" title="Heating value">Heating values</a> of syngas are generally around 4-10 MJ/m<sup>3</sup>.</p>
+<h3><span class="mw-headline" id="Electricity">Electricity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=13" title="Edit section: Electricity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Currently Industrial-scale gasification is primarily used to produce electricity from fossil fuels such as coal, where the syngas is burned in a gas turbine. Gasification is also used industrially in the production of electricity, ammonia and liquid fuels (oil) using Integrated Gasification Combined Cycles (<a href="/wiki/Integrated_Gasification_Combined_Cycle" class="mw-redirect" title="Integrated Gasification Combined Cycle">IGCC</a>), with the possibility of producing methane and hydrogen for fuel cells. IGCC is also a more efficient method of CO<sub>2</sub> capture as compared to conventional technologies. IGCC demonstration plants have been operating since the early 1970s and some of the plants constructed in the 1990s are now entering commercial service.</p>
+<h3><span class="mw-headline" id="Combined_heat_and_power">Combined heat and power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=14" title="Edit section: Combined heat and power">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In small business and building applications, where the wood source is sustainable, 250-1000 kWe and new zero carbon biomass gasification plants have been installed in Europe that produce tar free syngas from wood and burn it in reciprocating engines connected to a generator with heat recovery. This type of plant is often referred to as a wood biomass CHP unit but is a plant with seven different processes: biomass processing, fuel delivery, gasification, gas cleaning, waste disposal, electricity generation and heat recovery.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h3><span class="mw-headline" id="Transport_fuel">Transport fuel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=15" title="Edit section: Transport fuel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Diesel_engine" title="Diesel engine">Diesel engines</a> can be operated on dual fuel mode using producer gas. Diesel substitution of over 80% at high loads and 70-80% under normal load variations can easily be achieved.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> <a href="/wiki/Spark_ignition_engine" class="mw-redirect" title="Spark ignition engine">Spark ignition engines</a> and <a href="/wiki/Solid_oxide_fuel_cell" title="Solid oxide fuel cell">solid oxide fuel cells</a> can operate on 100% gasification gas.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> Mechanical energy from the engines may be used for e.g. driving water pumps for irrigation or for coupling with an alternator for electrical power generation.</p>
+<p>While small scale gasifiers have existed for well over 100 years, there have been few sources to obtain a ready to use machine. Small scale devices are typically <a href="/wiki/DIY" class="mw-redirect" title="DIY">DIY</a> projects. However, currently in the United States, several companies offer gasifiers to operate small engines.</p>
+<h3><span class="mw-headline" id="Renewable_energy_and_fuels">Renewable energy and fuels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=16" title="Edit section: Renewable energy and fuels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:232px;"><a href="/wiki/File:Holzvergaser_G%C3%BCssing.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Holzvergaser_G%C3%BCssing.jpg/230px-Holzvergaser_G%C3%BCssing.jpg" width="230" height="219" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Holzvergaser_G%C3%BCssing.jpg/345px-Holzvergaser_G%C3%BCssing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Holzvergaser_G%C3%BCssing.jpg/460px-Holzvergaser_G%C3%BCssing.jpg 2x" data-file-width="800" data-file-height="761" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Holzvergaser_G%C3%BCssing.jpg" class="internal" title="Enlarge"></a></div>
+Gasification plant Güssing, Austria (2006)</div>
+</div>
+</div>
+<p>In principle, gasification can proceed from just about any organic material, including <a href="/wiki/Biomass" title="Biomass">biomass</a> and <a href="/wiki/Plastic_pollution" title="Plastic pollution">plastic waste</a>. The resulting syngas can be combusted. Alternatively, if the syngas is clean enough, it may be used for power production in gas engines, gas turbines or even fuel cells, or converted efficiently to <a href="/wiki/Dimethyl_ether" title="Dimethyl ether">dimethyl ether</a> (DME) by methanol dehydration, methane via the <a href="/wiki/Sabatier_reaction" title="Sabatier reaction">Sabatier reaction</a>, or diesel-like synthetic fuel via the <a href="/wiki/Fischer%E2%80%93Tropsch_process" title="Fischer–Tropsch process">Fischer–Tropsch process</a>. In many gasification processes most of the inorganic components of the input material, such as metals and minerals, are retained in the ash. In some gasification processes (slagging gasification) this ash has the form of a glassy solid with low <a href="/wiki/Leaching_(chemical_science)" class="mw-redirect" title="Leaching (chemical science)">leaching</a> properties, but the net power production in slagging gasification is low (sometimes negative) and costs are higher.</p>
+<p>Regardless of the final fuel form, gasification itself and subsequent processing neither directly emits nor traps <a href="/wiki/Greenhouse_gases" class="mw-redirect" title="Greenhouse gases">greenhouse gases</a> such as carbon dioxide. Power consumption in the gasification and syngas conversion processes may be significant though, and may indirectly cause CO<sub>2</sub> emissions; in slagging and plasma gasification, the electricity consumption may even exceed any power production from the syngas.</p>
+<p>Combustion of syngas or derived fuels emits exactly the same amount of carbon dioxide as would have been emitted from direct combustion of the initial fuel. Biomass gasification and combustion could play a significant role in a renewable energy economy, because biomass production removes the same amount of CO<sub>2</sub> from the atmosphere as is emitted from gasification and combustion. While other biofuel technologies such as biogas and <a href="/wiki/Biodiesel" title="Biodiesel">biodiesel</a> are <a href="/wiki/Carbon_neutral" class="mw-redirect" title="Carbon neutral">carbon neutral</a>, gasification in principle may run on a wider variety of input materials and can be used to produce a wider variety of output fuels.</p>
+<p>There are at present a few industrial scale biomass gasification plants. Since 2008 in Svenljunga, Sweden, a biomass gasification plant generates up to 14 MW<sub>th</sub>, supplying industries and citizens of Svenljunga with process steam and <a href="/wiki/District_heating" title="District heating">district heating</a>, respectively. The gasifier uses <a href="/wiki/Biomass_fuels" class="mw-redirect" title="Biomass fuels">biomass fuels</a> such as <a href="/wiki/Chromated_copper_arsenate" title="Chromated copper arsenate">CCA</a> or <a href="/wiki/Creosote" title="Creosote">creosote</a> impregnated waste wood and other kinds of recycled wood to produces syngas that is combusted on site.<sup id="cite_ref-Elmia_27-0" class="reference"><a href="#cite_note-Elmia-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> In 2011 a similar gasifier, using the same kinds of fuels, is being installed at <a rel="nofollow" class="external text" href="http://munkforsenergi.se/">Munkfors Energy</a>'s <a href="/wiki/Cogeneration" title="Cogeneration">CHP</a> plant. The CHP plant will generate 2 MW<sub>e</sub> (electricity) and 8 MW<sub>th</sub> (<a href="/wiki/District_heating" title="District heating">district heating</a>).<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></p>
+<p>Examples of demonstration projects include:</p>
+<ul>
+<li>The 32 MW dual fluidized bed gasification of the <a href="/w/index.php?title=GoBiGas&amp;action=edit&amp;redlink=1" class="new" title="GoBiGas (page does not exist)">GoBiGas</a> project in <a href="/wiki/Gothenburg" title="Gothenburg">Gothenburg</a>, Sweden, producing around 20 MW of <a href="/wiki/Substitute_natural_gas" title="Substitute natural gas">substitute natural gas</a> from forest residues and feeding into the natural gas grid since December 2014.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></li>
+<li>Those of the Renewable Energy Network Austria,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> including a plant using dual fluidized bed gasification that has supplied the town of <a href="/wiki/G%C3%BCssing" title="Güssing">Güssing</a> with 2&#160;MW of electricity, produced utilising <a href="/wiki/GE_Jenbacher" title="GE Jenbacher">GE Jenbacher</a> reciprocating <a href="/wiki/Gas_engine" title="Gas engine">gas engines</a><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> and 4&#160;MW of heat,<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> generated from wood chips, since 2003.</li>
+<li>Chemrec's pilot plant in <a href="/wiki/Pite%C3%A5" title="Piteå">Piteå</a> that has produced 3&#160;MW of clean syngas since 2006, generated from entrained flow gasification of black liquor.<sup id="cite_ref-chemrec_12-1" class="reference"><a href="#cite_note-chemrec-12">[12]</a></sup></li>
+<li>The US Air Force Transportable Plasma Waste to Energy System (TPWES) facility at Hurlburt Field, Florida.<sup id="cite_ref-afsoc.af.mil_20-1" class="reference"><a href="#cite_note-afsoc.af.mil-20">[20]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Coal_gasification" title="Coal gasification">Coal gasification</a></li>
+<li><a href="/wiki/Fluidized_bed_combustion" title="Fluidized bed combustion">Fluidized bed combustion</a></li>
+<li><a href="/wiki/History_of_manufactured_gas" title="History of manufactured gas">History of manufactured gas</a></li>
+<li><a href="/wiki/Isle_of_Wight_gasification_facility" title="Isle of Wight gasification facility">Isle of Wight gasification facility</a></li>
+<li><a href="/wiki/List_of_solid_waste_treatment_technologies" title="List of solid waste treatment technologies">List of solid waste treatment technologies</a></li>
+<li><a href="/wiki/Plasma_arc_waste_disposal" class="mw-redirect" title="Plasma arc waste disposal">Plasma arc waste disposal</a></li>
+<li><a href="/wiki/Renewable_natural_gas" title="Renewable natural gas">Renewable natural gas</a></li>
+<li><a href="/wiki/Water_gas" title="Water gas">Water gas</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-nnfcc-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-nnfcc_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nnfcc_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nnfcc_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/National_Non-Food_Crops_Centre" class="mw-redirect" title="National Non-Food Crops Centre">National Non-Food Crops Centre</a>. <a rel="nofollow" class="external text" href="http://www.nnfcc.co.uk/tools/review-of-technologies-for-gasification-of-biomass-and-wastes-nnfcc-09-008">"Review of Technologies for Gasification of Biomass and Wastes, NNFCC 09-008"</a>, Retrieved on 2011-06-24</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.biomass.uk.com/gasification.php">The Clean and Renewable Energy Source</a>, www.biomass.uk.com, accessed 16.05.11</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gastechnology.org/webroot/app/xn/xd.aspx?it=enweb&amp;xd=iea/homepage.xml">Thermal Gasification of Biomass, International Energy Agency Task 33</a>, www.gastechnology.org, accessed 16.05.11</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.waste-management-world.com/index/display/article-display/368649/articles/waste-management-world/volume-10/issue-4/features/plasma-gasification-clean-renewable-fuel-through-vaporization-of-waste.html">Clean Renewable Fuel from the Plasma Gasification of Waste</a>, www.waste-management-world.com, Accessed 16.05.2011</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Chris Higman and Maarten van der Burgt. <i>Gasification</i>, Second Edition, Elsevier (2008).</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://membres.lycos.fr/rotarysu/nouvelle.htm">Gas Generator Project</a> History of the Gasogene technology</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Beychok, M.R., <i>Process and environmental technology for producing SNG and liquid fuels</i>, U.S. EPA report EPA-660/2-75-011, May 1975</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Beychok, M.R., <i>Coal gasification for clean energy</i>, Energy Pipelines and Systems, March 1974</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Beychok, M.R., <i>Coal gasification and the Phenosolvan process</i>, American Chemical Society 168th National Meeting, Atlantic City, September 1974</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Thanapal SS, Annamalai K, Sweeten J, Gordillo G, (2011), “Fixed bed gasification of dairy biomass with enriched air mixture”. Appl Energy, doi:10.1016/j.apenergy.2011.11.072</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation conference">Kamka, Frank; Jochmann, Andreas (June 2005). <a rel="nofollow" class="external text" href="http://www.iec.tu-freiberg.de/conference/conference_05/pdf/21_Picard.pdf"><i>Development Status of BGL-Gasification</i></a> <span style="font-size:85%;">(PDF)</span>. International Freiberg Conference on IGCC &amp; XtL Technologies. speaker Lutz Picard<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-03-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGasification&amp;rft.aufirst=Frank&amp;rft.au=Jochmann%2C+Andreas&amp;rft.aulast=Kamka&amp;rft.btitle=Development+Status+of+BGL-Gasification&amp;rft.date=2005-06&amp;rft.genre=conference&amp;rft_id=http%3A%2F%2Fwww.iec.tu-freiberg.de%2Fconference%2Fconference_05%2Fpdf%2F21_Picard.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-chemrec-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-chemrec_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-chemrec_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.chemrec.se">Chemrec web site</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.htcw.info">HTCW commercial web page</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.no-burn.org/downloads/Incinerators%20in%20Disguise:%20Case%20Studies%20of%20Gasification,%20Pyrolysis,%20and%20Plasma%20in%20Europe,%20Asia,%20and%20the%20United%20States%20.pdf">GAIA Report</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.zerowasteottawa.com/docs/141-RT-3557_RevA_PTR%20Final%20Assessment%20Report%20FINAL.pdf">Plasco Energy Group Demonstration Project Final Report</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.environment-agency.gov.uk/wtd/679004/679021/679065/">Gasification case studies</a> by the <a href="/wiki/Environment_Agency" title="Environment Agency">Environment Agency</a> of England and Wales</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thermoselect.com">Thermoselect website</a> — A waste gasification plant supplier</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.cnet.com/greentech/?keyword=Ze-gen">"Teaching the Government to Love Garbage"</a>. <i><a href="/w/index.php?title=GreenTech&amp;action=edit&amp;redlink=1" class="new" title="GreenTech (page does not exist)">GreenTech</a></i>. 2009-12-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGasification&amp;rft.atitle=Teaching+the+Government+to+Love+Garbage&amp;rft.date=2009-12-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.cnet.com%2Fgreentech%2F%3Fkeyword%3DZe-gen&amp;rft.jtitle=GreenTech&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thesunchronicle.com/news/news_updates/ze-gen-withdraws-plans-for-attleboro-gasification-plant/article_38e57ba7-249b-5d77-ad8b-9f247d127723.html">"Ze-gen withdraws plans for Attleboro gasification plant"</a>. The Sun Chronicle.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGasification&amp;rft.btitle=Ze-gen+withdraws+plans+for+Attleboro+gasification+plant&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thesunchronicle.com%2Fnews%2Fnews_updates%2Fze-gen-withdraws-plans-for-attleboro-gasification-plant%2Farticle_38e57ba7-249b-5d77-ad8b-9f247d127723.html&amp;rft.pub=The+Sun+Chronicle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-afsoc.af.mil-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-afsoc.af.mil_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-afsoc.af.mil_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.afsoc.af.mil/news/story.asp?id=123253735">"AFSOC makes 'green' history while investing in future"</a>. US Air Force Special Operations Command<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGasification&amp;rft.btitle=AFSOC+makes+%27green%27+history+while+investing+in+future&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.afsoc.af.mil%2Fnews%2Fstory.asp%3Fid%3D123253735&amp;rft.pub=US+Air+Force+Special+Operations+Command&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tavares, Jason R.; Rao, Lakshminarayana; Derboghossian, Chawki; Carabin, Pierre; Kaldas, Aïda; Chevalier, Philippe; Holcroft, Gillian (November 2011). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5762637&amp;tag=1">"Large-Scale Plasma Waste Gasification"</a>. <i>Plasma Science, IEEE Transactions on</i>. Images in Plasma Science. <b>39</b> (11): 2908. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FTPS.2011.2138723">10.1109/TPS.2011.2138723</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGasification&amp;rft.atitle=Large-Scale+Plasma+Waste+Gasification&amp;rft.au=Carabin%2C+Pierre&amp;rft.au=Chevalier%2C+Philippe&amp;rft.au=Derboghossian%2C+Chawki&amp;rft.aufirst=Jason+R.&amp;rft.au=Holcroft%2C+Gillian&amp;rft.au=Kaldas%2C+A%C3%AFda&amp;rft.aulast=Tavares&amp;rft.au=Rao%2C+Lakshminarayana&amp;rft.date=2011-11&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5762637%26tag%3D1&amp;rft_id=info%3Adoi%2F10.1109%2FTPS.2011.2138723&amp;rft.issue=11&amp;rft.jtitle=Plasma+Science%2C+IEEE+Transactions+on&amp;rft.pages=2908&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=39" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.alfagy.com/index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=6">Wood Gasification CHP / Cogeneration Plants</a>, 02.09.09</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kedco.com/ind/industrial/principles-of-gasification/">Gasification Appliances Review</a>, 04.02.08</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://e-collection.ethbib.ethz.ch/view/eth:41553">Electricity from wood through the combination of gasification and solid oxide fuel cells</a>, Ph.D. Thesis by Florian Nagel, Swiss Federal Institute of Technology Zurich, 2008</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://orbit.dtu.dk/getResource?recordId=209388&amp;objectId=1&amp;versionId=1">Characterization of biomass producer gas as fuel for stationary gas engines in combined heat and power production</a>, Ph.D. Thesis by Jesper Ahrenfeldt, Technical University of Denmark March 2007</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.biocellus.com/pdf/High_temperature_electrolyte.pdf">High temperature electrolyte supported Ni-GDC/YSZ/LSM SOFC operation on two-stage Viking gasifier product gas</a>, Ph. Hofmann <i>et al</i>. in Journal of Power Sources 173 (2007) 357–366</span></li>
+<li id="cite_note-Elmia-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Elmia_27-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mynewsdesk.com/se/pressroom/elmia/pressrelease/view/foergasning-ger-laegre-utslaepp-mindre-stoft-och-bredare-braenslebas-nyhet-paa-elmia-recycling-to-energy-2010-381629">Gasification allows less emissions, less dust and fuel flexibility</a> - News at Elmia Recycling to Energy 2010, 03.03.11</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.iqr.se/en/products/combustion/sfc.aspx">SFC - Soot Free Combustion: large scale biomass gasification</a>, 03.03.11</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mynewsdesk.com/uk/view/pressrelease/biofuel-gasification-in-unique-chp-plant-601686">Biofuel gasification in unique CHP plant</a>, 04.04.11</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nordiskaprojekt.se/kraftvarme/1738/munkfors-energi-investerar-i-ny-kraftvaermeanlaeggning.aspx">Munkfors Energy invests in new combined heat and power plant</a>, 03.03.11</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://gobigas.goteborgenergi.se/English_version/News/Goteborg_Energi_s_biogas_plant_GoBiGas_is_now_fully_operational">"Göteborg Energi's biogas plant GoBiGas is now fully operational - GoBiGas"</a>. <i>gobigas.goteborgenergi.se</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGasification&amp;rft.atitle=G%C3%B6teborg+Energi%99s+biogas+plant+GoBiGas+is+now+fully+operational+-+GoBiGas&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgobigas.goteborgenergi.se%2FEnglish_version%2FNews%2FGoteborg_Energi_s_biogas_plant_GoBiGas_is_now_fully_operational&amp;rft.jtitle=gobigas.goteborgenergi.se&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.renet.at/main_en.php">RENET - The path to energy autonomy</a></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.clarke-energy.co.uk/case-studies/Case%20Study%20Gussing.pdf">Gussing Biomass Power Plant</a>, www.clarke-energy.com, accessed 17.05.2011</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ficfb.at">The FICFB-gasification system</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gasification&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Gasification" class="extiw" title="commons:Special:Search/Gasification">Gasification</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiktionary-logo-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/gasification" class="extiw" title="wiktionary:Special:Search/gasification">gasification</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.arrya.net">"Biomass Gasiffication Process"</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gasification.org">"Gasification Technologies Council"</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ieatask33.org">"Thermal Gasification of Biomass, International Energy Agency"</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.biomassenergy.gr/en/articles/technology/gasification">Gasification Technology</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Fuel_gas" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Fuel_gas" title="Template:Fuel gas"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Fuel_gas" title="Template talk:Fuel gas"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fuel_gas&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Fuel_gas" style="font-size:114%"><a href="/wiki/Fuel_gas" title="Fuel gas">Fuel gas</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Types</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Manufactured fuel gas<br />
+(<a href="/wiki/History_of_manufactured_gas" title="History of manufactured gas">History</a>)</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal_gas" title="Coal gas">Coal gas</a>
+<ul>
+<li><a href="/wiki/Coal_gasification" title="Coal gasification">Coal gasification</a></li>
+<li><a href="/wiki/Underground_coal_gasification" title="Underground coal gasification">Underground coal gasification</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Biogas" title="Biogas">Biogas</a></li>
+<li><a href="/wiki/Blast_furnace_gas" title="Blast furnace gas">Blast furnace gas</a></li>
+<li><a href="/wiki/Blau_gas" title="Blau gas">Blau gas</a></li>
+<li><strong class="selflink">Gasification</strong></li>
+<li><a href="/wiki/Landfill_gas" title="Landfill gas">Landfill gas</a></li>
+<li><a href="/wiki/Mond_gas" title="Mond gas">Mond gas</a></li>
+<li><a href="/wiki/Pintsch_gas" class="mw-redirect" title="Pintsch gas">Pintsch gas</a></li>
+<li><a href="/wiki/Producer_gas" title="Producer gas">Producer gas</a></li>
+<li><a href="/wiki/Regasification" title="Regasification">Regasification</a></li>
+<li><a href="/wiki/Syngas" title="Syngas">Syngas</a></li>
+<li><a href="/wiki/Water_gas" title="Water gas">Water gas</a></li>
+<li><a href="/wiki/Wood_gas" title="Wood gas">Wood gas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Associated_petroleum_gas" title="Associated petroleum gas">APG</a></li>
+<li><a href="/wiki/Coalbed_methane" title="Coalbed methane">CBM</a></li>
+<li><a href="/wiki/Compressed_natural_gas" title="Compressed natural gas">CNG</a></li>
+<li><a href="/wiki/HCNG" title="HCNG">HCNG</a></li>
+<li><a href="/wiki/Liquefied_natural_gas" title="Liquefied natural gas">LNG</a></li>
+<li><a href="/wiki/Natural-gas_condensate" title="Natural-gas condensate">NGC</a></li>
+<li><a href="/wiki/Substitute_natural_gas" title="Substitute natural gas">SNG</a>
+<ul>
+<li><a href="/wiki/Renewable_natural_gas" title="Renewable natural gas">Bio-SNG</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Liquefied_petroleum_gas" title="Liquefied petroleum gas">LPG</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autogas" title="Autogas">Autogas</a></li>
+<li><a href="/wiki/Butane" title="Butane">Butane</a></li>
+<li><a href="/wiki/Propane" title="Propane">Propane</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Gas_flame.jpg" class="image" title="Gas flame"><img alt="Gas flame" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gas_flame.jpg/90px-Gas_flame.jpg" width="90" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gas_flame.jpg/135px-Gas_flame.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gas_flame.jpg/180px-Gas_flame.jpg 2x" data-file-width="1320" data-file-height="1182" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Infrastructure</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Compressor_station" title="Compressor station">Compressor station</a></li>
+<li><a href="/wiki/Gas_carrier" title="Gas carrier">Gas carrier</a></li>
+<li><a href="/wiki/Gas_holder" title="Gas holder">Gas holder</a></li>
+<li><a href="/wiki/Gas_meter" title="Gas meter">Gas meter</a></li>
+<li><a href="/wiki/Gasworks" title="Gasworks">Gasworks</a></li>
+<li><a href="/wiki/Natural-gas_processing" title="Natural-gas processing">Natural-gas processing</a></li>
+<li><a href="/wiki/Natural_gas_storage" title="Natural gas storage">Natural gas storage</a></li>
+<li><a href="/wiki/Odorizer" title="Odorizer">Odorizer</a></li>
+<li><a href="/wiki/Pipeline_transport" title="Pipeline transport">Pipeline transport</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Uses</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bunsen_burner" title="Bunsen burner">Bunsen burner</a></li>
+<li><a href="/wiki/Gas_burner" title="Gas burner">Gas burner</a></li>
+<li><a href="/wiki/Gas_engine" title="Gas engine">Gas engine</a></li>
+<li><a href="/wiki/Gas_heater" title="Gas heater">Gas heater</a></li>
+<li><a href="/wiki/Gas_lighting" title="Gas lighting">Gas lighting</a>
+<ul>
+<li><a href="/wiki/Gas_mantle" title="Gas mantle">Gas mantle</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gas_stove" title="Gas stove">Gas stove</a></li>
+<li><a href="/wiki/Gas_turbine" title="Gas turbine">Gas turbine</a></li>
+<li><a href="/wiki/Pilot_light" title="Pilot light">Pilot light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20170306201504
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.236 seconds
+Real time usage: 0.335 seconds
+Preprocessor visited node count: 1715/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46661/2097152 bytes
+Template argument size: 2113/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.084/10.000 seconds
+Lua memory usage: 3.51 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  226.879      1 -total
+ 37.05%   84.060      1 Template:Reflist
+ 20.43%   46.353      2 Template:Citation_needed
+ 18.13%   41.137      2 Template:Fix
+ 14.90%   33.797      1 Template:Cite_conference
+ 10.97%   24.892      1 Template:Sustainable_energy
+ 10.68%   24.241      2 Template:Navbox
+ 10.63%   24.123      4 Template:Category_handler
+ 10.21%   23.163      1 Template:Sidebar
+  8.77%   19.906      1 Template:About
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:262256-0!*!0!!en!4!*!math=5 and timestamp 20170306201503 and revision id 768256972
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gasification&amp;oldid=768256972">https://en.wikipedia.org/w/index.php?title=Gasification&amp;oldid=768256972</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_conversion" title="Category:Energy conversion">Energy conversion</a></li><li><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></li><li><a href="/wiki/Category:Thermal_treatment" title="Category:Thermal treatment">Thermal treatment</a></li><li><a href="/wiki/Category:Waste_treatment_technology" title="Category:Waste treatment technology">Waste treatment technology</a></li><li><a href="/wiki/Category:Fuel_gas" title="Category:Fuel gas">Fuel gas</a></li><li><a href="/wiki/Category:Gas_technologies" title="Category:Gas technologies">Gas technologies</a></li><li><a href="/wiki/Category:Synthetic_fuel_technologies" title="Category:Synthetic fuel technologies">Synthetic fuel technologies</a></li><li><a href="/wiki/Category:Sustainable_technologies" title="Category:Sustainable technologies">Sustainable technologies</a></li><li><a href="/wiki/Category:Pyrolysis" title="Category:Pyrolysis">Pyrolysis</a></li><li><a href="/wiki/Category:Industrial_gases" title="Category:Industrial gases">Industrial gases</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2014" title="Category:Articles with unsourced statements from June 2014">Articles with unsourced statements from June 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2011" title="Category:Articles with unsourced statements from July 2011">Articles with unsourced statements from July 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gasification" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gasification" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Gasification"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Gasification"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Gasification" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Gasification&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Gasification&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gasification" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gasification" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gasification&amp;oldid=768256972" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gasification&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q646882" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gasification&amp;id=768256972" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gasification">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Gasification&amp;returnto=Gasification&amp;oldid=768256972&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Gasification&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%BA%D9%88%D9%8A%D8%B2" title="تغويز – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gasificaci%C3%B3" title="Gasificació – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Zply%C5%88ov%C3%A1n%C3%AD" title="Zplyňování – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Vergasen" title="Vergasen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Gaasistamine" title="Gaasistamine – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Gasificaci%C3%B3n" title="Gasificación – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D8%B2%DB%8C%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C" title="گازی‌سازی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Gaz%C3%A9ification" title="Gazéification – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%88%E0%A4%B8%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3" title="गैसीकरण – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Rasplinjavanje" title="Rasplinjavanje – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Gasifikasi" title="Gasifikasi – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/G%C3%B6sun" title="Gösun – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Gassificazione" title="Gassificazione – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B4%D0%B0%D0%BD%D0%B4%D1%8B%D1%80%D1%83" title="Газдандыру – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Pengegasan" title="Pengegasan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Gasificatie" title="Gasificatie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Zgazowanie" title="Zgazowanie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Gasifica%C3%A7%C3%A3o" title="Gasificação – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Газификация – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%93%D0%B0%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%98%D0%B0" title="Гасификација – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/F%C3%B6rgasning" title="Förgasning – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%AA" title="การแปรสภาพเป็นแก๊ส – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%86%D1%96%D1%8F" title="Газифікація – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B0%94%E5%8C%96%E5%8F%8D%E5%BA%94" title="气化反应 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q646882#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 March 2017, at 19:11.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Gasification&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.236","walltime":"0.335","ppvisitednodes":{"value":1715,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46661,"limit":2097152},"templateargumentsize":{"value":2113,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  226.879      1 -total"," 37.05%   84.060      1 Template:Reflist"," 20.43%   46.353      2 Template:Citation_needed"," 18.13%   41.137      2 Template:Fix"," 14.90%   33.797      1 Template:Cite_conference"," 10.97%   24.892      1 Template:Sustainable_energy"," 10.68%   24.241      2 Template:Navbox"," 10.63%   24.123      4 Template:Category_handler"," 10.21%   23.163      1 Template:Sidebar","  8.77%   19.906      1 Template:About"]},"scribunto":{"limitreport-timeusage":{"value":"0.084","limit":"10.000"},"limitreport-memusage":{"value":3677438,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20170306201504","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1254"});});</script>
+	</body>
+</html>

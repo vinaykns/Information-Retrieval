@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Distributed manufacturing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Distributed_manufacturing","wgTitle":"Distributed manufacturing","wgCurRevisionId":763057267,"wgRevisionId":763057267,"wgArticleId":39021261,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Manufactured goods","Free software","Digital manufacturing","3D printing","Emerging trends","Cloud computing"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Distributed_manufacturing","wgRelevantArticleId":39021261,"wgRequestId":"WMjCFQpAAEYAAV0wltoAAABP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q17010810","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Distributed_manufacturing"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Distributed_manufacturing&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Distributed_manufacturing&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Distributed_manufacturing"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Distributed_manufacturing rootpage-Distributed_manufacturing skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Distributed manufacturing</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Distributed manufacturing</b> also known as <b>distributed production</b>, <b>cloud producing</b> and <b>local manufacturing</b> is a form of decentralized manufacturing practiced by enterprises using a network of geographically dispersed manufacturing facilities that are coordinated using <a href="/wiki/Information_technology" title="Information technology">information technology</a>. It can also refer to local manufacture via the historic <a href="/wiki/Cottage_industry" class="mw-redirect" title="Cottage industry">cottage industry</a> model, or manufacturing that takes place in the homes of consumers.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Consumer"><span class="tocnumber">1</span> <span class="toctext">Consumer</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Enterprise"><span class="tocnumber">2</span> <span class="toctext">Enterprise</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Social_change"><span class="tocnumber">3</span> <span class="toctext">Social change</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Consumer">Consumer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_manufacturing&amp;action=edit&amp;section=1" title="Edit section: Consumer">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Within the <a href="/wiki/Maker_movement" class="mw-redirect" title="Maker movement">maker movement</a> and <a href="/wiki/DIY" class="mw-redirect" title="DIY">DIY</a> culture, small scale production by consumers often using <a href="/wiki/Peer_to_peer" class="mw-redirect" title="Peer to peer">peer to peer</a> resources is being referred to as distributed manufacturing. Consumers download digital designs from an <a href="/wiki/Open_design" title="Open design">open design</a> repository website like <a href="/w/index.php?title=Youmagine&amp;action=edit&amp;redlink=1" class="new" title="Youmagine (page does not exist)">Youmagine</a> or <a href="/wiki/Thingiverse" title="Thingiverse">Thingiverse</a> and produce a product for low costs through a distributed network of 3D printing services such as <a href="/wiki/3D_Hubs" title="3D Hubs">3D Hubs</a> or at home with an <a href="/wiki/Open-source_3-D_printer" class="mw-redirect" title="Open-source 3-D printer">open-source 3-D printer</a> such as the <a href="/wiki/RepRap" class="mw-redirect" title="RepRap">RepRap</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Distributed manufacturing with <a href="/wiki/Distributed_generation" title="Distributed generation">distributed generation</a> using <a href="/wiki/Solar_photovoltaic" class="mw-redirect" title="Solar photovoltaic">solar photovoltaic</a> cells and <a href="/wiki/3-D_printers" class="mw-redirect" title="3-D printers">3-D printers</a> has been proposed as a means for <a href="/wiki/Off-grid" class="mw-redirect" title="Off-grid">off-grid</a> rural area residents to manufacture themselves out of <a href="/wiki/Poverty" title="Poverty">poverty</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Recent advances in solar-powered 3-D printers have made manufacturing of a wide range of products possible in isolated communities.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>An example of such an application are <a href="/wiki/Glasses" title="Glasses">spectacles</a>. As Gwamuri et al. point out that while it is "still not yet feasible to print the lenses (the most critical component of the eyeglasses)" and in current prototypes "only the frames and syringe are printed" and that "aesthetics is another challenge" the "primary cost of the glasses could be reduced to about one dollar for a highly customized/individualized design, which could be printed on site in under an hour" (presumably excluding the lenses) and "it seems clear that other products could benefit from the same approach and that distributed manufacturing can assist in sustainable development, particularly in isolated rural regions".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>Initial life cycle analysis indicates that distributed production can have a smaller impact on the environment than conventional manufacturing and shipping because of reductions in transportation embodied energy.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> There are now several types of open-source solar-powered 3-D printers,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> which can be used for production in <a href="/wiki/Off_grid" class="mw-redirect" title="Off grid">off grid</a> locations.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> This can be taken to the extreme with <a href="/wiki/RV" class="mw-redirect" title="RV">RV</a> owners using mobile <a href="/wiki/3-D_printers" class="mw-redirect" title="3-D printers">3-D printers</a> to make fixtures for RV rooftops for solar <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> panels.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="Enterprise">Enterprise</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_manufacturing&amp;action=edit&amp;section=2" title="Edit section: Enterprise">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The primary attribute of distributed manufacturing is the ability to create value at geographically dispersed locations via manufacturing. For example, <a href="/wiki/Shipping" class="mw-redirect" title="Shipping">shipping</a> costs are minimized when products are built geographically close to their intended markets. Also, products manufactured in a number of small facilities distributed over a wide area can be customized with details adapted to individual or regional tastes. Manufacturing components in different physical locations and then managing the supply chain to bring them together for final assembly of a product is also considered a form of distributed manufacturing.<sup id="cite_ref-Chrisman_11-0" class="reference"><a href="#cite_note-Chrisman-11">[11]</a></sup><sup id="cite_ref-K.C3.BChnle2010_12-0" class="reference"><a href="#cite_note-K.C3.BChnle2010-12">[12]</a></sup> Digital networks combined with additive manufacturing allow companies a decentralized and geographically independent distributed production (<a href="/w/index.php?title=Cloud_Producing&amp;action=edit&amp;redlink=1" class="new" title="Cloud Producing (page does not exist)">Cloud Producing</a>).<sup id="cite_ref-Bopp2010_13-0" class="reference"><a href="#cite_note-Bopp2010-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Social_change">Social change</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_manufacturing&amp;action=edit&amp;section=3" title="Edit section: Social change">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some<sup id="cite_ref-triple-c.at_14-0" class="reference"><a href="#cite_note-triple-c.at-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> call attention to the conjunction of <a href="/wiki/Commons-based_peer_production" title="Commons-based peer production">Commons-based peer production</a> with distributed manufacturing techniques. The self-reinforced fantasy of a system of eternal growth can be overcome with the development of economies of scope, and here, the civil society can play an important role contributing to the raising of the whole productive structure to a higher plateau of more sustainable and customised productivity.<sup id="cite_ref-triple-c.at_14-1" class="reference"><a href="#cite_note-triple-c.at-14">[14]</a></sup> Further, it is true that many issues, problems and threats rise due to the large <a href="/wiki/Democratization" title="Democratization">democratization</a> of the means of production, and especially regarding the physical ones.<sup id="cite_ref-triple-c.at_14-2" class="reference"><a href="#cite_note-triple-c.at-14">[14]</a></sup> For instance, the recyclability of advanced nanomaterials is still questioned; weapons manufacturing could become easier; not to mention the implications on counterfeiting<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> and on "<a href="/wiki/Intellectual_property" title="Intellectual property">intellectual property</a>".<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> It might be maintained that in contrast to the industrial paradigm whose competitive dynamics were about economies of scale, <a href="/wiki/Commons-based_peer_production" title="Commons-based peer production">Commons-based peer production</a> and distributed manufacturing could develop economies of scope. While the advantages of scale rest on cheap global transportation, the economies of scope share infrastructure costs (intangible and tangible productive resources), taking advantage of the capabilities of the fabrication tools.<sup id="cite_ref-triple-c.at_14-3" class="reference"><a href="#cite_note-triple-c.at-14">[14]</a></sup> And following <a href="/wiki/Neil_Gershenfeld" title="Neil Gershenfeld">Neil Gershenfeld</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> in that “some of the least developed parts of the world need some of the most advanced technologies”, commons-based peer production and distributed manufacturing may offer the necessary tools for thinking globally but act locally in response to certain problems and needs. This can take the most radical form --individual personal manufacturing.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_manufacturing&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Sells, Ed, Zach Smith, Sebastien Bailard, Adrian Bowyer, and Vik Olliver. "Reprap: the replicating rapid prototyper: maximizing customizability by breeding the means of production." HANDBOOK OF RESEARCH IN MASS CUSTOMIZATION AND PERSONALIZATION, (2010).</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Jones, R., Haufe, P., Sells, E., Iravani, P., Olliver, V., Palmer, C., &amp; Bowyer, A. (2011). Reprap??? the replicating rapid prototyper. Robotica, 29(1), 177-191.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Pearce, J. M., Blair, C. M., Laciak, K. J., Andrews, R., Nosrat, A., &amp; Zelenika-Zovko, I. (2010). <a rel="nofollow" class="external text" href="http://www.academia.edu/1507915/3-D_Printing_of_Open_Source_Appropriate_Technologies_for_Self-Directed_Sustainable_Development">3-D printing of open source appropriate technologies for self-directed sustainable development</a>. Journal of Sustainable Development, 3(4), p17.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gwamuri, Jephias; Franco, Dhiogo; Khan, Khalid Y.; Gauchia, Lucia; Pearce, Joshua M. (2016-01-15). <a rel="nofollow" class="external text" href="https://www.academia.edu/20326034/High-Efficiency_Solar-Powered_3-D_Printers_for_Sustainable_Development">"High-Efficiency Solar-Powered 3-D Printers for Sustainable Development"</a>. <i>Machines</i>. <b>4</b> (1): 3. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3390%2Fmachines4010003">10.3390/machines4010003</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+manufacturing&amp;rft.atitle=High-Efficiency+Solar-Powered+3-D+Printers+for+Sustainable+Development&amp;rft.aufirst=Jephias&amp;rft.au=Franco%2C+Dhiogo&amp;rft.au=Gauchia%2C+Lucia&amp;rft.au=Khan%2C+Khalid+Y.&amp;rft.aulast=Gwamuri&amp;rft.au=Pearce%2C+Joshua+M.&amp;rft.date=2016-01-15&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.academia.edu%2F20326034%2FHigh-Efficiency_Solar-Powered_3-D_Printers_for_Sustainable_Development&amp;rft_id=info%3Adoi%2F10.3390%2Fmachines4010003&amp;rft.issue=1&amp;rft.jtitle=Machines&amp;rft.pages=3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">J. Gwamuri, B. T. Wittbrodt, N. C. Anzalone, J.M. Pearce. <a rel="nofollow" class="external text" href="https://www.academia.edu/9747930/Reversing_the_Trend_of_Large_Scale_and_Centralization_in_Manufacturing_The_Case_of_Distributed_Manufacturing_of_Customizable_3-D-Printable_Self-Adjustable_Glasses">Reversing the Trend of Large Scale and Centralization in Manufacturing: The Case of Distributed Manufacturing of Customizable 3-D-Printable Self-Adjustable Glasses</a>, <i>Challenges in Sustainability</i> 2(1), pp. 30-40 (2014). DOI: 10.12924/cis2014.02010030</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">M. Kreiger, G. C. Anzalone, M. L. Mulder, A. Glover and J. M Pearce (2013). Distributed Recycling of Post-Consumer Plastic Waste in Rural Areas. MRS Online Proceedings Library, 1492, <a rel="nofollow" class="external text" href="https://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=8851128">mrsf12-1492-g04-06</a> doi:10.1557/opl.2013.258. <a rel="nofollow" class="external text" href="http://www.academia.edu/2921972/Distributed_Recycling_of_Post-Consumer_Plastic_Waste_in_Rural_Areas">open access</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Megan Kreiger and Joshua M. Pearce (2013). Environmental Life Cycle Analysis of Distributed 3-D Printing and Conventional Manufacturing of Polymer Products, <i>ACS Sustainable Chemistry &amp; Engineering</i>, DOI: 10.1021/sc400093k <a rel="nofollow" class="external text" href="http://www.academia.edu/4685670/Environmental_Life_Cycle_Analysis_of_Distributed_3-D_Printing_and_Conventional_Manufacturing_of_Polymer_Products">Open access</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Debbie L. King, Adegboyega Babasola, Joseph Rozario, and Joshua M. Pearce, "Mobile Open-Source Solar-Powered 3-D Printers for Distributed Manufacturing in Off-Grid Communities," Challenges in Sustainability 2(1), 18-27 (2014).<a rel="nofollow" class="external text" href="https://www.academia.edu/8603622/Mobile_Open-Source_Solar-Powered_3-D_Printers_for_Distributed_Manufacturing_in_Off-Grid_Communities">open access</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">D.J. Pangburn, How 3D Printers Are Boosting Off-The-Grid, Underdeveloped Communities - MotherBoard available at <a rel="nofollow" class="external free" href="http://motherboard.vice.com/read/how-3d-printers-are-boosting-off-the-grid-underdeveloped-communities">http://motherboard.vice.com/read/how-3d-printers-are-boosting-off-the-grid-underdeveloped-communities</a> Nov. 7, 2014.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Ben Wittbrodt, John Laureto, Brennan Tymrak and Joshua M Pearce. <a rel="nofollow" class="external text" href="https://www.academia.edu/17647723/Distributed_manufacturing_with_3-D_printing_a_case_study_of_recreational_vehicle_solar_photovoltaic_mounting_systems">Distributed manufacturing with 3-D printing: a case study of recreational vehicle solar photovoltaic mounting systems</a>. <i>Journal of Frugal Innovation</i> <b>1</b>(1), 1-7 (2015).</span></li>
+<li id="cite_note-Chrisman-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Chrisman_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Chrisman, Ray. <a rel="nofollow" class="external text" href="http://depts.washington.edu/cpac/Activities/Meetings/Satellite/2010/Wednesday/Chrisman_The%20Value%20of%20Distributed%20Manufacturing.pdf">"Enhancement of Distributed Manufacturing using expanded Process Intensification Concepts"</a> <span style="font-size:85%;">(PDF)</span>. University of Washington<span class="reference-accessdate">. Retrieved <span class="nowrap">7 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+manufacturing&amp;rft.aufirst=Ray&amp;rft.aulast=Chrisman&amp;rft.btitle=Enhancement+of+Distributed+Manufacturing+using+expanded+Process+Intensification+Concepts&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdepts.washington.edu%2Fcpac%2FActivities%2FMeetings%2FSatellite%2F2010%2FWednesday%2FChrisman_The%2520Value%2520of%2520Distributed%2520Manufacturing.pdf&amp;rft.pub=University+of+Washington&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-K.C3.BChnle2010-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-K.C3.BChnle2010_12-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hermann Kühnle (2010). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=9AnmyB1Gs-0C"><i>Distributed Manufacturing: Paradigm, Concepts, Solutions and Examples</i></a>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84882-707-3" title="Special:BookSources/978-1-84882-707-3">978-1-84882-707-3</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+manufacturing&amp;rft.au=Hermann+K%C3%BChnle&amp;rft.btitle=Distributed+Manufacturing%3A+Paradigm%2C+Concepts%2C+Solutions+and+Examples&amp;rft.date=2010&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D9AnmyB1Gs-0C&amp;rft.isbn=978-1-84882-707-3&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bopp2010-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bopp2010_13-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Felix Bopp (2010). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=M_SmmUOwsWwC"><i>Future Business Models by Additive Manufacturing</i></a>. Verlag. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3836685086" title="Special:BookSources/3836685086">3836685086</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+manufacturing&amp;rft.au=Felix+Bopp&amp;rft.btitle=Future+Business+Models+by+Additive+Manufacturing&amp;rft.date=2010&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DM_SmmUOwsWwC&amp;rft.isbn=3836685086&amp;rft.pub=Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-triple-c.at-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-triple-c.at_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-triple-c.at_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-triple-c.at_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-triple-c.at_14-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Kostakis, V.; Bauwens, M. (2014): <i><a rel="nofollow" class="external text" href="http://www.palgrave.com/page/detail/network-society-and-future-scenarios-for-a-collaborative-economy-vasilis-kostakis/?k=9781137415066">Network Society and Future Scenarios for a Collaborative Economy</a></i>. Basingstoke, UK: Palgrave Macmillan. (<a rel="nofollow" class="external text" href="http://p2pfoundation.net/Network_Society_and_Future_Scenarios_for_a_Collaborative_Economy">wiki</a>)</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Kostakis, V.; Papachristou, M. (2014): <i><a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0736585313000609">Commons-based peer production and digital fabrication: The case of a RepRap-based, Lego-built 3D printing-milling machine</a></i>. In: Telematics and Informatics, 31(3), 434 - 443</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Kostakis, V; Fountouklis, M; Drechsler, W. (2013): <i><a rel="nofollow" class="external text" href="http://sth.sagepub.com/content/38/6/773">Peer Production and Desktop Manufacturing: The Case of the Helix-T Wind Turbine Project.</a></i> . In: Science, Technology &amp; Human Values, 38(6), 773 - 800.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Campbell, Thomas, Christopher Williams, Olga Ivanova, and Banning Garrett. (2011): <i><a rel="nofollow" class="external text" href="http://www.acus.org/publication/could-3d-printing-change-world">Could 3D Printing Change the World? Technologies, Potential, and Implications of Additive Manufacturing</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130815061811/http://www.acus.org/publication/could-3d-printing-change-world">Archived</a> August 15, 2013, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</i>. Washington: Atlantic Council of the United States</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Bradshaw, Simon, Adrian Bowyer, and Patrick Haufe (2010): <i><a rel="nofollow" class="external text" href="http://opus.bath.ac.uk/18661/">The Intellectual Property Implications of Low-Cost 3D Printing</a></i>. In: SCRIPTed 7</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Gershenfeld, Neil (2007): <i>FAB: The Coming Revolution on your Desktop: From Personal Computers to Personal Fabrication</i>. Cambridge: Basic Books, p. 13-14</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Mota, C., 2011, November. The rise of personal fabrication. In Proceedings of the 8th ACM conference on Creativity and cognition (pp. 279-288). ACM.</span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20170315042453
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.092 seconds
+Real time usage: 0.109 seconds
+Preprocessor visited node count: 430/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8536/2097152 bytes
+Template argument size: 9/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.031/10.000 seconds
+Lua memory usage: 1.89 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   79.241      1 Template:Reflist
+100.00%   79.241      1 -total
+ 55.13%   43.688      1 Template:Cite_journal
+ 10.72%    8.493      2 Template:Cite_book
+  6.48%    5.138      1 Template:Webarchive
+  6.12%    4.846      1 Template:Cite_web
+  1.37%    1.084      1 Template:Column-count
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39021261-0!*!0!!en!*!* and timestamp 20170315042453 and revision id 763057267
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Distributed_manufacturing&amp;oldid=763057267">https://en.wikipedia.org/w/index.php?title=Distributed_manufacturing&amp;oldid=763057267</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Manufactured_goods" title="Category:Manufactured goods">Manufactured goods</a></li><li><a href="/wiki/Category:Free_software" title="Category:Free software">Free software</a></li><li><a href="/wiki/Category:Digital_manufacturing" title="Category:Digital manufacturing">Digital manufacturing</a></li><li><a href="/wiki/Category:3D_printing" title="Category:3D printing">3D printing</a></li><li><a href="/wiki/Category:Emerging_trends" title="Category:Emerging trends">Emerging trends</a></li><li><a href="/wiki/Category:Cloud_computing" title="Category:Cloud computing">Cloud computing</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Distributed+manufacturing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Distributed+manufacturing" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Distributed_manufacturing"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Distributed_manufacturing"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Distributed_manufacturing" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Distributed_manufacturing&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Distributed_manufacturing&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Distributed_manufacturing" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Distributed_manufacturing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Distributed_manufacturing&amp;oldid=763057267" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Distributed_manufacturing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q17010810" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Distributed_manufacturing&amp;id=763057267" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Distributed+manufacturing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Distributed+manufacturing&amp;returnto=Distributed+manufacturing&amp;oldid=763057267&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Distributed_manufacturing&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q17010810#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 February 2017, at 02:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Distributed_manufacturing&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.092","walltime":"0.109","ppvisitednodes":{"value":430,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8536,"limit":2097152},"templateargumentsize":{"value":9,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   79.241      1 Template:Reflist","100.00%   79.241      1 -total"," 55.13%   43.688      1 Template:Cite_journal"," 10.72%    8.493      2 Template:Cite_book","  6.48%    5.138      1 Template:Webarchive","  6.12%    4.846      1 Template:Cite_web","  1.37%    1.084      1 Template:Column-count"]},"scribunto":{"limitreport-timeusage":{"value":"0.031","limit":"10.000"},"limitreport-memusage":{"value":1981671,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20170315042453","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":196,"wgHostname":"mw1275"});});</script>
+	</body>
+</html>

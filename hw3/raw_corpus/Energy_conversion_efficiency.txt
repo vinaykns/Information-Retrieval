@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Energy conversion efficiency - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Energy_conversion_efficiency","wgTitle":"Energy conversion efficiency","wgCurRevisionId":763356954,"wgRevisionId":763356954,"wgArticleId":7005062,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from August 2008","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from May 2016","Articles with unsourced statements from October 2014","Articles to be expanded from May 2012","Articles with unsourced statements from July 2011","Building engineering","Dimensionless numbers of thermodynamics","Energy conservation","Energy conversion","Energy efficiency"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Energy_conversion_efficiency","wgRelevantArticleId":7005062,"wgRequestId":"WMc-VgpAAEYAAG5ES1MAAAAT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q192704","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Efficiency_diagram_by_Zureks.svg/1200px-Efficiency_diagram_by_Zureks.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Energy_conversion_efficiency"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Energy_conversion_efficiency&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Energy_conversion_efficiency&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Energy_conversion_efficiency"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Energy_conversion_efficiency rootpage-Energy_conversion_efficiency skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Energy conversion efficiency</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Energy_conversion_efficiency&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(August 2008)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Efficiency_diagram_by_Zureks.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Efficiency_diagram_by_Zureks.svg/220px-Efficiency_diagram_by_Zureks.svg.png" width="220" height="181" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Efficiency_diagram_by_Zureks.svg/330px-Efficiency_diagram_by_Zureks.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Efficiency_diagram_by_Zureks.svg/440px-Efficiency_diagram_by_Zureks.svg.png 2x" data-file-width="340" data-file-height="280" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Efficiency_diagram_by_Zureks.svg" class="internal" title="Enlarge"></a></div>
+Output energy is always lower than input energy</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ene_Flow_Pow_Plt_uni.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ene_Flow_Pow_Plt_uni.png/220px-Ene_Flow_Pow_Plt_uni.png" width="220" height="162" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ene_Flow_Pow_Plt_uni.png/330px-Ene_Flow_Pow_Plt_uni.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ene_Flow_Pow_Plt_uni.png/440px-Ene_Flow_Pow_Plt_uni.png 2x" data-file-width="660" data-file-height="487" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ene_Flow_Pow_Plt_uni.png" class="internal" title="Enlarge"></a></div>
+Efficiency of Power Plant, World total 2008</div>
+</div>
+</div>
+<p><b>Energy conversion efficiency</b> (<i><b>η</b></i>) is the <a href="/wiki/Ratio" title="Ratio">ratio</a> between the useful output of an <a href="/wiki/Energy_conversion_machine" class="mw-redirect" title="Energy conversion machine">energy conversion machine</a> and the input, in <a href="/wiki/Energy" title="Energy">energy</a> terms. The input, as well as the useful output may be <a href="/wiki/Electric_power" title="Electric power">electric power</a>, <a href="/wiki/Mechanical_work" class="mw-redirect" title="Mechanical work">mechanical work</a>, <a href="/wiki/Light" title="Light">light</a> (radiation), or <a href="/wiki/Heat" title="Heat">heat</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2016)">citation needed</span></a></i>]</sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Fuel_heating_values_and_efficiency"><span class="tocnumber">2</span> <span class="toctext">Fuel heating values and efficiency</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Example_of_energy_conversion_efficiency"><span class="tocnumber">3</span> <span class="toctext">Example of energy conversion efficiency</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conversion_efficiency&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Energy conversion efficiency is not defined uniquely, but instead depends on the usefulness of the output. All or part of the heat produced from burning a fuel may become rejected <a href="/wiki/Waste_heat" title="Waste heat">waste heat</a> if, for example, work is the desired output from a <a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">thermodynamic cycle</a>. Energy converter is an example of an energy transformation. For example a light bulb falls into the categories energy converter. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B7;<!-- η --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>P</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">t</mi>
+                </mrow>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>P</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">n</mi>
+                </mrow>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta ={\frac {P_{\mathrm {out} }}{P_{\mathrm {in} }}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7b5f29a1758154b6c5c1f5014e8c3f959a90add8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:9.258ex; height:5.843ex;" alt="\eta ={\frac  {P_{{\mathrm  {out}}}}{P_{{\mathrm  {in}}}}}" /></span> Even though the definition includes the notion of usefulness, <a href="https://en.wiktionary.org/wiki/efficiency" class="extiw" title="wikt:efficiency">efficiency</a> is considered a <a href="/wiki/Technology" title="Technology">technical</a> or <a href="/wiki/Physics" title="Physics">physical</a> term. Goal or mission oriented terms include <a href="/wiki/Effectiveness" title="Effectiveness">effectiveness</a> and <a href="/wiki/Efficacy" title="Efficacy">efficacy</a>.</p>
+<p>Generally, energy conversion efficiency is a <a href="/wiki/Dimensionless" class="mw-redirect" title="Dimensionless">dimensionless</a> number between 0 and 1.0, or 0% to 100%. Efficiencies may not exceed 100%, e.g., for a <a href="/wiki/Perpetual_motion" title="Perpetual motion">perpetual motion</a> machine. However, other <a href="/wiki/Thermal_efficiency" title="Thermal efficiency">effectiveness measures</a> that can exceed 1.0 are used for <a href="/wiki/Heat_pumps" class="mw-redirect" title="Heat pumps">heat pumps</a> and other devices that move heat rather than convert it.</p>
+<p>When talking about the efficiency of heat engines and power stations the convention should be stated, i.e., HHV (<abbr title="also known as">a.k.a.</abbr> Gross Heating Value, etc.) or LCV (a.k.a. Net Heating value), and whether gross output (at the generator terminals) or net output (at the power station fence) are being considered. The two are separate but both must be stated. Failure to do so causes endless confusion.</p>
+<p>Related, more specific terms include</p>
+<ul>
+<li><a href="/wiki/Electrical_efficiency" title="Electrical efficiency">Electrical efficiency</a>, useful power output per electrical power consumed;</li>
+<li><a href="/wiki/Mechanical_efficiency" title="Mechanical efficiency">Mechanical efficiency</a>, where one form of mechanical energy (e.g. potential energy of water) is converted to mechanical energy (<a href="/wiki/Mechanical_work" class="mw-redirect" title="Mechanical work">work</a>);</li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a> or <a href="/wiki/Fuel_efficiency" title="Fuel efficiency">Fuel efficiency</a>, useful <a href="/wiki/Heat" title="Heat">heat</a> and/or <a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">work</a> <a href="/wiki/Work_output" title="Work output">output</a> per input energy such as the <a href="/wiki/Fuel" title="Fuel">fuel</a> consumed;</li>
+<li>'Total efficiency', e.g., for <a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a>, useful <a href="/wiki/Electric_power" title="Electric power">electric power</a> and heat output per fuel energy consumed. Same as the <a href="/wiki/Thermal_efficiency" title="Thermal efficiency">thermal efficiency</a>.</li>
+<li><a href="/wiki/Luminous_efficiency" class="mw-redirect" title="Luminous efficiency">Luminous efficiency</a>, that portion of the emitted electromagnetic radiation is usable for human vision.</li>
+</ul>
+<h2><span class="mw-headline" id="Fuel_heating_values_and_efficiency">Fuel heating values and efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conversion_efficiency&amp;action=edit&amp;section=2" title="Edit section: Fuel heating values and efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Europe the usable energy content of fuel is typically calculated using the <b><a href="/wiki/Lower_heating_value" class="mw-redirect" title="Lower heating value">lower heating value</a></b> (LHV) of that fuel, the definition of which assumes that the <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> produced during fuel <a href="/wiki/Combustion" title="Combustion">combustion</a> (oxidation), remains gaseous, and is not <a href="/wiki/Condensation" title="Condensation">condensed</a> to liquid water so the latent heat of vaporization of that water is not usable. Using the LHV, a <a href="/wiki/Condensing_boiler" title="Condensing boiler">condensing boiler</a> can achieve a "heating efficiency" in excess of 100% (this does not violate the <a href="/wiki/First_law_of_thermodynamics" title="First law of thermodynamics">first law of thermodynamics</a> as long as the LHV convention is understood, but does cause confusion). This is because the apparatus recovers part of the <a href="/wiki/Heat_of_vaporization" class="mw-redirect" title="Heat of vaporization">heat of vaporization</a>, which is not included in the definition of the lower heating value of fuel<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2014)">citation needed</span></a></i>]</sup>. In the U.S. and elsewhere, the <b><a href="/wiki/Higher_heating_value" class="mw-redirect" title="Higher heating value">higher heating value</a></b> (HHV) is used, which includes the latent heat for condensing the water vapor, and thus the thermodynamic maximum of 100% efficiency cannot be exceeded with HHV's use.</p>
+<h2><span class="mw-headline" id="Example_of_energy_conversion_efficiency">Example of energy conversion efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conversion_efficiency&amp;action=edit&amp;section=3" title="Edit section: Example of energy conversion efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-notice" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/44px-Wiki_letter_w.svg.png" width="44" height="44" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/66px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/88px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>is missing information about clear definition of the energy conversion efficiency for light sources. The lighting efficiency is given by the <a href="/wiki/Luminous_efficacy" title="Luminous efficacy">luminous efficacy</a> which does not allow to give a simple percentage without specifying what "100%" would be. If there is an ISO standard or another reliable source defining the energy conversion efficiency in lighting, please cite it.</b> . <span class="hide-when-compact">Please expand the article to include this information. Further details may exist on the <a href="/wiki/Talk:Energy_conversion_efficiency" title="Talk:Energy conversion efficiency">talk page</a>.</span> <small><i>(May 2012)</i></small></span></td>
+</tr>
+</table>
+<table class="wikitable">
+<tr>
+<th>Conversion process</th>
+<th>Conversion type</th>
+<th>Energy efficiency</th>
+</tr>
+<tr>
+<td colspan="3" style="background:#dfffdf;"><b>Electricity generation</b></td>
+</tr>
+<tr>
+<td><a href="/wiki/Gas_turbine" title="Gas turbine">Gas turbine</a></td>
+<td>Chemical to electrical</td>
+<td>up to 40%</td>
+</tr>
+<tr>
+<td><a href="/wiki/Gas_turbine" title="Gas turbine">Gas turbine</a> plus <a href="/wiki/Steam_turbine" title="Steam turbine">steam turbine</a> (<a href="/wiki/Combined_cycle" title="Combined cycle">combined cycle</a>)</td>
+<td>Chemical/thermal to electrical</td>
+<td>up to 60%</td>
+</tr>
+<tr>
+<td><a href="/wiki/Water_turbine" title="Water turbine">Water turbine</a></td>
+<td>Gravitational to electrical</td>
+<td>up to 90% (practically achieved)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Wind_turbine" title="Wind turbine">Wind turbine</a></td>
+<td>Kinetic to electrical</td>
+<td>up to 59% (theoretical limit)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Solar_cell" title="Solar cell">Solar cell</a></td>
+<td>Radiative to electrical</td>
+<td>6–40% (technology-dependent, 15-20% most often, 85–90% theoretical limit)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Fuel_cell" title="Fuel cell">Fuel cell</a></td>
+<td>Chemical to electrical</td>
+<td>up to 85%</td>
+</tr>
+<tr>
+<td>World <a href="/wiki/Electricity_generation" title="Electricity generation">Electricity generation</a> 2008</td>
+<td>Gross output 39%</td>
+<td>Net output 33%<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<td colspan="3" style="background:#dfffdf;"><b>Electricity storage</b></td>
+</tr>
+<tr>
+<td><a href="/wiki/Lithium-ion_battery" title="Lithium-ion battery">Lithium-ion battery</a></td>
+<td>Chemical to electrical/reversible</td>
+<td>80–90% <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Nickel-metal_hydride_battery" class="mw-redirect" title="Nickel-metal hydride battery">Nickel-metal hydride battery</a></td>
+<td>Chemical to electrical/reversible</td>
+<td>66% <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Lead-acid_battery" class="mw-redirect" title="Lead-acid battery">Lead-acid battery</a></td>
+<td>Chemical to electrical/reversible</td>
+<td>50–95% <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td colspan="3" style="background:#dfffdf;"><b>Engine/Motor</b></td>
+</tr>
+<tr>
+<td><a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">Combustion engine</a></td>
+<td>Chemical to kinetic</td>
+<td>10–50%<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Electric_motor" title="Electric motor">Electric motor</a></td>
+<td>Electrical to kinetic</td>
+<td>70–99.99% (&gt; 200 W); 50–90% (10–200 W); 30–60% (&lt; 10 W)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Turbofan" title="Turbofan">Turbofan</a></td>
+<td>Chemical to kinetic</td>
+<td>20-40%<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></td>
+</tr>
+<tr>
+<td colspan="3" style="background:#dfffdf;"><b>Natural process</b></td>
+</tr>
+<tr>
+<td><a href="/wiki/Photosynthesis" title="Photosynthesis">Photosynthesis</a></td>
+<td>Radiative to chemical</td>
+<td>up to 6%<sup id="cite_ref-urlChapter_1_-_Biological_energy_production_7-0" class="reference"><a href="#cite_note-urlChapter_1_-_Biological_energy_production-7">[7]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Muscle" title="Muscle">Muscle</a></td>
+<td>Chemical to kinetic</td>
+<td>14–27%</td>
+</tr>
+<tr>
+<td colspan="3" style="background:#dfffdf;"><b>Appliance</b></td>
+</tr>
+<tr>
+<td>Household <a href="/wiki/Refrigerator" title="Refrigerator">refrigerator</a></td>
+<td>Electrical to thermal</td>
+<td>low-end systems ~ 20%; high-end systems ~ 40–50%</td>
+</tr>
+<tr>
+<td><a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">Incandescent light bulb</a></td>
+<td>Electrical to radiative</td>
+<td>0.7–5.1%,<sup id="cite_ref-Lighting_efficiency_8-0" class="reference"><a href="#cite_note-Lighting_efficiency-8">[8]</a></sup> 5–10%<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Light-emitting_diode" title="Light-emitting diode">Light-emitting diode</a> (LED)</td>
+<td>Electrical to radiative</td>
+<td>4.2–53% <sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Fluorescent_lamp" title="Fluorescent lamp">Fluorescent lamp</a></td>
+<td>Electrical to radiative</td>
+<td>8.0–15.6%,<sup id="cite_ref-Lighting_efficiency_8-1" class="reference"><a href="#cite_note-Lighting_efficiency-8">[8]</a></sup> 28%<sup id="cite_ref-books.google.com_10-0" class="reference"><a href="#cite_note-books.google.com-10">[10]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Sodium-vapor_lamp" title="Sodium-vapor lamp">Low-pressure sodium lamp</a></td>
+<td>Electrical to radiative</td>
+<td>15.0–29.0%,<sup id="cite_ref-Lighting_efficiency_8-2" class="reference"><a href="#cite_note-Lighting_efficiency-8">[8]</a></sup> 40.5%<sup id="cite_ref-books.google.com_10-1" class="reference"><a href="#cite_note-books.google.com-10">[10]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Metal-halide_lamp" title="Metal-halide lamp">Metal-halide lamp</a></td>
+<td>Electrical to radiative</td>
+<td>9.5–17.0%,<sup id="cite_ref-Lighting_efficiency_8-3" class="reference"><a href="#cite_note-Lighting_efficiency-8">[8]</a></sup> 24%<sup id="cite_ref-books.google.com_10-2" class="reference"><a href="#cite_note-books.google.com-10">[10]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Switched-mode_power_supply" title="Switched-mode power supply">Switched-mode power supply</a></td>
+<td>Electrical to electrical</td>
+<td>currently up to 96% practically</td>
+</tr>
+<tr>
+<td>Electric shower</td>
+<td>Electrical to thermal</td>
+<td>90–95% (multiply with the energy efficiency of electricity generation for comparison with other water-heating systems)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Electric_heating" title="Electric heating">Electric heater</a></td>
+<td>Electrical to thermal</td>
+<td>~100% (essentially all energy is converted into heat, multiply with the energy efficiency of electricity generation for comparison with other heating systems)</td>
+</tr>
+<tr>
+<td colspan="3" style="background:#dfffdf;"><b>Others</b></td>
+</tr>
+<tr>
+<td><a href="/wiki/Firearm" title="Firearm">Firearm</a></td>
+<td>Chemical to kinetic</td>
+<td>~30% (.300 Hawk ammunition)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Electrolysis_of_water" title="Electrolysis of water">Electrolysis of water</a></td>
+<td>Electrical to chemical</td>
+<td>50–70% (80–94% theoretical maximum)</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conversion_efficiency&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 27em; -webkit-column-width: 27em; column-width: 27em;">
+<ul>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Energy_efficiency_(disambiguation)" class="mw-redirect mw-disambig" title="Energy efficiency (disambiguation)">Energy efficiency (disambiguation)</a></li>
+<li><a href="/wiki/Energy_Returned_on_Energy_Invested" class="mw-redirect" title="Energy Returned on Energy Invested">EROEI</a></li>
+<li><a href="/wiki/Exergy_efficiency" title="Exergy efficiency">Exergy efficiency</a></li>
+<li><a href="/wiki/Figure_of_merit" title="Figure of merit">Figure of merit</a></li>
+<li><a href="/wiki/Heat_of_combustion" title="Heat of combustion">Heat of combustion</a></li>
+<li><a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">International Electrotechnical Commission</a></li>
+<li><a href="/wiki/Perpetual_motion" title="Perpetual motion">Perpetual motion</a></li>
+<li><a href="/wiki/Sensitivity_(electronics)" title="Sensitivity (electronics)">Sensitivity (electronics)</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Coefficient_of_performance" title="Coefficient of performance">Coefficient of performance</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conversion_efficiency&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Cited</dt>
+</dl>
+<div class="reflist columns references-column-count references-column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">IEC/OECD <a rel="nofollow" class="external text" href="http://www.iea.org/stats/balancetable.asp?COUNTRY_CODE=29">2008 Energy Balance for World</a>, accessdate 2011-06-08</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Valøen, Lars Ole and Shoesmith, Mark I. (2007). The effect of PHEV and HEV duty cycles on battery and battery pack performance (PDF). 2007 Plug-in Highway Electric Vehicle Conference: Proceedings. Retrieved 11 June 2010.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">"NiMH Battery Charging Basics". PowerStream.com.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">PowerSonic, Technical Manual (PDF), p. 19, retrieved January 2014</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081007194624/http://epa.gov/midwestcleandiesel/publications/presentations/il-finance-09-06/eberhardt.pdf">"Motivations for Promoting Clean Diesels"</a> <span style="font-size:85%;">(PDF)</span>. US Department Of Energy. 2006. Archived from <a rel="nofollow" class="external text" href="http://www.epa.gov/midwestcleandiesel/publications/presentations/il-finance-09-06/eberhardt.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on October 7, 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+conversion+efficiency&amp;rft.btitle=Motivations+for+Promoting+Clean+Diesels&amp;rft.date=2006&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fmidwestcleandiesel%2Fpublications%2Fpresentations%2Fil-finance-09-06%2Feberhardt.pdf&amp;rft.pub=US+Department+Of+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node84.html">"11.5 Trends in thermal and propulsive efficiency"</a>. <i>web.mit.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+conversion+efficiency&amp;rft.atitle=11.5+Trends+in+thermal+and+propulsive+efficiency&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2F16.unified%2Fwww%2FFALL%2Fthermodynamics%2Fnotes%2Fnode84.html&amp;rft.jtitle=web.mit.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-urlChapter_1_-_Biological_energy_production-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-urlChapter_1_-_Biological_energy_production_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Miyamoto K. <a rel="nofollow" class="external text" href="http://www.fao.org/docrep/w7241e/w7241e05.htm#1.2.1%20photosynthetic%20efficiency">"Chapter 1 - Biological energy production"</a>. <i>Renewable biological systems for alternative sustainable energy production (FAO Agricultural Services Bulletin - 128)</i>. Food and Agriculture Organization of the United Nations<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+conversion+efficiency&amp;rft.atitle=Chapter+1+-+Biological+energy+production&amp;rft.au=Miyamoto+K&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fao.org%2Fdocrep%2Fw7241e%2Fw7241e05.htm%231.2.1%2520photosynthetic%2520efficiency&amp;rft.jtitle=Renewable+biological+systems+for+alternative+sustainable+energy+production+%28FAO+Agricultural+Services+Bulletin+-+128%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Lighting_efficiency-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lighting_efficiency_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lighting_efficiency_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Lighting_efficiency_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Lighting_efficiency_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/Luminous_efficacy#Lighting_efficiency" title="Luminous efficacy">Luminous efficacy#Lighting efficiency</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130331010509/http://www.philipslumileds.com/uploads/221/PG01-pdf">"All in 1 LED Lighting Solutions Guide"</a>. <i>PhilipsLumileds.com</i>. <a href="/wiki/Philips" title="Philips">Philips</a>. 2012-10-04. p.&#160;15. Archived from <a rel="nofollow" class="external text" href="http://www.philipslumileds.com/uploads/221/PG01-pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2013-03-31<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+conversion+efficiency&amp;rft.atitle=All+in+1+LED+Lighting+Solutions+Guide&amp;rft.date=2012-10-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.philipslumileds.com%2Fuploads%2F221%2FPG01-pdf&amp;rft.jtitle=PhilipsLumileds.com&amp;rft.pages=15&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-books.google.com-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-books.google.com_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-books.google.com_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-books.google.com_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=61B_RV3EdIcC&amp;pg=PA463&amp;lpg=PA463&amp;dq=meyer+nienhuis+efficiency&amp;source=web&amp;ots=urgXwn6sPi&amp;sig=zaIKOAxRMmzKjVjaaFd8GsvXNLY&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=1&amp;ct=result#PPA463,M1"><i>Light Pollution Handbook</i></a>. Springer. 2004.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+conversion+efficiency&amp;rft.btitle=Light+Pollution+Handbook&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D61B_RV3EdIcC%26pg%3DPA463%26lpg%3DPA463%26dq%3Dmeyer%2Bnienhuis%2Befficiency%26source%3Dweb%26ots%3DurgXwn6sPi%26sig%3DzaIKOAxRMmzKjVjaaFd8GsvXNLY%26hl%3Den%26sa%3DX%26oi%3Dbook_result%26resnum%3D1%26ct%3Dresult%23PPA463%2CM1&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<dl>
+<dt>General</dt>
+</dl>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conversion_efficiency&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ec.europa.eu/energy/intelligent/index_en.html">The Intelligent Energy - Europe programme: the EU's tool for funding action towards a more energy intelligent Europe</a></li>
+<li><a rel="nofollow" class="external text" href="http://ledcalculator.everlumen.com/">Does it make sense to switch to LED&#160;?</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="LampsLighting" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Artificial_light_sources" title="Template:Artificial light sources"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Artificial_light_sources" title="Template talk:Artificial light sources"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Artificial_light_sources&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="LampsLighting" style="font-size:114%">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Electric_light" title="Electric light">Lamps</a></li>
+<li><a href="/wiki/Lighting" title="Lighting">Lighting</a></li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accent_lighting" title="Accent lighting">Accent lighting</a></li>
+<li><a href="/wiki/Color_temperature" title="Color temperature">Color temperature</a></li>
+<li><a href="/wiki/Luminous_efficacy" title="Luminous efficacy">Efficiency</a></li>
+<li><a href="/wiki/Glare_(vision)" title="Glare (vision)">Glare</a></li>
+<li><a href="/wiki/Lamp_(electrical_component)" class="mw-redirect" title="Lamp (electrical component)">Lamp</a></li>
+<li><a href="/wiki/Light_fixture" title="Light fixture">Light fixture</a></li>
+<li><a href="/wiki/Light_pollution" title="Light pollution">Light pollution</a></li>
+<li><a href="/wiki/Lightbulb_socket" title="Lightbulb socket">Lightbulb socket</a></li>
+<li><a href="/wiki/Task_lighting" title="Task lighting">Task lighting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Methods of generation</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Incandescence" title="Incandescence">Incandescent</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">Regular</a></li>
+<li><a href="/wiki/Halogen_lamp" title="Halogen lamp">Halogen</a></li>
+<li><a href="/wiki/Nernst_lamp" title="Nernst lamp">Nernst</a></li>
+<li><a href="/wiki/Parabolic_aluminized_reflector_light" title="Parabolic aluminized reflector light">Parabolic aluminized reflector <span style="font-size:90%;">(PAR)</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Luminescence" title="Luminescence">Luminescent</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fluorescence" title="Fluorescence">Fluorescent</a>
+<ul>
+<li><a href="/wiki/Fluorescent_lamp" title="Fluorescent lamp">Fluorescent lamp</a>&#160;(<a href="/wiki/Compact_fluorescent_lamp" title="Compact fluorescent lamp">compact</a>)</li>
+<li><a href="/wiki/Electrodeless_lamp#Magnetic_induction_lamps" title="Electrodeless lamp">Fluorescent induction</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Photoluminescence" title="Photoluminescence">Photoluminescent</a>
+<ul>
+<li><a href="/wiki/Laser_lamp" title="Laser lamp">laser lamp</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solid-state_lighting" title="Solid-state lighting">Solid-state</a>
+<ul>
+<li><a href="/wiki/LED_lamp" title="LED lamp">LED bulb</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cathodoluminescence" title="Cathodoluminescence">Cathodoluminescent</a>
+<ul>
+<li><a href="/wiki/Electron-stimulated_luminescence" title="Electron-stimulated luminescence">Electron-stimulated</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Electroluminescence" title="Electroluminescence">Electroluminescent</a>
+<ul>
+<li><a href="/wiki/Field-induced_polymer_electroluminescent_technology" title="Field-induced polymer electroluminescent technology">field-induced polymer</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Combustion" title="Combustion">Combustion</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbide_lamp" title="Carbide lamp">Acetylene/Carbide</a></li>
+<li><a href="/wiki/Argand_lamp" title="Argand lamp">Argand</a></li>
+<li><a href="/wiki/Candle" title="Candle">Candle</a></li>
+<li><a href="/wiki/Diya_(lamp)" title="Diya (lamp)">Diya</a></li>
+<li><a href="/wiki/Flare" title="Flare">Flare</a></li>
+<li><a href="/wiki/Gas_lighting" title="Gas lighting">Gas</a></li>
+<li><a href="/wiki/Kerosene_lamp" title="Kerosene lamp">Kerosene</a></li>
+<li><a href="/wiki/Lantern" title="Lantern">Lantern</a></li>
+<li><a href="/wiki/Limelight" title="Limelight">Limelight</a></li>
+<li><a href="/wiki/Oil_lamp" title="Oil lamp">Oil</a></li>
+<li><a href="/wiki/Rushlight" title="Rushlight">Rushlight</a></li>
+<li><a href="/wiki/Safety_lamp" title="Safety lamp">Safety</a></li>
+<li><a href="/wiki/Tilley_lamp" title="Tilley lamp">Tilley</a></li>
+<li><a href="/wiki/Torch" title="Torch">Torch</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Arc_lamp" title="Arc lamp">Electric arc</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_arc_lamp" class="mw-redirect" title="Carbon arc lamp">Carbon arc</a></li>
+<li><a href="/wiki/Klieg_light" title="Klieg light">Klieg light</a></li>
+<li><a href="/wiki/Yablochkov_candle" title="Yablochkov candle">Yablochkov candle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Gas-discharge_lamp" title="Gas-discharge lamp">Gas discharge</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deuterium_arc_lamp" title="Deuterium arc lamp">Deuterium arc</a></li>
+<li><a href="/wiki/Neon_lighting" title="Neon lighting">Neon</a></li>
+<li><a href="/wiki/Plasma_lamp" title="Plasma lamp">Plasma</a></li>
+<li><a href="/wiki/Sulfur_lamp" title="Sulfur lamp">Sulfur</a></li>
+<li><a href="/wiki/Xenon_arc_lamp" title="Xenon arc lamp">Xenon arc</a></li>
+<li><a href="/wiki/Xenon_flash_lamp" class="mw-redirect" title="Xenon flash lamp">Xenon flash</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;;text-align:center;"><a href="/wiki/High-intensity_discharge_lamp" title="High-intensity discharge lamp">High-intensity<br />
+discharge <span style="font-size:90%;">(HID)</span></a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hydrargyrum_medium-arc_iodide_lamp" title="Hydrargyrum medium-arc iodide lamp">Hydrargyrum medium-arc iodide <span style="font-size:90%;">(HMI)</span></a></li>
+<li><a href="/wiki/Hydrargyrum_quartz_iodide" title="Hydrargyrum quartz iodide">Hydrargyrum quartz iodide <span style="font-size:90%;">(HQI)</span></a></li>
+<li><a href="/wiki/Mercury-vapor_lamp" title="Mercury-vapor lamp">Mercury-vapor</a></li>
+<li><a href="/wiki/Metal-halide_lamp" title="Metal-halide lamp">Metal-halide</a>
+<ul>
+<li><a href="/wiki/Ceramic_discharge_metal-halide_lamp" title="Ceramic discharge metal-halide lamp">ceramic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sodium-vapor_lamp" title="Sodium-vapor lamp">Sodium vapor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Stage_lighting" title="Stage lighting">Theatrical</a></li>
+<li>Cinematic</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Stage_lighting_instrument#Floodlights" title="Stage lighting instrument">Floodlight</a></li>
+<li><a href="/wiki/Footlight" title="Footlight">Footlight</a></li>
+<li><a href="/wiki/Gobo_(lighting)" title="Gobo (lighting)">Gobo</a></li>
+<li><a href="/wiki/Scoop_(theater)" title="Scoop (theater)">Scoop</a></li>
+<li><a href="/wiki/Spotlight_(theatre_lighting)" title="Spotlight (theatre lighting)">Spotlight</a>
+<ul>
+<li><a href="/wiki/Ellipsoidal_reflector_spotlight" title="Ellipsoidal reflector spotlight">ellipsoidal reflector</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Stage_lighting_instrument" title="Stage lighting instrument">Stage lighting instrument</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Light_fixture" title="Light fixture">Stationary</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aircraft_warning_lights" title="Aircraft warning lights">Aircraft warning</a></li>
+<li><a href="/wiki/Balanced-arm_lamp" title="Balanced-arm lamp">Balanced-arm lamp</a></li>
+<li><a href="/wiki/Chandelier" title="Chandelier">Chandelier</a></li>
+<li><a href="/wiki/Emergency_light" title="Emergency light">Emergency light</a></li>
+<li><a href="/wiki/Gas_lighting" title="Gas lighting">Gas lighting</a></li>
+<li><a href="/wiki/Gooseneck_lamp" title="Gooseneck lamp">Gooseneck lamp</a></li>
+<li><a href="/wiki/Intelligent_street_lighting" title="Intelligent street lighting">Intelligent street lighting</a></li>
+<li><a href="/wiki/Light_tube" title="Light tube">Light tube</a></li>
+<li><a href="/wiki/Nightlight" title="Nightlight">Nightlight</a></li>
+<li><a href="/wiki/Neon_lighting" title="Neon lighting">Neon lighting</a></li>
+<li><a href="/wiki/Pendant_light" title="Pendant light">Pendant light</a></li>
+<li><a href="/wiki/Recessed_light" title="Recessed light">Recessed light</a></li>
+<li><a href="/wiki/Sconce_(light_fixture)" title="Sconce (light fixture)">Sconce</a></li>
+<li><a href="/wiki/Street_light" title="Street light">Street light</a></li>
+<li><a href="/wiki/Torch%C3%A8re" title="Torchère">Torchère</a></li>
+<li><a href="/wiki/Track_lighting" title="Track lighting">Track lighting</a></li>
+<li><a href="/wiki/Troffer" title="Troffer">Troffer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mobile</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Flashlight" title="Flashlight">Flashlight</a>
+<ul>
+<li><a href="/wiki/Tactical_light" title="Tactical light">tactical</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Glow_stick" title="Glow stick">Glow stick</a></li>
+<li><a href="/wiki/Headlamp" title="Headlamp">Headlamp</a>&#160;(<a href="/wiki/Headlamp_(outdoor)" title="Headlamp (outdoor)">outdoor</a>)</li>
+<li><a href="/wiki/Lantern" title="Lantern">Lantern</a></li>
+<li><a href="/wiki/Laser_pointer" title="Laser pointer">Laser pointer</a></li>
+<li><a href="/wiki/Navigation_light" title="Navigation light">Navigation light</a></li>
+<li><a href="/wiki/Searchlight" title="Searchlight">Searchlight</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div class="hlist">
+<ul>
+<li>Industrial</li>
+<li>Scientific</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Germicidal_lamp" title="Germicidal lamp">Germicidal</a></li>
+<li><a href="/wiki/Grow_light" title="Grow light">Grow light</a></li>
+<li><a href="/wiki/Infrared_lamp" title="Infrared lamp">Infrared lamp</a></li>
+<li><a href="/wiki/Stroboscope" title="Stroboscope">Stroboscope</a></li>
+<li><a href="/wiki/Tanning_lamp" title="Tanning lamp">Tanning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div class="hlist">
+<ul>
+<li>Display</li>
+<li><a href="/wiki/Holiday_lighting_technology" title="Holiday lighting technology">Decorative</a></li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aroma_lamp" title="Aroma lamp">Aroma lamp</a></li>
+<li><a href="/wiki/Black_light" class="mw-redirect" title="Black light">Black light</a></li>
+<li><a href="/wiki/Bubble_light" title="Bubble light">Bubble light</a></li>
+<li><a href="/wiki/Christmas_lights" title="Christmas lights">Christmas lights</a></li>
+<li><a href="/wiki/Crackle_tube" title="Crackle tube">Crackle tube</a></li>
+<li><a href="/wiki/DJ_lighting" title="DJ lighting">DJ lighting</a></li>
+<li><a href="/wiki/Electroluminescent_wire" title="Electroluminescent wire">Electroluminescent wire</a></li>
+<li><a href="/wiki/Lava_lamp" title="Lava lamp">Lava lamp</a></li>
+<li><a href="/wiki/Marquee_(sign)" title="Marquee (sign)">Marquee</a></li>
+<li><a href="/wiki/Plasma_globe" title="Plasma globe">Plasma globe</a></li>
+<li><a href="/wiki/Strobe_light" title="Strobe light">Strobe light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bioluminescence" title="Bioluminescence">Bioluminescence</a></li>
+<li><a href="/wiki/Chemiluminescence" title="Chemiluminescence">Chemiluminescence</a></li>
+<li><a href="/wiki/Electroluminescence" title="Electroluminescence">Electroluminescence</a></li>
+<li><a href="/wiki/Laser" title="Laser">Laser</a></li>
+<li><a href="/wiki/Photoluminescence" title="Photoluminescence">Photoluminescence</a></li>
+<li><a href="/wiki/Radioluminescence" title="Radioluminescence">Radioluminescence</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20170309060155
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.168 seconds
+Real time usage: 0.248 seconds
+Preprocessor visited node count: 1218/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58687/2097152 bytes
+Template argument size: 1876/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 5/500
+Lua time usage: 0.074/10.000 seconds
+Lua memory usage: 3.38 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  168.982      1 -total
+ 31.48%   53.187      1 Template:Reflist
+ 22.79%   38.512      3 Template:Citation_needed
+ 22.32%   37.716      4 Template:Cite_web
+ 21.51%   36.351      1 Template:Refimprove
+ 20.73%   35.027      3 Template:Fix
+ 15.68%   26.494      2 Template:Ambox
+ 15.58%   26.325      2 Template:Navbox
+ 13.67%   23.098      1 Template:Artificial_light_sources
+ 12.34%   20.846      3 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7005062-0!*!0!!en!4!*!math=5 and timestamp 20170309060155 and revision id 763356954
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_conversion_efficiency&amp;oldid=763356954">https://en.wikipedia.org/w/index.php?title=Energy_conversion_efficiency&amp;oldid=763356954</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Building_engineering" title="Category:Building engineering">Building engineering</a></li><li><a href="/wiki/Category:Dimensionless_numbers_of_thermodynamics" title="Category:Dimensionless numbers of thermodynamics">Dimensionless numbers of thermodynamics</a></li><li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li><li><a href="/wiki/Category:Energy_conversion" title="Category:Energy conversion">Energy conversion</a></li><li><a href="/wiki/Category:Energy_efficiency" title="Category:Energy efficiency">Energy efficiency</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2008" title="Category:Articles needing additional references from August 2008">Articles needing additional references from August 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2016" title="Category:Articles with unsourced statements from May 2016">Articles with unsourced statements from May 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2014" title="Category:Articles with unsourced statements from October 2014">Articles with unsourced statements from October 2014</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_May_2012" title="Category:Articles to be expanded from May 2012">Articles to be expanded from May 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2011" title="Category:Articles with unsourced statements from July 2011">Articles with unsourced statements from July 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Energy+conversion+efficiency" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Energy+conversion+efficiency" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Energy_conversion_efficiency"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Energy_conversion_efficiency"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Energy_conversion_efficiency" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Energy_conversion_efficiency&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Energy_conversion_efficiency&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Energy_conversion_efficiency" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Energy_conversion_efficiency" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Energy_conversion_efficiency&amp;oldid=763356954" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Energy_conversion_efficiency&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q192704" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Energy_conversion_efficiency&amp;id=763356954" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Energy+conversion+efficiency">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Energy+conversion+efficiency&amp;returnto=Energy+conversion+efficiency&amp;oldid=763356954&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Energy_conversion_efficiency&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%83%D9%81%D8%A7%D8%A1%D8%A9_%D8%AA%D8%AD%D9%88%D9%8A%D9%84_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9" title="كفاءة تحويل الطاقة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%8D%D1%84%D1%96%D1%86%D1%8B%D0%B5%D0%BD%D1%82_%D0%BA%D0%B0%D1%80%D1%8B%D1%81%D0%BD%D0%B0%D0%B3%D0%B0_%D0%B4%D0%B7%D0%B5%D1%8F%D0%BD%D0%BD%D1%8F" title="Каэфіцыент карыснага дзеяння – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B5%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5" title="Коефициент на полезно действие – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C3%9A%C4%8Dinnost_(fyzika)" title="Účinnost (fyzika) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Virkningsgrad" title="Virkningsgrad – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wirkungsgrad" title="Wirkungsgrad – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kasutegur" title="Kasutegur – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Eficacia_energ%C3%A9tica" title="Eficacia energética – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Efikeco" title="Efikeco – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%AF%D9%87_%D8%AA%D8%A8%D8%AF%DB%8C%D9%84_%D8%A7%D9%86%D8%B1%DA%98%DB%8C" title="بازده تبدیل انرژی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Efficacit%C3%A9_%C3%A9nerg%C3%A9tique_(thermodynamique)" title="Efficacité énergétique (thermodynamique) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%84%88%EC%A7%80_%ED%9A%A8%EC%9C%A8" title="에너지 효율 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%95%D5%A3%D5%BF%D5%A1%D5%AF%D5%A1%D6%80_%D5%A3%D5%B8%D6%80%D5%AE%D5%B8%D5%B2%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6_%D5%A3%D5%B8%D6%80%D5%AE%D5%A1%D5%AF%D5%AB%D6%81" title="Օգտակար գործողության գործակից – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%89%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BE_%E0%A4%B0%E0%A5%82%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%A3_%E0%A4%95%E0%A5%80_%E0%A4%A6%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BE" title="उर्जा रूपान्तरण की दक्षता – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Efficienza_energetica" title="Efficienza energetica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A0%D7%A6%D7%99%D7%9C%D7%95%D7%AA" title="נצילות – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B9%D0%B4%D0%B0%D0%BB%D1%8B_%D3%99%D1%81%D0%B5%D1%80_%D0%BA%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82%D1%96" title="Пайдалы әсер коэффициенті – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Lietder%C4%ABbas_koeficients" title="Lietderības koeficients – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Naudingumo_koeficientas" title="Naudingumo koeficientas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Hat%C3%A1sfok" title="Hatásfok – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Rendement_(energie)" title="Rendement (energie) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%B9%E7%8E%87" title="エネルギー効率 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Virkningsgrad" title="Virkningsgrad – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Verkningsgrad" title="Verkningsgrad – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Sprawno%C5%9B%C4%87" title="Sprawność – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Randament" title="Randament – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82_%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F" title="Коэффициент полезного действия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Energy_efficiency" title="Energy efficiency – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Efekt%C3%ADvna_%C3%BA%C4%8Dinnos%C5%A5" title="Efektívna účinnosť – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Izkoristek" title="Izkoristek – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99" title="ประสิทธิภาพการแปลงพลังงาน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Enerji_d%C3%B6n%C3%BC%C5%9F%C3%BCm_verimlili%C4%9Fi" title="Enerji dönüşüm verimliliği – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B5%D1%84%D1%96%D1%86%D1%96%D1%94%D0%BD%D1%82_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D0%BE%D1%97_%D0%B4%D1%96%D1%97" title="Коефіцієнт корисної дії – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%83%BD%E9%87%8F%E8%BD%89%E6%8F%9B%E6%95%88%E7%8E%87" title="能量轉換效率 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q192704#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 February 2017, at 19:41.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Energy_conversion_efficiency&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.168","walltime":"0.248","ppvisitednodes":{"value":1218,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58687,"limit":2097152},"templateargumentsize":{"value":1876,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  168.982      1 -total"," 31.48%   53.187      1 Template:Reflist"," 22.79%   38.512      3 Template:Citation_needed"," 22.32%   37.716      4 Template:Cite_web"," 21.51%   36.351      1 Template:Refimprove"," 20.73%   35.027      3 Template:Fix"," 15.68%   26.494      2 Template:Ambox"," 15.58%   26.325      2 Template:Navbox"," 13.67%   23.098      1 Template:Artificial_light_sources"," 12.34%   20.846      3 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.074","limit":"10.000"},"limitreport-memusage":{"value":3541168,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20170309060155","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1275"});});</script>
+	</body>
+</html>

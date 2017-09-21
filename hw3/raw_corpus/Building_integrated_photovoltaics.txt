@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Building-integrated photovoltaics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Building-integrated_photovoltaics","wgTitle":"Building-integrated photovoltaics","wgCurRevisionId":763508057,"wgRevisionId":763508057,"wgArticleId":9629917,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from June 2010","Wikipedia articles needing clarification from December 2007","Articles with unsourced statements from October 2011","Articles with unsourced statements from October 2008","Pages with URL errors","Applications of photovoltaics","Building materials"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Building-integrated_photovoltaics","wgRelevantArticleId":9629917,"wgRequestId":"WMCJgwpAMFsAAAyZpf8AAABD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Building_integrated_photovoltaics","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Building-integrated_photovoltaics","wgWikibaseItemId":"Q1497383","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG/1200px-Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Building-integrated_photovoltaics"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Building-integrated_photovoltaics"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Building-integrated_photovoltaics rootpage-Building-integrated_photovoltaics skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Building-integrated photovoltaics</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Building_integrated_photovoltaics&amp;redirect=no" class="mw-redirect" title="Building integrated photovoltaics">Building integrated photovoltaics</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">"BAPV" redirects here. For the bank, see <a href="/wiki/Banca_Antonveneta" title="Banca Antonveneta">Banca Antonveneta</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:CIS_Tower.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CIS_Tower.jpg/200px-CIS_Tower.jpg" width="200" height="361" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CIS_Tower.jpg/300px-CIS_Tower.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CIS_Tower.jpg/400px-CIS_Tower.jpg 2x" data-file-width="694" data-file-height="1254" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CIS_Tower.jpg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/CIS_Tower" title="CIS Tower">CIS Tower</a> in <a href="/wiki/Manchester" title="Manchester">Manchester</a>, <a href="/wiki/England" title="England">England</a> was clad in PV panels at a cost of £5.5 million. It started feeding electricity to the <a href="/wiki/National_Grid_(UK)" class="mw-redirect" title="National Grid (UK)">National Grid</a> in November 2005.</div>
+</div>
+</div>
+<p><b>Building-integrated photovoltaics</b> (<b>BIPV</b>) are <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> materials that are used to replace conventional building materials in parts of the <a href="/wiki/Building_envelope" title="Building envelope">building envelope</a> such as the roof, skylights, or facades.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> They are increasingly being incorporated into the construction of new buildings as a principal or ancillary source of electrical power, although existing buildings may be retrofitted with similar technology. The advantage of integrated photovoltaics over more common non-integrated systems is that the initial cost can be offset by reducing the amount spent on building materials and labor that would normally be used to construct the part of the building that the BIPV modules replace. These advantages make BIPV one of the fastest growing segments of the photovoltaic industry.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2010)">citation needed</span></a></i>]</sup></p>
+<p>The term <b>building-applied photovoltaics</b> (<b>BAPV</b>) is sometimes used to refer to photovoltaics that are a retrofit – integrated into the building after construction is complete. Most building-integrated installations are actually BAPV. Some manufacturers and builders differentiate new construction BIPV from BAPV.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Forms"><span class="tocnumber">2</span> <span class="toctext">Forms</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Transparent_and_translucent_photovoltaics"><span class="tocnumber">3</span> <span class="toctext">Transparent and translucent photovoltaics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Government_subsidies"><span class="tocnumber">4</span> <span class="toctext">Government subsidies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#European_Union"><span class="tocnumber">4.1</span> <span class="toctext">European Union</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#USA"><span class="tocnumber">4.2</span> <span class="toctext">USA</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#China"><span class="tocnumber">4.3</span> <span class="toctext">China</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Other_integrated_photovoltaics"><span class="tocnumber">5</span> <span class="toctext">Other integrated photovoltaics</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>PV applications for buildings began appearing in the 1970s. Aluminum-framed photovoltaic modules were connected to, or mounted on, buildings that were usually in remote areas without access to an electric power grid. In the 1980s photovoltaic module add-ons to roofs began being demonstrated. These PV systems were usually installed on utility-grid-connected buildings in areas with centralized power stations. In the 1990s BIPV construction products specially designed to be integrated into a building envelope became commercially available.<sup id="cite_ref-eiffert_3-0" class="reference"><a href="#cite_note-eiffert-3">[3]</a></sup> A 1998 doctoral thesis by Patrina Eiffert, entitled <i>An Economic Assessment of BIPV</i>, hypothesized that one day there would an economic value for trading Renewable Energy Credits (RECs).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> A 2011 economic assessment and brief overview of the history of BIPV by the <a href="/wiki/U.S._National_Renewable_Energy_Laboratory" class="mw-redirect" title="U.S. National Renewable Energy Laboratory">U.S. National Renewable Energy Laboratory</a> suggests that there may be significant technical challenges to overcome before the installed cost of BIPV is competitive with photovoltaic panels.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> However, there is a growing consensus that through their widespread commercialization, BIPV systems will become the backbone of the zero energy building (ZEB) European target for 2020.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Despite technical promise, social barriers to widespread use have also been identified, such as the conservative culture of the building industry and integration with high-density urban design. These authors suggest enabling long-term use likely depends on effective public policy decisions as much as the technological development.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<div class="thumb tmulti tnone center">
+<div class="thumbinner" style="width:641px;max-width:641px">
+<div class="tsingle" style="float:left;margin:1px;width:185px;max-width:185px">
+<div class="thumbimage"><a href="/wiki/File:Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG/183px-Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG" width="183" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG/275px-Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG/366px-Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG 2x" data-file-width="3648" data-file-height="2736" /></a></div>
+<div class="thumbcaption" style="clear:left">Photovoltaic wall near Barcelona, Spain</div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:207px;max-width:207px">
+<div class="thumbimage"><a href="/wiki/File:Projet_BIPV_-_Gare_TGV_de_Perpignan.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Projet_BIPV_-_Gare_TGV_de_Perpignan.jpg/205px-Projet_BIPV_-_Gare_TGV_de_Perpignan.jpg" width="205" height="136" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Projet_BIPV_-_Gare_TGV_de_Perpignan.jpg/308px-Projet_BIPV_-_Gare_TGV_de_Perpignan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Projet_BIPV_-_Gare_TGV_de_Perpignan.jpg/410px-Projet_BIPV_-_Gare_TGV_de_Perpignan.jpg 2x" data-file-width="1600" data-file-height="1065" /></a></div>
+<div class="thumbcaption" style="clear:left">Projet BIPV, <a href="/wiki/Gare_de_Perpignan" title="Gare de Perpignan">Gare de Perpignan</a>, Southern France</div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:243px;max-width:243px">
+<div class="thumbimage"><a href="/wiki/File:PV_solar_parking.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/PV_solar_parking.jpg/241px-PV_solar_parking.jpg" width="241" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/PV_solar_parking.jpg/362px-PV_solar_parking.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/PV_solar_parking.jpg/482px-PV_solar_parking.jpg 2x" data-file-width="2592" data-file-height="1456" /></a></div>
+<div class="thumbcaption" style="clear:left">PV Solar parking canopy, Autonomous University of Madrid, Spain</div>
+</div>
+<div style="clear:left"></div>
+</div>
+</div>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Forms">Forms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=2" title="Edit section: Forms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg/220px-Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg/330px-Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg/440px-Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg 2x" data-file-width="2288" data-file-height="1712" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Solar_cell_panels_on_roof_Gillette_Stadium_2010.jpg" class="internal" title="Enlarge"></a></div>
+2009 Energy Project Award Winning 525 kilowatt BIPV CoolPly system manufactured by SolarFrameWorks, Co. on the Patriot Place Complex Adjacent to the Gillette Stadium in Foxborough, MA. System is installed on single-ply roofing membrane on a flat roof using no roof penetrations.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:BAPV_solar-facade.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/BAPV_solar-facade.JPG/220px-BAPV_solar-facade.JPG" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/BAPV_solar-facade.JPG/330px-BAPV_solar-facade.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/BAPV_solar-facade.JPG/440px-BAPV_solar-facade.JPG 2x" data-file-width="3264" data-file-height="1836" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BAPV_solar-facade.JPG" class="internal" title="Enlarge"></a></div>
+BAPV solar facade on a municipal building located in <a href="/wiki/Madrid" title="Madrid">Madrid</a> (<a href="/wiki/Spain" title="Spain">Spain</a>).</div>
+</div>
+</div>
+<p>Building-Integrated Photovoltaic modules are available in several forms.</p>
+<ul>
+<li>Flat roofs
+<ul>
+<li>The most widely installed to date is an amorphous <a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">thin film solar cell</a> integrated to a flexible <a href="/wiki/Polymer" title="Polymer">polymer</a> module which has been attached to the roofing membrane using an adhesive sheet between the solar module backsheet and the roofing membrane.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (December 2007)">clarification needed</span></a></i>]</sup></li>
+</ul>
+</li>
+<li><a href="/wiki/Pitched_roof" class="mw-redirect" title="Pitched roof">Pitched roofs</a>
+<ul>
+<li>Modules shaped like multiple roof tiles.</li>
+<li><a href="/wiki/Solar_shingles" class="mw-redirect" title="Solar shingles">Solar shingles</a> are modules designed to look and act like regular shingles, while incorporating a flexible thin film cell.</li>
+<li>It extends normal roof life by protecting insulation and membranes from ultraviolet rays and water degradation. It does this by eliminating condensation because the <a href="/wiki/Dew_point" title="Dew point">dew point</a> is kept above the roofing membrane.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+</ul>
+</li>
+<li><a href="/wiki/Facade" title="Facade">Facade</a>
+<ul>
+<li>Facades can be installed on existing buildings, giving old buildings a whole new look. These modules are mounted on the facade of the building, over the existing structure, which can increase the appeal of the building and its resale value.<sup id="cite_ref-henemann_9-0" class="reference"><a href="#cite_note-henemann-9">[9]</a></sup></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Glazing_(window)" title="Glazing (window)">Glazing</a>
+<ul>
+<li>(Semi)transparent modules can be used to replace a number of architectural elements commonly made with glass or similar materials, such as windows and skylights.</li>
+</ul>
+</li>
+</ul>
+<p>What is BIPV?</p>
+<ul>
+<li>Three Main Types of BIPV Products
+<ul>
+<li>Crystalline silicon solar panels for ground-based and rooftop power plant</li>
+<li>Amorphous crystalline silicon thin film solar pv modules which could be hollow, light, red blue yellow, as glass curtain wall and transparent skylight.</li>
+<li>Double glasses solar panels with square cells inside.</li>
+</ul>
+</li>
+</ul>
+<p>Recently (in 2011-2016), Australian researchers have been working on developing the new approaches to implementing the unconventional BIPV systems and technologies, including solar photovoltaic windows of high visible transparency capable of providing significant energy savings<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> due to superior thermal insulation properties and solar radiation control. Significant electric energy outputs were obtained from installation-ready framed PV window systems.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Transparent_and_translucent_photovoltaics">Transparent and translucent photovoltaics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=3" title="Edit section: Transparent and translucent photovoltaics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Transparency_and_translucency" title="Transparency and translucency">Transparent</a> solar panels use a <a href="/wiki/Tin_oxide" title="Tin oxide">tin oxide</a> <a href="/wiki/Coating" title="Coating">coating</a> on the inner surface of the glass panes to conduct current out of the cell. The cell contains titanium oxide that is coated with a <a href="/wiki/Photoelectric" class="mw-redirect" title="Photoelectric">photoelectric</a> <a href="/wiki/Dye" title="Dye">dye</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Most conventional solar cells use visible and <a href="/wiki/Infrared_light" class="mw-redirect" title="Infrared light">infrared light</a> to generate electricity. In contrast, the innovative new solar cell also uses ultraviolet radiation. Used to replace conventional window glass, or placed over the glass, the installation surface area could be large, leading to potential uses that take advantage of the combined functions of power generation, lighting and temperature control.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup></p>
+<p>Another name for transparent photovoltaics is “<a href="/wiki/Translucent" class="mw-redirect" title="Translucent">translucent</a> photovoltaics” (they transmit half the light that falls on them). Similar to inorganic photovoltaics, <a href="/wiki/Organic_photovoltaics" class="mw-redirect" title="Organic photovoltaics">organic photovoltaics</a> are also capable of being translucent.</p>
+<h2><span class="mw-headline" id="Government_subsidies">Government subsidies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=4" title="Edit section: Government subsidies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Financial_incentives_for_photovoltaics" title="Financial incentives for photovoltaics">Financial incentives for photovoltaics</a></div>
+<p>In some countries, additional incentives, or subsidies, are offered for building-integrated photovoltaics in addition to the existing feed-in tariffs for stand-alone solar systems. Since July 2006 France offered the highest incentive for BIPV, equal to an extra premium of EUR 0.25/kWh paid in addition to the 30 Euro cents for PV systems.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-CLER_14-0" class="reference"><a href="#cite_note-CLER-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> These incentives are offered in the form of a rate paid for electricity fed to the grid.</p>
+<h3><span class="mw-headline" id="European_Union">European Union</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=5" title="Edit section: European Union">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>France €0.25/kWh<sup id="cite_ref-CLER_14-1" class="reference"><a href="#cite_note-CLER-14">[14]</a></sup></li>
+<li>Germany €0.05/kWh facade bonus expired in 2009</li>
+<li>Italy €0.04–€0.09/kWh<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2008)">citation needed</span></a></i>]</sup></li>
+<li>United Kingdom 4.18 p/kWh<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+<li>Spain, compared with a non- building installation that receives €0.28/kWh (RD 1578/2008):
+<ul>
+<li>≤20&#160;kW: €0.34/kWh</li>
+<li>&gt;20&#160;kW: €0.31/kWh</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="USA">USA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=6" title="Edit section: USA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>USA – Varies by state. Check Database of State Incentives for Renewables &amp; Efficiency for more details.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="China">China</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=7" title="Edit section: China">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Further to the announcement of a subsidy program for BIPV projects in March 2009 offering RMB20 per watt for BIPV systems and RMB15/watt for rooftop systems, the Chinese government recently unveiled a photovoltaic energy subsidy program “the Golden Sun Demonstration Project”. The subsidy program aims at supporting the development of photovoltaic electricity generation ventures and the commercialization of PV technology. The Ministry of Finance, the Ministry of Science and Technology and the National Energy Bureau have jointly announced the details of the program in July 2009.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Qualified on-grid photovoltaic electricity generation projects including rooftop, BIPV, and ground mounted systems are entitled to receive a subsidy equal to 50% of the total investment of each project, including associated transmission infrastructure. Qualified off-grid independent projects in remote areas will be eligible for subsidies of up to 70% of the total investment.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> In mid November, China’s finance ministry has selected 294 projects totaling 642 megawatts that come to roughly RMB 20 billion ($3 billion) in costs for its subsidy plan to dramatically boost the country’s solar energy production.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h2><span class="mw-headline" id="Other_integrated_photovoltaics">Other integrated photovoltaics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=8" title="Edit section: Other integrated photovoltaics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Vehicle-integrated_photovoltaics" class="mw-redirect" title="Vehicle-integrated photovoltaics">Vehicle-integrated photovoltaics</a> (ViPV) are similar for vehicles.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Solar cells could be embedded into panels exposed to sunlight such as the hood, roof and possibly the trunk depending on a car's design.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 24em; -webkit-column-width: 24em; column-width: 24em;">
+<ul>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+<li><a href="/wiki/Photovoltaic_module" class="mw-redirect" title="Photovoltaic module">Solar panel</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Roof_tile" class="mw-redirect" title="Roof tile">Roof tile</a></li>
+<li><a href="/wiki/Smart_glass" title="Smart glass">Smart glass</a>, a type of window blind capable of conserving energy for cooling</li>
+<li><a href="/wiki/Solar_cell" title="Solar cell">Solar cell</a></li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar power</a></li>
+<li><a href="/wiki/Solar_thermal" class="mw-redirect" title="Solar thermal">Solar thermal</a></li>
+<li><a href="/wiki/Zero-energy_building" title="Zero-energy building">Zero-energy building</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Agrawal, Basant; Tiwari, G N (2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=SNNpN6jBBkQC">1 <i>Building Integrated Photovoltaic Thermal Systems</i></a> <span style="font-size:100%" class="error citation-comment">Check <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> value (<a href="/wiki/Help:CS1_errors#bad_url" title="Help:CS1 errors">help</a>)</span>. Cambridge, UK: Royal Society of Chemistry. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84973-090-7" title="Special:BookSources/978-1-84973-090-7">978-1-84973-090-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.aufirst=Basant&amp;rft.aulast=Agrawal&amp;rft.au=Tiwari%2C+G+N&amp;rft.btitle=Building+Integrated+Photovoltaic+Thermal+Systems&amp;rft.date=2011&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DSNNpN6jBBkQC+1&amp;rft.isbn=978-1-84973-090-7&amp;rft.place=Cambridge%2C+UK&amp;rft.pub=Royal+Society+of+Chemistry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Warrick, Joby (March 2015). <a rel="nofollow" class="external text" href="http://www.washingtonpost.com/national/health-science/utilities-sensing-threat-put-squeeze-on-booming-solar-roof-industry/2015/03/07/2d916f88-c1c9-11e4-ad5c-3b8ce89f1b89_story.html"><i>Utilities, sensing threat, put squeeze on booming solar roof industry</i></a>. The <a href="/wiki/Washington_Post" class="mw-redirect" title="Washington Post">Washington Post</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.aufirst=Joby&amp;rft.aulast=Warrick&amp;rft.btitle=Utilities%2C+sensing+threat%2C+put+squeeze+on+booming+solar+roof+industry&amp;rft.date=2015-03&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.washingtonpost.com%2Fnational%2Fhealth-science%2Futilities-sensing-threat-put-squeeze-on-booming-solar-roof-industry%2F2015%2F03%2F07%2F2d916f88-c1c9-11e4-ad5c-3b8ce89f1b89_story.html&amp;rft.pub=The+Washington+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Strong, Steven (June 9, 2010). <a rel="nofollow" class="external text" href="http://www.wbdg.org/resources/bipv.php">"Building Integrated Photovoltaics (BIPV)"</a>. <i>wbdg.org</i>. Whole Building Design Guide<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.atitle=Building+Integrated+Photovoltaics+%28BIPV%29&amp;rft.aufirst=Steven&amp;rft.aulast=Strong&amp;rft.date=2010-06-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wbdg.org%2Fresources%2Fbipv.php&amp;rft.jtitle=wbdg.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.solarserver.com/solar-magazine/solar-report/solar-report/building-integrated-photovoltaics-an-emerging-market.html">"Building Integrated Photovoltaics: An emerging market"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.btitle=Building+Integrated+Photovoltaics%3A+An+emerging+market&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solarserver.com%2Fsolar-magazine%2Fsolar-report%2Fsolar-report%2Fbuilding-integrated-photovoltaics-an-emerging-market.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-eiffert-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-eiffert_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Eiffert, Patrina; Kiss, Gregory J. (2000). <a rel="nofollow" class="external text" href="https://books.google.com/?id=f0VfcgrB9GEC&amp;pg=PT46&amp;dq=%22construction+materials%22+intitle:%22Building-Integrated+Photovoltaic+Designs+for+Commercial+and+Institutional+Structures%22"><i>Building-Integrated Photovoltaic Designs for Commercial and Institutional Structures: A Source Book for Architect</i></a>. p.&#160;59. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4289-1804-7" title="Special:BookSources/978-1-4289-1804-7">978-1-4289-1804-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.aufirst=Patrina&amp;rft.au=Kiss%2C+Gregory+J.&amp;rft.aulast=Eiffert&amp;rft.btitle=Building-Integrated+Photovoltaic+Designs+for+Commercial+and+Institutional+Structures%3A+A+Source+Book+for+Architect&amp;rft.date=2000&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3Df0VfcgrB9GEC%26pg%3DPT46%26dq%3D%2522construction%2Bmaterials%2522%2Bintitle%3A%2522Building-Integrated%2BPhotovoltaic%2BDesigns%2Bfor%2BCommercial%2Band%2BInstitutional%2BStructures%2522&amp;rft.isbn=978-1-4289-1804-7&amp;rft.pages=59&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Eiffert, Patrina (1998). <i>An Economic Assessment of Building Integrated Photovoltaics</i>. Oxford Brookes School of Architecture.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.aufirst=Patrina&amp;rft.aulast=Eiffert&amp;rft.btitle=An+Economic+Assessment+of+Building+Integrated+Photovoltaics&amp;rft.date=1998&amp;rft.genre=book&amp;rft.place=Oxford+Brookes+School+of+Architecture&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">James, Ted; Goodrich, A.; Woodhouse, M.; Margolis, R.; Ong, S. (November 2011). "<a rel="nofollow" class="external text" href="http://www.nrel.gov/docs/fy12osti/53103.pdf">Building-Integrated Photovoltaics (BIPV) in the Residential Sector: An Analysis of Installed Rooftop System Prices</a>." NREL/TR-6A20-53103.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ibe.sagepub.com/content/23/1/92">"Investigation of building integrated photovoltaics potential in achieving the zero energy building target"</a>. <i>Angeliki Kylili, Paris A. Fokaides,</i>. Indoor and Built Environment<span class="reference-accessdate">. Retrieved <span class="nowrap">30 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.atitle=Investigation+of+building+integrated+photovoltaics+potential+in+achieving+the+zero+energy+building+target&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fibe.sagepub.com%2Fcontent%2F23%2F1%2F92&amp;rft.jtitle=Angeliki+Kylili%2C+Paris+A.+Fokaides%2C&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Temby O.; Konstantinos K.; Berton H.; Rosenbloom D.; Gibson G., Athienitis A.; Meadowcroft J.(November 2014). "<a rel="nofollow" class="external text" href="http://www.tandfonline.com/doi/abs/10.1080/00139157.2014.964092?journalCode=venv20#.VIGxozHF98F">Building-Integrated Photovoltaics: Distributed Energy Development for Urban Sustainability</a>." Environment Magazine</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Eiffert, Patrina (2000). <a rel="nofollow" class="external text" href="http://www.nrel.gov/docs/fy00osti/25272.pdf"><i>Building-Integrated Photovoltaic Designs for Commercial and Institutional Structures: A Source Book for Architect</i></a> <span style="font-size:85%;">(PDF)</span>. pp.&#160;60–61.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.aufirst=Patrina&amp;rft.aulast=Eiffert&amp;rft.btitle=Building-Integrated+Photovoltaic+Designs+for+Commercial+and+Institutional+Structures%3A+A+Source+Book+for+Architect&amp;rft.date=2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nrel.gov%2Fdocs%2Ffy00osti%2F25272.pdf&amp;rft.pages=60-61&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-henemann-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-henemann_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/David_H._Bailey" title="David H. Bailey">Henemann, Andreas</a> (2008-11-29). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B8JJF-4VJ60P5-3&amp;_user=10&amp;_coverDate=12%2F31%2F2008&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_searchStrId=942226453&amp;_rerunOrigin=google&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=77a90ba9d407e3866542522b4e2ec356">"BIPV: Built- in Solar Energy"</a>. <i>Renewable Energy Focus</i>. Science Direct. <b>9</b> (6): 14, 16–19. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS1471-0846%2808%2970179-3">10.1016/S1471-0846(08)70179-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.atitle=BIPV%3A+Built-+in+Solar+Energy&amp;rft.aufirst=Andreas&amp;rft.aulast=Henemann&amp;rft.date=2008-11-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%3F_ob%3DArticleURL%26_udi%3DB8JJF-4VJ60P5-3%26_user%3D10%26_coverDate%3D12%252F31%252F2008%26_rdoc%3D1%26_fmt%3D%26_orig%3Dsearch%26_sort%3Dd%26_docanchor%3D%26view%3Dc%26_searchStrId%3D942226453%26_rerunOrigin%3Dgoogle%26_acct%3DC000050221%26_version%3D1%26_urlVersion%3D0%26_userid%3D10%26md5%3D77a90ba9d407e3866542522b4e2ec356&amp;rft_id=info%3Adoi%2F10.1016%2FS1471-0846%2808%2970179-3&amp;rft.issue=6&amp;rft.jtitle=Renewable+Energy+Focus&amp;rft.pages=14%2C+16-19&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Vasiliev, M. et al. Photonic microstructures for energy-generating clear glass and net-zero energy buildings. Sci. Rep. 6, 31831; doi: 10.1038/srep31831 (2016).</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=0tu_qG21R08">https://www.youtube.com/watch?v=0tu_qG21R08</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">West, Mike (November 1992). <a rel="nofollow" class="external text" href="http://www.p2pays.org/ref/13/12130.pdf">"Transparent PV Panel"</a> <span style="font-size:85%;">(PDF)</span>. <i>Energy Efficiency and Environmental News</i>. Florida Energy Extension Service, Florida Cooperative Extension Service, Institute of Food and Agricultural Sciences, University of Florida<span class="reference-accessdate">. Retrieved <span class="nowrap">October 5,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.atitle=Transparent+PV+Panel&amp;rft.aufirst=Mike&amp;rft.aulast=West&amp;rft.date=1992-11&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.p2pays.org%2Fref%2F13%2F12130.pdf&amp;rft.jtitle=Energy+Efficiency+and+Environmental+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eugenestandard.org/index.cfm?inc=news&amp;id=96">"Subsidies: France moves up, Netherlands down"</a>. Eugene Standard. 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-26</span></span>. <q>30 €ct per kilowatt-hour (40 €ct for Corsica) for twenty years, while an extra premium of 25 €ct/kWh is received for roof-, wall- or window-integrated PV. Moreover, individual households also can receive a 50% tax credit for their PV investments.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.btitle=Subsidies%3A+France+moves+up%2C+Netherlands+down&amp;rft.date=2006&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eugenestandard.org%2Findex.cfm%3Finc%3Dnews%26id%3D96&amp;rft.pub=Eugene+Standard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CLER-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-CLER_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CLER_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cler.org/info/article.php3?id_article=3281">"CLER - Comité de Liaison Energies Renouvelables"</a>. <a href="/w/index.php?title=CLER&amp;action=edit&amp;redlink=1" class="new" title="CLER (page does not exist)">CLER</a>. 2008-06-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-26</span></span>. <q>30 à 55* c€/kWh en France continentale</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.btitle=CLER+-+Comit%C3%A9+de+Liaison+Energies+Renouvelables&amp;rft.date=2008-06-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cler.org%2Finfo%2Farticle.php3%3Fid_article%3D3281&amp;rft.pub=CLER&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.leonardo-energy.org/drupal/node/897">PV Subsidies: France up, Netherlands down | Leonardo ENERGY</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080203103231/http://www.leonardo-energy.org/drupal/node/897">Archived</a> February 3, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.energysavingtrust.org.uk/domestic/content/feed-tariff-scheme">[1]</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dsireusa.org/">"DSIRE Home"</a>. <i>dsireusa.org</i>. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">October 5,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.atitle=DSIRE+Home&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dsireusa.org%2F&amp;rft.jtitle=dsireusa.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.snec.org.cn/Read_e.asp?ID=8582">"China launches "Golden Sun" subsidies for 500 MW of PV projects by 2012"</a>. <i>snec.org.cn</i>. SNEC PV. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">October 5,</span> 2011</span>. <q>China launched its much anticipated Golden Sun program of incentives for the deployment of 500 MW of large-scale solar PV projects throughout the country on July 21.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.atitle=China+launches+%22Golden+Sun%22+subsidies+for+500+MW+of+PV+projects+by+2012&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.snec.org.cn%2FRead_e.asp%3FID%3D8582&amp;rft.jtitle=snec.org.cn&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pvgroup.org/events/ctr_031358">"The Golden Sun of China"</a>. <i>pvgroup.org</i>. PV Group. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">October 5,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.atitle=The+Golden+Sun+of+China&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pvgroup.org%2Fevents%2Fctr_031358&amp;rft.jtitle=pvgroup.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Wang, Ucilia (November 16, 2009). <a rel="nofollow" class="external text" href="http://www.greentechmedia.com/articles/read/here-comes-chinas-3b-golden-sun-projects/">"Here Comes China's $3B, 'Golden Sun' Projects"</a>. Greentech Media<span class="reference-accessdate">. Retrieved <span class="nowrap">October 5,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.aufirst=Ucilia&amp;rft.aulast=Wang&amp;rft.btitle=Here+Comes+China%99s+%243B%2C+%98Golden+Sun%99+Projects&amp;rft.date=2009-11-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.greentechmedia.com%2Farticles%2Fread%2Fhere-comes-chinas-3b-golden-sun-projects%2F&amp;rft.pub=Greentech+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&amp;tp=&amp;arnumber=6844150&amp;openedRefinements%3D*%26filter%3DAND(NOT(4283010803))%26pageNumber%3D9%26rowsPerPage%3D100%26queryText%3D(photovoltaics+)">Browse Conference Publications &gt; Ecological Vehicles and Renew ... Help Working with Abstracts Back to Results Vehicle-integrated Photovoltaic (ViPV) systems: Energy production, Diesel Equivalent, Payback Time; an assessment screening for trucks and busses</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.renewableenergyworld.com/articles/2005/05/from-bipv-to-vehicle-integrated-photovoltaics-31149.html">From BIPV to Vehicle-Integrated Photovoltaics</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ryanmccarthy.com.au/2009/12/28/opportunities-for-vehicle-integrated-photovoltaics/">Opportunities for Vehicle Integrated Photovoltaics</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.idtechex.com/events/presentations/vehicle-integrated-photovoltaics-and-infra-red-harvesting-002406.asp">VIPV and infrared harvesting</a></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://solarvehicles.sphericalstructures.com/">Solar vehicles</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120708111359/http://www.epia.org:80/publications/other-publications.html">Building integrated photovoltaics an overview of the existing products and their fields of application</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.solarbuildings.ca/main.php?l=e">Canadian Solar Buildings Research Network</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160213210259/http://doc.xueqiu.com/1457a3acfff1183feb42de44.pdf">Building Integrated Photovoltaics</a></li>
+<li><a rel="nofollow" class="external text" href="http://pvupscale.org/spip.php?rubrique2">PV UP-SCALE</a>, a European founded project (contract EIE/05/171/SI2.420208) related to the large-scale implementation of photovoltaics (PV) in European cities.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Photovoltaics" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Photovoltaics" title="Template talk:Photovoltaics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Photovoltaics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Photovoltaics" style="font-size:114%"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></li>
+<li><a href="/wiki/Photoelectric_effect" title="Photoelectric effect">Photoelectric effect</a></li>
+<li><a href="/wiki/Solar_insolation" class="mw-redirect" title="Solar insolation">Solar insolation</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">Nominal power (Watt-peak)</a></li>
+<li><a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">Thin film solar cell</a></li>
+<li><a href="/wiki/Multijunction_photovoltaic_cell" class="mw-redirect" title="Multijunction photovoltaic cell">Multijunction photovoltaic cell</a></li>
+<li><a href="/wiki/Third_generation_photovoltaic_cell" class="mw-redirect" title="Third generation photovoltaic cell">Third generation photovoltaic cell</a></li>
+<li><a href="/wiki/Solar_cell_research" title="Solar cell research">Solar cell research</a></li>
+<li><a href="/wiki/Quantum_efficiency_of_a_solar_cell" class="mw-redirect" title="Quantum efficiency of a solar cell">Quantum efficiency of a solar cell</a></li>
+<li><a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">Thermophotovoltaic</a></li>
+<li><a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></li>
+<li><a href="/wiki/Sun-free_photovoltaics" title="Sun-free photovoltaics">Sun-free photovoltaics</a></li>
+<li><a href="/wiki/Polarizing_organic_photovoltaics" title="Polarizing organic photovoltaics">Polarizing organic photovoltaics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_semiconductor_materials" title="List of semiconductor materials">List of semiconductor materials</a></li>
+<li><a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon (c-Si)</a></li>
+<li><a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">Polycrystalline silicon (multi-Si)</a></li>
+<li><a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">Monocrystalline silicon (mono-Si)</a></li>
+<li><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">Copper indium gallium selenide</a></li>
+<li><a href="/wiki/Amorphous_silicon" title="Amorphous silicon">Amorphous silicon (a-Si)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/Timeline_of_solar_cells" title="Timeline of solar cells">Timeline of solar cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:4inch_poly_solar_cell.jpg" class="image"><img alt="4inch poly solar cell.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/150px-4inch_poly_solar_cell.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/225px-4inch_poly_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/300px-4inch_poly_solar_cell.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_cell" title="Solar cell">Solar cells</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polymer_solar_cell" class="mw-redirect" title="Polymer solar cell">Polymer solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></li>
+<li><a href="/wiki/Quantum_dot_solar_cell" title="Quantum dot solar cell">Quantum dot solar cell</a></li>
+<li><a href="/wiki/Hybrid_solar_cell" title="Hybrid solar cell">Hybrid solar cell</a></li>
+<li><a href="/wiki/Plasmonic_solar_cell" title="Plasmonic solar cell">Plasmonic solar cell</a></li>
+<li><a href="/wiki/Carbon_nanotubes_in_photovoltaics" title="Carbon nanotubes in photovoltaics">Carbon nanotubes in photovoltaics</a></li>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">Cadmium telluride photovoltaics</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide_solar_cells" title="Copper indium gallium selenide solar cells">Copper indium gallium selenide solar cells</a></li>
+<li><a href="/wiki/Printed_solar_panel" class="mw-redirect" title="Printed solar panel">Printed solar panel</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_panel" title="Solar panel">Solar panel</a></li>
+<li><a href="/wiki/Balance_of_system" title="Balance of system">Balance of system</a></li>
+<li><a href="/wiki/Solar_charge_controller" class="mw-redirect" title="Solar charge controller">Solar charge controller</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></li>
+<li><a href="/wiki/Solar_cable" title="Solar cable">Solar cable</a></li>
+<li><a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a></li>
+<li><a href="/wiki/Maximum_power_point_tracker" class="mw-redirect" title="Maximum power point tracker">Maximum power point tracker</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Solar_shingles" class="mw-redirect" title="Solar shingles">Solar shingles</a></li>
+<li><a href="/wiki/Solar_mirror#Photovoltaic_augmentation" title="Solar mirror">Solar mirror</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perturb_and_observe_method" class="mw-redirect" title="Perturb and observe method">Perturb and observe method</a></li>
+<li><a href="/wiki/Incremental_conductance_method" class="mw-redirect" title="Incremental conductance method">Incremental conductance method</a></li>
+<li><a href="/wiki/Constant_voltage_method" class="mw-redirect" title="Constant voltage method">Constant voltage method</a></li>
+<li><a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">Fill factor</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Appliances</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar-powered_refrigerator" title="Solar-powered refrigerator">Solar-powered refrigerator</a></li>
+<li><a href="/wiki/Solar_air_conditioning#Photovoltaic_.28PV.29_solar_cooling" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_charger" title="Solar charger">Solar charger</a></li>
+<li><a href="/wiki/Solar_backpack" title="Solar backpack">Solar backpack</a></li>
+<li><a href="/wiki/Solar_tree" title="Solar tree">Solar tree</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+<li><a href="/wiki/Solar-powered_watch" title="Solar-powered watch">Solar-powered watch</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Photovoltaic_keyboard" title="Photovoltaic keyboard">Photovoltaic keyboard</a></li>
+<li><a href="/wiki/Solar_road_stud" title="Solar road stud">Solar road stud</a></li>
+<li><a href="/wiki/Solar_cell_phone_charger" title="Solar cell phone charger">Solar cell phone charger</a></li>
+<li><a href="/wiki/Solar_notebook" title="Solar notebook">Solar notebook</a></li>
+<li><a href="/wiki/Solar-powered_calculator" title="Solar-powered calculator">Solar-powered calculator</a></li>
+<li><a href="/wiki/Solar-powered_fountain" title="Solar-powered fountain">Solar-powered fountain</a></li>
+<li><a href="/wiki/Solar-powered_radio" title="Solar-powered radio">Solar-powered radio</a></li>
+<li><a href="/wiki/Solar-powered_flashlight" title="Solar-powered flashlight">Solar-powered flashlight</a></li>
+<li><a href="/wiki/Solar-powered_fan" title="Solar-powered fan">Solar-powered fan</a></li>
+<li><a href="/wiki/Solar_street_light" title="Solar street light">Solar street light</a></li>
+<li><a href="/wiki/Solar_traffic_light" title="Solar traffic light">Solar traffic light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Land transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Solar_car" title="Solar car">Solar car</a></li>
+<li><a href="/wiki/Solar_roadway" class="mw-redirect" title="Solar roadway">Solar roadway</a></li>
+<li><a href="/wiki/Solar_golf_cart" title="Solar golf cart">Solar golf cart</a></li>
+<li><a href="/wiki/The_Quiet_Achiever" title="The Quiet Achiever">The Quiet Achiever</a></li>
+<li><a href="/wiki/Sunmobile" title="Sunmobile">Sunmobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Air transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Mauro_Solar_Riser" title="Mauro Solar Riser">Mauro Solar Riser</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a></li>
+<li><a href="/wiki/Solar-Powered_Aircraft_Developments_Solar_One" title="Solar-Powered Aircraft Developments Solar One">Solar-Powered Aircraft Developments Solar One</a></li>
+<li><a href="/wiki/Gossamer_Penguin" class="mw-redirect" title="Gossamer Penguin">Gossamer Penguin</a></li>
+<li><a href="/wiki/Qinetiq_Zephyr" title="Qinetiq Zephyr">Qinetiq Zephyr</a></li>
+<li><a href="/wiki/Solar_Challenger" class="mw-redirect" title="Solar Challenger">Solar Challenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Water transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_boat#Types" title="Electric boat">Solar boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Solar vehicle racing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_car_racing" title="Solar car racing">Solar car racing</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a href="/wiki/Solar_challenge_(disambiguation)" class="mw-redirect mw-disambig" title="Solar challenge (disambiguation)">Solar challenges</a></li>
+<li><a href="/wiki/World_Solar_Challenge" title="World Solar Challenge">World Solar Challenge</a></li>
+<li><a href="/wiki/American_Solar_Challenge" title="American Solar Challenge">American Solar Challenge</a></li>
+<li><a href="/wiki/Formula_Sun_Grand_Prix" title="Formula Sun Grand Prix">Formula Sun Grand Prix</a></li>
+<li><a href="/wiki/Solar_Cup" title="Solar Cup">Solar Cup</a></li>
+<li><a href="/wiki/Frisian_Solar_Challenge" title="Frisian Solar Challenge">Frisian Solar Challenge</a></li>
+<li><a href="/wiki/Solar_Splash" title="Solar Splash">Solar Splash</a></li>
+<li><a href="/wiki/South_African_Solar_Challenge" title="South African Solar Challenge">South African Solar Challenge</a></li>
+<li><a href="/wiki/Tour_de_Sol" title="Tour de Sol">Tour de Sol</a></li>
+<li><a href="/wiki/Hunt-Winston_School_Solar_Car_Challenge" class="mw-redirect" title="Hunt-Winston School Solar Car Challenge">Hunt-Winston School Solar Car Challenge</a></li>
+<li><a href="/wiki/Victorian_Model_Solar_Vehicle_Challenge" title="Victorian Model Solar Vehicle Challenge">Victorian Model Solar Vehicle Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Generation systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">PV power station</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alamosa_photovoltaic_power_plant" title="Alamosa photovoltaic power plant">Alamosa photovoltaic power plant</a></li>
+<li><a href="/wiki/Beneixama_photovoltaic_power_plant" title="Beneixama photovoltaic power plant">Beneixama photovoltaic power plant</a></li>
+<li><a href="/wiki/Blythe_Photovoltaic_Power_Plant" title="Blythe Photovoltaic Power Plant">Blythe Photovoltaic Power Plant</a></li>
+<li><a href="/wiki/Copper_Mountain_Solar_Facility" title="Copper Mountain Solar Facility">Copper Mountain Solar Facility</a></li>
+<li><a href="/wiki/Darro_Solar_Park" title="Darro Solar Park">Darro Solar Park</a></li>
+<li><a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">Erlasee Solar Park</a></li>
+<li><a href="/wiki/Huanghe_Hydropower_Golmud_Solar_Park" title="Huanghe Hydropower Golmud Solar Park">Golmud Solar Park</a></li>
+<li><a href="/wiki/Gottelborn_Solar_Park" class="mw-redirect" title="Gottelborn Solar Park">Gottelborn Solar Park</a></li>
+<li><a href="/wiki/Guadarranque_solar_power_plant" class="mw-redirect" title="Guadarranque solar power plant">Guadarranque solar power plant</a></li>
+<li><a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">Köthen Solar Park</a></li>
+<li><a href="/wiki/Moura_Photovoltaic_Power_Station" title="Moura Photovoltaic Power Station">Moura Photovoltaic Power Station</a></li>
+<li><a href="/wiki/Olmedilla_Photovoltaic_Park" title="Olmedilla Photovoltaic Park">Olmedilla Photovoltaic Park</a></li>
+<li><a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">Pocking Solar Park</a></li>
+<li><a href="/wiki/Puertollano_Photovoltaic_Park" title="Puertollano Photovoltaic Park">Puertollano Photovoltaic Park</a></li>
+<li><a href="/wiki/Topaz_Solar_Farm" title="Topaz Solar Farm">Topaz Solar Farm</a></li>
+<li><a href="/wiki/Wyandot_Solar_Facility" title="Wyandot Solar Facility">Wyandot Solar Facility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Building-mounted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><strong class="selflink">Building-integrated photovoltaics</strong></li>
+<li><a href="/wiki/Solar_Ark" title="Solar Ark">Solar Ark</a></li>
+<li><a href="/wiki/Solar_Umbrella_house" title="Solar Umbrella house">Solar Umbrella house</a></li>
+<li><a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">Strasskirchen Solar Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Bulgaria" title="Solar power in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_Chile" title="Solar power in Chile">Chile</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Solar_power_in_France" title="Solar power in France">France</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Switzerland" title="Solar power in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">PV companies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_countries_by_photovoltaics_production" class="mw-redirect" title="List of countries by photovoltaics production">List of countries by photovoltaics production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual producers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_Solar" title="First Solar">First Solar</a></li>
+<li><a href="/wiki/Hanwha_Q_CELLS" class="mw-redirect" title="Hanwha Q CELLS">Hanwha Q CELLS</a></li>
+<li><a href="/wiki/JA_Solar" class="mw-redirect" title="JA Solar">JA Solar</a></li>
+<li><a href="/wiki/Motech_Solar" title="Motech Solar">Motech Solar</a></li>
+<li><a href="/wiki/Renewable_Energy_Corporation" title="Renewable Energy Corporation">REC</a></li>
+<li><a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp</a></li>
+<li><a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a></li>
+<li><a href="/wiki/Solyndra" title="Solyndra">Solyndra</a></li>
+<li><a href="/wiki/SUNGEN_International_Limited" title="SUNGEN International Limited">Sungen Solar</a></li>
+<li><a href="/wiki/Sunpower" class="mw-redirect" title="Sunpower">Sunpower</a></li>
+<li><a href="/wiki/Suntech" class="mw-redirect" title="Suntech">Suntech</a></li>
+<li><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></li>
+<li><a href="/wiki/Yingli_Solar" class="mw-redirect" title="Yingli Solar">Yingli Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20170303160751
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.260 seconds
+Real time usage: 0.333 seconds
+Preprocessor visited node count: 1727/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 106624/2097152 bytes
+Template argument size: 1975/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 5/500
+Lua time usage: 0.127/10.000 seconds
+Lua memory usage: 5.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  260.014      1 -total
+ 28.09%   73.035      1 Template:Reflist
+ 21.76%   56.591      3 Template:Citation_needed
+ 19.90%   51.753      3 Template:Fix
+ 15.35%   39.911      5 Template:Cite_book
+ 13.62%   35.426      6 Template:Navbox
+ 11.17%   29.040      4 Template:Delink
+ 10.74%   27.933      9 Template:Cite_web
+ 10.64%   27.661      8 Template:Category_handler
+ 10.61%   27.578      1 Template:Photovoltaics
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9629917-0!*!0!!en!4!* and timestamp 20170303160750 and revision id 763508057
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Building-integrated_photovoltaics&amp;oldid=763508057">https://en.wikipedia.org/w/index.php?title=Building-integrated_photovoltaics&amp;oldid=763508057</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Applications_of_photovoltaics" title="Category:Applications of photovoltaics">Applications of photovoltaics</a></li><li><a href="/wiki/Category:Building_materials" title="Category:Building materials">Building materials</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2010" title="Category:Articles with unsourced statements from June 2010">Articles with unsourced statements from June 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_December_2007" title="Category:Wikipedia articles needing clarification from December 2007">Wikipedia articles needing clarification from December 2007</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2011" title="Category:Articles with unsourced statements from October 2011">Articles with unsourced statements from October 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2008" title="Category:Articles with unsourced statements from October 2008">Articles with unsourced statements from October 2008</a></li><li><a href="/wiki/Category:Pages_with_URL_errors" title="Category:Pages with URL errors">Pages with URL errors</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Building-integrated+photovoltaics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Building-integrated+photovoltaics" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Building-integrated_photovoltaics"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Building-integrated_photovoltaics"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Building-integrated_photovoltaics" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Building-integrated_photovoltaics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Building-integrated_photovoltaics" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;oldid=763508057" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1497383" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Building-integrated_photovoltaics&amp;id=763508057" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Building-integrated+photovoltaics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Building-integrated+photovoltaics&amp;returnto=Building-integrated+photovoltaics&amp;oldid=763508057&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Building-integrated_photovoltaics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Building-integrated_photovoltaics" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AE%D9%84%D8%A7%D9%8A%D8%A7_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%A1" title="خلايا الطاقة الشمسية المتكاملة المستخدمة في البناء – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B3%D1%80%D0%B0%D0%B4%D0%BD%D0%BE-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B3%D0%B8%D1%80%D0%B0%D0%BD%D0%B8_%D1%84%D0%BE%D1%82%D0%BE%D0%B2%D0%BE%D0%BB%D1%82%D0%B0%D0%B8%D1%87%D0%BD%D0%B8_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8" title="Сградно-интергирани фотоволтаични системи – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Fotovoltaica_integrada_en_edificis" title="Fotovoltaica integrada en edificis – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Geb%C3%A4udeintegrierte_Photovoltaik" title="Gebäudeintegrierte Photovoltaik – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Fotovoltaica_integrada_en_edificios" title="Fotovoltaica integrada en edificios – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86_%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87_%D9%81%D8%AA%D9%88%D9%88%D9%84%D8%AA%D8%A7%D8%A6%DB%8C%DA%A9" title="ساختمان یکپارچه فتوولتائیک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Installation_photovolta%C3%AFque_int%C3%A9gr%C3%A9e_au_b%C3%A2ti" title="Installation photovoltaïque intégrée au bâti – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Fotovoltaico_architettonicamente_integrato" title="Fotovoltaico architettonicamente integrato – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Instalacje_BIPV_(Building_Integrated_Photovoltaics)" title="Instalacje BIPV (Building Integrated Photovoltaics) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Fotovoltaica_integrada_em_edif%C3%ADcios" title="Fotovoltaica integrada em edifícios – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%92%E0%AE%B0%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%A3%E0%AF%88%E0%AE%A8%E0%AF%8D%E0%AE%A4_%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%9F_%E0%AE%92%E0%AE%B3%E0%AE%BF%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D" title="ஒருங்கிணைந்த கட்டிட ஒளிமின்னழுத்தியம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%BB%BA%E7%AF%89%E6%95%B4%E5%90%88%E5%A4%AA%E9%99%BD%E8%83%BD" title="建築整合太陽能 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1497383#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 February 2017, at 17:31.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Building-integrated_photovoltaics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.333","ppvisitednodes":{"value":1727,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":106624,"limit":2097152},"templateargumentsize":{"value":1975,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  260.014      1 -total"," 28.09%   73.035      1 Template:Reflist"," 21.76%   56.591      3 Template:Citation_needed"," 19.90%   51.753      3 Template:Fix"," 15.35%   39.911      5 Template:Cite_book"," 13.62%   35.426      6 Template:Navbox"," 11.17%   29.040      4 Template:Delink"," 10.74%   27.933      9 Template:Cite_web"," 10.64%   27.661      8 Template:Category_handler"," 10.61%   27.578      1 Template:Photovoltaics"]},"scribunto":{"limitreport-timeusage":{"value":"0.127","limit":"10.000"},"limitreport-memusage":{"value":6065974,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20170303160751","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1256"});});</script>
+	</body>
+</html>

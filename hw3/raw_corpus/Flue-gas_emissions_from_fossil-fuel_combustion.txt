@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Flue-gas emissions from fossil-fuel combustion - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Flue-gas_emissions_from_fossil-fuel_combustion","wgTitle":"Flue-gas emissions from fossil-fuel combustion","wgCurRevisionId":767669536,"wgRevisionId":767669536,"wgArticleId":3994331,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","All Wikipedia articles needing clarification","Wikipedia articles needing clarification from December 2009","Air pollution","Chemical processes","Combustion","Environmental engineering","Fossil fuels","Incineration","Smog"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Flue-gas_emissions_from_fossil-fuel_combustion","wgRelevantArticleId":3994331,"wgRequestId":"WL9bWgpAIDgAAFijDJwAAABC","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q8564069","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a4/Air_pollution_by_industrial_chimneys.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Flue-gas_emissions_from_fossil-fuel_combustion"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Flue-gas_emissions_from_fossil-fuel_combustion"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Flue-gas_emissions_from_fossil-fuel_combustion rootpage-Flue-gas_emissions_from_fossil-fuel_combustion skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Flue-gas emissions from fossil-fuel combustion</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:277px;"><a href="/wiki/File:Air_pollution_by_industrial_chimneys.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Air_pollution_by_industrial_chimneys.jpg/275px-Air_pollution_by_industrial_chimneys.jpg" width="275" height="183" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Air_pollution_by_industrial_chimneys.jpg/413px-Air_pollution_by_industrial_chimneys.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Air_pollution_by_industrial_chimneys.jpg/550px-Air_pollution_by_industrial_chimneys.jpg 2x" data-file-width="750" data-file-height="500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Air_pollution_by_industrial_chimneys.jpg" class="internal" title="Enlarge"></a></div>
+Before <a href="/wiki/Flue-gas_desulfurization" title="Flue-gas desulfurization">flue-gas desulfurization</a> was installed, emissions from <a href="/wiki/Four_Corners_Generating_Station" title="Four Corners Generating Station">Four Corners Generating Station</a>, <a href="/wiki/New_Mexico" title="New Mexico">New Mexico</a> contained excessive amounts of <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">sulfur dioxide</a>.</div>
+</div>
+</div>
+<p><b>Flue-gas emissions from fossil-fuel combustion</b> refers to the <a href="/wiki/Combustion" title="Combustion">combustion</a>-product gas resulting from the burning of <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuels</a>.<sup id="cite_ref-EPA_1-0" class="reference"><a href="#cite_note-EPA-1">[1]</a></sup> Most fossil fuels are combusted with ambient air (as differentiated from combustion with pure <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>). Since ambient air contains about 79 volume percent gaseous <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> (N<sub>2</sub>),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> which is essentially non-combustible, the largest part of the <a href="/wiki/Flue_gas" title="Flue gas">flue gas</a> from most fossil-fuel combustion is uncombusted nitrogen. <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (CO<sub>2</sub>), the next largest part of flue gas, can be as much as 10−25 volume percent or more of the flue gas. This is closely followed in volume by water vapor (H<sub>2</sub>O) created by the combustion of the hydrogen in the fuel with atmospheric oxygen. Much of the 'smoke' seen pouring from <a href="/wiki/Flue_gas_stack" class="mw-redirect" title="Flue gas stack">flue gas stacks</a> is this water vapor forming a cloud as it contacts cool air.</p>
+<p>A typical flue gas from the combustion of fossil fuels contains very small amounts of <a href="/wiki/Nitrogen_oxide" title="Nitrogen oxide">nitrogen oxides</a> (NOx), <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">sulfur dioxide</a> (SO<sub>2</sub>) and <a href="/wiki/Atmospheric_particulate_matter" class="mw-redirect" title="Atmospheric particulate matter">particulate matter</a>.<sup id="cite_ref-EPA_1-1" class="reference"><a href="#cite_note-EPA-1">[1]</a></sup> The nitrogen oxides are derived from the nitrogen in the ambient air as well as from any nitrogen-containing compounds in the fossil fuel. The sulfur dioxide is derived from any <a href="/wiki/Sulfur" title="Sulfur">sulfur</a>-containing compounds in the fuels. The particulate matter is composed of very small particles of solid materials and very small liquid droplets which give flue gases their smoky appearance.</p>
+<p>The steam generators in large <a href="/wiki/Power_plant" class="mw-redirect" title="Power plant">power plants</a> and the process <a href="/wiki/Furnace" title="Furnace">furnaces</a> in large <a href="/wiki/Oil_refinery" title="Oil refinery">refineries</a>, <a href="/wiki/Petrochemical" title="Petrochemical">petrochemical</a> and <a href="/wiki/Chemical_plant" title="Chemical plant">chemical plants</a>, and <a href="/wiki/Incinerator" class="mw-redirect" title="Incinerator">incinerators</a> burn considerable amounts of fossil fuels and therefore emit large amounts of flue gas to the ambient atmosphere. The table below presents the total amounts of flue gas typically generated by the burning of fossil fuels such as <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, <a href="/wiki/Fuel_oil" title="Fuel oil">fuel oil</a> and <a href="/wiki/Coal" title="Coal">coal</a>. The data were obtained by <a href="/wiki/Stoichometry" class="mw-redirect" title="Stoichometry">stoichiometric</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> calculations.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>It is of interest to note that the total amount of flue gas generated by coal combustion is only 10 percent higher than the flue gas generated by natural-gas combustion.</p>
+<table class="wikitable" style="text-align:center;width:88;">
+<caption>Exhaust flue gas generated by combustion of fossil fuels<br />
+(In SI metric units and in US customary units)</caption>
+<tr>
+<th align="left" style="width:58%">Combustion data</th>
+<th align="right"><a href="/wiki/Fuel_gas" title="Fuel gas">Fuel gas</a></th>
+<th align="right"><a href="/wiki/Fuel_oil" title="Fuel oil">Fuel oil</a></th>
+<th align="right" style="width:13%"><a href="/wiki/Coal" title="Coal">Coal</a></th>
+</tr>
+<tr>
+<th>Fuel properties:</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Heating_value" class="mw-redirect" title="Heating value">Gross caloric value</a>, MJ/m³</td>
+<td align="right">43.01</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Heating_value" class="mw-redirect" title="Heating value">Gross heating value</a>, Btu/scf</td>
+<td align="right">1,093</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="left">Gross caloric value, MJ/kg</td>
+<td></td>
+<td align="right">43.50</td>
+<td></td>
+</tr>
+<tr>
+<td align="left">Gross heating value, Btu/gal<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Vagueness" title="Wikipedia:Vagueness"><span title="This information is too vague. (December 2009)">vague</span></a></i>]</sup></td>
+<td></td>
+<td align="right">150,000</td>
+<td></td>
+</tr>
+<tr>
+<td align="left">Gross caloric value, MJ/kg</td>
+<td></td>
+<td></td>
+<td align="right">25.92</td>
+</tr>
+<tr>
+<td align="left">Gross heating value, Btu/lb</td>
+<td></td>
+<td></td>
+<td align="right">11,150</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Molecular_mass" title="Molecular mass">Molecular weight</a></td>
+<td align="right">18</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Relative_density" title="Relative density">Specific gravity</a></td>
+<td></td>
+<td align="right">0.9626</td>
+<td></td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/API_gravity" title="API gravity">Gravity</a>, °API</td>
+<td></td>
+<td align="right">15.5</td>
+<td></td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Carbon" title="Carbon">Carbon</a>/<a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> ratio by weight</td>
+<td></td>
+<td align="right">8.1</td>
+<td></td>
+</tr>
+<tr>
+<td align="left">weight&#160;% carbon</td>
+<td></td>
+<td></td>
+<td align="right">61.2</td>
+</tr>
+<tr>
+<td align="left">weight&#160;% hydrogen</td>
+<td></td>
+<td></td>
+<td align="right">4.3</td>
+</tr>
+<tr>
+<td align="left">weight&#160;% <a href="/wiki/Oxygen" title="Oxygen">oxygen</a></td>
+<td></td>
+<td></td>
+<td align="right">7.4</td>
+</tr>
+<tr>
+<td align="left">weight&#160;% sulfur</td>
+<td></td>
+<td></td>
+<td align="right">3.9</td>
+</tr>
+<tr>
+<td align="left">weight&#160;% nitrogen</td>
+<td></td>
+<td></td>
+<td align="right">1.2</td>
+</tr>
+<tr>
+<td align="left">weight&#160;% <a href="/wiki/Coal_assay#Ash" title="Coal assay">ash</a></td>
+<td></td>
+<td></td>
+<td align="right">12.0</td>
+</tr>
+<tr>
+<td align="left">weight&#160;% <a href="/wiki/Coal_assay#Moisture" title="Coal assay">moisture</a></td>
+<td></td>
+<td></td>
+<td align="right">10.0</td>
+</tr>
+<tr>
+<th align="left">Combustion air:</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td align="left">Excess combustion air,&#160;%</td>
+<td align="right">12</td>
+<td align="right">15</td>
+<td align="right">20</td>
+</tr>
+<tr>
+<th align="left">Wet exhaust flue gas:</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td align="left">Amount of wet exhaust gas, m³/GJ of fuel</td>
+<td align="right">294.8</td>
+<td align="right">303.1</td>
+<td align="right">323.1</td>
+</tr>
+<tr>
+<td align="left">Amount of wet exhaust gas, scf/10<sup>6</sup> Btu of fuel</td>
+<td align="right">11,600</td>
+<td align="right">11,930</td>
+<td align="right">12,714</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> in wet exhaust gas, volume&#160;%</td>
+<td align="right">8.8</td>
+<td align="right">12.4</td>
+<td align="right">13.7</td>
+</tr>
+<tr>
+<td align="left">O<sub>2</sub> in wet exhaust gas, volume&#160;%</td>
+<td align="right">2.0</td>
+<td align="right">2.6</td>
+<td align="right">3.4</td>
+</tr>
+<tr>
+<td align="left">Molecular weight of wet exhaust gas</td>
+<td align="right">27.7</td>
+<td align="right">29.0</td>
+<td align="right">29.5</td>
+</tr>
+<tr>
+<th align="left">Dry exhaust flue gas:</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td align="left">Amount of dry exhaust gas, m³/GJ of fuel</td>
+<td align="right">241.6</td>
+<td align="right">269.3</td>
+<td align="right">293.6</td>
+</tr>
+<tr>
+<td align="left">Amount of dry exhaust gas, scf/10<sup>6</sup> Btu of fuel</td>
+<td align="right">9,510</td>
+<td align="right">10,600</td>
+<td align="right">11,554</td>
+</tr>
+<tr>
+<td align="left">CO<sub>2</sub> in dry exhaust gas, volume&#160;%</td>
+<td align="right">10.8</td>
+<td align="right">14.0</td>
+<td align="right">15.0</td>
+</tr>
+<tr>
+<td align="left">O<sub>2</sub> in dry exhaust gas, volume&#160;%</td>
+<td align="right">2.5</td>
+<td align="right">2.9</td>
+<td align="right">3.7</td>
+</tr>
+<tr>
+<td align="left">Molecular weight of dry exhaust gas</td>
+<td align="right">29.9</td>
+<td align="right">30.4</td>
+<td align="right">30.7</td>
+</tr>
+</table>
+<dl>
+<dd>Note: &#160;m³ are standard cubic meters at 0 °C and 101.325 kPa, and scf is standard cubic feet at 60 °F and 14.696 psia.</dd>
+</dl>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/AP_42_Compilation_of_Air_Pollutant_Emission_Factors" title="AP 42 Compilation of Air Pollutant Emission Factors">AP 42 Compilation of Air Pollutant Emission Factors</a></li>
+<li><a href="/wiki/Emission_standard" title="Emission standard">Emission standard</a></li>
+<li><a href="/wiki/Flue-gas_stack" title="Flue-gas stack">Flue-gas stack</a></li>
+<li><a href="/wiki/Flue_gas" title="Flue gas">Flue gas</a></li>
+<li><a href="/wiki/Flue-gas_desulfurization" title="Flue-gas desulfurization">Flue-gas desulfurization</a></li>
+<li><a href="/wiki/Gas_stoichiometry" class="mw-redirect" title="Gas stoichiometry">Gas stoichiometry</a></li>
+<li><a href="/wiki/Stoichiometry" title="Stoichiometry">Stoichiometry</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-EPA-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-EPA_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EPA_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.epa.gov/ttn/chief/ap42/index.html">Compilation of Air Pollutant Emission Factors</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Perry, R.H. and Green, D.W. (Editors) (1997). <i><a href="/wiki/Perry%27s_Chemical_Engineers%27_Handbook" title="Perry's Chemical Engineers' Handbook">Perry's Chemical Engineers' Handbook</a></i> (7th ed.). McGraw Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-049841-5" title="Special:BookSources/0-07-049841-5">0-07-049841-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlue-gas+emissions+from+fossil-fuel+combustion&amp;rft.au=Perry%2C+R.H.+and+Green%2C+D.W.+%28Editors%29&amp;rft.btitle=Perry%27s+Chemical+Engineers%27+Handbook&amp;rft.date=1997&amp;rft.edition=7th&amp;rft.genre=book&amp;rft.isbn=0-07-049841-5&amp;rft.pub=McGraw+Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Zumdahl, Steven S. (2005). <i>Chemical Principles</i> (5th ed.). Houghton Mifflin College Division. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-618-37206-7" title="Special:BookSources/0-618-37206-7">0-618-37206-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlue-gas+emissions+from+fossil-fuel+combustion&amp;rft.au=Zumdahl%2C+Steven+S.&amp;rft.btitle=Chemical+Principles&amp;rft.date=2005&amp;rft.edition=5th&amp;rft.genre=book&amp;rft.isbn=0-618-37206-7&amp;rft.pub=Houghton+Mifflin+College+Division&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.air-dispersion.com/formulas.html#combustion">Air Dispersion Modeling Conversions and Formulas</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Article on <a rel="nofollow" class="external text" href="http://www.sodimate-inc.com/Flue-Gas-treatment.aspx">Flue Gas Treatment</a> including desulfurization and the removal of hydrogen chloride, sulphur trioxide, and mercury.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1285
+Cached time: 20170227073859
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.068 seconds
+Real time usage: 0.100 seconds
+Preprocessor visited node count: 306/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 5261/2097152 bytes
+Template argument size: 496/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 1.57 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   76.232      1 -total
+ 51.06%   38.922      1 Template:Vague
+ 45.73%   34.860      1 Template:Reflist
+ 37.45%   28.549      2 Template:Cite_book
+ 34.66%   26.425      1 Template:Fix
+ 21.96%   16.743      1 Template:Category_handler
+ 10.10%    7.703      1 Template:Delink
+  2.77%    2.110      1 Template:Fix/category
+  1.38%    1.052      2 Template:CO2
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3994331-0!*!0!!*!4!* and timestamp 20170227073900 and revision id 767669536
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;oldid=767669536">https://en.wikipedia.org/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;oldid=767669536</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Air_pollution" title="Category:Air pollution">Air pollution</a></li><li><a href="/wiki/Category:Chemical_processes" title="Category:Chemical processes">Chemical processes</a></li><li><a href="/wiki/Category:Combustion" title="Category:Combustion">Combustion</a></li><li><a href="/wiki/Category:Environmental_engineering" title="Category:Environmental engineering">Environmental engineering</a></li><li><a href="/wiki/Category:Fossil_fuels" title="Category:Fossil fuels">Fossil fuels</a></li><li><a href="/wiki/Category:Incineration" title="Category:Incineration">Incineration</a></li><li><a href="/wiki/Category:Smog" title="Category:Smog">Smog</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_needing_clarification" title="Category:All Wikipedia articles needing clarification">All Wikipedia articles needing clarification</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_December_2009" title="Category:Wikipedia articles needing clarification from December 2009">Wikipedia articles needing clarification from December 2009</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Flue-gas+emissions+from+fossil-fuel+combustion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Flue-gas+emissions+from+fossil-fuel+combustion" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Flue-gas_emissions_from_fossil-fuel_combustion"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Flue-gas_emissions_from_fossil-fuel_combustion"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Flue-gas_emissions_from_fossil-fuel_combustion" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Flue-gas_emissions_from_fossil-fuel_combustion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Flue-gas_emissions_from_fossil-fuel_combustion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;oldid=767669536" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q8564069" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Flue-gas_emissions_from_fossil-fuel_combustion&amp;id=767669536" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Flue-gas+emissions+from+fossil-fuel+combustion">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Flue-gas+emissions+from+fossil-fuel+combustion&amp;returnto=Flue-gas+emissions+from+fossil-fuel+combustion&amp;oldid=767669536&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%86%D8%A8%D8%B9%D8%A7%D8%AB%D8%A7%D8%AA_%D8%BA%D8%A7%D8%B2_%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%AE%D9%86_%D8%A7%D9%84%D9%86%D8%A7%D8%AC%D9%85%D8%A9_%D8%B9%D9%86_%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%82_%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF_%D8%A7%D9%84%D8%AD%D9%81%D8%B1%D9%8A" title="انبعاثات غاز المداخن الناجمة عن احتراق الوقود الحفري – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%99%94%EB%A0%A5_%EB%B0%9C%EC%A0%84%EC%86%8C%EC%9D%98_%ED%94%8C%EB%A3%A8_%EA%B0%80%EC%8A%A4" title="화력 발전소의 플루 가스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q8564069#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 February 2017, at 07:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Flue-gas_emissions_from_fossil-fuel_combustion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.068","walltime":"0.100","ppvisitednodes":{"value":306,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5261,"limit":2097152},"templateargumentsize":{"value":496,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   76.232      1 -total"," 51.06%   38.922      1 Template:Vague"," 45.73%   34.860      1 Template:Reflist"," 37.45%   28.549      2 Template:Cite_book"," 34.66%   26.425      1 Template:Fix"," 21.96%   16.743      1 Template:Category_handler"," 10.10%    7.703      1 Template:Delink","  2.77%    2.110      1 Template:Fix/category","  1.38%    1.052      2 Template:CO2"]},"scribunto":{"limitreport-timeusage":{"value":"0.028","limit":"10.000"},"limitreport-memusage":{"value":1650063,"limit":52428800}},"cachereport":{"origin":"mw1285","timestamp":"20170227073859","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1186"});});</script>
+	</body>
+</html>

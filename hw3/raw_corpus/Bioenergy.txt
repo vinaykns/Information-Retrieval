@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bioenergy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bioenergy","wgTitle":"Bioenergy","wgCurRevisionId":763139394,"wgRevisionId":763139394,"wgArticleId":1713537,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using web citations with no URL","Pages using citations with accessdate and no URL","Webarchive template wayback links","Pages containing links to subscription-only content","Articles needing additional references from May 2011","All articles needing additional references","Wikipedia external links cleanup from March 2016","Wikipedia spam cleanup from March 2016","Wikipedia articles with GND identifiers","Pages using ISBN magic links","Bioenergy","Biofuels"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bioenergy","wgRelevantArticleId":1713537,"wgRequestId":"WMgBPApAIC4AAE9WmzkAAAAD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q18556","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/STM_Stirling_Generator_set.jpg/1200px-STM_Stirling_Generator_set.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bioenergy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bioenergy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bioenergy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bioenergy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bioenergy rootpage-Bioenergy skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Bioenergy</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the physical energy derived biological sources. For the idea that all living things contain a "bioenergy" of a spiritual nature, see <a href="/wiki/Energy_(esotericism)" title="Energy (esotericism)">Energy (esotericism)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Bioenergy&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:STM_Stirling_Generator_set.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/STM_Stirling_Generator_set.jpg/250px-STM_Stirling_Generator_set.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/STM_Stirling_Generator_set.jpg/375px-STM_Stirling_Generator_set.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/STM_Stirling_Generator_set.jpg/500px-STM_Stirling_Generator_set.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:STM_Stirling_Generator_set.jpg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Stirling_engine" title="Stirling engine">Stirling engine</a> capable of producing electricity from biomass combustion heat</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar energy</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave power</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind power</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/List_of_renewable_energy_topics_by_country" title="List of renewable energy topics by country">Topics by country</a></li>
+<li><a href="/wiki/100%25_renewable_energy" title="100% renewable energy">100% renewable energy</a></li>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Marketing and policy trends</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Renewable_energy_sources" title="Template:Renewable energy sources"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Renewable_energy_sources" title="Template talk:Renewable energy sources"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Renewable_energy_sources&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Bioenergy</b> is <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> made available from materials derived from biological sources. Biomass is any organic material which has stored sunlight in the form of chemical energy. As a fuel it may include <a href="/wiki/Wood" title="Wood">wood</a>, wood waste, <a href="/wiki/Straw" title="Straw">straw</a>, <a href="/wiki/Manure" title="Manure">manure</a>, <a href="/wiki/Sugarcane" title="Sugarcane">sugarcane</a>, and many other by-products from a variety of agricultural processes. By 2010, there was 35&#160;GW (47,000,000&#160;hp) of globally installed bioenergy capacity for electricity generation, of which 7&#160;GW (9,400,000&#160;hp) was in the <a href="/wiki/United_States" title="United States">United States</a>.<sup id="cite_ref-ODI1_1-0" class="reference"><a href="#cite_note-ODI1-1">[1]</a></sup></p>
+<p>In its most narrow sense it is a synonym to <a href="/wiki/Biofuel" title="Biofuel">biofuel</a>, which is fuel derived from biological sources. In its broader sense it includes <a href="/wiki/Biomass" title="Biomass">biomass</a>, the biological material used as a biofuel, as well as the social, economic, scientific and technical fields associated with using biological sources for energy. This is a common misconception, as bioenergy is the energy extracted from the biomass, as the biomass is the fuel and the bioenergy is the energy contained in the fuel<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>There is a slight tendency for the word <i>bioenergy</i> to be favoured in Europe compared with <i>biofuel</i> in America. <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Solid_biomass"><span class="tocnumber">1</span> <span class="toctext">Solid biomass</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Sewage_biomass"><span class="tocnumber">2</span> <span class="toctext">Sewage biomass</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Electricity_generation_from_biomass"><span class="tocnumber">3</span> <span class="toctext">Electricity generation from biomass</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Electricity_from_sugarcane_bagasse_in_Brazil"><span class="tocnumber">3.1</span> <span class="toctext">Electricity from sugarcane bagasse in Brazil</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Electricity_from_electrogenic_micro-organisms"><span class="tocnumber">4</span> <span class="toctext">Electricity from electrogenic micro-organisms</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Environmental_impact"><span class="tocnumber">5</span> <span class="toctext">Environmental impact</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Solid_biomass">Solid biomass</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bioenergy&amp;action=edit&amp;section=1" title="Edit section: Solid biomass">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Biomass" title="Biomass">Biomass</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Montana_16_bg_062406.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Montana_16_bg_062406.jpg/200px-Montana_16_bg_062406.jpg" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Montana_16_bg_062406.jpg/300px-Montana_16_bg_062406.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Montana_16_bg_062406.jpg/400px-Montana_16_bg_062406.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Montana_16_bg_062406.jpg" class="internal" title="Enlarge"></a></div>
+Simple use of biomass fuel (Combustion of <a href="/wiki/Wood_fuel" title="Wood fuel">wood</a> for heat).</div>
+</div>
+</div>
+<p>One of the advantages of biomass fuel is that it is often a by-product, residue or waste-product of other processes, such as farming, animal husbandry and forestry.<sup id="cite_ref-ODI1_1-1" class="reference"><a href="#cite_note-ODI1-1">[1]</a></sup> In theory this means there is no competition between fuel and food production, although this is not always the case.<sup id="cite_ref-ODI1_1-2" class="reference"><a href="#cite_note-ODI1-1">[1]</a></sup> Land use, existing biomass industries and relevant conversion technologies must be considered when evaluating suitability of developing biomass as feedstock for energy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Biomass is the material derived from recently living <a href="/wiki/Organism" title="Organism">organisms</a>, which includes plants, animals and their byproducts.<sup id="cite_ref-Department_of_Energy_5-0" class="reference"><a href="#cite_note-Department_of_Energy-5">[5]</a></sup> Manure, garden waste and crop residues are all sources of biomass. It is a renewable energy source based on the <a href="/wiki/Carbon_cycle" title="Carbon cycle">carbon cycle</a>, unlike other <a href="/wiki/Natural_resource" title="Natural resource">natural resources</a> such as <a href="/wiki/Petroleum" title="Petroleum">petroleum</a>, <a href="/wiki/Coal" title="Coal">coal</a>, and <a href="/wiki/Nuclear_reactor" title="Nuclear reactor">nuclear</a> fuels. Another source includes <a href="/wiki/Animal_waste" class="mw-redirect" title="Animal waste">Animal waste</a>, which is a persistent and unavoidable <a href="/wiki/Pollutant" title="Pollutant">pollutant</a> produced primarily by the animals housed in industrial-sized farms.</p>
+<p>There are also agricultural products specifically being grown for <a href="/wiki/Biofuel" title="Biofuel">biofuel</a> production. These include <a href="/wiki/Maize" title="Maize">corn</a>, and <a href="/wiki/Soybeans" class="mw-redirect" title="Soybeans">soybeans</a> and to some extent <a href="/wiki/Willow" title="Willow">willow</a> and <a href="/wiki/Switchgrass" class="mw-redirect" title="Switchgrass">switchgrass</a> on a pre-commercial research level, primarily in the United States; <a href="/wiki/Rapeseed" title="Rapeseed">rapeseed</a>, <a href="/wiki/Wheat" title="Wheat">wheat</a>, <a href="/wiki/Sugar_beet" title="Sugar beet">sugar beet</a>, and willow (15,000&#160;ha or 37,000 acres in Sweden) primarily in Europe; sugarcane in Brazil; <a href="/wiki/Palm_oil" title="Palm oil">palm oil</a> and <a href="/wiki/Miscanthus" title="Miscanthus">miscanthus</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> in Southeast Asia;<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> <a href="/wiki/Sorghum" title="Sorghum">sorghum</a> and <a href="/wiki/Cassava" title="Cassava">cassava</a> in China; and <a href="/wiki/Jatropha" title="Jatropha">jatropha</a> in India. <a href="/wiki/Hemp" title="Hemp">Hemp</a> has also been proven to work as a biofuel. <a href="/wiki/Biodegradable" class="mw-redirect" title="Biodegradable">Biodegradable</a> outputs from industry, agriculture, forestry and households can be used for biofuel production, using e.g. <a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">anaerobic digestion</a> to produce <a href="/wiki/Biogas" title="Biogas">biogas</a>, <a href="/wiki/Gasification" title="Gasification">gasification</a> to produce <a href="/wiki/Syngas" title="Syngas">syngas</a> or by direct combustion. Examples of <a href="/wiki/Biodegradable_waste" title="Biodegradable waste">biodegradable wastes</a> include straw, timber, manure, rice husks, sewage, and food waste. The use of biomass fuels can therefore contribute to waste management as well as fuel security and help to prevent or slow down <a href="/wiki/Climate_change" title="Climate change">climate change</a>, although alone they are not a comprehensive solution to these problems.</p>
+<p>Biomass can be converted to other usable forms of energy like methane gas or transportation fuels like ethanol and biodiesel. Rotting garbage, and agricultural and human waste, all release methane gas—also called "landfill gas" or "biogas." Crops, such as corn and sugar cane, can be fermented to produce the transportation fuel, ethanol. Biodiesel, another transportation fuel, can be produced from left-over food products like vegetable oils and animal fats. Also, Biomass to liquids (BTLs) and cellulosic ethanol are still under research.</p>
+<h2><span class="mw-headline" id="Sewage_biomass">Sewage biomass</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bioenergy&amp;action=edit&amp;section=2" title="Edit section: Sewage biomass">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A new bioenergy <a href="/wiki/Sewage_treatment" title="Sewage treatment">sewage treatment</a> process aimed at developing countries is now on the horizon; the <a href="/wiki/Omni_Processor" title="Omni Processor">Omni Processor</a> is a self-sustaining process which uses the sewerage solids as fuel to convert sewage waste water into drinking water and electrical energy.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="Electricity_generation_from_biomass">Electricity generation from biomass</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bioenergy&amp;action=edit&amp;section=3" title="Edit section: Electricity generation from biomass">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The biomass used for electricity production ranges by region.<sup id="cite_ref-ODI1_1-3" class="reference"><a href="#cite_note-ODI1-1">[1]</a></sup> Forest byproducts, such as wood residues, are popular in the <a href="/wiki/United_States" title="United States">United States</a>.<sup id="cite_ref-ODI1_1-4" class="reference"><a href="#cite_note-ODI1-1">[1]</a></sup> Agricultural waste is common in <a href="/wiki/Mauritius" title="Mauritius">Mauritius</a> (sugar cane residue) and <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a> (rice husks).<sup id="cite_ref-ODI1_1-5" class="reference"><a href="#cite_note-ODI1-1">[1]</a></sup> Animal husbandry residues, such as poultry litter, is popular in the <a href="/wiki/UK" class="mw-redirect" title="UK">UK</a>.<sup id="cite_ref-ODI1_1-6" class="reference"><a href="#cite_note-ODI1-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Electricity_from_sugarcane_bagasse_in_Brazil">Electricity from sugarcane bagasse in Brazil</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bioenergy&amp;action=edit&amp;section=4" title="Edit section: Electricity from sugarcane bagasse in Brazil">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Canaviais_Sao_Paulo_01_2008_06.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Canaviais_Sao_Paulo_01_2008_06.jpg/200px-Canaviais_Sao_Paulo_01_2008_06.jpg" width="200" height="133" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Canaviais_Sao_Paulo_01_2008_06.jpg/300px-Canaviais_Sao_Paulo_01_2008_06.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Canaviais_Sao_Paulo_01_2008_06.jpg/400px-Canaviais_Sao_Paulo_01_2008_06.jpg 2x" data-file-width="1880" data-file-height="1253" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Canaviais_Sao_Paulo_01_2008_06.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Sugarcane" title="Sugarcane">Sugarcane</a> (<i>Saccharum officinarum</i>) plantation ready for harvest, <a href="/wiki/Ituverava" title="Ituverava">Ituverava</a>, <a href="/wiki/State_of_S%C3%A3o_Paulo" class="mw-redirect" title="State of São Paulo">São Paulo State</a>. Brazil.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Panorama_Usina_Costa_Pinto_Piracicaba_SAO_10_2008.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Panorama_Usina_Costa_Pinto_Piracicaba_SAO_10_2008.jpg/200px-Panorama_Usina_Costa_Pinto_Piracicaba_SAO_10_2008.jpg" width="200" height="98" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Panorama_Usina_Costa_Pinto_Piracicaba_SAO_10_2008.jpg/300px-Panorama_Usina_Costa_Pinto_Piracicaba_SAO_10_2008.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Panorama_Usina_Costa_Pinto_Piracicaba_SAO_10_2008.jpg/400px-Panorama_Usina_Costa_Pinto_Piracicaba_SAO_10_2008.jpg 2x" data-file-width="1181" data-file-height="578" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Panorama_Usina_Costa_Pinto_Piracicaba_SAO_10_2008.jpg" class="internal" title="Enlarge"></a></div>
+A sugar/ethanol plant located in <a href="/wiki/Piracicaba" title="Piracicaba">Piracicaba</a>, <a href="/wiki/S%C3%A3o_Paulo_(state)" title="São Paulo (state)">São Paulo State</a>. This plant produces the electricity it needs from <a href="/wiki/Bagasse" title="Bagasse">bagasse</a> residuals from sugarcane left over by the milling process, and it sells the surplus electricity to the public grid.</div>
+</div>
+</div>
+<p>Sucrose accounts for little more than 30% of the chemical energy stored in the mature plant; 35% is in the leaves and stem tips, which are left in the fields during harvest, and 35% are in the fibrous material (bagasse) left over from pressing.</p>
+<p>The production process of sugar and ethanol in Brazil takes full advantage of the energy stored in <a href="/wiki/Sugarcane" title="Sugarcane">sugarcane</a>. Part of the bagasse is currently burned at the mill to provide heat for distillation and electricity to run the machinery. This allows ethanol plants to be energetically self-sufficient and even sell surplus electricity to utilities; current production is 600&#160;MW (800,000&#160;hp) for self-use and 100&#160;MW (130,000&#160;hp) for sale. This secondary activity is expected to boom now that utilities have been induced to pay "fair price "(about US$10/GJ or US$0.036/kWh) for 10 year contracts. This is approximately half of what the World Bank considers the reference price for investing in similar projects (see below). The energy is especially valuable to utilities because it is produced mainly in the dry season when hydroelectric dams are running low. Estimates of potential power generation from bagasse range from 1,000 to 9,000&#160;MW (1,300,000 to 12,100,000&#160;hp), depending on technology. Higher estimates assume gasification of biomass, replacement of current low-pressure steam boilers and turbines by high-pressure ones, and use of harvest trash currently left behind in the fields. For comparison, Brazil's <a href="/wiki/Angra_Nuclear_Power_Plant" title="Angra Nuclear Power Plant">Angra I nuclear plant</a> generates 657&#160;MW (881,000&#160;hp).</p>
+<p>Presently, it is economically viable to extract about 288 MJ of electricity from the residues of one tonne of sugarcane, of which about 180 MJ are used in the plant itself. Thus a medium-size distillery processing 1,000,000 tonnes (980,000 long tons; 1,100,000 short tons) of sugarcane per year could sell about 5&#160;MW (6,700&#160;hp) of surplus electricity. At current prices, it would earn US$18 million from sugar and ethanol sales, and about US$1 million from surplus electricity sales. With advanced boiler and turbine technology, the electricity yield could be increased to 648 MJ per tonne of sugarcane, but current electricity prices do not justify the necessary investment. (According to one report, the World Bank would only finance investments in bagasse power generation if the price were at least US$19/GJ or US$0.068/kWh.)</p>
+<p>Bagasse burning is <a href="/wiki/Environmentally_friendly" title="Environmentally friendly">environmentally friendly</a> compared to other fuels like oil and coal. Its ash content is only 2.5% (against 30–50% of coal), and it contains very little sulfur. Since it burns at relatively low temperatures, it produces little nitrous oxides. Moreover, bagasse is being sold for use as a fuel (replacing heavy fuel oil) in various industries, including citrus juice concentrate, vegetable oil, ceramics, and tyre recycling. The <a href="/wiki/State_of_S%C3%A3o_Paulo" class="mw-redirect" title="State of São Paulo">state of São Paulo</a> alone used 2,000,000 tonnes (1,970,000 long tons; 2,200,000 short tons), saving about US$35 million in fuel oil imports.</p>
+<p>Researchers working with <a href="/wiki/Cellulosic_ethanol" title="Cellulosic ethanol">cellulosic ethanol</a> are trying to make the extraction of ethanol from sugarcane bagasse and other plants viable on an industrial scale.</p>
+<h2><span class="mw-headline" id="Electricity_from_electrogenic_micro-organisms">Electricity from electrogenic micro-organisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bioenergy&amp;action=edit&amp;section=5" title="Edit section: Electricity from electrogenic micro-organisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Another form of bioenergy can be attained from <a href="/wiki/Microbial_fuel_cells" class="mw-redirect" title="Microbial fuel cells">microbial fuel cells</a>, in which chemical energy stored in wastewater or soil is converted directly into electrical energy via the metabolic processes of electrogenic micro-organisms. The power generation capability of this technology has not been economical to date, however, and this technology has found more utility for chemical treatment processes <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> and student education.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Environmental_impact">Environmental impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bioenergy&amp;action=edit&amp;section=6" title="Edit section: Environmental impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Environmental_impact_of_biodiesel" title="Environmental impact of biodiesel">Environmental impact of biodiesel</a></div>
+<p>Some forms of forest bioenergy have recently come under fire from a number of environmental organizations, including <a href="/wiki/Greenpeace" title="Greenpeace">Greenpeace</a> and the <a href="/wiki/Natural_Resources_Defense_Council" title="Natural Resources Defense Council">Natural Resources Defense Council</a>, for the harmful impacts they can have on forests and the climate. Greenpeace recently released a report entitled <a rel="nofollow" class="external text" href="http://www.greenpeace.org//canada/en/campaigns/forests/boreal/archive/Burning-trees-for-energy-puts-Canadian-forests-and-climate-at-risk-Greenpeace/">Fuelling a BioMess</a> which outlines their concerns around forest bioenergy. Because any part of the tree can be burned, the harvesting of trees for energy production encourages <a href="/wiki/Logging#Full-tree_logging" title="Logging">Whole-Tree Harvesting</a>, which removes more nutrients and soil cover than regular harvesting, and can be harmful to the long-term health of the forest. In some jurisdictions, forest biomass is increasingly consisting of elements essential to functioning forest ecosystems, including standing trees, naturally disturbed forests and remains of traditional logging operations that were previously left in the forest. Environmental groups also cite recent scientific research which has found that it can take many decades for the carbon released by burning biomass to be recaptured by regrowing trees, and even longer in low productivity areas; furthermore, logging operations may disturb forest soils and cause them to release stored carbon. In light of the pressing need to reduce greenhouse gas emissions in the short term in order to mitigate the effects of climate change, a number of environmental groups are opposing the large-scale use of forest biomass in energy production.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>The <a href="/wiki/New_Scientist" title="New Scientist">New Scientist</a> described a scenario in a September 2016 article which illustrated why the journal believed bioenergy can be bad: Suppose you cut down a 50 year oak tree in your garden and use the logs to heat your house instead of coal. Wood emits more carbon dioxide than coal per unit of heat gained and the roots left in the soil emit more carbon dioxide as they rot. If you plant another tree it will soak up that carbon dioxide in about 50 years. But if you had left the original tree in place it would have soaked up the carbon dioxide from the coal and more. It could take centuries before cutting down the tree would give any benefit. But the world needed to cut carbon dioxide over the next few decades if the global warming was to be kept below 3 degrees C.<sup id="cite_ref-NewScientist_15-0" class="reference"><a href="#cite_note-NewScientist-15">[15]</a></sup> The journal also concluded that official claimed carbon reductions from renewables had been overstated. The <a href="/wiki/European_Union" title="European Union">European Union</a>, for example, got more 64% of its renewable energy from biomass (mostly wood) but <a href="/wiki/United_Nations" title="United Nations">United Nations</a> and EU rules did not count the carbon emissions from burning biomass.<sup id="cite_ref-NewScientist_15-1" class="reference"><a href="#cite_note-NewScientist-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bioenergy&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Biochar" title="Biochar">Biochar</a></li>
+<li><a href="/wiki/Bioenergy_in_China" title="Bioenergy in China">Bioenergy in China</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Biogas" title="Biogas">Biogas</a></li>
+<li><a href="/wiki/Jean_Pain" title="Jean Pain">Jean Pain</a></li>
+<li><a href="/wiki/Pellet_fuel" title="Pellet fuel">Pellet fuel</a></li>
+<li><a href="/wiki/Biomass_energy_with_carbon_capture_and_storage" class="mw-redirect" title="Biomass energy with carbon capture and storage">Biomass energy with carbon capture and storage</a></li>
+<li><a href="/wiki/European_Biomass_Association" title="European Biomass Association">European Biomass Association</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bioenergy&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ODI1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ODI1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ODI1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ODI1_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ODI1_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ODI1_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ODI1_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-ODI1_1-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text">Frauke Urban and Tom Mitchell 2011. <a rel="nofollow" class="external text" href="http://www.odi.org.uk/resources/details.asp?id=5792&amp;title=climate-change-disasters-electricity-generation">Climate change, disasters and electricity generation</a>. London: <a href="/wiki/Overseas_Development_Institute" title="Overseas Development Institute">Overseas Development Institute</a> and <a href="/wiki/Institute_of_Development_Studies" title="Institute of Development Studies">Institute of Development Studies</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100823200449/http://www.vxu.se/td/english/bioenergy/blog/what_is_bioenergy/">"What is bioenergy?"</a>. Växjö University, Bioenergy Technology Department. Archived from <a rel="nofollow" class="external text" href="http://www.vxu.se/td/english/bioenergy/blog/what_is_bioenergy/">the original</a> on 23 August 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.btitle=What+is+bioenergy%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.vxu.se%2Ftd%2Fenglish%2Fbioenergy%2Fblog%2Fwhat_is_bioenergy%2F&amp;rft.pub=V%C3%A4xj%C3%B6+University%2C+Bioenergy+Technology+Department&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://en.openei.org/wiki/Definition:Bioenergy">"Definition: Bioenergy | Open Energy Information"</a>. <i>en.openei.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.atitle=Definition%3A+Bioenergy+%7C+Open+Energy+Information&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fen.openei.org%2Fwiki%2FDefinition%3ABioenergy&amp;rft.jtitle=en.openei.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kosinkova, Jana; Doshi, Amar; Maire, Juliette; Ristovski, Zoran; Brown, Richard; Rainey, Thomas (September 2015). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S1364032115003548#">"Measuring the regional availability of biomass for biofuels and the potential for microalgae"</a>. <i>Renewable and Sustainable Energy Reviews</i>. <b>49</b>: 1271–1285. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.rser.2015.04.084">10.1016/j.rser.2015.04.084</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.atitle=Measuring+the+regional+availability+of+biomass+for+biofuels+and+the+potential+for+microalgae&amp;rft.au=Brown%2C+Richard&amp;rft.au=Doshi%2C+Amar&amp;rft.aufirst=Jana&amp;rft.aulast=Kosinkova&amp;rft.au=Maire%2C+Juliette&amp;rft.au=Rainey%2C+Thomas&amp;rft.au=Ristovski%2C+Zoran&amp;rft.date=2015-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1364032115003548%23&amp;rft_id=info%3Adoi%2F10.1016%2Fj.rser.2015.04.084&amp;rft.jtitle=Renewable+and+Sustainable+Energy+Reviews&amp;rft.pages=1271-1285&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=49" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Department_of_Energy-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Department_of_Energy_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.doe.gov/energysources/bioenergy.htm">"Bioenergy"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.btitle=Bioenergy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.doe.gov%2Fenergysources%2Fbioenergy.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Cho, Renee (2011-08-18). <a rel="nofollow" class="external text" href="http://blogs.ei.columbia.edu/2011/08/18/is-biomass-really-renewable/">"Is Biomass Really Renewable?"</a>. <i>Earth Institute</i>. Columbia University<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.atitle=Is+Biomass+Really+Renewable%3F&amp;rft.aufirst=Renee&amp;rft.aulast=Cho&amp;rft.date=2011-08-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fblogs.ei.columbia.edu%2F2011%2F08%2F18%2Fis-biomass-really-renewable%2F&amp;rft.jtitle=Earth+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Davis, Sarah C.; Boddey, Robert M.; Alves, Bruno J. R.; Cowie, Annette L.; George, Brendan H.; Ogle, Stephen M.; Smith, Pete; van Noordwijk, Meine; van Wijk, Mark T. (2013-11-01). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1111/gcbb.12042/abstract">"Management swing potential for bioenergy crops"</a>. <i>GCB Bioenergy</i>. <b>5</b> (6): 623–638. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fgcbb.12042">10.1111/gcbb.12042</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1757-1707">1757-1707</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.atitle=Management+swing+potential+for+bioenergy+crops&amp;rft.au=Alves%2C+Bruno+J.+R.&amp;rft.au=Boddey%2C+Robert+M.&amp;rft.au=Cowie%2C+Annette+L.&amp;rft.aufirst=Sarah+C.&amp;rft.au=George%2C+Brendan+H.&amp;rft.aulast=Davis&amp;rft.au=Ogle%2C+Stephen+M.&amp;rft.au=Smith%2C+Pete&amp;rft.au=van+Noordwijk%2C+Meine&amp;rft.au=van+Wijk%2C+Mark+T.&amp;rft.date=2013-11-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fgcbb.12042%2Fabstract&amp;rft_id=info%3Adoi%2F10.1111%2Fgcbb.12042&amp;rft.issn=1757-1707&amp;rft.issue=6&amp;rft.jtitle=GCB+Bioenergy&amp;rft.pages=623-638&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://janickibioenergy.com/s100.html">"Janicki Bioenergy website"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.btitle=Janicki+Bioenergy+website&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fjanickibioenergy.com%2Fs100.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/technology-30709273">"BBC news article "Bill Gates drinks water distilled from human faeces<span style="padding-right:0.2em;">"</span>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.btitle=BBC+news+article+%22Bill+Gates+drinks+water+distilled+from+human+faeces%22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Ftechnology-30709273&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">"Watch Bill Gates Sip Water Made From Sewer Sludge". <i>Forbes</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.atitle=Watch+Bill+Gates+Sip+Water+Made+From+Sewer+Sludge&amp;rft.genre=unknown&amp;rft.jtitle=Forbes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#cite_web_url" title="Help:CS1 errors">help</a>);</span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cambrianinnovation.com/">"- Cambrian Innovation - Biology For a Cleaner Planet™"</a>. <i>Cambrian Innovation</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.atitle=-+Cambrian+Innovation+-+Biology+For+a+Cleaner+Planet%84%A2&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcambrianinnovation.com%2F&amp;rft.jtitle=Cambrian+Innovation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">MudWatt. <a rel="nofollow" class="external text" href="http://www.mudwatt.com">"MudWatt Science Kit"</a>. <i>MudWatt</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.atitle=MudWatt+Science+Kit&amp;rft.au=MudWatt&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mudwatt.com&amp;rft.jtitle=MudWatt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greenpeace.org//canada/en/campaigns/forests/boreal/archive/Burning-trees-for-energy-puts-Canadian-forests-and-climate-at-risk-Greenpeace/">Greenpeace.org</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120603051341/http://www.greenpeace.org/">Archived</a> June 3, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://switchboard.nrdc.org/blogs/slyutse/today_nrdc_and_our_partners.html">"NRDC fact sheet lays out biomass basics, campaign calls for action to tell EPA our forests aren't fuel"</a>. <i>nrdc.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.atitle=NRDC+fact+sheet+lays+out+biomass+basics%2C+campaign+calls+for+action+to+tell+EPA+our+forests+aren%27t+fuel&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fswitchboard.nrdc.org%2Fblogs%2Fslyutse%2Ftoday_nrdc_and_our_partners.html&amp;rft.jtitle=nrdc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NewScientist-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-NewScientist_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NewScientist_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Le Page, Michael (2016-09-24). <a rel="nofollow" class="external text" href="https://www.newscientist.com/article/mg23130922-600-revealed-the-renewable-energy-scam-making-global-warming-worse/">"The Great Carbon Scam"</a>. <i>The New Scientist</i>. 3092. <b>231</b>: 20–21. <span style="font-size:90%; color:#555">(subscription required (<span title="Sources are not required to be available online. Online sources do not have to be freely available. The site may require a paid subscription." style="border-bottom:1px dotted;cursor:help">help</span>))</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABioenergy&amp;rft.atitle=The+Great+Carbon+Scam&amp;rft.aufirst=Michael&amp;rft.aulast=Le+Page&amp;rft.date=2016-09-24&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.newscientist.com%2Farticle%2Fmg23130922-600-revealed-the-renewable-energy-scam-making-global-warming-worse%2F&amp;rft.jtitle=The+New+Scientist&amp;rft.pages=20-21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=231" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bioenergy&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/GA_Mansoori" class="mw-redirect" title="GA Mansoori">GA Mansoori</a>, N Enayati, LB Agyarko (2016), <a rel="nofollow" class="external text" href="http://www.worldscientific.com/worldscibooks/10.1142/9699">Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State</a>, World Sci. Pub. Co., <a href="/wiki/Special:BookSources/9789814704007" class="internal mw-magiclink-isbn">ISBN 978-981-4704-00-7</a></li>
+<li><a rel="nofollow" class="external text" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2341738">A Comparison between Shale Gas in China and Unconventional Fuel Development in the United States: Health, Water and Environmental Risks</a> by Paolo Farah and Riccardo Tremolada. This is a paper presented at the Colloquium on Environmental Scholarship 2013 hosted by Vermont Law School (11 October 2013)</li>
+<li><a rel="nofollow" class="external text" href="https://inlportal.inl.gov/portal/server.pt?open=512&amp;objID=421&amp;parentname=CommunityPage&amp;parentid=1&amp;mode=2&amp;in_hi_userid=200&amp;cached=true">Biomass Reports</a> (<a href="/wiki/Idaho_National_Laboratory" title="Idaho National Laboratory">Idaho National Laboratory</a>).</li>
+<li><a rel="nofollow" class="external text" href="http://www.ifpri.org/book-774/ourwork/researcharea/bioenergy">Research</a> about the intersection of bioenergy, agriculture, and food security by the <a rel="nofollow" class="external text" href="http://www.ifpri.org/">International Food Policy Research Institute</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bioenergy&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style ambox-external_links" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Bioenergy&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links.2C_images.2C_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span> <small><i>(March 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://vimeo.com/27213943">Video: Where does bioenergy come from? By László Máthé, Bioenergy Coordinator WWF International</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bioenergywiki.net/index.php/Main_Page">BioenergyWiki</a> (BioenergyWiki was developed in cooperation with the CURES network and an international Steering Committee. It is currently being hosted by the <a href="/wiki/National_Wildlife_Federation" title="National Wildlife Federation">National Wildlife Federation</a> with support from the <a href="/wiki/Rockefeller_Brothers_Fund" title="Rockefeller Brothers Fund">Rockefeller Brothers Fund</a>, the Biomass Coordinating Council of the American Council on Renewable Energy (<a href="/wiki/ACORE" class="mw-redirect" title="ACORE">ACORE</a>), the <a href="/wiki/Heinrich_Boell_Foundation" class="mw-redirect" title="Heinrich Boell Foundation">Heinrich Boell Foundation</a>, Dynamotive Energy Systems Corporation, Renew the Earth, and the <a href="/wiki/Worldwatch_Institute" title="Worldwatch Institute">Worldwatch Institute</a>.)</li>
+<li><a rel="nofollow" class="external text" href="http://energy.gov/eere/transportation/bioenergy">Bioenergy</a> (<a href="/wiki/Office_of_Energy_Efficiency_and_Renewable_Energy" title="Office of Energy Efficiency and Renewable Energy">US Department of Energys Office of Energy Efficiency and Renewable Energy</a>).</li>
+<li><a rel="nofollow" class="external text" href="http://www.bioindhan.org">Bioenergy in India</a> (India's first Bioenergy Center at the prestigious IITs)</li>
+<li><a rel="nofollow" class="external text" href="http://www.gcbbioenergy.org">Global Change Biology Bioenergy</a>(GCB Bioenergy is a journal promoting understanding of the interface between biological sciences and the production of fuels directly from plants, algae and waste.)</li>
+<li><a rel="nofollow" class="external autonumber" href="http://www.kardagrotech.com">[1]</a> Bioenergy plant in multiple countries</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Bioenergy" style="padding:3px">
+<table class="nowraplinks collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bioenergy" title="Template:Bioenergy"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bioenergy" title="Template talk:Bioenergy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bioenergy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Bioenergy" style="font-size:114%;margin:0 4em"><strong class="selflink">Bioenergy</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Biofuels" title="Category:Biofuels">Biofuels</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alcohol" title="Alcohol">Alcohol</a></li>
+<li><a href="/wiki/Algae_fuel" title="Algae fuel">Algae fuel</a></li>
+<li><a href="/wiki/Bagasse" title="Bagasse">Bagasse</a></li>
+<li><a href="/wiki/Babassu_oil" title="Babassu oil">Babassu oil</a></li>
+<li><a href="/wiki/Butanol_fuel" title="Butanol fuel">Biobutanol</a></li>
+<li><a href="/wiki/Biodiesel" title="Biodiesel">Biodiesel</a></li>
+<li><a href="/wiki/Biogas" title="Biogas">Biogas</a></li>
+<li><a href="/wiki/Biogasoline" title="Biogasoline">Biogasoline</a></li>
+<li><a href="/wiki/Corn_stover" title="Corn stover">Corn stover</a></li>
+<li><a href="/wiki/Ethanol_fuel" title="Ethanol fuel">Ethanol</a>
+<ul>
+<li><a href="/wiki/Cellulosic_ethanol" title="Cellulosic ethanol">cellulosic</a></li>
+<li><a href="/wiki/Common_ethanol_fuel_mixtures" title="Common ethanol fuel mixtures">mixtures</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Methanol_fuel" title="Methanol fuel">Methanol</a></li>
+<li><a href="/wiki/Stover" title="Stover">Stover</a>
+<ul>
+<li><a href="/wiki/Corn_stover" title="Corn stover">Corn stover</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Straw" title="Straw">Straw</a></li>
+<li><a href="/wiki/Cooking_oil" title="Cooking oil">Cooking oil</a>
+<ul>
+<li><a href="/wiki/Vegetable_oil_fuel" title="Vegetable oil fuel">Vegetable oil</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Eichhornia_crassipes#Bioenergy" title="Eichhornia crassipes">Water hyacinth</a></li>
+<li><a href="/wiki/Wood_gas" title="Wood gas">Wood gas</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Sugarcane_field.jpg" class="image"><img alt="Sugarcane field.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/120px-Sugarcane_field.jpg" width="120" height="181" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/180px-Sugarcane_field.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/240px-Sugarcane_field.jpg 2x" data-file-width="1848" data-file-height="2790" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Energy_crops" title="Category:Energy crops">Energy from<br />
+foodstock</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barley" title="Barley">Barley</a></li>
+<li><a href="/wiki/Cassava" title="Cassava">Cassava</a></li>
+<li><a href="/wiki/Grape" title="Grape">Grape</a></li>
+<li><a href="/wiki/Hemp" title="Hemp">Hemp</a></li>
+<li><a href="/wiki/Maize" title="Maize">Maize</a></li>
+<li><a href="/wiki/Oat" title="Oat">Oat</a></li>
+<li><a href="/wiki/Palm_oil" title="Palm oil">Palm oil</a></li>
+<li><a href="/wiki/Potato" title="Potato">Potato</a></li>
+<li><a href="/wiki/Rapeseed" title="Rapeseed">Rapeseed</a></li>
+<li><a href="/wiki/Rice" title="Rice">Rice</a></li>
+<li><i><a href="/wiki/Sorghum_bicolor" title="Sorghum bicolor">Sorghum bicolor</a></i></li>
+<li><a href="/wiki/Soybean" title="Soybean">Soybean</a></li>
+<li><a href="/wiki/Sugarcane" title="Sugarcane">Sugarcane</a></li>
+<li><a href="/wiki/Sugar_beet" title="Sugar beet">Sugar beet</a></li>
+<li><a href="/wiki/Sunflower" class="mw-redirect" title="Sunflower">Sunflower</a></li>
+<li><a href="/wiki/Wheat" title="Wheat">Wheat</a></li>
+<li><a href="/wiki/Yam_(vegetable)" title="Yam (vegetable)">Yam</a></li>
+<li><i><a href="/wiki/Camelina_sativa#Biodiesel_and_jet_fuel" title="Camelina sativa">Camelina sativa</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Non-food_crops" title="Category:Non-food crops">Non-food<br />
+energy crops</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Arundo" title="Arundo">Arundo</a></i></li>
+<li><a href="/wiki/Andropogon_gerardi" title="Andropogon gerardi">Big bluestem</a></li>
+<li><i><a href="/wiki/Camelina" title="Camelina">Camelina</a></i></li>
+<li><a href="/wiki/Triadica_sebifera" title="Triadica sebifera">Chinese tallow</a></li>
+<li><a href="/wiki/Lemnoideae" title="Lemnoideae">Duckweed</a></li>
+<li><i><a href="/wiki/Jatropha_curcas" title="Jatropha curcas">Jatropha curcas</a></i></li>
+<li><i><a href="/wiki/Millettia_pinnata" title="Millettia pinnata">Millettia pinnata</a></i></li>
+<li><i><a href="/wiki/Miscanthus_giganteus" title="Miscanthus giganteus">Miscanthus giganteus</a></i></li>
+<li><a href="/wiki/Panicum_virgatum" title="Panicum virgatum">Switchgrass</a></li>
+<li><a href="/wiki/Wood_fuel" title="Wood fuel">Wood fuel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Technology</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bio-energy_with_carbon_capture_and_storage" title="Bio-energy with carbon capture and storage">BECCS</a></li>
+<li><a href="/wiki/Bioconversion_of_biomass_to_mixed_alcohol_fuels" title="Bioconversion of biomass to mixed alcohol fuels">Bioconversion</a></li>
+<li><a href="/wiki/Biomass_heating_system" title="Biomass heating system">Biomass heating systems</a></li>
+<li><a href="/wiki/Biorefinery" title="Biorefinery">Biorefinery</a></li>
+<li><a href="/wiki/Fischer%E2%80%93Tropsch_process" title="Fischer–Tropsch process">Fischer–Tropsch process</a></li>
+<li><a href="/wiki/Industrial_biotechnology" class="mw-redirect" title="Industrial biotechnology">Industrial biotechnology</a></li>
+<li><a href="/wiki/Pellet_fuel" title="Pellet fuel">Pellets</a>
+<ul>
+<li><a href="/wiki/Pellet_mill" title="Pellet mill">mill</a></li>
+<li><a href="/wiki/Pellet_stove" title="Pellet stove">stove</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Thermal_depolymerization" title="Thermal depolymerization">Thermal depolymerization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cellulosic_ethanol_commercialization" title="Cellulosic ethanol commercialization">Cellulosic ethanol commercialization</a></li>
+<li><a href="/wiki/Energy_content_of_biofuel" title="Energy content of biofuel">Energy content of biofuel</a></li>
+<li><a href="/wiki/Energy_crop" title="Energy crop">Energy crop</a></li>
+<li><a href="/wiki/Energy_forestry" title="Energy forestry">Energy forestry</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Food_vs._fuel" title="Food vs. fuel">Food vs. fuel</a></li>
+<li><a href="/wiki/Issues_relating_to_biofuels" title="Issues relating to biofuels">Issues</a></li>
+<li><a href="/wiki/Sustainable_biofuel" title="Sustainable biofuel">Sustainable biofuel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%;margin:0 4em"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Home_Energy_Storage" title="Home Energy Storage">Home energy storage</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Utility_frequency" title="Utility frequency">Utility frequency</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Mains_electricity_by_country" title="Mains electricity by country">Mains electricity by country</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4145596-4">4145596-4</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1176
+Cached time: 20170314144204
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.348 seconds
+Real time usage: 0.429 seconds
+Preprocessor visited node count: 1639/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 76225/2097152 bytes
+Template argument size: 784/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 3/500
+Lua time usage: 0.158/10.000 seconds
+Lua memory usage: 6.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  335.161      1 -total
+ 35.87%  120.206      1 Template:Reflist
+ 21.24%   71.173     10 Template:Cite_web
+ 14.14%   47.390     10 Template:Convert
+  9.13%   30.616      3 Template:Navbox
+  8.02%   26.883      2 Template:Ambox
+  7.85%   26.319      1 Template:Refimprove
+  6.86%   22.983      1 Template:Authority_control
+  6.52%   21.845      1 Template:Electricity_generation
+  5.91%   19.823      1 Template:About
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1713537-0!*!0!!en!4!* and timestamp 20170314144204 and revision id 763139394
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bioenergy&amp;oldid=763139394">https://en.wikipedia.org/w/index.php?title=Bioenergy&amp;oldid=763139394</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Bioenergy" title="Category:Bioenergy">Bioenergy</a></li><li><a href="/wiki/Category:Biofuels" title="Category:Biofuels">Biofuels</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_web_citations_with_no_URL" title="Category:Pages using web citations with no URL">Pages using web citations with no URL</a></li><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2011" title="Category:Articles needing additional references from May 2011">Articles needing additional references from May 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_March_2016" title="Category:Wikipedia external links cleanup from March 2016">Wikipedia external links cleanup from March 2016</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_March_2016" title="Category:Wikipedia spam cleanup from March 2016">Wikipedia spam cleanup from March 2016</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bioenergy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bioenergy" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Bioenergy"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Bioenergy"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Bioenergy" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Bioenergy&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bioenergy&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bioenergy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bioenergy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bioenergy&amp;oldid=763139394" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bioenergy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q18556" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bioenergy&amp;id=763139394" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bioenergy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Bioenergy&amp;returnto=Bioenergy&amp;oldid=763139394&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bioenergy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bioenergy" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Bioenergie" title="Bioenergie – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9_%D8%AD%D9%8A%D9%88%D9%8A%D8%A9" title="طاقة حيوية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Bioenerji" title="Bioenerji – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Energija_biomase" title="Energija biomase – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Bioenergie" title="Bioenergie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Bioenergi" title="Bioenergi – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bioenergie" title="Bioenergie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Biomassienergia" title="Biomassienergia – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BF%CE%B5%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1" title="Βιοενέργεια – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Bioenerg%C3%ADa" title="Bioenergía – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Bioenergio" title="Bioenergio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B2%DB%8C%D8%B3%D8%AA%E2%80%8C%D8%A7%D9%86%D8%B1%DA%98%DB%8C" title="زیست‌انرژی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bio%C3%A9nergie" title="Bioénergie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%97%90%EB%84%88%EC%A7%80" title="바이오에너지 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Bioelektrana" title="Bioelektrana – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Bioenergi" title="Bioenergi – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Bioenergia" title="Bioenergia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%98%D0%B0" title="Биоенергија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9C%E0%B5%88%E0%B4%B5%E0%B5%8B%E0%B5%BC%E0%B4%9C%E0%B5%8D%E0%B4%9C%E0%B4%82" title="ജൈവോർജ്ജം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Biotenaga" title="Biotenaga – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bio-energie" title="Bio-energie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bioenergi" title="Bioenergi – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Bioenergi" title="Bioenergi – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Bioenergia_(combust%C3%ADveis)" title="Bioenergia (combustíveis) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Energie_de_biomas%C4%83" title="Energie de biomasă – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0)" title="Биоэнергетика (электроэнергетика) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Bioenergjia" title="Bioenergjia – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Bioenergia" title="Bioenergia – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D1%88%D0%BA%D0%B0_%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%98%D0%B0" title="Биолошка енергија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Bioelektrana" title="Bioelektrana – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Biyoenerji" title="Biyoenerji – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" title="Біоенергетика – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/N%C4%83ng_l%C6%B0%E1%BB%A3ng_sinh_h%E1%BB%8Dc" title="Năng lượng sinh học – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%94%9F%E7%89%A9%E8%83%BD%E6%BA%90" title="生物能源 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q18556#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 February 2017, at 14:57.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bioenergy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.348","walltime":"0.429","ppvisitednodes":{"value":1639,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":76225,"limit":2097152},"templateargumentsize":{"value":784,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  335.161      1 -total"," 35.87%  120.206      1 Template:Reflist"," 21.24%   71.173     10 Template:Cite_web"," 14.14%   47.390     10 Template:Convert","  9.13%   30.616      3 Template:Navbox","  8.02%   26.883      2 Template:Ambox","  7.85%   26.319      1 Template:Refimprove","  6.86%   22.983      1 Template:Authority_control","  6.52%   21.845      1 Template:Electricity_generation","  5.91%   19.823      1 Template:About"]},"scribunto":{"limitreport-timeusage":{"value":"0.158","limit":"10.000"},"limitreport-memusage":{"value":6674484,"limit":52428800}},"cachereport":{"origin":"mw1176","timestamp":"20170314144204","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":516,"wgHostname":"mw1176"});});</script>
+	</body>
+</html>

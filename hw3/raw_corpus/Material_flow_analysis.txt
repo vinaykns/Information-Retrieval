@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Material flow analysis - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Material_flow_analysis","wgTitle":"Material flow analysis","wgCurRevisionId":744505629,"wgRevisionId":744505629,"wgArticleId":7886277,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Environmental impact assessment","Industrial ecology","Environmental social science concepts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Material_flow_analysis","wgRelevantArticleId":7886277,"wgRequestId":"WMMVvgpAAEIAAVKWqeAAAABQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1770543","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a4/MFASystem_1.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Material_flow_analysis"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Material_flow_analysis&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Material_flow_analysis&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Material_flow_analysis"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Material_flow_analysis rootpage-Material_flow_analysis skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Material flow analysis</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Material flow analysis</b> (<b>MFA</b>) (also referred to as <b>substance flow analysis</b> (<b>SFA</b>)) is an analytical method to quantify flows and stocks of materials or substances in a well-defined <a href="/wiki/System" title="System">system</a>. MFA is an important tool to study the bio-physical aspects of human activity on different spatial and temporal scales. It is considered a core method of <a href="/wiki/Industrial_ecology" title="Industrial ecology">industrial ecology</a> or <a href="/wiki/Anthropogenic_metabolism" title="Anthropogenic metabolism">anthropogenic</a>, <a href="/wiki/Urban_metabolism" title="Urban metabolism">urban</a>, <a href="/wiki/Social_metabolism" title="Social metabolism">social</a> and <a href="/wiki/Industrial_metabolism" title="Industrial metabolism">industrial metabolism</a>. MFA is used to study material, substance, or product flows across different industrial sectors or within <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a>. MFA can also be applied to a single industrial installation, for example, for tracking <a href="/wiki/Nutrient" title="Nutrient">nutrient</a> flows through a <a href="/wiki/Waste_water_treatment_plant" class="mw-redirect" title="Waste water treatment plant">waste water treatment plant</a>. When combined with an assessment of the costs associated with material flows this business-oriented application of MFA is called <a href="/wiki/Material_Flow_Cost_Accounting" title="Material Flow Cost Accounting">Material Flow Cost Accounting</a>. MFA is an important tool to study the <a href="/wiki/Circular_economy" title="Circular economy">circular economy</a> and to devise <a href="/wiki/Material_flow_management" title="Material flow management">material flow management</a>. Since the 1990s, the number of publications related to material flow analysis has grown steadily. Peer-reviewed journals that publish MFA-related work include the <a href="/wiki/Journal_of_Industrial_Ecology" title="Journal of Industrial Ecology">Journal of Industrial Ecology</a>, <a href="/wiki/Ecological_Economics" class="mw-redirect" title="Ecological Economics">Ecological Economics</a>, <a href="/wiki/Environmental_Science_and_Technology" class="mw-redirect" title="Environmental Science and Technology">Environmental Science and Technology</a>, and Resources, Conservation, and Recycling.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Methodology_of_MFA"><span class="tocnumber">1</span> <span class="toctext">Methodology of MFA</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Motivation"><span class="tocnumber">1.1</span> <span class="toctext">Motivation</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Basic_principles"><span class="tocnumber">1.2</span> <span class="toctext">Basic principles</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#System_definition"><span class="tocnumber">1.2.1</span> <span class="toctext">System definition</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Process_balance"><span class="tocnumber">1.2.2</span> <span class="toctext">Process balance</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Examples_of_MFA_applications_on_different_spatial_and_temporal_scales"><span class="tocnumber">2</span> <span class="toctext">Examples of MFA applications on different spatial and temporal scales</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Historical_development"><span class="tocnumber">3</span> <span class="toctext">Historical development</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Recent_development"><span class="tocnumber">3.1</span> <span class="toctext">Recent development</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Conducting_a_state-of-the-art_MFA"><span class="tocnumber">4</span> <span class="toctext">Conducting a state-of-the-art MFA</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#The_difference_between_material_and_substance_flow_analysis"><span class="tocnumber">4.1</span> <span class="toctext">The difference between material and substance flow analysis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Relation_to_other_methods"><span class="tocnumber">5</span> <span class="toctext">Relation to other methods</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Methodology_of_MFA">Methodology of MFA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=1" title="Edit section: Methodology of MFA">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Motivation">Motivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=2" title="Edit section: Motivation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Human_need" class="mw-redirect" title="Human need">Human needs</a> such as shelter, food, transport, or communication require materials like wood, starch, sugar, iron and steel, copper, or semiconductors. As society develops and economic activity <a href="/wiki/Economic_growth" title="Economic growth">expands</a>, material production, use, and disposal increase to a level where unwanted impacts on environment and society cannot be <a href="/wiki/Externality" title="Externality">neglected</a> anymore, neither locally nor globally. Material flows are at the core of local environmental problems such as leaching from <a href="/wiki/Landfill" title="Landfill">landfills</a> or <a href="/wiki/Oil_spill" title="Oil spill">oil spills</a>. Rising concern about <a href="/wiki/Global_warming" title="Global warming">global warming</a> puts a previously unimportant waste flow, <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, on top of the political and scientific agenda. The gradual shift from primary material production to <a href="/wiki/Recycling" title="Recycling">urban mining</a> in developed countries requires a detailed assessment of in-use and obsolete stocks of materials within human society. Scientists, industries, government bodies, and NGOs therefore need a tool that complements economic accounting and modelling. They need a systematic method to keep track of and display stocks and flows of the materials entering, staying within, and leaving the different processes in the <a href="/wiki/Anthroposphere" title="Anthroposphere">anthroposphere</a>. Material flow analysis is such a method.</p>
+<h3><span class="mw-headline" id="Basic_principles">Basic principles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=3" title="Edit section: Basic principles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>MFA is based on two fundamental and well-established scientific principles, the <a href="/wiki/System" title="System">systems</a> approach and <a href="/wiki/Mass_balance" title="Mass balance">mass balance</a>. <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The system definition is the starting point of every MFA study.</p>
+<h4><span class="mw-headline" id="System_definition">System definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=4" title="Edit section: System definition">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:MFASystem_1.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MFASystem_1.png/220px-MFASystem_1.png" width="220" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MFASystem_1.png/330px-MFASystem_1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MFASystem_1.png/440px-MFASystem_1.png 2x" data-file-width="728" data-file-height="499" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MFASystem_1.png" class="internal" title="Enlarge"></a></div>
+Basic MFA system without quantification.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:MFASystem_2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/MFASystem_2.png/220px-MFASystem_2.png" width="220" height="114" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/MFASystem_2.png/330px-MFASystem_2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/MFASystem_2.png/440px-MFASystem_2.png 2x" data-file-width="711" data-file-height="368" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MFASystem_2.png" class="internal" title="Enlarge"></a></div>
+A more general MFA system without quantification.</div>
+</div>
+</div>
+<p>An MFA system is a model of an industrial plant, an industrial sector or a region of concern. The level of detail of the system model is chosen to fit the purpose of the study. An MFA system always consists of the system boundary, one or more <a href="/wiki/Unit_process" title="Unit process">processes</a>, material flows between processes, and stocks of materials within processes. Physical exchange between the system and its environment happens via flows that cross the system boundary. Contrary to <a href="/wiki/Chemical_engineering" title="Chemical engineering">chemical engineering</a>, where a system represents a specific industrial installation, systems and processes in MFA can represent much larger and more abstract entities as long as they are well-defined. The explicit system definition helps the practitioner to locate the available quantitative information in the system, either as stocks within certain processes or as flows between processes. An MFA system description can be refined by disaggregating processes or simplified by aggregating processes.</p>
+<p>Next to specifying the arrangement of processes, stocks, and flows in the system definition, the practitioner also needs to indicate the scale and the indicator element or material of the system studied. The spatial scale describes the geographic entity that is covered by the system. A system representing a certain industrial sector can be applied to the USA, China, certain world regions, or the world as a whole. The temporal scale describes the point in time or the time span for which the system is quantified. The indicator element or material of the system is the physical entity that is measured and for which the mass balance holds. As the name says, an indicator element is a certain <a href="/wiki/Chemical_element" title="Chemical element">chemical element</a> such as cadmium or a substance such as CO<sub>2</sub>. In general, a material or a product can also be used as indicator as long as a process balance can be established for it. Examples of more general indicators are goods such as passenger cars, materials like steel, or other physical quantities such as <a href="/wiki/Energy" title="Energy">energy</a>.</p>
+<p>MFA requires practitioners to make precise use of the terms 'material', 'substance', or 'good', as laid out, for example, in chapter 2.1 of Brunner and Rechberger,<sup id="cite_ref-BR2004_4-0" class="reference"><a href="#cite_note-BR2004-4">[4]</a></sup> one of the main references for the MFA method.</p>
+<ul>
+<li>A <a href="/wiki/Chemical_element" title="Chemical element">chemical element</a> is "a pure chemical substance consisting of one type of atom distinguished by its atomic number".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li>A substance is "any (chemical) element or compound composed of uniform units. All substances are characterised by a unique and identical constitution and are thus homogeneous." From chapter 2.1.1 in Brunner&amp;Rechberger.<sup id="cite_ref-BR2004_4-1" class="reference"><a href="#cite_note-BR2004-4">[4]</a></sup></li>
+<li>A good is defined as "economic entity of matter with a positive or negative economic value. Goods are made up of one or several substances". From chapter 2.1.2 in Brunner and Rechberger.<sup id="cite_ref-BR2004_4-2" class="reference"><a href="#cite_note-BR2004-4">[4]</a></sup></li>
+<li>The term material in MFA "serves as an umbrella term for both substances and goods." From chapter 2.1.3 in Brunner&amp;Rechberger.<sup id="cite_ref-BR2004_4-3" class="reference"><a href="#cite_note-BR2004-4">[4]</a></sup></li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:MFASystem_3.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/MFASystem_3.png/220px-MFASystem_3.png" width="220" height="109" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/MFASystem_3.png/330px-MFASystem_3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/MFASystem_3.png/440px-MFASystem_3.png 2x" data-file-width="1620" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MFASystem_3.png" class="internal" title="Enlarge"></a></div>
+A typical MFA system with quantification.</div>
+</div>
+</div>
+<h4><span class="mw-headline" id="Process_balance">Process balance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=5" title="Edit section: Process balance">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>One of the main purposes of MFA is to quantify the <a href="/wiki/Social_metabolism" title="Social metabolism">metabolism</a> of the elements of the system. Unlike economic accounting, MFA also covers non-economic waste flows, emissions to the environment, and non-market natural resources.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:MFAProcess1.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4d/MFAProcess1.png/220px-MFAProcess1.png" width="220" height="235" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4d/MFAProcess1.png/330px-MFAProcess1.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4d/MFAProcess1.png/440px-MFAProcess1.png 2x" data-file-width="965" data-file-height="1031" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MFAProcess1.png" class="internal" title="Enlarge"></a></div>
+Model of an industrial process in economic accounting (top) and in physical accounting (bottom).</div>
+</div>
+</div>
+<p>The process balance is a first order physical principle that turns MFA into a powerful accounting and analysis tool. The nature of the processes in the system determine which balances apply. For a process ‘<a href="/wiki/Oil_refinery" title="Oil refinery">oil refinery</a>’, for example, one can establish a mass balance for each chemical element, while this is not possible for a nuclear power station. A car manufacturing plant respects the balance for steel, but a steel mill does not.</p>
+<p>When quantifying MFA systems either by measurements or from statistical data, mass and other process balances have to be checked to ensure the correctness of the quantification and to reveal possible data inconsistencies or even misconceptions in the system such as the omission of a flow or a process. Conflicting information can be reconciled using <a href="/wiki/Data_validation_and_reconciliation" title="Data validation and reconciliation">data validation and reconciliation</a>, and the STAN-software offers basic reconciliation functionality that is suitable for many MFA application.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Examples_of_MFA_applications_on_different_spatial_and_temporal_scales">Examples of MFA applications on different spatial and temporal scales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=6" title="Edit section: Examples of MFA applications on different spatial and temporal scales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>MFA studies are conducted on various spatial and temporal scales and for a variety of elements, substances, and goods. They cover a wide range of process chains and material cycles. Several examples:</p>
+<ul>
+<li><i>MFA on a national or regional scale</i> (also referred to as <a href="/wiki/Material_flow_accounting" title="Material flow accounting">material flow accounting</a>): In this type of study, the material exchanges between an economy and the natural environment are analyzed. Several indicators are calculated in order to assess the level of <a href="/wiki/Resource_intensity" title="Resource intensity">resource intensity</a> of the system. <sup id="cite_ref-ES2013_7-0" class="reference"><a href="#cite_note-ES2013-7">[7]</a></sup><sup id="cite_ref-KR2015_8-0" class="reference"><a href="#cite_note-KR2015-8">[8]</a></sup></li>
+<li><i>Corporate material flow analysis</i>, or MFA along an <i>industrial supply chain</i> involves a number of companies: The goal of material flow analysis within a company is to quantify and then optimize the production processes so that materials and energy are used more efficiently manner, e.g., by <a href="/wiki/Recycling" title="Recycling">recycling</a> and <a href="/wiki/Waste" title="Waste">waste</a> reduction. Companies can use the results obtained by <a href="/wiki/Material_Flow_Cost_Accounting" title="Material Flow Cost Accounting">Material Flow Cost Accounting</a> to reduce their operational costs and improve environmental performance.</li>
+<li>In the <i>life cycle of a product</i>: The life cycle inventory, whose compilation is at the core of <a href="/wiki/Life_cycle_assessment" class="mw-redirect" title="Life cycle assessment">life cycle assessment</a>, follows the MFA methodology as it is based on an explicit system definition and process balances.</li>
+</ul>
+<h2><span class="mw-headline" id="Historical_development">Historical development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=7" title="Edit section: Historical development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Mass balance or the conservation of matter has been postulated already in ancient Greece, and it was introduced into modern chemistry by <a href="/wiki/Antoine_Lavoisier" title="Antoine Lavoisier">Antoine Lavoisier</a> (cf. chapter 2.1.3 in Brunner&amp;Rechberger,<sup id="cite_ref-BR2004_4-4" class="reference"><a href="#cite_note-BR2004-4">[4]</a></sup>), from where it found its way to chemical engineering and finally to environmental science.</li>
+<li>Other seminal contributions were made by <a href="/wiki/Sanctorius" class="mw-redirect" title="Sanctorius">Sanctorius</a> and <a href="/wiki/Theodor_Weyl" title="Theodor Weyl">Theodor Weyl</a>.</li>
+<li>Dennis Meadows made a wide audience aware of the physical foundation of the economy when he co-authored the bestseller <i><a href="/wiki/Limits_to_Growth" class="mw-redirect" title="Limits to Growth">Limits to Growth</a></i> in 1971. Meadows et al. based their predictions on an analysis of resource stocks; see in the <a href="/wiki/Glossary_of_environmental_science#R" title="Glossary of environmental science">glossary of environmental science</a>.</li>
+<li>The methodology of MFA was developed during the 80s and 90s. Development happened simultaneously in different research groups. Central publications on the MFA methodology include Baccini and Bader (1996),<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Brunner and Rechberger (2004),<sup id="cite_ref-BR2004_4-5" class="reference"><a href="#cite_note-BR2004-4">[4]</a></sup> Baccini and Brunner (2012),<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> and van der Voet et al. (2002).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li>Friedrich Schmidt-Bleek, who worked at the Wuppertal Institute,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> developed the MFA-related concept of Material Input Per Service unit (MIPS).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li>The <a href="/wiki/UNEP" class="mw-redirect" title="UNEP">UNEP</a> Resource Panel<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> was set up in 2007 by the United Nations Environment Program. In analogy to the Intergovernmental Panel on Climate Change (<a href="/wiki/IPCC" class="mw-redirect" title="IPCC">IPCC</a>)<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> it brings together experts from many disciplines and institutions to review the current state of research on societal metabolism and to communicate the latest findings to policymakers and stakeholders.</li>
+</ul>
+<h3><span class="mw-headline" id="Recent_development">Recent development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=8" title="Edit section: Recent development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>MFA concepts have been or are being incorporated in national accounts in several countries and regions such as the EU<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> and Japan.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> MFA is also used in the <a href="/wiki/System_of_Integrated_Environmental_and_Economic_Accounting" title="System of Integrated Environmental and Economic Accounting">System of Integrated Environmental and Economic Accounting</a>.</li>
+<li>Several international conferences or other meetings provide a platform for researchers and policymakers to meet and exchange results and ideas, including the <a href="/wiki/World_Resources_Forum" title="World Resources Forum">World Resources Forum</a>,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> a bi-annual international conference on material flow analysis and sustainable development.</li>
+<li>MFA-IO is an approach to establish an MFA system of the whole economy using monetary and physical Input-Output tables.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></li>
+<li>The Sustainable Europe Research Institute (SERI) in Vienna, Austria, has developed a database called materialflows.net.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+<li>Dynamic MFA aims for long-term quantification of MFA systems and uses historic development patterns of physical stocks and flows to create robust scenarios for the years and decades to come.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li>
+<li>Japan has developed into a hotspot for MFA research. The country has scarce mineral resources and therefore depends on imports of energy carriers, ores, and other raw materials. The Japanese government fosters research on material cycles and also inaugurated the 3-R concept.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Conducting_a_state-of-the-art_MFA">Conducting a state-of-the-art MFA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=9" title="Edit section: Conducting a state-of-the-art MFA">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A state-of-the-art MFA consists of the following steps:<sup id="cite_ref-BR2004_4-6" class="reference"><a href="#cite_note-BR2004-4">[4]</a></sup></p>
+<ul>
+<li>Establish an explicit system definition: Specify the system boundary with geographical and temporal scope, processes (can contain stocks), and flows. Specify the material for which the system is to be quantified (product, substance, or indicator element). Make sure that each stock is associated with a process and that each flow connects one process to another. Flows can also begin or end outside the system boundary.</li>
+<li>Define and name the system variables. The system variables include: All stocks within the processes, all flows between processes, and all flows coming from outside or going to outside the system boundaries. Sometimes, stocks are not considered and only the net stock changes are of interest. For each variable it must be clear whether it is a stock or a flow, and this distinction needs to be reflected in the names and in the mathematical symbols chosen.</li>
+<li>Quantify the system variables by linking them to literature, measurement, or modelled data.</li>
+<li>Performa a mass balance check for all processes and the system as a whole.</li>
+<li>Optional: Visualise your system by using the box-and-arrow scheme shown above or by using <a href="/wiki/Sankey_diagram" title="Sankey diagram">Sankey diagrams</a>.</li>
+<li>Document the MFA by reporting the explicit system definition along with the list of quantified system variables and the mass balance checks.</li>
+</ul>
+<h3><span class="mw-headline" id="The_difference_between_material_and_substance_flow_analysis">The difference between material and substance flow analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=10" title="Edit section: The difference between material and substance flow analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While the term 'substance' in 'substance flow analysis (SFA) always refers to chemical substances, the term 'material' in 'material flow analysis (MFA)' has a much wider scope. According to Brunner and Rechberger<sup id="cite_ref-BR2004_4-7" class="reference"><a href="#cite_note-BR2004-4">[4]</a></sup> the term 'material' comprises substances AND goods, and the reason for this wide scope is the wish to apply MFA not only to chemical elements or substances but also to materials like steel, timber, or products like cars or buildings. It is thus possible to conduct an MFA for the passenger vehicle fleet by recording the vehicles entering and leaving the use phase.</p>
+<h2><span class="mw-headline" id="Relation_to_other_methods">Relation to other methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=11" title="Edit section: Relation to other methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>MFA is complementary to the other core <a href="/wiki/Industrial_ecology" title="Industrial ecology">industrial ecology</a> methods <a href="/wiki/Life_cycle_assessment" class="mw-redirect" title="Life cycle assessment">life cycle assessment</a> (LCA) and <a href="/wiki/Input-output_model" class="mw-redirect" title="Input-output model">input-output (I/O) models</a>. Some overlaps between the different methods exist as they all share the system approach and to some extent the mass balance principle. The methods mainly differ in purpose, scope, and data requirements.</p>
+<p>MFA studies often cover the entire cycle (mining, production, manufacturing, use, waste handling) of a certain substance within a given geographical boundary and time frame. Material stocks are explicit in MFA, which makes this method suitable for studies involving resource scarcity and recycling from old scrap. The common use of time series (dynamic modelling) and lifetime models makes MFA a suitable tool for assessing long-term trends in material use.</p>
+<ul>
+<li>Compared to I/O analyses, the number of processes considered in MFA systems is usually much lower. On the other hand, mass balance ensures that flows of by-products or waste are not overlooked in MFA studies, whereas in I/O tables these flows are often not included due to their lack of economic value. Physical I/O models are much less common than economic tables. Material stocks are not covered by IO analysis, only the addition to stock can be included in form of capital accumulation.</li>
+<li>Life cycle inventories record the demand for many different materials associated with individual products, whereas MFA studies typically focus on a single material used in many different products.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Emblem-money.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/28px-Emblem-money.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/42px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/56px-Emblem-money.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Business and economics portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" width="32" height="21" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" data-file-width="6000" data-file-height="4000" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_sociology.svg/28px-Logo_sociology.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_sociology.svg/42px-Logo_sociology.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_sociology.svg/56px-Logo_sociology.svg.png 2x" data-file-width="616" data-file-height="616" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sociology" title="Portal:Sociology">Sociology portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Anthropogenic_metabolism" title="Anthropogenic metabolism">Anthropogenic metabolism</a></li>
+<li><a href="/wiki/Energy_accounting" title="Energy accounting">Energy accounting</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Industrial_metabolism" title="Industrial metabolism">Industrial metabolism</a></li>
+<li><a href="/wiki/Material_criticality" title="Material criticality">Material criticality</a></li>
+<li><a href="/wiki/Material_flow_accounting" title="Material flow accounting">Material flow accounting</a></li>
+<li><a href="/wiki/Organigraph" title="Organigraph">Organigraph</a></li>
+<li><a href="/wiki/Social_metabolism" title="Social metabolism">Social metabolism</a></li>
+<li><a href="/wiki/Sankey_diagram" title="Sankey diagram">Sankey diagram</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.journals.elsevier.com/resources-conservation-and-recycling/">http://www.journals.elsevier.com/resources-conservation-and-recycling/</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Marina Fischer-Kowalski, The Intellectual History of Materials Flow Analysis, Part I, 1860-1970, Journal of Industrial Ecology 2(1), 1998, pp 61-78, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1162%2Fjiec.1998.2.1.61">10.1162/jiec.1998.2.1.61</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Marina Fischer-Kowalski, The Intellectual History of Materials Flow Analysis, Part II, 1970-1998, Journal of Industrial Ecology 2(4), 1998, pp 107-136, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1162%2Fjiec.1998.2.4.107">10.1162/jiec.1998.2.4.107</a>.</span></li>
+<li id="cite_note-BR2004-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-BR2004_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BR2004_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BR2004_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BR2004_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BR2004_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-BR2004_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-BR2004_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-BR2004_4-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Brunner, P.H.; Rechberger, H. (2004). <i>Practical Handbook of Material Flow Analysis</i>. Lewis Publishers, New York. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56670-604-1" title="Special:BookSources/1-56670-604-1">1-56670-604-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.aufirst=P.H.&amp;rft.aulast=Brunner&amp;rft.au=Rechberger%2C+H.&amp;rft.btitle=Practical+Handbook+of+Material+Flow+Analysis&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=1-56670-604-1&amp;rft.pub=Lewis+Publishers%2C+New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">IUPAC, Compendium of Chemical Terminology, 2nd ed. (the "Gold Book") (1997). Online corrected version: (2006–) "chemical element".</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.stan2web.net/">http://www.stan2web.net/</a></span></li>
+<li id="cite_note-ES2013-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-ES2013_7-0">^</a></b></span> <span class="reference-text"><cite class="citation report">Eurostat (2013). Economy-wide Material Flow Accounts (EW-MFA) (Report). Eurostat.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.au=Eurostat&amp;rft.btitle=Economy-wide+Material+Flow+Accounts+%28EW-MFA%29&amp;rft.date=2013&amp;rft.genre=report&amp;rft.pub=Eurostat&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-KR2015-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-KR2015_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Krausmann, Fridolin; Weisz, Helga; Eisenmenger, Nina; Schütz, Helmut; Haas, Willi; Schaffartzik, Anke (2015). <i>Economy-wide Material Flow Accounting - Introduction and Guide. Social Ecology Working paper 151</i>. Institute of Social Ecology, Alpen-Adria University, Klagenfurt/Graz/Vienna. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1726-3808">1726-3808</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.au=Eisenmenger%2C+Nina&amp;rft.aufirst=Fridolin&amp;rft.au=Haas%2C+Willi&amp;rft.aulast=Krausmann&amp;rft.au=Schaffartzik%2C+Anke&amp;rft.au=Sch%C3%BCtz%2C+Helmut&amp;rft.au=Weisz%2C+Helga&amp;rft.btitle=Economy-wide+Material+Flow+Accounting+-+Introduction+and+Guide.+Social+Ecology+Working+paper+151&amp;rft.date=2015&amp;rft.genre=book&amp;rft.issn=1726-3808&amp;rft.pub=Institute+of+Social+Ecology%2C+Alpen-Adria+University%2C+Klagenfurt%2FGraz%2FVienna&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Baccini and Bader 1996, 'Regionaler Stoffhaushalt' (Regional metabolism), Spektrum Akademischer Verlag, Heidelberg (Germany), <a href="/wiki/Special:BookSources/3860252356" class="internal mw-magiclink-isbn">ISBN 3-86025-235-6</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Baccini P. &amp; Brunner P.H. (2012). Metabolism of the Anthroposphere, Analysis, Evaluation, Design. 2nd Edition, The MIT Press, Cambridge, MA. <a href="/wiki/Special:BookSources/9780262016650" class="internal mw-magiclink-isbn">ISBN 9780262016650</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">'Predicting future emissions based on characteristics of stocks', Ecological Economics, 2002, 41(2), 223-234.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wupperinst.org/">"Wuppertal Institute"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.btitle=Wuppertal+Institute&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wupperinst.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Schmidt-Bleek <cite class="citation"><a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007/978-3-0348-5650-8_4"><i>MIPS: Ein neues ökologisches Maß</i></a>, 1994</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.btitle=MIPS%3A+Ein+neues+%C3%B6kologisches+Ma%C3%9F&amp;rft.date=1994&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-0348-5650-8_4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unep.org/">"UNEP"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.btitle=UNEP&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.unep.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ipcc.ch/">"IPCC"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.btitle=IPCC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ipcc.ch%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Material_flow_accounts">"Accounting in the EU"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.btitle=Accounting+in+the+EU&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fepp.eurostat.ec.europa.eu%2Fstatistics_explained%2Findex.php%2FMaterial_flow_accounts&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.meti.go.jp/policy/eco_business/pdf/mfca%20guide20070822.pdf">"Accounting in Japan"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.btitle=Accounting+in+Japan&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.meti.go.jp%2Fpolicy%2Feco_business%2Fpdf%2Fmfca%2520guide20070822.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldresourcesforum.org/">"World Resources Forum"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.btitle=World+Resources+Forum&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldresourcesforum.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book">Nakamura, S.; Kondo, Y. (2009). <i>Waste Input-Output Analysis. Concepts and Application to Industrial Ecology</i>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4020-9901-4" title="Special:BookSources/978-1-4020-9901-4">978-1-4020-9901-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.aufirst=S.&amp;rft.au=Kondo%2C+Y.&amp;rft.aulast=Nakamura&amp;rft.btitle=Waste+Input-Output+Analysis.+Concepts+and+Application+to+Industrial+Ecology&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-1-4020-9901-4&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.materialflows.net/">"materialflows.net"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.btitle=materialflows.net&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.materialflows.net%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Daniel B. Müller, Stock dynamics for forecasting material flows--Case study for housing in The Netherlands, Ecological Economics 59(1), 2006, pp 142-156, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.ecolecon.2005.09.025">10.1016/j.ecolecon.2005.09.025</a>.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.env.go.jp/recycle/3r/en/index.html">"3R in Japan"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.btitle=3R+in+Japan&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.env.go.jp%2Frecycle%2F3r%2Fen%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=14" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Baccini, P.; Bader, H.-P. (1996). <i>Regionaler Stoffhaushalt</i>. Spektrum Akademischer Verlag, Heidelberg (Germany). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-86025-235-6" title="Special:BookSources/3-86025-235-6">3-86025-235-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaterial+flow+analysis&amp;rft.au=Bader%2C+H.-P.&amp;rft.aufirst=P.&amp;rft.aulast=Baccini&amp;rft.btitle=Regionaler+Stoffhaushalt&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=3-86025-235-6&amp;rft.pub=Spektrum+Akademischer+Verlag%2C+Heidelberg+%28Germany%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.csiro.au/AsiaPacificMaterialFlows">CSIRO and UNEP Material Flow and Resource Productivity Database for Asia and the Pacific</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.materialflows.net/">materialflows.net</a>: online portal for material flow data, providing access to material flow data sets on the national level</li>
+<li>MFA is described in great detail and published on 166 pages in the first of four paper volumes co-edited with assistance from UNEP and in online form by the <a rel="nofollow" class="external text" href="https://www.oecd.org/env/indicators-modelling-outlooks/resourceefficiency.htm">OECD</a></li>
+<li><a rel="nofollow" class="external text" href="http://iwr.tuwien.ac.at/resources/downloads/stan.html">STAN Material Flow Analysis Freeware</a></li>
+<li><a rel="nofollow" class="external text" href="http://wupperinst.org/en/projects/topics-online/material-flow-analysis/">Economy-wide Material Flow Analysis and Indicators</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.umweltgesamtrechnung.at/ms/ugr/ugr_en/ugr_physicalaccounts/ugr_materialflowaccounts/">Material flow analysis in the context of environmental accounting</a></li>
+<li><a rel="nofollow" class="external text" href="http://metabolismofcities.org/omat/about">Online Material Flow Analysis Tool (OMAT)</a>: online software to administer a Material Flow Analysis</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Industrial_ecology" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#7FBF7F;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Industrial_Ecology" title="Template:Industrial Ecology"><abbr title="View this template" style="background:#7FBF7F;;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Industrial_Ecology" title="Template talk:Industrial Ecology"><abbr title="Discuss this template" style="background:#7FBF7F;;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Industrial_Ecology&amp;action=edit"><abbr title="Edit this template" style="background:#7FBF7F;;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Industrial_ecology" style="font-size:114%"><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#7FBF7F;">Tools</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agent-based_model" title="Agent-based model">Agent-based model</a></li>
+<li><a href="/wiki/Cost%E2%80%93benefit_analysis" title="Cost–benefit analysis">Cost–benefit analysis</a></li>
+<li><a href="/wiki/DPSIR" title="DPSIR">DPSIR</a></li>
+<li><a href="/wiki/Ecolabel" title="Ecolabel">Ecolabel</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a></li>
+<li><a href="/wiki/Environmental_management_system" title="Environmental management system">Environmental management system</a></li>
+<li><a href="/wiki/EIOLCA" title="EIOLCA">Economic Input-Output Life Cycle Assessment</a></li>
+<li><a href="/wiki/Full_cost_accounting" class="mw-redirect" title="Full cost accounting">Full cost accounting</a></li>
+<li><a href="/wiki/Input-output_model" class="mw-redirect" title="Input-output model">Input-output model</a></li>
+<li><a href="/wiki/Integrated_chain_management" title="Integrated chain management">Integrated chain management</a></li>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">ISO 14000</a></li>
+<li><a href="/wiki/Life-cycle_assessment" title="Life-cycle assessment">Life-cycle assessment</a></li>
+<li><strong class="selflink">Material flow analysis</strong></li>
+<li><a href="/wiki/MET_Matrix" title="MET Matrix">MET Matrix</a></li>
+<li><a href="/wiki/Stakeholder_analysis" title="Stakeholder analysis">Stakeholder analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#7FBF7F;">Concepts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Circular_economy" title="Circular economy">Circular economy</a></li>
+<li><a href="/wiki/Cradle_to_Cradle_Design" class="mw-redirect" title="Cradle to Cradle Design">Cradle to cradle</a></li>
+<li><a href="/wiki/Dematerialization_(products)" title="Dematerialization (products)">Dematerialization</a></li>
+<li><a href="/wiki/Eco-efficiency" title="Eco-efficiency">Eco-efficiency</a></li>
+<li><a href="/wiki/Eco-industrial_development" title="Eco-industrial development">Eco-industrial development</a></li>
+<li><a href="/wiki/Eco-industrial_park" title="Eco-industrial park">Eco-industrial park</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Exergy" title="Exergy">Exergy</a></li>
+<li><a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">Extended producer responsibility</a></li>
+<li><a href="/wiki/Industrial_metabolism" title="Industrial metabolism">Industrial metabolism</a></li>
+<li><a href="/wiki/Industrial_symbiosis" title="Industrial symbiosis">Industrial symbiosis</a></li>
+<li><a href="/wiki/Pollution_prevention" title="Pollution prevention">Pollution prevention</a></li>
+<li><a href="/wiki/Life-cycle_assessment" title="Life-cycle assessment">Life-cycle assessment</a></li>
+<li><a href="/wiki/Polluter_pays_principle" title="Polluter pays principle">Polluter pays principle</a></li>
+<li><a href="/wiki/Precautionary_principle" title="Precautionary principle">Precautionary principle</a></li>
+<li><a href="/wiki/Rebound_effect_(conservation)" title="Rebound effect (conservation)">Rebound effect</a></li>
+<li><a href="/wiki/Waste_hierarchy" title="Waste hierarchy">Waste hierarchy</a></li>
+<li><a href="/wiki/Waste_minimisation" title="Waste minimisation">Waste minimisation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#7FBF7F;">Related fields</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cleaner_production" title="Cleaner production">Cleaner production</a></li>
+<li><a href="/wiki/Design_to_the_Environment" class="mw-redirect" title="Design to the Environment">Design for environment</a></li>
+<li><a href="/wiki/Earth_systems_engineering_and_management" title="Earth systems engineering and management">Earth systems engineering and management</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Green_chemistry" title="Green chemistry">Green chemistry</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Recycling" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Recycling" title="Template:Recycling"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Recycling" title="Template talk:Recycling"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Recycling&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Recycling" style="font-size:114%"><a href="/wiki/Recycling" title="Recycling">Recycling</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Recycling_by_material" title="Recycling by material">Materials</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aluminium_recycling" title="Aluminium recycling">Aluminium</a></li>
+<li><a href="/wiki/Asphalt_concrete#Recycling" title="Asphalt concrete">Asphalt</a></li>
+<li><a href="/wiki/Concrete_recycling" title="Concrete recycling">Concrete</a></li>
+<li><a href="/wiki/Copper#Recycling" title="Copper">Copper</a></li>
+<li><a href="/wiki/Cotton_recycling" title="Cotton recycling">Cotton</a></li>
+<li><a href="/wiki/Energy_recycling" title="Energy recycling">Energy</a></li>
+<li><a href="/wiki/Ferrous_metal_recycling" title="Ferrous metal recycling">Ferrous metals</a></li>
+<li><a href="/wiki/Glass_recycling" title="Glass recycling">Glass</a></li>
+<li><a href="/wiki/Gypsum_recycling" title="Gypsum recycling">Gypsum</a></li>
+<li><a href="/wiki/Paper_recycling" title="Paper recycling">Paper</a></li>
+<li><a href="/wiki/Plastic_recycling" title="Plastic recycling">Plastic</a></li>
+<li><a href="/wiki/Refrigerant_reclamation" title="Refrigerant reclamation">Refrigerant</a></li>
+<li><a href="/wiki/Scrap" title="Scrap">Scrap</a></li>
+<li><a href="/wiki/Timber_recycling" title="Timber recycling">Timber</a></li>
+<li><a href="/wiki/Vegetable_oil_recycling" title="Vegetable oil recycling">Vegetable oil</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Water</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="11" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Recycling_symbol.svg" class="image"><img alt="Recycling symbol.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Recycling_symbol.svg/75px-Recycling_symbol.svg.png" width="75" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Recycling_symbol.svg/113px-Recycling_symbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Recycling_symbol.svg/150px-Recycling_symbol.svg.png 2x" data-file-width="628" data-file-height="614" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Recycling_by_product" title="Recycling by product">Products</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appliance_recycling" title="Appliance recycling">Appliances</a></li>
+<li><a href="/wiki/Automotive_oil_recycling" title="Automotive oil recycling">Automotive oil</a></li>
+<li><a href="/wiki/Battery_recycling" title="Battery recycling">Batteries</a></li>
+<li><a href="/wiki/Bottle_recycling" title="Bottle recycling">Bottles</a></li>
+<li><a href="/wiki/PET_bottle_recycling" title="PET bottle recycling">PET bottles</a></li>
+<li><a href="/wiki/Computer_recycling" title="Computer recycling">Computers</a></li>
+<li><a href="/wiki/Fluorescent_lamp_recycling" title="Fluorescent lamp recycling">Fluorescent lamps</a></li>
+<li><a href="/wiki/Reclaimed_lumber" title="Reclaimed lumber">Lumber</a></li>
+<li><a href="/wiki/Mobile_phone_recycling" title="Mobile phone recycling">Mobile phones</a></li>
+<li><a href="/wiki/Paint_recycling" title="Paint recycling">Paint</a></li>
+<li><a href="/wiki/Ship_disposal" title="Ship disposal">Ships</a></li>
+<li><a href="/wiki/Textile_recycling" title="Textile recycling">Textiles</a></li>
+<li><a href="/wiki/Tire_recycling" title="Tire recycling">Tires</a></li>
+<li><a href="/wiki/Vehicle_recycling" title="Vehicle recycling">Vehicles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Apparatus</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Recycling_bins" class="mw-redirect" title="Recycling bins">Bins</a></li>
+<li><a href="/wiki/Blue_bag" title="Blue bag">Blue bags</a></li>
+<li><a href="/wiki/Blue_box_recycling_system" title="Blue box recycling system">Blue boxes</a></li>
+<li><a href="/wiki/Recycling_codes" title="Recycling codes">Codes</a></li>
+<li><a href="/wiki/Kerbside_collection" title="Kerbside collection">Collection</a></li>
+<li><a href="/wiki/Materials_recovery_facility" title="Materials recovery facility">Materials recovery facility</a></li>
+<li><a href="/wiki/Waste_sorting" title="Waste sorting">Waste sorting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Countries</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Recycling_in_Brazil" title="Recycling in Brazil">Brazil</a></li>
+<li><a href="/wiki/Recycling_in_Canada" title="Recycling in Canada">Canada</a></li>
+<li><a href="/wiki/Recycling_in_the_Republic_of_Ireland" title="Recycling in the Republic of Ireland">Ireland</a></li>
+<li><a href="/wiki/Recycling_in_Japan" title="Recycling in Japan">Japan</a></li>
+<li><a href="/wiki/Recycling_in_the_Netherlands" title="Recycling in the Netherlands">The Netherlands</a></li>
+<li><a href="/wiki/Waste_management_in_Switzerland#Recycling" title="Waste management in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Recycling_in_the_United_Kingdom" title="Recycling in the United Kingdom">United Kingdom</a>
+<ul>
+<li><a href="/wiki/Recycling_in_Northern_Ireland" title="Recycling in Northern Ireland">Northern Ireland</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Recycling_in_the_United_States" title="Recycling in the United States">United States</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dematerialization_(products)" title="Dematerialization (products)">Dematerialization</a></li>
+<li><a href="/wiki/Downcycling" title="Downcycling">Downcycling</a></li>
+<li><a href="/wiki/Eco-industrial_park" title="Eco-industrial park">Eco-industrial park</a></li>
+<li><a href="/wiki/Ecodesign" title="Ecodesign">Ecodesign</a></li>
+<li><a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">Extended producer responsibility</a></li>
+<li><a href="/wiki/Freecycling" title="Freecycling">Freecycling</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Industrial_metabolism" title="Industrial metabolism">Industrial metabolism</a></li>
+<li><a href="/wiki/Land_recycling" title="Land recycling">Land recycling</a></li>
+<li><strong class="selflink">Material flow analysis</strong></li>
+<li><a href="/wiki/Precycling" title="Precycling">Precycling</a></li>
+<li><a href="/wiki/Product_stewardship" title="Product stewardship">Product stewardship</a></li>
+<li><a href="/wiki/Recursive_recycling" title="Recursive recycling">Recursive recycling</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Recycling (ecological)</a></li>
+<li><a href="/wiki/Resource_recovery" title="Resource recovery">Resource recovery</a></li>
+<li><a href="/wiki/Repurposing" title="Repurposing">Repurposing</a></li>
+<li><a href="/wiki/Reuse" title="Reuse">Reuse</a></li>
+<li><a href="/wiki/Upcycling" title="Upcycling">Upcycling</a></li>
+<li><a href="/wiki/Dumpster_diving" title="Dumpster diving">Urban lumberjacking</a></li>
+<li><a href="/wiki/Waste_hierarchy" title="Waste hierarchy">Waste hierarchy</a></li>
+<li><a href="/wiki/Waste_minimisation" title="Waste minimisation">Waste minimisation</a></li>
+<li><a href="/wiki/Waste_picker" title="Waste picker">Waste picking</a></li>
+<li><a href="/wiki/Zero_waste" title="Zero waste">Zero waste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Compost" title="Compost">Composting</a></li>
+<li><a href="/wiki/Container_deposit_legislation" title="Container deposit legislation">Container deposit legislation</a></li>
+<li><a href="/wiki/Dumpster_diving" title="Dumpster diving">Dumpster diving</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical consumerism</a></li>
+<li><a href="/wiki/Freeganism" title="Freeganism">Freeganism</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Waste" title="Waste">Waste</a></li>
+<li><a href="/wiki/Waste-to-energy" title="Waste-to-energy">Waste-to-energy</a></li>
+<li><a href="/wiki/Waste_collection" title="Waste collection">Waste collection</a></li>
+<li><a href="/wiki/Waste_legislation" class="mw-redirect" title="Waste legislation">Waste legislation</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+<li><a href="/wiki/List_of_waste_management_concepts" title="List of waste management concepts">Waste management concepts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Recycling" title="Category:Recycling">Category</a>
+<ul>
+<li><a href="/wiki/Category:Recycling_by_country" title="Category:Recycling by country">by country</a></li>
+<li><a href="/wiki/Category:Recycling_by_material" title="Category:Recycling by material">by material</a></li>
+<li><a href="/wiki/Category:Recycling_by_product" title="Category:Recycling by product">by product</a></li>
+<li><a href="/wiki/Category:Recycling_organisations" title="Category:Recycling organisations">organizations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Index_of_recycling_articles" title="Index of recycling articles">Index</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Recycling" class="extiw" title="commons:Category:Recycling">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Systems.C2.A0.C2.A0.C2.B7_.C2.A0Systems_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Systems_science" title="Template:Systems science"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Systems_science" title="Template talk:Systems science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Systems_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Systems.C2.A0.C2.A0.C2.B7_.C2.A0Systems_science" style="font-size:114%"><a href="/wiki/System" title="System">Systems</a>&#160;<span style="font-weight:normal;">&#160;<b>·</b></span> &#160;<a href="/wiki/Systems_science" title="Systems science">Systems science</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Systems<br />
+types</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Human_body" title="Human body">Anatomical</a></li>
+<li><a href="/wiki/Systems_art" title="Systems art">Art</a></li>
+<li><a href="/wiki/Biological_system" title="Biological system">Biological</a></li>
+<li><a href="/wiki/Complex_system" title="Complex system">Complex</a></li>
+<li><a href="/wiki/Complex_adaptive_system" title="Complex adaptive system">Complex adaptive</a></li>
+<li><a href="/wiki/Conceptual_system" title="Conceptual system">Conceptual</a></li>
+<li><a href="/wiki/Coupled_human%E2%80%93environment_system" title="Coupled human–environment system">Coupled human–environment</a></li>
+<li><a href="/wiki/Database" title="Database">Database</a></li>
+<li><a href="/wiki/Dynamical_system" title="Dynamical system">Dynamical</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecological</a></li>
+<li><a href="/wiki/Economic_system" title="Economic system">Economic</a></li>
+<li><a href="/wiki/Energy_system" title="Energy system">Energy</a></li>
+<li><a href="/wiki/Formal_system" title="Formal system">Formal</a></li>
+<li><a href="/wiki/Global_Positioning_System" title="Global Positioning System">Global Positioning</a></li>
+<li><a href="/wiki/Holon_(philosophy)" title="Holon (philosophy)">Holarchic</a></li>
+<li><a href="/wiki/Information_system" title="Information system">Information</a></li>
+<li><a href="/wiki/List_of_national_legal_systems" title="List of national legal systems">Legal</a></li>
+<li><a href="/wiki/System_of_measurement" title="System of measurement">Measurement</a></li>
+<li><a href="/wiki/Metric_system" title="Metric system">Metric</a></li>
+<li><a href="/wiki/Multi-agent_system" title="Multi-agent system">Multi-agent</a></li>
+<li><a href="/wiki/Nervous_system" title="Nervous system">Nervous</a></li>
+<li><a href="/wiki/Nonlinear_system" title="Nonlinear system">Nonlinear</a></li>
+<li><a href="/wiki/Operating_system" title="Operating system">Operating</a></li>
+<li><a href="/wiki/Physical_system" title="Physical system">Physical</a></li>
+<li><a href="/wiki/Planetary_system" title="Planetary system">Planetary</a></li>
+<li><a href="/wiki/Political_system" title="Political system">Political</a></li>
+<li><a href="/wiki/Sensory_system" class="mw-redirect" title="Sensory system">Sensory</a></li>
+<li><a href="/wiki/Social_system" title="Social system">Social</a></li>
+<li><a href="/wiki/Star_system" title="Star system">Star</a></li>
+<li><a href="/wiki/Writing_system" title="Writing system">Writing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Systems_theory" title="Category:Systems theory">Theoretical<br />
+fields</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chaos_theory" title="Chaos theory">Chaos theory</a></li>
+<li><a href="/wiki/Complex_systems" title="Complex systems">Complex systems</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control theory</a></li>
+<li><a href="/wiki/Cybernetics" title="Cybernetics">Cybernetics</a></li>
+<li><a href="/wiki/Earth_system_science" title="Earth system science">Earth system science</a></li>
+<li><a href="/wiki/Living_systems" title="Living systems">Living systems</a></li>
+<li><a href="/wiki/Sociotechnical_system" title="Sociotechnical system">Sociotechnical system</a></li>
+<li><a href="/wiki/Systemics" title="Systemics">Systemics</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+<li><a href="/wiki/World-systems_theory" title="World-systems theory">World-systems theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;padding-right:0.5em;">Systems ...</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Systems_analysis" title="Systems analysis">analysis</a></li>
+<li><a href="/wiki/Systems_biology" title="Systems biology">biology</a></li>
+<li><a href="/wiki/System_dynamics" title="System dynamics">dynamics</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">ecology</a></li>
+<li><a href="/wiki/Systems_engineering" title="Systems engineering">engineering</a></li>
+<li><a href="/wiki/Systems_neuroscience" title="Systems neuroscience">neuroscience</a></li>
+<li><a href="/wiki/Systems_psychology" title="Systems psychology">psychology</a></li>
+<li><a href="/wiki/Systems_science" title="Systems science">science</a></li>
+<li><a href="/wiki/Systems_theory" title="Systems theory">theory</a></li>
+<li><a href="/wiki/Systems_thinking" title="Systems thinking">thinking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Systems_scientists" title="Category:Systems scientists">Systems<br />
+scientists</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Russell_L._Ackoff" title="Russell L. Ackoff">Russell L. Ackoff</a></li>
+<li><a href="/wiki/William_Ross_Ashby" class="mw-redirect" title="William Ross Ashby">William Ross Ashby</a></li>
+<li><a href="/wiki/B%C3%A9la_H._B%C3%A1n%C3%A1thy" title="Béla H. Bánáthy">Béla H. Bánáthy</a></li>
+<li><a href="/wiki/Gregory_Bateson" title="Gregory Bateson">Gregory Bateson</a></li>
+<li><a href="/wiki/Anthony_Stafford_Beer" class="mw-redirect" title="Anthony Stafford Beer">Anthony Stafford Beer</a></li>
+<li><a href="/wiki/Richard_E._Bellman" title="Richard E. Bellman">Richard E. Bellman</a></li>
+<li><a href="/wiki/Ludwig_von_Bertalanffy" title="Ludwig von Bertalanffy">Ludwig von Bertalanffy</a></li>
+<li><a href="/wiki/Kenneth_E._Boulding" title="Kenneth E. Boulding">Kenneth E. Boulding</a></li>
+<li><a href="/wiki/Murray_Bowen" title="Murray Bowen">Murray Bowen</a></li>
+<li><a href="/wiki/C._West_Churchman" title="C. West Churchman">C. West Churchman</a></li>
+<li><a href="/wiki/George_Dantzig" title="George Dantzig">George Dantzig</a></li>
+<li><a href="/wiki/Heinz_von_Foerster" title="Heinz von Foerster">Heinz von Foerster</a></li>
+<li><a href="/wiki/Jay_Wright_Forrester" title="Jay Wright Forrester">Jay Wright Forrester</a></li>
+<li><a href="/wiki/Charles_A_S_Hall" class="mw-redirect" title="Charles A S Hall">Charles A S Hall</a></li>
+<li><a href="/wiki/James_J._Kay" title="James J. Kay">James J. Kay</a></li>
+<li><a href="/wiki/George_Klir" title="George Klir">George Klir</a></li>
+<li><a href="/wiki/Edward_Norton_Lorenz" title="Edward Norton Lorenz">Edward Norton Lorenz</a></li>
+<li><a href="/wiki/Niklas_Luhmann" title="Niklas Luhmann">Niklas Luhmann</a></li>
+<li><a href="/wiki/Humberto_Maturana" title="Humberto Maturana">Humberto Maturana</a></li>
+<li><a href="/wiki/Margaret_Mead" title="Margaret Mead">Margaret Mead</a></li>
+<li><a href="/wiki/Donella_Meadows" title="Donella Meadows">Donella Meadows</a></li>
+<li><a href="/wiki/Mihajlo_D._Mesarovic" title="Mihajlo D. Mesarovic">Mihajlo D. Mesarovic</a></li>
+<li><a href="/wiki/James_Grier_Miller" title="James Grier Miller">James Grier Miller</a></li>
+<li><a href="/wiki/Howard_T._Odum" title="Howard T. Odum">Howard T. Odum</a></li>
+<li><a href="/wiki/Talcott_Parsons" title="Talcott Parsons">Talcott Parsons</a></li>
+<li><a href="/wiki/Ilya_Prigogine" title="Ilya Prigogine">Ilya Prigogine</a></li>
+<li><a href="/wiki/Qian_Xuesen" title="Qian Xuesen">Qian Xuesen</a></li>
+<li><a href="/wiki/Anatol_Rapoport" title="Anatol Rapoport">Anatol Rapoport</a></li>
+<li><a href="/wiki/Peter_Senge" title="Peter Senge">Peter Senge</a></li>
+<li><a href="/wiki/Claude_Shannon" title="Claude Shannon">Claude Shannon</a></li>
+<li><a href="/wiki/Francisco_Varela" title="Francisco Varela">Francisco Varela</a></li>
+<li><a href="/wiki/Kevin_Warwick" title="Kevin Warwick">Kevin Warwick</a></li>
+<li><a href="/wiki/Norbert_Wiener" title="Norbert Wiener">Norbert Wiener</a></li>
+<li><a href="/wiki/Anthony_Wilden" title="Anthony Wilden">Anthony Wilden</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> Categories</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Category:Systems" title="Category:Systems">Systems</a>
+<ul>
+<li><a href="/wiki/Category:Conceptual_systems" title="Category:Conceptual systems">conceptual</a></li>
+<li><a href="/wiki/Category:Physical_systems" title="Category:Physical systems">physical</a></li>
+<li><a href="/wiki/Category:Social_systems" title="Category:Social systems">social</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Category:Systems_science" title="Category:Systems science">Systems science</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold">
+<div>
+<ul>
+<li><a href="/wiki/File:Complex-adaptive-system.jpg" class="image"><img alt="Complex-adaptive-system.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/16px-Complex-adaptive-system.jpg" width="16" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/24px-Complex-adaptive-system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/32px-Complex-adaptive-system.jpg 2x" data-file-width="2100" data-file-height="1500" /></a> <a href="/wiki/Portal:Systems_science" title="Portal:Systems science">Systems science portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1176
+Cached time: 20170309082952
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.264 seconds
+Preprocessor visited node count: 1180/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 70327/2097152 bytes
+Template argument size: 1849/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.078/10.000 seconds
+Lua memory usage: 3.79 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  165.250      1 -total
+ 59.16%   97.759      1 Template:Reflist
+ 22.93%   37.898      4 Template:Cite_book
+ 19.32%   31.928      4 Template:Navbox
+ 15.46%   25.544      8 Template:Cite_web
+ 13.39%   22.119      1 Template:Portal
+  8.17%   13.494      1 Template:Recycling
+  7.48%   12.358      1 Template:Industrial_Ecology
+  6.50%   10.744      1 Template:Systems_science
+  4.91%    8.110      4 Template:Icon
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7886277-0!*!0!!en!4!* and timestamp 20170309082952 and revision id 744505629
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Material_flow_analysis&amp;oldid=744505629">https://en.wikipedia.org/w/index.php?title=Material_flow_analysis&amp;oldid=744505629</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environmental_impact_assessment" title="Category:Environmental impact assessment">Environmental impact assessment</a></li><li><a href="/wiki/Category:Industrial_ecology" title="Category:Industrial ecology">Industrial ecology</a></li><li><a href="/wiki/Category:Environmental_social_science_concepts" title="Category:Environmental social science concepts">Environmental social science concepts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Material+flow+analysis" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Material+flow+analysis" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Material_flow_analysis"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Material_flow_analysis"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Material_flow_analysis" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Material_flow_analysis&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Material_flow_analysis&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Material_flow_analysis" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Material_flow_analysis" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Material_flow_analysis&amp;oldid=744505629" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Material_flow_analysis&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1770543" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Material_flow_analysis&amp;id=744505629" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Material+flow+analysis">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Material+flow+analysis&amp;returnto=Material+flow+analysis&amp;oldid=744505629&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Material_flow_analysis&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Stoffstromanalyse" title="Stoffstromanalyse – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Materjalivoo_anal%C3%BC%C3%BCs" title="Materjalivoo analüüs – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1770543#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 October 2016, at 17:44.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Material_flow_analysis&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.264","ppvisitednodes":{"value":1180,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70327,"limit":2097152},"templateargumentsize":{"value":1849,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  165.250      1 -total"," 59.16%   97.759      1 Template:Reflist"," 22.93%   37.898      4 Template:Cite_book"," 19.32%   31.928      4 Template:Navbox"," 15.46%   25.544      8 Template:Cite_web"," 13.39%   22.119      1 Template:Portal","  8.17%   13.494      1 Template:Recycling","  7.48%   12.358      1 Template:Industrial_Ecology","  6.50%   10.744      1 Template:Systems_science","  4.91%    8.110      4 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.078","limit":"10.000"},"limitreport-memusage":{"value":3979246,"limit":52428800}},"cachereport":{"origin":"mw1176","timestamp":"20170309082952","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

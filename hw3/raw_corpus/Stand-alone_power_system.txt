@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Stand-alone power system - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stand-alone_power_system","wgTitle":"Stand-alone power system","wgCurRevisionId":761439934,"wgRevisionId":761439934,"wgArticleId":7861587,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with accessdate and no URL","Electric power generation","Renewable energy technology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stand-alone_power_system","wgRelevantArticleId":7861587,"wgRequestId":"WL89BApAMEcAAGdemX0AAACI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1664450","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.page.gallery","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/bf/Hybrid_Power_System.gif"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stand-alone_power_system"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stand-alone_power_system&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stand-alone_power_system&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Stand-alone_power_system"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Stand-alone_power_system rootpage-Stand-alone_power_system skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Stand-alone power system</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:Hybrid_Power_System.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hybrid_Power_System.gif/320px-Hybrid_Power_System.gif" width="320" height="283" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hybrid_Power_System.gif/480px-Hybrid_Power_System.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/b/bf/Hybrid_Power_System.gif 2x" data-file-width="557" data-file-height="493" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hybrid_Power_System.gif" class="internal" title="Enlarge"></a></div>
+Schematics of a hybrid system</div>
+</div>
+</div>
+<p>A <b>stand-alone power system</b> (<b>SAPS</b> or <b>SPS</b>), also known as <b>remote area power supply</b> (<b>RAPS</b>), is an <a href="/wiki/Off-the-grid" title="Off-the-grid">off-the-grid</a> <a href="/wiki/Electricity" title="Electricity">electricity</a> system for locations that are not fitted with an <a href="/wiki/Electricity_distribution" class="mw-redirect" title="Electricity distribution">electricity distribution</a> system. Typical SAPS include one or more methods of <a href="/wiki/Electricity_generation" title="Electricity generation">electricity generation</a>, <a href="/wiki/Grid_energy_storage" title="Grid energy storage">energy storage</a>, and regulation.</p>
+<p>Electricity is typically generated by one or more of the following methods:</p>
+<ul>
+<li><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a> using <a href="/wiki/Photovoltaic_module" class="mw-redirect" title="Photovoltaic module">solar panels</a></li>
+<li><a href="/wiki/Wind_turbine" title="Wind turbine">Wind turbine</a></li>
+<li><a href="/wiki/Geothermal" class="mw-redirect" title="Geothermal">Geothermal</a> source</li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro combined heat and power</a></li>
+<li><a href="/wiki/Micro_hydro" title="Micro hydro">Micro hydro</a></li>
+<li><a href="/wiki/Diesel_generator" title="Diesel generator">Diesel</a> or <a href="/wiki/Biofuel" title="Biofuel">biofuel</a> generator</li>
+<li><a href="/wiki/Thermoelectric_generator" title="Thermoelectric generator">Thermoelectric generator</a> (TEGs)</li>
+</ul>
+<p>Storage is typically implemented as a <a href="/wiki/Battery_(electricity)" title="Battery (electricity)">battery bank</a>, but other solutions exist including <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cells</a>. Power drawn directly from the battery will be <a href="/wiki/Direct_current" title="Direct current">direct current</a> <a href="/wiki/Extra_low_voltage" class="mw-redirect" title="Extra low voltage">extra low voltage</a> (DC ELV), and this is used especially for lighting as well as for DC appliances. An <a href="/wiki/Inverter" class="mw-redirect" title="Inverter">inverter</a> is used to generate AC <a href="/wiki/Low_voltage" title="Low voltage">low voltage</a>, which more typical appliances can be used with.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:Depuradora_de_Lluc.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Depuradora_de_Lluc.JPG/320px-Depuradora_de_Lluc.JPG" width="320" height="240" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Depuradora_de_Lluc.JPG/480px-Depuradora_de_Lluc.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Depuradora_de_Lluc.JPG/640px-Depuradora_de_Lluc.JPG 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Depuradora_de_Lluc.JPG" class="internal" title="Enlarge"></a></div>
+A typical stand-alone <a href="/wiki/Solar_PV_system" class="mw-redirect" title="Solar PV system">solar PV system</a> at a sewage treatment plant in <a href="/wiki/Santuari_de_Lluc" title="Santuari de Lluc">Santuari de Lluc</a>, Spain</div>
+</div>
+</div>
+<p>Stand-alone <a href="/wiki/Photovoltaic_power_systems" class="mw-redirect" title="Photovoltaic power systems">photovoltaic power systems</a> are independent of the <a href="/wiki/Utility_grid" class="mw-redirect" title="Utility grid">utility grid</a> and may use solar panels only or may be used in conjunction with a diesel generator, a wind turbine or batteries.<sup id="cite_ref-source_1-0" class="reference"><a href="#cite_note-source-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Types"><span class="tocnumber">1</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Direct-coupled_system"><span class="tocnumber">1.1</span> <span class="toctext">Direct-coupled system</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Stand_alone_system_with_batteries"><span class="tocnumber">1.2</span> <span class="toctext">Stand alone system with batteries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Hybrid_system"><span class="tocnumber">2</span> <span class="toctext">Hybrid system</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#System_monitoring"><span class="tocnumber">3</span> <span class="toctext">System monitoring</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#IEC_standard_61724"><span class="tocnumber">3.1</span> <span class="toctext">IEC standard 61724</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Performance_assessment"><span class="tocnumber">4</span> <span class="toctext">Performance assessment</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Load_related_problems"><span class="tocnumber">5</span> <span class="toctext">Load related problems</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Gallery"><span class="tocnumber">6</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=1" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The two types of stand-alone photovoltaic power systems are direct-coupled system without batteries and stand alone system with batteries.</p>
+<h3><span class="mw-headline" id="Direct-coupled_system">Direct-coupled system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=2" title="Edit section: Direct-coupled system">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The basic model of a direct coupled system consists of a solar panel connected directly to a dc load. As there are no battery banks in this setup, energy is not stored and hence it is capable of powering common appliances like fans, pumps etc. only during the day. <a href="/wiki/MPPT" class="mw-redirect" title="MPPT">MPPTs</a> are generally used to efficiently utilize the Sun's energy especially for electrical loads like positive-displacement water pumps. Impedance matching is also considered as a design criterion in direct-coupled systems.<sup id="cite_ref-source_1-1" class="reference"><a href="#cite_note-source-1">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Stand_alone_system_with_batteries">Stand alone system with batteries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=3" title="Edit section: Stand alone system with batteries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:PV-system_country_home1.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PV-system_country_home1.png/220px-PV-system_country_home1.png" width="220" height="132" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PV-system_country_home1.png/330px-PV-system_country_home1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PV-system_country_home1.png/440px-PV-system_country_home1.png 2x" data-file-width="1667" data-file-height="1000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:PV-system_country_home1.png" class="internal" title="Enlarge"></a></div>
+Schematic of a stand-alone PV system with battery and charger</div>
+</div>
+</div>
+<p>In stand-alone photovoltaic power systems, the electrical energy produced by the photovoltaic panels cannot always be used directly. As the demand from the load does not always equal the solar panel capacity, battery banks are generally used. The primary functions of a storage battery in a stand-alone PV system are:</p>
+<ul>
+<li><b>Energy Storage Capacity and Autonomy</b>: To store energy when there is an excess is available and to provide it when required.</li>
+<li><b>Voltage and Current Stabilization</b>: To provide stable current and voltage by eradicating transients.</li>
+<li><b>Supply Surge Currents</b>: to provide surge currents to loads like motors when required.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Hybrid_system">Hybrid system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=4" title="Edit section: Hybrid system">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Hybrid_power" title="Hybrid power">Hybrid power</a>, <a href="/wiki/Hybrid_renewable_energy_system" title="Hybrid renewable energy system">Hybrid renewable energy system</a>, <a href="/wiki/Solar_hybrid_power_system" class="mw-redirect" title="Solar hybrid power system">Solar hybrid power system</a>, and <a href="/wiki/Wind_hybrid_power_system" class="mw-redirect" title="Wind hybrid power system">Wind hybrid power system</a></div>
+<p>The <i>hybrid power plant</i> is a complete electrical power supply system that can be easily configured to meet a broad range of remote power needs. There are three basic elements to the system - the power source, the <a href="/wiki/Battery_(electricity)" title="Battery (electricity)">battery</a>, and the power management center. Sources for <a href="/wiki/Hybrid_power" title="Hybrid power">hybrid power</a> include <a href="/wiki/Wind_turbine" title="Wind turbine">wind turbines</a>, <a href="/wiki/Diesel_engine" title="Diesel engine">diesel engine</a> generators, thermoelectric generators and <a href="/wiki/Solar_PV_system" class="mw-redirect" title="Solar PV system">solar PV systems</a>. The battery allows autonomous operation by compensating for the difference between power production and use. The power management center regulates power production from each of the sources, controls power use by classifying loads, and protects the battery from service extremes.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="System_monitoring">System monitoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=5" title="Edit section: System monitoring">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Monitoring photovoltaic systems can provide useful information about their operation and what should be done to improve performance, but if the data are not reported properly, the effort is wasted. To be helpful, a monitoring report must provide information on the relevant aspects of the operation in terms that are easily understood by a third party. Appropriate performance parameters need to be selected, and their values consistently updated with each new issue of the report. In some cases it may be beneficial to monitor the performance of individual components in order to refine and improve system performance, or be alerted to loss of performance in time for preventative action. For example, monitoring battery charge/discharge profiles will signal when replacement is due before downtime from system failure is experienced.<sup id="cite_ref-iea_7-0" class="reference"><a href="#cite_note-iea-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="IEC_standard_61724">IEC standard 61724</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=6" title="Edit section: IEC standard 61724">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>IEC has provided a set of monitoring standards called the "Standard for Photovoltaic system performance monitoring" (<a href="/wiki/IEC_61724" class="mw-redirect" title="IEC 61724">IEC 61724</a>). It focusses on the photovoltaic system's electrical performance and it does not address hybrids or prescribe a method for ensuring that performance assessments are equitable.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Performance_assessment">Performance assessment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=7" title="Edit section: Performance assessment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Performance assessment involves:</p>
+<ul>
+<li>Data collection, which is a straightforward process of measuring parameters.</li>
+<li>Evaluation of that data in a manner that provides useful information.</li>
+<li>Dissemination of useful information to the end user.<sup id="cite_ref-iea_7-1" class="reference"><a href="#cite_note-iea-7">[7]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Load_related_problems">Load related problems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=8" title="Edit section: Load related problems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The wide range of load related problems identified are classified into the following types:</p>
+<ul>
+<li><i>Wrong selection</i>: Some loads cannot be used with stand-alone PV systems.</li>
+<li><i>House wiring</i>: Inadequate or low quality wiring and protection devices can affect the system's response.</li>
+<li><i>Low efficiency</i>: Low efficiency loads may increase energy consumption.</li>
+<li><i>Stand-by loads</i>: Stand-by mode of some loads waste energy.</li>
+<li><i>Start-up</i>: High current drawn by some loads during start-up Current spikes during the start-up can overload the system temporarily.</li>
+<li><i>Reactive power</i>: The circulating current can differ from the current consumed when capacitive or inductive loads are used.</li>
+<li><i>Harmonic distortion</i>: Non-linear loads may create distortion of the inverter waveform.</li>
+<li><i>Mismatch between load and inverter size</i>: When a higher rated inverter is used for a lower capacity load, overall efficiency is reduced.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=9" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-packed center">
+<li class="gallerybox" style="width: 99.333333333333px">
+<div style="width: 99.333333333333px">
+<div class="thumb" style="width: 97.333333333333px;">
+<div style="margin:0px auto;"><a href="/wiki/File:TicketParkingMeter.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TicketParkingMeter.jpg/146px-TicketParkingMeter.jpg" width="98" height="130" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TicketParkingMeter.jpg/220px-TicketParkingMeter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TicketParkingMeter.jpg/292px-TicketParkingMeter.jpg 2x" data-file-width="960" data-file-height="1280" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Solar powered parking meter</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 26em; -webkit-column-width: 26em; column-width: 26em;">
+<ul>
+<li><a href="/wiki/Australian_Greenhouse_Office" title="Australian Greenhouse Office">Australian Greenhouse Office</a></li>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Energy_harvesting" title="Energy harvesting">Energy harvesting</a></li>
+<li><a href="/wiki/Electrochemical_energy_conversion" title="Electrochemical energy conversion">Electrochemical energy conversion</a></li>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/List_of_rooftop_photovoltaic_installations" title="List of rooftop photovoltaic installations">List of rooftop photovoltaic installations</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Off-the-grid" title="Off-the-grid">Off-the-grid</a></li>
+<li><a href="/wiki/Photovoltaic_power_plant" class="mw-redirect" title="Photovoltaic power plant">Photovoltaic power plant</a></li>
+<li><a href="/wiki/Rural_electricity" class="mw-redirect" title="Rural electricity">Rural electricity</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-source-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-source_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-source_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.renewable-energy-sources.com/2010/04/20/stand-alone-photovoltaic-systems/">"Stand-Alone Photovoltaic Systems"</a>. renewable-energy-sources.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStand-alone+power+system&amp;rft.btitle=Stand-Alone+Photovoltaic+Systems&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.renewable-energy-sources.com%2F2010%2F04%2F20%2Fstand-alone-photovoltaic-systems%2F&amp;rft.pub=renewable-energy-sources.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.trisanita.org/jases/asespaper2010/ases09v5n1y2010.pdf">"A STAND-ALONE PHOTOVOLTAIC SYSTEM, CASE STUDY: A RESIDENCE IN GAZA"</a> <span style="font-size:85%;">(PDF)</span>. trisanita.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStand-alone+power+system&amp;rft.btitle=A+STAND-ALONE+PHOTOVOLTAIC+SYSTEM%2C+CASE+STUDY%3A+A+RESIDENCE+IN+GAZA&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.trisanita.org%2Fjases%2Fasespaper2010%2Fases09v5n1y2010.pdf&amp;rft.pub=trisanita.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eai.in/ref/ae/sol/cs/tech/saps/stand_alone_solar_pv_systems.html">"Stand Alone PV Systems"</a>. eai.in<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStand-alone+power+system&amp;rft.btitle=Stand+Alone+PV+Systems&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eai.in%2Fref%2Fae%2Fsol%2Fcs%2Ftech%2Fsaps%2Fstand_alone_solar_pv_systems.html&amp;rft.pub=eai.in&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.localenergy.org/pdfs/Document%20Library/Fundamentals%20of%20batteries%20and%20charge%20control.pdf">"SBatteries and Charge Control in Stand-Alone Photovoltaic Systems-Fundamentals and Application"</a> <span style="font-size:85%;">(PDF)</span>. localenergy.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStand-alone+power+system&amp;rft.btitle=SBatteries+and+Charge+Control+in+Stand-Alone+Photovoltaic+Systems-Fundamentals+and+Application&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.localenergy.org%2Fpdfs%2FDocument%2520Library%2FFundamentals%2520of%2520batteries%2520and%2520charge%2520control.pdf&amp;rft.pub=localenergy.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Badwal, Sukhvinder P. S.; Giddey, Sarbjit S.; Munnings, Christopher; Bhatt, Anand I.; Hollenkamp, Anthony F. (24 September 2014). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4174133">"Emerging electrochemical energy conversion and storage technologies"</a>. <i>Frontiers in Chemistry</i>. <b>2</b>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3389%2Ffchem.2014.00079">10.3389/fchem.2014.00079</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4174133">4174133</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25309898">25309898</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStand-alone+power+system&amp;rft.atitle=Emerging+electrochemical+energy+conversion+and+storage+technologies&amp;rft.au=Bhatt%2C+Anand+I.&amp;rft.aufirst=Sukhvinder+P.+S.&amp;rft.au=Giddey%2C+Sarbjit+S.&amp;rft.au=Hollenkamp%2C+Anthony+F.&amp;rft.aulast=Badwal&amp;rft.au=Munnings%2C+Christopher&amp;rft.date=2014-09-24&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4174133&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4174133&amp;rft_id=info%3Adoi%2F10.3389%2Ffchem.2014.00079&amp;rft_id=info%3Apmid%2F25309898&amp;rft.jtitle=Frontiers+in+Chemistry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Ginn, Claire. <a rel="nofollow" class="external text" href="https://blog.csiro.au/energy-pick-n-mix-hybrid-systems-next-big-thing/">"Energy pick n' mix: are hybrid systems the next big thing?"</a>. <i>www.csiro.au</i>. CSIRO<span class="reference-accessdate">. Retrieved <span class="nowrap">9 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStand-alone+power+system&amp;rft.atitle=Energy+pick+n%99+mix%3A+are+hybrid+systems+the+next+big+thing%3F&amp;rft.aufirst=Claire&amp;rft.aulast=Ginn&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fblog.csiro.au%2Fenergy-pick-n-mix-hybrid-systems-next-big-thing%2F&amp;rft.jtitle=www.csiro.au&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-iea-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-iea_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-iea_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iea-pvps.org/index.php?id=9&amp;eID=dam_frontend_push&amp;docID=377">"Guidelines for Monitoring Stand-Alone Photovoltaic Systems: Methodology and Equipment"</a>. iea-pvps.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStand-alone+power+system&amp;rft.btitle=Guidelines+for+Monitoring+Stand-Alone+Photovoltaic+Systems%3A+Methodology+and+Equipment&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iea-pvps.org%2Findex.php%3Fid%3D9%26eID%3Ddam_frontend_push%26docID%3D377&amp;rft.pub=iea-pvps.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Photovoltaic system performance monitoring – Guidelines for measurement, data exchange and analysis". <i>IEC standard 61724, Geneva</i>: 37. 1998.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStand-alone+power+system&amp;rft.atitle=Photovoltaic+system+performance+monitoring+%93+Guidelines+for+measurement%2C+data+exchange+and+analysis&amp;rft.date=1998&amp;rft.genre=article&amp;rft.jtitle=IEC+standard+61724%2C+Geneva&amp;rft.pages=37&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iea-pvps.org/index.php?id=9&amp;eID=dam_frontend_push&amp;docID=375">"Use of appliances in Stand-Alone PV Power supply systems: problems and solutions"</a>. iea-pvps.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStand-alone+power+system&amp;rft.btitle=Use+of+appliances+in+Stand-Alone+PV+Power+supply+systems%3A+problems+and+solutions&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iea-pvps.org%2Findex.php%3Fid%3D9%26eID%3Ddam_frontend_push%26docID%3D375&amp;rft.pub=iea-pvps.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://loopsolar.com">Rural Solar Entrepreneurship</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.greenhouse.gov.au/renewable/power/raps.html">RAPS</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.epa.qld.gov.au/publications?id=552">RAPS paper Queensland</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.environment.gov.au/settlements/renewable/power/raps.html">RAPS-system schematic</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lightingafrica.org">Lighting Africa</a>, a <a href="/wiki/World_Bank_Group" title="World Bank Group">World Bank Group</a> (WBG) initiative</li>
+<li><a rel="nofollow" class="external text" href="http://www.changingrurallifeforever.com/rural-village-energy-hub/">Rural Village Energy Hub</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.th-energy.net/english/platform-renewable-energy-and-mining/database-solar-wind-power-plants/">Project examples from the mining sector</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20170303140717
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.186 seconds
+Preprocessor visited node count: 508/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17935/2097152 bytes
+Template argument size: 24/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Lua time usage: 0.071/10.000 seconds
+Lua memory usage: 2.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  147.574      1 -total
+ 65.05%   95.997      1 Template:Reflist
+ 44.68%   65.941      7 Template:Cite_web
+ 16.52%   24.372      1 Template:See_also
+  7.91%   11.674      2 Template:Cite_journal
+  6.87%   10.137      1 Template:Portal
+  2.65%    3.914      1 Template:Div_col
+  0.80%    1.182      1 Template:Column-width
+  0.71%    1.051      1 Template:Div_col_end
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7861587-0!*!0!!en!4!* and timestamp 20170303140717 and revision id 761439934
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stand-alone_power_system&amp;oldid=761439934">https://en.wikipedia.org/w/index.php?title=Stand-alone_power_system&amp;oldid=761439934</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electric_power_generation" title="Category:Electric power generation">Electric power generation</a></li><li><a href="/wiki/Category:Renewable_energy_technology" title="Category:Renewable energy technology">Renewable energy technology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Stand-alone+power+system" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stand-alone+power+system" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Stand-alone_power_system"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Stand-alone_power_system"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Stand-alone_power_system" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Stand-alone_power_system&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stand-alone_power_system" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stand-alone_power_system" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Stand-alone_power_system&amp;oldid=761439934" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Stand-alone_power_system&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1664450" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stand-alone_power_system&amp;id=761439934" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stand-alone+power+system">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Stand-alone+power+system&amp;returnto=Stand-alone+power+system&amp;oldid=761439934&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Stand-alone_power_system&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%8A%D8%A7_%D8%A7%D9%84%D9%83%D9%87%D8%B1%D9%88%D8%B6%D9%88%D8%A6%D9%8A%D8%A9_%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85_%D8%A8%D8%B0%D8%A7%D8%AA%D9%87" title="نظام الخلايا الكهروضوئية القائم بذاته – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Inselanlage" title="Inselanlage – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Sistema_el%C3%A9ctrico_aislado" title="Sistema eléctrico aislado – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Off-grid" title="Off-grid – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Автономные электростанции – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%A9%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%86%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%B2%E0%AF%8D_%E0%AE%92%E0%AE%B0%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D" title="தனித்தியங்கும் ஆற்றல் ஒருங்கியம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1664450#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 January 2017, at 00:47.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Stand-alone_power_system&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.186","ppvisitednodes":{"value":508,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17935,"limit":2097152},"templateargumentsize":{"value":24,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  147.574      1 -total"," 65.05%   95.997      1 Template:Reflist"," 44.68%   65.941      7 Template:Cite_web"," 16.52%   24.372      1 Template:See_also","  7.91%   11.674      2 Template:Cite_journal","  6.87%   10.137      1 Template:Portal","  2.65%    3.914      1 Template:Div_col","  0.80%    1.182      1 Template:Column-width","  0.71%    1.051      1 Template:Div_col_end"]},"scribunto":{"limitreport-timeusage":{"value":"0.071","limit":"10.000"},"limitreport-memusage":{"value":2988580,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20170303140717","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1236"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1342 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ocean current - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ocean_current","wgTitle":"Ocean current","wgCurRevisionId":766413613,"wgRevisionId":766413613,"wgArticleId":376476,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2014","All articles needing additional references","Commons category with local link same as on Wikidata","Wikipedia articles with GND identifiers","Articles containing video clips","Physical oceanography","Ocean currents","Oceans","Oceanographical terminology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ocean_current","wgRelevantArticleId":376476,"wgRequestId":"WMhMZApAMFAAAFmMIF0AAAAO","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q129558","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/9/9b/Corrientes-oceanicas.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ocean_current"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ocean_current&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ocean_current&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ocean_current"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ocean_current rootpage-Ocean_current skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ocean current</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Ocean_current&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2014)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Corrientes-oceanicas.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Corrientes-oceanicas.png/300px-Corrientes-oceanicas.png" width="300" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Corrientes-oceanicas.png/450px-Corrientes-oceanicas.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Corrientes-oceanicas.png/600px-Corrientes-oceanicas.png 2x" data-file-width="1000" data-file-height="522" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Corrientes-oceanicas.png" class="internal" title="Enlarge"></a></div>
+The ocean currents.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;">
+<div id="mwe_player_0" class="PopUpMediaTransform" style="width:300px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:854px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Perpetual_Ocean.ogv/854px--Perpetual_Ocean.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:854px;height:480px&quot; class=&quot;kskin&quot; data-durationhint=&quot;182.32308390023&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Perpetual_Ocean.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/7/79/Perpetual_Ocean.ogv/Perpetual_Ocean.ogv.480p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;SD Ogg video (480P)&quot; data-shorttitle=&quot;Ogg 480P&quot; data-transcodekey=&quot;480p.ogv&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1016944&quot; data-framerate=&quot;60&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/7/79/Perpetual_Ocean.ogv/Perpetual_Ocean.ogv.480p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;SD WebM (480P)&quot; data-shorttitle=&quot;WebM 480P&quot; data-transcodekey=&quot;480p.webm&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1018760&quot; data-framerate=&quot;30&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/7/79/Perpetual_Ocean.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Original Ogg file, 960 × 540 (1.32 Mbps)&quot; data-shorttitle=&quot;Ogg source&quot; data-width=&quot;960&quot; data-height=&quot;540&quot; data-bandwidth=&quot;1323274&quot; data-framerate=&quot;30&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/7/79/Perpetual_Ocean.ogv/Perpetual_Ocean.ogv.160p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth Ogg video (160P)&quot; data-shorttitle=&quot;Ogg 160P&quot; data-transcodekey=&quot;160p.ogv&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;176552&quot; data-framerate=&quot;15&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/7/79/Perpetual_Ocean.ogv/Perpetual_Ocean.ogv.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;187576&quot; data-framerate=&quot;30&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/7/79/Perpetual_Ocean.ogv/Perpetual_Ocean.ogv.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Small WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;285320&quot; data-framerate=&quot;30&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/7/79/Perpetual_Ocean.ogv/Perpetual_Ocean.ogv.240p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Small Ogg video (240P)&quot; data-shorttitle=&quot;Ogg 240P&quot; data-transcodekey=&quot;240p.ogv&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;517864&quot; data-framerate=&quot;60&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/7/79/Perpetual_Ocean.ogv/Perpetual_Ocean.ogv.360p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Ogg video (360P)&quot; data-shorttitle=&quot;Ogg 360P&quot; data-transcodekey=&quot;360p.ogv&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;524280&quot; data-framerate=&quot;60&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/7/79/Perpetual_Ocean.ogv/Perpetual_Ocean.ogv.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-transcodekey=&quot;360p.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;529960&quot; data-framerate=&quot;30&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="File:Perpetual Ocean.ogv" style="width:300px;height:169px" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Perpetual_Ocean.ogv/300px--Perpetual_Ocean.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/7/79/Perpetual_Ocean.ogv" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Perpetual_Ocean.ogv" class="internal" title="Enlarge"></a></div>
+Distinctive white lines trace the flow of surface currents around the world.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;">
+<div id="mwe_player_2" class="PopUpMediaTransform" style="width:300px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:854px&quot;&gt;&lt;video id=&quot;mwe_player_3&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/854px--Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:854px;height:480px&quot; class=&quot;kskin&quot; data-durationhint=&quot;30&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.480p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;SD WebM (480P)&quot; data-shorttitle=&quot;WebM 480P&quot; data-transcodekey=&quot;480p.webm&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1096656&quot; data-framerate=&quot;30&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.480p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;SD Ogg video (480P)&quot; data-shorttitle=&quot;Ogg 480P&quot; data-transcodekey=&quot;480p.ogv&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;2046600&quot; data-framerate=&quot;60&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.720p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;HD Ogg video (720P)&quot; data-shorttitle=&quot;Ogg 720P&quot; data-transcodekey=&quot;720p.ogv&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;9559096&quot; data-framerate=&quot;60&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.720p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;HD WebM (720P)&quot; data-shorttitle=&quot;WebM 720P&quot; data-transcodekey=&quot;720p.webm&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;11509192&quot; data-framerate=&quot;30&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora&amp;quot;&quot; data-title=&quot;Original Ogg file, 1,280 × 720 (19.92 Mbps)&quot; data-shorttitle=&quot;Ogg source&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;19922674&quot; data-framerate=&quot;30&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;128960&quot; data-framerate=&quot;30&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.160p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth Ogg video (160P)&quot; data-shorttitle=&quot;Ogg 160P&quot; data-transcodekey=&quot;160p.ogv&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;164448&quot; data-framerate=&quot;15&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Small WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;256072&quot; data-framerate=&quot;30&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.240p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Small Ogg video (240P)&quot; data-shorttitle=&quot;Ogg 240P&quot; data-transcodekey=&quot;240p.ogv&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;514248&quot; data-framerate=&quot;60&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.360p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Ogg video (360P)&quot; data-shorttitle=&quot;Ogg 360P&quot; data-transcodekey=&quot;360p.ogv&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;514776&quot; data-framerate=&quot;60&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-transcodekey=&quot;360p.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;623560&quot; data-framerate=&quot;30&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="File:Circulation of Ocean Currents Around the Western Antarctic Ice Shelves.ogv" style="width:300px;height:169px" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv/300px--Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/c/cd/Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Circulation_of_Ocean_Currents_Around_the_Western_Antarctic_Ice_Shelves.ogv" class="internal" title="Enlarge"></a></div>
+Animation of circulation around ice shelves of <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a>.</div>
+</div>
+</div>
+<p>An <b>ocean current</b> is a continuous, directed movement of <a href="/wiki/Seawater" title="Seawater">seawater</a> generated by forces acting upon this <a href="/wiki/Mean_flow" title="Mean flow">mean flow</a>, such as <a href="/wiki/Wave_breaking" class="mw-redirect" title="Wave breaking">breaking waves</a>, <a href="/wiki/Wind" title="Wind">wind</a>, the <a href="/wiki/Coriolis_effect" class="mw-redirect" title="Coriolis effect">Coriolis effect</a>, <a href="/wiki/Cabbeling" title="Cabbeling">cabbeling</a>, <a href="/wiki/Temperature" title="Temperature">temperature</a> and <a href="/wiki/Salinity" title="Salinity">salinity</a> differences, while <a href="/wiki/Tides" class="mw-redirect" title="Tides">tides</a> are caused by the gravitational pull of the <a href="/wiki/Sun" title="Sun">Sun</a> and <a href="/wiki/Moon" title="Moon">Moon</a>. <a href="/wiki/Depth_contour" class="mw-redirect" title="Depth contour">Depth contours</a>, <a href="/wiki/Shore" title="Shore">shoreline</a> configurations, and interactions with other currents influence a current's direction and strength. Therefore ocean currents are primarily horizontal water movements.</p>
+<p>Ocean currents flow for great distances, and together, create the <a href="/wiki/Global_conveyor_belt" class="mw-redirect" title="Global conveyor belt">global conveyor belt</a> which plays a dominant role in determining the <a href="/wiki/Climate" title="Climate">climate</a> of many of the <a href="/wiki/Earth" title="Earth">Earth</a>’s regions. More specifically, ocean currents influence the temperature of the regions through which they travel. For example, warm currents traveling along more temperate coasts increase the temperature of the area by warming the sea breezes that blow over them. Perhaps the most striking example is the <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a>, which makes <a href="/wiki/Northwest_Europe" class="mw-redirect" title="Northwest Europe">northwest Europe</a> much more <a href="/wiki/Temperate" class="mw-redirect" title="Temperate">temperate</a> than any other region at the same <a href="/wiki/Latitude" title="Latitude">latitude</a>. Another example is <a href="/wiki/Lima,_Peru" class="mw-redirect" title="Lima, Peru">Lima, Peru</a> where the climate is cooler (sub-tropical) than the tropical latitudes in which the area is located, due to the effect of the <a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt Current</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Function"><span class="tocnumber">1</span> <span class="toctext">Function</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Thermohaline_circulation"><span class="tocnumber">2</span> <span class="toctext">Thermohaline circulation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Downwelling_of_deep_water_in_polar_regions"><span class="tocnumber">2.1</span> <span class="toctext">Downwelling of deep water in polar regions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Importance"><span class="tocnumber">3</span> <span class="toctext">Importance</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#OSCAR:_Near-realtime_global_ocean_surface_current_data_set"><span class="tocnumber">4</span> <span class="toctext">OSCAR: Near-realtime global ocean surface current data set</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Function">Function</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ocean_current&amp;action=edit&amp;section=1" title="Edit section: Function">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Ocean_surface_currents.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ocean_surface_currents.jpg/300px-Ocean_surface_currents.jpg" width="300" height="155" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ocean_surface_currents.jpg/450px-Ocean_surface_currents.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ocean_surface_currents.jpg/600px-Ocean_surface_currents.jpg 2x" data-file-width="927" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ocean_surface_currents.jpg" class="internal" title="Enlarge"></a></div>
+Major ocean surface currents (Source: <a href="/wiki/NOAA" class="mw-redirect" title="NOAA">NOAA</a>)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:CSIRO_ScienceImage_11128_The_bathymetry_of_the_Kerguelen_Plateau_in_the_Southern_Ocean_governs_the_course_of_the_new_current_part_of_the_global_network_of_ocean_currents.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CSIRO_ScienceImage_11128_The_bathymetry_of_the_Kerguelen_Plateau_in_the_Southern_Ocean_governs_the_course_of_the_new_current_part_of_the_global_network_of_ocean_currents.jpg/220px-thumbnail.jpg" width="220" height="207" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CSIRO_ScienceImage_11128_The_bathymetry_of_the_Kerguelen_Plateau_in_the_Southern_Ocean_governs_the_course_of_the_new_current_part_of_the_global_network_of_ocean_currents.jpg/330px-thumbnail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CSIRO_ScienceImage_11128_The_bathymetry_of_the_Kerguelen_Plateau_in_the_Southern_Ocean_governs_the_course_of_the_new_current_part_of_the_global_network_of_ocean_currents.jpg/440px-thumbnail.jpg 2x" data-file-width="2301" data-file-height="2160" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CSIRO_ScienceImage_11128_The_bathymetry_of_the_Kerguelen_Plateau_in_the_Southern_Ocean_governs_the_course_of_the_new_current_part_of_the_global_network_of_ocean_currents.jpg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Bathymetry" title="Bathymetry">bathymetry</a> of the <a href="/wiki/Kerguelen_Plateau" title="Kerguelen Plateau">Kerguelen Plateau</a> in the <a href="/wiki/Southern_Ocean" title="Southern Ocean">Southern Ocean</a> governs the course of the new current part of the global network of ocean currents (Source:<a href="/wiki/Commonwealth_Scientific_and_Industrial_Research_Organisation" title="Commonwealth Scientific and Industrial Research Organisation">CSIRO</a>)</div>
+</div>
+</div>
+<p>Surface oceanic currents are sometimes wind driven and develop their typical clockwise spirals in the <a href="/wiki/Northern_hemisphere" class="mw-redirect" title="Northern hemisphere">northern hemisphere</a> and counter-clockwise rotation in the <a href="/wiki/Southern_hemisphere" class="mw-redirect" title="Southern hemisphere">southern hemisphere</a> due to imposed wind stresses. In these wind driven currents, the <a href="/wiki/Ekman_spiral" title="Ekman spiral">Ekman spiral</a> effect results in the currents flowing at an angle to the driving winds. In addition, the areas of surface ocean currents move somewhat with the <a href="/wiki/Season" title="Season">seasons</a>; this is most notable in equatorial currents.</p>
+<p>Deep ocean basins generally have a non-symmetric surface current, in that the eastern equatorward-flowing branch is broad and diffuse whereas the western poleward flowing branch is very narrow. These <a href="/wiki/Boundary_current" title="Boundary current">western boundary currents</a> (of which the <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a> is an example) are a consequence of the rotation of the Earth.</p>
+<p>Deep ocean currents are driven by density and temperature gradients. <a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a> is also known as the ocean's conveyor belt (which refers to deep ocean density driven <a href="/wiki/Ocean_basin" class="mw-redirect" title="Ocean basin">ocean basin</a> currents). These currents, called submarine rivers, flow under the surface of the ocean and are hidden from immediate detection. Where significant vertical movement of ocean currents is observed, this is known as <a href="/wiki/Upwelling" title="Upwelling">upwelling</a> and <a href="/wiki/Downwelling" title="Downwelling">downwelling</a>. Deep ocean currents are currently being researched using a fleet of underwater robots called <a href="/wiki/Argo_(oceanography)" title="Argo (oceanography)">Argo</a>.</p>
+<p>The South Equatorial Currents of the Atlantic and Pacific straddle the equator. Though the Coriolis effect is weak near the equator (and absent at the equator), water moving in the currents on either side of the equator is deflected slightly poleward and replaced by deeper water. Thus, equatorial upwelling occurs in these westward flowing equatorial surface currents. Upwelling is an important process because this water from within and below the pycnocline is often rich in nutrients and greatly benefits the growth of marine organisms. By contrast, generally poor conditions for growth prevail in most of the open tropical ocean because strong layering isolates deep, nutrient rich water from the sunlit ocean surface.</p>
+<p>Surface currents make up only 8% of all water in the ocean, are generally restricted to the upper 400&#160;m (1,300&#160;ft) of ocean water, and are separated from lower regions by varying temperatures and salinity which affect the density of the water, which in turn, defines each oceanic region. Because the movement of deep water in ocean basins is caused by density driven forces and gravity, deep waters sink into deep ocean basins at high latitudes where the temperatures are cold enough to cause the density to increase.</p>
+<p>Ocean currents are measured in <a href="/wiki/Sverdrup" title="Sverdrup">sverdrup (sv)</a>, where 1 sv is equivalent to a volume flow rate of 1,000,000&#160;m<sup>3</sup> (35,000,000&#160;cu&#160;ft) per second.</p>
+<p>Surface currents are found on the surface of an ocean, and are driven by large scale wind currents. They are directly affected by the wind—the <a href="/wiki/Coriolis_effect" class="mw-redirect" title="Coriolis effect">Coriolis effect</a> plays a role in their behaviors.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Thermohaline_circulation">Thermohaline circulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ocean_current&amp;action=edit&amp;section=2" title="Edit section: Thermohaline circulation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Deep_ocean_water" title="Deep ocean water">Deep ocean water</a> and <a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Meddes-20060320-browse.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Meddes-20060320-browse.jpg/220px-Meddes-20060320-browse.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Meddes-20060320-browse.jpg/330px-Meddes-20060320-browse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Meddes-20060320-browse.jpg/440px-Meddes-20060320-browse.jpg 2x" data-file-width="800" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Meddes-20060320-browse.jpg" class="internal" title="Enlarge"></a></div>
+Coupling data collected by NASA/JPL by several different satellite-borne sensors, researchers have been able to "break through" the ocean's surface to detect "Meddies" -- super-salty warm-water eddies that originate in the Mediterranean Sea and then sink more than a half-mile underwater in the Atlantic Ocean. The Meddies are shown in red in this scientific figure.</div>
+</div>
+</div>
+<p>Horizontal and vertical currents also exist below the pycnocline in the ocean's deeper waters. The movement of water due to differences in density as a function of water temperature and salinity is called <a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">thermohaline circulation</a>. Ripple marks in sediments, scour lines, and the <a href="/wiki/Erosion" title="Erosion">erosion</a> of rocky outcrops on deep-<a href="/wiki/Ocean_floor" class="mw-redirect" title="Ocean floor">ocean floors</a> are evidence that relatively strong, localized bottom currents exist. Some of these currents may move as rapidly as 60 centimeters (24 inches) per second.</p>
+<p>These currents are strongly influenced by bottom topography, since dense, bottom water must forcefully flow over and around depressions and projections in the seafloor. Thus, they are sometimes called contour currents. Bottom currents generally move equator-ward at or near the western boundaries of ocean basins (below the western boundary surface currents). The deep-water masses are not capable of moving water at speeds comparable to that of wind-driven surface currents. Water in some of these currents may move only 1 to 2 meters per day; however, even at that slow speed, the Coriolis effect modifies their pattern of flow.</p>
+<h3><span class="mw-headline" id="Downwelling_of_deep_water_in_polar_regions">Downwelling of deep water in polar regions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ocean_current&amp;action=edit&amp;section=3" title="Edit section: Downwelling of deep water in polar regions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:72px;"><a href="/wiki/File:Recording_Current_Meter.jpg" class="image"><img alt="Device to record ocean currents" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Recording_Current_Meter.jpg/70px-Recording_Current_Meter.jpg" width="70" height="255" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Recording_Current_Meter.jpg/105px-Recording_Current_Meter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Recording_Current_Meter.jpg/140px-Recording_Current_Meter.jpg 2x" data-file-width="507" data-file-height="1844" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Recording_Current_Meter.jpg" class="internal" title="Enlarge"></a></div>
+A recording current meter</div>
+</div>
+</div>
+<p><a href="/wiki/Antarctic_Bottom_Water" title="Antarctic Bottom Water">Antarctic Bottom Water</a> is the most distinctive of the deep-water masses. It is characterized by a salinity of 34.65‰, a temperature of -0.5&#160;°C (30&#160;°F), and a density of 1.0279 grams per cubic centimeter. This water is noted for its extreme density (the densest in the world ocean), for the great amount of it produced near Antarctic coasts, and for its ability to migrate north along the seafloor. Most Antarctic Bottom Water forms near the Antarctic coast south of South America during winter. Salt is concentrated in pockets between crystals of pure water and then squeezed out of the freezing mass to form a frigid brine. Between 20 million and 50 million cubic meters of this brine form every second. The water's great density causes it to sink toward the continental shelf, where it mixes with nearly equal parts of water from the southern <a href="/wiki/Antarctic_Circumpolar_Current" title="Antarctic Circumpolar Current">Antarctic Circumpolar Current</a>. The mixture settles along the edge of Antarctica's continental shelf, descends along the slope, and spreads along the deep-sea bed, creeping north in slow sheets. Antarctic Bottom Water flows many times as slowly as the water in surface currents: in the Pacific it may take a thousand years to reach the equator. Antarctic Bottom Water also flows into the Atlantic Ocean basin, where it flows north at a faster rate than in the Pacific. Antarctic Bottom Water has been identified as high as 40° N on the Atlantic floor.</p>
+<p>A small amount of dense bottom water also forms in the northern polar ocean. Although, the topography of the Arctic Ocean basin prevents most of the bottom water from escaping, with the exception of deep channels formed in the submarine ridges between Scotland, Iceland, and Greenland. These channels allow the cold, dense water formed in the Arctic to flow into the North Atlantic to form <a href="/wiki/North_Atlantic_Deep_Water" title="North Atlantic Deep Water">North Atlantic Deep Water</a>. North Atlantic Deep Water forms when the relatively warm and salty North Atlantic Ocean cools as cold winds from northern Canada sweep over it. Exposed to the chilled air, water at the latitude of Iceland releases heat, cools from 10&#160;°C to 2&#160;°C, and sinks. Gulf Stream water that sinks in the north is replaced by warm water flowing clockwise along the U.S. east coast in the North Atlantic gyre.</p>
+<h2><span class="mw-headline" id="Importance">Importance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ocean_current&amp;action=edit&amp;section=4" title="Edit section: Importance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Ocean_currents_1943_(borderless)3.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ocean_currents_1943_%28borderless%293.png/250px-Ocean_currents_1943_%28borderless%293.png" width="250" height="127" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ocean_currents_1943_%28borderless%293.png/375px-Ocean_currents_1943_%28borderless%293.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ocean_currents_1943_%28borderless%293.png/500px-Ocean_currents_1943_%28borderless%293.png 2x" data-file-width="2577" data-file-height="1306" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ocean_currents_1943_(borderless)3.png" class="internal" title="Enlarge"></a></div>
+A 1943 map of the world's ocean currents.</div>
+</div>
+</div>
+<p>Knowledge of surface ocean currents is essential in reducing costs of shipping, since traveling with them reduces fuel costs. In the wind powered sailing-ship era, knowledge of wind patterns and ocean currents was even more essential. A good example of this is the <a href="/wiki/Agulhas_Current" title="Agulhas Current">Agulhas Current</a>, which long prevented Portuguese sailors from reaching India. In recent times, around-the-world sailing competitors make good use of surface currents to build and maintain speed. Ocean currents are also very important in the dispersal of many life forms. An example is the <a href="/wiki/Eel_life_history" title="Eel life history">life-cycle of the European Eel</a>.</p>
+<p>Ocean currents are important in the study of <a href="/wiki/Marine_debris" title="Marine debris">marine debris</a>, and vice versa. These currents also affect temperatures throughout the world. For example, the ocean current that brings warm water up the north Atlantic to northwest Europe also cumulatively and slowly blocks ice from forming along the seashores, which would also block ships from entering and exiting inland waterways and seaports, hence ocean currents play a decisive role in influencing the climates of regions through which they flow. Cold ocean water currents flowing from polar and sub-polar regions bring in a lot of <a href="/wiki/Plankton" title="Plankton">plankton</a> that are crucial to the continued survival of several key sea creature species in <a href="/wiki/Marine_ecosystem" title="Marine ecosystem">marine ecosystems</a>. Since plankton are the food of fish, abundant fish populations often live where these currents prevail.</p>
+<p>Ocean currents can also be used for marine power generation, with areas off of Japan, Florida and Hawaii being considered for test projects.</p>
+<h2><span class="mw-headline" id="OSCAR:_Near-realtime_global_ocean_surface_current_data_set">OSCAR: Near-realtime global ocean surface current data set</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ocean_current&amp;action=edit&amp;section=5" title="Edit section: OSCAR: Near-realtime global ocean surface current data set">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a rel="nofollow" class="external text" href="http://www.esr.org/oscar_index.html">OSCAR Near-realtime global ocean surface currents</a> website describes the project and links to data validation and data downloads.</p>
+<p>OSCAR data is used extensively in climate studies. maps and descriptions or annotations of climatic anomalies have been published in the monthly <a rel="nofollow" class="external text" href="http://www.cpc.ncep.noaa.gov/products/CDB/">Climate Diagnostic Bulletin</a> since 2001 and are routinely used to monitor <a href="/wiki/ENSO" class="mw-redirect" title="ENSO">ENSO</a> and to test weather prediction models. OSCAR currents are routinely used to evaluate the surface currents in <a href="/wiki/Global_Circulation_Model" class="mw-redirect" title="Global Circulation Model">Global Circulation Models</a> (GCMs), for example in NCEP Global Ocean Data Assimilation System (GODAS) and <a href="/wiki/European_Centre_for_Medium-Range_Weather_Forecasts" title="European Centre for Medium-Range Weather Forecasts">European Centre for Medium-Range Weather Forecasts</a> (ECMWF).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ocean_current&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Helmet_logo_for_Underwater_Diving_portal.png/20px-Helmet_logo_for_Underwater_Diving_portal.png" width="20" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Helmet_logo_for_Underwater_Diving_portal.png/30px-Helmet_logo_for_Underwater_Diving_portal.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Helmet_logo_for_Underwater_Diving_portal.png/40px-Helmet_logo_for_Underwater_Diving_portal.png 2x" data-file-width="429" data-file-height="600" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Underwater_diving" title="Portal:Underwater diving">Underwater diving portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Deep_ocean_water" title="Deep ocean water">Deep ocean water</a></li>
+<li><a href="/wiki/Currentology" title="Currentology">Currentology</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a></li>
+<li><a href="/wiki/Fish_migration" title="Fish migration">Fish migration</a></li>
+<li><a href="/wiki/List_of_ocean_circulation_models" title="List of ocean circulation models">List of ocean circulation models</a></li>
+<li><a href="/wiki/Oceanic_gyres" class="mw-redirect" title="Oceanic gyres">Oceanic gyres</a></li>
+<li><a href="/wiki/Physical_oceanography" title="Physical oceanography">Physical oceanography</a></li>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Marine current power</a></li>
+<li><a href="/wiki/Latitude_of_the_Gulf_Stream_and_the_Gulf_Stream_north_wall_index" title="Latitude of the Gulf Stream and the Gulf Stream north wall index">Latitude of the Gulf Stream and the Gulf Stream north wall index</a></li>
+<li><a href="/wiki/Volta_do_mar" title="Volta do mar">Volta do mar</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ocean_current&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://oceanservice.noaa.gov/education/kits/currents/05currents1.html">http://oceanservice.noaa.gov/education/kits/currents/05currents1.html</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.esr.org/oscar_index.html">[1]</a></span></li>
+</ol>
+</div>
+<ul>
+<li><cite class="citation journal">Hansen, B.; Østerhus, S; Quadfasel, D; Turrell, W (2004). "Already the day after tomorrow?". <i>Science</i>. <b>305</b> (5686): 953–954. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1100085">10.1126/science.1100085</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15310882">15310882</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOcean+current&amp;rft.atitle=Already+the+day+after+tomorrow%3F&amp;rft.au=%C3%98sterhus%2C+S&amp;rft.aufirst=B.&amp;rft.aulast=Hansen&amp;rft.au=Quadfasel%2C+D&amp;rft.au=Turrell%2C+W&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1100085&amp;rft_id=info%3Apmid%2F15310882&amp;rft.issue=5686&amp;rft.jtitle=Science&amp;rft.pages=953-954&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=305" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Kerr, Richard A. (2004). "A slowing cog in the North Atlantic ocean's climate machine". <i>Science</i>. <b>304</b> (5669): 371–372. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.304.5669.371a">10.1126/science.304.5669.371a</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15087513">15087513</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOcean+current&amp;rft.atitle=A+slowing+cog+in+the+North+Atlantic+ocean%27s+climate+machine&amp;rft.aufirst=Richard+A.&amp;rft.aulast=Kerr&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.304.5669.371a&amp;rft_id=info%3Apmid%2F15087513&amp;rft.issue=5669&amp;rft.jtitle=Science&amp;rft.pages=371-372&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=304" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Munday, Phillip L.; Jones, Geoffrey P.; Pratchett, Morgan S.; Williams, Ashley J. (2008). "Climate change and the future for coral reef fishes". <i>Fish and Fisheries</i>. <b>9</b> (3): 261–285. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1467-2979.2008.00281.x">10.1111/j.1467-2979.2008.00281.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOcean+current&amp;rft.atitle=Climate+change+and+the+future+for+coral+reef+fishes&amp;rft.aufirst=Phillip+L.&amp;rft.au=Jones%2C+Geoffrey+P.&amp;rft.aulast=Munday&amp;rft.au=Pratchett%2C+Morgan+S.&amp;rft.au=Williams%2C+Ashley+J.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1467-2979.2008.00281.x&amp;rft.issue=3&amp;rft.jtitle=Fish+and+Fisheries&amp;rft.pages=261-285&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Rahmstorf, S. (2003). "Thermohaline circulation: The current climate". <i>Nature</i>. <b>421</b> (6924): 699–699. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F421699a">10.1038/421699a</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12610602">12610602</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOcean+current&amp;rft.atitle=Thermohaline+circulation%3A+The+current+climate&amp;rft.aufirst=S.&amp;rft.aulast=Rahmstorf&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2F421699a&amp;rft_id=info%3Apmid%2F12610602&amp;rft.issue=6924&amp;rft.jtitle=Nature&amp;rft.pages=699-699&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=421" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Roemmich, D. (2007). "Physical oceanography: Super spin in the southern seas". <i>Nature</i>. <b>449</b> (7158): 34–35. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F449034a">10.1038/449034a</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17805284">17805284</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOcean+current&amp;rft.atitle=Physical+oceanography%3A+Super+spin+in+the+southern+seas&amp;rft.aufirst=D.&amp;rft.aulast=Roemmich&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2F449034a&amp;rft_id=info%3Apmid%2F17805284&amp;rft.issue=7158&amp;rft.jtitle=Nature&amp;rft.pages=34-35&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=449" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ocean_current&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Ocean_currents" class="extiw" title="commons:Category:Ocean currents">Ocean currents</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.esr.org/oscar_index.html">Ocean Surface Current Analyses - Realtime (OSCAR)</a> Near-realtime Global Ocean Surface Currents derived from satellite altimeter and scatterometer data.</li>
+<li><a rel="nofollow" class="external text" href="http://oceancurrents.rsmas.miami.edu/">RSMAS Ocean Surface Currents</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cocmp.org/">Coastal Ocean Current Monitoring Program</a></li>
+<li><a rel="nofollow" class="external text" href="http://oceanmotion.org/">Ocean Motion and Surface Currents</a></li>
+<li><a rel="nofollow" class="external text" href="http://oceanmotion.org/html/resources/oscar.htm">Data Visualizer from OceanMotion.org</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.futureocean.org/english/research-areas/greenhouse-oceans/changes-in-ocean-circulation/facts/">Changes in Ocean Circulation</a> - <a rel="nofollow" class="external text" href="http://www.futureocean.org/english/">Cluster of Excellence "Future Ocean"</a>, Kiel</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Ocean_currents_and_gyres" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ocean" title="Template:Ocean"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ocean" title="Template talk:Ocean"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ocean&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ocean_currents_and_gyres" style="font-size:114%;margin:0 4em"><a href="/wiki/Ocean" title="Ocean">Ocean</a> <strong class="selflink">currents</strong> and <a href="/wiki/Ocean_gyre" title="Ocean gyre">gyres</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><strong class="selflink">Currents</strong></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic Ocean</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/East_Greenland_Current" title="East Greenland Current">East Greenland</a></li>
+<li><a href="/wiki/North_Icelandic_Jet" title="North Icelandic Jet">North Icelandic</a></li>
+<li><a href="/wiki/Norwegian_Current" title="Norwegian Current">Norwegian</a></li>
+<li><a href="/wiki/Transpolar_Drift_Stream" title="Transpolar Drift Stream">Transpolar Drift Stream</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Angola_Current" title="Angola Current">Angola</a></li>
+<li><a href="/wiki/Antilles_Current" title="Antilles Current">Antilles</a></li>
+<li><a href="/wiki/Azores_Current" title="Azores Current">Azores</a></li>
+<li><a href="/wiki/Baffin_Island_Current" title="Baffin Island Current">Baffin Island</a></li>
+<li><a href="/wiki/Benguela_Current" title="Benguela Current">Benguela</a></li>
+<li><a href="/wiki/Brazil_Current" title="Brazil Current">Brazil</a></li>
+<li><a href="/wiki/Canary_Current" title="Canary Current">Canary</a></li>
+<li><a href="/wiki/Cape_Horn_Current" title="Cape Horn Current">Cape Horn</a></li>
+<li><a href="/wiki/Caribbean_Current" title="Caribbean Current">Caribbean</a></li>
+<li><a href="/wiki/East_Greenland_Current" title="East Greenland Current">East Greenland</a></li>
+<li><a href="/wiki/East_Iceland_Current" title="East Iceland Current">East Iceland</a></li>
+<li><a href="/wiki/Falkland_Current" title="Falkland Current">Falkland</a></li>
+<li><a href="/wiki/Florida_Current" title="Florida Current">Florida</a></li>
+<li><a href="/wiki/Guinea_Current" title="Guinea Current">Guinea</a></li>
+<li><a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a></li>
+<li><a href="/wiki/Irminger_Current" title="Irminger Current">Irminger</a></li>
+<li><a href="/wiki/Labrador_Current" title="Labrador Current">Labrador</a></li>
+<li><a href="/wiki/Lomonosov_Current" title="Lomonosov Current">Lomonosov</a></li>
+<li><a href="/wiki/Loop_Current" title="Loop Current">Loop</a></li>
+<li><a href="/wiki/North_Atlantic_Current" title="North Atlantic Current">North Atlantic</a></li>
+<li><a href="/wiki/North_Brazil_Current" title="North Brazil Current">North Brazil</a></li>
+<li><a href="/wiki/North_Equatorial_Current" title="North Equatorial Current">North Equatorial</a></li>
+<li><a href="/wiki/Norwegian_Current" title="Norwegian Current">Norwegian</a></li>
+<li><a href="/wiki/Portugal_Current" title="Portugal Current">Portugal</a></li>
+<li><a href="/w/index.php?title=Slope_Jet_Current&amp;action=edit&amp;redlink=1" class="new" title="Slope Jet Current (page does not exist)">Slope Jet</a></li>
+<li><a href="/wiki/South_Atlantic_Current" title="South Atlantic Current">South Atlantic</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/West_Greenland_Current" title="West Greenland Current">West Greenland</a></li>
+<li><a href="/wiki/West_Spitsbergen_Current" title="West Spitsbergen Current">West Spitsbergen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agulhas_Current" title="Agulhas Current">Agulhas</a></li>
+<li><a href="/wiki/Agulhas_Return_Current" title="Agulhas Return Current">Agulhas Return</a></li>
+<li><a href="/wiki/East_Madagascar_Current" title="East Madagascar Current">East Madagascar</a></li>
+<li><a href="/wiki/Equatorial_Counter_Current" title="Equatorial Counter Current">Equatorial Counter</a></li>
+<li><a href="/wiki/Indian_Monsoon_Current" title="Indian Monsoon Current">Indian Monsoon</a></li>
+<li><a href="/wiki/Indonesian_Throughflow" title="Indonesian Throughflow">Indonesian Throughflow</a></li>
+<li><a href="/wiki/Leeuwin_Current" title="Leeuwin Current">Leeuwin</a></li>
+<li><a href="/wiki/Madagascar_Current" title="Madagascar Current">Madagascar</a></li>
+<li><a href="/wiki/Mozambique_Current" title="Mozambique Current">Mozambique</a></li>
+<li><a href="/wiki/Somali_Current" title="Somali Current">Somali</a></li>
+<li><a href="/w/index.php?title=South_Australian_Counter_Current&amp;action=edit&amp;redlink=1" class="new" title="South Australian Counter Current (page does not exist)">South Australian</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/West_Australian_Current" title="West Australian Current">West Australian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alaska_Current" title="Alaska Current">Alaska</a></li>
+<li><a href="/wiki/Aleutian_Current" title="Aleutian Current">Aleutian</a></li>
+<li><a href="/wiki/California_Current" title="California Current">California</a></li>
+<li><a href="/wiki/Cromwell_Current" title="Cromwell Current">Cromwell</a></li>
+<li><a href="/wiki/Davidson_Current" title="Davidson Current">Davidson</a></li>
+<li><a href="/wiki/East_Australian_Current" title="East Australian Current">East Australian</a></li>
+<li><a href="/wiki/East_Korea_Warm_Current" title="East Korea Warm Current">East Korea Warm</a></li>
+<li><a href="/wiki/Equatorial_Counter_Current" title="Equatorial Counter Current">Equatorial Counter</a></li>
+<li><a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt</a></li>
+<li><a href="/wiki/Indonesian_Throughflow" title="Indonesian Throughflow">Indonesian Throughflow</a></li>
+<li><a href="/wiki/Kamchatka_Current" title="Kamchatka Current">Kamchatka</a></li>
+<li><a href="/wiki/Kuroshio_Current" title="Kuroshio Current">Kuroshio</a></li>
+<li><a href="/wiki/Mindanao_Current" title="Mindanao Current">Mindanao</a></li>
+<li><a href="/wiki/North_Equatorial_Current" title="North Equatorial Current">North Equatorial</a></li>
+<li><a href="/wiki/North_Korea_Cold_Current" title="North Korea Cold Current">North Korea Cold</a></li>
+<li><a href="/wiki/North_Pacific_Current" title="North Pacific Current">North Pacific</a></li>
+<li><a href="/wiki/Oyashio_Current" title="Oyashio Current">Oyashio</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/Tasman_Front" title="Tasman Front">Tasman Front</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Southern_Ocean" title="Southern Ocean">Southern Ocean</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antarctic_Circumpolar_Current" title="Antarctic Circumpolar Current">Antarctic Circumpolar</a></li>
+<li><a href="/wiki/Tasman_Outflow" title="Tasman Outflow">Tasman Outflow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Ocean_gyre" title="Ocean gyre">Gyres</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Major gyres</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Indian_Ocean_Gyre" title="Indian Ocean Gyre">Indian Ocean Gyre</a></li>
+<li><a href="/wiki/North_Atlantic_Gyre" title="North Atlantic Gyre">North Atlantic Gyre</a></li>
+<li><a href="/wiki/South_Atlantic_Gyre" title="South Atlantic Gyre">South Atlantic Gyre</a></li>
+<li><a href="/wiki/North_Pacific_Gyre" title="North Pacific Gyre">North Pacific Gyre</a></li>
+<li><a href="/wiki/South_Pacific_Gyre" title="South Pacific Gyre">South Pacific Gyre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Other gyres</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beaufort_Gyre" title="Beaufort Gyre">Beaufort Gyre</a></li>
+<li><a href="/wiki/Ross_Gyre" title="Ross Gyre">Ross Gyre</a></li>
+<li><a href="/wiki/Weddell_Gyre" title="Weddell Gyre">Weddell Gyre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></li>
+<li><a href="/wiki/Boundary_current" title="Boundary current">Boundary current</a></li>
+<li><a href="/wiki/Coriolis_effect" class="mw-redirect" title="Coriolis effect">Coriolis effect</a></li>
+<li><a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a></li>
+<li><a href="/wiki/Great_Pacific_garbage_patch" title="Great Pacific garbage patch">Great Pacific garbage patch</a></li>
+<li><a href="/wiki/Indian_Ocean_garbage_patch" title="Indian Ocean garbage patch">Indian Ocean garbage patch</a></li>
+<li><a href="/wiki/Marine_debris" title="Marine debris">Marine debris</a></li>
+<li><a href="/wiki/North_Atlantic_garbage_patch" title="North Atlantic garbage patch">North Atlantic garbage patch</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Physical_oceanography" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Physical_oceanography" title="Template:Physical oceanography"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Physical_oceanography" title="Template talk:Physical oceanography"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Physical_oceanography&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Physical_oceanography" style="font-size:114%;margin:0 4em"><a href="/wiki/Physical_oceanography" title="Physical oceanography">Physical oceanography</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Wind_wave" title="Wind wave">Waves</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airy_wave_theory" title="Airy wave theory">Airy wave theory</a></li>
+<li><a href="/wiki/Ballantine_scale" title="Ballantine scale">Ballantine scale</a></li>
+<li><a href="/wiki/Modulational_instability" title="Modulational instability">Benjamin–Feir instability</a></li>
+<li><a href="/wiki/Boussinesq_approximation_(water_waves)" title="Boussinesq approximation (water waves)">Boussinesq approximation</a></li>
+<li><a href="/wiki/Breaking_wave" title="Breaking wave">Breaking wave</a></li>
+<li><a href="/wiki/Clapotis" title="Clapotis">Clapotis</a></li>
+<li><a href="/wiki/Cnoidal_wave" title="Cnoidal wave">Cnoidal wave</a></li>
+<li><a href="/wiki/Cross_sea" title="Cross sea">Cross sea</a></li>
+<li><a href="/wiki/Dispersion_(water_waves)" title="Dispersion (water waves)">Dispersion</a></li>
+<li><a href="/wiki/Edge_wave" title="Edge wave">Edge wave</a></li>
+<li><a href="/wiki/Equatorial_waves" class="mw-redirect" title="Equatorial waves">Equatorial waves</a></li>
+<li><a href="/wiki/Fetch_(geography)" title="Fetch (geography)">Fetch</a></li>
+<li><a href="/wiki/Gravity_wave" title="Gravity wave">Gravity wave</a></li>
+<li><a href="/wiki/Green%27s_law" title="Green's law">Green's law</a></li>
+<li><a href="/wiki/Infragravity_wave" title="Infragravity wave">Infragravity wave</a></li>
+<li><a href="/wiki/Internal_wave" title="Internal wave">Internal wave</a></li>
+<li><a href="/wiki/Iribarren_number" title="Iribarren number">Iribarren number</a></li>
+<li><a href="/wiki/Kelvin_wave" title="Kelvin wave">Kelvin wave</a></li>
+<li><a href="/wiki/Kinematic_wave" title="Kinematic wave">Kinematic wave</a></li>
+<li><a href="/wiki/Longshore_drift" title="Longshore drift">Longshore drift</a></li>
+<li><a href="/wiki/Luke%27s_variational_principle" title="Luke's variational principle">Luke's variational principle</a></li>
+<li><a href="/wiki/Mild-slope_equation" title="Mild-slope equation">Mild-slope equation</a></li>
+<li><a href="/wiki/Radiation_stress" title="Radiation stress">Radiation stress</a></li>
+<li><a href="/wiki/Rogue_wave" title="Rogue wave">Rogue wave</a></li>
+<li><a href="/wiki/Rossby_wave" title="Rossby wave">Rossby wave</a></li>
+<li><a href="/wiki/Rossby-gravity_waves" title="Rossby-gravity waves">Rossby-gravity waves</a></li>
+<li><a href="/wiki/Sea_state" title="Sea state">Sea state</a></li>
+<li><a href="/wiki/Seiche" title="Seiche">Seiche</a></li>
+<li><a href="/wiki/Significant_wave_height" title="Significant wave height">Significant wave height</a></li>
+<li><a href="/wiki/Soliton" title="Soliton">Soliton</a></li>
+<li><a href="/wiki/Stokes_boundary_layer" title="Stokes boundary layer">Stokes boundary layer</a></li>
+<li><a href="/wiki/Stokes_drift" title="Stokes drift">Stokes drift</a></li>
+<li><a href="/wiki/Stokes_wave" title="Stokes wave">Stokes wave</a></li>
+<li><a href="/wiki/Swell_(ocean)" title="Swell (ocean)">Swell</a></li>
+<li><a href="/wiki/Trochoidal_wave" title="Trochoidal wave">Trochoidal wave</a></li>
+<li><a href="/wiki/Tsunami" title="Tsunami">Tsunami</a>
+<ul>
+<li><a href="/wiki/Megatsunami" title="Megatsunami">megatsunami</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Undertow_(water_waves)" title="Undertow (water waves)">Undertow</a></li>
+<li><a href="/wiki/Ursell_number" title="Ursell number">Ursell number</a></li>
+<li><a href="/wiki/Wave_action_(continuum_mechanics)" title="Wave action (continuum mechanics)">Wave action</a></li>
+<li><a href="/wiki/Wave_base" title="Wave base">Wave base</a></li>
+<li><a href="/wiki/Wave_height" title="Wave height">Wave height</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave power</a></li>
+<li><a href="/wiki/Wave_radar" title="Wave radar">Wave radar</a></li>
+<li><a href="/wiki/Wave_setup" title="Wave setup">Wave setup</a></li>
+<li><a href="/wiki/Wave_shoaling" title="Wave shoaling">Wave shoaling</a></li>
+<li><a href="/wiki/Wave_turbulence" title="Wave turbulence">Wave turbulence</a></li>
+<li><a href="/wiki/Wave%E2%80%93current_interaction" title="Wave–current interaction">Wave–current interaction</a></li>
+<li><a href="/wiki/Waves_and_shallow_water" title="Waves and shallow water">Waves and shallow water</a>
+<ul>
+<li><a href="/wiki/One-dimensional_Saint-Venant_equations" class="mw-redirect" title="One-dimensional Saint-Venant equations">one-dimensional Saint-Venant equations</a></li>
+<li><a href="/wiki/Shallow_water_equations" title="Shallow water equations">shallow water equations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wind_wave" title="Wind wave">Wind wave</a>
+<ul>
+<li><a href="/wiki/Wind_wave_model" title="Wind wave model">model</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="19" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Upwelling.svg" class="image" title="Upwelling"><img alt="Upwelling" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/140px-Upwelling.svg.png" width="140" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/210px-Upwelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/280px-Upwelling.svg.png 2x" data-file-width="365" data-file-height="242" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="/wiki/File:Antarctic_bottom_water.svg" class="image" title="Antarctic bottom water"><img alt="Antarctic bottom water" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/140px-Antarctic_bottom_water.svg.png" width="140" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/210px-Antarctic_bottom_water.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/280px-Antarctic_bottom_water.svg.png 2x" data-file-width="745" data-file-height="470" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><strong class="selflink">Circulation</strong></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a href="/wiki/Boundary_current" title="Boundary current">Boundary current</a></li>
+<li><a href="/wiki/Coriolis_effect" class="mw-redirect" title="Coriolis effect">Coriolis effect</a></li>
+<li><a href="/wiki/Coriolis%E2%80%93Stokes_force" title="Coriolis–Stokes force">Coriolis–Stokes force</a></li>
+<li><a href="/wiki/Craik%E2%80%93Leibovich_vortex_force" title="Craik–Leibovich vortex force">Craik–Leibovich vortex force</a></li>
+<li><a href="/wiki/Downwelling" title="Downwelling">Downwelling</a></li>
+<li><a href="/wiki/Eddy_(fluid_dynamics)" title="Eddy (fluid dynamics)">Eddy</a></li>
+<li><a href="/wiki/Ekman_layer" title="Ekman layer">Ekman layer</a></li>
+<li><a href="/wiki/Ekman_spiral" title="Ekman spiral">Ekman spiral</a></li>
+<li><a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o_Southern_Oscillation" class="mw-redirect" title="El Niño Southern Oscillation">El Niño Southern Oscillation</a></li>
+<li><a href="/wiki/General_Circulation_Model" class="mw-redirect" title="General Circulation Model">General Circulation Model</a></li>
+<li><a href="/wiki/Geostrophic_current" title="Geostrophic current">Geostrophic current</a></li>
+<li><a href="/wiki/Global_Ocean_Data_Analysis_Project" title="Global Ocean Data Analysis Project">Global Ocean Data Analysis Project</a></li>
+<li><a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a></li>
+<li><a href="/wiki/Halothermal_circulation" title="Halothermal circulation">Halothermal circulation</a></li>
+<li><a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt Current</a></li>
+<li><a href="/wiki/Hydrothermal_circulation" title="Hydrothermal circulation">Hydrothermal circulation</a></li>
+<li><a href="/wiki/Langmuir_circulation" title="Langmuir circulation">Langmuir circulation</a></li>
+<li><a href="/wiki/Longshore_drift" title="Longshore drift">Longshore drift</a></li>
+<li><a href="/wiki/Loop_Current" title="Loop Current">Loop Current</a></li>
+<li><a href="/wiki/Maelstrom" class="mw-redirect" title="Maelstrom">Maelstrom</a></li>
+<li><a href="/wiki/Modular_ocean_model" class="mw-redirect" title="Modular ocean model">Modular ocean model</a></li>
+<li><a href="/wiki/Ocean_dynamics" title="Ocean dynamics">Ocean dynamics</a></li>
+<li><a href="/wiki/Ocean_gyre" title="Ocean gyre">Ocean gyre</a></li>
+<li><a href="/wiki/Princeton_ocean_model" class="mw-redirect" title="Princeton ocean model">Princeton ocean model</a></li>
+<li><a href="/wiki/Rip_current" title="Rip current">Rip current</a></li>
+<li><a href="/wiki/Subsurface_currents" title="Subsurface currents">Subsurface currents</a></li>
+<li><a href="/wiki/Sverdrup_balance" title="Sverdrup balance">Sverdrup balance</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a>
+<ul>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">shutdown</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Upwelling" title="Upwelling">Upwelling</a></li>
+<li><a href="/wiki/Whirlpool" title="Whirlpool">Whirlpool</a></li>
+<li><a href="/wiki/World_Ocean_Circulation_Experiment" title="World Ocean Circulation Experiment">World Ocean Circulation Experiment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Tide" title="Tide">Tides</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amphidromic_point" title="Amphidromic point">Amphidromic point</a></li>
+<li><a href="/wiki/Earth_tide" title="Earth tide">Earth tide</a></li>
+<li><a href="/wiki/Head_of_tide" title="Head of tide">Head of tide</a></li>
+<li><a href="/wiki/Internal_tide" title="Internal tide">Internal tide</a></li>
+<li><a href="/wiki/Lunitidal_interval" title="Lunitidal interval">Lunitidal interval</a></li>
+<li><a href="/wiki/Perigean_spring_tide" title="Perigean spring tide">Perigean spring tide</a></li>
+<li><a href="/wiki/Rip_tide" title="Rip tide">Rip tide</a></li>
+<li><a href="/wiki/Rule_of_twelfths" title="Rule of twelfths">Rule of twelfths</a></li>
+<li><a href="/wiki/Slack_water" title="Slack water">Slack water</a></li>
+<li><a href="/wiki/Tidal_bore" title="Tidal bore">Tidal bore</a></li>
+<li><a href="/wiki/Tidal_force" title="Tidal force">Tidal force</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></li>
+<li><a href="/wiki/Tidal_race" title="Tidal race">Tidal race</a></li>
+<li><a href="/wiki/Tidal_range" title="Tidal range">Tidal range</a></li>
+<li><a href="/wiki/Tidal_resonance" title="Tidal resonance">Tidal resonance</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Tideline" title="Tideline">Tideline</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Landform" title="Landform">Landforms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abyssal_fan" title="Abyssal fan">Abyssal fan</a></li>
+<li><a href="/wiki/Abyssal_plain" title="Abyssal plain">Abyssal plain</a></li>
+<li><a href="/wiki/Atoll" title="Atoll">Atoll</a></li>
+<li><a href="/wiki/Bathymetric_chart" title="Bathymetric chart">Bathymetric chart</a></li>
+<li><a href="/wiki/Coastal_geography" title="Coastal geography">Coastal geography</a></li>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seep</a></li>
+<li><a href="/wiki/Continental_margin" title="Continental margin">Continental margin</a></li>
+<li><a href="/wiki/Continental_rise" title="Continental rise">Continental rise</a></li>
+<li><a href="/wiki/Continental_shelf" title="Continental shelf">Continental shelf</a></li>
+<li><a href="/wiki/Contourite" title="Contourite">Contourite</a></li>
+<li><a href="/wiki/Guyot" title="Guyot">Guyot</a></li>
+<li><a href="/wiki/Hydrography" title="Hydrography">Hydrography</a></li>
+<li><a href="/wiki/Oceanic_basin" title="Oceanic basin">Oceanic basin</a></li>
+<li><a href="/wiki/Oceanic_plateau" title="Oceanic plateau">Oceanic plateau</a></li>
+<li><a href="/wiki/Oceanic_trench" title="Oceanic trench">Oceanic trench</a></li>
+<li><a href="/wiki/Passive_margin" title="Passive margin">Passive margin</a></li>
+<li><a href="/wiki/Seabed" title="Seabed">Seabed</a></li>
+<li><a href="/wiki/Seamount" title="Seamount">Seamount</a></li>
+<li><a href="/wiki/Submarine_canyon" title="Submarine canyon">Submarine canyon</a></li>
+<li><a href="/wiki/Submarine_volcano" title="Submarine volcano">Submarine volcano</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate tectonics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convergent_boundary" title="Convergent boundary">Convergent boundary</a></li>
+<li><a href="/wiki/Divergent_boundary" title="Divergent boundary">Divergent boundary</a></li>
+<li><a href="/wiki/Fracture_zone" title="Fracture zone">Fracture zone</a></li>
+<li><a href="/wiki/Hydrothermal_vent" title="Hydrothermal vent">Hydrothermal vent</a></li>
+<li><a href="/wiki/Marine_geology" title="Marine geology">Marine geology</a></li>
+<li><a href="/wiki/Mid-ocean_ridge" title="Mid-ocean ridge">Mid-ocean ridge</a></li>
+<li><a href="/wiki/Mohorovi%C4%8Di%C4%87_discontinuity" title="Mohorovičić discontinuity">Mohorovičić discontinuity</a></li>
+<li><a href="/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis" title="Vine–Matthews–Morley hypothesis">Vine–Matthews–Morley hypothesis</a></li>
+<li><a href="/wiki/Oceanic_crust" title="Oceanic crust">Oceanic crust</a></li>
+<li><a href="/wiki/Outer_trench_swell" title="Outer trench swell">Outer trench swell</a></li>
+<li><a href="/wiki/Ridge_push" title="Ridge push">Ridge push</a></li>
+<li><a href="/wiki/Seafloor_spreading" title="Seafloor spreading">Seafloor spreading</a></li>
+<li><a href="/wiki/Slab_pull" title="Slab pull">Slab pull</a></li>
+<li><a href="/wiki/Slab_suction" title="Slab suction">Slab suction</a></li>
+<li><a href="/wiki/Slab_window" title="Slab window">Slab window</a></li>
+<li><a href="/wiki/Subduction" title="Subduction">Subduction</a></li>
+<li><a href="/wiki/Transform_fault" title="Transform fault">Transform fault</a></li>
+<li><a href="/wiki/Volcanic_arc" title="Volcanic arc">Volcanic arc</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Ocean zones</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Benthic_zone" title="Benthic zone">Benthic</a></li>
+<li><a href="/wiki/Deep_ocean_water" title="Deep ocean water">Deep ocean water</a></li>
+<li><a href="/wiki/Deep_sea" title="Deep sea">Deep sea</a></li>
+<li><a href="/wiki/Littoral_zone" title="Littoral zone">Littoral</a></li>
+<li><a href="/wiki/Mesopelagic_zone" title="Mesopelagic zone">Mesopelagic</a></li>
+<li><a href="/wiki/Oceanic_zone" title="Oceanic zone">Oceanic</a></li>
+<li><a href="/wiki/Pelagic_zone" title="Pelagic zone">Pelagic</a></li>
+<li><a href="/wiki/Photic_zone" title="Photic zone">Photic</a></li>
+<li><a href="/wiki/Surf_zone" title="Surf zone">Surf</a></li>
+<li><a href="/wiki/Swash" title="Swash">Swash</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sea_level" title="Sea level">Sea level</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep-ocean_Assessment_and_Reporting_of_Tsunamis" title="Deep-ocean Assessment and Reporting of Tsunamis">Deep-ocean Assessment and Reporting of Tsunamis</a></li>
+<li><a href="/wiki/Future_sea_level" title="Future sea level">Future sea level</a></li>
+<li><a href="/wiki/Global_Sea_Level_Observing_System" title="Global Sea Level Observing System">Global Sea Level Observing System</a></li>
+<li><a href="/wiki/North_West_Shelf_Operational_Oceanographic_System" title="North West Shelf Operational Oceanographic System">North West Shelf Operational Oceanographic System</a></li>
+<li><a href="/wiki/Sea-level_curve" title="Sea-level curve">Sea-level curve</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/World_Geodetic_System" title="World Geodetic System">World Geodetic System</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Acoustical_oceanography" title="Acoustical oceanography">Acoustics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep_scattering_layer" title="Deep scattering layer">Deep scattering layer</a></li>
+<li><a href="/wiki/Hydroacoustics" title="Hydroacoustics">Hydroacoustics</a></li>
+<li><a href="/wiki/Ocean_acoustic_tomography" title="Ocean acoustic tomography">Ocean acoustic tomography</a></li>
+<li><a href="/wiki/Sofar_bomb" title="Sofar bomb">Sofar bomb</a></li>
+<li><a href="/wiki/SOFAR_channel" title="SOFAR channel">SOFAR channel</a></li>
+<li><a href="/wiki/Underwater_acoustics" title="Underwater acoustics">Underwater acoustics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Satellites</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jason-1" title="Jason-1">Jason-1</a></li>
+<li><a href="/wiki/Ocean_Surface_Topography_Mission" title="Ocean Surface Topography Mission">Jason-2 (Ocean Surface Topography Mission)</a></li>
+<li><a href="/wiki/Jason-3" title="Jason-3">Jason-3</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Argo_(oceanography)" title="Argo (oceanography)">Argo</a></li>
+<li><a href="/wiki/Benthic_lander" title="Benthic lander">Benthic lander</a></li>
+<li><a href="/wiki/Color_of_water" title="Color of water">Color of water</a></li>
+<li><a href="/wiki/DSV_Alvin" title="DSV Alvin">DSV <i>Alvin</i></a></li>
+<li><a href="/wiki/Marginal_sea" title="Marginal sea">Marginal sea</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine energy</a></li>
+<li><a href="/wiki/Marine_pollution" title="Marine pollution">Marine pollution</a></li>
+<li><a href="/wiki/Mooring_(oceanography)" title="Mooring (oceanography)">Mooring</a></li>
+<li><a href="/wiki/National_Oceanographic_Data_Center" title="National Oceanographic Data Center">National Oceanographic Data Center</a></li>
+<li><a href="/wiki/Ocean" title="Ocean">Ocean</a></li>
+<li><a href="/wiki/Ocean_exploration" title="Ocean exploration">Ocean exploration</a></li>
+<li><a href="/wiki/Ocean_observations" title="Ocean observations">Ocean observations</a></li>
+<li><a href="/wiki/Ocean_reanalysis" title="Ocean reanalysis">Ocean reanalysis</a></li>
+<li><a href="/wiki/Ocean_surface_topography" title="Ocean surface topography">Ocean surface topography</a></li>
+<li><a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">Ocean thermal energy conversion</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Pelagic_sediment" title="Pelagic sediment">Pelagic sediment</a></li>
+<li><a href="/wiki/Sea_surface_microlayer" title="Sea surface microlayer">Sea surface microlayer</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature</a></li>
+<li><a href="/wiki/Seawater" title="Seawater">Seawater</a></li>
+<li><a href="/wiki/Science_On_a_Sphere" title="Science On a Sphere">Science On a Sphere</a></li>
+<li><a href="/wiki/Thermocline" title="Thermocline">Thermocline</a></li>
+<li><a href="/wiki/Underwater_glider" title="Underwater glider">Underwater glider</a></li>
+<li><a href="/wiki/Water_column" title="Water column">Water column</a></li>
+<li><a href="/wiki/World_Ocean_Atlas" title="World Ocean Atlas">World Ocean Atlas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Physical_oceanography" class="extiw" title="commons:Category:Physical oceanography">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Diving_medicine.2C_physiology.2C_physics_and_environment" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Diving_medicine,_physiology_and_physics" title="Template:Diving medicine, physiology and physics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Diving_medicine,_physiology_and_physics" title="Template talk:Diving medicine, physiology and physics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Diving_medicine,_physiology_and_physics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Diving_medicine.2C_physiology.2C_physics_and_environment" style="font-size:114%;margin:0 4em">Diving medicine, physiology, physics and environment</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Diving_medicine" title="Diving medicine">Diving<br />
+medicine</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Diving_disorders" title="Diving disorders">Injuries<br />
+and<br />
+disorders</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Pressure</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Oxygen</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Freediving_blackout" title="Freediving blackout">Freediving blackout</a></li>
+<li><a href="/wiki/Hyperoxia" title="Hyperoxia">Hyperoxia</a></li>
+<li><a href="/wiki/Hypoxia_(medical)" title="Hypoxia (medical)">Hypoxia (medical)</a></li>
+<li><a href="/wiki/Oxygen_toxicity" title="Oxygen toxicity">Oxygen toxicity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Inert gases</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atrial_septal_defect" title="Atrial septal defect">Atrial septal defect</a></li>
+<li><a href="/wiki/Avascular_necrosis" title="Avascular necrosis">Avascular necrosis</a></li>
+<li><a href="/wiki/Decompression_sickness" title="Decompression sickness">Decompression sickness</a></li>
+<li><a href="/wiki/Dysbaric_osteonecrosis" title="Dysbaric osteonecrosis">Dysbaric osteonecrosis</a></li>
+<li><a href="/wiki/High-pressure_nervous_syndrome" title="High-pressure nervous syndrome">High-pressure nervous syndrome</a></li>
+<li><a href="/wiki/Hydrogen_narcosis" title="Hydrogen narcosis">Hydrogen narcosis</a></li>
+<li><a href="/wiki/Isobaric_counterdiffusion" title="Isobaric counterdiffusion">Isobaric counterdiffusion</a></li>
+<li><a href="/wiki/Nitrogen_narcosis" title="Nitrogen narcosis">Nitrogen narcosis</a></li>
+<li><a href="/wiki/Taravana" title="Taravana">Taravana</a></li>
+<li><a href="/wiki/Uncontrolled_decompression" title="Uncontrolled decompression">Uncontrolled decompression</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Carbon dioxide</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypercapnia" title="Hypercapnia">Hypercapnia</a></li>
+<li><a href="/wiki/Hypocapnia" title="Hypocapnia">Hypocapnia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/Aerosinusitis" title="Aerosinusitis">Aerosinusitis</a></li>
+<li><a href="/wiki/Air_embolism" title="Air embolism">Air embolism</a></li>
+<li><a href="/wiki/Alternobaric_vertigo" title="Alternobaric vertigo">Alternobaric vertigo</a></li>
+<li><a href="/wiki/Barodontalgia" title="Barodontalgia">Barodontalgia</a></li>
+<li><a href="/wiki/Barostriction" title="Barostriction">Barostriction</a></li>
+<li><a href="/wiki/Barotrauma" title="Barotrauma">Barotrauma</a></li>
+<li><a href="/wiki/Compression_arthralgia" title="Compression arthralgia">Compression arthralgia</a></li>
+<li><a href="/wiki/Decompression_illness" title="Decompression illness">Decompression illness</a></li>
+<li><a href="/wiki/Dental_barotrauma" class="mw-redirect" title="Dental barotrauma">Dental barotrauma</a></li>
+<li><a href="/wiki/Dysbarism" title="Dysbarism">Dysbarism</a></li>
+<li><a href="/wiki/Ear_clearing" title="Ear clearing">Ear clearing</a></li>
+<li><a href="/wiki/Frenzel_maneuver" title="Frenzel maneuver">Frenzel maneuver</a></li>
+<li><a href="/wiki/Valsalva_maneuver" title="Valsalva maneuver">Valsalva maneuver</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Immersion</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asphyxia" title="Asphyxia">Asphyxia</a></li>
+<li><a href="/wiki/Drowning" title="Drowning">Drowning</a></li>
+<li><a href="/wiki/Hypothermia" title="Hypothermia">Hypothermia</a></li>
+<li><a href="/wiki/Immersion_diuresis" class="mw-redirect" title="Immersion diuresis">Immersion diuresis</a></li>
+<li><a href="/wiki/Instinctive_drowning_response" title="Instinctive drowning response">Instinctive drowning response</a></li>
+<li><a href="/wiki/Salt_water_aspiration_syndrome" title="Salt water aspiration syndrome">Salt water aspiration syndrome</a></li>
+<li><a href="/wiki/Swimming-induced_pulmonary_edema" title="Swimming-induced pulmonary edema">Swimming-induced pulmonary edema</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/List_of_signs_and_symptoms_of_diving_disorders" title="List of signs and symptoms of diving disorders">List of signs and symptoms of diving disorders</a></li>
+<li><a href="/wiki/Cramp" title="Cramp">Cramps</a></li>
+<li><a href="/wiki/Diving_disorders" title="Diving disorders">Diving disorders</a></li>
+<li><a href="/wiki/Motion_sickness" title="Motion sickness">Motion sickness</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Treatments</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Diving_chamber" title="Diving chamber">Diving chamber</a></li>
+<li><a href="/wiki/Diving_medicine" title="Diving medicine">Diving medicine</a></li>
+<li><a href="/wiki/Hyperbaric_medicine" title="Hyperbaric medicine">Hyperbaric medicine</a></li>
+<li><a href="/wiki/Hyperbaric_treatment_schedules" title="Hyperbaric treatment schedules">Hyperbaric treatment schedules</a></li>
+<li><a href="/wiki/In-water_recompression" title="In-water recompression">In-water recompression</a></li>
+<li><a href="/wiki/Oxygen_therapy" title="Oxygen therapy">Oxygen therapy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="11" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:SpongeDiver.jpg" class="image"><img alt="SpongeDiver.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/SpongeDiver.jpg/100px-SpongeDiver.jpg" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/SpongeDiver.jpg/150px-SpongeDiver.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/SpongeDiver.jpg/200px-SpongeDiver.jpg 2x" data-file-width="600" data-file-height="800" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Diving<br />
+physiology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artificial_gills_(human)" title="Artificial gills (human)">Artificial gills (human)</a></li>
+<li><a href="/wiki/Blood%E2%80%93air_barrier" title="Blood–air barrier">Blood–air barrier</a></li>
+<li><a href="/wiki/Blood_shift" title="Blood shift">Blood shift</a></li>
+<li><a href="/wiki/CO%E2%82%82_retention" class="mw-redirect" title="CO₂ retention">CO₂ retention</a></li>
+<li><a href="/wiki/Cold_shock_response" title="Cold shock response">Cold shock response</a></li>
+<li><a href="/wiki/Decompression_(diving)" title="Decompression (diving)">Decompression (diving)</a></li>
+<li><a href="/wiki/Decompression_theory" title="Decompression theory">Decompression theory</a></li>
+<li><a href="/wiki/Diving_reflex" title="Diving reflex">Diving reflex</a></li>
+<li><a href="/wiki/Gas_exchange" title="Gas exchange">Gas exchange</a></li>
+<li><a href="/wiki/History_of_decompression_research_and_development" title="History of decompression research and development">History of decompression research and development</a></li>
+<li><a href="/wiki/Lipid" title="Lipid">Lipid</a></li>
+<li><a href="/wiki/Maximum_operating_depth" title="Maximum operating depth">Maximum operating depth</a></li>
+<li><a href="/wiki/Metabolism" title="Metabolism">Metabolism</a></li>
+<li><a href="/wiki/Normocapnia" title="Normocapnia">Normocapnia</a></li>
+<li><a href="/wiki/Oxygen_window_in_diving_decompression" title="Oxygen window in diving decompression">Oxygen window in diving decompression</a></li>
+<li><a href="/wiki/Perfusion" title="Perfusion">Perfusion</a></li>
+<li><a href="/wiki/Physiological_response_to_water_immersion" title="Physiological response to water immersion">Physiological response to water immersion</a></li>
+<li><a href="/wiki/Pulmonary_circulation" title="Pulmonary circulation">Pulmonary circulation</a></li>
+<li><a href="/wiki/Respiratory_exchange_ratio" title="Respiratory exchange ratio">Respiratory exchange ratio</a></li>
+<li><a href="/wiki/Respiratory_quotient" title="Respiratory quotient">Respiratory quotient</a></li>
+<li><a href="/wiki/Systemic_circulation" class="mw-redirect" title="Systemic circulation">Systemic circulation</a></li>
+<li><a href="/wiki/Tissue_(biology)" title="Tissue (biology)">Tissue (biology)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Diving_physics" title="Diving physics">Diving<br />
+physics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ambient_pressure" title="Ambient pressure">Ambient pressure</a></li>
+<li><a href="/wiki/Gay-Lussac%27s_law" title="Gay-Lussac's law">Amontons' law</a></li>
+<li><a href="/wiki/Anti-fog" title="Anti-fog">Anti-fog</a></li>
+<li><a href="/wiki/Archimedes%27_principle" title="Archimedes' principle">Archimedes' principle</a></li>
+<li><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a></li>
+<li><a href="/wiki/Boyle%27s_law" title="Boyle's law">Boyle's law</a></li>
+<li><a href="/wiki/Breathing_performance_of_regulators" title="Breathing performance of regulators">Breathing performance of regulators</a></li>
+<li><a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a></li>
+<li><a href="/wiki/Charles%27s_law" title="Charles's law">Charles's law</a></li>
+<li><a href="/wiki/Combined_gas_law" title="Combined gas law">Combined gas law</a></li>
+<li><a href="/wiki/Dalton%27s_law" title="Dalton's law">Dalton's law</a></li>
+<li><a href="/wiki/Diffusion" title="Diffusion">Diffusion</a></li>
+<li><a href="/wiki/Force" title="Force">Force</a></li>
+<li><a href="/wiki/Gay-Lussac%27s_law" title="Gay-Lussac's law">Gay-Lussac's law</a></li>
+<li><a href="/wiki/Henry%27s_law" title="Henry's law">Henry's law</a></li>
+<li><a href="/wiki/Hydrophobe" title="Hydrophobe">Hydrophobe</a></li>
+<li><a href="/wiki/Hydrostatic_pressure" class="mw-redirect" title="Hydrostatic pressure">Hydrostatic pressure</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li>
+<li><a href="/wiki/Molecular_diffusion" title="Molecular diffusion">Molecular diffusion</a></li>
+<li><a href="/wiki/Neutral_buoyancy" title="Neutral buoyancy">Neutral buoyancy</a></li>
+<li><a href="/wiki/Fraction_of_inspired_oxygen" title="Fraction of inspired oxygen">Oxygen fraction</a></li>
+<li><a href="/wiki/Partial_pressure" title="Partial pressure">Partial pressure</a></li>
+<li><a href="/wiki/Permeation" title="Permeation">Permeation</a></li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a></li>
+<li><a href="/wiki/Psychrometric_constant" title="Psychrometric constant">Psychrometric constant</a></li>
+<li><a href="/wiki/Snell%27s_law" title="Snell's law">Snell's law</a></li>
+<li><a href="/wiki/Solubility" title="Solubility">Solubility</a></li>
+<li><a href="/wiki/Solution" title="Solution">Solution</a></li>
+<li><a href="/wiki/Supersaturation" title="Supersaturation">Supersaturation</a></li>
+<li><a href="/wiki/Surface_tension" title="Surface tension">Surface tension</a></li>
+<li><a href="/wiki/Surfactant" title="Surfactant">Surfactant</a></li>
+<li><a href="/wiki/Torricellian_chamber" title="Torricellian chamber">Torricellian chamber</a></li>
+<li><a href="/wiki/Underwater_vision" title="Underwater vision">Underwater vision</a></li>
+<li><a href="/wiki/Weight" title="Weight">Weight</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Diving<br />
+environment</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algal_bloom" title="Algal bloom">Algal bloom</a></li>
+<li><a href="/wiki/Breaking_wave" title="Breaking wave">Breaking wave</a></li>
+<li><strong class="selflink">Ocean current</strong></li>
+<li><a href="/wiki/Current_(stream)" title="Current (stream)">Current (stream)</a></li>
+<li><a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a></li>
+<li><a href="/wiki/Halocline" title="Halocline">Halocline</a></li>
+<li><a href="/wiki/Longshore_drift" title="Longshore drift">Longshore drift</a></li>
+<li><a href="/wiki/Rip_current" title="Rip current">Rip current</a></li>
+<li><a href="/wiki/Stratification_(water)" title="Stratification (water)">Stratification</a></li>
+<li><a href="/wiki/Breaking_wave" title="Breaking wave">Surf</a></li>
+<li><a href="/wiki/Waves_and_shallow_water" title="Waves and shallow water">Surge (wave action)</a></li>
+<li><a href="/wiki/Thermocline" title="Thermocline">Thermocline</a></li>
+<li><a href="/wiki/Tide" title="Tide">Tides</a></li>
+<li><a href="/wiki/Turbidity" title="Turbidity">Turbidity</a></li>
+<li><a href="/wiki/Undertow_(water_waves)" title="Undertow (water waves)">Undertow (water waves)</a></li>
+<li><a href="/wiki/Upwelling" title="Upwelling">Upwelling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Researchers in<br />
+diving medicine,<br />
+and physiology</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arthur_J._Bachrach" title="Arthur J. Bachrach">Arthur J. Bachrach</a></li>
+<li><a href="/wiki/Albert_R._Behnke" title="Albert R. Behnke">Albert R. Behnke</a></li>
+<li><a href="/wiki/Paul_Bert" title="Paul Bert">Paul Bert</a></li>
+<li><a href="/wiki/George_F._Bond" title="George F. Bond">George F. Bond</a></li>
+<li><a href="/wiki/Robert_Boyle" title="Robert Boyle">Robert Boyle</a></li>
+<li><a href="/wiki/Albert_A._B%C3%BChlmann" title="Albert A. Bühlmann">Albert A. Bühlmann</a></li>
+<li><a href="/wiki/John_R_Clarke" title="John R Clarke">John R Clarke</a></li>
+<li><a href="/wiki/William_Paul_Fife" title="William Paul Fife">William Paul Fife</a></li>
+<li><a href="/wiki/John_Scott_Haldane" title="John Scott Haldane">John Scott Haldane</a></li>
+<li><a href="/wiki/Robert_William_Hamilton_Jr." title="Robert William Hamilton Jr.">Robert William Hamilton Jr.</a></li>
+<li><a href="/wiki/Leonard_Erskine_Hill" class="mw-redirect" title="Leonard Erskine Hill">Leonard Erskine Hill</a></li>
+<li><a href="/wiki/Felix_Hoppe-Seyler" title="Felix Hoppe-Seyler">Felix Hoppe-Seyler</a></li>
+<li><a href="/wiki/Christian_J._Lambertsen" title="Christian J. Lambertsen">Christian J. Lambertsen</a></li>
+<li><a href="/wiki/Simon_Mitchell" title="Simon Mitchell">Simon Mitchell</a></li>
+<li><a href="/wiki/Charles_Momsen" title="Charles Momsen">Charles Momsen</a></li>
+<li><a href="/wiki/John_Rawlins_(Royal_Navy_officer)" title="John Rawlins (Royal Navy officer)">John Rawlins R.N.</a></li>
+<li><a href="/wiki/Charles_Wesley_Shilling" title="Charles Wesley Shilling">Charles Wesley Shilling</a></li>
+<li><a href="/wiki/Edward_D._Thalmann" title="Edward D. Thalmann">Edward D. Thalmann</a></li>
+<li><a href="/wiki/Jules_Triger" class="mw-redirect" title="Jules Triger">Jules Triger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Diving medical<br />
+research<br />
+organisations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dd><a href="/wiki/Aerospace_Medical_Association" title="Aerospace Medical Association">Aerospace Medical Association</a></dd>
+<dd><a href="/wiki/Divers_Alert_Network" title="Divers Alert Network">Divers Alert Network</a></dd>
+<dd><a href="/wiki/Diving_Diseases_Research_Centre" title="Diving Diseases Research Centre">Diving Diseases Research Centre</a></dd>
+<dd><a href="/wiki/Fitness_to_dive" title="Fitness to dive">Fitness to dive</a></dd>
+<dd><a href="/wiki/List_of_diving_hazards_and_precautions" title="List of diving hazards and precautions">List of diving hazards and precautions</a></dd>
+<dd><a href="/wiki/National_Board_of_Diving_and_Hyperbaric_Medical_Technology" title="National Board of Diving and Hyperbaric Medical Technology">National Board of Diving and Hyperbaric Medical Technology</a></dd>
+<dd><a href="/wiki/Naval_Submarine_Medical_Research_Laboratory" title="Naval Submarine Medical Research Laboratory">Naval Submarine Medical Research Laboratory</a></dd>
+<dd><a href="/wiki/Royal_Australian_Navy_School_of_Underwater_Medicine" title="Royal Australian Navy School of Underwater Medicine">Royal Australian Navy School of Underwater Medicine</a></dd>
+<dd><a href="/wiki/Rubicon_Foundation" title="Rubicon Foundation">Rubicon Foundation</a></dd>
+<dd><a href="/wiki/South_Pacific_Underwater_Medicine_Society" title="South Pacific Underwater Medicine Society">South Pacific Underwater Medicine Society</a></dd>
+<dd><a href="/wiki/Undersea_and_Hyperbaric_Medical_Society" title="Undersea and Hyperbaric Medical Society">Undersea and Hyperbaric Medical Society</a></dd>
+<dd><a href="/wiki/United_States_Navy_Experimental_Diving_Unit" title="United States Navy Experimental Diving Unit">United States Navy Experimental Diving Unit</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> Categories: <a href="/wiki/Category:Diving_medicine" title="Category:Diving medicine">Diving medicine</a></li>
+<li><a href="/wiki/Category:Underwater_diving_physiology" title="Category:Underwater diving physiology">Underwater diving physiology</a></li>
+<li><a href="/wiki/Category:Underwater_diving_physics" title="Category:Underwater diving physics">Underwater diving physics</a></li>
+<li><a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">Physical oceanography</a></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Glossary_of_underwater_diving_terminology" title="Glossary of underwater diving terminology">Glossary</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Underwater_diving" title="Portal:Underwater diving">Portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4130725-2">4130725-2</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00564617">00564617</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1245
+Cached time: 20170314200245
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.320 seconds
+Real time usage: 0.416 seconds
+Preprocessor visited node count: 2849/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 141356/2097152 bytes
+Template argument size: 8864/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.122/10.000 seconds
+Lua memory usage: 5.95 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  266.371      1 -total
+ 37.90%  100.946      8 Template:Navbox
+ 23.81%   63.434      5 Template:Cite_journal
+ 17.14%   45.645      5 Template:Navbox_subgroup
+ 13.89%   37.006      1 Template:Refimprove
+ 10.29%   27.397      1 Template:Commons_category
+ 10.28%   27.384      1 Template:Diving_medicine,_physiology_and_physics
+  9.81%   26.130      1 Template:Ocean
+  9.32%   24.834      1 Template:Ambox
+  9.06%   24.120      2 Template:Convert
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:376476-0!*!0!!en!4!* and timestamp 20170314200244 and revision id 766413613
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ocean_current&amp;oldid=766413613">https://en.wikipedia.org/w/index.php?title=Ocean_current&amp;oldid=766413613</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">Physical oceanography</a></li><li><a href="/wiki/Category:Ocean_currents" title="Category:Ocean currents">Ocean currents</a></li><li><a href="/wiki/Category:Oceans" title="Category:Oceans">Oceans</a></li><li><a href="/wiki/Category:Oceanographical_terminology" title="Category:Oceanographical terminology">Oceanographical terminology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2014" title="Category:Articles needing additional references from January 2014">Articles needing additional references from January 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ocean+current" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ocean+current" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ocean_current"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ocean_current"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ocean_current" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ocean_current&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ocean_current&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ocean_current" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ocean_current" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ocean_current&amp;oldid=766413613" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ocean_current&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q129558" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ocean_current&amp;id=766413613" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ocean+current">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ocean+current&amp;returnto=Ocean+current&amp;oldid=766413613&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ocean_current&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ocean_currents" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D8%A7%D8%B1_%D9%85%D8%AD%D9%8A%D8%B7%D9%8A" title="تيار محيطي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/D%C9%99niz_c%C9%99r%C9%99yanlar%C4%B1" title="Dəniz cərəyanları – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A4" title="মহাসাগরীয় স্রোত – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/I%C3%BB%E2%81%BF-l%C3%A2u" title="Iûⁿ-lâu – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81%D0%BA%D1%96%D1%8F_%D1%86%D1%8F%D1%87%D1%8D%D0%BD%D0%BD%D1%96" title="Марскія цячэнні – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD%D1%81%D0%BA%D0%BE_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="Океанско течение – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Morska_struja" title="Morska struja – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Kasenn" title="Kasenn – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Corrent_oce%C3%A0nic" title="Corrent oceànic – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Mo%C5%99sk%C3%BD_proud" title="Mořský proud – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Havstr%C3%B8m" title="Havstrøm – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Meeresstr%C3%B6mung" title="Meeresströmung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Hoovus" title="Hoovus – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%98%CE%B1%CE%BB%CE%AC%CF%83%CF%83%CE%B9%CE%BF_%CF%81%CE%B5%CF%8D%CE%BC%CE%B1" title="Θαλάσσιο ρεύμα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Corriente_marina" title="Corriente marina – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Marfluo" title="Marfluo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Itsaslaster" title="Itsaslaster – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D8%B1%DB%8C%D8%A7%D9%86_%D8%A7%D9%82%DB%8C%D8%A7%D9%86%D9%88%D8%B3%DB%8C" title="جریان اقیانوسی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Courant_marin" title="Courant marin – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Corrente_oce%C3%A1nica" title="Corrente oceánica – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%95%B4%EB%A5%98" title="해류 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%95%D5%BE%D5%AF%D5%AB%D5%A1%D5%B6%D5%B8%D5%BD%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B0%D5%B8%D5%BD%D5%A1%D5%B6%D6%84%D5%B6%D5%A5%D6%80" title="Օվկիանոսային հոսանքներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A5%87%E0%A4%82" title="महासागरीय धारायें – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Morska_struja" title="Morska struja – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Arus_air_laut" title="Arus air laut – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Hafstraumur" title="Hafstraumur – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Corrente_oceanica" title="Corrente oceanica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%96%D7%A8%D7%9D_%D7%99%D7%9D" title="זרם ים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%96%E1%83%A6%E1%83%95%E1%83%98%E1%83%A1_%E1%83%93%E1%83%98%E1%83%9C%E1%83%94%E1%83%91%E1%83%94%E1%83%91%E1%83%98" title="ზღვის დინებები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9C%D2%B1%D1%85%D0%B8%D1%82_%D0%B0%D2%93%D1%8B%D1%81%D1%82%D0%B0%D1%80%D1%8B" title="Мұхит ағыстары – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Mkondo_wa_bahari" title="Mkondo wa bahari – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Kouran_sifas" title="Kouran sifas – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Oke%C4%81na_straume" title="Okeāna straume – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Tenger%C3%A1ramlatok" title="Tengeráramlatok – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B0_%D1%81%D1%82%D1%80%D1%83%D1%98%D0%B0" title="Морска струја – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%AE%E0%B5%81%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%9C%E0%B4%B2%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%B5%E0%B4%BE%E0%B4%B9%E0%B4%82" title="സമുദ്രജലപ്രവാഹം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B9" title="समुद्री प्रवाह – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Arus_lautan" title="Arus lautan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Zeestroom" title="Zeestroom – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%B5%B7%E6%B5%81" title="海流 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Havstr%C3%B8m" title="Havstrøm – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Havstraum" title="Havstraum – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%AE%E0%A9%81%E0%A9%B0%E0%A8%A6%E0%A8%B0%E0%A9%80_%E0%A8%B0%E0%A9%8C%E0%A8%86%E0%A8%82" title="ਸਮੁੰਦਰੀ ਰੌਆਂ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%81%E1%9F%92%E1%9E%9F%E1%9F%82%E1%9E%91%E1%9E%B9%E1%9E%80%E1%9E%98%E1%9E%A0%E1%9E%B6%E1%9E%9F%E1%9E%98%E1%9E%BB%E1%9E%91%E1%9F%92%E1%9E%9A" title="ខ្សែទឹកមហាសមុទ្រ – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Pr%C4%85d_morski" title="Prąd morski – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Corrente_oce%C3%A2nica" title="Corrente oceânica – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Curent_marin" title="Curent marin – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F" title="Морские течения – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Rrymat_detare" title="Rrymat detare – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Ocean_current" title="Ocean current – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Morsk%C3%BD_pr%C3%BAd" title="Morský prúd – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Oceanski_tok" title="Oceanski tok – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B0_%D1%81%D1%82%D1%80%D1%83%D1%98%D0%B0" title="Морска струја – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Morska_struja" title="Morska struja – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Merivirta" title="Merivirta – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Havsstr%C3%B6m" title="Havsström – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%9F%E0%AE%B2%E0%AF%8D_%E0%AE%A8%E0%AF%80%E0%AE%B0%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D" title="பெருங்கடல் நீரோட்டம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3" title="กระแสน้ำมหาสมุทร – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D1%82%D0%B5%D1%87%D1%96%D1%8F" title="Морська течія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%D8%AD%D8%B1%DB%8C_%D8%B1%D9%88" title="بحری رو – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/H%E1%BA%A3i_l%C6%B0u" title="Hải lưu – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B4%8B%E6%B5%81" title="洋流 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q129558#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 February 2017, at 02:08.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ocean_current&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.416","ppvisitednodes":{"value":2849,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":141356,"limit":2097152},"templateargumentsize":{"value":8864,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  266.371      1 -total"," 37.90%  100.946      8 Template:Navbox"," 23.81%   63.434      5 Template:Cite_journal"," 17.14%   45.645      5 Template:Navbox_subgroup"," 13.89%   37.006      1 Template:Refimprove"," 10.29%   27.397      1 Template:Commons_category"," 10.28%   27.384      1 Template:Diving_medicine,_physiology_and_physics","  9.81%   26.130      1 Template:Ocean","  9.32%   24.834      1 Template:Ambox","  9.06%   24.120      2 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.122","limit":"10.000"},"limitreport-memusage":{"value":6239804,"limit":52428800}},"cachereport":{"origin":"mw1245","timestamp":"20170314200245","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":498,"wgHostname":"mw1245"});});</script>
+	</body>
+</html>

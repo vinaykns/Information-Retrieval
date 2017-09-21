@@ -1,0 +1,68 @@
+
+If the word gets more repeated it has less importance and if it gets less repeated it is given more importance, from the idf calculation, 
+of the unigrams, the more frequently repeated words gets very less idf value because it is log(N/n), and for less frequently repeated words 
+the idf value is high, so from that observation, the unigram's such as (the,of,at) occur very frequently in all the documents and hence they have 
+very low idf, for my results I got unigrams of value 0, so I considered the idf values 0 as my cutoff's and as list of stopwords.
+
+Ex of my results:
+it 0.0
+much 0.0
+had 0.0
+has 0.0
+being 0.0
+with 0.0
+into 0.0
+could 0.0
+Some 0.0
+year 0.0
+links 0.0
+US 0.0
+first 0.0
+have 0.0
+like 0.0
+development 0.0
+In 0.0
+more 0.0
+who 0.0
+people 0.0
+as 0.0
+For 0.0
+External 0.0
+global 0.0
+change 0.0
+very 0.0
+since 0.0
+The 0.0
+used 0.0
+uses 0.0
+is 0.0
+if 0.0
+production 0.0
+those 0.0
+same 0.0
+per 0.0
+environmental 0.0
+several 0.0
+considered 0.0
+on 0.0
+or 0.0
+States 0.0
+were 0.0
+around 0.0
+found 0.0
+up 0.0
+be 0.0
+can 0.0
+but 0.0
+based 0.0
+well 0.0
+may 0.0
+World 0.0
+including 0.0
+its 0.0
+all 0.0
+large 0.0
+made 0.0
+A 0.0
+any 0.0
+

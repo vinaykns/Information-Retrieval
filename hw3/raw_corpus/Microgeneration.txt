@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Microgeneration - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Microgeneration","wgTitle":"Microgeneration","wgCurRevisionId":768205777,"wgRevisionId":768205777,"wgArticleId":3263679,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Energy development","Energy policy","Energy economics","Distributed generation","Sustainable energy","Energy sources"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Microgeneration","wgRelevantArticleId":3263679,"wgRequestId":"WMYUUwpAIDAAAGewoUUAAAAG","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3535129","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dali-micro_windturbine.jpg/1200px-Dali-micro_windturbine.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Microgeneration"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Microgeneration&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Microgeneration&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Microgeneration"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Microgeneration rootpage-Microgeneration skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Microgeneration</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dali-micro_windturbine.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dali-micro_windturbine.jpg/220px-Dali-micro_windturbine.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dali-micro_windturbine.jpg/330px-Dali-micro_windturbine.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dali-micro_windturbine.jpg/440px-Dali-micro_windturbine.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Dali-micro_windturbine.jpg" class="internal" title="Enlarge"></a></div>
+A group of small-scale wind turbines providing electricity to a community in <a href="/wiki/Dali_City" title="Dali City">Dali</a>, <a href="/wiki/Yunnan" title="Yunnan">Yunnan</a>, China</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:18.0em;">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of a series about</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Sustainable_energy" title="Sustainable energy">Sustainable energy</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:El-v-01_ubt.jpeg" class="image" title="Wind turbines near Vendsyssel, Denmark (2004)"><img alt="Wind turbines near Vendsyssel, Denmark (2004)" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/180px-El-v-01_ubt.jpeg" width="180" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/270px-El-v-01_ubt.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/360px-El-v-01_ubt.jpeg 2x" data-file-width="588" data-file-height="245" /></a></td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#c8ffb8;"><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Green_building" title="Green building">Green building</a></li>
+<li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Heat pump</a></li>
+<li><a href="/wiki/Low-carbon_power" title="Low-carbon power">Low-carbon power</a></li>
+<li><strong class="selflink">Microgeneration</strong></li>
+<li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#c8ffb8;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">Anaerobic digestion</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#c8ffb8;"><a href="/wiki/Sustainable_transport" title="Sustainable transport">Sustainable transport</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Electric_vehicle" title="Electric vehicle">Electric vehicle</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li>
+<li><a href="/wiki/Green_vehicle" title="Green vehicle">Green vehicle</a></li>
+<li><a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">Plug-in hybrid</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;padding-top:0;border-top:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;font-size:90%;white-space:nowrap;">
+<div style="height:1.5em;padding-left:0.4em;"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/16px-Sustainable_development.svg.png" width="16" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a> <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></div>
+<div style="padding-left:0.4em;">
+<ul>
+<li><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="Wind-turbine-icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/16px-Wind-turbine-icon.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/24px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/32px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></li>
+<li><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="Aegopodium podagraria1 ies.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/16px-Aegopodium_podagraria1_ies.jpg" width="16" height="14" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sustainable_energy" title="Template:Sustainable energy"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sustainable_energy" title="Template talk:Sustainable energy"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainable_energy&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Microgeneration</b> is the small-scale generation of heat and <a href="/wiki/Electric_power" title="Electric power">electric power</a> by individuals, small businesses and communities to meet their own needs, as alternatives or supplements to traditional centralized grid-connected power. Although this may be motivated by practical considerations, such as unreliable grid power or long distance from the <a href="/wiki/Electrical_grid" title="Electrical grid">electrical grid</a>, the term is mainly used currently for environmentally conscious approaches that aspire to zero or <a href="/wiki/Low-carbon" class="mw-redirect" title="Low-carbon">low-carbon</a> footprints or cost reduction. It differs from <a href="/wiki/Micropower" title="Micropower">micropower</a> in that it is principally concerned with fixed <a href="/wiki/Power_plant" class="mw-redirect" title="Power plant">power plants</a> rather than for use with mobile devices.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Technologies_and_set-up"><span class="tocnumber">1</span> <span class="toctext">Technologies and set-up</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Power_plant"><span class="tocnumber">1.1</span> <span class="toctext">Power plant</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Extra_equipment_needed_besides_the_power_plant"><span class="tocnumber">1.2</span> <span class="toctext">Extra equipment needed besides the power plant</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Energy_storage_apparatus"><span class="tocnumber">1.2.1</span> <span class="toctext">Energy storage apparatus</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Safety_equipment"><span class="tocnumber">1.2.2</span> <span class="toctext">Safety equipment</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Wind_turbine_specific"><span class="tocnumber">1.2.3</span> <span class="toctext">Wind turbine specific</span></a>
+<ul>
+<li class="toclevel-4 tocsection-7"><a href="#Vibro-wind_power"><span class="tocnumber">1.2.3.1</span> <span class="toctext">Vibro-wind power</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Possible_set-ups"><span class="tocnumber">1.3</span> <span class="toctext">Possible set-ups</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Costs"><span class="tocnumber">2</span> <span class="toctext">Costs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Grid_parity"><span class="tocnumber">2.1</span> <span class="toctext">Grid parity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Comparison_with_large-scale_generation"><span class="tocnumber">3</span> <span class="toctext">Comparison with large-scale generation</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Domestic_self-sufficiency"><span class="tocnumber">4</span> <span class="toctext">Domestic self-sufficiency</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Fuel"><span class="tocnumber">4.1</span> <span class="toctext">Fuel</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Government_policy"><span class="tocnumber">5</span> <span class="toctext">Government policy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Alberta.2C_Canada"><span class="tocnumber">5.1</span> <span class="toctext">Alberta, Canada</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Poland"><span class="tocnumber">5.2</span> <span class="toctext">Poland</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#United_States"><span class="tocnumber">5.3</span> <span class="toctext">United States</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#United_Kingdom"><span class="tocnumber">5.4</span> <span class="toctext">United Kingdom</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#In_popular_culture"><span class="tocnumber">6</span> <span class="toctext">In popular culture</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Systems.27_self-sufficiency_parts"><span class="tocnumber">9.1</span> <span class="toctext">Systems' self-sufficiency parts</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#UK-related"><span class="tocnumber">9.2</span> <span class="toctext">UK-related</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Academic_paper_focusing_on_India"><span class="tocnumber">9.3</span> <span class="toctext">Academic paper focusing on India</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Technologies_and_set-up">Technologies and set-up</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=1" title="Edit section: Technologies and set-up">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Microgeneration technologies include small-scale <a href="/wiki/Wind_turbines" class="mw-redirect" title="Wind turbines">wind turbines</a>, <a href="/wiki/Micro_hydro" title="Micro hydro">micro hydro</a>, <a href="/wiki/Solar_PV_systems" class="mw-redirect" title="Solar PV systems">solar PV systems</a>, <a href="/wiki/Microbial_fuel_cell" title="Microbial fuel cell">microbial fuel cells</a>, <a href="/wiki/Ground_source_heat_pump" class="mw-redirect" title="Ground source heat pump">ground source heat pumps</a>, and <a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">micro combined heat and power</a> installations.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> These technologies are often combined to form a <a href="/wiki/Hybrid_power" title="Hybrid power">hybrid power</a> solution that can offer superior performance and lower cost than a system based on one generator.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Power_plant">Power plant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=2" title="Edit section: Power plant">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In addition to the electricity production plant (e.g. wind turbine and solar panel), infrastructure for <a href="/wiki/Emergency_power_system" title="Emergency power system">energy storage and power conversion</a> and a <a href="/wiki/Net_metering" title="Net metering">hook-up to the regular electricity grid</a> is usually needed and/or foreseen. Although a hookup to the regular electricity grid is not essential, it helps to decrease costs by allowing <a href="/wiki/Net_metering" title="Net metering">financial recompensation schemes</a>. In the developing world however, the start-up cost for this equipment is generally too high, thus leaving no choice but to opt for alternative set-ups.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Extra_equipment_needed_besides_the_power_plant">Extra equipment needed besides the power plant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=3" title="Edit section: Extra equipment needed besides the power plant">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:PVSolarSystem.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/PVSolarSystem.svg/250px-PVSolarSystem.svg.png" width="250" height="248" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/PVSolarSystem.svg/375px-PVSolarSystem.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/PVSolarSystem.svg/500px-PVSolarSystem.svg.png 2x" data-file-width="562" data-file-height="558" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:PVSolarSystem.svg" class="internal" title="Enlarge"></a></div>
+A complete PV-solar system</div>
+</div>
+</div>
+<p>The whole of the equipment required to set up a working system and for an off-the-grid generation and/or a hook up to the electricity grid herefore is termed a <a href="/wiki/Balance_of_system" title="Balance of system">balance of system</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and is composed of the following parts with PV-systems:</p>
+<h4><span class="mw-headline" id="Energy_storage_apparatus">Energy storage apparatus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=4" title="Edit section: Energy storage apparatus">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A major issue with off-grid solar and wind systems is that the power is often needed when the sun is not shining or when the wind is calm, this is generally not required for purely grid-connected systems:</p>
+<ul>
+<li>a series of <a href="/wiki/Deep_cycle_battery" title="Deep cycle battery">deep cycle</a>, stationary or <a href="/wiki/Sealed_battery" class="mw-redirect" title="Sealed battery">sealed maintenance free batteries</a> (the most common solution) <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+</ul>
+<p>or other means of energy storage (e.g. hydrogen <a href="/wiki/Fuel_cells" class="mw-redirect" title="Fuel cells">fuel cells</a>, <a href="/wiki/Flywheel_energy_storage" title="Flywheel energy storage">Flywheel energy storage</a>, <a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">pumped-storage hydroelectricity</a>, <a href="/wiki/Compressed_air" title="Compressed air">compressed air</a> tanks, ...)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<ul>
+<li>a <a href="/wiki/Charge_controller" title="Charge controller">charge controller</a> for charging the batteries or other energy storage</li>
+</ul>
+<p>For converting DC battery power into AC as required for many appliances, or for feeding excess power into a commercial power grid:</p>
+<ul>
+<li>an <a href="/wiki/Inverter_(electrical)" class="mw-redirect" title="Inverter (electrical)">inverter</a> or <a href="/wiki/Grid-tie_inverter" title="Grid-tie inverter">grid-interactive inverter</a>. The whole is also sometimes referred to as "power conditioning equipment"</li>
+</ul>
+<h4><span class="mw-headline" id="Safety_equipment">Safety equipment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=5" title="Edit section: Safety equipment">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Ground_(electricity)" title="Ground (electricity)">groundings</a>, <a href="/wiki/Transfer_switch" title="Transfer switch">transfer switches</a> or <a href="/wiki/Isolator_switch" class="mw-redirect" title="Isolator switch">isolator switches</a> and <a href="/wiki/Surge_protector" title="Surge protector">surge protectors</a>. The whole is also sometimes referred to as "safety equipment"</li>
+</ul>
+<p>Usually, in microgeneration for homes in the developing world, prefabricated house-wiring systems (as <a href="/wiki/Cable_harness" title="Cable harness">wiring harnesses</a> or prefabricated <a href="/wiki/Power_distribution_unit" title="Power distribution unit">distribution units</a>) are used instead .<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Simplified house-wiring boxes and cables, known as wiring harnesses, can simply be bought and mounted into the building without requiring much knowledge about the wiring itself. As such, even people without technical expertise are able to install them. In addition, they are also comparatively cheap and offer safety advantages.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<ul>
+<li>battery meters (for <a href="/wiki/Battery_charger" title="Battery charger">charging</a> rate and <a href="/wiki/Voltage" title="Voltage">voltage</a>), and meters for <a href="/wiki/Power_consumption" class="mw-redirect" title="Power consumption">power consumption</a> and electricity provision to the regular power grid</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Wind_generator_system-vectorised.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wind_generator_system-vectorised.svg/150px-Wind_generator_system-vectorised.svg.png" width="150" height="212" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wind_generator_system-vectorised.svg/225px-Wind_generator_system-vectorised.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wind_generator_system-vectorised.svg/300px-Wind_generator_system-vectorised.svg.png 2x" data-file-width="1052" data-file-height="1488" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Wind_generator_system-vectorised.svg" class="internal" title="Enlarge"></a></div>
+Small-scale (DIY) generation system</div>
+</div>
+</div>
+<h4><span class="mw-headline" id="Wind_turbine_specific">Wind turbine specific</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=6" title="Edit section: Wind turbine specific">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>With wind turbines, hydroelectric plants, ... the extra equipment needed <sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> is more or less the same as with PV-systems (depending on the type of wind turbine used,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> yet also include:</p>
+<ul>
+<li>a manual disconnect switch</li>
+<li>foundation for the tower</li>
+<li>grounding system</li>
+<li>shutoff and/or dummy-load devices for use in high wind when power generated exceeds current needs and storage system capacity.</li>
+</ul>
+<h5><span class="mw-headline" id="Vibro-wind_power">Vibro-wind power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=7" title="Edit section: Vibro-wind power">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>A new wind energy technology is being developed that converts energy from wind energy vibrations to electricity. This energy, called Vibro-Wind technology, can use winds of less strength than normal wind turbines, and can be placed in almost any location.</p>
+<p>A prototype consisted of a panel mounted with oscillators made out of pieces of foam. The conversion from mechanical to electrical energy is done using a piezoelectric transducer, a device made of a ceramic or polymer that emits electrons when stressed. The building of this prototype was led by Francis Moon, professor of mechanical and aerospace engineering at <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a>. Moon's work in Vibro-Wind Technology was funded by the <a href="/wiki/Atkinson_Center_for_a_Sustainable_Future" title="Atkinson Center for a Sustainable Future">Atkinson Center for a Sustainable Future</a> at Cornell.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<h3><span class="mw-headline" id="Possible_set-ups">Possible set-ups</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=8" title="Edit section: Possible set-ups">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Several microgeneration set-ups are possible. These are:</p>
+<ul>
+<li><a href="/wiki/Off-the-grid" title="Off-the-grid">Off-the-grid</a> set-ups which include:
+<ul>
+<li>Off-the grid set-ups without energy storage (e.g., battery, ...)</li>
+<li>Off-the grid set-ups with energy storage (e.g., battery, ...)</li>
+<li>Battery charging stations <sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+</ul>
+</li>
+<li>Grid-connected set-ups which include:
+<ul>
+<li>Grid connected with backup to power critical loads</li>
+<li>Grid-connected set-ups without financial recompensation scheme</li>
+<li>Grid-connected set-ups with <a href="/wiki/Net_metering" title="Net metering">net metering</a></li>
+<li>Grid connected set-ups with <a href="/wiki/Net_purchase_and_sale" class="mw-redirect" title="Net purchase and sale">net purchase and sale</a> <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+</ul>
+</li>
+</ul>
+<p>All set-ups mentioned can work either on a single power plant or a <a href="/wiki/Combination" title="Combination">combination</a> of power plants (in which case it is called a <a href="/wiki/Hybrid_power" title="Hybrid power">hybrid power</a> system). For safety, grid-connected set-ups must automatically switch off or enter an "anti-islanding mode" when there is a failure of the mains power supply. For more about this, see the article on the condition of <a href="/wiki/Islanding" title="Islanding">islanding</a>.</p>
+<h2><span class="mw-headline" id="Costs">Costs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=9" title="Edit section: Costs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Depending on the set-up chosen (financial recompensation scheme, power plant, extra equipment), prices may vary. According to <a href="/wiki/Practical_Action" title="Practical Action">Practical Action</a>, microgeneration at home which uses the latest in cost saving-technology (wiring harnesses, ready boards, cheap DIY-power plants, e.g. DIY wind turbines) the household expenditure can be extremely low-cost. In fact, Practical Action mentions that many households in farming communities in the developing world spend less than $1 for electricity per month. .<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> However, if matters are handled less economically (using more commercial systems/approaches), costs will be dramatically higher. In most cases however, financial advantage will still be done using microgeneration on renewable power plants; often in the range of 50-90% <sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> as local production has no electricity transportation losses on long distance <a href="/wiki/Power_line" class="mw-redirect" title="Power line">power lines</a> or energy losses from the <a href="/wiki/Joule_effect" title="Joule effect">Joule effect</a> in transformers where in general 8-15% of the energy is lost.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<p>In the UK, the government offers both grants and feedback payments to help businesses, communities and private homes to install these technologies. Businesses can write the full cost of installation off against taxable profits whilst homeowners receive a flat rate grant or payments per kW h of electricity generated and paid back into the national grid. Community organisations can also receive up to £200,000 in grant funding.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<p>In the UK, the Microgeneration Certification Scheme provides approval for Microgeneration Installers and Products which is a mandatory requirement of funding schemes such as the Feed in Tariffs and Renewable Heat Incentive.</p>
+<h3><span class="mw-headline" id="Grid_parity">Grid parity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=10" title="Edit section: Grid parity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Grid_parity" title="Grid parity">Grid parity</a> (or <b>socket parity</b>) occurs when an <a href="/wiki/Alternative_energy" title="Alternative energy">alternative energy</a> source can generate electricity at a <a href="/wiki/Levelized_cost" class="mw-redirect" title="Levelized cost">levelized cost</a> (LCoE) that is less than or equal to the price of purchasing power from <a href="/wiki/Mains_electricity" title="Mains electricity">the electricity grid</a>. Reaching grid parity is considered to be the point at which an energy source becomes a contender for widespread development without <a href="/wiki/Subsidy" title="Subsidy">subsidies</a> or government support. It is widely believed that a wholesale shift in generation to these forms of energy will take place when they reach grid parity.</p>
+<p>Grid parity has been reached in some locations with on-shore wind power around 2000, and with solar power it was achieved for the first time in Spain in 2013.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<h2><span class="mw-headline" id="Comparison_with_large-scale_generation">Comparison with large-scale generation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=11" title="Edit section: Comparison with large-scale generation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr valign="top">
+<th style="width:10%;"></th>
+<th style="width:35%;">microgeneration</th>
+<th style="width:35%;">large-scale generation</th>
+<th style="width:20%;">Notes</th>
+</tr>
+<tr valign="top">
+<th>Other names</th>
+<td>Distributed generation</td>
+<td>Centralized generation</td>
+<td></td>
+</tr>
+<tr valign="top">
+<th>Waste Heat by-product</th>
+<td>
+<p>Can be used for heating purposes, thus greatly increasing efficiency and offsetting energy total costs. This method is known as <a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">micro combined heat and power</a> (microCHP).</p>
+</td>
+<td>
+<p>It is used in some privately owned industrial <a href="/wiki/Combined_heat_and_power" class="mw-redirect" title="Combined heat and power">combined heat and power</a> (CHP) installations. It's also use in large-scale applications where it's called <a href="/wiki/District_heating" title="District heating">district heating</a> and uses the heat that is normally exhausted by inefficient powerplants.<sup id="cite_ref-Milieu_Centraal_24-0" class="reference"><a href="#cite_note-Milieu_Centraal-24">[24]</a></sup></p>
+</td>
+<td></td>
+</tr>
+<tr valign="top">
+<th>Transmission losses</th>
+<td>Proximity to end user typically closer resulting in potentially fewer losses.</td>
+<td>A significant proportion of electrical power is lost during transmission (approximately 8% in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> according to <a href="/wiki/BBC" title="BBC">BBC</a> Radio 4 Today programme in March 2006).</td>
+<td></td>
+</tr>
+<tr valign="top">
+<th>Changes to Grid</th>
+<td>reduces the transmission load, and thus reduces the need for grid upgrades</td>
+<td>increases the power transmitted, and thus increases the need for grid upgrades</td>
+<td></td>
+</tr>
+<tr valign="top">
+<th>Grid failure event</th>
+<td>Electricity may still be <b>available</b> to local area in many circumstances</td>
+<td>Electricity may be <b>not available</b> due to grid</td>
+<td></td>
+</tr>
+<tr valign="top">
+<th>Consumer choices</th>
+<td>May choose to purchase any legal system</td>
+<td>May choose to purchase offerings of the power company</td>
+<td></td>
+</tr>
+<tr valign="top">
+<th>Reliability and Maintenance requirements</th>
+<td><a href="/wiki/Photovoltaics" title="Photovoltaics">photovoltaics</a>, <a href="/wiki/Stirling_engine" title="Stirling engine">Stirling engines</a>, and certain other systems, are usually extremely reliable, and can generate <a href="/wiki/Electric_power" title="Electric power">electric power</a> continuously for many thousands of hours with little or no maintenance. However, unreliable systems will incur additional maintenance labor and costs.</td>
+<td>Managed by power company. Grid reliability varies with location.</td>
+<td></td>
+</tr>
+<tr valign="top">
+<th>Ability to meet needs</th>
+<td>
+<ul>
+<li>For wind and solar energy, the actual production is only a <a href="/wiki/Capacity_factor" title="Capacity factor">fraction</a> of <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">nameplate capacity</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></li>
+<li>Fuel based systems are fully <a href="/wiki/Dispatchable_generation" title="Dispatchable generation">dispatchable</a></li>
+<li>Solar panels are simple and reliable, they can provide a little electricity at a reasonable cost.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Commentators claim that householders who buy their electricity with green energy tariffs can reduce their carbon usage further than with microgeneration and at a lower cost.</li>
+</ul>
+</td>
+<td></td>
+</tr>
+<tr valign="top">
+<th><a href="/wiki/Economy_of_scale" class="mw-redirect" title="Economy of scale">Economy of scale</a></th>
+<td>Necessitates mass production of generators which will create an associated environmental impact. Systems are less expensive when produced in quantity.</td>
+<td>More economical given the larger scale of the generators.</td>
+<td></td>
+</tr>
+</table>
+<p>Microgeneration can dynamically balance the <a href="/wiki/Supply_and_demand" title="Supply and demand">supply and demand</a> for electric power, by producing more power during periods of high demand and high grid prices, and less power during periods of low demand and low grid prices. This "hybridized grid" allows both microgeneration systems <i>and</i> large power plants to operate with greater energy efficiency and cost effectiveness than either could alone.</p>
+<h2><span class="mw-headline" id="Domestic_self-sufficiency">Domestic self-sufficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=12" title="Edit section: Domestic self-sufficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Autonomous_building" title="Autonomous building">Autonomous building</a></div>
+<div role="note" class="hatnote">See also: <a href="/wiki/Earthship" title="Earthship">Earthship</a> and <a href="/wiki/Off-the-grid" title="Off-the-grid">Off-the-grid</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Micro_WindMill.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Micro_WindMill.jpg/220px-Micro_WindMill.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Micro_WindMill.jpg/330px-Micro_WindMill.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Micro_WindMill.jpg/440px-Micro_WindMill.jpg 2x" data-file-width="1024" data-file-height="1024" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Micro_WindMill.jpg" class="internal" title="Enlarge"></a></div>
+Horizontal Axis Micro-Windmill in Lahore, 1000Watt Rated Output</div>
+</div>
+</div>
+<p>Microgeneration can be integrated as part of a <a href="/wiki/Self-sufficient" class="mw-redirect" title="Self-sufficient">self-sufficient</a> house and is typically complemented with other technologies such as domestic food production systems (<a href="/wiki/Permaculture" title="Permaculture">permaculture</a> and <a href="/wiki/Agroecosystem" title="Agroecosystem">agroecosystem</a>), <a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">rainwater harvesting</a>, <a href="/wiki/Composting_toilets" class="mw-redirect" title="Composting toilets">composting toilets</a> or even complete <a href="/wiki/Greywater_treatment" class="mw-redirect" title="Greywater treatment">greywater treatment</a> systems. Domestic microgeneration technologies include: <a href="/wiki/Photovoltaic_array" class="mw-redirect" title="Photovoltaic array">photovoltaic solar systems</a>, small-scale <a href="/wiki/Wind_turbines" class="mw-redirect" title="Wind turbines">wind turbines</a>, <a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">micro combined heat and power</a> installations, <a href="/wiki/Biodiesel" title="Biodiesel">biodiesel</a> and <a href="/wiki/Biogas" title="Biogas">biogas</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Quietrevolution_Bristol_3513051949.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Quietrevolution_Bristol_3513051949.jpg/170px-Quietrevolution_Bristol_3513051949.jpg" width="170" height="219" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Quietrevolution_Bristol_3513051949.jpg/255px-Quietrevolution_Bristol_3513051949.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Quietrevolution_Bristol_3513051949.jpg/340px-Quietrevolution_Bristol_3513051949.jpg 2x" data-file-width="451" data-file-height="581" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Quietrevolution_Bristol_3513051949.jpg" class="internal" title="Enlarge"></a></div>
+A small <a href="/wiki/Quietrevolution_wind_turbine" title="Quietrevolution wind turbine">Quietrevolution QR5</a> <a href="/wiki/Gorlov_helical_turbine" title="Gorlov helical turbine">Gorlov type</a> vertical axis wind turbine in Bristol, England. Measuring 3&#160;m in diameter and 5&#160;m high, it has a nameplate rating of 6.5 kW to the grid.</div>
+</div>
+</div>
+<p>Private generation decentralizes the generation of electricity and may also centralize the pooling of surplus energy. While they have to be purchased, solar shingles and panels are both available. <a href="/wiki/Capital_cost" title="Capital cost">Capital cost</a> is high, but saves in the long run. With appropriate power conversion, solar PV panels can run the same electric appliances as electricity from other sources.<sup id="cite_ref-Fritsch_2007_26-0" class="reference"><a href="#cite_note-Fritsch_2007-26">[26]</a></sup></p>
+<p>Passive <a href="/wiki/Solar_water_heating" title="Solar water heating">solar water heating</a> is another effective method of utilizing solar power. The simplest method is the solar (or a black plastic) bag. Set between 1 and 5 gallons out in the sun and allow to heat. Perfect for a quick warm shower.<sup id="cite_ref-motherearthnews.com_27-0" class="reference"><a href="#cite_note-motherearthnews.com-27">[27]</a></sup></p>
+<p>The ‘breadbox’ heater can be constructed easily with recycled materials and basic building experience. Consisting of a single or array of black tanks mounted inside a sturdy box insulated on the bottom and sides. The lid, either horizontal or angled to catch the most sun, should be well sealed and of a transparent glazing material (glass, fiberglass, or high temp resistant molded plastic). Cold water enters the tank near the bottom, heats and rises to the top where it is piped back into the home.<sup id="cite_ref-motherearthnews.com_27-1" class="reference"><a href="#cite_note-motherearthnews.com-27">[27]</a></sup></p>
+<p><a href="/wiki/Ground_source_heat_pump" class="mw-redirect" title="Ground source heat pump">Ground source heat pumps</a> exploit stable ground temperatures by benefiting from the thermal energy storage capacity of the ground. Typically ground source heat pumps have a high initial cost and are difficult to install by the average homeowner. They use electric motors to transfer heat from the ground with a high level of efficiency. The electricity may come from renewable sources or from external non-renewable sources.</p>
+<h3><span class="mw-headline" id="Fuel">Fuel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=13" title="Edit section: Fuel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Biodiesel" title="Biodiesel">Biodiesel</a> is an <a href="/wiki/Alternative_fuel" title="Alternative fuel">alternative fuel</a> that can power diesel engines and can be used for domestic heating. Numerous forms of biomass, including soybeans, peanuts, and algae (which has the highest yield), can be used to make biodiesel. Recycled vegetable oil (from restaurants) can also be converted into biodiesel.</p>
+<p><a href="/wiki/Biogas" title="Biogas">Biogas</a> is another alternative fuel, created from the waste product of animals. Though less practical for most homes, a farm environment provides a perfect place to implement the process. By mixing the waste and water in a tank with space left for air, methane produces naturally in the airspace. This methane can be piped out and burned, and used for a cookfire.</p>
+<p>The biogaspro digester provides an easily installed digester suitable for small farms or even large homes. Groups of homes can possible group together to use a digester <sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></p>
+<h2><span class="mw-headline" id="Government_policy">Government policy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=14" title="Edit section: Government policy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Policymakers were accustomed to an energy system based on big, centralised projects like nuclear or gas-fired power stations. A change of mindsets and incentives are bringing microgeneration into the mainstream. Planning regulations may also require streamlining to facilitate the retrofitting of microgenerating facilities onto homes and buildings.</p>
+<p>Most of developed countries, including Canada (Alberta), the United Kingdom, Germany, Poland, Israel<sup id="cite_ref-israel_power_agreement_29-0" class="reference"><a href="#cite_note-israel_power_agreement-29">[29]</a></sup> and USA have laws allowing microgenerated electricity to be sold into the national grid.</p>
+<h3><span class="mw-headline" id="Alberta.2C_Canada">Alberta, Canada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=15" title="Edit section: Alberta, Canada">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In January 2009, the Government of Alberta‘s Micro-Generation Regulation came into effect, setting rules that allow Albertans to generate their own environmentally friendly electricity and receive credit for any power they send into the electricity grid.</p>
+<h3><span class="mw-headline" id="Poland">Poland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=16" title="Edit section: Poland">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In December 2014, the Polish government will vote on a bill which calls for microgeneration, as well as large scale wind farms in the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a> as a solution to cut back on co2 emissions from the country's coal plants as well as to reduce Polish dependence on Russian gas. Under the terms of the new bill, individuals and small businesses which generate up to 40&#160;kW of 'green' energy will receive 100% of market price for any electricity they feed back into the grid, and businesses who set up large-scale offshore wind farms in the Baltic will be eligible for subsidization by the state. Costs of implementing these new policies will be offset by the creation of a new tax on non-sustainable energy use.<sup id="cite_ref-Government_revises_sustainable_energy_bill_30-0" class="reference"><a href="#cite_note-Government_revises_sustainable_energy_bill-30">[30]</a></sup></p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=17" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The United States has inconsistent energy generation policies across its 50 states. State energy policies and laws may vary significantly with location. Some states have imposed requirements on utilities that a certain percentage of total power generation be from renewable sources. For this purpose, renewable sources include wind, hydroelectric, and solar power whether from large or microgeneration projects. Further, in some areas transferrable "renewable source energy" credits are needed by power companies to meet these mandates. As a result, in some portions of the United States, power companies will pay a portion of the cost of renewable source microgeneration projects in their service areas. These rebates are in addition to any Federal or State renewable-energy income-tax credits that may be applicable. In other areas, such rebates may differ or may not be available.</p>
+<h3><span class="mw-headline" id="United_Kingdom">United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=18" title="Edit section: United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The UK Government published its Microgeneration Strategy<sup id="cite_ref-dti_strategy_31-0" class="reference"><a href="#cite_note-dti_strategy-31">[31]</a></sup> in March 2006, although it was seen as a disappointment by many commentators.<sup id="cite_ref-bbc_on_micropower_32-0" class="reference"><a href="#cite_note-bbc_on_micropower-32">[32]</a></sup> In contrast, the <a href="/wiki/Climate_Change_and_Sustainable_Energy_Act_2006" title="Climate Change and Sustainable Energy Act 2006">Climate Change and Sustainable Energy Act 2006</a> has been viewed as a positive step.<sup id="cite_ref-micropower_sus_33-0" class="reference"><a href="#cite_note-micropower_sus-33">[33]</a></sup> To replace earlier schemes, the <a href="/wiki/Department_of_Trade_and_Industry_(United_Kingdom)" title="Department of Trade and Industry (United Kingdom)">Department of Trade and Industry</a> (DTI) launched the <a href="/wiki/Low_Carbon_Buildings_Programme" class="mw-redirect" title="Low Carbon Buildings Programme">Low Carbon Buildings Programme</a> in April 2006, which provided grants to individuals, communities and businesses wishing to invest in microgenerating technologies. These schemes have been replaced in turn by new proposals from the <a href="/wiki/Department_for_Energy_and_Climate_Change" class="mw-redirect" title="Department for Energy and Climate Change">Department for Energy and Climate Change</a> (DECC) for clean energy cashback via Feed-In Tariffs <sup id="cite_ref-Summary_of_Feed_In_Tariffs_clean_energy_cashback_34-0" class="reference"><a href="#cite_note-Summary_of_Feed_In_Tariffs_clean_energy_cashback-34">[34]</a></sup> for generating electricity from April 2010 and the Renewable Heat Incentive <sup id="cite_ref-Summary_of_Renewable_Heat_Incentive_clean_energy_cashback_35-0" class="reference"><a href="#cite_note-Summary_of_Renewable_Heat_Incentive_clean_energy_cashback-35">[35]</a></sup> for generating renewable heat from 28 November 2011.</p>
+<p>Feed-In Tariffs are intended to incentivise small-scale (less than 5MW), low-carbon electricity generation. These feed-in tariffs work alongside the Renewables Obligation (RO), which will remain the primary mechanism to incentivise deployment of large-scale renewable electricity generation. The Renewable Heat Incentive (RHI) in intended to incentivise the generation of heat from renewable sources. They also currently offer up to 21p per kWh from December 2011 in the Tariff for photovoltaics plus another 3p for the Export Tariff - an overall figure which could see a household earning back double what they currently pay for their electricity.<sup id="cite_ref-Feed-in_Tarrif_figures_36-0" class="reference"><a href="#cite_note-Feed-in_Tarrif_figures-36">[36]</a></sup></p>
+<p>On 31 October 2011, the government announced a sudden cut in the feed-in tariff from 43.3p/kWh to 21p/kWh with the new tariff to apply to all new solar PV installations with an eligibility date on or after 12 December 2011.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></p>
+<p>Prominent British politicians who have announced they are fitting microgenerating facilities to their homes include the Conservative party leader, <a href="/wiki/David_Cameron" title="David Cameron">David Cameron</a>, and the Labour Science <a href="/wiki/Minister_(government)" title="Minister (government)">Minister</a>, <a href="/wiki/Malcolm_Wicks" title="Malcolm Wicks">Malcolm Wicks</a>. These plans included small domestic sized wind turbines. Cameron, before becoming Prime Minister in the <a href="/wiki/United_Kingdom_general_election,_2010" title="United Kingdom general election, 2010">2010 general elections</a>, had been asked during an interview on BBC One’s <a href="/wiki/The_Politics_Show" class="mw-redirect" title="The Politics Show">The Politics Show</a> on October 29, 2006, if he would do the same should he get to <a href="/wiki/10_Downing_Street" title="10 Downing Street">10 Downing Street</a>. <i>“If they’d let me, yes,”</i> he replied.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></p>
+<p>In the December 2006 <a href="/wiki/Pre-Budget_Report" class="mw-redirect" title="Pre-Budget Report">Pre-Budget Report</a><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> the government announced that the sale of surplus electricity from installations designed for personal use, would not be subject to <a href="/wiki/Income_Tax" class="mw-redirect" title="Income Tax">Income Tax</a>. Legislation to this effect has been included in the Finance Bill 2007.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></p>
+<h2><span class="mw-headline" id="In_popular_culture">In popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=19" title="Edit section: In popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Several movies and TV shows such as <a href="/wiki/The_Mosquito_Coast" title="The Mosquito Coast">The Mosquito Coast</a>, <a href="/wiki/Jericho_(2006_TV_series)" title="Jericho (2006 TV series)">Jericho</a>, <a href="/wiki/The_Time_Machine_(2002_film)" title="The Time Machine (2002 film)">The Time Machine</a> and <a href="/wiki/Beverly_Hills_Family_Robinson" title="Beverly Hills Family Robinson">Beverly Hills Family Robinson</a> have done a great deal in raising interest in microgeneration among the general public. Websites such as <a href="/wiki/Instructables" title="Instructables">Instructables</a> and <a href="/wiki/Practical_Action" title="Practical Action">Practical Action</a> propose <a href="/wiki/Do-it-yourself" class="mw-redirect" title="Do-it-yourself">DIY</a> solutions that can lower the cost of microgeneration, thus increasing its popularity. Specialised magazines such as OtherPower and <a href="/wiki/Home_Power" title="Home Power">Home Power</a> also provide practical advice and guidance.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=20" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/28px-Telecom-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/42px-Telecom-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/56px-Telecom-icon.svg.png 2x" data-file-width="500" data-file-height="500" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Technology" title="Portal:Technology">Technology portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a>; includes a list of technology usable to set up microgeneration</li>
+<li><a href="/wiki/Autonomous_building" title="Autonomous building">Autonomous building</a></li>
+<li><a href="/wiki/Deep_cycle_battery" title="Deep cycle battery">Deep cycle battery</a> (the type of batteries to be used in domestic, off-grid systems)</li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Domestic_energy_consumption" title="Domestic energy consumption">Domestic energy consumption</a> (offers calculations to set up microgeneration-plants)</li>
+<li><a href="/wiki/Emergency_power_system" title="Emergency power system">Emergency power system</a></li>
+<li><a href="/wiki/Home_fuel_cell" title="Home fuel cell">Home fuel cell</a></li>
+<li><a href="/wiki/Hydrogen_station" title="Hydrogen station">Hydrogen station</a></li>
+<li><a href="/wiki/MicroFIT" class="mw-redirect" title="MicroFIT">MicroFIT</a></li>
+<li><a href="/wiki/Photovoltaic_array" class="mw-redirect" title="Photovoltaic array">Photovoltaic array</a></li>
+<li><a href="/wiki/Small_hydro" title="Small hydro">Small hydro</a></li>
+<li><a href="/wiki/Small-scale_wind_power" class="mw-redirect" title="Small-scale wind power">Small-scale wind power</a></li>
+<li><a href="/wiki/Grid-tied_electrical_system" title="Grid-tied electrical system">Grid-tied electrical system</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=21" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.icax.co.uk/on_site_renewable_energy.html">"On-site renewable energy - Renewable Energy - Reusable Energy - The Merton Rule - Pros Cons Renewable Energy Options - Microgeneration - Green Energy Solutions - Ground Source Heat Pumps - Green Energy Options"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=On-site+renewable+energy+-+Renewable+Energy+-+Reusable+Energy+-+The+Merton+Rule+-+Pros+Cons+Renewable+Energy+Options+-+Microgeneration+-+Green+Energy+Solutions+-+Ground+Source+Heat+Pumps+-+Green+Energy+Options&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.icax.co.uk%2Fon_site_renewable_energy.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Ginn, Claire. <a rel="nofollow" class="external text" href="https://blog.csiro.au/energy-pick-n-mix-hybrid-systems-next-big-thing/">"Energy pick n' mix: are hybrid systems the next big thing?"</a>. <i>www.csiro.au</i>. CSIRO<span class="reference-accessdate">. Retrieved <span class="nowrap">9 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.atitle=Energy+pick+n%99+mix%3A+are+hybrid+systems+the+next+big+thing%3F&amp;rft.aufirst=Claire&amp;rft.aulast=Ginn&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fblog.csiro.au%2Fenergy-pick-n-mix-hybrid-systems-next-big-thing%2F&amp;rft.jtitle=www.csiro.au&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://practicalaction.org/practicalanswers/product_info.php?cPath=21&amp;products_id=269">Practical Action - Energy for rural communities</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eere.energy.gov/consumer/your_home/electricity/index.cfm/mytopic=10620">"Office of Energy Efficiency &amp; Renewable Energy - Department of Energy"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Office+of+Energy+Efficiency+%26+Renewable+Energy+-+Department+of+Energy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eere.energy.gov%2Fconsumer%2Fyour_home%2Felectricity%2Findex.cfm%2Fmytopic%3D10620&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://practicalaction.org/practicalanswers/product_info.php?cPath=21&amp;products_id=269">Practical Action - Energy for rural communities (includes short description batteries)</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thesietch.org/projects/Hydrogenmaker/index.htm">"Welcome to The Sietch - Projects Make Your Own Hydrogen"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Welcome+to+The+Sietch+-+Projects+Make+Your+Own+Hydrogen&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thesietch.org%2Fprojects%2FHydrogenmaker%2Findex.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://practicalaction.org/practicalanswers/product_info.php?cPath=21&amp;products_id=269">Mentioning of prefabricated house-wiring and its systems</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://practicalaction.org/practicalanswers/product_info.php?cPath=21&amp;products_id=269">Benefits of wiring harnasses</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eere.energy.gov/consumer/your_home/electricity/index.cfm/mytopic=10980">"Office of Energy Efficiency &amp; Renewable Energy - Department of Energy"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Office+of+Energy+Efficiency+%26+Renewable+Energy+-+Department+of+Energy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eere.energy.gov%2Fconsumer%2Fyour_home%2Felectricity%2Findex.cfm%2Fmytopic%3D10980&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gaiam.com/category/solar-living/wind-power.do">"Shop Gaiam for yoga, fitness, meditation, active sitting, and wellness products"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Shop+Gaiam+for+yoga%2C+fitness%2C+meditation%2C+active+sitting%2C+and+wellness+products&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gaiam.com%2Fcategory%2Fsolar-living%2Fwind-power.do&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.energyalternatives.ca/catalogue/Categories/3.htm">Extra equipment needed with wind turbines (EnergyAlternatives)</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.velacreations.com/chispito.html">"Chispito Information - VelaCreations"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Chispito+Information+-+VelaCreations&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.velacreations.com%2Fchispito.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www1.eere.energy.gov/windandhydro/wind_how.html#types">Schematic showing certain components as controllers built into the wind turbine itself</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news">Ju, Anne (25 May 2010). <a rel="nofollow" class="external text" href="http://www.news.cornell.edu/stories/May10/VibroWind.html">"Students harness vibrations from wind for electricity"</a>. <i>Cornell Chronicle</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.atitle=Students+harness+vibrations+from+wind+for+electricity&amp;rft.aufirst=Anne&amp;rft.aulast=Ju&amp;rft.date=2010-05-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.news.cornell.edu%2Fstories%2FMay10%2FVibroWind.html&amp;rft.jtitle=Cornell+Chronicle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://practicalaction.org/practicalanswers/product_info.php?cPath=21&amp;products_id=269">Battery charging stations explained</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eere.energy.gov/consumer/your_home/electricity/index.cfm/mytopic=10600">"Office of Energy Efficiency &amp; Renewable Energy - Department of Energy"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Office+of+Energy+Efficiency+%26+Renewable+Energy+-+Department+of+Energy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eere.energy.gov%2Fconsumer%2Fyour_home%2Felectricity%2Findex.cfm%2Fmytopic%3D10600&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://practicalaction.org/practicalanswers/product_info.php?cPath=21&amp;products_id=269">Households reducing their energy ependitures to $1 a month using renewable microgeneration</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eere.energy.gov/consumer/your_home/electricity/index.cfm/mytopic=10880">"Office of Energy Efficiency &amp; Renewable Energy - Department of Energy"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Office+of+Energy+Efficiency+%26+Renewable+Energy+-+Department+of+Energy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eere.energy.gov%2Fconsumer%2Fyour_home%2Felectricity%2Findex.cfm%2Fmytopic%3D10880&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blog.schneider-electric.com/energy-management-energy-efficiency/2013/03/25/how-big-are-power-line-losses/">"How big are Power line losses? - Schneider Electric Blog"</a>. 25 March 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=How+big+are+Power+line+losses%3F+-+Schneider+Electric+Blog&amp;rft.date=2013-03-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fblog.schneider-electric.com%2Fenergy-management-energy-efficiency%2F2013%2F03%2F25%2Fhow-big-are-power-line-losses%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.microgeneration.com/grants-and-funding">UK Grant Funding information</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Kelly-Detwiler, Peter. <a rel="nofollow" class="external text" href="http://www.forbes.com/sites/peterdetwiler/2012/12/26/solar-grid-parity-comes-to-spain/">"Solar Grid Parity Comes to Spain"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.aufirst=Peter&amp;rft.aulast=Kelly-Detwiler&amp;rft.btitle=Solar+Grid+Parity+Comes+to+Spain&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fpeterdetwiler%2F2012%2F12%2F26%2Fsolar-grid-parity-comes-to-spain%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://oilprice.com/Latest-Energy-News/World-News/Spain-Achieves-Grid-Parity-for-Solar-Power.html">"Spain Achieves Grid Parity for Solar Power - OilPrice.com"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Spain+Achieves+Grid+Parity+for+Solar+Power+-+OilPrice.com&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Foilprice.com%2FLatest-Energy-News%2FWorld-News%2FSpain-Achieves-Grid-Parity-for-Solar-Power.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.conergy.com/desktopdefault.aspx/tabid-136/281_read-831/">http://www.conergy.com/desktopdefault.aspx/tabid-136/281_read-831/</a></span></li>
+<li id="cite_note-Milieu_Centraal-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Milieu_Centraal_24-0">^</a></b></span> <span class="reference-text"><i>Milieu Centraal</i>, 29 April 2009 -- <a rel="nofollow" class="external text" href="http://www.milieucentraal.nl/pagina?onderwerp=Stadsverwarming">Stadsverwarming en blokverwarming</a></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.buildingforafuture.co.uk/">"Green Building magazine has moved to GreenBuilding.co.uk"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Green+Building+magazine+has+moved+to+GreenBuilding.co.uk&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.buildingforafuture.co.uk%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fritsch_2007-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fritsch_2007_26-0">^</a></b></span> <span class="reference-text">Fritsch, Al, and Paul Gallimore. Healing Appalachia: Sustainable Living Through Appropriate Technology. Lexington, KY. The UP of Kentucky, 2007.</span></li>
+<li id="cite_note-motherearthnews.com-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-motherearthnews.com_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-motherearthnews.com_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.motherearthnews.com/Green-Homes/2007-10-01/Build-Your-Own-Solar-Water-Heater.aspx">"How to Build a Passive Solar Water Heater"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=How+to+Build+a+Passive+Solar+Water+Heater&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.motherearthnews.com%2FGreen-Homes%2F2007-10-01%2FBuild-Your-Own-Solar-Water-Heater.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.biogaspro.co.za">"Renewable Energy Solutions - Living Lightly"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Renewable+Energy+Solutions+-+Living+Lightly&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.biogaspro.co.za&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-israel_power_agreement-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-israel_power_agreement_29-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.israel-electric.co.il/Static/WorkFolder/HomeClients/pv-hahachlata-hamelea.pdf">State of Israel Public Utilities Authority Decision #216 (Hebrew)</a></span></li>
+<li id="cite_note-Government_revises_sustainable_energy_bill-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Government_revises_sustainable_energy_bill_30-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://thenews.pl/1/12/Artykul/188486,Government-revises-sustainable-energy-bill">"Government revises sustainable energy bill"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Government+revises+sustainable+energy+bill&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fthenews.pl%2F1%2F12%2FArtykul%2F188486%2CGovernment-revises-sustainable-energy-bill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dti_strategy-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-dti_strategy_31-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dti.gov.uk/energy/sources/sustainable/microgeneration/strategy/page27594.html">UK Department of Trade and Industry Microgeneration Strategy</a></span></li>
+<li id="cite_note-bbc_on_micropower-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-bbc_on_micropower_32-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/sci/tech/4858766.stm">Home power plan 'disappointment'</a> <a href="/wiki/BBC_News" title="BBC News">BBC News</a> report on the UK Department of Trade and Industry Microgeneration Strategy</span></li>
+<li id="cite_note-micropower_sus-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-micropower_sus_33-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.micropower.co.uk/news/newsrelease15.html">Sustainable energy groups welcome parliamentary initiative to reduce climate change emissions</a>, article by <a rel="nofollow" class="external text" href="http://www.micropower.co.uk">micropower</a> on the Climate Change and Sustainable Energy Act 2006</span></li>
+<li id="cite_note-Summary_of_Feed_In_Tariffs_clean_energy_cashback-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-Summary_of_Feed_In_Tariffs_clean_energy_cashback_34-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.feedin-tariffs.com/what-are-feed-in-tariffs/">Clean energy cashback from Feed-In Tariffs</a></span></li>
+<li id="cite_note-Summary_of_Renewable_Heat_Incentive_clean_energy_cashback-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-Summary_of_Renewable_Heat_Incentive_clean_energy_cashback_35-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.decc.gov.uk/en/content/cms/consultations/rhi/rhi.aspx">Renewable Heat Incentive</a></span></li>
+<li id="cite_note-Feed-in_Tarrif_figures-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Feed-in_Tarrif_figures_36-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fitariffs.co.uk/FITs/principles/export/">"Export tariffs - FI Tariffs"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Export+tariffs+-+FI+Tariffs&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fitariffs.co.uk%2FFITs%2Fprinciples%2Fexport%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.decc.gov.uk/en/content/cms/news/pn11_091/pn11_091.aspx">"Barker: Boom and bust for solar must be avoided - Announcements"</a>. decc.gov.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrogeneration&amp;rft.btitle=Barker%3A+Boom+and+bust+for+solar+must+be+avoided+-+Announcements&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.decc.gov.uk%2Fen%2Fcontent%2Fcms%2Fnews%2Fpn11_091%2Fpn11_091.aspx&amp;rft.pub=decc.gov.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">The Times (October 30, 2006). <a rel="nofollow" class="external text" href="http://www.timesonline.co.uk/tol/news/politics/article617348.ece">Cameron: I'd have a No 10 wind turbine</a>. Retrieved 2010-05-15.</span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hm-treasury.gov.uk/pre_budget_report/prebud_pbr06/prebud_pbr06_index.cfm">Pre-Budget Report 2006, Section 7.31.</a></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Office of Public Sector Information; Finance Act 2007 <a rel="nofollow" class="external text" href="http://www.opsi.gov.uk/acts/acts2007/ukpga_20070011_en_1">Chapter 11, Part 2, Environment</a>. Retrieved 2010-05-14.</span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rebelwolf.com/essn/ESSN-Dec2005.pdf">OtherPower and Home Power as popular diy microgeneration magazines</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=22" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Systems.27_self-sufficiency_parts">Systems' self-sufficiency parts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=23" title="Edit section: Systems' self-sufficiency parts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.microgeneration.com/default.asp?sID=1158439211421">Microgeneration.com</a> - Basic information on setting up microgeneration at home</li>
+<li><a rel="nofollow" class="external text" href="http://www.rebelwolf.com/essn.html">Information on precise domestic power consumption calculations to create partial/or completely off-grid systems</a></li>
+<li><a rel="nofollow" class="external text" href="http://practicalaction.org/practicalanswers/index.php?cPath=21">Practical action's info on setting up microgeneration at home</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.leefrank.net/WindInfo.html">Hope Farm Information on Wind Power</a> - Page on securing incentives, building, and monitoring power generated by small-scale wind on Upstate NY farm.</li>
+<li><a rel="nofollow" class="external text" href="https://www.nytimes.com/interactive/2010/12/19/magazine/ideas2010.html?ref=magazine#Turbine-Free_Wind_Power">Turbine-Free Wind Power</a> - <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i></li>
+<li><a rel="nofollow" class="external text" href="http://www.qp.alberta.ca/574.cfm?page=2008_027.cfm&amp;leg_type=Regs&amp;isbncln=9780779730308">Micro-Generation Regulation</a></li>
+</ul>
+<h3><span class="mw-headline" id="UK-related">UK-related</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=24" title="Edit section: UK-related">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.nogrid.co.uk">nogrid.co.uk</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.berr.gov.uk/energy/sources/sustainable/microgeneration/index.html">http://www.berr.gov.uk/energy/sources</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.icax.co.uk/Renewable_Heat_Incentive.html">Renewable Heat Incentive</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mcsaccredited.com/the-mcs-scheme/why-get-mcs-accreditation.html">Microgeneration Certification Scheme Information Installers</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ofgem.gov.uk/Sustainability/Environment/fits/Pages/fits.aspx">Ofgem information on Feed-in Tariffs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.micropower.co.uk/">Micropower Council</a> - In the UK they act as the industry's main contact point for government, opinion formers, the press, and the public</li>
+<li><a rel="nofollow" class="external text" href="http://www.buildingforafuture.co.uk/winter03/index.php">Building for a Future magazine: Microgeneration - Good or bad?</a></li>
+</ul>
+<h3><span class="mw-headline" id="Academic_paper_focusing_on_India">Academic paper focusing on India</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microgeneration&amp;action=edit&amp;section=25" title="Edit section: Academic paper focusing on India">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0301421509008866">Kumar, A., Shankar, R., Momaya, K. and Gupte, S. (2010), “The Market for Wireless Electricity: the Case of India”, Energy Policy, 38(3), 1537–1547</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Utility_frequency" title="Utility frequency">Utility frequency</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><strong class="selflink">Microgeneration</strong></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Mains_electricity_by_country" title="Mains electricity by country">Mains electricity by country</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1210
+Cached time: 20170308143240
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.272 seconds
+Real time usage: 0.327 seconds
+Preprocessor visited node count: 1611/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 59559/2097152 bytes
+Template argument size: 926/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 4.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  238.563      1 -total
+ 52.09%  124.277      1 Template:Reflist
+ 38.05%   90.771     18 Template:Cite_web
+ 20.66%   49.282      1 Template:Sustainable_energy
+ 19.92%   47.520      1 Template:Sidebar
+  9.66%   23.053      2 Template:Navbox
+  8.97%   21.397      1 Template:Electricity_generation
+  7.34%   17.508      3 Template:Portal-inline
+  4.01%    9.574      1 Template:Navbox_subgroup
+  3.78%    9.010      1 Template:Further
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3263679-0!*!0!!en!4!* and timestamp 20170308143240 and revision id 768205777
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Microgeneration&amp;oldid=768205777">https://en.wikipedia.org/w/index.php?title=Microgeneration&amp;oldid=768205777</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_development" title="Category:Energy development">Energy development</a></li><li><a href="/wiki/Category:Energy_policy" title="Category:Energy policy">Energy policy</a></li><li><a href="/wiki/Category:Energy_economics" title="Category:Energy economics">Energy economics</a></li><li><a href="/wiki/Category:Distributed_generation" title="Category:Distributed generation">Distributed generation</a></li><li><a href="/wiki/Category:Sustainable_energy" title="Category:Sustainable energy">Sustainable energy</a></li><li><a href="/wiki/Category:Energy_sources" title="Category:Energy sources">Energy sources</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Microgeneration" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Microgeneration" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Microgeneration"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Microgeneration"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Microgeneration" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Microgeneration&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Microgeneration&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Microgeneration" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Microgeneration" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Microgeneration&amp;oldid=768205777" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Microgeneration&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q3535129" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Microgeneration&amp;id=768205777" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Microgeneration">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Microgeneration&amp;returnto=Microgeneration&amp;oldid=768205777&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Microgeneration&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Microgeneraci%C3%B3n" title="Microgeneración – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A4%AA%E0%A5%80%E0%A4%A2%E0%A4%BC%E0%A5%80" title="सूक्ष्मपीढ़ी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Microgera%C3%A7%C3%A3o" title="Microgeração – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Mala_elektrarna" title="Mala elektrarna – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%B2%E0%AF%8D_%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF" title="ஆற்றல் சிற்றுற்பத்தி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%9E%8B%E7%99%BC%E9%9B%BB" title="微型發電 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q3535129#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 March 2017, at 12:33.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Microgeneration&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.327","ppvisitednodes":{"value":1611,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":59559,"limit":2097152},"templateargumentsize":{"value":926,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  238.563      1 -total"," 52.09%  124.277      1 Template:Reflist"," 38.05%   90.771     18 Template:Cite_web"," 20.66%   49.282      1 Template:Sustainable_energy"," 19.92%   47.520      1 Template:Sidebar","  9.66%   23.053      2 Template:Navbox","  8.97%   21.397      1 Template:Electricity_generation","  7.34%   17.508      3 Template:Portal-inline","  4.01%    9.574      1 Template:Navbox_subgroup","  3.78%    9.010      1 Template:Further"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":4267293,"limit":52428800}},"cachereport":{"origin":"mw1210","timestamp":"20170308143240","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw1178"});});</script>
+	</body>
+</html>

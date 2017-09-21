@@ -1,0 +1,1306 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Environmental economics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Environmental_economics","wgTitle":"Environmental economics","wgCurRevisionId":770159174,"wgRevisionId":770159174,"wgArticleId":47763,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be merged from December 2016","All articles to be merged","All articles with unsourced statements","Articles with unsourced statements from May 2012","Articles needing additional references from August 2012","All articles needing additional references","Wikipedia articles with GND identifiers","Environmental economics","Environmental social science","Industrial ecology","Market failure"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Environmental_economics","wgRelevantArticleId":47763,"wgRequestId":"WMc7KgpAADwAAZ4uPMoAAAAM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q753291","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/1200px-Sustainable_development.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Environmental_economics"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Environmental_economics&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Environmental_economics&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Environmental_economics"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Environmental_economics rootpage-Environmental_economics skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Environmental economics</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">Not to be confused with <a href="/wiki/Ecological_economics" title="Ecological economics">ecological economics</a>.</div>
+<table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/50px-Mergefrom.svg.png" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/75px-Mergefrom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/100px-Mergefrom.svg.png 2x" data-file-width="50" data-file-height="20" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">It has been suggested that <i><a href="/wiki/Green_trading" title="Green trading">Green trading</a></i> be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> into this article. (<a href="/wiki/Talk:Environmental_economics" title="Talk:Environmental economics">Discuss</a>) <small><i>Proposed since December 2016.</i></small></span></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Environmental_economics" title="Category:Environmental economics">a series</a> about</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><strong class="selflink">Environmental economics</strong></th>
+</tr>
+<tr>
+<th style="padding:0.1em">Concepts</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Green_accounting" title="Green accounting">Green accounting</a></li>
+<li><a href="/wiki/Green_economy" title="Green economy">Green economy</a></li>
+<li><a href="/wiki/Green_trading" title="Green trading">Green trading</a></li>
+<li><a href="/wiki/Eco_commerce" title="Eco commerce">Eco commerce</a></li>
+<li><a href="/wiki/Green_job" title="Green job">Green job</a></li>
+<li><a href="/wiki/Environmental_enterprise" title="Environmental enterprise">Environmental enterprise</a></li>
+<li><a href="/wiki/Fiscal_environmentalism" title="Fiscal environmentalism">Fiscal environmentalism</a></li>
+<li><a href="/wiki/Environmental_finance" title="Environmental finance">Environmental finance</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Policies</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Sustainable tourism</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Environmental_tariff" class="mw-redirect" title="Environmental tariff">Environmental tariff</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Environmental_pricing_reform" title="Environmental pricing reform">Environmental pricing reform</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Dynamics</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li>
+<li><a href="/wiki/Marginal_abatement_cost" title="Marginal abatement cost">Marginal abatement cost</a></li>
+<li><a href="/wiki/Green_paradox" title="Green paradox">Green paradox</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Pollution_haven_hypothesis" title="Pollution haven hypothesis">Pollution haven hypothesis</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Carbon related</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Carbon_neutral_fuel" class="mw-redirect" title="Carbon neutral fuel">Carbon neutral fuel</a></li>
+<li><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon neutrality</a></li>
+<li><a href="/wiki/Carbon_pricing" class="mw-redirect" title="Carbon pricing">Carbon pricing</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_emission_trading" title="Carbon emission trading">Carbon emission trading</a></li>
+<li><a href="/wiki/Personal_carbon_trading" title="Personal carbon trading">Personal carbon trading</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Carbon_finance" title="Carbon finance">Carbon finance</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Carbon_diet" title="Carbon diet">Carbon diet</a></li>
+<li><a href="/wiki/Food_miles" title="Food miles">Food miles</a></li>
+<li><a href="/wiki/2000-watt_society" title="2000-watt society">2000-watt society</a></li>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Green_economics_sidebar" title="Template:Green economics sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Green_economics_sidebar" title="Template talk:Green economics sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_economics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Environmental economics</b> is a sub-field of <a href="/wiki/Economics" title="Economics">economics</a> that is concerned with environmental issues. Quoting from the <a href="/wiki/National_Bureau_of_Economic_Research" title="National Bureau of Economic Research">National Bureau of Economic Research</a> Environmental Economics program:</p>
+<blockquote>
+<p>[...] Environmental Economics [...] undertakes theoretical or empirical studies of the economic effects of national or local environmental policies around the world [...]. Particular issues include the costs and benefits of alternative environmental policies to deal with air pollution, water quality, toxic substances, solid waste, and global warming.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+</blockquote>
+<p>Environmental economics is distinguished from <a href="/wiki/Ecological_economics" title="Ecological economics">ecological economics</a> in that ecological economics emphasizes the economy as a subsystem of the ecosystem with its focus upon preserving <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> One survey of German economists found that ecological and environmental economics are different <a href="/wiki/Schools_of_economic_thought" title="Schools of economic thought">schools of economic thought</a>, with ecological economists emphasizing "strong" <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> and rejecting the proposition that natural capital can be substituted by human-made capital.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Topics_and_concepts"><span class="tocnumber">1</span> <span class="toctext">Topics and concepts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Market_failure"><span class="tocnumber">1.1</span> <span class="toctext">Market failure</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Externality"><span class="tocnumber">1.2</span> <span class="toctext">Externality</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Common_goods_and_public_goods"><span class="tocnumber">1.3</span> <span class="toctext">Common goods and public goods</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Valuation"><span class="tocnumber">1.4</span> <span class="toctext">Valuation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Solutions"><span class="tocnumber">2</span> <span class="toctext">Solutions</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Relationship_to_other_fields"><span class="tocnumber">3</span> <span class="toctext">Relationship to other fields</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Professional_bodies"><span class="tocnumber">4</span> <span class="toctext">Professional bodies</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Hypotheses_and_theorems"><span class="tocnumber">5.1</span> <span class="toctext">Hypotheses and theorems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Topics_and_concepts">Topics and concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=1" title="Edit section: Topics and concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;background: none;"><a href="/wiki/Economics" title="Economics">Economics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;padding-left:0;padding-right:0;"><a href="/wiki/File:NAIRU-SR-and-LR.svg" class="image"><img alt="NAIRU-SR-and-LR.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/NAIRU-SR-and-LR.svg/150px-NAIRU-SR-and-LR.svg.png" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/NAIRU-SR-and-LR.svg/225px-NAIRU-SR-and-LR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/NAIRU-SR-and-LR.svg/300px-NAIRU-SR-and-LR.svg.png 2x" data-file-width="469" data-file-height="469" /></a>
+<div style="padding-top:0.2em;line-height:1.2em;font-size:90%;white-space:nowrap;padding-bottom:0.2em; background: none;"><a href="/wiki/Phillips_curve" title="Phillips curve">Phillips curve</a> graph, illustrating an<br />
+economic principle</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style="padding:0.3em 0.4em 0.3em;font-weight:bold;padding:0.15em 0.15em 0.25em; display:block; margin-bottom:0.55em; background-color: #efefef;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Index_of_economics_articles" title="Index of economics articles">Index</a></li>
+<li><a href="/wiki/Outline_of_economics" title="Outline of economics">Outline</a></li>
+<li><a href="/wiki/Category:Economics" title="Category:Economics">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em;background-color: #efefef;">
+<div class="hlist nowrap">
+<ul>
+<li>History</li>
+<li>Types</li>
+<li>Classification</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.15em 0.25em 0.5em;">
+<ul>
+<li><a href="/wiki/History_of_economic_thought" title="History of economic thought">History of economics</a></li>
+<li><a href="/wiki/Economic_history" title="Economic history">Economic history <span style="font-size:90%;">(academic study)</span></a></li>
+<li><a href="/wiki/Schools_of_economic_thought" title="Schools of economic thought">Schools of economics</a></li>
+</ul>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Microeconomics" title="Microeconomics">Microeconomics</a></li>
+<li><a href="/wiki/Macroeconomics" title="Macroeconomics">Macroeconomics</a></li>
+<li><a href="/wiki/Economic_methodology" title="Economic methodology">Methodology</a></li>
+<li><a href="/wiki/Heterodox_economics" title="Heterodox economics">Heterodox economics</a></li>
+<li><a href="/wiki/JEL_classification_codes" title="JEL classification codes">JEL classification codes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em;background-color: #efefef;">
+<div class="hlist nowrap">
+<ul>
+<li>Concepts</li>
+<li>Theory</li>
+<li>Techniques</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.15em 0.25em 0.5em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Econometrics" title="Econometrics">Econometrics</a></li>
+<li><a href="/wiki/Economic_growth" title="Economic growth">Economic growth</a></li>
+<li><a href="/wiki/Economic_system" title="Economic system">Economic system</a></li>
+<li><a href="/wiki/Experimental_economics" title="Experimental economics"><span class="wrap">Experimental economics</span></a></li>
+<li><a href="/wiki/Mathematical_economics" title="Mathematical economics">Mathematical economics</a></li>
+<li><a href="/wiki/Game_theory" title="Game theory"><span class="wrap">Game theory</span></a></li>
+<li><a href="/wiki/Post-scarcity_economy" title="Post-scarcity economy">Post-scarcity</a></li>
+<li><a href="/wiki/Market_(economics)" title="Market (economics)">Market</a></li>
+<li><a href="/wiki/National_accounts" title="National accounts">National accounting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em;background-color: #efefef;">By application</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.15em 0.25em 0.5em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Agricultural_economics" title="Agricultural economics">Agricultural</a></li>
+<li><a href="/wiki/Behavioral_economics" title="Behavioral economics">Behavioral</a></li>
+<li><a href="/wiki/Business_economics" title="Business economics">Business</a></li>
+<li><a href="/wiki/Computational_economics" title="Computational economics">Computational</a></li>
+<li><a href="/wiki/Cultural_economics" title="Cultural economics">Cultural</a></li>
+<li><a href="/wiki/Demographic_economics" title="Demographic economics">Demographic</a></li>
+<li><a href="/wiki/Development_economics" title="Development economics">Development</a></li>
+<li><a href="/wiki/Economics_of_digitization" title="Economics of digitization">Digitization</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological</a></li>
+<li><a href="/wiki/Education_economics" title="Education economics">Education</a></li>
+<li><strong class="selflink">Environmental</strong></li>
+<li><a href="/wiki/Evolutionary_economics" title="Evolutionary economics">Evolutionary</a></li>
+<li><a href="/wiki/Expeditionary_economics" title="Expeditionary economics">Expeditionary</a></li>
+<li><a href="/wiki/Economic_geography" title="Economic geography">Geography</a></li>
+<li><a href="/wiki/Health_economics" title="Health economics">Health</a></li>
+<li><a href="/wiki/Industrial_organization" title="Industrial organization">Industrial organization</a></li>
+<li><a href="/wiki/Information_economics" title="Information economics">Information</a></li>
+<li><a href="/wiki/International_economics" title="International economics">International</a></li>
+<li><a href="/wiki/Knowledge_economy" title="Knowledge economy">Knowledge</a></li>
+<li><a href="/wiki/Labour_economics" title="Labour economics">Labour</a></li>
+<li><a href="/wiki/Law_and_economics" title="Law and economics">Law</a></li>
+<li><a href="/wiki/Managerial_economics" title="Managerial economics">Managerial</a></li>
+<li><a href="/wiki/Monetary_economics" title="Monetary economics">Monetary</a>&#160;/ <a href="/wiki/Financial_economics" title="Financial economics">Financial</a></li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Natural resource</a></li>
+<li><a href="/wiki/Organizational_economics" title="Organizational economics">Organizational</a></li>
+<li><a href="/wiki/Personnel_economics" title="Personnel economics">Personnel</a></li>
+<li><a href="/wiki/Public_economics" title="Public economics">Public</a>&#160;/ <a href="/wiki/Welfare_economics" title="Welfare economics">Welfare economics</a></li>
+<li><a href="/wiki/Regional_science" title="Regional science">Regional</a></li>
+<li><a href="/wiki/Rural_economics" title="Rural economics">Rural</a></li>
+<li><a href="/wiki/Service_economy" title="Service economy">Service</a></li>
+<li><a href="/wiki/Urban_economics" title="Urban economics">Urban</a></li>
+<li><a href="/wiki/Welfare" title="Welfare">Welfare</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em;background-color: #efefef;"><a href="/wiki/Category:Economics_lists" title="Category:Economics lists">Lists</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.15em 0.25em 0.5em;">
+<ul>
+<li><a href="/wiki/List_of_economists" title="List of economists">Economists</a></li>
+<li><a href="/wiki/List_of_important_publications_in_economics" title="List of important publications in economics">Publications</a>&#160;(<a href="/wiki/List_of_economics_journals" title="List of economics journals">journals</a>)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style="padding:0.3em 0.4em 0.3em;font-weight:bold;background-color: #efefef;">
+<ul>
+<li><a href="/wiki/File:Emblem-money.svg" class="image"><img alt="Emblem-money.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/16px-Emblem-money.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/24px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/32px-Emblem-money.svg.png 2x" data-file-width="48" data-file-height="48" /></a> <a href="/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Business and economics portal</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Economics_sidebar" title="Template:Economics sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Economics_sidebar" title="Template talk:Economics sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Economics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Market_failure">Market failure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=2" title="Edit section: Market failure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Central to environmental economics is the concept of <a href="/wiki/Market_failure" title="Market failure">market failure</a>. Market failure means that markets fail to allocate resources efficiently. As stated by Hanley, Shogren, and White (2007) in their textbook <i>Environmental Economics</i>:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> "A market failure occurs when the market does not allocate scarce resources to generate the greatest social welfare. A wedge exists between what a private person does given market prices and what society might want him or her to do to protect the environment. Such a wedge implies wastefulness or economic inefficiency; resources can be reallocated to make at least one person better off without making anyone else worse off." Common forms of market failure include externalities, non-excludability and <a href="/wiki/Rivalry_(economics)" title="Rivalry (economics)">non-rivalry</a>.</p>
+<h3><span class="mw-headline" id="Externality">Externality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=3" title="Edit section: Externality">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An <a href="/wiki/Externality" title="Externality">externality</a> exists when a person makes a choice that affects other people in a way that is not accounted for in the market price. An externality can be positive or negative, but is usually associated with negative externalities in environmental economics. For instance, water seepage in residential buildings happen in upper floor affect the lower floor.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Or a firm emitting <a href="/wiki/Pollution" title="Pollution">pollution</a> will typically not take into account the costs that its pollution imposes on others. As a result, pollution may occur in excess of the 'socially efficient' level, which is the level that would exist if the market was required to account for the pollution. A classic definition influenced by <a href="/wiki/Kenneth_Arrow" title="Kenneth Arrow">Kenneth Arrow</a> and <a href="/wiki/James_Meade" title="James Meade">James Meade</a> is provided by Heller and Starrett (1976), who define an externality as “a situation in which the private economy lacks sufficient incentives to create a potential market in some good and the nonexistence of this market results in losses of <a href="/wiki/Pareto_efficiency" title="Pareto efficiency">Pareto efficiency</a>.”<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> In economic terminology, externalities are examples of <a href="/wiki/Market_failure" title="Market failure">market failures</a>, in which the unfettered market does not lead to an efficient outcome.</p>
+<h3><span class="mw-headline" id="Common_goods_and_public_goods">Common goods and public goods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=4" title="Edit section: Common goods and public goods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When it is too costly to exclude some people from access to an environmental resource, the resource is either called a <a href="/wiki/Common-pool_resource" title="Common-pool resource">common property resource</a> (when there is rivalry for the resource, such that one person's use of the resource reduces others' opportunity to use the resource) or a <a href="/wiki/Public_good" title="Public good">public good</a> (when use of the resource is <a href="/wiki/Rivalry_(economics)" title="Rivalry (economics)">non-rivalrous</a>). In either case of non-exclusion, market allocation is likely to be inefficient.</p>
+<p>These challenges have long been recognized. <a href="/wiki/Garrett_Hardin" title="Garrett Hardin">Hardin</a>'s (1968) concept of the <a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">tragedy of the commons</a> popularized the challenges involved in non-exclusion and common property. "Commons" refers to the environmental asset itself, "common property resource" or "common pool resource" refers to a property right regime that allows for some collective body to devise schemes to exclude others, thereby allowing the capture of future benefit streams; and "open-access" implies no ownership in the sense that property everyone owns nobody owns.<sup id="cite_ref-Ostrom.2C_E_1990_7-0" class="reference"><a href="#cite_note-Ostrom.2C_E_1990-7">[7]</a></sup></p>
+<p>The basic problem is that if people ignore the scarcity value of the commons, they can end up expending too much effort, <a href="/wiki/Over_harvesting" class="mw-redirect" title="Over harvesting">over harvesting</a> a resource (e.g., a fishery). Hardin theorizes that in the absence of restrictions, users of an open-access resource will use it more than if they had to pay for it and had exclusive rights, leading to <a href="/wiki/Environmental_degradation" title="Environmental degradation">environmental degradation</a>. See, however, <a href="/wiki/Elinor_Ostrom" title="Elinor Ostrom">Ostrom</a>'s (1990) work on how people using real common property resources have worked to establish self-governing rules to reduce the risk of the tragedy of the commons.<sup id="cite_ref-Ostrom.2C_E_1990_7-1" class="reference"><a href="#cite_note-Ostrom.2C_E_1990-7">[7]</a></sup></p>
+<p>The <a href="/wiki/Mitigation_of_climate_change" class="mw-redirect" title="Mitigation of climate change">mitigation of climate change</a> effects is an example of a public good, where the social benefits are not reflected completely in the market price. This is a public good since the risks of climate change are both non-rival and non-excludable. Such efforts are non-rival since climate mitigation provided to one does not reduce the level of mitigation that anyone else enjoys. They are non-excludable actions as they will have global consequences from which no one can be excluded. A country's incentive to invest in carbon abatement is reduced because it can "<a href="/wiki/Free_rider_problem" title="Free rider problem">free ride</a>" off the efforts of other countries. Over a century ago, Swedish economist Knut Wicksell (1896) first discussed how public goods can be under-provided by the market because people might conceal their preferences for the good, but still enjoy the benefits without paying for them.</p>
+<ul class="gallery mw-gallery-traditional" style="max-width: 732px;_width: 732px;">
+<li class='gallerycaption'>GLOBAL BIOGEOCHEMICAL CYCLES CRITICAL FOR LIFE</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Nitrogen_Cycle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nitrogen_Cycle.jpg/103px-Nitrogen_Cycle.jpg" width="103" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nitrogen_Cycle.jpg/154px-Nitrogen_Cycle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nitrogen_Cycle.jpg/206px-Nitrogen_Cycle.jpg 2x" data-file-width="475" data-file-height="370" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Nitrogen Cycle</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Water_cycle.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Water_cycle.png/117px-Water_cycle.png" width="117" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Water_cycle.png/175px-Water_cycle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Water_cycle.png/234px-Water_cycle.png 2x" data-file-width="860" data-file-height="589" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Water Cycle</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Carbon_cycle-cute_diagram.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Carbon_cycle-cute_diagram.svg/104px-Carbon_cycle-cute_diagram.svg.png" width="104" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Carbon_cycle-cute_diagram.svg/156px-Carbon_cycle-cute_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Carbon_cycle-cute_diagram.svg/207px-Carbon_cycle-cute_diagram.svg.png 2x" data-file-width="540" data-file-height="417" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Carbon Cycle</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Oxygen_Cycle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Oxygen_Cycle.jpg/107px-Oxygen_Cycle.jpg" width="107" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Oxygen_Cycle.jpg/160px-Oxygen_Cycle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Oxygen_Cycle.jpg/214px-Oxygen_Cycle.jpg 2x" data-file-width="732" data-file-height="548" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Oxygen Cycle</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Valuation">Valuation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=5" title="Edit section: Valuation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Assessing the economic value of the environment is a major topic within the field. Use and indirect use are tangible benefits accruing from <a href="/wiki/Natural_resource" title="Natural resource">natural resources</a> or <a href="/wiki/Ecosystem_services" title="Ecosystem services">ecosystem services</a> (see the <a href="/wiki/Ecological_economics#Nature" title="Ecological economics">nature section</a> of ecological economics). Non-use values include existence, option, and bequest values. For example, some people may value the existence of a diverse set of species, regardless of the effect of the loss of a species on ecosystem services. The existence of these species may have an option value, as there may be the possibility of using it for some human purpose (certain plants may be researched for drugs). Individuals may value the ability to leave a pristine environment to their children.</p>
+<p>Use and indirect use values can often be inferred from revealed behavior, such as the cost of taking <a href="/wiki/Travel_cost_analysis" title="Travel cost analysis">recreational trips</a> or using <a href="/wiki/Hedonic_model" class="mw-redirect" title="Hedonic model">hedonic methods</a> in which values are estimated based on observed prices. Non-use values are usually estimated using stated preference methods such as <a href="/wiki/Contingent_valuation" title="Contingent valuation">contingent valuation</a> or <a href="/wiki/Choice_modelling" title="Choice modelling">choice modelling</a>. Contingent valuation typically takes the form of surveys in which people are asked how much they would pay to observe and recreate in the environment (<a href="/wiki/Willingness_to_pay" title="Willingness to pay">willingness to pay</a>) or their willingness to accept (WTA) compensation for the destruction of the environmental good. <a href="/wiki/Hedonic_pricing" class="mw-redirect" title="Hedonic pricing">Hedonic pricing</a> examines the effect the environment has on economic decisions through housing prices, traveling expenses, and payments to visit parks.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Solutions">Solutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=6" title="Edit section: Solutions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Solutions advocated to correct such externalities include:</p>
+<ul>
+<li><i><a href="/wiki/United_States_Environmental_Protection_Agency#Related_legislation" title="United States Environmental Protection Agency">Environmental regulations</a></i>. Under this plan, the economic impact has to be estimated by the regulator. Usually this is done using <a href="/wiki/Cost-benefit_analysis" class="mw-redirect" title="Cost-benefit analysis">cost-benefit analysis</a>. There is a growing realization that regulations (also known as "command and control" instruments) are not so distinct from economic instruments as is commonly asserted by proponents of environmental economics. E.g.1 regulations are enforced by fines, which operate as a form of tax if pollution rises above the threshold prescribed. E.g.2 pollution must be monitored and laws enforced, whether under a pollution tax regime or a regulatory regime. The main difference an environmental economist would argue exists between the two methods, however, is the total cost of the regulation. "Command and control" regulation often applies uniform emissions limits on polluters, even though each firm has different costs for emissions reductions. Some firms, in this system, can abate inexpensively, while others can only abate at high cost. Because of this, the total abatement has some expensive and some inexpensive efforts to abate. Consequently, modern "Command and control" regulations are oftentimes designed in a way, which addresses these issues by incorporating utility parameters. For instance, CO2 emission standards for specific manufacturers in the automotive industry are either linked to the average vehicle footprint (US system) or average vehicle weight (EU system) of their entire vehicle fleet. Environmental economic regulations find the cheapest emission abatement efforts first, then the more expensive methods second. E.g. as said earlier, trading, in the quota system, means a firm only abates if doing so would cost less than paying someone else to make the same reduction. This leads to a lower cost for the total abatement effort as a whole.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2012)">citation needed</span></a></i>]</sup></li>
+<li><i><a href="/wiki/Quota_on_pollution" class="mw-redirect" title="Quota on pollution">Quotas on pollution</a></i>. Often it is advocated that pollution reductions should be achieved by way of <a href="/wiki/Tradeable_emissions_permits" class="mw-redirect" title="Tradeable emissions permits">tradeable emissions permits</a>, which if freely traded may ensure that reductions in pollution are achieved at least cost. In theory, if such tradeable quotas are allowed, then a firm would reduce its own pollution load only if doing so would cost less than paying someone else to make the same reduction. In practice, tradeable permits approaches have had some success, such as the U.S.'s sulphur dioxide trading program or the EU Emissions Trading Scheme, and interest in its application is spreading to other environmental problems.</li>
+<li><i><a href="/wiki/Tax,_tariff_and_trade" class="mw-redirect" title="Tax, tariff and trade">Taxes and tariffs on pollution</a></i>/<i>Removal of "<a href="/wiki/Dirty_subsidy" title="Dirty subsidy">dirty subsidies</a></i>." Increasing the costs of polluting will discourage polluting, and will provide a "dynamic incentive," that is, the disincentive continues to operate even as pollution levels fall. A pollution tax that reduces pollution to the socially "optimal" level would be set at such a level that pollution occurs only if the benefits to society (for example, in form of greater production) exceeds the costs. Some advocate a major shift from taxation from income and sales taxes to tax on pollution - the so-called "<a href="/wiki/Green_tax_shift" class="mw-redirect" title="Green tax shift">green tax shift</a>."</li>
+<li><i>Better defined <a href="/wiki/Property_rights" class="mw-redirect" title="Property rights">property rights</a></i>. The <a href="/wiki/Coase_Theorem" class="mw-redirect" title="Coase Theorem">Coase Theorem</a> states that assigning property rights will lead to an optimal solution, regardless of who receives them, if <a href="/wiki/Transaction_costs" class="mw-redirect" title="Transaction costs">transaction costs</a> are trivial and the number of parties negotiating is limited. For example, if people living near a factory had a right to clean air and water, or the factory had the right to pollute, then either the factory could pay those affected by the pollution or the people could pay the factory not to pollute. Or, citizens could take action themselves as they would if other property rights were violated. The <a href="/w/index.php?title=US_River_Keepers_Law&amp;action=edit&amp;redlink=1" class="new" title="US River Keepers Law (page does not exist)">US River Keepers Law</a> of the 1880s was an early example, giving citizens downstream the right to end pollution upstream themselves if government itself did not act (an early example of <a href="/wiki/Bioregional_democracy" class="mw-redirect" title="Bioregional democracy">bioregional democracy</a>). Many markets for "pollution rights" have been created in the late twentieth century—see <a href="/wiki/Emissions_trading" title="Emissions trading">emissions trading</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Relationship_to_other_fields">Relationship to other fields</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=7" title="Edit section: Relationship to other fields">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Environmental_economics&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(August 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>Environmental economics is related to <a href="/wiki/Ecological_economics" title="Ecological economics">ecological economics</a> but there are differences. Most environmental economists have been trained as economists. They apply the tools of economics to address environmental problems, many of which are related to so-called market failures—circumstances wherein the "<a href="/wiki/Invisible_hand" title="Invisible hand">invisible hand</a>" of economics is unreliable. Most ecological economists have been trained as ecologists, but have expanded the scope of their work to consider the impacts of humans and their economic activity on ecological systems and services, and vice versa. This field takes as its premise that economics is a strict subfield of <a href="/wiki/Ecology" title="Ecology">ecology</a>. Ecological economics is sometimes described as taking a more pluralistic approach to <a href="/wiki/Natural_environment" title="Natural environment">environmental</a> problems and focuses more explicitly on long-term environmental sustainability and issues of scale.</p>
+<p>Environmental economics is viewed as more pragmatic in a <a href="/wiki/Price_system" title="Price system">price system</a>; ecological economics as more idealistic in its attempts not to use <a href="/wiki/Money" title="Money">money</a> as a primary arbiter of decisions. These two groups of specialists sometimes have conflicting views which may be traced to the different philosophical underpinnings.</p>
+<p>Another context in which <a href="/wiki/Externality" title="Externality">externalities</a> apply is when <a href="/wiki/Globalization" title="Globalization">globalization</a> permits one player in a market who is unconcerned with <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a> to undercut prices of another who is - creating a <a href="/wiki/Race_to_the_bottom" title="Race to the bottom">race to the bottom</a> in regulations and conservation. This in turn may cause loss of <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a> with consequent erosion, water purity problems, diseases, desertification, and other outcomes which are not <a href="/wiki/Pareto_efficiency" title="Pareto efficiency">efficient</a> in an economic sense. This concern is related to the subfield of <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a> and its political relation, the <a href="/wiki/Anti-globalization_movement" title="Anti-globalization movement">anti-globalization movement</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;">
+<div class="noresize"><map name="ImageMap_1_1866008767" id="ImageMap_1_1866008767">
+<area href="/wiki/Environment_(biophysical)" shape="poly" coords="52,73,55,82,61,90,68,96,82,104,99,109,98,117,99,124,102,132,106,137,112,144,118,148,108,153,98,156,84,159,68,160,58,159,45,156,33,151,22,144,15,138,9,130,6,123,5,116,6,107,10,99,16,90,24,84,31,79,40,76" alt="Environment" title="Environment" />
+<area href="/wiki/Equity_(economics)" shape="poly" coords="121,82,125,85,129,88,132,91,135,94,137,99,139,103,141,108,150,105,156,102,164,99,170,94,175,90,179,86,183,80,186,72,181,71,174,70,159,70,149,72,141,73,132,76" alt="Equitable" title="Equitable" />
+<area href="/wiki/Sustainable_development" shape="poly" coords="120,83,124,86,126,88,130,91,134,97,137,101,139,108,134,108,129,109,120,109,114,109,106,109,100,108,102,103,104,98,108,93,111,90" alt="Sustainable" title="Sustainable" />
+<area href="/wiki/Social_ecology" shape="poly" coords="53,72,63,70,69,70,79,70,88,71,99,73,107,76,114,79,118,82,114,85,111,88,107,92,103,97,101,102,99,108,93,106,86,104,78,100,71,96,64,91,59,85,56,79" alt="Bearable (Social ecology)" title="Bearable (Social ecology)" />
+<area href="/wiki/Viable_(Environmental_economics)" shape="poly" coords="100,109,99,114,100,120,103,129,106,135,110,139,114,143,120,147,124,144,129,140,133,136,136,130,139,124,140,119,140,114,139,109,136,110,129,111,121,111,113,111,107,110" alt="Viable" title="Viable" />
+<area href="/wiki/Economics" shape="poly" coords="188,72,195,74,203,77,210,81,218,85,226,93,231,100,234,107,235,114,234,122,231,129,228,135,223,140,217,145,211,149,202,153,194,156,185,158,175,159,162,160,155,159,148,158,141,156,132,153,126,150,121,148,126,145,131,139,135,135,140,124,141,117,141,112,141,109,145,108,154,105,172,96,180,87" alt="Economic" title="Economic" />
+<area href="/wiki/Society" shape="poly" coords="53,70,52,65,54,55,57,47,63,40,72,33,81,28,91,24,105,21,116,20,132,20,142,22,156,27,168,33,173,37,178,42,183,48,186,55,187,61,187,66,187,71,177,69,169,69,154,69,138,73,126,77,120,81,114,78,105,74,96,72,86,69,75,69,75,68,75,69" alt="Social" title="Social" /></map><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/300px-Sustainable_development.svg.png" width="300" height="191" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/450px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/600px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" usemap="#ImageMap_1_1866008767" /></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sustainable_development.svg" class="internal" title="Enlarge"></a></div>
+The three pillars of sustainability (clickable)</div>
+</div>
+</div>
+<p>Environmental economics was once distinct from <a href="/wiki/Resource_economics" class="mw-redirect" title="Resource economics">resource economics</a>. Natural resource economics as a subfield began when the main concern of researchers was the optimal commercial exploitation of natural resource stocks. But resource managers and policy-makers eventually began to pay attention to the broader importance of natural resources (e.g. values of fish and trees beyond just their commercial exploitation;, externalities associated with mining). It is now difficult to distinguish "environmental" and "natural resource" economics as separate fields as the two became associated with <a href="/wiki/Sustainability" title="Sustainability">sustainability</a>. Many of the more radical <a href="/wiki/Green_economists" class="mw-redirect" title="Green economists">green economists</a> split off to work on an alternate <a href="/wiki/Political_economy" title="Political economy">political economy</a>.</p>
+<p>Environmental economics was a major influence for the theories of <a href="/wiki/Natural_capitalism" class="mw-redirect" title="Natural capitalism">natural capitalism</a> and <a href="/wiki/Environmental_finance" title="Environmental finance">environmental finance</a>, which could be said to be two sub-branches of environmental economics concerned with <a href="/w/index.php?title=Resource_conservation&amp;action=edit&amp;redlink=1" class="new" title="Resource conservation (page does not exist)">resource conservation</a> in production, and the <a href="/wiki/Value_of_biodiversity" class="mw-redirect" title="Value of biodiversity">value of biodiversity</a> to humans, respectively. The theory of <a href="/wiki/Natural_capitalism" class="mw-redirect" title="Natural capitalism">natural capitalism</a> (Hawken, Lovins, Lovins) goes further than traditional environmental economics by envisioning a world where natural services are considered on par with <a href="/wiki/Capital_(economics)" title="Capital (economics)">physical capital</a>.</p>
+<p>The more radical <a href="/wiki/Green_economists" class="mw-redirect" title="Green economists">Green economists</a> reject neoclassical economics in favour of a new <a href="/wiki/Political_economy" title="Political economy">political economy</a> beyond <a href="/wiki/Capitalism" title="Capitalism">capitalism</a> or <a href="/wiki/Communism" title="Communism">communism</a> that gives a greater emphasis to the interaction of the human economy and the natural environment, acknowledging that "economy is three-fifths of ecology" - Mike Nickerson.</p>
+<p>These more radical approaches would imply changes to <a href="/wiki/Money_supply" title="Money supply">money supply</a> and likely also a <a href="/wiki/Bioregional_democracy" class="mw-redirect" title="Bioregional democracy">bioregional democracy</a> so that political, economic, and ecological "environmental limits" were all aligned, and not subject to the <a href="/wiki/Arbitrage" title="Arbitrage">arbitrage</a> normally possible under <a href="/wiki/Capitalism" title="Capitalism">capitalism</a>.</p>
+<p>An emerging sub-field of environmental economics studies its intersection with <a href="/wiki/Development_economics" title="Development economics">development economics</a>. Dubbed "envirodevonomics" by Michael Greenstone and B. Kelsey Jack in their paper "Envirodevonomics: A Research Agenda for a Young Field,"<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> the sub-field is primarily interested in studying "why environmental quality [is] so poor in developing countries."<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> A strategy for better understanding this correlation between a country's GDP and its environmental quality involves analyzing how many of the central concepts of environmental economics, including market failures, externalities, and willingness to pay, may be complicated by the particular problems facing developing countries, such as political issues, lack of infrastructure, or inadequate financing tools, among many others.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Professional_bodies">Professional bodies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=8" title="Edit section: Professional bodies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The main academic and professional organizations for the discipline of Environmental Economics are the <a rel="nofollow" class="external text" href="http://www.aere.org">Association of Environmental and Resource Economists (AERE)</a> and the <a rel="nofollow" class="external text" href="http://www.eaere.org">European Association for Environmental and Resource Economics (EAERE)</a>. The main academic and professional organization for the discipline of Ecological Economics is the <a href="/wiki/International_Society_for_Ecological_Economics" title="International Society for Ecological Economics">International Society for Ecological Economics</a> (ISEE). The main organization for Green Economics is the <a rel="nofollow" class="external text" href="http://www.greeneconomics.org.uk">Green Economics Institute</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">ISO 14000</a> an eco standard.</li>
+<li><a href="/wiki/Agroecology" title="Agroecology">Agroecology</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Carbon_finance" title="Carbon finance">Carbon finance</a></li>
+<li><a href="/wiki/Carbon_negative_fuel" class="mw-redirect" title="Carbon negative fuel">Carbon negative fuel</a></li>
+<li><a href="/wiki/Climate_change_in_Washington" title="Climate change in Washington">Climate change in Washington</a></li>
+<li><a href="/wiki/Earth_Economics" title="Earth Economics">Earth Economics</a> (policy think tank)</li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Eco_commerce" title="Eco commerce">Eco commerce</a></li>
+<li><a href="/wiki/Ecometrics" title="Ecometrics">Ecometrics</a></li>
+<li><a href="/wiki/Eco-Money" class="mw-redirect" title="Eco-Money">Eco-Money</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Ecosystem_Marketplace" title="Ecosystem Marketplace">Ecosystem Marketplace</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_economics" title="Energy economics">Energy balance</a></li>
+<li><a href="/wiki/Environmental_accounting" title="Environmental accounting">Environmental accounting</a></li>
+<li><a href="/wiki/Environmental_credit_crunch" title="Environmental credit crunch">Environmental credit crunch</a></li>
+<li><a href="/wiki/Environmental_enterprise" title="Environmental enterprise">Environmental enterprise</a></li>
+<li><a href="/wiki/Environmental_finance" title="Environmental finance">Environmental finance</a></li>
+<li><a href="/wiki/Environmental_Investment_Organisation" title="Environmental Investment Organisation">Environmental Investment Organisation</a></li>
+<li><a href="/wiki/Environmental_pricing_reform" title="Environmental pricing reform">Environmental pricing reform</a></li>
+<li><a href="/wiki/Environmental_tariff" class="mw-redirect" title="Environmental tariff">Environmental tariff</a></li>
+<li><a href="/wiki/Fair_trade" title="Fair trade">Fair trade</a></li>
+<li><a href="/wiki/Fiscal_environmentalism" title="Fiscal environmentalism">Fiscal environmentalism</a></li>
+<li><a href="/wiki/Free-market_environmentalism" title="Free-market environmentalism">Free-market environmentalism</a></li>
+<li><a href="/wiki/Green_banking" class="mw-redirect" title="Green banking">Green banking</a></li>
+<li><a href="/wiki/Green_economy" title="Green economy">Green economy</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Green_syndicalism" title="Green syndicalism">Green syndicalism</a></li>
+<li><a href="/wiki/Green_trading" title="Green trading">Green trading</a></li>
+<li><i><a href="/wiki/Journal_of_Environmental_Economics_and_Management" title="Journal of Environmental Economics and Management">Journal of Environmental Economics and Management</a></i></li>
+<li><a href="/wiki/Natural_capital" title="Natural capital">Natural capital</a></li>
+<li><a href="/wiki/Natural_resource" title="Natural resource">Natural resource</a></li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Natural resource economics</a></li>
+<li><a href="/wiki/Principles_of_ecopreneurship" title="Principles of ecopreneurship">Principles of ecopreneurship</a></li>
+<li><a href="/wiki/Property_rights_(economics)" title="Property rights (economics)">Property rights (economics)</a></li>
+<li><a href="/wiki/Renewable_resource" title="Renewable resource">Renewable resource</a></li>
+<li><a href="/wiki/Risk_assessment" title="Risk assessment">Risk assessment</a></li>
+<li><a href="/wiki/Strategic_Sustainable_Investing" class="mw-redirect" title="Strategic Sustainable Investing">Strategic Sustainable Investing</a> (SSI)</li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/World_Ecological_Forum" title="World Ecological Forum">World Ecological Forum</a></li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Hypotheses_and_theorems">Hypotheses and theorems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=10" title="Edit section: Hypotheses and theorems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Coase_theorem" title="Coase theorem">Coase theorem</a></li>
+<li><a href="/wiki/Porter_hypothesis" title="Porter hypothesis">Porter hypothesis</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=11" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nber.org/workinggroups/ee/ee.html">"Environmental Economics"</a>. <i>NBER Working Group Descriptions</i>. National Bureau of Economic Research<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-07-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+economics&amp;rft.atitle=Environmental+Economics&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nber.org%2Fworkinggroups%2Fee%2Fee.html&amp;rft.jtitle=NBER+Working+Group+Descriptions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Jeroen C.J.M. van den Bergh (2001). "Ecological Economics: Themes, Approaches, and Differences with Environmental Economics," <i>Regional Environmental Change</i>, 2(1), pp. <a rel="nofollow" class="external text" href="http://www.ima.kth.se/utb/mj2694/pdf/Bergh.pdf">13-23</a> (press <b>+</b>).</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Illge L, Schwarze R. (2009). <a rel="nofollow" class="external text" href="https://www.researchgate.net/publication/23647971_A_Matter_of_Opinion_How_Ecological_and_Neoclassical_Environmental_Economists_Think_about_Sustainability_and_Economics">A Matter of Opinion: How Ecological and Neoclassical Environmental Economists Think about Sustainability and Economics</a> . Ecological Economics.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Hanley, N., J. Shogren, and B. White (2007). Environmental Economics in Theory and Practice, Palgrave, London.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Rita Yi Man Li (2012), The Internalisation Of Environmental Externalities Affecting Dwellings: A Review Of Court Cases In Hong Kong, Economic Affairs, Volume 32, Issue 2, pages 81–87</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Heller, Walter P. and David A. Starrett (1976), On the Nature of Externalities, in: Lin, Stephen A.Y. (ed.), Theory and Measurement of Economic Externalities, Academic Press, New York, p.10</span></li>
+<li id="cite_note-Ostrom.2C_E_1990-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ostrom.2C_E_1990_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ostrom.2C_E_1990_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ostrom, E. 1990. Governing the Commons. Cambridge: Cambridge University Press.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Harris J. (2006). <i>Environmental and Natural Resource Economics: A Contemporary Approach</i>. Houghton Mifflin Company.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Greenstone, Michael; Jack, B. Kelsey (September 2013). <a rel="nofollow" class="external text" href="http://www.nber.org/papers/w19426">"Envirodevonomics: A Research Agenda for a Young Field"</a>. <i>NBER</i> (19426)<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+economics&amp;rft.atitle=Envirodevonomics%3A+A+Research+Agenda+for+a+Young+Field&amp;rft.aufirst=Michael&amp;rft.au=Jack%2C+B.+Kelsey&amp;rft.aulast=Greenstone&amp;rft.date=2013-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nber.org%2Fpapers%2Fw19426&amp;rft.issue=19426&amp;rft.jtitle=NBER&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Greenstone, Michael; Jack, B. Kelsey (September 2013). <a rel="nofollow" class="external text" href="http://www.nber.org/papers/w19426">"Envirodevonomics: A Research Agenda for a Young Field"</a>. <i>NBER</i> (19426): 3<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+economics&amp;rft.atitle=Envirodevonomics%3A+A+Research+Agenda+for+a+Young+Field&amp;rft.aufirst=Michael&amp;rft.au=Jack%2C+B.+Kelsey&amp;rft.aulast=Greenstone&amp;rft.date=2013-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nber.org%2Fpapers%2Fw19426&amp;rft.issue=19426&amp;rft.jtitle=NBER&amp;rft.pages=3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://siteresources.worldbank.org/EXTSDNET/Resources/Inclusive_Green_Growth_May_2012.pdf"><i>Inclusive green growth the pathway to sustainable development.</i></a> <span style="font-size:85%;">(PDF)</span>. Washington, D.C.: World Bank. May 2012. pp.&#160;12–13. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8213-9552-3" title="Special:BookSources/978-0-8213-9552-3">978-0-8213-9552-3</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+economics&amp;rft.btitle=Inclusive+green+growth+the+pathway+to+sustainable+development.&amp;rft.date=2012-05&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fsiteresources.worldbank.org%2FEXTSDNET%2FResources%2FInclusive_Green_Growth_May_2012.pdf&amp;rft.isbn=978-0-8213-9552-3&amp;rft.pages=12-13&amp;rft.place=Washington%2C+D.C.&amp;rft.pub=World+Bank&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_economics&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Allen K. Kneese and Clifford S. Russell (1987). "environmental economics," <i><a href="/wiki/The_New_Palgrave:_A_Dictionary_of_Economics" class="mw-redirect" title="The New Palgrave: A Dictionary of Economics">The New Palgrave: A Dictionary of Economics</a></i>, v. 2, pp.&#160;159–64.</li>
+<li>Robert N. Stavins (2008). "environmental economics," <i><a href="/wiki/The_New_Palgrave_Dictionary_of_Economics" title="The New Palgrave Dictionary of Economics">The New Palgrave Dictionary of Economics</a></i>, 2nd Edition. <a rel="nofollow" class="external text" href="http://www.dictionaryofeconomics.com/sample_article">Abstract &amp; article.</a></li>
+<li>Maureen L. Cropper and <a href="/wiki/Wallace_E._Oates" title="Wallace E. Oates">Wallace E. Oates</a> (1992). "Environmental Economics: A Survey," <i>Journal of Economic Literature</i>, 30(2), pp. <a rel="nofollow" class="external text" href="http://econ-server.umd.edu/~cropper/publications/jc22.pdf">675-740</a>(press <b>+</b>).</li>
+<li>David Pearce (2002). "An Intellectual History Of Environmental Economics", <a rel="nofollow" class="external text" href="http://arjournals.annualreviews.org/loi/energy.2">Annual Review of Energy and the Environment</a> 2002, 27:57–81.</li>
+<li>Tausch, Arno, ‘Smart Development’. An Essay on a New Political Economy of the Environment (March 22, 2016). Available at SSRN: <a rel="nofollow" class="external free" href="https://ssrn.com/abstract=2752988">https://ssrn.com/abstract=2752988</a> or <a rel="nofollow" class="external free" href="http://dx.doi.org/10.2139/ssrn.2752988">http://dx.doi.org/10.2139/ssrn.2752988</a></li>
+<li>UNEP (2007). Guidelines for Conducting Economic Valuation of Coastal Ecosystem Goods and Services, <a rel="nofollow" class="external text" href="http://www.unepscs.org/SCS_Documents/Download/19_-_Technical_Publications_and_Guidelines/Technical_Publication_08_-_Guidelines_for_Conducting_Economic_Valuation_of_Coastal_Ecosystem_Goods_and_Services.html">UNEP/GEF/SCS Technical Publication No. 8.</a></li>
+<li>UNEP (2007). Procedure for Determination of National and Regional Economic Values for Ecotone Goods and Services, and Total Economic Values of Coastal Habitats in the context of the UNEP/GEF Project Entitled: “Reversing Environmental Degradation Trends in the South China Sea and Gulf of Thailand”, <a rel="nofollow" class="external text" href="http://www.unepscs.org/SCS_Documents/Download/14_-_South_China_Sea_Project_Knowledge_Documents/South_China_Sea_Knowledge_Document_on_the_Economic_Valuation_of_the_Goods_and_Services_of_Coastal_Habitats.html">South China Sea Knowledge Document No. 3. UNEP/GEF/SCS/Inf.3</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Environmental_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Environmental_science" title="Template:Environmental science"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Environmental_science" title="Template talk:Environmental science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Environmental_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Environmental_science" title="Environmental science">Environmental science</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Main fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">Atmospheric sciences</a></li>
+<li><a href="/wiki/Biogeochemistry" title="Biogeochemistry">Biogeochemistry</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">Environmental chemistry</a></li>
+<li><a href="/wiki/Earth_science" title="Earth science">Geosciences</a></li>
+<li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a></li>
+<li><a href="/wiki/Limnology" title="Limnology">Limnology</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Environmental_soil_science" title="Environmental soil science">Soil science</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:The_Earth_seen_from_Apollo_17.jpg" class="image"><img alt="The Earth seen from Apollo 17.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/100px-The_Earth_seen_from_Apollo_17.jpg" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/150px-The_Earth_seen_from_Apollo_17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/200px-The_Earth_seen_from_Apollo_17.jpg 2x" data-file-width="3000" data-file-height="3002" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related fields</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biology" title="Biology">Biology</a></li>
+<li><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a>
+<ul>
+<li><a href="/wiki/Green_chemistry" title="Green chemistry">green</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><strong class="selflink">Environmental economics</strong></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Environmental_health" title="Environmental health">Environmental health</a>
+<ul>
+<li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">Environmental studies</a></li>
+<li><a href="/wiki/Environmental_toxicology" title="Environmental toxicology">Environmental toxicology</a></li>
+<li><a href="/wiki/Geodesy" title="Geodesy">Geodesy</a></li>
+<li><a href="/wiki/Physics" title="Physics">Physics</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Sustainability science</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource management</a></li>
+<li><a href="/wiki/Pollution_control" class="mw-redirect" title="Pollution control">Pollution control</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+<li><a href="/wiki/Environmental_remediation" title="Environmental remediation">Remediation</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">Water purification</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Environmental_science" title="Category:Environmental science">Category</a>
+<ul>
+<li><a href="/wiki/Category:Environmental_scientists" title="Category:Environmental scientists">scientists</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Glossary_of_environmental_science" title="Glossary of environmental science">Glossary</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+<li><a href="/wiki/List_of_environmental_degree-granting_institutions" title="List of environmental degree-granting institutions">Institutions</a></li>
+<li><a href="/wiki/List_of_environmental_journals#Environmental_sciences" title="List of environmental journals">Journals</a></li>
+<li><a href="/wiki/List_of_environmental_research_institutes" title="List of environmental research institutes">Research institutes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Environmental_social_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Environmental_social_science" title="Template:Environmental social science"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Environmental_social_science" title="Template talk:Environmental social science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_social_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Environmental_social_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Environmental_social_science" title="Environmental social science">Environmental social science</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ecological_anthropology" title="Ecological anthropology">Ecological anthropology</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_anthropology" title="Environmental anthropology">Environmental anthropology</a></li>
+<li><strong class="selflink">Environmental economics</strong></li>
+<li><a href="/wiki/Environmental_communication" title="Environmental communication">Environmental communication</a></li>
+<li><a href="/wiki/Environmental_history" title="Environmental history">Environmental history</a></li>
+<li><a href="/wiki/Environmental_politics" title="Environmental politics">Environmental politics</a></li>
+<li><a href="/wiki/Environmental_psychology" title="Environmental psychology">Environmental psychology</a></li>
+<li><a href="/wiki/Environmental_sociology" title="Environmental sociology">Environmental sociology</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/Human_geography" title="Human geography">Human geography</a></li>
+<li><a href="/wiki/Political_ecology" title="Political ecology">Political ecology</a></li>
+<li><a href="/wiki/Regional_science" title="Regional science">Regional science</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/150px-Sustainable_development.svg.png" width="150" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/225px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/300px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agroecology" title="Agroecology">Agroecology</a></li>
+<li><a href="/wiki/Anthrozoology" title="Anthrozoology">Anthrozoology</a></li>
+<li><a href="/wiki/Behavioral_geography" title="Behavioral geography">Behavioral geography</a></li>
+<li><a href="/wiki/Community_studies" title="Community studies">Community studies</a></li>
+<li><a href="/wiki/Demography" title="Demography">Demography</a></li>
+<li>Design
+<ul>
+<li><a href="/wiki/Ecological_design" title="Ecological design">ecological</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">environmental</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li>Economics
+<ul>
+<li><a href="/wiki/Energy_economics" title="Energy economics">energy</a></li>
+<li><a href="/wiki/Thermoeconomics" title="Thermoeconomics">thermo</a></li>
+</ul>
+</li>
+<li>Environmental
+<ul>
+<li><a href="/wiki/Environmental_education" title="Environmental education">education</a></li>
+<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">ethics</a></li>
+<li><a href="/wiki/Environmental_law" title="Environmental law">law</a></li>
+<li><a href="/wiki/Environmental_science" title="Environmental science">science</a></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">studies</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ethnobiology" title="Ethnobiology">Ethnobiology</a>
+<ul>
+<li><a href="/wiki/Ethnobotany" title="Ethnobotany">botany</a></li>
+<li><a href="/wiki/Ethnoecology" title="Ethnoecology">ecology</a></li>
+<li><a href="/wiki/Ethnozoology" title="Ethnozoology">zoology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Forestry" title="Forestry">Forestry</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Integrated_geography" title="Integrated geography">Integrated geography</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Rural_sociology" title="Rural sociology">Rural sociology</a></li>
+<li><a href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science, technology and society</a>
+<ul>
+<li><a href="/wiki/Science_studies" title="Science studies">science studies</a></li>
+</ul>
+</li>
+<li>Sustainability
+<ul>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">studies</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li>Urban
+<ul>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">ecology</a></li>
+<li><a href="/wiki/Urban_geography" title="Urban geography">geography</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">metabolism</a></li>
+<li><a href="/wiki/Urban_studies" title="Urban studies">studies</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applied</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Architecture
+<ul>
+<li><a href="/wiki/Landscape_architecture" title="Landscape architecture">landscape</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">sustainable</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecopsychology" title="Ecopsychology">Ecopsychology</a></li>
+<li>Engineering
+<ul>
+<li><a href="/wiki/Ecological_engineering" title="Ecological engineering">ecological</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">environmental</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Green_criminology" title="Green criminology">Green criminology</a></li>
+<li>Health
+<ul>
+<li><a href="/wiki/Environmental_health" title="Environmental health">environmental</a></li>
+<li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li>
+<li><a href="/wiki/Occupational_safety_and_health" title="Occupational safety and health">occupational</a></li>
+<li><a href="/wiki/Public_health" title="Public health">public</a></li>
+</ul>
+</li>
+<li>Management
+<ul>
+<li><a href="/wiki/Environmental_resources_management" class="mw-redirect" title="Environmental resources management">environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">forest</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">natural resource</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">waste</a></li>
+</ul>
+</li>
+<li>Planning
+<ul>
+<li><a href="/wiki/Environmental_planning" title="Environmental planning">environmental</a></li>
+<li><a href="/wiki/Land-use_planning" title="Land-use planning">land use</a></li>
+<li><a href="/wiki/Regional_planning" title="Regional planning">regional</a></li>
+<li><a href="/wiki/Spatial_planning" title="Spatial planning">spatial</a></li>
+<li><a href="/wiki/Urban_planning" title="Urban planning">urban</a></li>
+</ul>
+</li>
+<li>Policy
+<ul>
+<li><a href="/wiki/Energy_policy" title="Energy policy">energy</a></li>
+<li><a href="/wiki/Environmental_policy" title="Environmental policy">environmental</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Environmental_social_science" title="Category:Environmental social science">Category</a></li>
+<li><a href="/wiki/Category:Environmental_social_science_concepts" title="Category:Environmental social science concepts">Concepts</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+<li><a href="/wiki/List_of_environmental_degree-granting_institutions" title="List of environmental degree-granting institutions">Institutions</a></li>
+<li><a href="/wiki/List_of_environmental_social_science_journals" title="List of environmental social science journals">Journals</a></li>
+<li><a href="/wiki/List_of_environment_research_institutes" class="mw-redirect" title="List of environment research institutes">Research institutes</a></li>
+<li><a href="/wiki/Category:Environmental_social_scientists" title="Category:Environmental social scientists">Scholars</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Sustainability" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Population" title="Population">Population</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a href="/wiki/Human_population_control" class="mw-redirect" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Food</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Water</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Water_crisis" class="mw-redirect" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" class="mw-redirect" title="Water footprint">Footprint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Accountability</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Education_for_Sustainable_Development" class="mw-redirect" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a href="/wiki/Sustainable_market" class="mw-redirect" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a href="/wiki/Sustainability_practices_in_organizations" class="mw-redirect" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a href="/wiki/Sustainable_urban_drainage_systems" class="mw-redirect" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Management</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Agreements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4061638-1">4061638-1</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00857646">00857646</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1227
+Cached time: 20170313194215
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.296 seconds
+Real time usage: 0.395 seconds
+Preprocessor visited node count: 1407/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 95719/2097152 bytes
+Template argument size: 953/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.105/10.000 seconds
+Lua memory usage: 4.28 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  282.338      1 -total
+ 15.84%   44.727      1 Template:Merge_from
+ 11.93%   33.681      1 Template:Cite_web
+ 11.66%   32.930      2 Template:Sidebar
+ 10.11%   28.535      1 Template:Economics_sidebar
+  9.95%   28.100      1 Template:Mbox
+  9.10%   25.686      1 Template:Distinguish
+  8.99%   25.374      3 Template:Navbox
+  7.22%   20.380      1 Template:Citation_needed
+  7.20%   20.337      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47763-0!*!0!!en!4!* and timestamp 20170313194223 and revision id 770159174
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Environmental_economics&amp;oldid=770159174">https://en.wikipedia.org/w/index.php?title=Environmental_economics&amp;oldid=770159174</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environmental_economics" title="Category:Environmental economics">Environmental economics</a></li><li><a href="/wiki/Category:Environmental_social_science" title="Category:Environmental social science">Environmental social science</a></li><li><a href="/wiki/Category:Industrial_ecology" title="Category:Industrial ecology">Industrial ecology</a></li><li><a href="/wiki/Category:Market_failure" title="Category:Market failure">Market failure</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_merged_from_December_2016" title="Category:Articles to be merged from December 2016">Articles to be merged from December 2016</a></li><li><a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">All articles to be merged</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2012" title="Category:Articles with unsourced statements from May 2012">Articles with unsourced statements from May 2012</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2012" title="Category:Articles needing additional references from August 2012">Articles needing additional references from August 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Environmental+economics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Environmental+economics" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Environmental_economics"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Environmental_economics"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Environmental_economics" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Environmental_economics&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Environmental_economics&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Environmental_economics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Environmental_economics" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Environmental_economics&amp;oldid=770159174" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Environmental_economics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q753291" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Environmental_economics&amp;id=770159174" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Environmental+economics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Environmental+economics&amp;returnto=Environmental+economics&amp;oldid=770159174&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Environmental_economics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Environmental_economics" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%A8%D9%8A%D8%A6%D9%8A" title="اقتصاد بيئي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BE%D0%BA%D0%BE%D0%BB%D0%BD%D0%B0%D1%82%D0%B0_%D1%81%D1%80%D0%B5%D0%B4%D0%B0" title="Икономика на околната среда – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Economia_ambiental" title="Economia ambiental – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Environment%C3%A1ln%C3%AD_ekonomie" title="Environmentální ekonomie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Milj%C3%B8%C3%B8konomi" title="Miljøøkonomi – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Umwelt%C3%B6konomik" title="Umweltökonomik – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CF%81%CE%B9%CE%B2%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CF%84%CE%B9%CE%BA%CE%AC_%CE%BF%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CE%AC" title="Περιβαλλοντικά οικονομικά – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Econom%C3%ADa_ambiental" title="Economía ambiental – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D9%85%D8%AD%DB%8C%D8%B7_%D8%B2%DB%8C%D8%B3%D8%AA" title="اقتصاد محیط زیست – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27environnement" title="Économie de l'environnement – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%99%98%EA%B2%BD%EA%B2%BD%EC%A0%9C%ED%95%99" title="환경경제학 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Economia_dell%27ambiente" title="Economia dell'ambiente – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9B%D7%9C%D7%9B%D7%9C%D7%94_%D7%A1%D7%91%D7%99%D7%91%D7%AA%D7%99%D7%AA" title="כלכלה סביבתית – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A6%D9%88%D9%85%D9%88%D9%99%D8%B1%DB%8C_%D9%85%D9%88%D8%AD%DB%8C%D8%B7_%D8%B2%D8%A6%D8%B4%D8%AA" title="ئوموٙری موحیط زئشت – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/K%C3%B6rnyezet-gazdas%C3%A1gtan" title="Környezet-gazdaságtan – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Milieueconomie" title="Milieueconomie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E7%B5%8C%E6%B8%88%E5%AD%A6" title="環境経済学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Milj%C3%B8%C3%B8konomi" title="Miljøøkonomi – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Economia_ambiental" title="Economia ambiental – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B5%D0%B9_%D1%81%D1%80%D0%B5%D0%B4%D1%8B" title="Экономика окружающей среды – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Environmental_economics" title="Environmental economics – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ymp%C3%A4rist%C3%B6taloustiede" title="Ympäristötaloustiede – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Milj%C3%B6ekonomi" title="Miljöekonomi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%82%E0%AE%B4%E0%AE%B1%E0%AF%8D_%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" title="சூழற் பொருளியல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%95%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BE%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Економіка природокористування – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Kinh_t%E1%BA%BF_h%E1%BB%8Dc_m%C3%B4i_tr%C6%B0%E1%BB%9Dng" title="Kinh tế học môi trường – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%8E%AF%E5%A2%83%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="环境经济学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q753291#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 March 2017, at 19:42.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Environmental_economics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.395","ppvisitednodes":{"value":1407,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":95719,"limit":2097152},"templateargumentsize":{"value":953,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  282.338      1 -total"," 15.84%   44.727      1 Template:Merge_from"," 11.93%   33.681      1 Template:Cite_web"," 11.66%   32.930      2 Template:Sidebar"," 10.11%   28.535      1 Template:Economics_sidebar","  9.95%   28.100      1 Template:Mbox","  9.10%   25.686      1 Template:Distinguish","  8.99%   25.374      3 Template:Navbox","  7.22%   20.380      1 Template:Citation_needed","  7.20%   20.337      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.105","limit":"10.000"},"limitreport-memusage":{"value":4491433,"limit":52428800}},"cachereport":{"origin":"mw1227","timestamp":"20170313194215","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1265"});});</script>
+	</body>
+</html>

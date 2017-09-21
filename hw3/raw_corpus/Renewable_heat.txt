@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Renewable heat - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Renewable_heat","wgTitle":"Renewable heat","wgCurRevisionId":763410096,"wgRevisionId":763410096,"wgArticleId":4432542,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from January 2016","Wikipedia articles needing clarification from February 2009","Articles with unsourced statements from July 2008","Energy economics","Energy conservation","Heating","Low-energy building","Residential heating","Renewable energy technology","Sustainable technologies","Sustainable building","Sustainable architecture"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Renewable_heat","wgRelevantArticleId":4432542,"wgRequestId":"WMjE2wpAAEAAAPKWgdwAAAAR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7313122","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/20/Hot_Spring.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Renewable_heat"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Renewable_heat&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Renewable_heat&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Renewable_heat"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Renewable_heat rootpage-Renewable_heat skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Renewable heat</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Renewable heat</b> is an application of <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> and it refers to the renewable generation of heat, rather than electrical power (e.g. replacing a fossil fuel boiler using <a href="/wiki/Concentrating_solar_thermal" class="mw-redirect" title="Concentrating solar thermal">concentrating solar thermal</a> to feed radiators). Renewable heat technologies include renewable biofuels, solar heating, geothermal heating, heat pumps and heat exchangers to recover lost heat. Significant attention is also applied to insulation.</p>
+<p>Many colder countries consume more energy for heating than electrical power. For example, in 2005 the United Kingdom consumed 354&#160;TWh<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> of electric power, but had a heat requirement of 907&#160;TWh, the majority of which (81%) was met using gas. The residential sector alone consumed a massive 550&#160;TWh of energy for heating, mainly in the form of gas. Almost half of the final energy consumed in the UK (49%) was in the form of heat, of which 70% was used by households and in commercial and public buildings. Households used heat mainly for space heating (69%) and heating water.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>The relative competitiveness of renewable electricity and renewable heat depends on a nation's approach to energy and environment policy. Few renewable technologies (whether for heat, electricity or transport) are competitive with fossil fuels without some form of carbon valuation or subsidy. In those countries, such as Sweden, Denmark and Finland, where government intervention has been closest to a technology-neutral form of carbon valuation (i.e. carbon and energy taxes), renewable heat has played the leading role in a very substantial renewable contribution to final energy consumption. In those countries, such as Germany, Spain, the USA, and the UK, where government intervention has been set at different levels for different technologies, uses and scales, the contributions of renewable heat and renewable electricity technologies have depended on the relative levels of support, and have resulted generally in a lower renewable contribution to final energy consumption.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Leading_renewable_heat_technologies"><span class="tocnumber">1</span> <span class="toctext">Leading renewable heat technologies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Solar_heating"><span class="tocnumber">1.1</span> <span class="toctext">Solar heating</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Geothermal_heating"><span class="tocnumber">1.2</span> <span class="toctext">Geothermal heating</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Heat_pumps"><span class="tocnumber">1.3</span> <span class="toctext">Heat pumps</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Interseasonal_heat_transfer"><span class="tocnumber">1.3.1</span> <span class="toctext">Interseasonal heat transfer</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#CoP_and_lift"><span class="tocnumber">1.3.2</span> <span class="toctext">CoP and lift</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Resistive_electrical_heating"><span class="tocnumber">1.4</span> <span class="toctext">Resistive electrical heating</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Wood-pellet_heating"><span class="tocnumber">1.5</span> <span class="toctext">Wood-pellet heating</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Wood-stove_heating"><span class="tocnumber">1.6</span> <span class="toctext">Wood-stove heating</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Renewable_natural_gas"><span class="tocnumber">1.7</span> <span class="toctext">Renewable natural gas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Energy_efficiency"><span class="tocnumber">2</span> <span class="toctext">Energy efficiency</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Insulation"><span class="tocnumber">2.1</span> <span class="toctext">Insulation</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Underfloor_heating"><span class="tocnumber">2.2</span> <span class="toctext">Underfloor heating</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Waste-water_heat_recovery"><span class="tocnumber">2.3</span> <span class="toctext">Waste-water heat recovery</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Leading_renewable_heat_technologies">Leading renewable heat technologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=1" title="Edit section: Leading renewable heat technologies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Solar_heating">Solar heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=2" title="Edit section: Solar heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Solar_heating" class="mw-redirect" title="Solar heating">Solar heating</a> is a style of building construction which uses the energy of summer or winter sunshine to provide an economic supply of primary or supplementary heat to a structure. The heat can be used for both <a href="/wiki/Space_heating" class="mw-redirect" title="Space heating">space heating</a> (see <a href="/wiki/Solar_air_heat" title="Solar air heat">solar air heat</a>) and <a href="/wiki/Water_heating" title="Water heating">water heating</a> (see <a href="/wiki/Solar_hot_water" class="mw-redirect" title="Solar hot water">solar hot water</a>). Solar heating design is divided into two groups:</p>
+<ul>
+<li><a href="/wiki/Passive_solar" class="mw-redirect" title="Passive solar">Passive solar</a> heating relies on the design and structure of the house to collect heat. <a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a> must also consider the storage and distribution of heat, which may be accomplished passively, or use air ducting to draw heat actively to the foundation of the building for storage. One such design was measured lifting the temperature of a house to 24&#160;°C (75&#160;°F) on a partially sunny winter day (-7&#160;°C or 19&#160;°F), and it is claimed that the system provides passively for the bulk of the building's heating.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The 4,000-square-foot (370&#160;m<sup>2</sup>) home cost $125 per square foot (or 370&#160;m<sup>2</sup> at $1,351/m<sup>2</sup>), similar to the cost of a traditional new home.</li>
+<li><a href="/wiki/Active_solar" title="Active solar">Active solar</a> heating uses <a href="/wiki/Pump" title="Pump">pumps</a> to move air or a liquid from the <a href="/wiki/Solar_thermal_collector" title="Solar thermal collector">solar collector</a> into the building or storage area. Applications such as <a href="/wiki/Solar_air_heat" title="Solar air heat">solar air heating</a> and <a href="/wiki/Solar_water_heating" title="Solar water heating">solar water heating</a> typically capture solar heat in panels which can then be used for applications such as space heating and supplementation of residential water heaters. In contrast to <a href="/wiki/Photovoltaic_panels" class="mw-redirect" title="Photovoltaic panels">photovoltaic panels</a>, which are used to generate electricity, solar heating panels are less expensive and capture a much higher proportion of the sun's energy.</li>
+</ul>
+<p>Solar heating systems usually require a small supplementary backup heating system, either conventional or renewable.</p>
+<h3><span class="mw-headline" id="Geothermal_heating">Geothermal heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=3" title="Edit section: Geothermal heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:197px;"><a href="/wiki/File:Hot_Spring.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/2/20/Hot_Spring.jpg" width="195" height="153" class="thumbimage" data-file-width="195" data-file-height="153" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hot_Spring.jpg" class="internal" title="Enlarge"></a></div>
+Hot Springs located in Nevada.</div>
+</div>
+</div>
+<p><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal energy</a> is accessed by drilling water or steam wells in a process similar to drilling for oil. Geothermal energy is an enormous, underused heat and power resource that is clean (emits little or no greenhouse gases), reliable (average system availability of 95%), and homegrown (making populations less dependent on oil).<sup id="cite_ref-EERE1_4-0" class="reference"><a href="#cite_note-EERE1-4">[4]</a></sup></p>
+<p>The earth absorbs the sun's energy and stores it as heat in the oceans and underground. The ground temperature remains constant at a point of 42 to 100&#160;°F (6 to 38&#160;°C) all year round depending on where you live on earth. A geothermal heating system takes advantage of the consistent temperature found below the Earth's surface and uses it to heat and cool buildings. The system is made up of a series of pipes installed underground, connected to pipes in a building. A pump circulates liquid through the circuit. In the winter the fluid in the pipe absorbs the heat of the earth and uses it to heat the building. In the summer the fluid absorbs heat from the building and disposes of it in the earth.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Heat_pumps">Heat pumps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=4" title="Edit section: Heat pumps">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Heat_pump" title="Heat pump">Heat pumps</a> use work to move heat from one place to another, and can be used for both heating and air conditioning. Though capital intensive, heat pumps are economical to run and can be powered by renewable electricity. Two common types of heat pump are <a href="/wiki/Air-source_heat_pump" class="mw-redirect" title="Air-source heat pump">air-source heat pumps</a> (ASHP) and <a href="/wiki/Ground-source_heat_pump" class="mw-redirect" title="Ground-source heat pump">ground-source heat pumps</a> (GSHP), depending on whether heat is transferred from the air or from the ground. Air source heat pumps are not effective when the outside air temperature is lower than about -15&#160;°C, while ground-source heat pumps are not affected. The efficiency of a heat pump is measured by the <a href="/wiki/Coefficient_of_performance" title="Coefficient of performance">coefficient of performance</a> (CoP): For every unit of electricity used to pump the heat, an air source heat pump generates 2.5 to 3 units of heat (i.e. it has a CoP of 2.5 to 3), whereas a GSHP generates 3 to 3.5 units of heat. Based on current fuel prices for the United Kingdom, assuming a CoP of 3-4, a GSHP is sometimes a cheaper form of space heating than electric, oil, and solid fuel heating.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Heat pumps can be linked to an inter<a href="/wiki/Seasonal_thermal_energy_storage" title="Seasonal thermal energy storage">seasonal thermal energy storage</a> (hot or cold), doubling the CoP from 4 to 8 by extracting heat from warmer ground.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h4><span class="mw-headline" id="Interseasonal_heat_transfer">Interseasonal heat transfer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=5" title="Edit section: Interseasonal heat transfer">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Seasonal_thermal_energy_storage" title="Seasonal thermal energy storage">Seasonal thermal energy storage</a></div>
+<p>A heat pump with Interseasonal Heat Transfer combines active solar collection to store surplus summer heat in thermal banks<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> with ground-source heat pumps to extract it for space heating in winter. This reduces the "Lift" needed and doubles the CoP of the heat pump because the pump starts with warmth from the thermal bank in place of cold from the ground.</p>
+<h4><span class="mw-headline" id="CoP_and_lift">CoP and lift</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=6" title="Edit section: CoP and lift">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A heat pump CoP increases as the temperature difference, or "Lift", decreases between heat source and destination. The CoP can be maximized at design time by choosing a heating system requiring only a low final water temperature (e.g., underfloor heating), and by choosing a heat source with a high average temperature (e.g., the ground). Domestic hot water (DHW) and conventional radiators require high water temperatures, affecting the choice of heat pump technology. Low temperature radiators provide an alternative to conventional radiators.</p>
+<table class="wikitable">
+<tr style="font-weight:bold; text-align:center;">
+<th style="width:160px;" rowspan="2">Pump type and source</th>
+<th style="width:110px;" rowspan="2">Typical use case</th>
+<th colspan="6">Heat Pump CoP variation with Output Temperature</th>
+</tr>
+<tr style="font-weight:bold; text-align:center;">
+<th>35&#160;°C<br />
+(e.g. heated screed floor)</th>
+<th>45&#160;°C<br />
+(e.g. low temp. radiator or heated screed floor)</th>
+<th>55&#160;°C<br />
+(e.g. low temp. radiator or heated timber floor)</th>
+<th>65&#160;°C<br />
+(e.g. std. radiator or DHW)</th>
+<th>75&#160;°C<br />
+(e.g. std. radiator &amp; DHW)</th>
+<th>85&#160;°C<br />
+(e.g. std. radiator &amp; DHW)</th>
+</tr>
+<tr>
+<td style="height:15px; vertical-align:top;">High Efficiency ASHP air at -20&#160;°C<sup id="cite_ref-CREN_9-0" class="reference"><a href="#cite_note-CREN-9">[9]</a></sup></td>
+<td style="vertical-align:top;">&#160;</td>
+<td style="text-align:center;">2.2</td>
+<td style="text-align:center;">2.0</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+</tr>
+<tr>
+<td style="height:30px;">Two Stage ASHP air at -20&#160;°C<sup id="cite_ref-TIPC_10-0" class="reference"><a href="#cite_note-TIPC-10">[10]</a></sup></td>
+<td>Low source temp.</td>
+<td style="text-align:center; text-decoration:underline; color:#f00;">2.4</td>
+<td style="text-align:center;">2.2</td>
+<td style="text-align:center;">1.9</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+</tr>
+<tr>
+<td style="height:15px;">High Efficiency ASHP air at 0&#160;°C<sup id="cite_ref-CREN_9-1" class="reference"><a href="#cite_note-CREN-9">[9]</a></sup></td>
+<td>Low output temp.</td>
+<td style="text-align:center; text-decoration:underline; color:#f00;">3.8</td>
+<td style="text-align:center;">2.8</td>
+<td style="text-align:center;">2.2</td>
+<td style="text-align:center;">2.0</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+</tr>
+<tr>
+<td style="height:45px;">Prototype Transcritical <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span> (R744) Heat Pump with Tripartite Gas Cooler, source at 0&#160;°C<sup id="cite_ref-STEEN_11-0" class="reference"><a href="#cite_note-STEEN-11">[11]</a></sup></td>
+<td>High output temp.</td>
+<td style="text-align:center;">3.3</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center; text-decoration:underline; color:#f00;">4.2</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">3.0</td>
+</tr>
+<tr>
+<td style="height:15px;">GSHP water at 0&#160;°C<sup id="cite_ref-CREN_9-2" class="reference"><a href="#cite_note-CREN-9">[9]</a></sup></td>
+<td>&#160;</td>
+<td style="text-align:center;">5.0</td>
+<td style="text-align:center;">3.7</td>
+<td style="text-align:center;">2.9</td>
+<td style="text-align:center;">2.4</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+</tr>
+<tr>
+<td style="height:30px;">GSHP ground at 10&#160;°C<sup id="cite_ref-CREN_9-3" class="reference"><a href="#cite_note-CREN-9">[9]</a></sup></td>
+<td>Low output temp.</td>
+<td style="text-align:center; text-decoration:underline; color:#f00;">7.2</td>
+<td style="text-align:center;">5.0</td>
+<td style="text-align:center;">3.7</td>
+<td style="text-align:center;">2.9</td>
+<td style="text-align:center;">2.4</td>
+<td style="text-align:center;">-</td>
+</tr>
+<tr>
+<td style="height:15px;">Theoretical <a href="/wiki/Carnot_cycle" title="Carnot cycle">Carnot cycle</a> limit, source -20&#160;°C</td>
+<td>&#160;</td>
+<td style="text-align:center;">5.6</td>
+<td style="text-align:center;">4.9</td>
+<td style="text-align:center;">4.4</td>
+<td style="text-align:center;">4.0</td>
+<td style="text-align:center;">3.7</td>
+<td style="text-align:center;">3.4</td>
+</tr>
+<tr>
+<td style="height:15px;">Theoretical Carnot cycle limit, source 0&#160;°C</td>
+<td>&#160;</td>
+<td style="text-align:center;">8.8</td>
+<td style="text-align:center;">7.1</td>
+<td style="text-align:center;">6.0</td>
+<td style="text-align:center;">5.2</td>
+<td style="text-align:center;">4.6</td>
+<td style="text-align:center;">4.2</td>
+</tr>
+<tr>
+<td style="height:30px;">Theoretical Lorentz Cycle limit (<span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span> pump), return fluid 25&#160;°C, source 0&#160;°C<sup id="cite_ref-STEEN_11-1" class="reference"><a href="#cite_note-STEEN-11">[11]</a></sup></td>
+<td>&#160;</td>
+<td style="text-align:center;">10.1</td>
+<td style="text-align:center;">8.8</td>
+<td style="text-align:center;">7.9</td>
+<td style="text-align:center;">7.1</td>
+<td style="text-align:center;">6.5</td>
+<td style="text-align:center;">6.1</td>
+</tr>
+<tr>
+<td style="height:15px;">Theoretical Carnot cycle limit, source 10&#160;°C</td>
+<td>&#160;</td>
+<td style="text-align:center;">12.3</td>
+<td style="text-align:center;">9.1</td>
+<td style="text-align:center;">7.3</td>
+<td style="text-align:center;">6.1</td>
+<td style="text-align:center;">5.4</td>
+<td style="text-align:center;">4.8</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Resistive_electrical_heating">Resistive electrical heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=7" title="Edit section: Resistive electrical heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Renewable electricity can be generated by hydropower, solar, wind, geothermal and by burning biomass. In a few countries where renewable electricity is inexpensive, <a href="/wiki/Electric_heating" title="Electric heating">resistance heating</a> is common. In countries like Denmark where electricity is expensive, it is not permitted to install electric heating as the main heat source.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Wind turbines have more output at night when there is a small demand for electricity, <a href="/wiki/Storage_heater" title="Storage heater">storage heaters</a> consume this lower cost electricity at night and give off heat during the day.</p>
+<h3><span class="mw-headline" id="Wood-pellet_heating">Wood-pellet heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=8" title="Edit section: Wood-pellet heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lincoln_stove.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lincoln_stove.jpg/220px-Lincoln_stove.jpg" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lincoln_stove.jpg/330px-Lincoln_stove.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lincoln_stove.jpg/440px-Lincoln_stove.jpg 2x" data-file-width="2912" data-file-height="4368" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lincoln_stove.jpg" class="internal" title="Enlarge"></a></div>
+Wood Stove.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pellets_hand.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pellets_hand.jpg/220px-Pellets_hand.jpg" width="220" height="207" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/0/0c/Pellets_hand.jpg 1.5x" data-file-width="297" data-file-height="279" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pellets_hand.jpg" class="internal" title="Enlarge"></a></div>
+Wood Pellets.</div>
+</div>
+</div>
+<p><a href="/wiki/Wood-pellet_heating" class="mw-redirect" title="Wood-pellet heating">Wood-pellet heating</a> and other types of wood heating systems have achieved their greatest success in heating premises that are off the gas grid, typically being previously heated using heating oil or coal. Solid wood fuel requires a large amount of dedicated storage space, and the specialized heating systems can be expensive (though grant schemes are available in many European countries to offset this capital cost.) Low fuel costs mean that wood fuelled heating in Europe is frequently able to achieve a payback period of less than 3 to 5 years. Because of the large fuel storage requirement wood fuel can be less attractive in urban residential scenarios, or for premises connected to the gas grid (though rising gas prices and uncertainty of supply mean that wood fuel is becoming more competitive.) There is also growing concern over the air pollution from wood heating versus oil or gas heat, especially the fine particulates.</p>
+<h3><span class="mw-headline" id="Wood-stove_heating">Wood-stove heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=9" title="Edit section: Wood-stove heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Burning <a href="/wiki/Wood_fuel" title="Wood fuel">wood fuel</a> in an open fire is both extremely inefficient (0-20%) and polluting due to low temperature partial combustion. In the same way that a drafty building loses heat through loss of warm air through poor sealing, an open fire is responsible for large heat losses by drawing very large volumes of warm air out of the building.</p>
+<p>Modern wood <a href="/wiki/Stove" title="Stove">stove</a> designs allow for more efficient combustion and then heat extraction. In the United States, new wood stoves are certified by the <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">U.S. Environmental Protection Agency</a> (EPA) and burn cleaner and more efficiently (the overall efficiency is 60-80%)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> and draw smaller volumes of warm air from the building.</p>
+<p>"Cleaner" should not, however, be confused with clean. An Australian study of real-life emissions from woodheaters satisfying the current Australian standard,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> found that particle emissions averaged 9.4&#160;g/kg wood burned (range 2.6 to 21.7). A heater with average wood consumption of 4 tonnes per year therefore emits 37.6&#160;kg of PM2.5, i.e. particles less than 2.5 <a href="/wiki/Micrometre" title="Micrometre">micrometers</a>. This can be compared with a passenger car satisfying the current <a href="/wiki/European_emission_standards" title="European emission standards">Euro 5 standards</a> (introduced September 2009) of 0.005&#160;g/km. So one new wood heater emits as much PM2.5 per year as 367 passenger cars each driving 20,000&#160;km a year. A recent European study<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> identified PM2.5 as the most health-hazardous air pollutant, causing an estimated 492,000 premature deaths. The next worst pollutant, ozone, is responsible for 21,000 premature deaths.</p>
+<p>Because of the problems with pollution, the Australian Lung Foundation recommends using alternative means for climate control.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> The American Lung Association "strongly recommends using cleaner, less toxic sources of heat. Converting a wood-burning fireplace or stove to use either natural gas or propane will eliminate exposure to the dangerous toxins wood burning generates including dioxin, arsenic and formaldehyde.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<p>"Renewable" should not be confused with "greenhouse neutral". A recent peer-reviewed paper found that, even if burning firewood from a sustainable supply, methane emissions from a typical Australian wood heater satisfying the current standard cause more global warming than heating the same house with gas. However, because a large proportion of firewood sold in the Australia is not from sustainable supplies, Australian households that use wood heating often cause more global warming than heating 3 similar homes with gas.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>High efficiency stoves should meet the following design criteria:</p>
+<ul>
+<li>Well sealed and precisely calibrated to draw a low yet sufficient volume of air. Air-flow restriction is critical; a lower inflow of cold air cools the furnace less (a higher temperature is thus achieved). It also allows greater time for extraction of heat from the exhaust gas, and draws less heat from the building.</li>
+<li>The furnace must be well insulated to increase combustion temperature, and thus completeness.</li>
+<li>A well insulated furnace radiates little heat. Thus heat must be extracted instead from the exhaust gas duct. Heat absorption efficiencies are higher when the heat-exchange duct is longer, and when the flow of exhaust gas is slower.</li>
+<li>In many designs, the heat-exchange duct is built of a very large mass of heat-absorbing brick or stone. This design causes the absorbed heat to be emitted over a longer period - typically a day.</li>
+</ul>
+<h3><span class="mw-headline" id="Renewable_natural_gas">Renewable natural gas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=10" title="Edit section: Renewable natural gas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Renewable_natural_gas" title="Renewable natural gas">Renewable natural gas</a> is defined as gas obtained from <a href="/wiki/Biomass" title="Biomass">biomass</a> which is upgraded to a quality similar to <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2016)">citation needed</span></a></i>]</sup> By upgrading the quality to that of natural gas, it becomes possible to distribute the gas to customers via the existing gas grid.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> According to the Energy research Centre of the Netherlands, renewable natural gas is 'cheaper than alternatives where biomass is used in a combined heat and power plant or local combustion plant'.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Energy unit costs are lowered through 'favourable scale and operating hours', and end-user capital costs eliminated through distribution via the existing gas grid.</p>
+<h2><span class="mw-headline" id="Energy_efficiency">Energy efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=11" title="Edit section: Energy efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Renewable heat goes hand in hand with energy efficiency. Indeed, renewable heating projects depend heavily for their success on energy efficiency; in the case of solar heating to cut reliance on the requirement supplementary heating, in the case of wood fuel heating to cut the cost of wood purchased and volume stored, and in the case of heat pumps to reduce the size and investment in heat pump, heat sink and electricity costs.</p>
+<p>Two main types of improvement can be made to a building's energy efficiency:</p>
+<h3><span class="mw-headline" id="Insulation">Insulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=12" title="Edit section: Insulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Improvements to insulation can cut energy consumption greatly, making a space cheaper to heat and to cool. However existing housing can often be difficult or expensive to improve. Newer buildings can benefit from many of the techniques of <a href="/wiki/Superinsulation" title="Superinsulation">superinsulation</a>. Older buildings can benefit from several kinds of improvement:</p>
+<ul>
+<li><b>Solid wall insulation</b>: A building with solid walls can benefit from internal or external insulation. External wall insulation involves adding decorative weather-proof insulating panels or other treatment to the outside of the wall. Alternatively, internal wall insulation can be applied using ready-made insulation/plaster board laminates, or other methods. Thicknesses of internal or external insulation typically range between 50 and 100&#160;mm.</li>
+<li><b>Cavity wall insulation</b>: A building with cavity walls can benefit from insulation pumped into the cavity. This form of insulation is very cost effective<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (February 2009)">clarification needed</span></a></i>]</sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2008)">citation needed</span></a></i>]</sup>.</li>
+<li><b><a href="/wiki/Programmable_thermostat" title="Programmable thermostat">Programmable thermostats</a></b> allow heating and cooling of a room to be switched off depending the time, day of the week, and temperature. A bedroom, for example, does not need to be heated during the day, but a living room does not need to be heated during the night.</li>
+<li><b>Roof insulation</b></li>
+<li><b>Insulated windows and doors</b></li>
+<li><b>Draught proofing</b></li>
+</ul>
+<h3><span class="mw-headline" id="Underfloor_heating">Underfloor heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=13" title="Edit section: Underfloor heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Underfloor_heating" title="Underfloor heating">Underfloor heating</a> may sometimes be more energy efficient than traditional methods of heating:</p>
+<ul>
+<li>Water circulates within the system at low temperatures (35&#160;°C - 50&#160;°C) making gas boilers, wood fired boilers, and heat pumps significantly more efficient.</li>
+<li>Rooms with underfloor heating are cooler near the ceiling, where heat is not required, but warmer underfoot, where comfort is most required.</li>
+<li>Traditional radiators are frequently positioned underneath poorly insulated windows, heating them unnecessarily.</li>
+</ul>
+<h3><span class="mw-headline" id="Waste-water_heat_recovery">Waste-water heat recovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=14" title="Edit section: Waste-water heat recovery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hot_water_heat_recycling_unit.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hot_water_heat_recycling_unit.jpg/220px-Hot_water_heat_recycling_unit.jpg" width="220" height="440" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hot_water_heat_recycling_unit.jpg/330px-Hot_water_heat_recycling_unit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hot_water_heat_recycling_unit.jpg/440px-Hot_water_heat_recycling_unit.jpg 2x" data-file-width="900" data-file-height="1800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hot_water_heat_recycling_unit.jpg" class="internal" title="Enlarge"></a></div>
+Recycling heat.</div>
+</div>
+</div>
+<p>It is possible to recover significant amounts of heat from waste hot water via <a href="/wiki/Hot_water_heat_recycling" class="mw-redirect" title="Hot water heat recycling">hot water heat recycling</a>. Major consumption of hot water is sinks, showers, baths, dishwashers, and clothes washers. On average 30% of a property's domestic hot water is used for showering.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Incoming fresh water is typically of a far lower temperature than the waste water from a shower. An inexpensive heat exchanger recovers up on average 40% of the heat that would normally be wasted, by warming incoming cold fresh water with heat from outgoing waste water.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Air_source_heat_pumps" title="Air source heat pumps">Air source heat pumps</a></li>
+<li><a href="/wiki/Autonomous_building" title="Autonomous building">Autonomous building</a></li>
+<li><a href="/wiki/Architectural_engineering" title="Architectural engineering">Architectural engineering</a></li>
+<li><a href="/wiki/Biogas" title="Biogas">Biogas</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Ground_source_heat_pump" class="mw-redirect" title="Ground source heat pump">Ground source heat pump</a></li>
+<li><a href="/wiki/Green_architecture" class="mw-redirect" title="Green architecture">Green architecture</a></li>
+<li><a href="/wiki/Green_building" title="Green building">Green building</a></li>
+<li><a href="/wiki/Hot_water_heat_recycling" class="mw-redirect" title="Hot water heat recycling">Hot water heat recycling</a></li>
+<li><a href="/wiki/Superinsulation" title="Superinsulation">Superinsulation</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable design</a></li>
+<li><a href="/wiki/Mitigation_of_global_warming" class="mw-redirect" title="Mitigation of global warming">Mitigation of global warming</a></li>
+<li><a href="/wiki/Natural_building" title="Natural building">Natural building</a></li>
+<li><a href="/wiki/Passive_house" title="Passive house">Passive house</a></li>
+<li><a href="/wiki/Passive_solar" class="mw-redirect" title="Passive solar">Passive solar</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Renewable_energy_development" class="mw-redirect" title="Renewable energy development">Renewable energy development</a></li>
+<li><a href="/wiki/Solar_Air_Heat" class="mw-redirect" title="Solar Air Heat">Solar Air Heat</a></li>
+<li><a href="/wiki/Solar_combisystem" title="Solar combisystem">Solar combisystem</a></li>
+<li><a href="/wiki/Solar_hot_water" class="mw-redirect" title="Solar hot water">Solar hot water</a></li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar power</a></li>
+<li><a href="/wiki/European_Biomass_Association" title="European Biomass Association">European Biomass Association</a></li>
+<li><a href="/wiki/Thermal_insulation" title="Thermal insulation">Thermal insulation</a></li>
+<li><a href="/wiki/Underfloor_heating" title="Underfloor heating">Underfloor heating</a></li>
+<li><a href="/wiki/Wood_briquette" title="Wood briquette">Wood briquettes</a></li>
+<li><a href="/wiki/Zero_energy_building" class="mw-redirect" title="Zero energy building">Zero energy building</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Department of Trade and Industry report <a rel="nofollow" class="external text" href="http://www.berr.gov.uk/files/file39881.pdf">UK Energy in Brief July 2007, Page 25</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080527233923/http://www.berr.gov.uk/files/file39881.pdf">Archived</a> May 27, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. (URL accessed May, 2008)</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">UK Government Call for Evidence on Heat, Office of Climate Change, Jan 2008 <a rel="nofollow" class="external text" href="http://www.berr.gov.uk/files/file43609.pdf">'Heat Call for Evidence', Paragraphs 11 and 12</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080527233914/http://www.berr.gov.uk/files/file43609.pdf">Archived</a> May 27, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. (URL accessed May, 2008)</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.solarhouseproject.com/index.html">"Solar House, Solar Home, Solar Homes, Solar Houses"</a>. Solarhouseproject.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+heat&amp;rft.btitle=Solar+House%2C+Solar+Home%2C+Solar+Homes%2C+Solar+Houses&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solarhouseproject.com%2Findex.html&amp;rft.pub=Solarhouseproject.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EERE1-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-EERE1_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www1.eere.energy.gov/geothermal/geothermal_basics.html">"Geothermal Basics Overview"</a>. Office of Energy Efficiency and Renewable Energy<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+heat&amp;rft.btitle=Geothermal+Basics+Overview&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww1.eere.energy.gov%2Fgeothermal%2Fgeothermal_basics.html&amp;rft.pub=Office+of+Energy+Efficiency+and+Renewable+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.geothermal.org/what.html">"What is Geothermal? - Geothermal Resources Council"</a>. Geothermal.org. 2013-01-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+heat&amp;rft.btitle=What+is+Geothermal%3F+-+Geothermal+Resources+Council&amp;rft.date=2013-01-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.geothermal.org%2Fwhat.html&amp;rft.pub=Geothermal.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.energysavingtrust.org.uk/renewable-energy/heat/ground-source-heat-pumps">Ground Source Heat Pumps: Costs, savings and financial support</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161202165420/http://www.energysavingtrust.org.uk/renewable-energy/heat/ground-source-heat-pumps">Archived</a> December 2, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Retrieved 2016-12-02</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.icax.co.uk/gshp.html">"GSHP | Ground Source Heat Pumps | GSHPs | Ground Source Heating | Coefficient of Performance CoP | Ground source heat pump efficiency | Thermal Energy Storage"</a>. Icax.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+heat&amp;rft.btitle=GSHP+%26%23124%3B+Ground+Source+Heat+Pumps+%26%23124%3B+GSHPs+%26%23124%3B+Ground+Source+Heating+%26%23124%3B+Coefficient+of+Performance+CoP+%26%23124%3B+Ground+source+heat+pump+efficiency+%26%23124%3B+Thermal+Energy+Storage&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.icax.co.uk%2Fgshp.html&amp;rft.pub=Icax.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.icax.co.uk/thermalbank.html">"Thermal Banks store heat between seasons | Seasonal Heat Storage | ThermalBanks from ICAX save carbon emissions | Thermal Energy Storage using Inter seasonal Heat Stores | Underground Thermal Energy Storage UTES | Reusable Heat"</a>. Icax.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+heat&amp;rft.btitle=Thermal+Banks+store+heat+between+seasons+%26%23124%3B+Seasonal+Heat+Storage+%26%23124%3B+ThermalBanks+from+ICAX+save+carbon+emissions+%26%23124%3B+Thermal+Energy+Storage+using+Inter+seasonal+Heat+Stores+%26%23124%3B+Underground+Thermal+Energy+Storage+UTES+%26%23124%3B+Reusable+Heat&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.icax.co.uk%2Fthermalbank.html&amp;rft.pub=Icax.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CREN-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-CREN_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CREN_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CREN_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-CREN_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">The Canadian Renewable Energy Network <a rel="nofollow" class="external text" href="http://dsp-psd.pwgsc.gc.ca/Collection/M92-251-2002E.pdf">'Commercial Earth Energy Systems', Figure 29</a>. . Retrieved July 29, 2009.</span></li>
+<li id="cite_note-TIPC-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-TIPC_10-0">^</a></b></span> <span class="reference-text">Technical Institute of Physics and Chemistry, Chinese Academy of Sciences <a rel="nofollow" class="external text" href="http://repositories.tamu.edu/bitstream/handle/1969.1/5474/ESL-IC-06-11-312.pdf">'State of the Art of Air-source Heat Pump for Cold Region', Figure 5</a>. . Retrieved April 19, 2008.</span></li>
+<li id="cite_note-STEEN-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-STEEN_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-STEEN_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">SINTEF Energy Research <a rel="nofollow" class="external text" href="http://www.r744.com/knowledge/papers/files/pdf/pdf_379.pdf">'Integrated CO<sub>2</sub> Heat Pump Systems for Space Heating and DHW in low-energy and passive houses', J. Steen, Table 3.1, Table 3.3</a>. . Retrieved April 19, 2008.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.seas.columbia.edu/earth/wtert/sofos/DEA_Heat_supply_in_denmark.pdf">http://www.seas.columbia.edu/earth/wtert/sofos/DEA_Heat_supply_in_denmark.pdf</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://epa.gov/bns/reports/stakejun2008/B%28a%29P/WoodstoveFacsheet_08.pdf">"Burn clean: Hot tips for a better fire"</a> <span style="font-size:85%;">(PDF)</span>. Environmental Protection Agency.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+heat&amp;rft.btitle=Burn+clean%3A+Hot+tips+for+a+better+fire&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fepa.gov%2Fbns%2Freports%2Fstakejun2008%2FB%2528a%2529P%2FWoodstoveFacsheet_08.pdf&amp;rft.pub=Environmental+Protection+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.environment.gov.au/atmosphere/airquality/publications/emission-factor.html">"Measurement of real-world PM10 emission factors and emission profiles from woodheaters by in situ source monitoring and atmospheric verification methods"</a>. Environment.gov.au. 2009-09-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+heat&amp;rft.btitle=Measurement+of+real-world+PM10+emission+factors+and+emission+profiles+from+woodheaters+by+in+situ+source+monitoring+and+atmospheric+verification+methods&amp;rft.date=2009-09-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.environment.gov.au%2Fatmosphere%2Fairquality%2Fpublications%2Femission-factor.html&amp;rft.pub=Environment.gov.au&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://air-climate.eionet.europa.eu/reports/ETCACC_TP_2009_1_European_PM2.5_HIA">"Assessment of the health impacts of exposure to PM2.5 at a European levelETC/ACC Technical Paper 2009/1"</a>. Air-climate.eionet.europa.eu. 2009-06-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+heat&amp;rft.btitle=Assessment+of+the+health+impacts+of+exposure+to+PM2.5+at+a+European+levelETC%2FACC+Technical+Paper+2009%2F1&amp;rft.date=2009-06-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fair-climate.eionet.europa.eu%2Freports%2FETCACC_TP_2009_1_European_PM2.5_HIA&amp;rft.pub=Air-climate.eionet.europa.eu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://lungfoundation.com.au/consultation-looks-at-reducing-emissions-from-wood-heaters/">[1]</a>{date=2014-06-01}</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.lungusa.org/press-room/press-releases/cleaner-alternatives-for-winter-heat.html">"American Lung Association Cautions Against Wood-burning and Urges Cleaner Alternatives for Winter Heat - American Lung Association"</a>. Lungusa.org. 2008-09-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+heat&amp;rft.btitle=American+Lung+Association+Cautions+Against+Wood-burning+and+Urges+Cleaner+Alternatives+for+Winter+Heat+-+American+Lung+Association&amp;rft.date=2008-09-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.lungusa.org%2Fpress-room%2Fpress-releases%2Fcleaner-alternatives-for-winter-heat.html&amp;rft.pub=Lungusa.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">"Australian wood heaters currently increase global warming and health costs", Dorothy L. Robinson, Atmospheric Poolution Research, Article in Press, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.5094%2FAPR.2011.033">10.5094/APR.2011.033</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dgc.dk/publikationer/konference/jkj_sustain_gas.pdf">"<span style="padding-left:0.2em;">'</span>Sustainable Gas Enters the European Gas Distribution System<span style="padding-right:0.2em;">'</span>"</a> <span style="font-size:85%;">(PDF)</span>. Dgc.dk<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+heat&amp;rft.btitle=%27Sustainable+Gas+Enters+the+European+Gas+Distribution+System%27&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dgc.dk%2Fpublikationer%2Fkonference%2Fjkj_sustain_gas.pdf&amp;rft.pub=Dgc.dk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Energy research Centre of the Netherlands <a rel="nofollow" class="external text" href="http://www.ecn.nl/docs/library/report/2005/rx05187.pdf">'Heat from Biomass via Synthetic Natural Gas'</a> . Retrieved March 22, 2006.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.nrel.gov/docs/fy10osti/47685.pdf">http://www.nrel.gov/docs/fy10osti/47685.pdf</a> pg5</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_heat&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Heat pumps based on R744 (CO<sub>2</sub>) <a rel="nofollow" class="external text" href="http://www.r744.com/knowledge/faq_a.php">FAQ</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hptcj.or.jp/about_e/contribution/pdf/hpe-all.pdf">Heat pumps Long Awaited Way out of the Global Warming</a> - Information from Heat Pump &amp; Thermal Storage Technology Center of Japan</li>
+<li>Department of Trade and Industry, 2005 study on <a rel="nofollow" class="external text" href="http://www.dti.gov.uk/renewables/policy_pdfs/heatreportfinal.pdf">Renewable Heat</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.icax.co.uk/renewable_heat.html">Renewable Heat</a> combining asphalt solar collectors, thermal banks and ground source heat pumps.</li>
+<li><a href="/wiki/Energy_Saving_Trust" title="Energy Saving Trust">Energy Saving Trust</a> information on <a rel="nofollow" class="external text" href="http://www.est.org.uk/myhome/insulation/">Home Insulation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.defra.gov.uk/farm/acu/energy/biomass-taskforce/index.htm">The Gill report on biomass in the UK</a> - download</li>
+<li><a rel="nofollow" class="external text" href="http://www.energysavingtrust.org.uk/Home-improvements/Home-insulation-glazing/Solid-wall-insulation">Solid wall insulation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.energysavingtrust.org.uk/Home-improvements/Home-insulation-glazing/Cavity-wall-insulation">Cavity wall insulation</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Sustainability" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Population" title="Population">Population</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a href="/wiki/Human_population_control" class="mw-redirect" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Food</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Water</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Water_crisis" class="mw-redirect" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" class="mw-redirect" title="Water footprint">Footprint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Accountability</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Education_for_Sustainable_Development" class="mw-redirect" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a href="/wiki/Sustainable_market" class="mw-redirect" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a href="/wiki/Sustainability_practices_in_organizations" class="mw-redirect" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a href="/wiki/Sustainable_urban_drainage_systems" class="mw-redirect" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Management</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Agreements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20170314185621
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.288 seconds
+Real time usage: 0.337 seconds
+Preprocessor visited node count: 1508/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 55350/2097152 bytes
+Template argument size: 2030/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Lua time usage: 0.132/10.000 seconds
+Lua memory usage: 4.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  278.022      1 -total
+ 35.67%   99.167      1 Template:Reflist
+ 23.69%   65.857     10 Template:Cite_web
+ 19.52%   54.269      3 Template:Convert
+ 18.17%   50.529      2 Template:Citation_needed
+ 16.44%   45.714      2 Template:Fix
+ 10.25%   28.489      6 Template:Category_handler
+  8.52%   23.700      3 Template:Delink
+  6.78%   18.841      1 Template:Clarify
+  5.85%   16.251      1 Template:Fix-span
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4432542-0!*!0!!en!4!* and timestamp 20170314185620 and revision id 763410096
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Renewable_heat&amp;oldid=763410096">https://en.wikipedia.org/w/index.php?title=Renewable_heat&amp;oldid=763410096</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_economics" title="Category:Energy economics">Energy economics</a></li><li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li><li><a href="/wiki/Category:Heating" title="Category:Heating">Heating</a></li><li><a href="/wiki/Category:Low-energy_building" title="Category:Low-energy building">Low-energy building</a></li><li><a href="/wiki/Category:Residential_heating" title="Category:Residential heating">Residential heating</a></li><li><a href="/wiki/Category:Renewable_energy_technology" title="Category:Renewable energy technology">Renewable energy technology</a></li><li><a href="/wiki/Category:Sustainable_technologies" title="Category:Sustainable technologies">Sustainable technologies</a></li><li><a href="/wiki/Category:Sustainable_building" title="Category:Sustainable building">Sustainable building</a></li><li><a href="/wiki/Category:Sustainable_architecture" title="Category:Sustainable architecture">Sustainable architecture</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2016" title="Category:Articles with unsourced statements from January 2016">Articles with unsourced statements from January 2016</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_February_2009" title="Category:Wikipedia articles needing clarification from February 2009">Wikipedia articles needing clarification from February 2009</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2008" title="Category:Articles with unsourced statements from July 2008">Articles with unsourced statements from July 2008</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Renewable+heat" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Renewable+heat" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Renewable_heat"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Renewable_heat"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Renewable_heat" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Renewable_heat&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Renewable_heat&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Renewable_heat" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Renewable_heat" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Renewable_heat&amp;oldid=763410096" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Renewable_heat&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q7313122" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Renewable_heat&amp;id=763410096" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Renewable+heat">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Renewable+heat&amp;returnto=Renewable+heat&amp;oldid=763410096&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Renewable_heat&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%A7%DB%8C_%D8%AA%D8%AC%D8%AF%DB%8C%D8%AF%D9%BE%D8%B0%DB%8C%D8%B1" title="گرمای تجدیدپذیر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q7313122#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 February 2017, at 02:19.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Renewable_heat&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.337","ppvisitednodes":{"value":1508,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":55350,"limit":2097152},"templateargumentsize":{"value":2030,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  278.022      1 -total"," 35.67%   99.167      1 Template:Reflist"," 23.69%   65.857     10 Template:Cite_web"," 19.52%   54.269      3 Template:Convert"," 18.17%   50.529      2 Template:Citation_needed"," 16.44%   45.714      2 Template:Fix"," 10.25%   28.489      6 Template:Category_handler","  8.52%   23.700      3 Template:Delink","  6.78%   18.841      1 Template:Clarify","  5.85%   16.251      1 Template:Fix-span"]},"scribunto":{"limitreport-timeusage":{"value":"0.132","limit":"10.000"},"limitreport-memusage":{"value":5234722,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20170314185621","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1269"});});</script>
+	</body>
+</html>

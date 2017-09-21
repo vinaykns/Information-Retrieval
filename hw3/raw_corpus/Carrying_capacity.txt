@@ -1,0 +1,1077 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Carrying capacity - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Carrying_capacity","wgTitle":"Carrying capacity","wgCurRevisionId":770050560,"wgRevisionId":770050560,"wgArticleId":47544,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with accessdate and no URL","Pages using ISBN magic links","Articles contradicting other articles","All pages needing factual verification","Wikipedia articles needing factual verification from May 2009","All articles with unsourced statements","Articles with unsourced statements from January 2011","All articles with links needing disambiguation","Articles with links needing disambiguation from October 2016","Ecological metrics","Population ecology","Population","Demography","Human overpopulation","Economic geography","Ecological economics","Environmental social science concepts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Carrying_capacity","wgRelevantArticleId":47544,"wgRequestId":"WMY9rgpAIDgAAHUFBc0AAAAI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q866283","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logistic_curve_examples.png/1200px-Logistic_curve_examples.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Carrying_capacity"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Carrying_capacity&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Carrying_capacity&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Carrying_capacity"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Carrying_capacity rootpage-Carrying_capacity skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Carrying capacity</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>The <b>carrying capacity</b> of a biological <a href="/wiki/Species" title="Species">species</a> in an <a href="/wiki/Natural_environment" title="Natural environment">environment</a> is the maximum population size of the species that the environment can sustain indefinitely, given the food, <a href="/wiki/Habitat" title="Habitat">habitat</a>, <a href="/wiki/Drinking_water" title="Drinking water">water</a>, and other <a href="/wiki/Resource" title="Resource">necessities available</a> in the environment. In <a href="/wiki/Population_biology" title="Population biology">population biology</a>, carrying capacity is defined as the <a href="/wiki/Environment_(biophysical)" title="Environment (biophysical)">environment</a>'s maximal load,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> which is different from the <a href="/wiki/Concept" title="Concept">concept</a> of population equilibrium. Its effect on <a href="/wiki/Population_dynamics" title="Population dynamics">population dynamics</a> may be approximated in a <a href="/wiki/Logistic_function" title="Logistic function">logistic model</a>, although this simplification ignores the possibility of <a href="/wiki/Overshoot_(population)" title="Overshoot (population)">overshoot</a> which real systems may exhibit.</p>
+<p>Carrying capacity was originally used to determine the number of animals that could graze on a segment of land without destroying it. Later, the idea was expanded to more complex populations, like humans.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> For the <a href="/wiki/Human_population" class="mw-redirect" title="Human population">human population</a>, more complex variables such as <a href="/wiki/Sanitation" title="Sanitation">sanitation</a> and <a href="/wiki/Health_care" title="Health care">medical care</a> are sometimes considered as part of the necessary establishment. As population density increases, <a href="/wiki/Birth_rate" title="Birth rate">birth rate</a> often decreases and <a href="/wiki/Death_rate" class="mw-redirect" title="Death rate">death rate</a> typically increases. The difference between the birth rate and the death rate is the "natural increase". The carrying capacity could support a positive natural increase or could require a negative natural increase. Thus, the carrying capacity is the number of individuals an environment can support without significant negative impacts to the given organism and its environment. Below carrying capacity, populations typically increase, while above, they typically decrease. A factor that keeps population size at equilibrium is known as a <a href="/wiki/Regulating_factor" class="mw-redirect" title="Regulating factor">regulating factor</a>. <a href="/wiki/Population_decline" title="Population decline">Population size decreases</a> above carrying capacity due to a range of factors depending on the <a href="/wiki/Species" title="Species">species</a> concerned, but can include insufficient <a href="/wiki/Space" title="Space">space</a>, <a href="/wiki/Food_security" title="Food security">food supply</a>, or <a href="/wiki/Sunlight" title="Sunlight">sunlight</a>. The carrying capacity of an <a href="/wiki/Environment_(biophysical)" title="Environment (biophysical)">environment</a> may vary for different species and may change over time due to a variety of factors including: <a href="/wiki/Food_security" title="Food security">food availability</a>, <a href="/wiki/Water_supply" title="Water supply">water supply</a>, environmental conditions and living space. The origins of the term "carrying capacity" are uncertain, with researchers variously stating that it was used "in the context of international <a href="/wiki/Shipping" class="mw-redirect" title="Shipping">shipping</a>"<sup id="cite_ref-informaworld.com_3-0" class="reference"><a href="#cite_note-informaworld.com-3">[3]</a></sup> or that it was first used during 19th-century laboratory experiments with micro-organisms.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> A recent review finds the first use of the term in an 1845 report by the <a href="/wiki/US_Secretary_of_State" class="mw-redirect" title="US Secretary of State">US Secretary of State</a> to the <a href="/wiki/US_Senate" class="mw-redirect" title="US Senate">US Senate</a>.<sup id="cite_ref-informaworld.com_3-1" class="reference"><a href="#cite_note-informaworld.com-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Humans"><span class="tocnumber">1</span> <span class="toctext">Humans</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Factors_that_govern_carrying_capacity"><span class="tocnumber">1.1</span> <span class="toctext">Factors that govern carrying capacity</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Ecological_footprint"><span class="tocnumber">1.2</span> <span class="toctext">Ecological footprint</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Footnotes"><span class="tocnumber">3</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Humans">Humans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carrying_capacity&amp;action=edit&amp;section=1" title="Edit section: Humans">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Accuracy dispute" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ambox_contradict.svg/40px-Ambox_contradict.svg.png" title="Accuracy dispute" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ambox_contradict.svg/60px-Ambox_contradict.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ambox_contradict.svg/80px-Ambox_contradict.svg.png 2x" data-file-width="620" data-file-height="620" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>appears to contradict the article <a href="/wiki/Human_overpopulation" title="Human overpopulation">Human overpopulation</a></b>. <span class="hide-when-compact">Please see discussion on the linked <a href="/wiki/Talk:Carrying_capacity" title="Talk:Carrying capacity">talk page</a>.</span> <small><i>(May 2014)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Human_overpopulation" title="Human overpopulation">Human overpopulation</a></div>
+<p>Several estimates of the carrying capacity have been made with a wide range of population numbers. A 2001 UN report said that two-thirds of the estimates fall in the range of 4 billion to 16 billion with unspecified standard errors, with a median of about 10 billion.<sup id="cite_ref-UN_World_Population_Report_2001_5-0" class="reference"><a href="#cite_note-UN_World_Population_Report_2001-5">[5]</a></sup> More recent estimates are much lower, particularly if <a href="/wiki/Resource_depletion" title="Resource depletion">non-renewable resource depletion</a> and <a href="/wiki/Overconsumption" title="Overconsumption">increased consumption</a> are considered.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>The application of the concept of carrying capacity for the <a href="/wiki/Human_population" class="mw-redirect" title="Human population">human population</a> has been criticized for not successfully capturing the multi-layered processes between humans and the environment, which have a nature of fluidity and <a href="/wiki/Non-equilibrium" class="mw-redirect" title="Non-equilibrium">non-equilibrium</a>, and for sometimes being employed in a <a href="/wiki/Victim_blaming" title="Victim blaming">blame-the-victim</a> framework.<sup id="cite_ref-Cliggett_8-0" class="reference"><a href="#cite_note-Cliggett-8">[8]</a></sup></p>
+<p>Supporters of the concept argue that the idea of a limited carrying capacity is just as valid applied to humans as when applied to any other species. Animal population size, living standards, and resource depletion vary, but the concept of carrying capacity still applies. The number of people is not the only factor in the carrying capacity of Earth. <a href="/wiki/Waste" title="Waste">Waste</a> and <a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">over-consumption</a>, especially by wealthy people and nations, is putting more strain on the environment than <a href="/wiki/Human_overpopulation" title="Human overpopulation">overpopulation</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> This has been studied by computer simulation models like <a href="/wiki/World3" title="World3">World3</a>.</p>
+<h3><span class="mw-headline" id="Factors_that_govern_carrying_capacity">Factors that govern carrying capacity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carrying_capacity&amp;action=edit&amp;section=2" title="Edit section: Factors that govern carrying capacity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some aspects of a system's carrying capacity may involve matters such as available supplies of <a href="/wiki/Food_supply" class="mw-redirect" title="Food supply">food</a>, <a href="/wiki/Water_supply" title="Water supply">water</a>, raw materials, and/or other similar resources. In addition, there are other factors that govern carrying capacity which may be less instinctive or less intuitive in nature, such as ever-increasing and/or ever-accumulating levels of <a href="/wiki/Waste" title="Waste">wastes</a>, <a href="/wiki/Environmental_damage" class="mw-redirect" title="Environmental damage">damage</a>, and/or eradication of essential components of any complex functioning system. Eradication of, for example, large or critical portions of any <a href="/wiki/Complex_system" title="Complex system">complex system</a> (envision a space vehicle, for instance, or an airplane, or an automobile, or computer code, or the body components of a living vertebrate) can interrupt essential processes and dynamics in ways that induce systems failures or unexpected collapse. (As an example of these latter factors, the "carrying capacity" of a complex system such an airplane is more than a matter of available food, or water, or available seating, but also reflects total weight carried and presumes that its passengers do not damage, destroy, or eradicate parts, <a href="/wiki/Door" title="Door">doors</a>, windows, wings, engine parts, fuel, and oil, and so forth.) Thus, on a global scale, food and similar resources may affect planetary carrying capacity to some extent so long as Earth's human passengers do not dismantle, eradicate, or otherwise destroy critical <a href="/wiki/Biosphere" title="Biosphere">biospheric</a> life-support capacities for essential processes of self-maintenance, <a href="/wiki/Self-perpetuation" title="Self-perpetuation">self-perpetuation</a>, and <a href="/wiki/Self-repair_mechanisms" class="mw-redirect" title="Self-repair mechanisms">self-repair</a>.</p>
+<p>Thus, carrying capacity interpretations that focus solely on resource limitations alone (such as food) may neglect wider functional factors. If the humans neither gain nor lose weight in the long-term, the calculation is fairly accurate. If the quantity of food is invariably equal to the "Y" amount, carrying capacity has been reached. Humans, with the need to enhance their reproductive success (see Richard Dawkins' <i><a href="/wiki/The_Selfish_Gene" title="The Selfish Gene">The Selfish Gene</a></i><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag needs to be fact-checked with the cited source(s). (May 2009)">verification needed</span></a></i>]</sup>), understand that food supply can vary and also that other factors in the environment can alter humans' need for food. A house, for example, might mean that one does not need to eat as much to stay warm as one otherwise would. Over time, monetary transactions have replaced barter and local production, and consequently modified local human carrying capacity. However, purchases also impact regions thousands of miles away. For example, <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> from an <a href="/wiki/Automobile" class="mw-redirect" title="Automobile">automobile</a> travels to the upper atmosphere. This led <a href="/wiki/Paul_R._Ehrlich" title="Paul R. Ehrlich">Paul R. Ehrlich</a> to develop the <a href="/wiki/I_%3D_PAT" title="I = PAT">I&#160;=&#160;PAT</a> equation.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<dl>
+<dd><span class="texhtml"><i>I</i> = <i>P</i> ∙ <i>A</i> ∙ <i>T</i></span></dd>
+</dl>
+<p>where:</p>
+<dl>
+<dd><i>I</i> is the impact on the environment resulting from consumption</dd>
+<dd><i>P</i> is the population number</dd>
+<dd><i>A</i> is the consumption per capita (affluence)</dd>
+<dd><i>T</i> is the technology factor</dd>
+</dl>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Logistic_curve_examples.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logistic_curve_examples.png/220px-Logistic_curve_examples.png" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logistic_curve_examples.png/330px-Logistic_curve_examples.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logistic_curve_examples.png/440px-Logistic_curve_examples.png 2x" data-file-width="2380" data-file-height="1580" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Logistic_curve_examples.png" class="internal" title="Enlarge"></a></div>
+This is a graph of the population due to the logistic curve model. When the population is above the carrying capacity it decrease and when it is below the carrying capacity it increases.</div>
+</div>
+</div>
+<p>An important model related to carrying capacity (K), is the logistic growth curve. The logistic growth curve depicts a more realistic version of how population growth rate, available resources, and the carrying capacity are inter-connected. As illustrated in the logistic growth curve model, when the population size is small and there are many resources available, population over-time increases and so does the growth rate. However, as population size nears the carrying capacity and resources become limited, the growth rate decreases and population starts to level out at K. This model is based on the assumption that carrying capacity does not change. One thing to keep in mind, however, is that carrying capacity of a population can increase or decrease and there are various factors that affect it. For instance, an increase in the population growth can lead to over-exploitation of necessary natural resources and therefore decrease the overall carrying capacity of that environment.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>Technology can play a role in the dynamics of carrying capacity and while this can sometimes be positive,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> in other cases its influence can be problematic. For example, it has been suggested that in the past that the <a href="/wiki/Neolithic" title="Neolithic">Neolithic</a> revolution increased the carrying capacity of the world relative to humans through the invention of agriculture. In a similar way, viewed from the perspective of foods, the use of <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuels</a> has been alleged to artificially increase the carrying capacity of the world by the use of stored sunlight, even though that food production does not guarantee the capacity of the Earth's climatic and <a href="/wiki/Biosphere" title="Biosphere">biospheric</a> life-support systems to withstand the damage and wastes arising from such fossil fuels. However, such interpretations presume the continued and uninterrupted functioning of all other critical components of the global system. It has also been suggested that other technological advances that have increased the carrying capacity of the world relative to humans are: <a href="/wiki/Polder" title="Polder">polders</a>, <a href="/wiki/Fertilizer" title="Fertilizer">fertilizer</a>, <a href="/wiki/Composting" class="mw-redirect" title="Composting">composting</a>, <a href="/wiki/Greenhouse" title="Greenhouse">greenhouses</a>, <a href="/wiki/Land_reclamation" title="Land reclamation">land reclamation</a>, and <a href="/wiki/Fish_farming" title="Fish farming">fish farming</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup> In an adverse way, however, many technologies enable economic entities and individual humans to inflict far more damage and eradication, far more quickly and efficiently on a wider-scale than ever. Examples include machine guns, chainsaws, earth-movers, and the capacity of industrialized fishing fleets to capture and harvest targeted fish species faster than the fish themselves can reproduce are examples of such problematic outcomes of technology.</p>
+<p><a href="/w/index.php?title=Agricultural_capability&amp;action=edit&amp;redlink=1" class="new" title="Agricultural capability (page does not exist)">Agricultural capability</a> on Earth expanded in the last quarter of the 20th century. But now there are many projections of a continuation of the decline in world agricultural capability (and hence carrying capacity) which began in the 1990s. Most conspicuously, China's food production is forecast to decline by 37% by the last half of the 21st century, placing a strain on the entire carrying capacity of the world, as China's population could expand to about 1.5 billion people by the year 2050.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> This reduction in China's agricultural capability (as in other world regions) is largely due to the world <a href="/wiki/Water_crisis" class="mw-redirect" title="Water crisis">water crisis</a> and especially due to mining <a href="/wiki/Groundwater" title="Groundwater">groundwater</a> beyond sustainable yield, which has been happening in China since the mid-20th century.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p><a href="/wiki/Lester_Brown" class="mw-redirect" title="Lester Brown">Lester Brown</a> of the <a href="/wiki/Earth_Policy_Institute" title="Earth Policy Institute">Earth Policy Institute</a>, has said: "It would take 1.5 Earths to sustain our present level of consumption. Environmentally, the world is in an <a href="/wiki/Overshoot_(population)" title="Overshoot (population)">overshoot</a> mode."<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Ecological_footprint">Ecological footprint</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carrying_capacity&amp;action=edit&amp;section=3" title="Edit section: Ecological footprint">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One way to estimate human <a href="/wiki/Demand" title="Demand">demand</a> compared to ecosystem's carrying capacity is "<a href="/wiki/Ecological_footprint" title="Ecological footprint">ecological footprint</a>" accounting. Rather than speculating about future possibilities and limitations imposed by carrying capacity constraints, Ecological Footprint accounting provides empirical, non-speculative assessments of the past. It compares historic regeneration rates, <a href="/wiki/Biocapacity" title="Biocapacity">biocapacity</a>, against historical human <a href="/wiki/Demand" title="Demand">demand</a>, <a href="/wiki/Ecological_footprint" title="Ecological footprint">ecological footprint</a>, in the same year.<sup id="cite_ref-WS_16-0" class="reference"><a href="#cite_note-WS-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> One result shows that humanity's demand footprint in 1999 exceeded the planet's bio-capacity by &gt;20%.<sup id="cite_ref-WS_16-1" class="reference"><a href="#cite_note-WS-16">[16]</a></sup> However, this measurement does not take into account the depletion of the actual fossil fuels, "which would result in a carbon Footprint many hundreds of times higher than the current calculation."<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>There is also concern of the ability of countries around to globe to decrease and maintain their ecological footprints. Holden and Linnerud, scholars working to provide a better framework that adequately judge sustainability development and maintenance in policy making, have generated a diagram that measures the global position of different countries around the world, which shows a linear relation between GDP PPP and ecological foot print in 2007. Possible answers to the question of where we are as individual countries attempting to reach sustainability and development methods to reduce ecological foot print. According to the Figure 1 diagram, the United States had the largest ecological foot print per capita along with Norway, Sweden, and Austria, in comparison to Cuba, Bangladesh, and Korea. <sup id="cite_ref-The_Sustainable_Development_Area_19-0" class="reference"><a href="#cite_note-The_Sustainable_Development_Area-19">[19]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carrying_capacity&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin columns references-column-count references-column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Arable_land" title="Arable land">Arable land</a></li>
+<li><a href="/wiki/Asymmetry_Principle" title="Asymmetry Principle">Asymmetry Principle</a></li>
+<li><a href="/wiki/Biocapacity" title="Biocapacity">Biocapacity</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Effects of global warming</a></li>
+<li><a href="/wiki/Environmental_space" title="Environmental space">Environmental space</a></li>
+<li><a href="/wiki/List_of_countries_by_fertility_rate" class="mw-redirect" title="List of countries by fertility rate">List of countries by fertility rate</a></li>
+<li><a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Inflection_point" title="Inflection point">Inflection point</a></li>
+<li><a href="/wiki/Optimum_population" title="Optimum population">Optimum population</a></li>
+<li><a href="/wiki/Overpopulation_in_wild_animals" class="mw-redirect" title="Overpopulation in wild animals">Overpopulation in wild animals</a></li>
+<li><a href="/wiki/Overshoot_(ecology)" class="mw-redirect" title="Overshoot (ecology)">Overshoot (ecology)</a></li>
+<li><a href="/wiki/Population" title="Population">Population</a></li>
+<li><a href="/wiki/Population_ecology" title="Population ecology">Population ecology</a></li>
+<li><a href="/wiki/Population_growth" title="Population growth">Population growth</a></li>
+<li><a href="/wiki/Principles_of_Intelligent_Urbanism" class="mw-redirect" title="Principles of Intelligent Urbanism">Principles of Intelligent Urbanism</a></li>
+<li><a href="/wiki/R/K_selection_theory" title="R/K selection theory">r/K selection theory</a></li>
+<li><a href="/wiki/Simon%E2%80%93Ehrlich_wager" title="Simon–Ehrlich wager">Simon–Ehrlich wager</a></li>
+<li><a href="/wiki/Thomas_Malthus" class="mw-redirect" title="Thomas Malthus">Thomas Malthus</a></li>
+<li><a href="/wiki/Toxic_capacity" title="Toxic capacity">Toxic capacity</a></li>
+<li><a href="/wiki/Aftermath_(2010_TV_series)#Population_Overload" title="Aftermath (2010 TV series)">Aftermath:Population Overload</a><sup class="plainlinks noprint Inline-Template" style="vertical-align:text-top;white-space:nowrap;">[<i><a rel="nofollow" class="external text" href="http://dispenser.homenet.org/~dispenser/cgi-bin/dab_solver.py?page=Carrying_capacity&amp;editintro=Template:Disambiguation_needed/editintro&amp;client=Template:Dn"><span title="Link needs disambiguation. (October 2016)">disambiguation needed</span></a></i>]</sup></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carrying_capacity&amp;action=edit&amp;section=5" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hui, C (2006). "Carrying capacity, population equilibrium, and environment's maximal load". <i>Ecological Modelling</i>. <b>192</b>: 317–320. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.ecolmodel.2005.07.001">10.1016/j.ecolmodel.2005.07.001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarrying+capacity&amp;rft.atitle=Carrying+capacity%2C+population+equilibrium%2C+and+environment%27s+maximal+load&amp;rft.aufirst=C&amp;rft.aulast=Hui&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ecolmodel.2005.07.001&amp;rft.jtitle=Ecological+Modelling&amp;rft.pages=317-320&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=192" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sustainablescale.org/ConceptualFramework/UnderstandingScale/MeasuringScale/CarryingCapacity.aspx">"Carrying Capacity"</a>. <i>The Sustainable Scale Project</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarrying+capacity&amp;rft.atitle=Carrying+Capacity&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sustainablescale.org%2FConceptualFramework%2FUnderstandingScale%2FMeasuringScale%2FCarryingCapacity.aspx&amp;rft.jtitle=The+Sustainable+Scale+Project&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-informaworld.com-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-informaworld.com_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-informaworld.com_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Sayre, N. F. (2008). <a rel="nofollow" class="external text" href="http://www.informaworld.com/smpp/content~content=a791001773&amp;db=all">"The Genesis, History, and Limits of Carrying Capacity"</a>. <i>Annals of the Association of American Geographers</i>. <b>98</b>: 120–134. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F00045600701734356">10.1080/00045600701734356</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarrying+capacity&amp;rft.atitle=The+Genesis%2C+History%2C+and+Limits+of+Carrying+Capacity&amp;rft.aufirst=N.+F.&amp;rft.aulast=Sayre&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.informaworld.com%2Fsmpp%2Fcontent~content%3Da791001773%26db%3Dall&amp;rft_id=info%3Adoi%2F10.1080%2F00045600701734356&amp;rft.jtitle=Annals+of+the+Association+of+American+Geographers&amp;rft.pages=120-134&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=98" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Zimmerer, K.S., <a rel="nofollow" class="external text" href="http://dusk.geo.orst.edu/prosem/PDFs/human_geog.pdf">"Human Geography and the "New Ecology": The Prospect of Promise and Integration"</a>, <i>Annals of the Assoc. of American Geo.</i>, <b>84</b>(1), 108–125, (1994)</span></li>
+<li id="cite_note-UN_World_Population_Report_2001-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-UN_World_Population_Report_2001_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.un.org/esa/population/publications/wpm/wpm2001.pdf">"UN World Population Report 2001"</a> <span style="font-size:85%;">(PDF)</span>. p.&#160;31<span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarrying+capacity&amp;rft.btitle=UN+World+Population+Report+2001&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fesa%2Fpopulation%2Fpublications%2Fwpm%2Fwpm2001.pdf&amp;rft.pages=31&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFRyerson2010" class="citation">Ryerson, W. F. (2010), "Population, The Multiplier of Everything Else", in McKibben, D, <i>The Post Carbon Reader: Managing the 21st Centery Sustainability Crisis</i>, Watershed Media, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-9709500-6-2" title="Special:BookSources/978-0-9709500-6-2">978-0-9709500-6-2</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarrying+capacity&amp;rft.atitle=Population%2C+The+Multiplier+of+Everything+Else&amp;rft.aufirst=W.+F.&amp;rft.aulast=Ryerson&amp;rft.btitle=The+Post+Carbon+Reader%3A+Managing+the+21st+Centery+Sustainability+Crisis&amp;rft.date=2010&amp;rft.genre=bookitem&amp;rft.isbn=978-0-9709500-6-2&amp;rft.pub=Watershed+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Brown, L. R. (2011). <i>World on the Edge</i>. Earth Policy Institute. Norton. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-393-08029-2" title="Special:BookSources/978-0-393-08029-2">978-0-393-08029-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarrying+capacity&amp;rft.aufirst=L.+R.&amp;rft.aulast=Brown&amp;rft.btitle=World+on+the+Edge&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-0-393-08029-2&amp;rft.pub=Norton&amp;rft.series=Earth+Policy+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Cliggett-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cliggett_8-0">^</a></b></span> <span class="reference-text">Cliggett, L., "Carrying Capacity's New Guise: Folk Models for Public Debate and Longitudinal Study of Environmental Change", <i><a href="/wiki/Africa_Today" title="Africa Today">Africa Today</a></i>, <b>48</b>(1), 2-19, (2001)</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Fred Pearce (2009-04-13). <a rel="nofollow" class="external text" href="http://e360.yale.edu/feature/consumption_dwarfs_population_as_main_environmental_threat/2140/">"Consumption Dwarfs Population as Main Environmental Threat"</a>. Yale University<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarrying+capacity&amp;rft.au=Fred+Pearce&amp;rft.btitle=Consumption+Dwarfs+Population+as+Main+Environmental+Threat&amp;rft.date=2009-04-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fe360.yale.edu%2Ffeature%2Fconsumption_dwarfs_population_as_main_environmental_threat%2F2140%2F&amp;rft.pub=Yale+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Ehrlich, P.R., Holdren, J.P., "Impact of Population Growth", <a href="/wiki/Science_(journal)" title="Science (journal)"><i>Science</i></a>, <b>171</b>(3977), 1212–1217, (1971)</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Swafford, Angela Lynn. "Logistic Population Growth: Equation, Definition &amp; Graph." Study.com. N.p., 30 May 2015. Web. 21 May 2016. "Logistic Population Growth - Boundless Open Textbook." Boundless. N.p., n.d. Web. 21 May 2016.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Martire, S., Castellani, V., &amp; Sala, S. (2015). <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016/j.resconrec.2014.11.002">Carrying capacity assessment of forest resources: Enhancing environmental sustainability in energy production at local scale</a> Resources, Conservation and Recycling, 94, 11-20. doi: <a rel="nofollow" class="external autonumber" href="http://dx.doi.org/10.1016/j.resconrec.2014.11.002">[1]</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Economy, E., <i>China vs. Earth</i>, The Nation, May 7, 2007 issue</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Nielsen, R., <i>The Little Green Handbook</i>, <a href="/wiki/Picador_(imprint)" title="Picador (imprint)">Picador</a>, (2006) <a href="/wiki/Special:BookSources/9780312425814" class="internal mw-magiclink-isbn">ISBN 978-0-312-42581-4</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Brown, L. R. (2011). <i>World on the Edge</i>. Earth Policy Institute. Norton. p.&#160;7. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-393-08029-2" title="Special:BookSources/978-0-393-08029-2">978-0-393-08029-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarrying+capacity&amp;rft.aufirst=L.+R.&amp;rft.aulast=Brown&amp;rft.btitle=World+on+the+Edge&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-0-393-08029-2&amp;rft.pages=7&amp;rft.pub=Norton&amp;rft.series=Earth+Policy+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WS-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-WS_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WS_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Wackernagel, M.; Schulz, N.B.; et al. (2002). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC123129">", "Tracking the ecological overshoot of the human economy"</a>. <i><a href="/wiki/PNAS" class="mw-redirect" title="PNAS">Proc. Natl. Acad. Sci. USA</a></i>. <b>99</b> (14): 9266–9271. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002PNAS...99.9266W">2002PNAS...99.9266W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1073%2Fpnas.142033699">10.1073/pnas.142033699</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC123129">123129</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12089326">12089326</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarrying+capacity&amp;rft.atitle=%2C+%22Tracking+the+ecological+overshoot+of+the+human+economy&amp;rft.aufirst=M.&amp;rft.aulast=Wackernagel&amp;rft.au=Schulz%2C+N.B.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC123129&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC123129&amp;rft_id=info%3Abibcode%2F2002PNAS...99.9266W&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.142033699&amp;rft_id=info%3Apmid%2F12089326&amp;rft.issue=14&amp;rft.jtitle=Proc.+Natl.+Acad.+Sci.+USA&amp;rft.pages=9266-9271&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=99" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Rees, W.E. and Wackernagel, M., <i>Ecological Footprints and Appropriated Carrying Capacity: Measuring the Natural Capital Requirements of the Human Economy</i>, Jansson, A., Folke, C., Hammer, M. and Costanza R. (ed.), <a href="/wiki/Island_Press" title="Island Press">Island Press</a>, (1994) <a rel="nofollow" class="external free" href="http://www.pnas.org/content/99/14/9266.short">http://www.pnas.org/content/99/14/9266.short</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.footprintnetwork.org/en/index.php/GFN/page/frequently_asked_technical_questions/">http://www.footprintnetwork.org/en/index.php/GFN/page/frequently_asked_technical_questions/</a></span></li>
+<li id="cite_note-The_Sustainable_Development_Area-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Sustainable_Development_Area_19-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Holden, Erling; Linnerud, Kristin (May 2007). "The sustainable development area: satisfying basic needs and safeguarding ecological sustainability". <i>Sustainable Development</i>. <b>15</b> (3): 174–187. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fsd.313">10.1002/sd.313</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarrying+capacity&amp;rft.atitle=The+sustainable+development+area%3A+satisfying+basic+needs+and+safeguarding+ecological+sustainability&amp;rft.aufirst=Erling&amp;rft.aulast=Holden&amp;rft.au=Linnerud%2C+Kristin&amp;rft.date=2007-05&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fsd.313&amp;rft.issue=3&amp;rft.jtitle=Sustainable+Development&amp;rft.pages=174-187&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carrying_capacity&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Gausset Q., M. Whyte and T. Birch-Thomsen (eds.) (2005) <i>Beyond territory and scarcity: Exploring conflicts over natural resource management.</i> Uppsala: Nordic Africa Institute</li>
+<li>Tiffen, M, Mortimore, M, Gichuki, F. (1994) <i>More people, less erosion: Environmental recovery in Kenya</i>. London: Longman.</li>
+<li>Shelby, Bo and Thomas A. Heberlein (1986) "Carrying capacity in recreation settings." Corvallis, OR: Oregon State University Press.</li>
+<li>Karl S. Zimmerer (1994) Human geography and the "new ecology": the prospect and promise of integration. Annals of the Association of American Geographers <b>84</b>, p.&#160;XXX;</li>
+<li>Martire, S., Castellani, V., &amp; Sala, S. (2015). Carrying capacity assessment of forest resources: Enhancing environmental sustainability in energy production at local scale. Resources, Conservation and Recycling, 94, 11-20.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carrying_capacity&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external free" href="http://www.hartford-hwp.com/archives/24/042.html">http://www.hartford-hwp.com/archives/24/042.html</a></li>
+<li><a rel="nofollow" class="external free" href="http://atlas.aaas.org/index.php?part=1&amp;sec=trends">http://atlas.aaas.org/index.php?part=1&amp;sec=trends</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Global_human_population" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Population" title="Template:Population"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Population" title="Template talk:Population"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Population&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Global_human_population" style="font-size:114%;margin:0 4em"><a href="/wiki/World_population" title="World population">Global human population</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Major topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biocapacity" title="Biocapacity">Biocapacity</a></li>
+<li><a href="/wiki/Optimum_population" title="Optimum population">Optimum population</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a>
+<ul>
+<li><a href="/wiki/Malthusian_catastrophe" title="Malthusian catastrophe">Malthusian catastrophe</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Population" title="Population">Population</a></li>
+<li><a href="/wiki/Population_ethics" title="Population ethics">Population ethics</a></li>
+<li><a href="/wiki/Population_momentum" title="Population momentum">Population momentum</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Reproductive_rights" title="Reproductive rights">Women's reproductive rights</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero population growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Biological and<br />
+related topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a>
+<ul>
+<li><a href="/wiki/Population_Matters#Pledge_two_or_fewer" title="Population Matters">Pledge two or fewer</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Human_population_planning" title="Human population planning">Human population planning</a>
+<ul>
+<li><a href="/wiki/One-child_policy" title="One-child policy">One-child policy</a></li>
+<li><a href="/wiki/Two-child_policy" title="Two-child policy">Two-child policy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Population_biology" title="Population biology">Population biology</a></li>
+<li><a href="/wiki/Population_decline" title="Population decline">Population decline</a></li>
+<li><a href="/wiki/Population_density" title="Population density">Population density</a>
+<ul>
+<li><a href="/wiki/Physiological_density" title="Physiological density">Physiological density</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_growth" title="Population growth">Population growth</a></li>
+<li><a href="/wiki/Population_model" title="Population model">Population model</a></li>
+<li><a href="/wiki/Population_pyramid" title="Population pyramid">Population pyramid</a></li>
+<li><a href="/wiki/Projections_of_population_growth" title="Projections of population growth">Projections of population growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;"><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on<br />
+the environment</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Desertification" title="Desertification">Desertification</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Environmental impact</a>
+<ul>
+<li><a href="/wiki/Environmental_impact_of_agriculture" title="Environmental impact of agriculture">of agriculture</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">of aviation</a></li>
+<li><a href="/wiki/Environmental_impact_of_biodiesel" title="Environmental impact of biodiesel">of biodiesel</a></li>
+<li><a href="/wiki/Environmental_impact_of_concrete" title="Environmental impact of concrete">of concrete</a></li>
+<li><a href="/wiki/Environmental_impact_of_electricity_generation" title="Environmental impact of electricity generation">of electricity generation</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_energy_industry" title="Environmental impact of the energy industry">of the energy industry</a></li>
+<li><a href="/wiki/Environmental_impact_of_fishing" title="Environmental impact of fishing">of fishing</a></li>
+<li><a href="/wiki/Environmental_impact_of_irrigation" title="Environmental impact of irrigation">of irrigation</a></li>
+<li><a href="/wiki/Environmental_impact_of_mining" title="Environmental impact of mining">of mining</a></li>
+<li><a href="/wiki/Off-roading#Environmental_impact" title="Off-roading">of off-roading</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_oil_shale_industry" title="Environmental impact of the oil shale industry">of oil shale industry</a></li>
+<li><a href="/wiki/Social_and_environmental_impact_of_palm_oil" title="Social and environmental impact of palm oil">of palm oil</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper" title="Environmental impact of paper">of paper</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_petroleum_industry" title="Environmental impact of the petroleum industry">of the petroleum industry</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">of reservoirs</a></li>
+<li><a href="/wiki/Environmental_impact_of_shipping" title="Environmental impact of shipping">of shipping</a></li>
+<li><a href="/wiki/Environmental_impact_of_war" title="Environmental impact of war">of war</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Industrialisation" title="Industrialisation">Industrialisation</a></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Land degradation</a></li>
+<li><a href="/wiki/Land_reclamation" title="Land reclamation">Land reclamation</a></li>
+<li><a href="/wiki/Overconsumption" title="Overconsumption">Overconsumption</a></li>
+<li><a href="/wiki/Pollution" title="Pollution">Pollution</a></li>
+<li><a href="/wiki/Quarry" title="Quarry">Quarrying</a></li>
+<li><a href="/wiki/Urbanization" title="Urbanization">Urbanization</a>
+<ul>
+<li><a href="/wiki/Green_belt" title="Green belt">Loss of green belts</a></li>
+<li><a href="/wiki/Urban_sprawl" title="Urban sprawl">Urban sprawl</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Waste" title="Waste">Waste</a></li>
+<li><a href="/wiki/Water_scarcity" title="Water scarcity">Water scarcity</a>
+<ul>
+<li><a href="/wiki/Overdrafting" title="Overdrafting">Overdrafting</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Population_ecology" title="Population ecology">Population<br />
+ecology</a></div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carrying_capacity#Humans" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Food security</a></li>
+<li><a href="/wiki/Habitat_destruction" title="Habitat destruction">Habitat destruction</a></li>
+<li><span class="nowrap"><a href="/wiki/I_%3D_PAT" title="I = PAT">I = P × A  × T</a></span></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Overshoot_(population)" title="Overshoot (population)">Overshoot (population)</a></li>
+<li><a href="/wiki/World_energy_consumption" title="World energy consumption">World energy consumption</a></li>
+<li><a href="/wiki/World_energy_resources" title="World energy resources">World energy resources</a></li>
+<li><a href="/wiki/World3" title="World3">World3 model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Literature</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/A_Modest_Proposal" title="A Modest Proposal">A Modest Proposal</a></i></li>
+<li><i><a href="/wiki/Observations_Concerning_the_Increase_of_Mankind,_Peopling_of_Countries,_etc." title="Observations Concerning the Increase of Mankind, Peopling of Countries, etc.">Observations Concerning the Increase of Mankind, Peopling of Countries, etc.</a></i></li>
+<li><i><a href="/wiki/An_Essay_on_the_Principle_of_Population" title="An Essay on the Principle of Population">An Essay on the Principle of Population</a></i></li>
+<li>"<a href="/wiki/How_Much_Land_Does_a_Man_Need%3F" title="How Much Land Does a Man Need?">How Much Land Does a Man Need?</a>"</li>
+<li><i><a href="/wiki/Operating_Manual_for_Spaceship_Earth" title="Operating Manual for Spaceship Earth">Operating Manual for Spaceship Earth</a></i></li>
+<li><i><a href="/wiki/Population_Control:_Real_Costs,_Illusory_Benefits" title="Population Control: Real Costs, Illusory Benefits">Population Control: Real Costs, Illusory Benefits</a></i></li>
+<li><i><a href="/wiki/The_Limits_to_Growth" title="The Limits to Growth">The Limits to Growth</a></i></li>
+<li><i><a href="/wiki/The_Population_Bomb" title="The Population Bomb">The Population Bomb</a></i></li>
+<li><i><a href="/wiki/The_Skeptical_Environmentalist" title="The Skeptical Environmentalist">The Skeptical Environmentalist</a></i></li>
+<li><i><a href="/wiki/The_Ultimate_Resource" title="The Ultimate Resource">The Ultimate Resource</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Publications</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Population_and_Environment" title="Population and Environment">Population and Environment</a></li>
+<li><a href="/wiki/Population_and_Development_Review" title="Population and Development Review">Population and Development Review</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Lists</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Population_and_housing_censuses_by_country" title="Population and housing censuses by country">Population and housing censuses by country</a></li>
+<li><a href="/wiki/List_of_metropolitan_areas_by_population" title="List of metropolitan areas by population">Metropolitan areas by population</a></li>
+<li><a href="/wiki/Population_milestone_babies" title="Population milestone babies">Population milestone babies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">
+<div style="padding:0.1em 0;line-height:1.2em;">Events and<br />
+organizations</div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/7_Billion_Actions" title="7 Billion Actions">7 Billion Actions</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">International Conference on Population and Development</a></li>
+<li><a href="/wiki/Population_Action_International" title="Population Action International">Population Action International</a></li>
+<li><a href="/wiki/Population_Connection" title="Population Connection">Population Connection</a></li>
+<li><a href="/wiki/Population_Matters" title="Population Matters">Population Matters</a></li>
+<li><a href="/wiki/Population_Research_Institute" title="Population Research Institute">Population Research Institute</a></li>
+<li><a href="/wiki/United_Nations_Population_Fund" title="United Nations Population Fund">United Nations Population Fund</a></li>
+<li><a href="/wiki/Voluntary_Human_Extinction_Movement" title="Voluntary Human Extinction Movement">Voluntary Human Extinction Movement</a></li>
+<li><a href="/wiki/World_Population_Day" title="World Population Day">World Population Day</a></li>
+<li><a href="/wiki/World_Population_Foundation" title="World Population Foundation">World Population Foundation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eee;">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Classic_Maya_collapse" title="Classic Maya collapse">Classic Maya collapse</a></li>
+<li><a href="/wiki/Fertility_and_intelligence" title="Fertility and intelligence">Fertility and intelligence</a></li>
+<li><a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Human_migration" title="Human migration">Migration</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Human_overpopulation" class="extiw" title="commons:Category:Human overpopulation">Commons</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Human_overpopulation" title="Category:Human overpopulation">Human overpopulation</a></li>
+<li><a href="/wiki/Category:Human_activities_with_impact_on_the_environment" title="Category:Human activities with impact on the environment">Human activities with impact on the environment</a></li>
+<li><a href="/wiki/Category:Human_migration" title="Category:Human migration">Human migration</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Ecology:_Modelling_ecosystems:_Trophic_components" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ecology:_Modelling_ecosystems:_Trophic_components" style="font-size:114%;margin:0 4em"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: <a href="/wiki/Trophic_level" title="Trophic level">Trophic</a> components</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abiotic_component" title="Abiotic component">Abiotic component</a></li>
+<li><a href="/wiki/Abiotic_stress" title="Abiotic stress">Abiotic stress</a></li>
+<li><a href="/wiki/Behavioral_ecology" title="Behavioral ecology">Behaviour</a></li>
+<li><a href="/wiki/Biogeochemical_cycle" title="Biogeochemical cycle">Biogeochemical cycle</a></li>
+<li><a href="/wiki/Biomass_(ecology)" title="Biomass (ecology)">Biomass</a></li>
+<li><a href="/wiki/Biotic_component" title="Biotic component">Biotic component</a></li>
+<li><a href="/wiki/Biotic_stress" title="Biotic stress">Biotic stress</a></li>
+<li><strong class="selflink">Carrying capacity</strong></li>
+<li><a href="/wiki/Competition_(biology)" title="Competition (biology)">Competition</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/Ecosystem_ecology" title="Ecosystem ecology">Ecosystem ecology</a></li>
+<li><a href="/wiki/Ecosystem_model" title="Ecosystem model">Ecosystem model</a></li>
+<li><a href="/wiki/Keystone_species" title="Keystone species">Keystone species</a></li>
+<li><a href="/wiki/List_of_feeding_behaviours" title="List of feeding behaviours">List of feeding behaviours</a></li>
+<li><a href="/wiki/Metabolic_theory_of_ecology" title="Metabolic theory of ecology">Metabolic theory of ecology</a></li>
+<li><a href="/wiki/Productivity_(ecology)" title="Productivity (ecology)">Productivity</a></li>
+<li><a href="/wiki/Resource_(biology)" title="Resource (biology)">Resource</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Primary_producers" title="Primary producers">Producers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autotroph" title="Autotroph">Autotrophs</a></li>
+<li><a href="/wiki/Chemosynthesis" title="Chemosynthesis">Chemosynthesis</a></li>
+<li><a href="/wiki/Chemotroph" title="Chemotroph">Chemotrophs</a></li>
+<li><a href="/wiki/Foundation_species" title="Foundation species">Foundation species</a></li>
+<li><a href="/wiki/Mixotroph" title="Mixotroph">Mixotrophs</a></li>
+<li><a href="/wiki/Myco-heterotrophy" title="Myco-heterotrophy">Myco-heterotrophy</a></li>
+<li><a href="/wiki/Mycotroph" title="Mycotroph">Mycotroph</a></li>
+<li><a href="/wiki/Organotroph" title="Organotroph">Organotrophs</a></li>
+<li><a href="/wiki/Photoheterotroph" title="Photoheterotroph">Photoheterotrophs</a></li>
+<li><a href="/wiki/Photosynthesis" title="Photosynthesis">Photosynthesis</a></li>
+<li><a href="/wiki/Photosynthetic_efficiency" title="Photosynthetic efficiency">Photosynthetic efficiency</a></li>
+<li><a href="/wiki/Phototroph" title="Phototroph">Phototrophs</a></li>
+<li><a href="/wiki/Primary_nutritional_groups" title="Primary nutritional groups">Primary nutritional groups</a></li>
+<li><a href="/wiki/Primary_production" title="Primary production">Primary production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Consumers_(food_chain)" class="mw-redirect" title="Consumers (food chain)">Consumers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apex_predator" title="Apex predator">Apex predator</a></li>
+<li><a href="/wiki/Bacterivore" title="Bacterivore">Bacterivore</a></li>
+<li><a href="/wiki/Carnivore" title="Carnivore">Carnivores</a></li>
+<li><a href="/wiki/Chemoorganotroph" class="mw-redirect" title="Chemoorganotroph">Chemoorganotroph</a></li>
+<li><a href="/wiki/Foraging" title="Foraging">Foraging</a></li>
+<li><a href="/wiki/Generalist_and_specialist_species" title="Generalist and specialist species">Generalist and specialist species</a></li>
+<li><a href="/wiki/Intraguild_predation" title="Intraguild predation">Intraguild predation</a></li>
+<li><a href="/wiki/Herbivore" title="Herbivore">Herbivores</a></li>
+<li><a href="/wiki/Heterotroph" title="Heterotroph">Heterotroph</a></li>
+<li><a href="/wiki/Heterotrophic_nutrition" title="Heterotrophic nutrition">Heterotrophic nutrition</a></li>
+<li><a href="/wiki/Insectivore" title="Insectivore">Insectivore</a></li>
+<li><a href="/wiki/Mesopredator_release_hypothesis" title="Mesopredator release hypothesis">Mesopredator release hypothesis</a></li>
+<li><a href="/wiki/Omnivore" title="Omnivore">Omnivores</a></li>
+<li><a href="/wiki/Optimal_foraging_theory" title="Optimal foraging theory">Optimal foraging theory</a></li>
+<li><a href="/wiki/Predation" title="Predation">Predation</a></li>
+<li><a href="/wiki/Prey_switching" title="Prey switching">Prey switching</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Decomposer" title="Decomposer">Decomposers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemoorganoheterotrophy" class="mw-redirect" title="Chemoorganoheterotrophy">Chemoorganoheterotrophy</a></li>
+<li><a href="/wiki/Decomposition" title="Decomposition">Decomposition</a></li>
+<li><a href="/wiki/Detritivore" title="Detritivore">Detritivores</a></li>
+<li><a href="/wiki/Detritus" title="Detritus">Detritus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Microorganism#Habitats_and_ecology" title="Microorganism">Microorganisms</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Archaea" title="Archaea">Archaea</a></li>
+<li><a href="/wiki/Bacteriophage" title="Bacteriophage">Bacteriophage</a></li>
+<li><a href="/wiki/Environmental_microbiology" class="mw-redirect" title="Environmental microbiology">Environmental microbiology</a></li>
+<li><a href="/wiki/Lithoautotroph" title="Lithoautotroph">Lithoautotroph</a></li>
+<li><a href="/wiki/Lithotroph" title="Lithotroph">Lithotrophy</a></li>
+<li><a href="/wiki/Microbial_cooperation" title="Microbial cooperation">Microbial cooperation</a></li>
+<li><a href="/wiki/Microbial_ecology" title="Microbial ecology">Microbial ecology</a></li>
+<li><a href="/wiki/Microbial_food_web" title="Microbial food web">Microbial food web</a></li>
+<li><a href="/wiki/Microbial_intelligence" title="Microbial intelligence">Microbial intelligence</a></li>
+<li><a href="/wiki/Microbial_loop" title="Microbial loop">Microbial loop</a></li>
+<li><a href="/wiki/Microbial_mat" title="Microbial mat">Microbial mat</a></li>
+<li><a href="/wiki/Microbial_metabolism" title="Microbial metabolism">Microbial metabolism</a></li>
+<li><a href="/wiki/Phage_ecology" title="Phage ecology">Phage ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Food_web" title="Food web">Food webs</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomagnification" title="Biomagnification">Biomagnification</a></li>
+<li><a href="/wiki/Ecological_efficiency" title="Ecological efficiency">Ecological efficiency</a></li>
+<li><a href="/wiki/Ecological_pyramid" title="Ecological pyramid">Ecological pyramid</a></li>
+<li><a href="/wiki/Energy_flow_(ecology)" title="Energy flow (ecology)">Energy flow</a></li>
+<li><a href="/wiki/Food_chain" title="Food chain">Food chain</a></li>
+<li><a href="/wiki/Trophic_level" title="Trophic level">Trophic level</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Example webs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seeps</a></li>
+<li><a href="/wiki/Hydrothermal_vent#Biological_communities" title="Hydrothermal vent">Hydrothermal vents</a></li>
+<li><a href="/wiki/Intertidal_ecology" title="Intertidal ecology">Intertidal</a></li>
+<li><a href="/wiki/Kelp_forest#Trophic_ecology" title="Kelp forest">Kelp forests</a></li>
+<li><a href="/wiki/Lake_ecosystem#Trophic_relationships" title="Lake ecosystem">Lakes</a></li>
+<li><a href="/wiki/North_Pacific_Subtropical_Gyre" class="mw-redirect" title="North Pacific Subtropical Gyre">North Pacific Subtropical Gyre</a></li>
+<li><a href="/wiki/River_ecosystem#Trophic_relationships" title="River ecosystem">Rivers</a></li>
+<li><a href="/wiki/Ecology_of_the_San_Francisco_Estuary#Food_web" title="Ecology of the San Francisco Estuary">San Francisco Estuary</a></li>
+<li><a href="/wiki/Soil_food_web" title="Soil food web">Soil</a></li>
+<li><a href="/wiki/Tide_pool" title="Tide pool">Tide pool</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Processes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ascendency" title="Ascendency">Ascendency</a></li>
+<li><a href="/wiki/Bioaccumulation" title="Bioaccumulation">Bioaccumulation</a></li>
+<li><a href="/wiki/Cascade_effect_(ecology)" title="Cascade effect (ecology)">Cascade effect</a></li>
+<li><a href="/wiki/Climax_community" title="Climax community">Climax community</a></li>
+<li><a href="/wiki/Competitive_exclusion_principle" title="Competitive exclusion principle">Competitive exclusion principle</a></li>
+<li><a href="/wiki/Consumer-resource_systems" title="Consumer-resource systems">Consumer-resource systems</a></li>
+<li><a href="/wiki/Copiotroph" title="Copiotroph">Copiotrophs</a></li>
+<li><a href="/wiki/Dominance_(ecology)" title="Dominance (ecology)">Dominance</a></li>
+<li><a href="/wiki/Ecological_network" title="Ecological network">Ecological network</a></li>
+<li><a href="/wiki/Ecological_succession" title="Ecological succession">Ecological succession</a></li>
+<li><a href="/wiki/Energy_quality" title="Energy quality">Energy quality</a></li>
+<li><a href="/wiki/Energy_Systems_Language" title="Energy Systems Language">Energy Systems Language</a></li>
+<li><a href="/wiki/F-ratio" title="F-ratio">f-ratio</a></li>
+<li><a href="/wiki/Feed_conversion_ratio" title="Feed conversion ratio">Feed conversion ratio</a></li>
+<li><a href="/wiki/Feeding_frenzy" title="Feeding frenzy">Feeding frenzy</a></li>
+<li><a href="/wiki/Mesotrophic_soil" title="Mesotrophic soil">Mesotrophic soil</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Nutrient cycle</a></li>
+<li><a href="/wiki/Oligotroph" title="Oligotroph">Oligotroph</a></li>
+<li><a href="/wiki/Paradox_of_the_plankton" title="Paradox of the plankton">Paradox of the plankton</a></li>
+<li><a href="/wiki/Trophic_cascade" title="Trophic cascade">Trophic cascade</a></li>
+<li><a href="/wiki/Trophic_mutualism" title="Trophic mutualism">Trophic mutualism</a></li>
+<li><a href="/wiki/Trophic_state_index" title="Trophic state index">Trophic state index</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Defense/counter</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Animal_coloration" title="Animal coloration">Animal coloration</a></li>
+<li><a href="/wiki/Antipredator_adaptation" class="mw-redirect" title="Antipredator adaptation">Antipredator adaptations</a></li>
+<li><a href="/wiki/Camouflage" title="Camouflage">Camouflage</a></li>
+<li><a href="/wiki/Deimatic_behaviour" title="Deimatic behaviour">Deimatic behaviour</a></li>
+<li><a href="/wiki/Herbivore_adaptations_to_plant_defense" title="Herbivore adaptations to plant defense">Herbivore adaptations to plant defense</a></li>
+<li><a href="/wiki/Mimicry" title="Mimicry">Mimicry</a></li>
+<li><a href="/wiki/Plant_defense_against_herbivory" title="Plant defense against herbivory">Plant defense against herbivory</a></li>
+<li><a href="/wiki/Shoaling_and_schooling#Predator_avoidance" title="Shoaling and schooling">Predator avoidance in schooling fish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Ecology:_Modelling_ecosystems:_Other_components" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ecology:_Modelling_ecosystems:_Other_components" style="font-size:114%;margin:0 4em"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: Other components</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Population_ecology" title="Population ecology">Population ecology</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abundance_(ecology)" title="Abundance (ecology)">Abundance</a></li>
+<li><a href="/wiki/Allee_effect" title="Allee effect">Allee effect</a></li>
+<li><a href="/wiki/Depensation" title="Depensation">Depensation</a></li>
+<li><a href="/wiki/Ecological_yield" title="Ecological yield">Ecological yield</a></li>
+<li><a href="/wiki/Effective_population_size" title="Effective population size">Effective population size</a></li>
+<li><a href="/wiki/Intraspecific_competition" title="Intraspecific competition">Intraspecific competition</a></li>
+<li><a href="/wiki/Logistic_function" title="Logistic function">Logistic function</a></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Maximum_sustainable_yield" title="Maximum sustainable yield">Maximum sustainable yield</a></li>
+<li><a href="/wiki/Overpopulation_in_wild_animals" class="mw-redirect" title="Overpopulation in wild animals">Overpopulation in wild animals</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Population_cycle" title="Population cycle">Population cycle</a></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_modeling" class="mw-redirect" title="Population modeling">Population modeling</a></li>
+<li><a href="/wiki/Population_size" title="Population size">Population size</a></li>
+<li><a href="/wiki/Lotka%E2%80%93Volterra_equations" title="Lotka–Volterra equations">Predator–prey (Lotka–Volterra) equations</a></li>
+<li><a href="/wiki/Recruitment_(biology)" title="Recruitment (biology)">Recruitment</a></li>
+<li><a href="/wiki/Resilience_(ecology)" class="mw-redirect" title="Resilience (ecology)">Resilience</a></li>
+<li><a href="/wiki/Small_population_size" title="Small population size">Small population size</a></li>
+<li><a href="/wiki/Ecological_stability" title="Ecological stability">Stability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Species</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Density-dependent_inhibition" class="mw-redirect" title="Density-dependent inhibition">Density-dependent inhibition</a></li>
+<li><a href="/wiki/Ecological_effects_of_biodiversity" title="Ecological effects of biodiversity">Ecological effects of biodiversity</a></li>
+<li><a href="/wiki/Ecological_extinction" title="Ecological extinction">Ecological extinction</a></li>
+<li><a href="/wiki/Endemic_species" class="mw-redirect" title="Endemic species">Endemic species</a></li>
+<li><a href="/wiki/Flagship_species" title="Flagship species">Flagship species</a></li>
+<li><a href="/wiki/Gradient_analysis" class="mw-redirect" title="Gradient analysis">Gradient analysis</a></li>
+<li><a href="/wiki/Indicator_species" title="Indicator species">Indicator species</a></li>
+<li><a href="/wiki/Introduced_species" title="Introduced species">Introduced species</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+<li><a href="/wiki/Latitudinal_gradients_in_species_diversity" title="Latitudinal gradients in species diversity">Latitudinal gradients in species diversity</a></li>
+<li><a href="/wiki/Minimum_viable_population" title="Minimum viable population">Minimum viable population</a></li>
+<li><a href="/wiki/Unified_neutral_theory_of_biodiversity" title="Unified neutral theory of biodiversity">Neutral theory</a></li>
+<li><a href="/wiki/Occupancy%E2%80%93abundance_relationship" title="Occupancy–abundance relationship">Occupancy–abundance relationship</a></li>
+<li><a href="/wiki/Population_viability_analysis" title="Population viability analysis">Population viability analysis</a></li>
+<li><a href="/wiki/Priority_effect" title="Priority effect">Priority effect</a></li>
+<li><a href="/wiki/Rapoport%27s_rule" title="Rapoport's rule">Rapoport's rule</a></li>
+<li><a href="/wiki/Relative_abundance_distribution" title="Relative abundance distribution">Relative abundance distribution</a></li>
+<li><a href="/wiki/Relative_species_abundance" title="Relative species abundance">Relative species abundance</a></li>
+<li><a href="/wiki/Species_diversity" title="Species diversity">Species diversity</a></li>
+<li><a href="/wiki/Species_homogeneity" title="Species homogeneity">Species homogeneity</a></li>
+<li><a href="/wiki/Species_richness" title="Species richness">Species richness</a></li>
+<li><a href="/wiki/Species_distribution" title="Species distribution">Species distribution</a></li>
+<li><a href="/wiki/Species-area_curve" class="mw-redirect" title="Species-area curve">Species-area curve</a></li>
+<li><a href="/wiki/Umbrella_species" title="Umbrella species">Umbrella species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Species interaction</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antibiosis" title="Antibiosis">Antibiosis</a></li>
+<li><a href="/wiki/Biological_interaction" title="Biological interaction">Biological interaction</a></li>
+<li><a href="/wiki/Commensalism" title="Commensalism">Commensalism</a></li>
+<li><a href="/wiki/Community_ecology" class="mw-redirect" title="Community ecology">Community ecology</a></li>
+<li><a href="/wiki/Ecological_facilitation" title="Ecological facilitation">Ecological facilitation</a></li>
+<li><a href="/wiki/Interspecific_competition" title="Interspecific competition">Interspecific competition</a></li>
+<li><a href="/wiki/Mutualism_(biology)" title="Mutualism (biology)">Mutualism</a></li>
+<li><a href="/wiki/Storage_effect" title="Storage effect">Storage effect</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Spatial_ecology" title="Spatial ecology">Spatial ecology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biogeography" title="Biogeography">Biogeography</a></li>
+<li><a href="/wiki/Cross-boundary_subsidy" title="Cross-boundary subsidy">Cross-boundary subsidy</a></li>
+<li><a href="/wiki/Ecocline" class="mw-redirect" title="Ecocline">Ecocline</a></li>
+<li><a href="/wiki/Ecotone" title="Ecotone">Ecotone</a></li>
+<li><a href="/wiki/Ecotype" title="Ecotype">Ecotype</a></li>
+<li><a href="/wiki/Disturbance_(ecology)" title="Disturbance (ecology)">Disturbance</a></li>
+<li><a href="/wiki/Edge_effects" title="Edge effects">Edge effects</a></li>
+<li><a href="/wiki/Foster%27s_rule" title="Foster's rule">Foster's rule</a></li>
+<li><a href="/wiki/Habitat_fragmentation" title="Habitat fragmentation">Habitat fragmentation</a></li>
+<li><a href="/wiki/Ideal_free_distribution" title="Ideal free distribution">Ideal free distribution</a></li>
+<li><a href="/wiki/Intermediate_Disturbance_Hypothesis" title="Intermediate Disturbance Hypothesis">Intermediate Disturbance Hypothesis</a></li>
+<li><a href="/wiki/Island_biogeography" class="mw-redirect" title="Island biogeography">Island biogeography</a></li>
+<li><a href="/wiki/Landscape_ecology" title="Landscape ecology">Landscape ecology</a></li>
+<li><a href="/wiki/Landscape_epidemiology" title="Landscape epidemiology">Landscape epidemiology</a></li>
+<li><a href="/wiki/Landscape_limnology" title="Landscape limnology">Landscape limnology</a></li>
+<li><a href="/wiki/Metapopulation" title="Metapopulation">Metapopulation</a></li>
+<li><a href="/wiki/Patch_dynamics" title="Patch dynamics">Patch dynamics</a></li>
+<li><a href="/wiki/R/K_selection_theory" title="R/K selection theory">r/K selection theory</a></li>
+<li><a href="/wiki/Source%E2%80%93sink_dynamics" title="Source–sink dynamics">Source–sink dynamics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Ecological_niche" title="Ecological niche">Niche</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ecological_niche" title="Ecological niche">Ecological niche</a></li>
+<li><a href="/wiki/Ecological_trap" title="Ecological trap">Ecological trap</a></li>
+<li><a href="/wiki/Ecosystem_engineer" title="Ecosystem engineer">Ecosystem engineer</a></li>
+<li><a href="/wiki/Environmental_niche_modelling" title="Environmental niche modelling">Environmental niche modelling</a></li>
+<li><a href="/wiki/Guild_(ecology)" title="Guild (ecology)">Guild</a></li>
+<li><a href="/wiki/Habitat" title="Habitat">Habitat</a></li>
+<li><a href="/wiki/Marine_habitats" title="Marine habitats">Marine habitats</a></li>
+<li><a href="/wiki/Limiting_similarity" title="Limiting similarity">Limiting similarity</a></li>
+<li><a href="/wiki/Niche_apportionment_models" title="Niche apportionment models">Niche apportionment models</a></li>
+<li><a href="/wiki/Niche_construction" title="Niche construction">Niche construction</a></li>
+<li><a href="/wiki/Niche_differentiation" title="Niche differentiation">Niche differentiation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Non-trophic_networks" title="Non-trophic networks">Other networks</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Assembly_rules" title="Assembly rules">Assembly rules</a></li>
+<li><a href="/wiki/Bateman%27s_principle" title="Bateman's principle">Bateman's principle</a></li>
+<li><a href="/wiki/Bioluminescence" title="Bioluminescence">Bioluminescence</a></li>
+<li><a href="/wiki/Ecological_collapse" title="Ecological collapse">Ecological collapse</a></li>
+<li><a href="/wiki/Ecological_debt" title="Ecological debt">Ecological debt</a></li>
+<li><a href="/wiki/Ecological_deficit" class="mw-redirect" title="Ecological deficit">Ecological deficit</a></li>
+<li><a href="/wiki/Ecological_energetics" class="mw-redirect" title="Ecological energetics">Ecological energetics</a></li>
+<li><a href="/wiki/Ecological_indicator" title="Ecological indicator">Ecological indicator</a></li>
+<li><a href="/wiki/Ecological_threshold" title="Ecological threshold">Ecological threshold</a></li>
+<li><a href="/wiki/Ecosystem_diversity" title="Ecosystem diversity">Ecosystem diversity</a></li>
+<li><a href="/wiki/Emergence" title="Emergence">Emergence</a></li>
+<li><a href="/wiki/Extinction_debt" title="Extinction debt">Extinction debt</a></li>
+<li><a href="/wiki/Kleiber%27s_law" title="Kleiber's law">Kleiber's law</a></li>
+<li><a href="/wiki/Liebig%27s_law_of_the_minimum" title="Liebig's law of the minimum">Liebig's law of the minimum</a></li>
+<li><a href="/wiki/Marginal_value_theorem" title="Marginal value theorem">Marginal value theorem</a></li>
+<li><a href="/wiki/Thorson%27s_rule" title="Thorson's rule">Thorson's rule</a></li>
+<li><a href="/wiki/Xerosere" title="Xerosere">Xerosere</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Allometry" title="Allometry">Allometry</a></li>
+<li><a href="/wiki/Alternative_stable_state" title="Alternative stable state">Alternative stable state</a></li>
+<li><a href="/wiki/Balance_of_nature" title="Balance of nature">Balance of nature</a></li>
+<li><a href="/wiki/Biological_data_visualization" title="Biological data visualization">Biological data visualization</a></li>
+<li><a href="/wiki/Constructal_theory" class="mw-redirect" title="Constructal theory">Constructal theory</a></li>
+<li><a href="/wiki/Cline_(biology)" title="Cline (biology)">Ecocline</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ecological_forecasting" title="Ecological forecasting">Ecological forecasting</a></li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li><a href="/wiki/Ecological_stoichiometry" title="Ecological stoichiometry">Ecological stoichiometry</a></li>
+<li><a href="/wiki/Ecopath" title="Ecopath">Ecopath</a></li>
+<li><a href="/wiki/Ecosystem_based_fisheries" class="mw-redirect" title="Ecosystem based fisheries">Ecosystem based fisheries</a></li>
+<li><a href="/wiki/Endolith" title="Endolith">Endolith</a></li>
+<li><a href="/wiki/Evolutionary_ecology" title="Evolutionary ecology">Evolutionary ecology</a></li>
+<li><a href="/wiki/Functional_ecology" title="Functional ecology">Functional ecology</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Macroecology" title="Macroecology">Macroecology</a></li>
+<li><a href="/wiki/Microecosystem" title="Microecosystem">Microecosystem</a></li>
+<li><a href="/wiki/Natural_environment" title="Natural environment">Natural environment</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Theoretical_ecology" title="Theoretical ecology">Theoretical ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/List_of_ecology_topics" class="mw-redirect" title="List of ecology topics">List of ecology topics</a></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1249
+Cached time: 20170313053435
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.220 seconds
+Real time usage: 0.288 seconds
+Preprocessor visited node count: 1511/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 94204/2097152 bytes
+Template argument size: 2103/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 4.17 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  200.570      1 -total
+ 38.94%   78.111      1 Template:Reflist
+ 18.16%   36.418      4 Template:Cite_journal
+ 17.59%   35.280      1 Template:Contradicts_other
+ 16.09%   32.262      3 Template:Fix
+ 12.29%   24.646      3 Template:Navbox
+ 11.53%   23.116      1 Template:Ambox
+ 10.10%   20.253      1 Template:Verify_source
+  9.54%   19.132      1 Template:Population
+  8.53%   17.109      2 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47544-0!*!0!!en!4!* and timestamp 20170313053435 and revision id 770050560
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Carrying_capacity&amp;oldid=770050560">https://en.wikipedia.org/w/index.php?title=Carrying_capacity&amp;oldid=770050560</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ecological_metrics" title="Category:Ecological metrics">Ecological metrics</a></li><li><a href="/wiki/Category:Population_ecology" title="Category:Population ecology">Population ecology</a></li><li><a href="/wiki/Category:Population" title="Category:Population">Population</a></li><li><a href="/wiki/Category:Demography" title="Category:Demography">Demography</a></li><li><a href="/wiki/Category:Human_overpopulation" title="Category:Human overpopulation">Human overpopulation</a></li><li><a href="/wiki/Category:Economic_geography" title="Category:Economic geography">Economic geography</a></li><li><a href="/wiki/Category:Ecological_economics" title="Category:Ecological economics">Ecological economics</a></li><li><a href="/wiki/Category:Environmental_social_science_concepts" title="Category:Environmental social science concepts">Environmental social science concepts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:Articles_contradicting_other_articles" title="Category:Articles contradicting other articles">Articles contradicting other articles</a></li><li><a href="/wiki/Category:All_pages_needing_factual_verification" title="Category:All pages needing factual verification">All pages needing factual verification</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_factual_verification_from_May_2009" title="Category:Wikipedia articles needing factual verification from May 2009">Wikipedia articles needing factual verification from May 2009</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2011" title="Category:Articles with unsourced statements from January 2011">Articles with unsourced statements from January 2011</a></li><li><a href="/wiki/Category:All_articles_with_links_needing_disambiguation" title="Category:All articles with links needing disambiguation">All articles with links needing disambiguation</a></li><li><a href="/wiki/Category:Articles_with_links_needing_disambiguation_from_October_2016" title="Category:Articles with links needing disambiguation from October 2016">Articles with links needing disambiguation from October 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Carrying+capacity" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Carrying+capacity" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Carrying_capacity"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Carrying_capacity"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Carrying_capacity" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Carrying_capacity&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Carrying_capacity&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Carrying_capacity" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Carrying_capacity" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Carrying_capacity&amp;oldid=770050560" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Carrying_capacity&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q866283" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Carrying_capacity&amp;id=770050560" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Carrying+capacity">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Carrying+capacity&amp;returnto=Carrying+capacity&amp;oldid=770050560&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Carrying_capacity&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Distribution_of_wealth" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%AF%D8%B1%D8%A9_%D8%A7%D8%B3%D8%AA%D9%8A%D8%B9%D8%A7%D8%A8%D9%8A%D8%A9" title="قدرة استيعابية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Capacid%C3%A1_de_carga" title="Capacidá de carga – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Capacitat_de_c%C3%A0rrega" title="Capacitat de càrrega – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Tragf%C3%A4higkeit_(%C3%96kologie)" title="Tragfähigkeit (Ökologie) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Keskkonnamahutavus" title="Keskkonnamahutavus – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Capacidad_de_carga" title="Capacidad de carga – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Eltena_kapacito" title="Eltena kapacito – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Capacit%C3%A9_porteuse" title="Capacité porteuse – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%99%98%EA%B2%BD%EC%9A%A9%EB%9F%89" title="환경용량 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B9%E0%A4%A8_%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A4%A4%E0%A4%BE" title="वहन क्षमता – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Capacit%C3%A0_portante_dell%27ambiente" title="Capacità portante dell'ambiente – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%A9%D7%A8_%D7%A0%D7%A9%D7%99%D7%90%D7%94" title="כושר נשיאה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Kapasite_p%C3%B2tez" title="Kapasite pòtez – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Ekolo%C4%A3isk%C4%81_kapacit%C4%81te" title="Ekoloģiskā kapacitāte – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Draagkracht_van_de_Aarde" title="Draagkracht van de Aarde – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E5%8F%8E%E5%AE%B9%E5%8A%9B" title="環境収容力 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/%C3%98kologisk_b%C3%A6reevne" title="Økologisk bæreevne – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Pojemno%C5%9B%C4%87_%C5%9Brodowiska" title="Pojemność środowiska – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Capacidade_de_carga" title="Capacidade de carga – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%81%D0%BC%D0%BA%D0%BE%D1%81%D1%82%D1%8C_%D1%81%D1%80%D0%B5%D0%B4%D1%8B" title="Ёмкость среды – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Carrying_capacity" title="Carrying capacity – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kantokyky" title="Kantokyky – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/B%C3%A4rf%C3%B6rm%C3%A5ga" title="Bärförmåga – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ta%C5%9F%C4%B1ma_kapasitesi" title="Taşıma kapasitesi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%8E%AF%E5%A2%83%E6%89%BF%E8%BD%BD%E5%8A%9B" title="环境承载力 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q866283#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 March 2017, at 04:09.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Carrying_capacity&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.288","ppvisitednodes":{"value":1511,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":94204,"limit":2097152},"templateargumentsize":{"value":2103,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  200.570      1 -total"," 38.94%   78.111      1 Template:Reflist"," 18.16%   36.418      4 Template:Cite_journal"," 17.59%   35.280      1 Template:Contradicts_other"," 16.09%   32.262      3 Template:Fix"," 12.29%   24.646      3 Template:Navbox"," 11.53%   23.116      1 Template:Ambox"," 10.10%   20.253      1 Template:Verify_source","  9.54%   19.132      1 Template:Population","  8.53%   17.109      2 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.090","limit":"10.000"},"limitreport-memusage":{"value":4369203,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20170313053435","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1186"});});</script>
+	</body>
+</html>

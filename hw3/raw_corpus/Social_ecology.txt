@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Social ecology - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Social_ecology","wgTitle":"Social ecology","wgCurRevisionId":766351994,"wgRevisionId":766351994,"wgArticleId":156286,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Social ecology","Anarchist theory","Ecology","Green anarchism","Bioethics","Environmental social science concepts","Libertarian socialism"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Social_ecology","wgRelevantArticleId":156286,"wgRequestId":"WMk0-ApAIDUAAEZ6SBAAAAAJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q10910958","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/1200px-Sustainable_development.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Social_ecology"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Social_ecology&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Social_ecology&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Social_ecology"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Social_ecology rootpage-Social_ecology skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Social ecology</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the social philosophy. For the academic field, see <a href="/wiki/Social_ecology_(academic_field)" title="Social ecology (academic field)">social ecology (academic field)</a>. For a model of integrated social and ecological system, see <a href="/wiki/Social_ecological_model" title="Social ecological model">Social ecological model</a>.</div>
+<table style="float:right; clear:right; border: 1px solid #BBB; margin-left: 1em; margin-top: 1.2em; align: right auto 1em; padding:0.1em; background-color: #f4f6f7;">
+<tr style="background-color: white;">
+<td style="border: 1px solid lightgray;">
+<div class="center">
+<div class="floatnone">
+<div class="noresize" style="height: 153px; width: 240px; "><map name="ImageMap_1_111828224" id="ImageMap_1_111828224">
+<area href="/wiki/Environment_(biophysical)" shape="poly" coords="41,58,44,66,49,72,55,77,66,83,79,87,78,93,79,99,82,105,85,110,90,115,95,118,86,122,78,125,67,127,55,128,46,127,36,125,26,121,17,116,12,110,7,104,5,98,4,93,5,86,8,79,13,72,19,67,25,64,32,61" alt="Environment" title="Environment" />
+<area href="/wiki/Equity_(economics)" shape="poly" coords="97,66,100,68,103,70,105,73,108,75,110,79,111,83,113,86,120,84,125,82,131,79,136,76,140,72,143,69,146,64,149,58,145,57,139,56,127,56,119,57,113,59,106,61" alt="Equitable" title="Equitable" />
+<area href="/wiki/Sustainable_development" shape="poly" coords="96,66,99,69,101,71,104,73,107,77,110,81,111,86,107,87,103,87,96,88,91,88,85,87,80,86,82,83,83,78,86,75,89,72" alt="Sustainable" title="Sustainable" />
+<area href="/wiki/Social_ecology" shape="poly" coords="43,58,50,56,56,56,63,56,71,57,79,59,86,61,91,64,95,66,92,68,89,71,86,74,83,78,81,82,79,86,75,85,69,83,62,80,57,77,52,73,47,68,45,64" alt="Bearable (Social ecology)" title="Bearable (Social ecology)" />
+<area href="/wiki/Environmental_economics" shape="poly" coords="80,87,80,91,80,96,83,104,85,108,88,111,91,114,96,118,100,115,103,112,106,109,109,104,111,100,112,95,112,92,112,88,109,88,103,89,97,89,90,89,86,88" alt="Viable (Environmental economics)" title="Viable (Environmental economics)" />
+<area href="/wiki/Economics" shape="poly" coords="150,58,156,59,162,62,168,65,175,68,181,74,185,80,187,86,188,92,187,98,185,103,182,108,179,112,174,116,169,119,161,123,155,125,148,127,140,128,130,128,124,127,119,126,113,125,106,123,101,120,97,118,101,116,105,112,108,108,112,99,113,94,113,90,113,87,116,86,123,84,137,77,144,70" alt="Economic" title="Economic" />
+<area href="/wiki/Society" shape="poly" coords="42,56,42,52,43,44,46,38,51,32,57,26,65,23,73,20,84,17,93,16,106,16,114,18,125,21,134,26,138,30,143,34,146,38,149,44,150,49,150,53,150,57,141,56,136,55,123,56,111,58,101,62,96,65,92,62,84,59,77,57,69,56,60,55,60,55,60,55" alt="Social" title="Social" /></map><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/240px-Sustainable_development.svg.png" width="240" height="153" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/360px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/480px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" usemap="#ImageMap_1_111828224" />
+<div style="margin-left: 220px; margin-top: -20px; text-align: left;"><a href="/wiki/File:Sustainable_development.svg" title="About this image"><img alt="About this image" src="/w/extensions/ImageMap/desc-20.png?15600" style="border: none;" /></a></div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr style="font-size: 87%; line-height:134%">
+<td style="border: 0px;">Scheme of sustainable development:<br />
+at the confluence of three constituent parts. (2006)</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Politics" title="Category:Politics">the Politics series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:185%;font-weight:normal;"><a href="/wiki/Communalism_(political_philosophy)" title="Communalism (political philosophy)">Communalism</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;;border-top:1px solid #aaa;padding:0.2em;font-weight:bold;"><a href="/wiki/Murray_Bookchin" title="Murray Bookchin">Murray Bookchin</a></td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:1px solid #aaa;padding-bottom:0;">Concepts</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<ul>
+<li><a href="/wiki/Confederation" title="Confederation">Confederation</a></li>
+<li><a href="/wiki/Libertarian_municipalism" title="Libertarian municipalism">Libertarian municipalism</a></li>
+<li><strong class="selflink">Social ecology</strong></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:1px solid #aaa;padding-bottom:0;">Ideas</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<ul>
+<li><a href="/wiki/Democratic_Confederalism" title="Democratic Confederalism">Democratic Confederalism</a></li>
+<li><a href="/wiki/Lifestyle_anarchism" title="Lifestyle anarchism">Lifestyle anarchism</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:1px solid #aaa;padding-bottom:0;">Related</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<ul>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Libertarian_socialism" title="Libertarian socialism">Libertarian socialism</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:1px solid #aaa;padding-top:0.1em;"><a href="/wiki/Portal:Socialism" title="Portal:Socialism">Socialism portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;border-top:1px solid #aaa;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Communalism" title="Template:Communalism"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Communalism&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Communalism (page does not exist)"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Communalism&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Green_politics" title="Category:Green politics">a series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;background:transparent;"><a href="/wiki/File:Sunflower_(Green_symbol).svg" class="image" title="Sunflower symbol"><img alt="Sunflower symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/90px-Sunflower_%28Green_symbol%29.svg.png" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/135px-Sunflower_%28Green_symbol%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/180px-Sunflower_%28Green_symbol%29.svg.png 2x" data-file-width="438" data-file-height="440" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Core topics</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Four Pillars</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Perspectives</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Green_syndicalism" title="Green syndicalism">Green syndicalism</a></li>
+<li><strong class="selflink">Social ecology</strong></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Organizations</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Related topics</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;padding-top:0.15em; border-color:#76A837">
+<ul>
+<li><a href="/wiki/File:A_coloured_voting_box.svg" class="image"><img alt="A coloured voting box.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/16px-A_coloured_voting_box.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/24px-A_coloured_voting_box.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/32px-A_coloured_voting_box.svg.png 2x" data-file-width="160" data-file-height="160" /></a> <a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></li>
+<li><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="Aegopodium podagraria1 ies.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/16px-Aegopodium_podagraria1_ies.jpg" width="16" height="14" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em;padding-bottom:0.2em;">Part of <a href="/wiki/Category:Libertarian_socialism" title="Category:Libertarian socialism">a series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;padding-bottom:0.5em;line-height:1.0em;font-size:160%;font-weight:normal;"><a href="/wiki/Libertarian_socialism" title="Libertarian socialism">Libertarian socialism</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top: 1px #aaa solid;padding-bottom:0;text-align:center;">Political concepts</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Anti-authoritarianism" title="Anti-authoritarianism">Anti-authoritarianism</a></li>
+<li><a href="/wiki/Anti-Leninism" title="Anti-Leninism">Anti-Leninism</a></li>
+<li><a href="/wiki/Anti-Stalinist_left" title="Anti-Stalinist left">Anti-Stalinist left</a></li>
+<li><a href="/wiki/Anti-statism" title="Anti-statism">Anti-statism</a></li>
+<li><a href="/wiki/Classless_society" title="Classless society">Classless society</a></li>
+<li><a href="/wiki/Consensus_democracy" title="Consensus democracy">Consensus democracy</a></li>
+<li><a href="/wiki/Commune_(socialism)" title="Commune (socialism)">Commune</a></li>
+<li><a href="/wiki/Decentralization" title="Decentralization">Decentralization</a></li>
+<li><a href="/wiki/Direct_democracy" title="Direct democracy">Direct democracy</a></li>
+<li><a href="/wiki/Dual_power" title="Dual power">Dual power</a></li>
+<li><a href="/wiki/Class_conflict" title="Class conflict">Class struggle</a></li>
+<li><a href="/wiki/Egalitarian_community" title="Egalitarian community">Egalitarian community</a></li>
+<li><a href="/wiki/Free_association_(communism_and_anarchism)" title="Free association (communism and anarchism)">Free association</a></li>
+<li><a href="/wiki/Free_love" title="Free love">Free love</a></li>
+<li><a href="/wiki/Anarchistic_free_school" title="Anarchistic free school">Free school</a></li>
+<li><a href="/wiki/General_strike" title="General strike">General strike</a></li>
+<li><a href="/wiki/Libertarian_municipalism" title="Libertarian municipalism">Libertarian municipalism</a></li>
+<li><a href="/wiki/Libertarian_possibilism" title="Libertarian possibilism">Libertarian possibilism</a></li>
+<li><a href="/wiki/Mutual_aid_(organization)" class="mw-redirect" title="Mutual aid (organization)">Mutual aid</a></li>
+<li><a href="/wiki/Prefigurative_politics" title="Prefigurative politics">Prefigurative politics</a></li>
+<li><a href="/wiki/Proletarian_internationalism" title="Proletarian internationalism">Proletarian internationalism</a></li>
+<li><a href="/wiki/Refusal_of_work" title="Refusal of work">Refusal of work</a></li>
+<li><a href="/wiki/Social_center" title="Social center">Social center</a></li>
+<li><a href="/wiki/Stateless_society" title="Stateless society">Stateless society</a></li>
+<li><a href="/wiki/Squatting" title="Squatting">Squatting</a></li>
+<li><a href="/wiki/Ultra-leftism" class="mw-redirect" title="Ultra-leftism">Ultra-leftism</a></li>
+<li><a href="/wiki/Wage_slavery" title="Wage slavery">Wage slavery</a></li>
+<li><a href="/wiki/Workers%27_control" title="Workers' control">Workers' control</a></li>
+<li><a href="/wiki/Workers%27_council" title="Workers' council">Workers' council</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top: 1px #aaa solid;padding-bottom:0;text-align:center;">Economics</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Anarchist_economics" title="Anarchist economics">Anarchist economics</a></li>
+<li><a href="/wiki/Anti-capitalism" title="Anti-capitalism">Anti-capitalism</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Cooperative" title="Cooperative">Cooperative</a></li>
+<li><a href="/wiki/Common_ownership" title="Common ownership">Common ownership</a></li>
+<li><a href="/wiki/Common_resources" class="mw-redirect" title="Common resources">Common resources</a></li>
+<li><a href="/wiki/Cost_the_limit_of_price" title="Cost the limit of price">Cost the limit of price</a></li>
+<li><a href="/wiki/Decentralized_planning_(economics)" title="Decentralized planning (economics)">Decentralized planning</a></li>
+<li><a href="/wiki/Economic_democracy" title="Economic democracy">Economic democracy</a></li>
+<li><a href="/wiki/Give-away_shop" title="Give-away shop">Free store</a></li>
+<li><a href="/wiki/Gift_economy" title="Gift economy">Gift economy</a></li>
+<li><a href="/wiki/Guilds" class="mw-redirect" title="Guilds">Guilds</a></li>
+<li><a href="/wiki/Industrial_democracy" title="Industrial democracy">Industrial democracy</a></li>
+<li><a href="/wiki/Really_Really_Free_Market" title="Really Really Free Market">Really Really Free Market</a></li>
+<li><a href="/wiki/Social_economy" title="Social economy">Social economy</a></li>
+<li><a href="/wiki/Social_enterprise" title="Social enterprise">Social enterprise</a></li>
+<li><a href="/wiki/Socialization_(economics)" class="mw-redirect" title="Socialization (economics)">Socialization</a></li>
+<li><a href="/wiki/State_capitalism" title="State capitalism">State capitalism</a></li>
+<li><a href="/wiki/Use_value" title="Use value">Use value</a></li>
+<li><a href="/wiki/Worker_cooperative" title="Worker cooperative">Worker cooperative</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top: 1px #aaa solid;padding-bottom:0;text-align:center;">People</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Gerrard_Winstanley" title="Gerrard Winstanley">Gerrard Winstanley</a></li>
+<li><a href="/wiki/Sylvain_Mar%C3%A9chal" title="Sylvain Maréchal">Sylvain Maréchal</a></li>
+<li><a href="/wiki/William_Godwin" title="William Godwin">William Godwin</a></li>
+<li><a href="/wiki/Charles_Fourier" title="Charles Fourier">Charles Fourier</a></li>
+<li><a href="/wiki/Josiah_Warren" title="Josiah Warren">Josiah Warren</a></li>
+<li><a href="/wiki/Pierre-Joseph_Proudhon" title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a></li>
+<li><a href="/wiki/Max_Stirner" title="Max Stirner">Max Stirner</a></li>
+<li><a href="/wiki/Mikhail_Bakunin" title="Mikhail Bakunin">Mikhail Bakunin</a></li>
+<li><a href="/wiki/Louise_Michel" title="Louise Michel">Louise Michel</a></li>
+<li><a href="/wiki/Peter_Kropotkin" title="Peter Kropotkin">Peter Kropotkin</a></li>
+<li><a href="/wiki/Karl_Marx" title="Karl Marx">Karl Marx</a></li>
+<li><a href="/wiki/William_Morris" title="William Morris">William Morris</a></li>
+<li><a href="/wiki/Oscar_Wilde" title="Oscar Wilde">Oscar Wilde</a></li>
+<li><a href="/wiki/Benjamin_Tucker" title="Benjamin Tucker">Benjamin Tucker</a></li>
+<li><a href="/wiki/Errico_Malatesta" title="Errico Malatesta">Errico Malatesta</a></li>
+<li><a href="/wiki/Leo_Tolstoy" title="Leo Tolstoy">Leo Tolstoy</a></li>
+<li><a href="/wiki/Albert_Parsons" title="Albert Parsons">Albert Parsons</a></li>
+<li><a href="/wiki/Lucy_Parsons" title="Lucy Parsons">Lucy Parsons</a></li>
+<li><a href="/wiki/Francisco_Ferrer_Guardia" title="Francisco Ferrer Guardia">Francisco Ferrer Guardia</a></li>
+<li><a href="/wiki/Emma_Goldman" title="Emma Goldman">Emma Goldman</a></li>
+<li><a href="/wiki/Alexander_Berkman" title="Alexander Berkman">Alexander Berkman</a></li>
+<li><a href="/wiki/Leon_Czolgosz" title="Leon Czolgosz">Leon Czolgosz</a></li>
+<li><a href="/wiki/Ricardo_Flores_Mag%C3%B3n" title="Ricardo Flores Magón">Ricardo Flores Magón</a></li>
+<li><a href="/wiki/Rosa_Luxemburg" title="Rosa Luxemburg">Rosa Luxemburg</a></li>
+<li><a href="/wiki/Karl_Liebknecht" title="Karl Liebknecht">Karl Liebknecht</a></li>
+<li><a href="/wiki/Gustav_Landauer" title="Gustav Landauer">Gustav Landauer</a></li>
+<li><a href="/wiki/Sacco_and_Vanzetti" title="Sacco and Vanzetti">Sacco and Vanzetti</a></li>
+<li><a href="/wiki/Rudolf_Rocker" title="Rudolf Rocker">Rudolf Rocker</a></li>
+<li><a href="/wiki/Otto_R%C3%BChle" title="Otto Rühle">Otto Rühle</a></li>
+<li><a href="/wiki/Antonie_Pannekoek" title="Antonie Pannekoek">Antonie Pannekoek</a></li>
+<li><a href="/wiki/Buenaventura_Durruti" title="Buenaventura Durruti">Buenaventura Durruti</a></li>
+<li><a href="/wiki/Diego_Abad_de_Santill%C3%A1n" title="Diego Abad de Santillán">Diego Abad de Santillán</a></li>
+<li><a href="/wiki/Federica_Montseny" title="Federica Montseny">Federica Montseny</a></li>
+<li><a href="/wiki/Nestor_Makhno" title="Nestor Makhno">Nestor Makhno</a></li>
+<li><a href="/wiki/Stepan_Maximovich_Petrichenko" title="Stepan Maximovich Petrichenko">Stepan Maximovich Petrichenko</a></li>
+<li><a href="/wiki/Marinus_van_der_Lubbe" title="Marinus van der Lubbe">Marinus van der Lubbe</a></li>
+<li><a href="/wiki/Sylvia_Pankhurst" title="Sylvia Pankhurst">Sylvia Pankhurst</a></li>
+<li><a href="/wiki/Paul_Mattick" title="Paul Mattick">Paul Mattick</a></li>
+<li><a href="/wiki/Wilhelm_Reich" title="Wilhelm Reich">Wilhelm Reich</a></li>
+<li><a href="/wiki/Dorothy_Day" title="Dorothy Day">Dorothy Day</a></li>
+<li><a href="/wiki/Albert_Camus" title="Albert Camus">Albert Camus</a></li>
+<li><a href="/wiki/Jean-Paul_Sartre" title="Jean-Paul Sartre">Jean-Paul Sartre</a></li>
+<li><a href="/wiki/Karl_Korsch" title="Karl Korsch">Karl Korsch</a></li>
+<li><a href="/wiki/Herbert_Marcuse" title="Herbert Marcuse">Herbert Marcuse</a></li>
+<li><a href="/wiki/Cornelius_Castoriadis" title="Cornelius Castoriadis">Cornelius Castoriadis</a></li>
+<li><a href="/wiki/C._L._R._James" title="C. L. R. James">C. L. R. James</a></li>
+<li><a href="/wiki/Raya_Dunayevskaya" title="Raya Dunayevskaya">Raya Dunayevskaya</a></li>
+<li><a href="/wiki/Grace_Lee_Boggs" title="Grace Lee Boggs">Grace Lee Boggs</a></li>
+<li><a href="/wiki/Paul_Goodman_(writer)" class="mw-redirect" title="Paul Goodman (writer)">Paul Goodman</a></li>
+<li><a href="/wiki/Colin_Ward" title="Colin Ward">Colin Ward</a></li>
+<li><a href="/wiki/Chris_Pallis" title="Chris Pallis">Chris Pallis</a></li>
+<li><a href="/wiki/Daniel_Gu%C3%A9rin" title="Daniel Guérin">Daniel Guérin</a></li>
+<li><a href="/wiki/Murray_Bookchin" title="Murray Bookchin">Murray Bookchin</a></li>
+<li><a href="/wiki/Guy_Debord" title="Guy Debord">Guy Debord</a></li>
+<li><a href="/wiki/Raoul_Vaneigem" title="Raoul Vaneigem">Raoul Vaneigem</a></li>
+<li><a href="/wiki/Abbie_Hoffman" title="Abbie Hoffman">Abbie Hoffman</a></li>
+<li><a href="/wiki/Antonio_Negri" title="Antonio Negri">Antonio Negri</a></li>
+<li><a href="/wiki/Silvia_Federici" title="Silvia Federici">Silvia Federici</a></li>
+<li><a href="/wiki/F%C3%A9lix_Guattari" title="Félix Guattari">Félix Guattari</a></li>
+<li><a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a></li>
+<li><a href="/wiki/Howard_Zinn" title="Howard Zinn">Howard Zinn</a></li>
+<li><a href="/wiki/Gilles_Dauv%C3%A9" title="Gilles Dauvé">Gilles Dauvé</a></li>
+<li><a href="/wiki/Alfredo_M._Bonanno" title="Alfredo M. Bonanno">Alfredo M. Bonanno</a></li>
+<li><a href="/wiki/Subcomandante_Marcos" title="Subcomandante Marcos">Subcomandante Marcos</a></li>
+<li><a href="/wiki/Abdullah_%C3%96calan" title="Abdullah Öcalan">Abdullah Öcalan</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top: 1px #aaa solid;padding-bottom:0;text-align:center;">Philosophies / Tendencies</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<div class="plainlist">
+<p><b><small><i>Anarchist tendencies</i></small></b></p>
+<ul>
+<li><a href="/wiki/Mutualism_(economic_theory)" title="Mutualism (economic theory)">Mutualism</a></li>
+<li><a href="/wiki/Collectivist_anarchism" title="Collectivist anarchism">Collectivist anarchism</a></li>
+<li><a href="/wiki/Anarchist_communism" title="Anarchist communism">Anarchist communism</a></li>
+<li><a href="/wiki/Individualist_anarchism" title="Individualist anarchism">Individualist anarchism</a></li>
+<li><a href="/wiki/Egoist_anarchism" title="Egoist anarchism">Egoist anarchism</a></li>
+<li><a href="/wiki/Magonism" title="Magonism">Magonism</a></li>
+<li><a href="/wiki/Anarcho-syndicalism" title="Anarcho-syndicalism">Anarcho-syndicalism</a></li>
+<li><a href="/wiki/Platformism" title="Platformism">Platformism</a></li>
+<li><a href="/wiki/Synthesis_anarchism" title="Synthesis anarchism">Synthesis anarchism</a></li>
+<li><a href="/wiki/Christian_anarchism" title="Christian anarchism">Christian anarchism</a></li>
+<li><a href="/wiki/Anarcho-pacifism" title="Anarcho-pacifism">Anarcho-pacifism</a></li>
+<li><a href="/wiki/Insurrectionary_anarchism" title="Insurrectionary anarchism">Insurrectionary anarchism</a></li>
+<li><a href="/wiki/Participism" title="Participism">Participism</a></li>
+<li><a href="/wiki/Left-wing_market_anarchism" title="Left-wing market anarchism">Left-wing market anarchism</a></li>
+</ul>
+<p><b><small><i><a href="/wiki/Libertarian_Marxism" title="Libertarian Marxism">Libertarian Marxist</a> tendencies</i></small></b></p>
+<ul>
+<li><a href="/wiki/Luxemburgism" title="Luxemburgism">Luxemburgism</a></li>
+<li><a href="/wiki/Council_communism" title="Council communism">Council communism</a></li>
+<li><a href="/wiki/Johnson-Forest_Tendency" class="mw-redirect" title="Johnson-Forest Tendency">Johnson-Forest Tendency</a></li>
+<li><a href="/wiki/Situationist_International" title="Situationist International">Situationist International</a></li>
+<li><a href="/wiki/Autonomism" title="Autonomism">Autonomism</a></li>
+<li><a href="/wiki/Communization" title="Communization">Communization</a></li>
+</ul>
+<p><b><small><i>Other tendencies</i></small></b></p>
+<ul>
+<li><a href="/wiki/Fourierism" title="Fourierism">Fourierism</a></li>
+<li><a href="/wiki/Communalism_(political_philosophy)" title="Communalism (political philosophy)">Communalism</a></li>
+<li><a href="/wiki/Inclusive_Democracy" title="Inclusive Democracy">Inclusive Democracy</a></li>
+<li><a href="/wiki/Neozapatismo" title="Neozapatismo">Neozapatismo</a></li>
+<li><a href="/wiki/Democratic_Confederalism" title="Democratic Confederalism">Democratic Confederalism</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top: 1px #aaa solid;padding-bottom:0;text-align:center;">Significant events</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Diggers" title="Diggers">Diggers</a></li>
+<li><a href="/wiki/Enrag%C3%A9s" title="Enragés">Enragés</a></li>
+<li><a href="/wiki/Paris_Commune" title="Paris Commune">Paris Commune</a></li>
+<li><a href="/wiki/Haymarket_affair" title="Haymarket affair">Haymarket affair</a></li>
+<li><a href="/wiki/Assassination_of_William_McKinley" title="Assassination of William McKinley">Assassination of William McKinley</a></li>
+<li><a href="/wiki/Strandzha_Commune" title="Strandzha Commune">Strandzha Commune</a></li>
+<li><a href="/wiki/Russian_Revolution" title="Russian Revolution">Russian Revolution</a></li>
+<li><a href="/wiki/Bavarian_Council_Republic" class="mw-redirect" title="Bavarian Council Republic">Bavarian Soviet Republic</a></li>
+<li><a href="/wiki/German_Revolution_of_1918%E2%80%9319" title="German Revolution of 1918–19">German Revolution of 1918–1919</a></li>
+<li><a href="/wiki/Biennio_Rosso" title="Biennio Rosso">Biennio Rosso</a></li>
+<li><a href="/wiki/Ukrainian_War_of_Independence" title="Ukrainian War of Independence">Ukrainian War of Independence</a></li>
+<li><a href="/wiki/Left-wing_uprisings_against_the_Bolsheviks" title="Left-wing uprisings against the Bolsheviks">Left-wing uprisings against the Bolsheviks</a> (<a href="/wiki/Kronstadt_uprising" class="mw-redirect" title="Kronstadt uprising">Kronstadt uprising</a>)</li>
+<li><a href="/wiki/Escuela_Moderna" title="Escuela Moderna">Escuela Moderna</a></li>
+<li><a href="/wiki/Mexican_Revolution" title="Mexican Revolution">Mexican Revolution</a></li>
+<li><a href="/wiki/Reichstag_fire" title="Reichstag fire">Reichstag fire</a></li>
+<li><a href="/wiki/Spanish_Revolution_of_1936" title="Spanish Revolution of 1936">Spanish Revolution</a></li>
+<li><a href="/wiki/Uprising_of_1953_in_East_Germany" title="Uprising of 1953 in East Germany">1953 East German uprising</a></li>
+<li><a href="/wiki/Hungarian_Revolution_of_1956" title="Hungarian Revolution of 1956">1956 Hungarian Revolution</a></li>
+<li><a href="/wiki/May_1968_events_in_France" title="May 1968 events in France">May 1968 in France</a></li>
+<li><a href="/wiki/Prague_Spring" title="Prague Spring">Prague Spring</a></li>
+<li><a href="/wiki/Left_communism_in_China" title="Left communism in China">Left communism in China</a></li>
+<li><a href="/wiki/History_of_the_hippie_movement" title="History of the hippie movement">Hippie movement</a></li>
+<li><a href="/wiki/Autonomia_Operaia" title="Autonomia Operaia">Autonomia Operaia</a></li>
+<li><a href="/wiki/Chiapas_conflict" title="Chiapas conflict">Zapatista uprising</a></li>
+<li><a href="/wiki/1999_Seattle_WTO_protests" title="1999 Seattle WTO protests">1999 Seattle WTO protests</a></li>
+<li><a href="/wiki/Argentinazo" class="mw-redirect" title="Argentinazo">Argentinazo</a></li>
+<li><a href="/wiki/Occupy_movement" title="Occupy movement">Occupy movement</a></li>
+<li><a href="/wiki/Kurdish-Turkish_conflict_(1978-present)" class="mw-redirect" title="Kurdish-Turkish conflict (1978-present)">Kurdisk-Turkish conflict</a> (<a href="/wiki/Kurdish-Turkish_conflict_(2015-present)" class="mw-redirect" title="Kurdish-Turkish conflict (2015-present)">2015 rebellion</a>)</li>
+<li><a href="/wiki/Iran-PJAK_conflict" class="mw-redirect" title="Iran-PJAK conflict">Iran-PJAK conflict</a></li>
+<li><a href="/wiki/Rojava_conflict" title="Rojava conflict">Rojava Revolution</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top: 1px #aaa solid;padding-bottom:0;text-align:center;">Related topics</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Anarchism" title="Anarchism">Anarchism</a></li>
+<li><a href="/wiki/Libertarianism" title="Libertarianism">Libertarianism</a></li>
+<li><a href="/wiki/Left-libertarianism" title="Left-libertarianism">Left-libertarianism</a></li>
+<li><a href="/wiki/Marxism" title="Marxism">Marxism</a></li>
+<li><a href="/wiki/Socialism" title="Socialism">Socialism</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+<ul>
+<li><a href="/wiki/Portal:Anarchism" title="Portal:Anarchism">Anarchism portal</a></li>
+<li><a href="/wiki/Portal:Socialism" title="Portal:Socialism">Socialism portal</a></li>
+<li><a href="/wiki/Portal:Libertarianism" title="Portal:Libertarianism">Libertarianism portal</a></li>
+<li><a href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Philosophy portal</a></li>
+<li><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Libertarian_socialism" title="Template:Libertarian socialism"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Libertarian_socialism" title="Template talk:Libertarian socialism"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Libertarian_socialism&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Social Ecology</b> is a critical social theory founded by <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Anarchism" title="Anarchism">anarchist</a> and <a href="/wiki/Libertarian_socialism" title="Libertarian socialism">libertarian socialist</a> author <a href="/wiki/Murray_Bookchin" title="Murray Bookchin">Murray Bookchin</a>. Conceptualized as a critique of current social, political, and anti-ecological trends, it espouses a reconstructive, ecological, communitarian, and ethical approach to society. This version advocates a reconstructive and transformative outlook on social and environmental issues, and promotes a <a href="/wiki/Direct_democracy" title="Direct democracy">directly democratic</a>, confederal politics. As a body of ideas, social ecology envisions a moral economy that moves beyond scarcity and hierarchy, toward a world that reharmonizes human communities with the natural world, while celebrating diversity, creativity and freedom. Bookchin suggests that the roots of current ecological and social problems can be traced to hierarchical modes of social organization. Social ecologists claim that the systemic issue of hierarchy cannot be resisted by individual actions alone such as <a href="/wiki/Ethical_consumerism" title="Ethical consumerism">ethical consumerism</a> but must be addressed by more nuanced ethical thinking and collective activity grounded in radically democratic ideals. The complexity of relationships between people and <a href="/wiki/Nature" title="Nature">nature</a> is emphasized, along with the importance of establishing more mutualistic social structures that take account of this.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_ecology&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Social ecology's social component comes from its position that nearly all of the world's ecological problems stem from social problems; with these social problems in turn arising from structures and relationships of dominating hierarchy. They argue that apart from those produced by natural catastrophes, the most serious ecological dislocations of the 20th and 21st centuries have as their cause economic, ethnic, cultural, and gender conflicts, among many others. Present ecological problems, social ecologists maintain, cannot be clearly understood, much less resolved, without resolutely dealing with problems within society.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Social ecology is associated with the ideas and works of Murray Bookchin, who had written on such matters from the 1950s until his death, and, from the 1960s, had combined these issues with revolutionary <a href="/wiki/Social_anarchism" title="Social anarchism">social anarchism</a>. His works include <i><a href="/wiki/Post-Scarcity_Anarchism" title="Post-Scarcity Anarchism">Post-Scarcity Anarchism</a></i> (1971), <i>Toward an Ecological Society</i> (1980), and <i><a href="/wiki/The_Ecology_of_Freedom" title="The Ecology of Freedom">The Ecology of Freedom</a></i> (1982).</p>
+<p>Social ecology locates the roots of the <a href="/wiki/Ecological_crisis" title="Ecological crisis">ecological crisis</a> firmly in relations of hierarchy and domination between people. In the framework of social ecology, "the very notion of the domination of nature by man stems from the very real domination of human by human."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> While the domination of nature is seen as a product of domination within <a href="/wiki/Society" title="Society">society</a>, this domination only reaches crisis proportions under <a href="/wiki/Capitalism" title="Capitalism">capitalism</a>. In the words of Bookchin:</p>
+<blockquote class="templatequote">
+<p>The notion that man must dominate nature emerges directly from the domination of man by man… But it was not until organic community relation … dissolved into market relationships that the planet itself was reduced to a resource for exploitation. This centuries-long tendency finds its most exacerbating development in modern capitalism. Owing to its inherently competitive nature, bourgeois society not only pits humans against each other, it also pits the mass of humanity against the natural world. Just as men are converted into commodities, so every aspect of nature is converted into a commodity, a resource to be manufactured and merchandised wantonly. … The plundering of the human spirit by the market place is paralleled by the plundering of the earth by capital<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+</blockquote>
+<p>While identifying himself within the anarchist tradition for most of his career, beginning in 1995, Bookchin became increasingly critical of anarchism, and in 1999 took a decisive stand against anarchist ideology. He had come to recognize social ecology as a genuinely new form of <a href="/wiki/Libertarian_socialism" title="Libertarian socialism">libertarian socialism</a>, and positioned its politics firmly in the framework of a political ideology which he called <a href="/wiki/Communalism_(political_philosophy)" title="Communalism (political philosophy)">Communalism</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_ecology&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" width="32" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" width="32" height="21" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" data-file-width="6000" data-file-height="4000" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/28px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/42px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/56px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" data-file-width="2790" data-file-height="2776" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Conservation_ethic" class="mw-redirect" title="Conservation ethic">Conservation ethic</a></li>
+<li><a href="/wiki/Earth_Science" class="mw-redirect" title="Earth Science">Earth Science</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li>
+<li><a href="/wiki/Natural_environment" title="Natural environment">Natural environment</a></li>
+<li><a href="/wiki/Panarchy" title="Panarchy">Panarchy</a></li>
+<li><a href="/wiki/Polytely" title="Polytely">Polytely</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+<li><a href="/wiki/School_of_Social_Ecology" title="School of Social Ecology">School of Social Ecology</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><i><a href="/wiki/Laudato_si" class="mw-redirect" title="Laudato si">Laudato si</a></i></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_Faith" title="Bahá'í Faith">Bahá'í Faith</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_ecology&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Bookchin, Murray. <i>The Ecology of Freedom: The Emergence and Dissolution of Hierarchy</i>. Oakland: AK Press, 2005, p. 85-7.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Bookchin, Murray. <i>The Ecology of Freedom</i>, p. 16.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Bookchin, Murray. <i>The Ecology of Freedom</i>, p. 65.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Bookchin, Murray. <i>Post-Scarcity Anarchism</i>. Oakland: AK Press, 2004, p. 24-5.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="/wiki/Janet_Biehl" title="Janet Biehl">Biehl, Janet</a>, "<a rel="nofollow" class="external text" href="http://www.communalism.net/index.php?option=com_content&amp;view=article&amp;id=189:bookchin-breaks-with-anarchism&amp;catid=84:movement&amp;Itemid=2">Bookchin Breaks With Anarchism</a>", <i>Communalism</i>, October 2007.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_ecology&amp;action=edit&amp;section=4" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Bookchin, Murray (2004). <i>Post-Scarcity Anarchism</i>. Stirling: <a href="/wiki/AK_Press" title="AK Press">AK Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-904859-06-2" title="Special:BookSources/1-904859-06-2">1-904859-06-2</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/232006054">232006054</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+ecology&amp;rft.aufirst=Murray&amp;rft.aulast=Bookchin&amp;rft.btitle=Post-Scarcity+Anarchism&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=info%3Aoclcnum%2F232006054&amp;rft.isbn=1-904859-06-2&amp;rft.place=Stirling&amp;rft.pub=AK+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Bookchin, Murray (2005). <i>The Ecology of Freedom</i>. Stirling: AK Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-904859-26-7" title="Special:BookSources/1-904859-26-7">1-904859-26-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+ecology&amp;rft.aufirst=Murray&amp;rft.aulast=Bookchin&amp;rft.btitle=The+Ecology+of+Freedom&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=1-904859-26-7&amp;rft.place=Stirling&amp;rft.pub=AK+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Light, Andrew (ed.) (1998). <i>Social Ecology After Bookchin</i>. New York: Guilford Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-57230-379-9" title="Special:BookSources/978-1-57230-379-9">978-1-57230-379-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASocial+ecology&amp;rft.aufirst=Andrew+%28ed.%29&amp;rft.aulast=Light&amp;rft.btitle=Social+Ecology+After+Bookchin&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=978-1-57230-379-9&amp;rft.place=New+York&amp;rft.pub=Guilford+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Social_ecology&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.social-ecology.org/">Institute for Social Ecology</a></li>
+<li><a rel="nofollow" class="external text" href="http://trise.org/">Transnational Institute of Social Ecology</a></li>
+<li><a rel="nofollow" class="external text" href="http://new-compass.net/">New Compass</a></li>
+<li><a rel="nofollow" class="external text" href="http://libcom.org/tags/murray-bookchin">Libertarian Communist Library Murray Bookchin holdings</a></li>
+<li><a rel="nofollow" class="external text" href="http://socialecologylondon.wordpress.com/">Social Ecology London</a> English study/action group exploring the philosophy of social ecology.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1276
+Cached time: 20170315123328
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.136 seconds
+Real time usage: 0.185 seconds
+Preprocessor visited node count: 669/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61180/2097152 bytes
+Template argument size: 1064/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.043/10.000 seconds
+Lua memory usage: 2.02 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  116.774      1 -total
+ 32.21%   37.610      3 Template:Cite_book
+ 17.52%   20.460      2 Template:Sidebar_with_collapsible_lists
+ 16.84%   19.663      1 Template:About
+ 15.88%   18.543      1 Template:Green_politics_sidebar
+ 14.97%   17.479      1 Template:Green_politics
+  8.23%    9.613      2 Template:Portal-inline
+  7.85%    9.167      1 Template:Communalism
+  6.83%    7.979      1 Template:Sidebar
+  6.49%    7.581      1 Template:Libertarian_socialism
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:156286-0!*!0!!en!4!* and timestamp 20170315123328 and revision id 766351994
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Social_ecology&amp;oldid=766351994">https://en.wikipedia.org/w/index.php?title=Social_ecology&amp;oldid=766351994</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Social_ecology" title="Category:Social ecology">Social ecology</a></li><li><a href="/wiki/Category:Anarchist_theory" title="Category:Anarchist theory">Anarchist theory</a></li><li><a href="/wiki/Category:Ecology" title="Category:Ecology">Ecology</a></li><li><a href="/wiki/Category:Green_anarchism" title="Category:Green anarchism">Green anarchism</a></li><li><a href="/wiki/Category:Bioethics" title="Category:Bioethics">Bioethics</a></li><li><a href="/wiki/Category:Environmental_social_science_concepts" title="Category:Environmental social science concepts">Environmental social science concepts</a></li><li><a href="/wiki/Category:Libertarian_socialism" title="Category:Libertarian socialism">Libertarian socialism</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Social+ecology" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Social+ecology" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Social_ecology"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Social_ecology"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Social_ecology" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Social_ecology&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Social_ecology&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Social_ecology" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Social_ecology" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Social_ecology&amp;oldid=766351994" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Social_ecology&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q10910958" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Social_ecology&amp;id=766351994" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Social+ecology">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Social+ecology&amp;returnto=Social+ecology&amp;oldid=766351994&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Social_ecology&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8B%AC%EC%B8%B5%EC%83%9D%ED%83%9C%EC%A3%BC%EC%9D%98" title="심층생태주의 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Socijalna_ekologija" title="Socijalna ekologija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Sosial%C3%B8kologisme" title="Sosialøkologisme – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0_%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Социјална екологија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A7%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94_%D7%97%D7%91%D7%A8%D7%AA%D7%99%D7%AA" title="אקולוגיה חברתית – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%A4%BE%E6%9C%83%E7%94%9F%E6%85%8B%E5%AD%B8" title="社會生態學 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Socia_ekologio" title="Socia ekologio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BF%CE%B9%CE%BA%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" title="Κοινωνική οικολογία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Ekologia_spo%C5%82eczna" title="Ekologia społeczna – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%B8%D6%81%D5%AB%D5%A1%D5%AC%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A7%D5%AF%D5%B8%D5%AC%D5%B8%D5%A3%D5%AB%D5%A1" title="Սոցիալական էկոլոգիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ecolog%C3%ADa_social" title="Ecología social – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Socialekologi" title="Socialekologi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89cologie_sociale" title="Écologie sociale – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Sotsiaal%C3%B6koloogia" title="Sotsiaalökoloogia – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Soziale_%C3%96kologie" title="Soziale Ökologie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ecologia_social" title="Ecologia social – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ecologia_sociale" title="Ecologia sociale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B0_%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Социална екология – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Социальная экология – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ecologia_social" title="Ecologia social – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D3%98%D0%BB%D0%B5%D1%83%D0%BC%D0%B5%D1%82%D1%82%D1%96%D0%BA_%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Әлеуметтік экология – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D9%85%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C" title="بوم‌شناسی اجتماعی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q10910958#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 February 2017, at 18:31.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Social_ecology&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.136","walltime":"0.185","ppvisitednodes":{"value":669,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61180,"limit":2097152},"templateargumentsize":{"value":1064,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  116.774      1 -total"," 32.21%   37.610      3 Template:Cite_book"," 17.52%   20.460      2 Template:Sidebar_with_collapsible_lists"," 16.84%   19.663      1 Template:About"," 15.88%   18.543      1 Template:Green_politics_sidebar"," 14.97%   17.479      1 Template:Green_politics","  8.23%    9.613      2 Template:Portal-inline","  7.85%    9.167      1 Template:Communalism","  6.83%    7.979      1 Template:Sidebar","  6.49%    7.581      1 Template:Libertarian_socialism"]},"scribunto":{"limitreport-timeusage":{"value":"0.043","limit":"10.000"},"limitreport-memusage":{"value":2116755,"limit":52428800}},"cachereport":{"origin":"mw1276","timestamp":"20170315123328","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1183"});});</script>
+	</body>
+</html>

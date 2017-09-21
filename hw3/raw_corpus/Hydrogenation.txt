@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hydrogenation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hydrogenation","wgTitle":"Hydrogenation","wgCurRevisionId":770003311,"wgRevisionId":770003311,"wgArticleId":235968,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Pages using ISBN magic links","Addition reactions","Homogeneous catalysis","Industrial processes","Hydrogen","Hydrogenation","Oil refining","Oil shale technology","Synthetic fuel technologies","Organic redox reactions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hydrogenation","wgRelevantArticleId":235968,"wgRequestId":"WMgLegpAMEcAAJgHSBcAAAAV","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q214166","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/73/RevisedCatCycle.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hydrogenation"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hydrogenation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hydrogenation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hydrogenation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hydrogenation rootpage-Hydrogenation skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Hydrogenation</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hydrogenation_on_catalyst.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hydrogenation_on_catalyst.png/220px-Hydrogenation_on_catalyst.png" width="220" height="496" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hydrogenation_on_catalyst.png/330px-Hydrogenation_on_catalyst.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hydrogenation_on_catalyst.png/440px-Hydrogenation_on_catalyst.png 2x" data-file-width="451" data-file-height="1017" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hydrogenation_on_catalyst.png" class="internal" title="Enlarge"></a></div>
+Steps in the hydrogenation of a C=C double bond at a catalyst surface, for example Ni or Pt&#160;:<br />
+(1) The reactants are <a href="/wiki/Adsorption" title="Adsorption">adsorbed</a> on the catalyst surface and H<sub>2</sub> dissociates.<br />
+(2) An H atom bonds to one C atom. The other C atom is still attached to the surface.<br />
+(3) A second C atom bonds to an H atom. The molecule leaves the surface.</div>
+</div>
+</div>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Catalysed hydrogenation</caption>
+<tr>
+<th scope="row">Process type</th>
+<td>Chemical</td>
+</tr>
+<tr>
+<th scope="row">Industrial sector(s)</th>
+<td>Food industry, <a href="/wiki/Petrochemical" title="Petrochemical">petrochemical</a> industry, <a href="/wiki/Pharmaceutical" class="mw-redirect" title="Pharmaceutical">pharmaceutical</a> industry, agricultural industry</td>
+</tr>
+<tr>
+<th scope="row">Main technologies or sub-processes</th>
+<td>Various transition metal catalysts, high-pressure technology</td>
+</tr>
+<tr>
+<th scope="row">Feedstock</th>
+<td>Unsaturated <a href="/wiki/Substrate_(chemistry)" title="Substrate (chemistry)">substrates</a> and <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> or hydrogen donors</td>
+</tr>
+<tr>
+<th scope="row">Product(s)</th>
+<td>Saturated hydrocarbons and derivatives</td>
+</tr>
+<tr>
+<th scope="row">Inventor</th>
+<td><a href="/wiki/Paul_Sabatier_(chemist)" title="Paul Sabatier (chemist)">Paul Sabatier</a></td>
+</tr>
+<tr>
+<th scope="row">Year of invention</th>
+<td>1897</td>
+</tr>
+</table>
+<p><b>Hydrogenation</b> – to treat with <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> – is a <a href="/wiki/Chemical_reaction" title="Chemical reaction">chemical reaction</a> between molecular hydrogen (H<sub>2</sub>) and another compound or element, usually in the presence of a <a href="/wiki/Catalysis" title="Catalysis">catalyst</a> such as <a href="/wiki/Nickel" title="Nickel">nickel</a>, <a href="/wiki/Palladium" title="Palladium">palladium</a> or <a href="/wiki/Platinum" title="Platinum">platinum</a>. The process is commonly employed to <a href="/wiki/Redox" title="Redox">reduce</a> or <a href="/wiki/Saturation_(chemistry)" title="Saturation (chemistry)">saturate</a> <a href="/wiki/Organic_compound" title="Organic compound">organic compounds</a>. Hydrogenation typically constitutes the addition of pairs of <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> <a href="/wiki/Atom" title="Atom">atoms</a> to a molecule, often an <a href="/wiki/Alkene" title="Alkene">alkene</a>. <a href="/wiki/Catalyst" class="mw-redirect" title="Catalyst">Catalysts</a> are required for the reaction to be usable; non-catalytic hydrogenation takes place only at very high temperatures. Hydrogenation reduces <a href="/wiki/Double_bond" title="Double bond">double</a> and <a href="/wiki/Triple_bond" title="Triple bond">triple</a> bonds in <a href="/wiki/Hydrocarbon" title="Hydrocarbon">hydrocarbons</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Process"><span class="tocnumber">1</span> <span class="toctext">Process</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Related_or_competing_reactions"><span class="tocnumber">1.1</span> <span class="toctext">Related or competing reactions</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hydrogen_sources"><span class="tocnumber">1.2</span> <span class="toctext">Hydrogen sources</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Substrates"><span class="tocnumber">1.3</span> <span class="toctext">Substrates</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Catalysts"><span class="tocnumber">1.4</span> <span class="toctext">Catalysts</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Homogeneous_catalysts"><span class="tocnumber">1.4.1</span> <span class="toctext">Homogeneous catalysts</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Heterogeneous_catalysts"><span class="tocnumber">1.4.2</span> <span class="toctext">Heterogeneous catalysts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Transfer_hydrogenation"><span class="tocnumber">1.5</span> <span class="toctext">Transfer hydrogenation</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Electrolytic_hydrogenation"><span class="tocnumber">1.6</span> <span class="toctext">Electrolytic hydrogenation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Thermodynamics_and_mechanism"><span class="tocnumber">2</span> <span class="toctext">Thermodynamics and mechanism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Heterogeneous_catalysis"><span class="tocnumber">2.1</span> <span class="toctext">Heterogeneous catalysis</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Homogeneous_catalysis"><span class="tocnumber">2.2</span> <span class="toctext">Homogeneous catalysis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Inorganic_substrates"><span class="tocnumber">3</span> <span class="toctext">Inorganic substrates</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Industrial_applications"><span class="tocnumber">4</span> <span class="toctext">Industrial applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Food_industry"><span class="tocnumber">4.1</span> <span class="toctext">Food industry</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Petrochemical_industry"><span class="tocnumber">4.2</span> <span class="toctext">Petrochemical industry</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Organic_chemistry"><span class="tocnumber">4.3</span> <span class="toctext">Organic chemistry</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Hydrogenation_of_coal"><span class="tocnumber">4.4</span> <span class="toctext">Hydrogenation of coal</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#History"><span class="tocnumber">5</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Heterogeneous_catalytic_hydrogenation"><span class="tocnumber">5.1</span> <span class="toctext">Heterogeneous catalytic hydrogenation</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Homogeneous_catalytic_hydrogenation"><span class="tocnumber">5.2</span> <span class="toctext">Homogeneous catalytic hydrogenation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Metal-free_hydrogenation"><span class="tocnumber">6</span> <span class="toctext">Metal-free hydrogenation</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Equipment_used_for_hydrogenation"><span class="tocnumber">7</span> <span class="toctext">Equipment used for hydrogenation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#Batch_hydrogenation_under_atmospheric_conditions"><span class="tocnumber">7.1</span> <span class="toctext">Batch hydrogenation under atmospheric conditions</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Batch_hydrogenation_at_elevated_temperature_and.2For_pressure"><span class="tocnumber">7.2</span> <span class="toctext">Batch hydrogenation at elevated temperature and/or pressure</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Flow_hydrogenation"><span class="tocnumber">7.3</span> <span class="toctext">Flow hydrogenation</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Industrial_reactors"><span class="tocnumber">7.4</span> <span class="toctext">Industrial reactors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Process">Process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=1" title="Edit section: Process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It has three components, the <a href="/wiki/Saturation_(chemistry)" title="Saturation (chemistry)">unsaturated</a> substrate, the hydrogen (or hydrogen source) and, invariably, a catalyst. The <a href="/wiki/Redox" title="Redox">reduction</a> reaction is carried out at different temperatures and pressures depending upon the substrate and the activity of the catalyst.</p>
+<h3><span class="mw-headline" id="Related_or_competing_reactions">Related or competing reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=2" title="Edit section: Related or competing reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The same catalysts and conditions that are used for hydrogenation reactions can also lead to isomerization of the alkenes from cis to trans. This process is of great interest because hydrogenation technology generates most of the <a href="/wiki/Trans_fat" title="Trans fat">trans fat</a> in foods (see below). A reaction where bonds are broken while hydrogen is added is called <a href="/wiki/Hydrogenolysis" title="Hydrogenolysis">hydrogenolysis</a>, a reaction that may occur to carbon-carbon and carbon-heteroatom (<a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> or <a href="/wiki/Halogen" title="Halogen">halogen</a>) bonds. Some hydrogenations of polar bonds are accompanied by hydrogenolysis.</p>
+<h3><span class="mw-headline" id="Hydrogen_sources">Hydrogen sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=3" title="Edit section: Hydrogen sources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For hydrogenation, the obvious source of hydrogen is H<sub>2</sub> gas itself, which is typically available commercially within the storage medium of a pressurized cylinder. The hydrogenation process often uses greater than 1 atmosphere of H<sub>2</sub>, usually conveyed from the cylinders and sometimes augmented by "booster pumps". Gaseous hydrogen is produced industrially from hydrocarbons by the process known as <a href="/wiki/Steam_reforming" title="Steam reforming">steam reforming</a>.<sup id="cite_ref-Rylander_2-0" class="reference"><a href="#cite_note-Rylander-2">[2]</a></sup> For many applications, hydrogen is transferred from donor molecules such as formic acid, isopropanol, and dihydroanthracene. These hydrogen donors undergo <a href="/wiki/Dehydrogenation" title="Dehydrogenation">dehydrogenation</a> to, respectively, carbon dioxide, acetone, and anthracene. These processes are called <a href="/wiki/Transfer_hydrogenation" title="Transfer hydrogenation">transfer hydrogenations</a>.</p>
+<h3><span class="mw-headline" id="Substrates">Substrates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=4" title="Edit section: Substrates">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An important characteristic of alkene and alkyne hydrogenations, both the homogeneously and heterogeneously catalyzed versions, is that hydrogen addition occurs with "<a href="/wiki/Syn_addition" class="mw-redirect" title="Syn addition">syn addition</a>", with hydrogen entering from the least hindered side.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Typical substrates are listed in the table</p>
+<table class="wikitable toccolours">
+<caption>Substrates for and products of hydrogenation</caption>
+<tr>
+<th>Substrate</th>
+<th>Product</th>
+<th>Comments</th>
+</tr>
+<tr>
+<td align="center">R<sub>2</sub>C=CR'<sub>2</sub><br />
+(<a href="/wiki/Alkene" title="Alkene">alkene</a>)</td>
+<td align="center">R<sub>2</sub>CHCHR'<sub>2</sub><br />
+(alkane)</td>
+<td>many catalysts
+<p>one application is margarine</p>
+</td>
+</tr>
+<tr>
+<td align="center">RC≡CR<br />
+(<a href="/wiki/Alkyne" title="Alkyne">alkyne</a>)</td>
+<td align="center"><i>cis</i>-RHC=CHR'<br />
+(alkene)</td>
+<td>over-hydrogenation to alkane can be problematic</td>
+</tr>
+<tr>
+<td align="center">RCHO<br />
+(<a href="/wiki/Aldehyde" title="Aldehyde">aldehyde</a>)</td>
+<td align="center">RCH<sub>2</sub>OH<br />
+(primary alcohol)</td>
+<td>easy substrate</td>
+</tr>
+<tr>
+<td align="center">R<sub>2</sub>CO<br />
+(<a href="/wiki/Ketone" title="Ketone">ketone</a>)</td>
+<td align="center">R<sub>2</sub>CHOH<br />
+(secondary alcohol)</td>
+<td>more challenging than RCHO
+<p>prochiral for unsymmetrical ketones</p>
+</td>
+</tr>
+<tr>
+<td align="center">RCO<sub>2</sub>R'<br />
+(<a href="/wiki/Ester" title="Ester">ester</a>)</td>
+<td align="center">RCH<sub>2</sub>OH + R'OH<br />
+(two alcohols)</td>
+<td>challenging substrate</td>
+</tr>
+<tr>
+<td align="center">RR'CNR"<br />
+(<a href="/wiki/Imine" title="Imine">imine</a>)</td>
+<td align="center">RR'CHNHR"<br />
+(amine)</td>
+<td>easy substrate<br />
+often use transfer hydrogenation
+<p>actual precursor is N-protonated</p>
+</td>
+</tr>
+<tr>
+<td align="center">RC(O)NR'<sub>2</sub><br />
+(<a href="/wiki/Amide" title="Amide">amide</a>)</td>
+<td align="center">RCH<sub>2</sub>NR'<sub>2</sub><br />
+(amine)</td>
+<td>challenging substrate</td>
+</tr>
+<tr>
+<td align="center">RCN<br />
+(<a href="/wiki/Nitrile" title="Nitrile">nitrile</a>)</td>
+<td align="center">RCH<sub>2</sub>NH<sub>2</sub><br />
+(primary amine)</td>
+<td>product amine reactive toward precursor nitrile in some cases</td>
+</tr>
+<tr>
+<td align="center">RNO<sub>2</sub><br />
+(<a href="/wiki/Nitro_compound" title="Nitro compound">nitro</a>)</td>
+<td align="center">RNH<sub>2</sub><br />
+(amine)</td>
+<td>commercial applications use heterogeneous Ni and Ru catalysts
+<p>major application is <a href="/wiki/Aniline" title="Aniline">aniline</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Catalysts">Catalysts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=5" title="Edit section: Catalysts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>With rare exceptions, H<sub>2</sub> is unreactive toward organic compounds in the absence of metal catalysts. The unsaturated substrate is <a href="/wiki/Chemisorption" title="Chemisorption">chemisorbed</a> onto the catalyst, with most sites covered by the substrate. In heterogeneous catalysts, hydrogen forms surface hydrides (M-H) from which hydrogens can be transferred to the chemisorbed substrate. Platinum, palladium, <a href="/wiki/Rhodium-catalyzed_hydrogenation" class="mw-redirect" title="Rhodium-catalyzed hydrogenation">rhodium</a>, and ruthenium form highly active catalysts, which operate at lower temperatures and lower pressures of H<sub>2</sub>. Non-precious metal catalysts, especially those based on nickel (such as <a href="/wiki/Raney_nickel" title="Raney nickel">Raney nickel</a> and <a href="/wiki/Urushibara_nickel" title="Urushibara nickel">Urushibara nickel</a>) have also been developed as economical alternatives, but they are often slower or require higher temperatures. The trade-off is activity (speed of reaction) vs. cost of the catalyst and cost of the apparatus required for use of high pressures. Notice that the Raney-nickel catalysed hydrogenations require high pressures:<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Catalysts are usually classified into two broad classes: <a href="/wiki/Homogeneous_catalyst" class="mw-redirect" title="Homogeneous catalyst">homogeneous catalysts</a> and <a href="/wiki/Heterogeneous_catalyst" class="mw-redirect" title="Heterogeneous catalyst">heterogeneous catalysts</a>. Homogeneous catalysts dissolve in the solvent that contains the unsaturated substrate. Heterogeneous catalysts are solids that are suspended in the same solvent with the substrate or are treated with gaseous substrate.</p>
+<h4><span class="mw-headline" id="Homogeneous_catalysts">Homogeneous catalysts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=6" title="Edit section: Homogeneous catalysts">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Some well known homogeneous catalysts are indicated below. These are <a href="/wiki/Coordination_complex" title="Coordination complex">coordination complexes</a> that activate both the unsaturated substrate and the H<sub>2</sub>. Most typically, these complexes contain platinum group metals, especially Rh and Ir.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class='gallerycaption'>Homogeneous hydrogenation catalysts and their precursors</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:21.5px auto;"><a href="/wiki/File:Dichlorotris(triphenylphosphine)ruthenium(II).png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dichlorotris%28triphenylphosphine%29ruthenium%28II%29.png/180px-Dichlorotris%28triphenylphosphine%29ruthenium%28II%29.png" width="180" height="107" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dichlorotris%28triphenylphosphine%29ruthenium%28II%29.png/270px-Dichlorotris%28triphenylphosphine%29ruthenium%28II%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dichlorotris%28triphenylphosphine%29ruthenium%28II%29.png/360px-Dichlorotris%28triphenylphosphine%29ruthenium%28II%29.png 2x" data-file-width="410" data-file-height="244" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Dichlorotris(triphenylphosphine)ruthenium(II)" title="Dichlorotris(triphenylphosphine)ruthenium(II)">Dichlorotris(triphenylphosphine)ruthenium(II)</a> is a precatalyst based on ruthenium.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:26.5px auto;"><a href="/wiki/File:Crabtree.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Crabtree.svg/180px-Crabtree.svg.png" width="180" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Crabtree.svg/270px-Crabtree.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Crabtree.svg/360px-Crabtree.svg.png 2x" data-file-width="514" data-file-height="276" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Crabtree%27s_catalyst" title="Crabtree's catalyst">Crabtree's catalyst</a> is a highly active catalyst featuring iridium.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:44.5px auto;"><a href="/wiki/File:Cyclooctadiene-rhodium-chloride-dimer-2D-skeletal.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cyclooctadiene-rhodium-chloride-dimer-2D-skeletal.png/180px-Cyclooctadiene-rhodium-chloride-dimer-2D-skeletal.png" width="180" height="61" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cyclooctadiene-rhodium-chloride-dimer-2D-skeletal.png/270px-Cyclooctadiene-rhodium-chloride-dimer-2D-skeletal.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cyclooctadiene-rhodium-chloride-dimer-2D-skeletal.png/360px-Cyclooctadiene-rhodium-chloride-dimer-2D-skeletal.png 2x" data-file-width="1100" data-file-height="374" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Cyclooctadiene_rhodium_chloride_dimer" title="Cyclooctadiene rhodium chloride dimer">Rh<sub>2</sub>Cl<sub>2</sub>(cod)<sub>2</sub></a> is a precursor to many homogeneous catalysts.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:15px auto;"><a href="/wiki/File:(S)-iPr-PHOX.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%28S%29-iPr-PHOX.svg/166px-%28S%29-iPr-PHOX.svg.png" width="166" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%28S%29-iPr-PHOX.svg/249px-%28S%29-iPr-PHOX.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%28S%29-iPr-PHOX.svg/332px-%28S%29-iPr-PHOX.svg.png 2x" data-file-width="512" data-file-height="370" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/(S)-iPr-PHOX" title="(S)-iPr-PHOX">(S)-iPr-PHOX</a> is a typical chelating phosphine ligand used in asymmetric hydrogenation.</p>
+</div>
+</div>
+</li>
+</ul>
+<div style="clear:left;"></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:RevisedCatCycle.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/RevisedCatCycle.png/220px-RevisedCatCycle.png" width="220" height="215" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/RevisedCatCycle.png/330px-RevisedCatCycle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/RevisedCatCycle.png/440px-RevisedCatCycle.png 2x" data-file-width="447" data-file-height="437" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:RevisedCatCycle.png" class="internal" title="Enlarge"></a></div>
+hydrogenation of propylene with Wilkinson's catalyst</div>
+</div>
+</div>
+<p>Homogeneous catalysts are also used in asymmetric synthesis by the hydrogenation of prochiral substrates. An early demonstration of this approach was the Rh-catalyzed hydrogenation of enamides as precursors to the drug L-DOPA.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> To achieve asymmetric reduction, these catalyst are made chiral by use of chiral diphosphine ligands.<sup id="cite_ref-Textbook_9-0" class="reference"><a href="#cite_note-Textbook-9">[9]</a></sup> Rhodium catalyzed hydrogenation has also been used in the herbicide production of S-metolachlor, which uses a Josiphos type ligand (called Xyliphos).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> In principle asymmetric hydrogenation can be catalyzed by chiral heterogeneous catalysts,<sup id="cite_ref-Mallet_11-0" class="reference"><a href="#cite_note-Mallet-11">[11]</a></sup> but this approach remains more of a curiosity than a useful technology.</p>
+<h4><span class="mw-headline" id="Heterogeneous_catalysts">Heterogeneous catalysts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=7" title="Edit section: Heterogeneous catalysts">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Heterogeneous catalysts for hydrogenation are more common industrially. As in homogeneous catalysts, the activity is adjusted through changes in the environment around the metal, i.e. the <a href="/wiki/Coordination_sphere" title="Coordination sphere">coordination sphere</a>. Different <a href="/wiki/Miller_index" title="Miller index">faces</a> of a crystalline heterogeneous catalyst display distinct activities, for example. Similarly, heterogeneous catalysts are affected by their supports, i.e. the material upon with the heterogeneous catalyst is bound.</p>
+<p>In many cases, highly empirical modifications involve selective "poisons". Thus, a carefully chosen catalyst can be used to hydrogenate some functional groups without affecting others, such as the hydrogenation of alkenes without touching aromatic rings, or the selective hydrogenation of <a href="/wiki/Alkynes" class="mw-redirect" title="Alkynes">alkynes</a> to alkenes using <a href="/wiki/Lindlar_catalyst" title="Lindlar catalyst">Lindlar's catalyst</a>. For example, when the catalyst <a href="/wiki/Palladium" title="Palladium">palladium</a> is placed on <a href="/wiki/Barium_sulfate" title="Barium sulfate">barium sulfate</a> and then treated with <a href="/wiki/Quinoline" title="Quinoline">quinoline</a>, the resulting catalyst reduces alkynes only as far as alkenes. The Lindlar catalyst has been applied to the conversion of <a href="/wiki/Phenylacetylene" title="Phenylacetylene">phenylacetylene</a> to <a href="/wiki/Styrene" title="Styrene">styrene</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<ul class="gallery mw-gallery-traditional">
+<li class='gallerycaption'>Illustrative hydrogenations</li>
+<li class="gallerybox" style="width: 197px">
+<div style="width: 197px">
+<div class="thumb" style="width: 192px;">
+<div style="margin:43.5px auto;"><a href="/wiki/File:CarvoneH2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CarvoneH2.png/162px-CarvoneH2.png" width="162" height="53" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CarvoneH2.png/243px-CarvoneH2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CarvoneH2.png/324px-CarvoneH2.png 2x" data-file-width="837" data-file-height="276" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Selective hydrogenation of the less hindered alkene group in <a href="/wiki/Carvone" title="Carvone">carvone</a> using a homogeneous catalyst (<a href="/wiki/Wilkinson%27s_catalyst" title="Wilkinson's catalyst">Wilkinson's catalyst</a>).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 197px">
+<div style="width: 197px">
+<div class="thumb" style="width: 192px;">
+<div style="margin:51px auto;"><a href="/wiki/File:PhC2HH2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/PhC2HH2.png/162px-PhC2HH2.png" width="162" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/PhC2HH2.png/243px-PhC2HH2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/PhC2HH2.png/324px-PhC2HH2.png 2x" data-file-width="849" data-file-height="200" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Partial hydrogenation of <a href="/wiki/Phenylacetylene" title="Phenylacetylene">phenylacetylene</a> using the <a href="/wiki/Lindlar_catalyst" title="Lindlar catalyst">Lindlar catalyst</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 197px">
+<div style="width: 197px">
+<div class="thumb" style="width: 192px;">
+<div style="margin:48.5px auto;"><a href="/wiki/File:ImineH2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/ImineH2.png/162px-ImineH2.png" width="162" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/ImineH2.png/243px-ImineH2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/ImineH2.png/324px-ImineH2.png 2x" data-file-width="1091" data-file-height="289" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Hydrogenation of an imine using a <a href="/wiki/Raney_nickel" title="Raney nickel">Raney nickel</a> catalyst, a popular heterogeneous catalyst.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 197px">
+<div style="width: 197px">
+<div class="thumb" style="width: 192px;">
+<div style="margin:45.5px auto;"><a href="/wiki/File:ResorcinolH2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ResorcinolH2.png/162px-ResorcinolH2.png" width="162" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ResorcinolH2.png/243px-ResorcinolH2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ResorcinolH2.png/324px-ResorcinolH2.png 2x" data-file-width="726" data-file-height="221" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Partial hydrogenation of a <a href="/wiki/Resorcinol" title="Resorcinol">resorcinol</a> derivative using a Raney-Nickel catalyst.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 197px">
+<div style="width: 197px">
+<div class="thumb" style="width: 192px;">
+<div style="margin:48.5px auto;"><a href="/wiki/File:SuccPdH2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/SuccPdH2.png/162px-SuccPdH2.png" width="162" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/SuccPdH2.png/243px-SuccPdH2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/SuccPdH2.png/324px-SuccPdH2.png 2x" data-file-width="912" data-file-height="241" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Hydrogenation of <a href="/wiki/Maleic_acid" title="Maleic acid">maleic acid</a> to <a href="/wiki/Succinic_acid" title="Succinic acid">succinic acid</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Transfer_hydrogenation">Transfer hydrogenation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=8" title="Edit section: Transfer hydrogenation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hydrogen also can be extracted ("transferred") from "hydrogen-donors" in place of H<sub>2</sub> gas. Hydrogen donors, which often serve as <a href="/wiki/Solvent" title="Solvent">solvents</a> include <a href="/wiki/Hydrazine" title="Hydrazine">hydrazine</a>, <a href="/wiki/Dialin" title="Dialin">dihydronaphthalene</a>, dihydroanthracene, <a href="/wiki/Isopropanol" class="mw-redirect" title="Isopropanol">isopropanol</a>, and <a href="/wiki/Formic_acid" title="Formic acid">formic acid</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>In <a href="/wiki/Organic_synthesis" title="Organic synthesis">organic synthesis</a>, <a href="/wiki/Transfer_hydrogenation" title="Transfer hydrogenation">transfer hydrogenation</a> is useful for the asymmetric reduction of polar unsaturated substrates, such as <a href="/wiki/Ketone" title="Ketone">ketones</a>, <a href="/wiki/Aldehyde" title="Aldehyde">aldehydes</a>, and <a href="/wiki/Imine" title="Imine">imines</a>. The hydrogenation of polar substrates such as ketones and aldehydes typically require <a href="/wiki/Transfer_hydrogenation" title="Transfer hydrogenation">transfer hydrogenation</a>, at least in homogeneous catalysis. These catalysts are readily generated in chiral forms, which is the basis of asymmetric hydrogenation of ketones.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:THintermed.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/THintermed.png/300px-THintermed.png" width="300" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/THintermed.png/450px-THintermed.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/THintermed.png/600px-THintermed.png 2x" data-file-width="1848" data-file-height="762" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:THintermed.png" class="internal" title="Enlarge"></a></div>
+Transfer hydrogenation catalyzed by transition metal complexes proceeds by an "outer sphere mechanism."</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Electrolytic_hydrogenation">Electrolytic hydrogenation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=9" title="Edit section: Electrolytic hydrogenation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Chemical_polarity" title="Chemical polarity">Polar</a> substrates such as <a href="/wiki/Nitriles" class="mw-redirect" title="Nitriles">nitriles</a> can be hydrogenated <a href="/wiki/Electrosynthesis#Cathodic_reductions" title="Electrosynthesis">electrochemically</a>, using <a href="/wiki/Protic_solvent" title="Protic solvent">protic solvents</a> and reducing equivalents as the source of hydrogen.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Thermodynamics_and_mechanism">Thermodynamics and mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=10" title="Edit section: Thermodynamics and mechanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The addition of hydrogen to double or triple bonds in <a href="/wiki/Hydrocarbons" class="mw-redirect" title="Hydrocarbons">hydrocarbons</a> is a type of <a href="/wiki/Redox" title="Redox">redox</a> reaction that can be thermodynamically favorable. For example, the addition of hydrogen to an alkene has a <a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a> change of -101 kJ·mol<sup>−1</sup>.<sup id="cite_ref-Textbook_9-1" class="reference"><a href="#cite_note-Textbook-9">[9]</a></sup> However, the reaction rate for most hydrogenation reactions is negligible in the absence of catalysts. Hydrogenation is a strongly <a href="/wiki/Exothermic" class="mw-redirect" title="Exothermic">exothermic</a> reaction. In the hydrogenation of vegetable oils and fatty acids, for example, the heat released is about 25 kcal per mole (105 kJ/mol), sufficient to raise the temperature of the oil by 1.6–1.7&#160;°C per <a href="/wiki/Iodine_number" class="mw-redirect" title="Iodine number">iodine number</a> drop. The <a href="/wiki/Reaction_mechanism" title="Reaction mechanism">mechanism</a> of metal-catalyzed hydrogenation of alkenes and alkynes has been extensively studied.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> First of all <a href="/wiki/Isotope_labeling" class="mw-redirect" title="Isotope labeling">isotope labeling</a> using <a href="/wiki/Deuterium" title="Deuterium">deuterium</a> confirms the <a href="/wiki/Regiochemistry" class="mw-redirect" title="Regiochemistry">regiochemistry</a> of the addition:</p>
+<dl>
+<dd>RCH=CH<sub>2</sub> + D<sub>2</sub> → RCHDCH<sub>2</sub>D</dd>
+</dl>
+<h3><span class="mw-headline" id="Heterogeneous_catalysis">Heterogeneous catalysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=11" title="Edit section: Heterogeneous catalysis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On solids, the accepted mechanism is the Horiuti-<a href="/wiki/Michael_Polanyi" title="Michael Polanyi">Polanyi</a> mechanism:<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<ol>
+<li>Binding of the unsaturated bond, and hydrogen dissociation into atomic hydrogen onto the catalyst</li>
+<li>Addition of one atom of hydrogen; this step is reversible</li>
+<li>Addition of the second atom; effectively irreversible under hydrogenating conditions.</li>
+</ol>
+<p>In the second step, the metallointermediate formed is a saturated compound that can rotate and then break down, again detaching the alkene from the catalyst. Consequently, contact with a hydrogenation catalyst necessarily causes <i>cis-trans</i>-isomerization, because the isomerization is thermodynamically favorable. This is a problem in partial hydrogenation, while in complete hydrogenation the produced <i>trans</i>-alkene is eventually hydrogenated.</p>
+<p>For aromatic substrates, the first bond is hardest to hydrogenate because of the free energy penalty for breaking the aromatic system. The product of this is a cyclohexadiene, which is extremely active and cannot be isolated; in conditions reducing enough to break the aromatization, it is immediately reduced to a cyclohexene. The <a href="/wiki/Cyclohexene" title="Cyclohexene">cyclohexene</a> is ordinarily reduced immediately to a fully saturated cyclohexane, but special modifications to the catalysts (such as the use of the anti-solvent water on ruthenium) can preserve some of the cyclohexene, if that is a desired product.</p>
+<h3><span class="mw-headline" id="Homogeneous_catalysis">Homogeneous catalysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=12" title="Edit section: Homogeneous catalysis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In many homogeneous hydrogenation processes,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> the metal binds to both components to give an intermediate alkene-metal(H)<sub>2</sub> complex. The general sequence of reactions is assumed to be as follows or a related sequence of steps:</p>
+<ul>
+<li>binding of the hydrogen to give a dihydride complex via <a href="/wiki/Oxidative_addition" title="Oxidative addition">oxidative addition</a> (preceding the oxidative addition of H<sub>2</sub> is the formation of a <a href="/wiki/Dihydrogen_complex" title="Dihydrogen complex">dihydrogen complex</a>):</li>
+</ul>
+<dl>
+<dd>L<sub>n</sub>M + H<sub>2</sub> → L<sub>n</sub>MH<sub>2</sub></dd>
+</dl>
+<ul>
+<li>binding of alkene:</li>
+</ul>
+<dl>
+<dd>L<sub>n</sub>M(η<sup>2</sup>H<sub>2</sub>) + CH<sub>2</sub>=CHR → L<sub>n-1</sub>MH<sub>2</sub>(CH<sub>2</sub>=CHR) + L</dd>
+</dl>
+<ul>
+<li>transfer of one hydrogen atom from the metal to carbon (migratory insertion)</li>
+</ul>
+<dl>
+<dd>L<sub>n-1</sub>MH<sub>2</sub>(CH<sub>2</sub>=CHR) → L<sub>n-1</sub>M(H)(CH<sub>2</sub>-CH<sub>2</sub>R)</dd>
+</dl>
+<ul>
+<li>transfer of the second hydrogen atom from the metal to the alkyl group with simultaneous dissociation of the alkane ("reductive elimination")</li>
+</ul>
+<dl>
+<dd>L<sub>n-1</sub>M(H)(CH<sub>2</sub>-CH<sub>2</sub>R) → L<sub>n-1</sub>M + CH<sub>3</sub>-CH<sub>2</sub>R</dd>
+</dl>
+<h2><span class="mw-headline" id="Inorganic_substrates">Inorganic substrates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=13" title="Edit section: Inorganic substrates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The hydrogenation of nitrogen to give ammonia is conducted on a vast scale by the <a href="/wiki/Haber-Bosch" class="mw-redirect" title="Haber-Bosch">Haber-Bosch</a> process, consuming an estimated 1% of the <a href="/wiki/World_energy_consumption" title="World energy consumption">world's energy supply</a>.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <munderover>
+            <mrow class="MJX-TeXAtom-OP">
+              <mover>
+                <mrow>
+                  <mtext>N</mtext>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo>&#x2261;<!-- ≡ --></mo>
+                  </mrow>
+                  <mtext>N</mtext>
+                </mrow>
+                <mo accent="false">&#x23DE;<!-- ⏞ --></mo>
+              </mover>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>nitrogen</mtext>
+            </mrow>
+          </munderover>
+          <mo>+</mo>
+          <munderover>
+            <mrow class="MJX-TeXAtom-OP">
+              <mover>
+                <mrow>
+                  <mn>3</mn>
+                  <mspace width="thinmathspace" />
+                  <msubsup>
+                    <mtext>H</mtext>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>2</mn>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mspace width="0pt" height="0pt" depth=".2em" />
+                    </mrow>
+                  </msubsup>
+                </mrow>
+                <mo accent="false">&#x23DE;<!-- ⏞ --></mo>
+              </mover>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <munder>
+                <mtext>hydrogen</mtext>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">(</mo>
+                  <mn>200</mn>
+                  <mspace width="thinmathspace" />
+                  <mtext>&#xA0;</mtext>
+                  <mtext>atm</mtext>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+              </munder>
+            </mrow>
+          </munderover>
+          <mrow class="MJX-TeXAtom-REL">
+            <munderover>
+              <mo>&#x2192;</mo>
+              <mpadded width="+0.611em" lspace="0.278em" voffset="-.24em">
+                <mn>350</mn>
+                <mo>&#x2212;<!-- − --></mo>
+                <msup>
+                  <mn>550</mn>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo>&#x2218;<!-- ∘ --></mo>
+                  </mrow>
+                </msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>C</mtext>
+                </mrow>
+              </mpadded>
+              <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>Fe</mtext>
+                  <mtext>&#xA0;</mtext>
+                  <mtext>catalyst</mtext>
+                </mrow>
+              </mpadded>
+            </munderover>
+          </mrow>
+          <munderover>
+            <mrow class="MJX-TeXAtom-OP">
+              <mover>
+                <mrow>
+                  <mn>2</mn>
+                  <mspace width="thinmathspace" />
+                  <msubsup>
+                    <mtext>NH</mtext>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>3</mn>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mspace width="0pt" height="0pt" depth=".2em" />
+                    </mrow>
+                  </msubsup>
+                </mrow>
+                <mo accent="false">&#x23DE;<!-- ⏞ --></mo>
+              </mover>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>ammonia</mtext>
+            </mrow>
+          </munderover>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {\overbrace {N{\equiv }N} ^{nitrogen}+\overbrace {3H2} ^{\underset {(200\ atm)}{hydrogen}}-&gt;[{\ce {Fe\ catalyst}}][350-550^{\circ }{\ce {C}}]\overbrace {2NH3} ^{ammonia}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9925de053d2b1bed3522d6896f6de777c50e810c" class="mwe-math-fallback-image-inline" title="Hydrogenation of nitrogen" aria-hidden="true" style="vertical-align: -2.671ex; width:32.43ex; height:9.676ex;" alt="{\displaystyle {\ce {\overbrace {N{\equiv }N} ^{nitrogen}+\overbrace {3H2} ^{\underset {(200\ atm)}{hydrogen}}-&gt;[{\ce {Fe\ catalyst}}][350-550^{\circ }{\ce {C}}]\overbrace {2NH3} ^{ammonia}}}}" /></span></dd>
+</dl>
+<p>Oxygen can be partially hydrogenated to give <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">hydrogen peroxide</a>, although this process has not been commercialized.</p>
+<h2><span class="mw-headline" id="Industrial_applications">Industrial applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=14" title="Edit section: Industrial applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Catalytic hydrogenation has diverse industrial uses. Most frequently, industrial hydrogenation relies on heterogeneous catalysts.<sup id="cite_ref-Rylander_2-1" class="reference"><a href="#cite_note-Rylander-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Food_industry">Food industry<span id="In_the_food_industry"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=15" title="Edit section: Food industry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;background:#eee">Types of <a href="/wiki/Fat" title="Fat">fats</a> in <a href="/wiki/Food" title="Food">food</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align:left">
+<ul>
+<li><a href="/wiki/Unsaturated_fat" title="Unsaturated fat">Unsaturated fat</a>
+<ul>
+<li><a href="/wiki/Monounsaturated_fat" title="Monounsaturated fat">Monounsaturated fat</a>
+<ul>
+<li><a href="/wiki/Omega-7_fatty_acid" title="Omega-7 fatty acid">ω−7</a></li>
+<li><a href="/wiki/Omega-9_fatty_acid" title="Omega-9 fatty acid">ω−9</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Polyunsaturated_fat" title="Polyunsaturated fat">Polyunsaturated fat</a>
+<ul>
+<li><a href="/wiki/Omega-3_fatty_acid" title="Omega-3 fatty acid">ω−3</a></li>
+<li><a href="/wiki/Omega-6_fatty_acid" title="Omega-6 fatty acid">ω−6</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Trans_fat" title="Trans fat">Trans fat</a>
+<ul>
+<li><a href="/wiki/Cholesterol" title="Cholesterol">Cholesterol</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Saturated_fat" title="Saturated fat">Saturated fat</a>
+<ul>
+<li><a href="/wiki/Interesterified_fat" title="Interesterified fat">Interesterified fat</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eee">See also</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align:left">
+<ul>
+<li><a href="/wiki/Fatty_acid" title="Fatty acid">Fatty acid</a></li>
+<li><a href="/wiki/Essential_fatty_acid" title="Essential fatty acid">Essential fatty acid</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Fats" title="Template:Fats"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Fats" title="Template talk:Fats"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fats&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The largest scale application of hydrogenation is for the processing of <a href="/wiki/Vegetable_oil" title="Vegetable oil">vegetable oils</a>.<sup id="cite_ref-Rylander_2-2" class="reference"><a href="#cite_note-Rylander-2">[2]</a></sup> Typical vegetable oils are derived from poly<a href="/wiki/Unsaturated_fatty_acid" class="mw-redirect" title="Unsaturated fatty acid">unsaturated fatty acids</a> (containing more than one carbon-carbon <a href="/wiki/Double_bond" title="Double bond">double bond</a>). Their partial hydrogenation reduces most, but not all, of these carbon-carbon double bonds. The degree of hydrogenation is controlled by restricting the amount of hydrogen, reaction temperature and time, and the catalyst.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<dl>
+<dd>
+<div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:H2forMargerin.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/H2forMargerin.png/320px-H2forMargerin.png" width="320" height="259" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/H2forMargerin.png/480px-H2forMargerin.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/H2forMargerin.png/640px-H2forMargerin.png 2x" data-file-width="1001" data-file-height="809" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:H2forMargerin.png" class="internal" title="Enlarge"></a></div>
+Partial hydrogenation of a typical plant oil to a typical component of margarine. Most of the C=C double bonds are removed in this process, which elevates the melting point of the product.</div>
+</div>
+</div>
+</dd>
+</dl>
+<p>Hydrogenation converts liquid <a href="/wiki/Vegetable_oil" title="Vegetable oil">vegetable oils</a> into solid or semi-solid fats, such as those present in <a href="/wiki/Margarine" title="Margarine">margarine</a>. Changing the degree of saturation of the fat changes some important physical properties, such as the melting range, which is why liquid oils become semi-solid. Solid or semi-solid fats are preferred for baking because the way the fat mixes with flour produces a more desirable texture in the baked product. Because partially hydrogenated vegetable oils are cheaper than animal fats, are available in a wide range of consistencies, and have other desirable characteristics (such as increased oxidative <a href="/wiki/Chemical_stability" title="Chemical stability">stability</a> and longer <a href="/wiki/Shelf_life" title="Shelf life">shelf life</a>), they are the predominant fats used as <a href="/wiki/Shortening" title="Shortening">shortening</a> in most commercial baked goods.</p>
+<p>A side effect of incomplete hydrogenation having implications for human health is the <a href="/wiki/Isomerization" title="Isomerization">isomerization</a> of some of the remaining unsaturated carbon bonds, resulting in the <a href="/wiki/Trans_isomer" class="mw-redirect" title="Trans isomer">trans isomers</a>, which have been implicated in circulatory diseases including <a href="/wiki/Heart_disease" class="mw-redirect" title="Heart disease">heart disease</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> The conversion from cis to trans bonds is favored because the trans configuration has lower energy than the natural cis one. At equilibrium, the trans/cis isomer ratio is about 2:1. Many countries and regions have introduced mandatory labeling of trans fats on food products and appealed to the industry for voluntary reductions.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<h3><span class="mw-headline" id="Petrochemical_industry">Petrochemical industry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=16" title="Edit section: Petrochemical industry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In petrochemical processes, hydrogenation is used to convert alkenes and aromatics into saturated alkanes (paraffins) and cycloalkanes (naphthenes), which are less toxic and less reactive. Relevant to liquid fuels that are stored sometimes for long periods in air, saturated hydrocarbons exhibit superior storage properties. On the other hand, alkene tend to form <a href="/wiki/Hydroperoxide" class="mw-redirect" title="Hydroperoxide">hydroperoxides</a>, which can form gums that interfere with fuel handing equipment. For example, <a href="/wiki/Mineral_turpentine" class="mw-redirect" title="Mineral turpentine">mineral turpentine</a> is usually hydrogenated. <a href="/wiki/Hydrocracking" class="mw-redirect" title="Hydrocracking">Hydrocracking</a> of heavy residues into diesel is another application. In <a href="/wiki/Isomerization" title="Isomerization">isomerization</a> and <a href="/wiki/Catalytic_reforming" title="Catalytic reforming">catalytic reforming</a> processes, some hydrogen pressure is maintained to <a href="/wiki/Hydrogenolysis" title="Hydrogenolysis">hydrogenolyze</a> <a href="/wiki/Petroleum_coke" title="Petroleum coke">coke</a> formed on the catalyst and prevent its accumulation.</p>
+<h3><span class="mw-headline" id="Organic_chemistry">Organic chemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=17" title="Edit section: Organic chemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hydrogenation is a useful means for converting unsaturated compounds into saturated derivatives. Substrates include not only alkenes and alkynes, but also aldehydes, imines, and nitriles, which are converted into the corresponding saturated compounds, i.e. alcohols and amines. Thus, alkyl aldehydes, which can be synthesized with the <a href="/wiki/Oxo_process" class="mw-redirect" title="Oxo process">oxo process</a> from <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> and an alkene, can be converted to alcohols. E.g. <a href="/wiki/1-propanol" class="mw-redirect" title="1-propanol">1-propanol</a> is produced from propionaldehyde, produced from ethene and carbon monoxide. <a href="/wiki/Xylitol" title="Xylitol">Xylitol</a>, a <a href="/wiki/Polyol" title="Polyol">polyol</a>, is produced by hydrogenation of the sugar <a href="/wiki/Xylose" title="Xylose">xylose</a>, an aldehyde. Primary amines can be synthesized by <a href="/wiki/Nitrile_reduction" title="Nitrile reduction">hydrogenation of nitriles</a>, while nitriles are readily synthesized from cyanide and a suitable electrophile. For example, isophorone diamine, a precursor to the <a href="/wiki/Polyurethane" title="Polyurethane">polyurethane</a> monomer <a href="/wiki/Isophorone_diisocyanate" title="Isophorone diisocyanate">isophorone diisocyanate</a>, is produced from isophorone nitrile by a tandem nitrile hydrogenation/reductive amination by ammonia, wherein hydrogenation converts both the nitrile into an amine and the imine formed from the aldehyde and ammonia into another amine.</p>
+<h3><span class="mw-headline" id="Hydrogenation_of_coal">Hydrogenation of coal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=18" title="Edit section: Hydrogenation of coal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Bergius_process" title="Bergius process">Bergius process</a></div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=19" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Heterogeneous_catalytic_hydrogenation">Heterogeneous catalytic hydrogenation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=20" title="Edit section: Heterogeneous catalytic hydrogenation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The earliest hydrogenation is that of <a href="/wiki/Platinum" title="Platinum">platinum</a> <a href="/wiki/Catalysis" title="Catalysis">catalyzed</a> addition of hydrogen to oxygen in the <a href="/wiki/D%C3%B6bereiner%27s_lamp" title="Döbereiner's lamp">Döbereiner's lamp</a>, a device commercialized as early as 1823. The French chemist <a href="/wiki/Paul_Sabatier_(chemist)" title="Paul Sabatier (chemist)">Paul Sabatier</a> is considered the father of the hydrogenation process. In 1897, building on the earlier work of <a href="/wiki/James_F._Boyce,_Sr." class="mw-redirect" title="James F. Boyce, Sr.">James Boyce</a>, an American chemist working in the manufacture of soap products, he discovered that traces of nickel catalyzed the addition of hydrogen to molecules of gaseous hydrocarbons in what is now known as the <a href="/wiki/Sabatier_process" class="mw-redirect" title="Sabatier process">Sabatier process</a>. For this work, Sabatier shared the 1912 <a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a>. <a href="/wiki/Wilhelm_Normann" title="Wilhelm Normann">Wilhelm Normann</a> was awarded a patent in Germany in 1902 and in Britain in 1903 for the hydrogenation of liquid oils, which was the beginning of what is now a worldwide industry. The commercially important <a href="/wiki/Haber%E2%80%93Bosch_process" class="mw-redirect" title="Haber–Bosch process">Haber–Bosch process</a>, first described in 1905, involves hydrogenation of nitrogen. In the <a href="/wiki/Fischer%E2%80%93Tropsch_process" title="Fischer–Tropsch process">Fischer–Tropsch process</a>, reported in 1922 carbon monoxide, which is easily derived from coal, is hydrogenated to liquid fuels.</p>
+<p>In 1922, Voorhees and Adams described an apparatus for performing hydrogenation under pressures above one atmosphere.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> The Parr shaker, the first product to allow hydrogenation using elevated pressures and temperatures, was commercialized in 1926 based on Voorhees and Adams' research and remains in widespread use. In 1924 <a href="/wiki/Murray_Raney" title="Murray Raney">Murray Raney</a> developed a finely powdered form of nickel, which is widely used to catalyze hydrogenation reactions such as conversion of nitriles to amines or the production of margarine.</p>
+<h3><span class="mw-headline" id="Homogeneous_catalytic_hydrogenation">Homogeneous catalytic hydrogenation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=21" title="Edit section: Homogeneous catalytic hydrogenation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the 1930s, Calvin discovered that copper(II) complexes oxidized H<sub>2</sub>. The 1960s witnessed the development of well defined <a href="/wiki/Homogeneous_catalyst" class="mw-redirect" title="Homogeneous catalyst">homogeneous catalysts</a> using transition metal complexes, e.g., <a href="/wiki/Wilkinson%27s_catalyst" title="Wilkinson's catalyst">Wilkinson's catalyst</a> (RhCl(PPh<sub>3</sub>)<sub>3</sub>). Soon thereafter cationic Rh and Ir were found catalyze the hydrogenation of alkenes and carbonyls.<sup id="cite_ref-ACS_27-0" class="reference"><a href="#cite_note-ACS-27">[27]</a></sup> In the 1970s, asymmetric hydrogenation was demonstrated in the synthesis of <a href="/wiki/L-DOPA" title="L-DOPA">L-DOPA</a>, and the 1990s saw the invention of <a href="/wiki/Noyori_asymmetric_hydrogenation" title="Noyori asymmetric hydrogenation">Noyori asymmetric hydrogenation</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> The development of homogeneous hydrogenation was influenced by work started in the 1930s and 1940s on the <a href="/wiki/Oxo_process" class="mw-redirect" title="Oxo process">oxo process</a> and <a href="/wiki/Ziegler%E2%80%93Natta_polymerization" class="mw-redirect" title="Ziegler–Natta polymerization">Ziegler–Natta polymerization</a>.</p>
+<h2><span class="mw-headline" id="Metal-free_hydrogenation">Metal-free hydrogenation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=22" title="Edit section: Metal-free hydrogenation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For most practical purposes, hydrogenation requires a metal catalyst. Hydrogenation can, however, proceed from some hydrogen donors without catalysts, illustrative hydrogen donors being <a href="/wiki/Diimide" class="mw-redirect" title="Diimide">diimide</a> and <a href="/wiki/Aluminium_isopropoxide" title="Aluminium isopropoxide">aluminium isopropoxide</a>, the latter illustrated by the <a href="/wiki/Meerwein%E2%80%93Ponndorf%E2%80%93Verley_reduction" title="Meerwein–Ponndorf–Verley reduction">Meerwein–Ponndorf–Verley reduction</a>. Some metal-free catalytic systems have been investigated in academic research. One such system for reduction of <a href="/wiki/Ketone" title="Ketone">ketones</a> consists of <a href="/wiki/Tert-Butanol" class="mw-redirect" title="Tert-Butanol"><i>tert</i>-butanol</a> and <a href="/wiki/Potassium_tert-butoxide" title="Potassium tert-butoxide">potassium tert-butoxide</a> and very high temperatures.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> The reaction depicted below describes the hydrogenation of <a href="/wiki/Benzophenone" title="Benzophenone">benzophenone</a>:</p>
+<dl>
+<dd><a href="/wiki/File:BaseCatalyzedKetoneHydrogenation.svg" class="image" title="Base-catalyzed hydrogenation of ketones."><img alt="Base-catalyzed hydrogenation of ketones." src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/BaseCatalyzedKetoneHydrogenation.svg/500px-BaseCatalyzedKetoneHydrogenation.svg.png" width="500" height="219" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/BaseCatalyzedKetoneHydrogenation.svg/750px-BaseCatalyzedKetoneHydrogenation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/BaseCatalyzedKetoneHydrogenation.svg/1000px-BaseCatalyzedKetoneHydrogenation.svg.png 2x" data-file-width="589" data-file-height="258" /></a></dd>
+</dl>
+<p>A <a href="/wiki/Chemical_kinetics" title="Chemical kinetics">chemical kinetics</a> study<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> found this reaction is <a href="/wiki/Order_of_reaction" title="Order of reaction">first-order</a> in all three reactants suggesting a cyclic 6-membered <a href="/wiki/Transition_state" title="Transition state">transition state</a>.</p>
+<p>Another system for metal-free hydrogenation is based on the <a href="/wiki/Phosphine" title="Phosphine">phosphine</a>-<a href="/wiki/Borane" title="Borane">borane</a>, compound <b>1</b>, which has been called a <i><a href="/wiki/Frustrated_Lewis_pair" title="Frustrated Lewis pair">frustrated Lewis pair</a></i>. It reversibly accepts dihydrogen at relatively low temperatures to form the <a href="/wiki/Phosphonium" title="Phosphonium">phosphonium</a> <a href="/wiki/Borate" title="Borate">borate</a> <b>2</b> which can reduce simple hindered <a href="/wiki/Imine" title="Imine">imines</a>.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p>
+<dl>
+<dd><a href="/wiki/File:MetalfreehydrogenationPhosphineBorane.svg" class="image" title="Metal free hydrogenation Phosphine Borane"><img alt="Metal free hydrogenation Phosphine Borane" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MetalfreehydrogenationPhosphineBorane.svg/400px-MetalfreehydrogenationPhosphineBorane.svg.png" width="400" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MetalfreehydrogenationPhosphineBorane.svg/600px-MetalfreehydrogenationPhosphineBorane.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MetalfreehydrogenationPhosphineBorane.svg/800px-MetalfreehydrogenationPhosphineBorane.svg.png 2x" data-file-width="608" data-file-height="266" /></a></dd>
+</dl>
+<p>The reduction of <a href="/wiki/Nitrobenzene" title="Nitrobenzene">nitrobenzene</a> to <a href="/wiki/Aniline" title="Aniline">aniline</a> has been reported to be catalysed by <a href="/wiki/Fullerene" title="Fullerene">fullerene</a>, its mono-anion, atmospheric hydrogen and UV light.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+<h2><span class="mw-headline" id="Equipment_used_for_hydrogenation">Equipment used for hydrogenation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=23" title="Edit section: Equipment used for hydrogenation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Today's bench chemist has three main choices of hydrogenation equipment:</p>
+<ul>
+<li>Batch hydrogenation under atmospheric conditions</li>
+<li>Batch hydrogenation at elevated temperature and/or pressure<sup id="cite_ref-Apparatus_33-0" class="reference"><a href="#cite_note-Apparatus-33">[33]</a></sup></li>
+<li>Flow hydrogenation</li>
+</ul>
+<h3><span class="mw-headline" id="Batch_hydrogenation_under_atmospheric_conditions">Batch hydrogenation under atmospheric conditions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=24" title="Edit section: Batch hydrogenation under atmospheric conditions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The original and still a commonly practised form of hydrogenation in teaching laboratories, this process is usually effected by adding solid catalyst to a <a href="/wiki/Round_bottom_flask" class="mw-redirect" title="Round bottom flask">round bottom flask</a> of dissolved reactant which has been evacuated using <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> or <a href="/wiki/Argon" title="Argon">argon</a> gas and sealing the mixture with a penetrable rubber seal. Hydrogen gas is then supplied from a H<sub>2</sub>-filled <a href="/wiki/Balloon" title="Balloon">balloon</a>. The resulting three phase mixture is agitated to promote mixing. Hydrogen uptake can be monitored, which can be useful for monitoring progress of a hydrogenation. This is achieved by either using a graduated tube containing a coloured liquid, usually aqueous <a href="/wiki/Copper_sulfate" title="Copper sulfate">copper sulfate</a> or with <a href="/wiki/Sight_glass" title="Sight glass">gauges</a> for each reaction vessel.</p>
+<h3><span class="mw-headline" id="Batch_hydrogenation_at_elevated_temperature_and.2For_pressure">Batch hydrogenation at elevated temperature and/or pressure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=25" title="Edit section: Batch hydrogenation at elevated temperature and/or pressure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since many hydrogenation reactions such as <a href="/wiki/Hydrogenolysis" title="Hydrogenolysis">hydrogenolysis</a> of <a href="/wiki/Protecting_groups" class="mw-redirect" title="Protecting groups">protecting groups</a> and the reduction of <a href="/wiki/Aromatic" class="mw-redirect" title="Aromatic">aromatic</a> systems proceed extremely sluggishly at atmospheric temperature and pressure, pressurised systems are popular. In these cases, catalyst is added to a solution of reactant under an inert atmosphere in a <a href="/wiki/Pressure_vessel" title="Pressure vessel">pressure vessel</a>. Hydrogen is added directly from a cylinder or built in laboratory hydrogen source, and the pressurized slurry is mechanically rocked to provide agitation, or a spinning basket is used.<sup id="cite_ref-Apparatus_33-1" class="reference"><a href="#cite_note-Apparatus-33">[33]</a></sup> Heat may also be used, as the pressure compensates for the associated reduction in gas solubility.</p>
+<h3><span class="mw-headline" id="Flow_hydrogenation">Flow hydrogenation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=26" title="Edit section: Flow hydrogenation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Flow hydrogenation has become a popular technique at the bench and increasingly the process scale. This technique involves continuously flowing a dilute stream of dissolved reactant over a fixed bed catalyst in the presence of hydrogen. Using established <a href="/wiki/High-performance_liquid_chromatography" title="High-performance liquid chromatography">HPLC</a> technology, this technique allows the application of pressures from atmospheric to 1,450&#160;psi (100&#160;bar). Elevated temperatures may also be used. At the bench scale, systems use a range of pre-packed catalysts which eliminates the need for weighing and filtering <a href="/wiki/Pyrophoric" class="mw-redirect" title="Pyrophoric">pyrophoric</a> catalysts.</p>
+<h3><span class="mw-headline" id="Industrial_reactors">Industrial reactors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=27" title="Edit section: Industrial reactors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Catalytic hydrogenation is done in a <a href="/wiki/Plug_flow_reactor_model" title="Plug flow reactor model">tubular plug-flow reactor</a> (PFR) packed with a supported catalyst. The pressures and temperatures are typically high, although this depends on the catalyst. Catalyst loading is typically much lower than in laboratory batch hydrogenation, and various promoters are added to the metal, or mixed metals are used, to improve activity, selectivity and catalyst stability. The use of nickel is common despite its low activity, due to its low cost compared to precious metals.</p>
+<p>Gas Liquid Induction Reactors (Hydrogenator) are also used for carrying out catalytic hydrogenation.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=28" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 24em; -webkit-column-width: 24em; column-width: 24em;">
+<ul>
+<li><a href="/wiki/Carbon_neutral_fuel" class="mw-redirect" title="Carbon neutral fuel">Carbon neutral fuel</a></li>
+<li><a href="/wiki/Dehydrogenation" title="Dehydrogenation">Dehydrogenation</a></li>
+<li><a href="/wiki/H-Bio" title="H-Bio">H-Bio</a></li>
+<li><a href="/wiki/Hydrogenolysis" title="Hydrogenolysis">Hydrogenolysis</a></li>
+<li><a href="/wiki/Hydrodesulfurization" title="Hydrodesulfurization">Hydrodesulfurization</a>, <a href="/wiki/Hydrotreater" class="mw-redirect" title="Hydrotreater">hydrotreater</a> and <a href="/wiki/Oil_desulfurization" class="mw-redirect" title="Oil desulfurization">oil desulfurization</a></li>
+<li><a href="/wiki/Josiphos_ligands" title="Josiphos ligands">Josiphos ligands</a></li>
+<li><a href="/wiki/Timeline_of_hydrogen_technologies" title="Timeline of hydrogen technologies">Timeline of hydrogen technologies</a></li>
+<li><a href="/wiki/Transfer_hydrogenation" title="Transfer hydrogenation">Transfer hydrogenation</a></li>
+<li><a href="/wiki/Rhodium-catalyzed_hydrogenation" class="mw-redirect" title="Rhodium-catalyzed hydrogenation">Rhodium-catalyzed hydrogenation</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=29" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Hudlický, Miloš (1996). <i>Reductions in Organic Chemistry</i>. Washington, D.C.: <a href="/wiki/American_Chemical_Society" title="American Chemical Society">American Chemical Society</a>. p.&#160;429. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8412-3344-6" title="Special:BookSources/0-8412-3344-6">0-8412-3344-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.aufirst=Milo%C5%A1&amp;rft.aulast=Hudlick%C3%BD&amp;rft.btitle=Reductions+in+Organic+Chemistry&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=0-8412-3344-6&amp;rft.pages=429&amp;rft.place=Washington%2C+D.C.&amp;rft.pub=American+Chemical+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rylander-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rylander_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rylander_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Rylander_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Paul N. Rylander, "Hydrogenation and Dehydrogenation" in <i>Ullmann's Encyclopedia of Industrial Chemistry</i>, Wiley-VCH, Weinheim, 2005. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F14356007.a13+487">10.1002/14356007.a13 487</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><i>Advanced Organic Chemistry</i> Jerry March 2nd Edition</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Hydrogenation of nitrobenzene using polymer bound Ru(III) complexes as catalyst". <i>Ind. Jr. of Chem. Tech</i>. <b>7</b>: 280. 2000.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Hydrogenation+of+nitrobenzene+using+polymer+bound+Ru%28III%29+complexes+as+catalyst&amp;rft.date=2000&amp;rft.genre=article&amp;rft.jtitle=Ind.+Jr.+of+Chem.+Tech.&amp;rft.pages=280&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Patel, D. R. (1998). "Hydrogenation of nitrobenzene using polymer anchored Pd(II) complexes as catalyst". <i>Journal of Molecular Catalysis</i>. <b>130</b>: 57. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fs1381-1169%2897%2900197-0">10.1016/s1381-1169(97)00197-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Hydrogenation+of+nitrobenzene+using+polymer+anchored+Pd%28II%29+complexes+as+catalyst&amp;rft.aufirst=D.+R.&amp;rft.aulast=Patel&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fs1381-1169%2897%2900197-0&amp;rft.jtitle=Journal+of+Molecular+Catalysis&amp;rft.pages=57&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=130" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">C. F. H. Allen and James VanAllan (1955). <a rel="nofollow" class="external text" href="http://www.orgsyn.org/demo.aspx?prep=CV3P0827">"m-Toylybenzylamine"</a>. <i><a href="/wiki/Organic_Syntheses" title="Organic Syntheses">Org. Synth.</a></i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=m-Toylybenzylamine&amp;rft.au=C.+F.+H.+Allen+and+James+VanAllan&amp;rft.date=1955&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.orgsyn.org%2Fdemo.aspx%3Fprep%3DCV3P0827&amp;rft.jtitle=Org.+Synth.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>; <cite class="citation"><i>Coll. Vol.</i>, <b>3</b>, p.&#160;827</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.btitle=Coll.+Vol.&amp;rft.genre=book&amp;rft.pages=827&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">A. B. Mekler, S. Ramachandran, S. Swaminathan, and Melvin S. Newman (1973). <a rel="nofollow" class="external text" href="http://www.orgsyn.org/demo.aspx?prep=CV5P0743">"2-Methyl-1,3-Cyclohexanedione"</a>. <i><a href="/wiki/Organic_Syntheses" title="Organic Syntheses">Org. Synth.</a></i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=2-Methyl-1%2C3-Cyclohexanedione&amp;rft.au=A.+B.+Mekler%2C+S.+Ramachandran%2C+S.+Swaminathan%2C+and+Melvin+S.+Newman&amp;rft.date=1973&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.orgsyn.org%2Fdemo.aspx%3Fprep%3DCV5P0743&amp;rft.jtitle=Org.+Synth.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span>; <cite class="citation"><i>Coll. Vol.</i>, <b>5</b>, p.&#160;743</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.btitle=Coll.+Vol.&amp;rft.genre=book&amp;rft.pages=743&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Knowles, W. S. (March 1986). "Application of organometallic catalysis to the commercial production of L-DOPA". <i>Journal of Chemical Education</i>. <b>63</b> (3): 222. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fed063p222">10.1021/ed063p222</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Application+of+organometallic+catalysis+to+the+commercial+production+of+L-DOPA&amp;rft.aufirst=W.+S.&amp;rft.aulast=Knowles&amp;rft.date=1986-03&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fed063p222&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.pages=222&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=63" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Textbook-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Textbook_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Textbook_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Atkins, Peter W. (2010). <i>Shriver &amp; Atkins' inorganic chemistry.</i> (5th ed.). New York: W. H. Freeman and Co. p.&#160;696. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4292-1820-7" title="Special:BookSources/978-1-4292-1820-7">978-1-4292-1820-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.aufirst=Peter+W.&amp;rft.aulast=Atkins&amp;rft.btitle=Shriver+%26+Atkins%27+inorganic+chemistry.&amp;rft.date=2010&amp;rft.edition=5th&amp;rft.genre=book&amp;rft.isbn=978-1-4292-1820-7&amp;rft.pages=696&amp;rft.place=New+York&amp;rft.pub=W.+H.+Freeman+and+Co.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Blaser, Hans-Ulrich; Pugin, Benoît; Spindler, Felix; Thommen, Marc (December 2007). "From a Chiral Switch to a Ligand Portfolio for Asymmetric Catalysis". <i>Accounts of Chemical Research</i>. <b>40</b> (12): 1240–1250. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Far7001057">10.1021/ar7001057</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=From+a+Chiral+Switch+to+a+Ligand+Portfolio+for+Asymmetric+Catalysis&amp;rft.aufirst=Hans-Ulrich&amp;rft.aulast=Blaser&amp;rft.au=Pugin%2C+Beno%C3%AEt&amp;rft.au=Spindler%2C+Felix&amp;rft.au=Thommen%2C+Marc&amp;rft.date=2007-12&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Far7001057&amp;rft.issue=12&amp;rft.jtitle=Accounts+of+Chemical+Research&amp;rft.pages=1240-1250&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=40" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mallet-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mallet_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mallat, T.; Orglmeister, E.; Baiker, A. (2007). "Asymmetric Catalysis at Chiral Metal Surfaces". <i>Chemical Reviews</i>. <b>107</b> (11): 4863–90. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fcr0683663">10.1021/cr0683663</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17927256">17927256</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Asymmetric+Catalysis+at+Chiral+Metal+Surfaces&amp;rft.au=Baiker%2C+A.&amp;rft.aufirst=T.&amp;rft.aulast=Mallat&amp;rft.au=Orglmeister%2C+E.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fcr0683663&amp;rft_id=info%3Apmid%2F17927256&amp;rft.issue=11&amp;rft.jtitle=Chemical+Reviews&amp;rft.pages=4863-90&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=107" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">H. Lindlar and R. Dubuis (1973). <a rel="nofollow" class="external text" href="http://www.orgsyn.org/demo.aspx?prep=CV5P0880">"Palladium Catalyst for Partial Reduction of Acetylenes"</a>. <i><a href="/wiki/Organic_Syntheses" title="Organic Syntheses">Org. Synth.</a></i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Palladium+Catalyst+for+Partial+Reduction+of+Acetylenes&amp;rft.au=H.+Lindlar+and+R.+Dubuis&amp;rft.date=1973&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.orgsyn.org%2Fdemo.aspx%3Fprep%3DCV5P0880&amp;rft.jtitle=Org.+Synth.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>; <cite class="citation"><i>Coll. Vol.</i>, <b>5</b>, p.&#160;880</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.btitle=Coll.+Vol.&amp;rft.genre=book&amp;rft.pages=880&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">S. Robert E. Ireland and P. Bey (1988). <a rel="nofollow" class="external text" href="http://www.orgsyn.org/demo.aspx?prep=CV6P0459">"Homogeneous Catalytic Hydrogenation: Dihydrocarvone"</a>. <i><a href="/wiki/Organic_Syntheses" title="Organic Syntheses">Org. Synth.</a></i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Homogeneous+Catalytic+Hydrogenation%3A+Dihydrocarvone&amp;rft.au=S.+Robert+E.+Ireland+and+P.+Bey&amp;rft.date=1988&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.orgsyn.org%2Fdemo.aspx%3Fprep%3DCV6P0459&amp;rft.jtitle=Org.+Synth.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>; <cite class="citation"><i>Coll. Vol.</i>, <b>6</b>, p.&#160;459</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.btitle=Coll.+Vol.&amp;rft.genre=book&amp;rft.pages=459&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Kwesi Amoa <i>Catalytic Hydrogenation of Maleic Acid at Moderate Pressures A Laboratory Demonstration</i> <a href="/wiki/Journal_of_Chemical_Education" title="Journal of Chemical Education">Journal of Chemical Education</a> 2007, Vol. 84, p 1948. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fed084p1948">10.1021/ed084p1948</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">van Es, T.; Staskun, B. "Aldehydes from Aromatic Nitriles: 4-Formylbenzenesulfonamide" <i><a href="/wiki/Org._Syn." class="mw-redirect" title="Org. Syn.">Org. Syn.</a></i>, Coll. Vol. 6, p. 631 (1988). (<a rel="nofollow" class="external text" href="http://www.orgsyn.org/orgsyn/prep.asp?prep=cv6p0631">Article</a>)</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Navarro, Daniela Maria do Amaral Ferraz; Navarro, Marcelo (2004). "Catalytic Hydrogenation of Organic Compounds without H2 Supply: An Electrochemical System". <i>Journal of Chemical Education</i>. <b>81</b> (9): 1350. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fed081p1350">10.1021/ed081p1350</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Catalytic+Hydrogenation+of+Organic+Compounds+without+H2+Supply%3A+An+Electrochemical+System&amp;rft.aufirst=Daniela+Maria+do+Amaral+Ferraz&amp;rft.aulast=Navarro&amp;rft.au=Navarro%2C+Marcelo&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fed081p1350&amp;rft.issue=9&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.pages=1350&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=81" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Kubas, G. J., "Metal Dihydrogen and σ-Bond Complexes", Kluwer Academic/Plenum Publishers: New York, 2001</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Gallezot, Pierre. "Hydrogenation - Heterogeneous" in Encyclopedia of Catalysis, Volume 4, ed. Horvath, I.T., John Wiley &amp; Sons, 2003.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Horiuti, Iurô; Polanyi, M. (1934). "Exchange reactions of hydrogen on metallic catalysts". <i>Transactions of the Faraday Society</i>. <b>30</b>: 1164. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1039%2FTF9343001164">10.1039/TF9343001164</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Exchange+reactions+of+hydrogen+on+metallic+catalysts&amp;rft.aufirst=Iur%C3%B4&amp;rft.aulast=Horiuti&amp;rft.au=Polanyi%2C+M.&amp;rft.date=1934&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1039%2FTF9343001164&amp;rft.jtitle=Transactions+of+the+Faraday+Society&amp;rft.pages=1164&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Johannes G. de Vries, Cornelis J. Elsevier, eds. The Handbook of Homogeneous Hydrogenation Wiley-VCH, Weinheim, 2007. <a href="/wiki/Special:BookSources/9783527311613" class="internal mw-magiclink-isbn">ISBN 978-3-527-31161-3</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Ian P. Freeman "Margarines and Shortenings" in <i>Ullmann's Encyclopedia of Industrial Chemistry</i>, 2005, Wiley-VCH, Weinheim. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F14356007.a16_145">10.1002/14356007.a16_145</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Maria Teresa Tarrago-Trani, Katherine M. Phillips, Linda E. Lemar, Joanne M. Holden "New and Existing Oils and Fats Used in Products with Reduced Trans-Fatty Acid Content" Journal of the American Dietetic Association 2006, Volume 106, pp. 867–880.<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jada.2006.03.010">10.1016/j.jada.2006.03.010</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.independent.co.uk/life-style/health-and-wellbeing/healthy-living/deadly-fats-why-are-we-still-eating-them-843400.html">"Deadly fats: why are we still eating them?"</a>. <a href="/wiki/The_Independent" title="The Independent">The Independent</a>. 2008-06-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Deadly+fats%3A+why+are+we+still+eating+them%3F&amp;rft.date=2008-06-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.independent.co.uk%2Flife-style%2Fhealth-and-wellbeing%2Fhealthy-living%2Fdeadly-fats-why-are-we-still-eating-them-843400.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.msnbc.msn.com/id/16051436/">"New York City passes trans fat ban"</a>. <a href="/wiki/Msnbc" class="mw-redirect" title="Msnbc">msnbc</a>. 2006-12-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=New+York+City+passes+trans+fat+ban&amp;rft.date=2006-12-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.msnbc.msn.com%2Fid%2F16051436%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2015/06/17/health/fda-gives-food-industry-three-years-eliminate-trans-fats.html">"F.D.A. Gives Food Industry 3 Years to Eliminate Trans Fats"</a>. <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a>. 2015-06-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=F.D.A.+Gives+Food+Industry+3+Years+to+Eliminate+Trans+Fats&amp;rft.date=2015-06-16&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2015%2F06%2F17%2Fhealth%2Ffda-gives-food-industry-three-years-eliminate-trans-fats.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://pubs.acs.org/cgi-bin/abstract.cgi/jacsat/1922/44/i06/f-pdf/f_ja01427a021.pdf">http://pubs.acs.org/cgi-bin/abstract.cgi/jacsat/1922/44/i06/f-pdf/f_ja01427a021.pdf</a></span></li>
+<li id="cite_note-ACS-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-ACS_27-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Schrock, Richard R.; Osborn, John A. (April 1976). "Catalytic hydrogenation using cationic rhodium complexes. I. Evolution of the catalytic system and the hydrogenation of olefins". <i>Journal of the American Chemical Society</i>. <b>98</b> (8): 2134–2143. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja00424a020">10.1021/ja00424a020</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Catalytic+hydrogenation+using+cationic+rhodium+complexes.+I.+Evolution+of+the+catalytic+system+and+the+hydrogenation+of+olefins&amp;rft.aufirst=Richard+R.&amp;rft.aulast=Schrock&amp;rft.au=Osborn%2C+John+A.&amp;rft.date=1976-04&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fja00424a020&amp;rft.issue=8&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.pages=2134-2143&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=98" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">C. Pettinari, F. Marchetti, D. Martini "Metal Complexes as Hydrogenation Catalysts" Comprehensive Coordination Chemistry II, 2004, volume 9. pp. 75–139. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FB0-08-043748-6%2F09125-8">10.1016/B0-08-043748-6/09125-8</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">Walling, Cheves.; Bollyky, Laszlo. (1964). "Homogeneous Hydrogenation in the Absence of Transition-Metal Catalysts". <i>Journal of the American Chemical Society</i>. <b>86</b> (18): 3750. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja01072a028">10.1021/ja01072a028</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Homogeneous+Hydrogenation+in+the+Absence+of+Transition-Metal+Catalysts&amp;rft.au=Bollyky%2C+Laszlo.&amp;rft.aufirst=Cheves.&amp;rft.aulast=Walling&amp;rft.date=1964&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fja01072a028&amp;rft.issue=18&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.pages=3750&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=86" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation journal">Berkessel, Albrecht; Schubert, Thomas J. S.; Müller, Thomas N. (2002). "Hydrogenation without a Transition-Metal Catalyst:&#160; On the Mechanism of the Base-Catalyzed Hydrogenation of Ketones". <i>Journal of the American Chemical Society</i>. <b>124</b> (29): 8693–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja016152r">10.1021/ja016152r</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12121113">12121113</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Hydrogenation+without+a+Transition-Metal+Catalyst%3A++On+the+Mechanism+of+the+Base-Catalyzed+Hydrogenation+of+Ketones&amp;rft.aufirst=Albrecht&amp;rft.aulast=Berkessel&amp;rft.au=M%C3%BCller%2C+Thomas+N.&amp;rft.au=Schubert%2C+Thomas+J.+S.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fja016152r&amp;rft_id=info%3Apmid%2F12121113&amp;rft.issue=29&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.pages=8693-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=124" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chase, Preston A.; Welch, Gregory C.; Jurca, Titel; Stephan, Douglas W. (2007). "Metal-Free Catalytic Hydrogenation". <i>Angewandte Chemie International Edition</i>. <b>46</b> (42): 8050. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fanie.200702908">10.1002/anie.200702908</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Metal-Free+Catalytic+Hydrogenation&amp;rft.aufirst=Preston+A.&amp;rft.au=Jurca%2C+Titel&amp;rft.aulast=Chase&amp;rft.au=Stephan%2C+Douglas+W.&amp;rft.au=Welch%2C+Gregory+C.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.200702908&amp;rft.issue=42&amp;rft.jtitle=Angewandte+Chemie+International+Edition&amp;rft.pages=8050&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=46" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation journal">Li, Baojun; Xu, Zheng (2009). "A Nonmetal Catalyst for Molecular Hydrogen Activation with Comparable Catalytic Hydrogenation Capability to Noble Metal Catalyst". <i>Journal of the American Chemical Society</i>. <b>131</b> (45): 16380–2. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja9061097">10.1021/ja9061097</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19845383">19845383</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=A+Nonmetal+Catalyst+for+Molecular+Hydrogen+Activation+with+Comparable+Catalytic+Hydrogenation+Capability+to+Noble+Metal+Catalyst&amp;rft.aufirst=Baojun&amp;rft.aulast=Li&amp;rft.au=Xu%2C+Zheng&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fja9061097&amp;rft_id=info%3Apmid%2F19845383&amp;rft.issue=45&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.pages=16380-2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=131" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Apparatus-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-Apparatus_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Apparatus_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Adams, Roger; Voorhees, V. (1928). "Apparatus for catalytic reduction". <i>Organic Syntheses</i>. <b>8</b>: 10. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.15227%2Forgsyn.008.0010">10.15227/orgsyn.008.0010</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Apparatus+for+catalytic+reduction&amp;rft.aufirst=Roger&amp;rft.aulast=Adams&amp;rft.au=Voorhees%2C+V.&amp;rft.date=1928&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.15227%2Forgsyn.008.0010&amp;rft.jtitle=Organic+Syntheses&amp;rft.pages=10&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation journal">Joshi, J.B.; Pandit, A.B.; Sharma, M.M. (1982). "Mechanically agitated gas–liquid reactors". <i>Chemical Engineering Science</i>. <b>37</b> (6): 813. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0009-2509%2882%2980171-1">10.1016/0009-2509(82)80171-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Mechanically+agitated+gas%93liquid+reactors&amp;rft.aufirst=J.B.&amp;rft.aulast=Joshi&amp;rft.au=Pandit%2C+A.B.&amp;rft.au=Sharma%2C+M.M.&amp;rft.date=1982&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0009-2509%2882%2980171-1&amp;rft.issue=6&amp;rft.jtitle=Chemical+Engineering+Science&amp;rft.pages=813&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=37" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=30" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation journal">Jang ES, Jung MY, Min DB (2005). <a rel="nofollow" class="external text" href="http://members.ift.org/NR/rdonlyres/27B49B9B-EA63-4D73-BAB4-42FEFCD72C68/0/crfsfsv4n1p00220030ms20040577.pdf">"Hydrogenation for Low Trans and High Conjugated Fatty Acids"</a> <span style="font-size:85%;">(PDF)</span>. <i>Comprehensive Reviews in Food Science and Food Safety</i>. <b>1</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.atitle=Hydrogenation+for+Low+Trans+and+High+Conjugated+Fatty+Acids&amp;rft.aufirst=ES&amp;rft.au=Jung%2C+MY&amp;rft.aulast=Jang&amp;rft.au=Min%2C+DB&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmembers.ift.org%2FNR%2Frdonlyres%2F27B49B9B-EA63-4D73-BAB4-42FEFCD72C68%2F0%2Fcrfsfsv4n1p00220030ms20040577.pdf&amp;rft.jtitle=Comprehensive+Reviews+in+Food+Science+and+Food+Safety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>examples of hydrogenation from Organic Syntheses:
+<ul>
+<li><a rel="nofollow" class="external text" href="http://orgsynth.org/orgsyn/pdfs/CV7P0226.pdf">Organic Syntheses, Coll. Vol. 7, p.226 (1990).</a></li>
+<li><a rel="nofollow" class="external text" href="http://orgsynth.org/orgsyn/pdfs/CV8P0609.pdf">Organic Syntheses, Coll. Vol. 8, p.609 (1993).</a></li>
+<li><a rel="nofollow" class="external text" href="http://orgsynth.org/orgsyn/pdfs/CV5P0552.pdf">Organic Syntheses, Coll. Vol. 5, p.552 (1973).</a></li>
+<li><a rel="nofollow" class="external text" href="http://orgsynth.org/orgsyn/pdfs/CV4P0603.pdf">Organic Syntheses, Coll. Vol. 3, p.720 (1955).</a></li>
+<li><a rel="nofollow" class="external text" href="http://orgsynth.org/orgsyn/pdfs/CV6P0371.pdf">Organic Syntheses, Coll. Vol. 6, p.371 (1988).</a></li>
+</ul>
+</li>
+<li>early work on transfer hydrogenation: Davies, R. R.; Hodgson, H. H. <i><a href="/wiki/J._Chem._Soc." class="mw-redirect" title="J. Chem. Soc.">J. Chem. Soc.</a></i> <b>1943</b>, 281. Leggether, B. E.; Brown, R. K. <i>Can. J. Chem.</i> <b>1960</b>, <i>38</i>, 2363. Kuhn, L. P. <i><a href="/wiki/J._Am._Chem._Soc." class="mw-redirect" title="J. Am. Chem. Soc.">J. Am. Chem. Soc.</a></i> <b>1951</b>, <i>73</i>, 1510.</li>
+<li><cite class="citation book">Kummerow, Fred August; Kummerow, Jean M. (2008). <i>Cholesterol Won't Kill You, But Trans Fat Could</i>. Trafford. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4251-3808-0" title="Special:BookSources/978-1-4251-3808-0">978-1-4251-3808-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrogenation&amp;rft.aufirst=Fred+August&amp;rft.au=Kummerow%2C+Jean+M.&amp;rft.aulast=Kummerow&amp;rft.btitle=Cholesterol+Won%27t+Kill+You%2C+But+Trans+Fat+Could&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-1-4251-3808-0&amp;rft.pub=Trafford&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrogenation&amp;action=edit&amp;section=31" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikiquote-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Hydrogenation" class="extiw" title="q:Special:Search/Hydrogenation">Hydrogenation</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://books.google.com/books?id=4OIDAAAAMBAJ&amp;pg=-PA107">"The Magic of Hydro" <i>Popular Mechanics</i>, June 1931, pp. 107–109</a> – early article for the general public on hydrogenation of oil produces in the 1930s</li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00571633">00571633</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1236
+Cached time: 20170314152546
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.395 seconds
+Preprocessor visited node count: 2655/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61525/2097152 bytes
+Template argument size: 1997/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.139/10.000 seconds
+Lua memory usage: 6.56 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  298.511      1 -total
+ 51.42%  153.496      1 Template:Reflist
+ 22.28%   66.510     19 Template:Cite_journal
+ 11.06%   33.028      3 Template:Cite_book
+ 10.27%   30.663      4 Template:OrgSynth
+  9.39%   28.044      1 Template:Infobox_industrial_process
+  8.84%   26.396      1 Template:Infobox
+  7.96%   23.756      1 Template:Convert
+  6.39%   19.067      1 Template:Authority_control
+  4.37%   13.035      4 Template:Citation
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:235968-0!*!0!!en!4!*!math=5 and timestamp 20170314152546 and revision id 770003311
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hydrogenation&amp;oldid=770003311">https://en.wikipedia.org/w/index.php?title=Hydrogenation&amp;oldid=770003311</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Addition_reactions" title="Category:Addition reactions">Addition reactions</a></li><li><a href="/wiki/Category:Homogeneous_catalysis" title="Category:Homogeneous catalysis">Homogeneous catalysis</a></li><li><a href="/wiki/Category:Industrial_processes" title="Category:Industrial processes">Industrial processes</a></li><li><a href="/wiki/Category:Hydrogen" title="Category:Hydrogen">Hydrogen</a></li><li><a href="/wiki/Category:Hydrogenation" title="Category:Hydrogenation">Hydrogenation</a></li><li><a href="/wiki/Category:Oil_refining" title="Category:Oil refining">Oil refining</a></li><li><a href="/wiki/Category:Oil_shale_technology" title="Category:Oil shale technology">Oil shale technology</a></li><li><a href="/wiki/Category:Synthetic_fuel_technologies" title="Category:Synthetic fuel technologies">Synthetic fuel technologies</a></li><li><a href="/wiki/Category:Organic_redox_reactions" title="Category:Organic redox reactions">Organic redox reactions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hydrogenation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hydrogenation" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Hydrogenation"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Hydrogenation"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Hydrogenation" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Hydrogenation&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hydrogenation&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hydrogenation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hydrogenation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hydrogenation&amp;oldid=770003311" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hydrogenation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q214166" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hydrogenation&amp;id=770003311" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hydrogenation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Hydrogenation&amp;returnto=Hydrogenation&amp;oldid=770003311&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hydrogenation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hydrogenation_reactions" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Hydrogenation" hreflang="en">Wikiquote</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%87%D8%AF%D8%B1%D8%AC%D8%A9" title="هدرجة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Hidrogenacija" title="Hidrogenacija – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Hidrogenaci%C3%B3" title="Hidrogenació – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Hydrogenace" title="Hydrogenace – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hydrierung" title="Hydrierung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/H%C3%BCdrogeenimine" title="Hüdrogeenimine – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A5%CE%B4%CF%81%CE%BF%CE%B3%CF%8C%CE%BD%CF%89%CF%83%CE%B7" title="Υδρογόνωση – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Hidrogenaci%C3%B3n" title="Hidrogenación – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%87%DB%8C%D8%AF%D8%B1%D9%88%DA%98%D9%86%D9%87_%DA%A9%D8%B1%D8%AF%D9%86" title="هیدروژنه کردن – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Hydrog%C3%A9nation" title="Hydrogénation – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Hidrigini%C3%BA" title="Hidriginiú – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%AB%D5%A4%D6%80%D5%B8%D5%A3%D5%A5%D5%B6%D5%A1%D6%81%D5%B8%D6%82%D5%B4" title="Հիդրոգենացում – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%BE%E0%A4%87%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3" title="हाइड्रोजनीकरण – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hidrogenasi" title="Hidrogenasi – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Idrogenazione" title="Idrogenazione – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%99%D7%93%D7%A8%D7%95%D7%92%D7%A0%D7%A6%D7%99%D7%94" title="הידרוגנציה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/H%C3%AEdrojenasyon" title="Hîdrojenasyon – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B9%E0%B5%88%E0%B4%A1%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%9C%E0%B4%A8%E0%B5%87%E0%B4%B7%E0%B5%BB" title="ഹൈഡ്രോജനേഷൻ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Hydrogenering" title="Hydrogenering – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%B4%A0%E5%8C%96" title="水素化 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Hydrogenering" title="Hydrogenering – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Hydrogenering" title="Hydrogenering – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Gidrogenlash" title="Gidrogenlash – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Uwodornianie" title="Uwodornianie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Hidrogena%C3%A7%C3%A3o" title="Hidrogenação – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Гидрирование – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Hydrogenation" title="Hydrogenation – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Hydrogen%C3%A1cia" title="Hydrogenácia – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Hydraus" title="Hydraus – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Hydrogenering" title="Hydrogenering – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%AE%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%88%E0%B8%B5%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%99" title="ไฮโดรจีเนชัน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Hidrojenasyon" title="Hidrojenasyon – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B4%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F" title="Гідрогенізація – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A2%D8%A8%DA%AF%D8%B1%DB%8C%D8%AA" title="آبگریت – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B0%A2%E5%8C%96" title="氢化 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q214166#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 March 2017, at 21:38.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hydrogenation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.395","ppvisitednodes":{"value":2655,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61525,"limit":2097152},"templateargumentsize":{"value":1997,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  298.511      1 -total"," 51.42%  153.496      1 Template:Reflist"," 22.28%   66.510     19 Template:Cite_journal"," 11.06%   33.028      3 Template:Cite_book"," 10.27%   30.663      4 Template:OrgSynth","  9.39%   28.044      1 Template:Infobox_industrial_process","  8.84%   26.396      1 Template:Infobox","  7.96%   23.756      1 Template:Convert","  6.39%   19.067      1 Template:Authority_control","  4.37%   13.035      4 Template:Citation"]},"scribunto":{"limitreport-timeusage":{"value":"0.139","limit":"10.000"},"limitreport-memusage":{"value":6878277,"limit":52428800}},"cachereport":{"origin":"mw1236","timestamp":"20170314152546","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":488,"wgHostname":"mw1236"});});</script>
+	</body>
+</html>

@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Concept - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Concept","wgTitle":"Concept","wgCurRevisionId":764439850,"wgRevisionId":764439850,"wgArticleId":6978,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from September 2016","All articles with unsourced statements","Articles with unsourced statements from July 2008","Articles with unsourced statements from December 2011","Articles with unsourced statements from December 2012","Wikipedia articles with GND identifiers","Pages using ISBN magic links","Cognitive science","Concepts","Abstraction","Mental content","Ontology","Philosophy of language","Semantics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Concept","wgRelevantArticleId":6978,"wgRequestId":"WMe2jgpAAEQAAbZL3bMAAABI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q151885","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/f3/Generalization_process_using_trees_PNG_version.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Concept"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Concept&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Concept&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Concept"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Concept rootpage-Concept skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Concept</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For other uses, see <a href="/wiki/Concept_(disambiguation)" class="mw-disambig" title="Concept (disambiguation)">Concept (disambiguation)</a>.</div>
+<p>A <b>concept</b> is an abstract <a href="/wiki/Idea" title="Idea">idea</a> representing the fundamental characteristics of what it represents. Concepts arise as <a href="/wiki/Abstractions" class="mw-redirect" title="Abstractions">abstractions</a> or <a href="/wiki/Generalisations" class="mw-redirect" title="Generalisations">generalisations</a> from experience or the result of a transformation of existing ideas.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The concept is <a href="https://en.wiktionary.org/wiki/instantiate#Verb" class="extiw" title="wikt:instantiate">instantiated (reified)</a> by all of its actual or potential instances, whether these are things in the real world or other <a href="/wiki/Idea" title="Idea">ideas</a>. Concepts are treated in many if not most disciplines both explicitly, such as in <a href="/wiki/Linguistics" title="Linguistics">linguistics</a>, <a href="/wiki/Psychology" title="Psychology">psychology</a>, <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, etc., and implicitly, such as in <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, <a href="/wiki/Physics" title="Physics">physics</a>, etc. In <a href="https://en.wiktionary.org/wiki/informal#Adjective" class="extiw" title="wikt:informal">informal</a> use the word <i>concept</i> often just means any <a href="/wiki/Idea" title="Idea">idea</a>, but formally it involves the abstraction component. These concepts are then stored in long term memory<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Generalization_process_using_trees_PNG_version.png" class="image"><img alt="Diagram" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Generalization_process_using_trees_PNG_version.png/220px-Generalization_process_using_trees_PNG_version.png" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/f/f3/Generalization_process_using_trees_PNG_version.png 1.5x" data-file-width="300" data-file-height="400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Generalization_process_using_trees_PNG_version.png" class="internal" title="Enlarge"></a></div>
+When the mind makes a generalization such as the concept of <i>tree</i>, it extracts similarities from numerous examples; the simplification enables <a href="/wiki/Hierarchy_(thinking)" class="mw-redirect" title="Hierarchy (thinking)">higher-level thinking</a>.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Metaphysics" title="Metaphysics">metaphysics</a>, and especially <a href="/wiki/Ontology" title="Ontology">ontology</a>, a concept is a fundamental <a href="/wiki/Category_of_being" title="Category of being">category of existence</a>. In <a href="/wiki/Contemporary_philosophy" title="Contemporary philosophy">contemporary philosophy</a>, there are at least three prevailing ways to understand what a concept is:<sup id="cite_ref-Stanford_Encycl_3-0" class="reference"><a href="#cite_note-Stanford_Encycl-3">[3]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Talk:Concept#Redacting_lede_per_the_archived_threads" title="Talk:Concept"><span title="Talk:Concept#Redacting lede per the archived threads">See talk page</span></a></i>]</sup></p>
+<p>There are hierarchical organizations of concepts and they are at the top, superordinate, the middle basic level categories, and at the bottom, subordinate categories.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> It would go furniture, chair, and easy chair.</p>
+<ul>
+<li>Concepts as <a href="/wiki/Mental_representation" title="Mental representation">mental representations</a>, where concepts are entities that exist in the brain (mental objects)</li>
+<li>Concepts as <a href="/wiki/Skill" title="Skill">abilities</a>, where concepts are abilities peculiar to cognitive agents (mental states)</li>
+<li>Concepts as <a href="/wiki/Fregean" class="mw-redirect" title="Fregean">Fregean</a> senses (see <a href="/wiki/Sense_and_reference" title="Sense and reference">sense and reference</a>), where concepts are <a href="/wiki/Abstract_objects" class="mw-redirect" title="Abstract objects">abstract objects</a>, as opposed to mental objects and mental states</li>
+</ul>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Abstract_objects"><span class="tocnumber">2</span> <span class="toctext">Abstract objects</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Issues_in_concept_theory"><span class="tocnumber">3</span> <span class="toctext">Issues in concept theory</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#A_priori_concepts"><span class="tocnumber">3.1</span> <span class="toctext">A priori concepts</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Embodied_content"><span class="tocnumber">3.2</span> <span class="toctext">Embodied content</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Ontology"><span class="tocnumber">3.3</span> <span class="toctext">Ontology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Mental_representations"><span class="tocnumber">4</span> <span class="toctext">Mental representations</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notable_theories_on_the_structure_of_concepts"><span class="tocnumber">5</span> <span class="toctext">Notable theories on the structure of concepts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Classical_theory"><span class="tocnumber">5.1</span> <span class="toctext">Classical theory</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Arguments_against_the_classical_theory"><span class="tocnumber">5.1.1</span> <span class="toctext">Arguments against the classical theory</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Prototype_theory"><span class="tocnumber">5.2</span> <span class="toctext">Prototype theory</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Theory-theory"><span class="tocnumber">5.3</span> <span class="toctext">Theory-theory</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Ideasthesia"><span class="tocnumber">6</span> <span class="toctext">Ideasthesia</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term "concept" is traced back to 1554–60 (Latin <i><a href="https://en.wiktionary.org/wiki/conceptus" class="extiw" title="wikt:conceptus">conceptum</a></i> – "something conceived"),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> but what is today termed "the classical theory of concepts" is the theory of <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a> on the definition of terms.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2008)">citation needed</span></a></i>]</sup> The meaning of "concept" is explored in mainstream <a href="/wiki/Information_science" title="Information science">information science</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> <a href="/wiki/Cognitive_science" title="Cognitive science">cognitive science</a>, <a href="/wiki/Metaphysics" title="Metaphysics">metaphysics</a>, and <a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">philosophy of mind</a>. In computer and information science contexts, especially, the term 'concept' is often used in unclear or inconsistent ways.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Abstract_objects">Abstract objects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=2" title="Edit section: Abstract objects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Abstract_object" class="mw-redirect" title="Abstract object">Abstract object</a></div>
+<p>In a <a href="/wiki/Platonism" title="Platonism">platonist</a> theory of mind, concepts are construed as abstract objects.<sup id="cite_ref-concepts_core_readings_9-0" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup> This debate concerns the <a href="/wiki/Ontology" title="Ontology">ontological</a> status of concepts – what they are really like.</p>
+<p>There is debate as to the relationship between concepts and <a href="/wiki/Natural_language" title="Natural language">natural language</a>.<sup id="cite_ref-Stanford_Encycl_3-1" class="reference"><a href="#cite_note-Stanford_Encycl-3">[3]</a></sup> However, it is necessary at least to begin by understanding that the concept "dog" is philosophically distinct from the things in the world grouped by this concept – or the reference class or <a href="/wiki/Extension_(semantics)" title="Extension (semantics)">extension</a>.<sup id="cite_ref-Origin_of_Concepts_10-0" class="reference"><a href="#cite_note-Origin_of_Concepts-10">[10]</a></sup> Concepts that can be equated to a single word are called "lexical concepts".<sup id="cite_ref-Stanford_Encycl_3-2" class="reference"><a href="#cite_note-Stanford_Encycl-3">[3]</a></sup></p>
+<p>Study of concepts and conceptual structure falls into the disciplines of <a href="/wiki/Linguistics" title="Linguistics">linguistics</a>, <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, <a href="/wiki/Psychology" title="Psychology">psychology</a>, and <a href="/wiki/Cognitive_science" title="Cognitive science">cognitive science</a>.<sup id="cite_ref-Big_Book_11-0" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup></p>
+<p>In the simplest terms, a concept is a name or label that regards or treats an abstraction as if it had concrete or material existence, such as a person, a place, or a thing. It may represent a natural object that exists in the real world like a tree, an animal, a stone, etc. It may also name an artificial (man-made) object like a chair, computer, house, etc. Abstract ideas and knowledge domains such as freedom, equality, science, happiness, etc., are also symbolized by concepts. It is important to realize that a concept is merely a symbol, a representation of the abstraction. The word is not to be mistaken for the thing. For example, the word "moon" (a concept) is not the large, bright, shape-changing object up in the sky, but only <i>represents</i> that celestial object. Concepts are created (named) to describe, explain and capture reality as it is known and understood.</p>
+<h2><span class="mw-headline" id="Issues_in_concept_theory">Issues in concept theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=3" title="Edit section: Issues in concept theory">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="A_priori_concepts">A priori concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=4" title="Edit section: A priori concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main articles: <a href="/wiki/A_priori_and_a_posteriori" title="A priori and a posteriori">A priori and a posteriori</a> and <a href="/wiki/Category_(Kant)" title="Category (Kant)">Category (Kant)</a></div>
+<p><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Kant</a> declared that human minds possess pure or <i><a href="/wiki/A_priori_and_a_posteriori" title="A priori and a posteriori">a priori</a></i> concepts. Instead of being abstracted from individual perceptions, like empirical concepts, they originate in the mind itself. He called these concepts <a href="/wiki/Category_(Kant)" title="Category (Kant)">categories</a>, in the sense of the word that means <a href="/wiki/Predicate_(grammar)" title="Predicate (grammar)">predicate</a>, attribute, characteristic, or <a href="/wiki/Quality_(philosophy)" title="Quality (philosophy)">quality</a>. But these pure categories are predicates of things <i>in general</i>, not of a particular thing. According to Kant, there are 12 categories that constitute the understanding of phenomenal objects. Each category is that one predicate which is common to multiple empirical concepts. In order to explain how an <i>a priori</i> concept can relate to individual phenomena, in a manner analogous to an <i><a href="/wiki/Empirical_evidence" title="Empirical evidence">a posteriori</a></i> concept, Kant employed the technical concept of the <a href="/wiki/Schema_(Kant)" title="Schema (Kant)">schema</a>. He held that the account of the concept as an abstraction of experience is only partly correct. He called those concepts that result from abstraction "a posteriori concepts" (meaning concepts that arise out of experience). An empirical or an <i>a posteriori</i> concept is a general representation (<i>Vorstellung</i>) or non-specific thought of that which is common to several specific perceived objects (<a href="/wiki/Logic" title="Logic">Logic</a>, I, 1., §1, Note 1)</p>
+<p>A concept is a common feature or characteristic. Kant investigated the way that empirical <i>a posteriori</i> concepts are created.</p>
+<blockquote class="templatequote">
+<p>The logical acts of the understanding by which concepts are generated as to their form are:</p>
+<ol>
+<li><i>comparison</i>, i.e., the likening of mental images to one another in relation to the unity of consciousness;</li>
+<li><i>reflection</i>, i.e., the going back over different mental images, how they can be comprehended in one consciousness; and finally</li>
+<li><i>abstraction</i> or the segregation of everything else by which the mental images differ ...</li>
+</ol>
+In order to make our mental images into concepts, one must thus be able to compare, reflect, and abstract, for these three logical operations of the understanding are essential and general conditions of generating any concept whatever. For example, I see a fir, a willow, and a linden. In firstly comparing these objects, I notice that they are different from one another in respect of trunk, branches, leaves, and the like; further, however, I reflect only on what they have in common, the trunk, the branches, the leaves themselves, and abstract from their size, shape, and so forth; thus I gain a concept of a tree.
+<div class="templatequotecite"><cite>— Logic, §6</cite></div>
+</blockquote>
+<h3><span class="mw-headline" id="Embodied_content">Embodied content</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=5" title="Edit section: Embodied content">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Embodied_cognition" title="Embodied cognition">Embodied cognition</a></div>
+<p>In <a href="/wiki/Cognitive_linguistics" title="Cognitive linguistics">cognitive linguistics</a>, abstract concepts are transformations of concrete concepts derived from embodied experience. The mechanism of transformation is structural mapping, in which properties of two or more source domains are selectively mapped onto a blended space (Fauconnier &amp; Turner, 1995; see <a href="/wiki/Conceptual_blending" title="Conceptual blending">conceptual blending</a>). A common class of blends are <a href="/wiki/Metaphors" class="mw-redirect" title="Metaphors">metaphors</a>. This theory contrasts with the rationalist view that concepts are perceptions (or <i>recollections</i>, in <a href="/wiki/Plato" title="Plato">Plato</a>'s term) of an independently existing world of ideas, in that it denies the existence of any such realm. It also contrasts with the empiricist view that concepts are abstract generalizations of individual experiences, because the contingent and bodily experience is preserved in a concept, and not abstracted away. While the perspective is compatible with Jamesian pragmatism, the notion of the transformation of embodied concepts through structural mapping makes a distinct contribution to the problem of concept formation.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Ontology">Ontology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=6" title="Edit section: Ontology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Ontology" title="Ontology">Ontology</a></div>
+<p><a href="/wiki/Plato" title="Plato">Plato</a> was the starkest proponent of the realist thesis of universal concepts. By his view, concepts (and ideas in general) are innate ideas that were instantiations of a transcendental world of pure forms that lay behind the veil of the physical world. In this way, universals were explained as transcendent objects. Needless to say this form of realism was tied deeply with Plato's ontological projects. This remark on Plato is not of merely historical interest. For example, the view that numbers are Platonic objects was revived by <a href="/wiki/Kurt_G%C3%B6del" title="Kurt Gödel">Kurt Gödel</a> as a result of certain puzzles that he took to arise from the phenomenological accounts.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p><a href="/wiki/Gottlob_Frege" title="Gottlob Frege">Gottlob Frege</a>, founder of the analytic tradition in philosophy, famously argued for the analysis of language in terms of sense and reference. For him, the sense of an expression in language describes a certain state of affairs in the world, namely, the way that some object is presented. Since many commentators view the notion of sense as identical to the notion of concept, and Frege regards senses as the linguistic representations of states of affairs in the world, it seems to follow that we may understand concepts as the manner in which we grasp the world. Accordingly, concepts (as senses) have an ontological status (Morgolis:7).</p>
+<p>According to <a href="/wiki/Carl_Benjamin_Boyer" title="Carl Benjamin Boyer">Carl Benjamin Boyer</a>, in the introduction to his <i>The History of the Calculus and its Conceptual Development</i>, concepts in calculus do not refer to perceptions. As long as the concepts are useful and mutually compatible, they are accepted on their own. For example, the concepts of the <a href="/wiki/Derivative" title="Derivative">derivative</a> and the <a href="/wiki/Integral" title="Integral">integral</a> are not considered to refer to spatial or temporal perceptions of the external world of experience. Neither are they related in any way to mysterious <a href="/wiki/Limit_(mathematics)" title="Limit (mathematics)">limits</a> in which quantities are on the verge of nascence or evanescence, that is, coming into or going out of existence. The abstract concepts are now considered to be totally autonomous, even though they originated from the process of abstracting or taking away qualities from perceptions until only the common, essential attributes remained.</p>
+<h2><span class="mw-headline" id="Mental_representations">Mental representations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=7" title="Edit section: Mental representations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Mental_representation" title="Mental representation">Mental representation</a></div>
+<p>In a <a href="/wiki/Physicalism" title="Physicalism">physicalist</a> <a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">theory of mind</a>, a concept is a mental representation, which the brain uses to denote a class of things in the world. This is to say that it is literally, a symbol or group of symbols together made from the physical material of the brain.<sup id="cite_ref-Origin_of_Concepts_10-1" class="reference"><a href="#cite_note-Origin_of_Concepts-10">[10]</a></sup><sup id="cite_ref-Big_Book_11-1" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> Concepts are mental representations that allow us to draw appropriate inferences about the type of entities we encounter in our everyday lives.<sup id="cite_ref-Big_Book_11-2" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> Concepts do not encompass all mental representations, but are merely a subset of them.<sup id="cite_ref-Origin_of_Concepts_10-2" class="reference"><a href="#cite_note-Origin_of_Concepts-10">[10]</a></sup> The use of concepts is necessary to cognitive processes such as <a href="/wiki/Categorization" title="Categorization">categorization</a>, <a href="/wiki/Memory" title="Memory">memory</a>, <a href="/wiki/Decision_making" class="mw-redirect" title="Decision making">decision making</a>, <a href="/wiki/Learning" title="Learning">learning</a>, and <a href="/wiki/Inference" title="Inference">inference</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2012)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Notable_theories_on_the_structure_of_concepts">Notable theories on the structure of concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=8" title="Edit section: Notable theories on the structure of concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Classical_theory">Classical theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=9" title="Edit section: Classical theory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Definitionism" title="Definitionism">Definitionism</a></div>
+<p>The classical theory of concepts, also referred to as the empiricist theory of concepts,<sup id="cite_ref-Origin_of_Concepts_10-3" class="reference"><a href="#cite_note-Origin_of_Concepts-10">[10]</a></sup> is the oldest theory about the structure of concepts (it can be traced back to Aristotle<sup id="cite_ref-Big_Book_11-3" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup>), and was prominently held until the 1970s.<sup id="cite_ref-Big_Book_11-4" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> The classical theory of concepts says that concepts have a definitional structure.<sup id="cite_ref-Stanford_Encycl_3-3" class="reference"><a href="#cite_note-Stanford_Encycl-3">[3]</a></sup> Adequate definitions of the kind required by this theory usually take the form of a list of features. These features must have two important qualities to provide a comprehensive definition.<sup id="cite_ref-Big_Book_11-5" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> Features entailed by the definition of a concept must be both <i><a href="/wiki/Necessity_and_sufficiency" title="Necessity and sufficiency">necessary</a></i> and <i><a href="/wiki/Necessity_and_sufficiency" title="Necessity and sufficiency">sufficient</a></i> for membership in the class of things covered by a particular concept.<sup id="cite_ref-Big_Book_11-6" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> A feature is considered necessary if every member of the denoted class has that feature. A feature is considered sufficient if something has all the parts required by the definition.<sup id="cite_ref-Big_Book_11-7" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> For example, the classic example <i><a href="/wiki/Bachelor" title="Bachelor">bachelor</a></i> is said to be defined by <i>unmarried</i> and <i><a href="/wiki/Man" title="Man">man</a></i>.<sup id="cite_ref-Stanford_Encycl_3-4" class="reference"><a href="#cite_note-Stanford_Encycl-3">[3]</a></sup> An entity is a bachelor (by this definition) if and only if it is both unmarried and a man. To check whether something is a member of the class, you compare its qualities to the features in the definition.<sup id="cite_ref-Origin_of_Concepts_10-4" class="reference"><a href="#cite_note-Origin_of_Concepts-10">[10]</a></sup> Another key part of this theory is that it obeys the <i><a href="/wiki/Law_of_the_excluded_middle" class="mw-redirect" title="Law of the excluded middle">law of the excluded middle</a></i>, which means that there are no partial members of a class, you are either in or out.<sup id="cite_ref-Big_Book_11-8" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup></p>
+<p>The classical theory persisted for so long unquestioned because it seemed intuitively correct and has great explanatory power. It can explain how concepts would be acquired, how we use them to categorize and how we use the structure of a concept to determine its referent class.<sup id="cite_ref-Stanford_Encycl_3-5" class="reference"><a href="#cite_note-Stanford_Encycl-3">[3]</a></sup> In fact, for many years it was one of the major activities in <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> – <a href="/wiki/Formal_concept_analysis" title="Formal concept analysis">concept analysis</a>.<sup id="cite_ref-Stanford_Encycl_3-6" class="reference"><a href="#cite_note-Stanford_Encycl-3">[3]</a></sup> Concept analysis is the act of trying to articulate the necessary and sufficient conditions for the membership in the referent class of a concept.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2012)">citation needed</span></a></i>]</sup></p>
+<h4><span class="mw-headline" id="Arguments_against_the_classical_theory">Arguments against the classical theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=10" title="Edit section: Arguments against the classical theory">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Given that most later theories of concepts were born out of the rejection of some or all of the classical theory,<sup id="cite_ref-concepts_core_readings_9-1" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup> it seems appropriate to give an account of what might be wrong with this theory. In the 20th century, philosophers such as Wittgenstein and Rosch argued against the classical theory. There are six primary arguments<sup id="cite_ref-concepts_core_readings_9-2" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup> summarized as follows:</p>
+<ul>
+<li>It seems that there simply are no definitions – especially those based in sensory primitive concepts.<sup id="cite_ref-concepts_core_readings_9-3" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup></li>
+<li>It seems as though there can be cases where our ignorance or error about a class means that we either don't know the definition of a concept, or have incorrect notions about what a definition of a particular concept might entail.<sup id="cite_ref-concepts_core_readings_9-4" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup></li>
+<li><a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">Quine</a>'s argument against analyticity in <a href="/wiki/Two_Dogmas_of_Empiricism" title="Two Dogmas of Empiricism">Two Dogmas of Empiricism</a> also holds as an argument against definitions.<sup id="cite_ref-concepts_core_readings_9-5" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup></li>
+<li>Some concepts have fuzzy membership. There are items for which it is vague whether or not they fall into (or out of) a particular referent class. This is not possible in the classical theory as everything has equal and full membership.<sup id="cite_ref-concepts_core_readings_9-6" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup></li>
+<li><a href="/wiki/Eleanor_Rosch" title="Eleanor Rosch">Rosch</a> found typicality effects which cannot be explained by the classical theory of concepts, these sparked the prototype theory.<sup id="cite_ref-concepts_core_readings_9-7" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup> See below.</li>
+<li>Psychological experiments show no evidence for our using concepts as strict definitions.<sup id="cite_ref-concepts_core_readings_9-8" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Prototype_theory">Prototype theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=11" title="Edit section: Prototype theory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Prototype_theory" title="Prototype theory">Prototype theory</a></div>
+<p>Prototype theory came out of problems with the classical view of conceptual structure.<sup id="cite_ref-Stanford_Encycl_3-7" class="reference"><a href="#cite_note-Stanford_Encycl-3">[3]</a></sup> Prototype theory says that concepts specify properties that members of a class tend to possess, rather than must possess.<sup id="cite_ref-concepts_core_readings_9-9" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup> <a href="/wiki/Ludwig_Wittgenstein" title="Ludwig Wittgenstein">Wittgenstein</a>, <a href="/wiki/Eleanor_Rosch" title="Eleanor Rosch">Rosch</a>, Mervis, <a href="/wiki/Brent_Berlin" title="Brent Berlin">Berlin</a>, Anglin, and <a href="/wiki/Michael_Posner_(psychologist)" title="Michael Posner (psychologist)">Posner</a> are a few of the key proponents and creators of this theory.<sup id="cite_ref-concepts_core_readings_9-10" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup><sup id="cite_ref-new_paradigm_13-0" class="reference"><a href="#cite_note-new_paradigm-13">[13]</a></sup> Wittgenstein describes the relationship between members of a class as <i>family resemblances</i>. There are not necessarily any necessary conditions for membership, a dog can still be a dog with only three legs.<sup id="cite_ref-Big_Book_11-9" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> This view is particularly supported by psychological experimental evidence for prototypicality effects.<sup id="cite_ref-Big_Book_11-10" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> Participants willingly and consistently rate objects in categories like 'vegetable' or 'furniture' as more or less typical of that class.<sup id="cite_ref-Big_Book_11-11" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup><sup id="cite_ref-new_paradigm_13-1" class="reference"><a href="#cite_note-new_paradigm-13">[13]</a></sup> It seems that our categories are fuzzy psychologically, and so this structure has explanatory power.<sup id="cite_ref-Big_Book_11-12" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> We can judge an item's membership to the referent class of a concept by comparing it to the typical member – the most central member of the concept. If it is similar enough in the relevant ways, it will be cognitively admitted as a member of the relevant class of entities.<sup id="cite_ref-Big_Book_11-13" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> Rosch suggests that every category is represented by a central exemplar which embodies all or the maximum possible number of features of a given category.<sup id="cite_ref-Big_Book_11-14" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> According to Lech, Gunturkun, and Suchan explain that categorization involves many areas of the brain, some of these are; visual association areas, prefrontal cortex, basal ganglia, and temporal lobe -</p>
+<h3><span class="mw-headline" id="Theory-theory">Theory-theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=12" title="Edit section: Theory-theory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Theory-theory is a reaction to the previous two theories and develops them further.<sup id="cite_ref-Big_Book_11-15" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> This theory postulates that categorization by concepts is something like scientific theorizing.<sup id="cite_ref-Stanford_Encycl_3-8" class="reference"><a href="#cite_note-Stanford_Encycl-3">[3]</a></sup> Concepts are not learned in isolation, but rather are learned as a part of our experiences with the world around us.<sup id="cite_ref-Big_Book_11-16" class="reference"><a href="#cite_note-Big_Book-11">[11]</a></sup> In this sense, concepts' structure relies on their relationships to other concepts as mandated by a particular mental theory about the state of the world.<sup id="cite_ref-concepts_core_readings_9-11" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup> How this is supposed to work is a little less clear than in the previous two theories, but is still a prominent and notable theory.<sup id="cite_ref-concepts_core_readings_9-12" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup> This is supposed to explain some of the issues of ignorance and error that come up in prototype and classical theories as concepts that are structured around each other seem to account for errors such as whale as a fish (this misconception came from an incorrect theory about what a whale is like, combining with our theory of what a fish is).<sup id="cite_ref-concepts_core_readings_9-13" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup> When we learn that a whale is not a fish, we are recognizing that whales don't in fact fit the theory we had about what makes something a fish. In this sense, the Theory-Theory of concepts is responding to some of the issues of prototype theory and classic theory.<sup id="cite_ref-concepts_core_readings_9-14" class="reference"><a href="#cite_note-concepts_core_readings-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="Ideasthesia">Ideasthesia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=13" title="Edit section: Ideasthesia">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the theory of <a href="/wiki/Ideasthesia" title="Ideasthesia">ideasthesia</a> (or "sensing concepts"), activation of a concept may be the main mechanism responsible for creation of phenomenal experiences. Therefore, understanding how the brain processes concepts may be central to solving the mystery of how conscious experiences (or <a href="/wiki/Qualia" title="Qualia">qualia</a>) emerge within a physical system e.g., the sourness of the sour taste of lemon.<sup id="cite_ref-MroczkoNikolic2014_14-0" class="reference"><a href="#cite_note-MroczkoNikolic2014-14">[14]</a></sup> This question is also known as the <a href="/wiki/Hard_problem_of_consciousness" title="Hard problem of consciousness">hard problem of consciousness</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Research on ideasthesia emerged from research on <a href="/wiki/Synesthesia" title="Synesthesia">synesthesia</a> where it was noted that a synesthetic experience requires first an activation of a concept of the inducer.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Later research expanded these results into everyday perception.<sup id="cite_ref-Gomez2013_18-0" class="reference"><a href="#cite_note-Gomez2013-18">[18]</a></sup></p>
+<p>There is a lot of discussion on the most effective theory in concepts. Another theory is semantic pointers, these use perceptual and motor representations and these representations are like symbols.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
+<ul>
+<li><a href="/wiki/Abstraction" title="Abstraction">Abstraction</a></li>
+<li><a href="/wiki/Categorization" title="Categorization">Categorization</a></li>
+<li><a href="/wiki/Class_(philosophy)" title="Class (philosophy)">Class (philosophy)</a></li>
+<li><a href="/wiki/Concept_and_object" title="Concept and object">Concept and object</a></li>
+<li><a href="/wiki/Concept_learning" title="Concept learning">Concept learning</a></li>
+<li><a href="/wiki/Concept_map" title="Concept map">Concept map</a></li>
+<li><a href="/wiki/Conceptual_art" title="Conceptual art">Conceptual art</a></li>
+<li><a href="/wiki/Conceptual_blending" title="Conceptual blending">Conceptual blending</a></li>
+<li><a href="/wiki/Conceptual_clustering" title="Conceptual clustering">Conceptual clustering</a></li>
+<li><a href="/wiki/Conceptual_framework" title="Conceptual framework">Conceptual framework</a></li>
+<li><a href="/wiki/Conceptual_history" title="Conceptual history">Conceptual history</a></li>
+<li><a href="/wiki/Conceptual_model" title="Conceptual model">Conceptual model</a></li>
+<li><a href="/wiki/Conversation_theory" title="Conversation theory">Conversation theory</a></li>
+<li><a href="/wiki/Conveyed_concept" title="Conveyed concept">Conveyed concept</a></li>
+<li><a href="/wiki/Definitionism" title="Definitionism">Definitionism</a></li>
+<li><a href="/wiki/Doctrine" title="Doctrine">Doctrine</a></li>
+<li><a href="/wiki/Formal_concept_analysis" title="Formal concept analysis">Formal concept analysis</a></li>
+<li><a href="/wiki/Fuzzy_concept" title="Fuzzy concept">Fuzzy concept</a></li>
+<li><a href="/wiki/Glittering_generality" title="Glittering generality">Glittering generality</a></li>
+<li><a href="/wiki/Hypostatic_abstraction" title="Hypostatic abstraction">Hypostatic abstraction</a></li>
+<li><a href="/wiki/Idea" title="Idea">Idea</a></li>
+<li><a href="/wiki/Idea_art" title="Idea art">Idea art</a></li>
+<li><a href="/wiki/Ideasthesia" title="Ideasthesia">Ideasthesia</a></li>
+<li><a href="/wiki/Notion_(philosophy)" title="Notion (philosophy)">Notion (philosophy)</a></li>
+<li><a href="/wiki/Object_(philosophy)" title="Object (philosophy)">Object (philosophy)</a></li>
+<li><a href="/wiki/Philosophy" title="Philosophy">Philosophy</a></li>
+<li><a href="/wiki/Recept" title="Recept">Recept</a></li>
+<li><a href="/wiki/Schema_(Kant)" title="Schema (Kant)">Schema (Kant)</a></li>
+<li><a href="/wiki/Social_construction" class="mw-redirect" title="Social construction">Social construction</a></li>
+<li><a href="/wiki/Symbol_grounding" class="mw-redirect" title="Symbol grounding">Symbol grounding problem</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.academia.edu/9619214/Concepts_and_its_types">"Concepts and its types"</a>. <i>www.academia.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-02-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcept&amp;rft.atitle=Concepts+and+its+types&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.academia.edu%2F9619214%2FConcepts_and_its_types&amp;rft.jtitle=www.academia.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Eysenck. M. W., (2012) Fundamentals of Cognition (2nd) Psychology Taylor &amp; Francis</span></li>
+<li id="cite_note-Stanford_Encycl-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stanford_Encycl_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stanford_Encycl_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Stanford_Encycl_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Stanford_Encycl_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Stanford_Encycl_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Stanford_Encycl_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Stanford_Encycl_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Stanford_Encycl_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Stanford_Encycl_3-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Eric Margolis; Stephen Lawrence. <a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/concepts/">"Concepts"</a>. <i>Stanford Encyclopedia of Philosophy</i>. Metaphysics Research Lab at Stanford University<span class="reference-accessdate">. Retrieved <span class="nowrap">6 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcept&amp;rft.atitle=Concepts&amp;rft.au=Eric+Margolis&amp;rft.au=Stephen+Lawrence&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fplato.stanford.edu%2Fentries%2Fconcepts%2F&amp;rft.jtitle=Stanford+Encyclopedia+of+Philosophy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Eysenck. M. W., (2012) Fundamentals of Cognition (2nd) Psychology Taylor &amp; Francis.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.bartleby.com/61/49/C0544900.html">http://www.bartleby.com/61/49/C0544900.html</a> The American Heritage Dictionary of the English Language: Fourth Edition.<sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since September 2016">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Stock, W.G. (2010). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/asi.21382/abstract">Concepts and semantic relations in information science</a>. Journal of the American Society for Information Science and Technology, 61(10), 1951–1969.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Hjørland, B. (2009). Concept Theory. Journal of the American Society for Information Science and Technology, 60(8), 1519–1536</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Smith, B. (2004). <a rel="nofollow" class="external text" href="http://ontology.buffalo.edu/bfo/Beyond_Concepts.pdf">Beyond Concepts, or: Ontology as Reality Representation</a>, Formal Ontology and Information Systems. Proceedings of the Third International Conference (FOIS 2004), Amsterdam: IOS Press, 2004, 73–84.</span></li>
+<li id="cite_note-concepts_core_readings-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-concepts_core_readings_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-concepts_core_readings_9-14"><sup><i><b>o</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Stephen Lawrence; Eric Margolis (1999). <i>Concepts and Cognitive Science</i>. in Concepts: Core Readings: Massachusetts Institute of Technology. pp.&#160;3–83. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-262-13353-1" title="Special:BookSources/978-0-262-13353-1">978-0-262-13353-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcept&amp;rft.au=Eric+Margolis&amp;rft.au=Stephen+Lawrence&amp;rft.btitle=Concepts+and+Cognitive+Science&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=978-0-262-13353-1&amp;rft.pages=3-83&amp;rft.place=in+Concepts%3A+Core+Readings&amp;rft.pub=Massachusetts+Institute+of+Technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Origin_of_Concepts-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Origin_of_Concepts_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Origin_of_Concepts_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Origin_of_Concepts_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Origin_of_Concepts_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Origin_of_Concepts_10-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Carey, Susan (2009). <i>The Origin of Concepts</i>. Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-536763-8" title="Special:BookSources/978-0-19-536763-8">978-0-19-536763-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcept&amp;rft.aufirst=Susan&amp;rft.aulast=Carey&amp;rft.btitle=The+Origin+of+Concepts&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-0-19-536763-8&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Big_Book-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Big_Book_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Big_Book_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Big_Book_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Big_Book_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Big_Book_11-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Big_Book_11-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Big_Book_11-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Big_Book_11-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Big_Book_11-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Big_Book_11-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Big_Book_11-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Big_Book_11-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Big_Book_11-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-Big_Book_11-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-Big_Book_11-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-Big_Book_11-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-Big_Book_11-16"><sup><i><b>q</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Murphy, Gregory (2002). <i>The Big Book of Concepts</i>. Massachusetts Institute of Technology. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-13409-8" title="Special:BookSources/0-262-13409-8">0-262-13409-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcept&amp;rft.aufirst=Gregory&amp;rft.aulast=Murphy&amp;rft.btitle=The+Big+Book+of+Concepts&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-262-13409-8&amp;rft.pub=Massachusetts+Institute+of+Technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">'Godel's Rationalism', <a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/goedel/#GodRat">Stanford Encyclopedia of Philosophy</a></span></li>
+<li id="cite_note-new_paradigm-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-new_paradigm_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-new_paradigm_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Brown, Roger (1978). <i>A New Paradigm of Reference</i>. Academic Press Inc. pp.&#160;159–166. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-12-497750-2" title="Special:BookSources/0-12-497750-2">0-12-497750-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcept&amp;rft.aufirst=Roger&amp;rft.aulast=Brown&amp;rft.btitle=A+New+Paradigm+of+Reference&amp;rft.date=1978&amp;rft.genre=book&amp;rft.isbn=0-12-497750-2&amp;rft.pages=159-166&amp;rft.pub=Academic+Press+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MroczkoNikolic2014-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-MroczkoNikolic2014_14-0">^</a></b></span> <span class="reference-text">Mroczko-Wąsowicz, A., Nikolić D. (2014) Semantic mechanisms may be responsible for developing synesthesia. <i>Frontiers in Human Neuroscience</i> 8:509. doi: 10.3389/fnhum.2014.00509</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Stevan Harnad (1995). Why and How We Are Not Zombies. <i>Journal of Consciousness Studies</i> 1: 164–167.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">David Chalmers (1995). Facing Up to the Problem of Consciousness. <i>Journal of Consciousness Studies</i> 2 (3): 200–219.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Nikolić, D. (2009) Is synaesthesia actually ideaesthesia? An inquiry into the nature of the phenomenon. Proceedings of the Third International Congress on Synaesthesia, Science &amp; Art, Granada, Spain, April 26–29, 2009.</span></li>
+<li id="cite_note-Gomez2013-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gomez2013_18-0">^</a></b></span> <span class="reference-text">Gómez Milán, E., Iborra, O., de Córdoba, M.J., Juárez-Ramos V., Rodríguez Artacho, M.A., Rubio, J.L. (2013) The Kiki-Bouba effect: A case of personification and ideaesthesia. <i>The Journal of Consciousness Studies.</i> 20(1–2): pp. 84–102.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Blouw, P., Solodkin, E., Thagard, P., &amp; Eliasmith, C. (2016). Concepts as semantic pointers: A framework and computational model. Cognitive Science, 40(5), 1128-1162. doi:10.1111/cogs.12265</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=16" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li>Armstrong, S. L., Gleitman, L. R., &amp; Gleitman, H. (1999). what some concepts might not be. In E. Margolis, &amp; S. Lawrence, Concepts (pp.&#160;225–261). Massachusetts: MIT press.</li>
+<li>Carey, S. (1999). knowledge acquisition: enrichment or conceptual change? In E. Margolis, &amp; S. Lawrence, concepts: core readings (pp.&#160;459–489). Massachusetts: MIT press.</li>
+<li>Fodor, J. A., Garrett, M. F., Walker, E. C., &amp; Parkes, C. H. (1999). against definitions. In E. Margolis, &amp; S. Lawrence, concepts: core readings (pp.&#160;491–513). Massachusetts: MIT press.</li>
+<li>Fodor, J., &amp; LePore, E. (1996). the pet fish and the red Herring: why concept still can't be prototypes. cognition, 253–270.</li>
+<li>Hume, D. (1739). book one part one: of the understanding of ideas, their origin, composition, connexion, abstraction etc. In D. Hume, a treatise of human nature. England.</li>
+<li>Murphy, G. (2004). Chapter 2. In G. Murphy, a big book of concepts (pp.&#160;11 – 41). Massachusetts: MIT press.</li>
+<li>Murphy, G., &amp; Medin, D. (1999). the role of theories in conceptual coherence. In E. Margolis, &amp; S. Lawrence, concepts: core readings (pp.&#160;425–459). Massachusetts: MIT press.</li>
+<li>Prinz, J. J. (2002). Desiderata on a Theory of Concepts. In J. J. Prinz, Furnishing the Mind: Concepts and their Perceptual Basis (pp.&#160;1–23). Massechusettes: MIT press.</li>
+<li>Putnam, H. (1999). is semantics possible? In E. Margolis, &amp; S. Lawrence, concepts: core readings (pp.&#160;177–189). Massachusetts: MIT press.</li>
+<li>Quine, W. (1999). two dogmas of empiricism. In E. Margolis, &amp; S. Lawrence, concepts: core readings (pp.&#160;153–171). Massachusetts: MIT press.</li>
+<li>Rey, G. (1999). Concepts and Stereotypes. In E. Margolis, &amp; S. Laurence (Eds.), Concepts: Core Readings (pp.&#160;279–301). Cambridge, Massachusetts: MIT Press.</li>
+<li>Rosch, E. (1977). Classification of real-world objects: Origins and representations in cognition. In P. Johnson-Laird, &amp; P. Wason, Thinking: Readings in Cognitive Science (pp.&#160;212–223). Cambridge: Cambridge University Press.</li>
+<li>Rosch, E. (1999). Principles of Categorization. In E. Margolis, &amp; S. Laurence (Eds.), Concepts: Core Readings (pp.&#160;189–206). Cambridge, Massachusetts: MIT Press.</li>
+<li>Schneider, S. (2011). Concepts: A Pragmatist Theory. In S.Schneider, The Language of Thought: a New Direction. Mass.: MIT Press.</li>
+<li>Wittgenstein, L. (1999). philosophical investigations: sections 65–78. In E. Margolis, &amp; S. Lawrence, concepts: core readings (pp.&#160;171–175). Massachusetts: MIT press.</li>
+<li><i>The History of Calculus and its Conceptual Development</i>, <a href="/wiki/Carl_Benjamin_Boyer" title="Carl Benjamin Boyer">Carl Benjamin Boyer</a>, <a href="/wiki/Dover_Publications" title="Dover Publications">Dover Publications</a>, <a href="/wiki/Special:BookSources/0486605094" class="internal mw-magiclink-isbn">ISBN 0-486-60509-4</a></li>
+<li><i>The Writings of William James</i>, <a href="/wiki/University_of_Chicago_Press" title="University of Chicago Press">University of Chicago Press</a>, <a href="/wiki/Special:BookSources/0226391884" class="internal mw-magiclink-isbn">ISBN 0-226-39188-4</a></li>
+<li><i><a href="/wiki/Logic" title="Logic">Logic</a></i>, <a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a>, Dover Publications, <a href="/wiki/Special:BookSources/0486256502" class="internal mw-magiclink-isbn">ISBN 0-486-25650-2</a></li>
+<li><i><a href="/wiki/A_System_of_Logic" title="A System of Logic">A System of Logic</a></i>, John Stuart Mill, University Press of the Pacific, <a href="/wiki/Special:BookSources/1410202526" class="internal mw-magiclink-isbn">ISBN 1-4102-0252-6</a></li>
+<li><i>Parerga and Paralipomena</i>, Arthur Schopenhauer, Volume I, <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>, <a href="/wiki/Special:BookSources/0198245084" class="internal mw-magiclink-isbn">ISBN 0-19-824508-4</a></li>
+<li><i>Kant's Metaphysic of Experience</i>, H. J. Paton, London: Allen &amp; Unwin, 1936</li>
+<li><i>Conceptual Integration Networks.</i> Gilles Fauconnier and Mark Turner, 1998. <i>Cognitive Science.</i> Volume 22, number 2 (April–June 1998), pages 133–187.</li>
+<li><i>The Portable Nietzsche</i>, Penguin Books, 1982, <a href="/wiki/Special:BookSources/0140150625" class="internal mw-magiclink-isbn">ISBN 0-14-015062-5</a></li>
+<li>Stephen Laurence and Eric Margolis <a rel="nofollow" class="external text" href="http://www.philosophy.dept.shef.ac.uk/papers/CCS.pdf">"Concepts and Cognitive Science"</a>. In <i>Concepts: Core Readings</i>, <a href="/wiki/MIT_Press" title="MIT Press">MIT Press</a> pp.&#160;3–81, 1999.</li>
+<li>Birger Hjørland. (2009). Concept Theory. Journal of the American Society for Information Science and Technology, 60(8), 1519–1536</li>
+<li>Georgij Yu. Somov (2010). Concepts and Senses in Visual Art: Through the example of analysis of some works by <a href="/wiki/Pieter_Bruegel_the_Elder" title="Pieter Bruegel the Elder">Bruegel the Elder</a>. <i><a href="/wiki/Semiotica" title="Semiotica">Semiotica</a></i> 182 (1/4), 475–506.</li>
+<li>Daltrozzo J, Vion-Dury J, Schön D. (2010). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110814063224/http://daltrozzo.net78.net/papers/Daltrozzo_et_al_2011.pdf">Music and Concepts</a>. Horizons in Neuroscience Research 4: 157–167.</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concept&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiktionary-logo-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/concept" class="extiw" title="wiktionary:Special:Search/concept">concept</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> article <i><b><a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Concept" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Concept">Concept</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://philpapers.org/browse/Concepts">Concept</a> at <a href="/wiki/PhilPapers" title="PhilPapers">PhilPapers</a></li>
+<li><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/concepts">"Concepts"</a>. <i><a href="/wiki/Stanford_Encyclopedia_of_Philosophy" title="Stanford Encyclopedia of Philosophy">Stanford Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcept&amp;rft.atitle=Concepts&amp;rft.btitle=Stanford+Encyclopedia+of+Philosophy&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fplato.stanford.edu%2Fentries%2Fconcepts&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="https://inpho.cogs.indiana.edu/idea/1734">Concept</a> at the <a href="/wiki/Indiana_Philosophy_Ontology_Project" title="Indiana Philosophy Ontology Project">Indiana Philosophy Ontology Project</a></li>
+<li><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.iep.utm.edu/concepts">"Concept"</a>. <i><a href="/wiki/Internet_Encyclopedia_of_Philosophy" title="Internet Encyclopedia of Philosophy">Internet Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcept&amp;rft.atitle=Concept&amp;rft.btitle=Internet+Encyclopedia+of+Philosophy&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.iep.utm.edu%2Fconcepts&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.iep.utm.edu/th-th-co">"Theory-Theory of Concepts"</a>. <i><a href="/wiki/Internet_Encyclopedia_of_Philosophy" title="Internet Encyclopedia of Philosophy">Internet Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcept&amp;rft.atitle=Theory-Theory+of+Concepts&amp;rft.btitle=Internet+Encyclopedia+of+Philosophy&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.iep.utm.edu%2Fth-th-co&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.iep.utm.edu/conc-cl">"Classical Theory of Concepts"</a>. <i><a href="/wiki/Internet_Encyclopedia_of_Philosophy" title="Internet Encyclopedia of Philosophy">Internet Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcept&amp;rft.atitle=Classical+Theory+of+Concepts&amp;rft.btitle=Internet+Encyclopedia+of+Philosophy&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.iep.utm.edu%2Fconc-cl&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://markturner.org/blending.html">Blending and Conceptual Integration</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.virtuescience.com/conceptualscience.html">Conceptual Science and Mathematical Permutations</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090716121100/http://www.conceptmobiles.com:80/">Concept Mobiles</a> Latest concepts</li>
+<li><a href="https://en.wikiversity.org/wiki/Conceptualize:_A_Wikiversity_Learning_Project" class="extiw" title="v:Conceptualize: A Wikiversity Learning Project">v:Conceptualize: A Wikiversity Learning Project</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.free-dictionary-translation.com/Concept.html">Concept simultaneously translated in several languages and meanings</a></li>
+<li>TED-Ed <a rel="nofollow" class="external text" href="http://ed.ted.com/lessons/ideasthesia-how-do-ideas-feel-danko-nikolic">Lesson</a> on ideasthesia (sensing concepts)</li>
+<li><a rel="nofollow" class="external text" href="https://zcomm.org/wp-content/uploads/zinstructionals/htdocs/RTInstruc/id7.htm">What is a concept?</a>--"It is an assumption.", sometimes.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Philosophy_of_language" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Philosophy_of_language" title="Template:Philosophy of language"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Philosophy_of_language" title="Template talk:Philosophy of language"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Philosophy_of_language&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Philosophy_of_language" style="font-size:114%;margin:0 4em"><a href="/wiki/Philosophy_of_language" title="Philosophy of language">Philosophy of language</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_philosophers_of_language" title="List of philosophers of language">Philosophers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Plato" title="Plato">Plato</a> (<i><a href="/wiki/Cratylus_(dialogue)" title="Cratylus (dialogue)">Cratylus</a></i>)</li>
+<li><a href="/wiki/Gorgias" title="Gorgias">Gorgias</a></li>
+<li><a href="/wiki/Confucius" title="Confucius">Confucius</a></li>
+<li><a href="/wiki/Xun_Kuang" title="Xun Kuang">Xunzi</a></li>
+<li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a></li>
+<li><a href="/wiki/Stoicism" title="Stoicism">Stoics</a></li>
+<li><a href="/wiki/Pyrrhonism" title="Pyrrhonism">Pyrrhonists</a></li>
+<li><a href="/wiki/Scholasticism" title="Scholasticism">Scholasticism</a></li>
+<li><a href="/wiki/Averroes" title="Averroes">Ibn Rushd</a></li>
+<li><a href="/wiki/Ibn_Khaldun" title="Ibn Khaldun">Ibn Khaldun</a></li>
+<li><a href="/wiki/Thomas_Hobbes" title="Thomas Hobbes">Thomas Hobbes</a></li>
+<li><a href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">Gottfried Wilhelm Leibniz</a></li>
+<li><a href="/wiki/Johann_Gottfried_Herder" title="Johann Gottfried Herder">Johann Herder</a></li>
+<li><a href="/wiki/Ludwig_Noir%C3%A9" title="Ludwig Noiré">Ludwig Noiré</a></li>
+<li><a href="/wiki/Wilhelm_von_Humboldt" title="Wilhelm von Humboldt">Wilhelm von Humboldt</a></li>
+<li><a href="/wiki/Fritz_Mauthner" title="Fritz Mauthner">Fritz Mauthner</a></li>
+<li><a href="/wiki/Paul_Ric%C5%93ur" title="Paul Ricœur">Paul Ricœur</a></li>
+<li><a href="/wiki/Ferdinand_de_Saussure" title="Ferdinand de Saussure">Ferdinand de Saussure</a></li>
+<li><a href="/wiki/Gottlob_Frege" title="Gottlob Frege">Gottlob Frege</a></li>
+<li><a href="/wiki/Franz_Boas" title="Franz Boas">Franz Boas</a></li>
+<li><a href="/wiki/Paul_Tillich" title="Paul Tillich">Paul Tillich</a></li>
+<li><a href="/wiki/Edward_Sapir" title="Edward Sapir">Edward Sapir</a></li>
+<li><a href="/wiki/Leonard_Bloomfield" title="Leonard Bloomfield">Leonard Bloomfield</a></li>
+<li><a href="/wiki/Zhuang_Zhou" title="Zhuang Zhou">Zhuangzi</a></li>
+<li><a href="/wiki/Henri_Bergson" title="Henri Bergson">Henri Bergson</a></li>
+<li><a href="/wiki/Lev_Vygotsky" title="Lev Vygotsky">Lev Vygotsky</a></li>
+<li><a href="/wiki/Ludwig_Wittgenstein" title="Ludwig Wittgenstein">Ludwig Wittgenstein</a>
+<ul>
+<li><i><a href="/wiki/Philosophical_Investigations" title="Philosophical Investigations">Philosophical Investigations</a></i></li>
+<li><i><a href="/wiki/Tractatus_Logico-Philosophicus" title="Tractatus Logico-Philosophicus">Tractatus Logico-Philosophicus</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li>
+<li><a href="/wiki/Rudolf_Carnap" title="Rudolf Carnap">Rudolf Carnap</a></li>
+<li><a href="/wiki/Jacques_Derrida" title="Jacques Derrida">Jacques Derrida</a>
+<ul>
+<li><i><a href="/wiki/Of_Grammatology" title="Of Grammatology">Of Grammatology</a></i></li>
+<li><i><a href="/wiki/Limited_Inc" title="Limited Inc">Limited Inc</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Benjamin_Lee_Whorf" title="Benjamin Lee Whorf">Benjamin Lee Whorf</a></li>
+<li><a href="/wiki/Gustav_Bergmann" title="Gustav Bergmann">Gustav Bergmann</a></li>
+<li><a href="/wiki/J._L._Austin" title="J. L. Austin">J. L. Austin</a></li>
+<li><a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a></li>
+<li><a href="/wiki/Hans-Georg_Gadamer" title="Hans-Georg Gadamer">Hans-Georg Gadamer</a></li>
+<li><a href="/wiki/Saul_Kripke" title="Saul Kripke">Saul Kripke</a></li>
+<li><a href="/wiki/A._J._Ayer" title="A. J. Ayer">A. J. Ayer</a></li>
+<li><a href="/wiki/G._E._M._Anscombe" class="mw-redirect" title="G. E. M. Anscombe">G. E. M. Anscombe</a></li>
+<li><a href="/wiki/Jaakko_Hintikka" title="Jaakko Hintikka">Jaakko Hintikka</a></li>
+<li><a href="/wiki/Michael_Dummett" title="Michael Dummett">Michael Dummett</a></li>
+<li><a href="/wiki/Donald_Davidson_(philosopher)" title="Donald Davidson (philosopher)">Donald Davidson</a></li>
+<li><a href="/wiki/Roger_Gibson" title="Roger Gibson">Roger Gibson</a></li>
+<li><a href="/wiki/Paul_Grice" title="Paul Grice">Paul Grice</a></li>
+<li><a href="/wiki/Gilbert_Ryle" title="Gilbert Ryle">Gilbert Ryle</a></li>
+<li><a href="/wiki/P._F._Strawson" title="P. F. Strawson">P. F. Strawson</a></li>
+<li><a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">Willard Van Orman Quine</a></li>
+<li><a href="/wiki/Hilary_Putnam" title="Hilary Putnam">Hilary Putnam</a></li>
+<li><a href="/wiki/David_Lewis_(philosopher)" title="David Lewis (philosopher)">David Lewis</a></li>
+<li><a href="/wiki/John_Searle" title="John Searle">John Searle</a></li>
+<li><a href="/wiki/Joxe_Azurmendi" title="Joxe Azurmendi">Joxe Azurmendi</a></li>
+<li><a href="/wiki/Scott_Soames" title="Scott Soames">Scott Soames</a></li>
+<li><a href="/wiki/Stephen_Yablo" title="Stephen Yablo">Stephen Yablo</a></li>
+<li><a href="/wiki/John_Hawthorne" title="John Hawthorne">John Hawthorne</a></li>
+<li><a href="/wiki/Stephen_Neale" title="Stephen Neale">Stephen Neale</a></li>
+<li><a href="/wiki/Paul_Watzlawick" title="Paul Watzlawick">Paul Watzlawick</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Theories_of_language" title="Category:Theories of language">Theories</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Causal_theory_of_reference" title="Causal theory of reference">Causal theory of reference</a></li>
+<li><a href="/wiki/Contrast_theory_of_meaning" class="mw-redirect" title="Contrast theory of meaning">Contrast theory of meaning</a></li>
+<li><a href="/wiki/Contrastivism" title="Contrastivism">Contrastivism</a></li>
+<li><a href="/wiki/Conventionalism" title="Conventionalism">Conventionalism</a></li>
+<li><a href="/wiki/Cratylism" title="Cratylism">Cratylism</a></li>
+<li><a href="/wiki/Deconstruction" title="Deconstruction">Deconstruction</a></li>
+<li><a href="/wiki/Descriptivist_theory_of_names" title="Descriptivist theory of names">Descriptivist theory of names</a></li>
+<li><a href="/wiki/Direct_reference_theory" title="Direct reference theory">Direct reference theory</a></li>
+<li><a href="/wiki/Dramatism" title="Dramatism">Dramatism</a></li>
+<li><a href="/wiki/Expressivism" title="Expressivism">Expressivism</a></li>
+<li><a href="/wiki/Linguistic_determinism" title="Linguistic determinism">Linguistic determinism</a></li>
+<li><a href="/wiki/Logical_atomism" title="Logical atomism">Logical atomism</a></li>
+<li><a href="/wiki/Logical_positivism" title="Logical positivism">Logical positivism</a></li>
+<li><a href="/wiki/Mediated_reference_theory" title="Mediated reference theory">Mediated reference theory</a></li>
+<li><a href="/wiki/Nominalism" title="Nominalism">Nominalism</a></li>
+<li><a href="/wiki/Non-cognitivism" title="Non-cognitivism">Non-cognitivism</a></li>
+<li><a href="/wiki/Phallogocentrism" title="Phallogocentrism">Phallogocentrism</a></li>
+<li><a href="/wiki/Quietism_(philosophy)" title="Quietism (philosophy)">Quietism</a></li>
+<li><a href="/wiki/Relevance_theory" title="Relevance theory">Relevance theory</a></li>
+<li><a href="/wiki/Semantic_externalism" title="Semantic externalism">Semantic externalism</a></li>
+<li><a href="/wiki/Semantic_holism" title="Semantic holism">Semantic holism</a></li>
+<li><a href="/wiki/Structuralism" title="Structuralism">Structuralism</a></li>
+<li><a href="/wiki/Supposition_theory" title="Supposition theory">Supposition theory</a></li>
+<li><a href="/wiki/Symbiosism" title="Symbiosism">Symbiosism</a></li>
+<li><a href="/wiki/Theological_noncognitivism" title="Theological noncognitivism">Theological noncognitivism</a></li>
+<li><a href="/wiki/Theory_of_descriptions" title="Theory of descriptions">Theory of descriptions</a></li>
+<li><a href="/wiki/Verification_theory" class="mw-redirect" title="Verification theory">Verification theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ambiguity" title="Ambiguity">Ambiguity</a></li>
+<li><a href="/wiki/Linguistic_relativity" title="Linguistic relativity">Linguistic relativity</a></li>
+<li><a href="/wiki/Meaning_(linguistics)" title="Meaning (linguistics)">Meaning</a></li>
+<li><a href="/wiki/Language" title="Language">Language</a></li>
+<li><a href="/wiki/Truth-bearer" title="Truth-bearer">Truth-bearer</a></li>
+<li><a href="/wiki/Proposition" title="Proposition">Proposition</a></li>
+<li><a href="/wiki/Use%E2%80%93mention_distinction" title="Use–mention distinction">Use–mention distinction</a></li>
+<li><strong class="selflink">Concept</strong></li>
+<li><a href="/wiki/Categorization" title="Categorization">Categories</a></li>
+<li><a href="/wiki/Set_(mathematics)" title="Set (mathematics)">Set</a></li>
+<li><a href="/wiki/Class_(philosophy)" title="Class (philosophy)">Class</a></li>
+<li><a href="/wiki/Intension" title="Intension">Intension</a></li>
+<li><a href="/wiki/Logical_form" title="Logical form">Logical form</a></li>
+<li><a href="/wiki/Metalanguage" title="Metalanguage">Metalanguage</a></li>
+<li><a href="/wiki/Mental_representation" title="Mental representation">Mental representation</a></li>
+<li><a href="/wiki/Principle_of_compositionality" title="Principle of compositionality">Principle of compositionality</a></li>
+<li><a href="/wiki/Property_(philosophy)" title="Property (philosophy)">Property</a></li>
+<li><a href="/wiki/Sign_(semiotics)" title="Sign (semiotics)">Sign</a></li>
+<li><a href="/wiki/Sense_and_reference" title="Sense and reference">Sense and reference</a></li>
+<li><a href="/wiki/Speech_act" title="Speech act">Speech act</a></li>
+<li><a href="/wiki/Symbol" title="Symbol">Symbol</a></li>
+<li><a href="/wiki/Entity" title="Entity">Entity</a></li>
+<li><a href="/wiki/Sentence_(linguistics)" title="Sentence (linguistics)">Sentence</a></li>
+<li><a href="/wiki/Statement_(logic)" title="Statement (logic)">Statement</a></li>
+<li><b><a href="/wiki/Index_of_philosophy_of_language_articles" title="Index of philosophy of language articles">more...</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Analytic_philosophy" title="Analytic philosophy">Analytic philosophy</a></li>
+<li><a href="/wiki/Philosophy_of_information" title="Philosophy of information">Philosophy of information</a></li>
+<li><a href="/wiki/Philosophical_logic" title="Philosophical logic">Philosophical logic</a></li>
+<li><a href="/wiki/Linguistics" title="Linguistics">Linguistics</a></li>
+<li><a href="/wiki/Pragmatics" title="Pragmatics">Pragmatics</a></li>
+<li><a href="/wiki/Rhetoric" title="Rhetoric">Rhetoric</a></li>
+<li><a href="/wiki/Semantics" title="Semantics">Semantics</a></li>
+<li><a href="/wiki/Formal_semantics_(linguistics)" title="Formal semantics (linguistics)">Formal semantics</a></li>
+<li><a href="/wiki/Semiotics" title="Semiotics">Semiotics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Category:Philosophy_of_language" title="Category:Philosophy of language">Category</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Philosophy/Language" title="Wikipedia:WikiProject Philosophy/Language">Task Force</a></li>
+<li><a href="/wiki/Wikipedia_talk:WikiProject_Philosophy" title="Wikipedia talk:WikiProject Philosophy">Discussion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Philosophy_of_mind" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Philosophy_of_mind" title="Template:Philosophy of mind"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Philosophy_of_mind" title="Template talk:Philosophy of mind"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Philosophy_of_mind&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Philosophy_of_mind" style="font-size:114%;margin:0 4em"><a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">Philosophy of mind</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Theories</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Behaviorism" title="Behaviorism">Behaviorism</a> (<a href="/wiki/Radical_behaviorism" title="Radical behaviorism">Radical</a>)</li>
+<li><a href="/wiki/Biological_naturalism" title="Biological naturalism">Biological naturalism</a></li>
+<li><a href="/wiki/Cognitive_psychology" title="Cognitive psychology">Cognitive psychology</a></li>
+<li><a href="/wiki/Dualism_(philosophy_of_mind)" title="Dualism (philosophy of mind)">Dualism</a></li>
+<li><a href="/wiki/Eliminative_materialism" title="Eliminative materialism">Eliminative materialism</a></li>
+<li><a href="/wiki/Emergent_materialism" title="Emergent materialism">Emergent materialism</a></li>
+<li><a href="/wiki/Epiphenomenalism" title="Epiphenomenalism">Epiphenomenalism</a></li>
+<li><a href="/wiki/Functionalism_(philosophy_of_mind)" title="Functionalism (philosophy of mind)">Functionalism</a></li>
+<li><a href="/wiki/Idealism" title="Idealism">Idealism</a></li>
+<li><a href="/wiki/Interactionism_(philosophy_of_mind)" title="Interactionism (philosophy of mind)">Interactionism</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Monism" title="Monism">Monism</a></li>
+<li><a href="/wiki/Na%C3%AFve_realism" title="Naïve realism">Naïve realism</a>
+<ul>
+<li><a href="/wiki/Neurophenomenology" title="Neurophenomenology">Neurophenomenology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Neutral_monism" title="Neutral monism">Neutral monism</a></li>
+<li><a href="/wiki/Occasionalism" title="Occasionalism">Occasionalism</a></li>
+<li><a href="/wiki/Psychoanalysis" title="Psychoanalysis">Psychoanalysis</a></li>
+<li><a href="/wiki/Psychophysical_Parallelism" class="mw-redirect" title="Psychophysical Parallelism">Parallelism</a></li>
+<li><a href="/wiki/Phenomenalism" title="Phenomenalism">Phenomenalism</a></li>
+<li><a href="/wiki/Phenomenology_(philosophy)" title="Phenomenology (philosophy)">Phenomenology</a></li>
+<li><a href="/wiki/Physicalism" title="Physicalism">Physicalism</a>
+<ul>
+<li><a href="/wiki/Type_physicalism" title="Type physicalism">identity theory</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Property_dualism" title="Property dualism">Property dualism</a></li>
+<li><a href="/wiki/Representational_theory_of_mind" class="mw-redirect" title="Representational theory of mind">Representational</a></li>
+<li><a href="/wiki/Solipsism" title="Solipsism">Solipsism</a></li>
+<li><a href="/wiki/Substance_dualism" class="mw-redirect" title="Substance dualism">Substance dualism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abstract_and_concrete" title="Abstract and concrete">Abstract object</a></li>
+<li><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a></li>
+<li><a href="/wiki/Chinese_room" title="Chinese room">Chinese room</a></li>
+<li><a href="/wiki/Cognition" title="Cognition">Cognition</a></li>
+<li><a href="/wiki/Cognitive_closure_(philosophy)" title="Cognitive closure (philosophy)">Cognitive closure</a></li>
+<li><strong class="selflink">Concept</strong></li>
+<li><a href="/wiki/Concept_and_object" title="Concept and object">Concept and object</a></li>
+<li><a href="/wiki/Consciousness" title="Consciousness">Consciousness</a></li>
+<li><a href="/wiki/Hard_problem_of_consciousness" title="Hard problem of consciousness">Hard problem of consciousness</a></li>
+<li><a href="/wiki/Hypostatic_abstraction" title="Hypostatic abstraction">Hypostatic abstraction</a></li>
+<li><a href="/wiki/Idea" title="Idea">Idea</a></li>
+<li><a href="/wiki/Identity_(philosophy)" title="Identity (philosophy)">Identity</a></li>
+<li><a href="/wiki/Ingenuity" title="Ingenuity">Ingenuity</a></li>
+<li><a href="/wiki/Intelligence" title="Intelligence">Intelligence</a></li>
+<li><a href="/wiki/Intentionality" title="Intentionality">Intentionality</a></li>
+<li><a href="/wiki/Introspection" title="Introspection">Introspection</a></li>
+<li><a href="/wiki/Intuition_(knowledge)" class="mw-redirect" title="Intuition (knowledge)">Intuition</a></li>
+<li><a href="/wiki/Language_of_thought_hypothesis" title="Language of thought hypothesis">Language of thought</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Mental_event" title="Mental event">Mental event</a></li>
+<li><a href="/wiki/Mental_image" title="Mental image">Mental image</a></li>
+<li><a href="/wiki/Mental_process" title="Mental process">Mental process</a></li>
+<li><a href="/wiki/Mental_property" title="Mental property">Mental property</a></li>
+<li><a href="/wiki/Mental_representation" title="Mental representation">Mental representation</a></li>
+<li><a href="/wiki/Mind" title="Mind">Mind</a></li>
+<li><a href="/wiki/Mind%E2%80%93body_problem" title="Mind–body problem">Mind–body problem</a>
+<ul>
+<li><a href="/wiki/Non-physical_entity" title="Non-physical entity">Non-physical entity</a></li>
+</ul>
+</li>
+<li><a href="/wiki/New_mysterianism" title="New mysterianism">New mysterianism</a></li>
+<li><a href="/wiki/Pain_(philosophy)" title="Pain (philosophy)">Pain</a></li>
+<li><a href="/wiki/Problem_of_other_minds" title="Problem of other minds">Problem of other minds</a></li>
+<li><a href="/wiki/Propositional_attitude" title="Propositional attitude">Propositional attitude</a></li>
+<li><a href="/wiki/Qualia" title="Qualia">Qualia</a></li>
+<li><a href="/wiki/Tabula_rasa" title="Tabula rasa">Tabula rasa</a></li>
+<li><a href="/wiki/Understanding" title="Understanding">Understanding</a></li>
+<li><a href="/wiki/Philosophical_zombie" title="Philosophical zombie">Zombie</a></li>
+<li><i><a href="/wiki/Index_of_philosophy_of_mind_articles" title="Index of philosophy of mind articles">more...</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Philosophy of artificial intelligence</a>&#160;/ <a href="/wiki/Philosophy_of_information" title="Philosophy of information">information</a>&#160;/ <a href="/wiki/Philosophy_of_perception" title="Philosophy of perception">perception</a>&#160;/ <a href="/wiki/Philosophy_of_self" title="Philosophy of self">self</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Portal:Mind_and_brain" title="Portal:Mind and brain">Portal</a></li>
+<li><a href="/wiki/Category:Philosophy_of_mind" title="Category:Philosophy of mind">Category</a></li>
+<li><a href="/wiki/Category:Philosophers_of_mind" title="Category:Philosophers of mind">Philosophers category</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Philosophy" title="Wikipedia:WikiProject Philosophy">Project</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Philosophy/Mind" title="Wikipedia:WikiProject Philosophy/Mind">Task Force</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4005248-5">4005248-5</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1176
+Cached time: 20170314092232
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.320 seconds
+Real time usage: 0.396 seconds
+Preprocessor visited node count: 2443/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61116/2097152 bytes
+Template argument size: 4265/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.134/10.000 seconds
+Lua memory usage: 4.34 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  315.983      1 -total
+ 24.18%   76.419      1 Template:Reflist
+ 23.46%   74.141      6 Template:Fix
+ 14.93%   47.179      4 Template:Citation_needed
+ 11.46%   36.224      5 Template:Delink
+ 10.65%   33.641     12 Template:Category_handler
+ 10.04%   31.729      2 Template:Cite_web
+  8.28%   26.151      1 Template:Authority_control
+  6.81%   21.503      1 Template:Other_uses
+  5.32%   16.816      4 Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6978-0!*!0!!en!4!* and timestamp 20170314092231 and revision id 764439850
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Concept&amp;oldid=764439850">https://en.wikipedia.org/w/index.php?title=Concept&amp;oldid=764439850</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_science" title="Category:Cognitive science">Cognitive science</a></li><li><a href="/wiki/Category:Concepts" title="Category:Concepts">Concepts</a></li><li><a href="/wiki/Category:Abstraction" title="Category:Abstraction">Abstraction</a></li><li><a href="/wiki/Category:Mental_content" title="Category:Mental content">Mental content</a></li><li><a href="/wiki/Category:Ontology" title="Category:Ontology">Ontology</a></li><li><a href="/wiki/Category:Philosophy_of_language" title="Category:Philosophy of language">Philosophy of language</a></li><li><a href="/wiki/Category:Semantics" title="Category:Semantics">Semantics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_September_2016" title="Category:Articles with dead external links from September 2016">Articles with dead external links from September 2016</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2008" title="Category:Articles with unsourced statements from July 2008">Articles with unsourced statements from July 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2011" title="Category:Articles with unsourced statements from December 2011">Articles with unsourced statements from December 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2012" title="Category:Articles with unsourced statements from December 2012">Articles with unsourced statements from December 2012</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Concept" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Concept" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Concept"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Concept"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Concept" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Concept&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Concept&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Concept" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Concept" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Concept&amp;oldid=764439850" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Concept&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q151885" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Concept&amp;id=764439850" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Concept">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Concept&amp;returnto=Concept&amp;oldid=764439850&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Concept&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Concepts" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Concept" hreflang="en">Wikiquote</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Concepto" title="Concepto – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Anlay%C4%B1%C5%9F" title="Anlayış – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D1%8F%D1%86%D1%86%D0%B5" title="Паняцце – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D1%8F%D1%86%D1%8C%D1%86%D0%B5" title="Паняцьце – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F" title="Концепция – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Pojam" title="Pojam – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Meizad" title="Meizad – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Concepte" title="Concepte – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%C4%82%D0%BD%D0%BB%D0%B0%D0%B2" title="Ăнлав – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Pojem" title="Pojem – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Cysyniad" title="Cysyniad – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Begreb" title="Begreb – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Begriff" title="Begriff – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/M%C3%B5iste" title="Mõiste – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Concepto" title="Concepto – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Koncepto" title="Koncepto – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Kontzeptu" title="Kontzeptu – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%81%D9%87%D9%88%D9%85" title="مفهوم – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Concept_(philosophie)" title="Concept (philosophie) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Concepto" title="Concepto – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B0%9C%EB%85%90" title="개념 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%BD%D5%AF%D5%A1%D6%81%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" title="Հասկացություն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A4%BE" title="अवधारणा – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Pojam" title="Pojam – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Konceptajo" title="Konceptajo – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Konsep" title="Konsep – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Hugtak" title="Hugtak – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Concetto" title="Concetto – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D2%B0%D2%93%D1%8B%D0%BC" title="Ұғым – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Notio_(psychologia)" title="Notio (psychologia) – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/J%C4%93dziens" title="Jēdziens – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/S%C4%85voka" title="Sąvoka – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Fogalom" title="Fogalom – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82" title="Концепт – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Konsep" title="Konsep – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Concept_(filosofie)" title="Concept (filosofie) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%A6%82%E5%BF%B5" title="概念 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%A3%D0%BC%D1%8B%D0%BB" title="Умыл – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A9%B0%E0%A8%95%E0%A8%B2%E0%A8%AA" title="ਸੰਕਲਪ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Poj%C4%99cie" title="Pojęcie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Conceito" title="Conceito – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Bejreff" title="Bejreff – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Concept" title="Concept – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Imakay" title="Imakay – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BD%D1%8F%D1%82%D1%8F" title="Понятя – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5" title="Понятие – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Concept" title="Concept – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Koncepti" title="Koncepti – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Cuncettu" title="Cuncettu – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Concept" title="Concept – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Pojem" title="Pojem – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Koncept" title="Koncept – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%86%DB%95%D9%85%DA%A9" title="چەمک – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82" title="Концепт – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Pojam" title="Pojam – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/K%C3%A4site" title="Käsite – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Begrepp" title="Begrepp – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%81" title="கருத்துரு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A2%D3%A9%D1%88%D0%B5%D0%BD%D1%87%D3%99" title="Төшенчә – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kavram" title="Kavram – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BD%D1%8F%D1%82%D1%82%D1%8F" title="Поняття – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Kh%C3%A1i_ni%E1%BB%87m" title="Khái niệm – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%91%D7%90%D7%92%D7%A8%D7%99%D7%A3" title="באגריף – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%A6%82%E5%BF%B5" title="概念 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q151885#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 8 February 2017, at 23:04.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Concept&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.396","ppvisitednodes":{"value":2443,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61116,"limit":2097152},"templateargumentsize":{"value":4265,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  315.983      1 -total"," 24.18%   76.419      1 Template:Reflist"," 23.46%   74.141      6 Template:Fix"," 14.93%   47.179      4 Template:Citation_needed"," 11.46%   36.224      5 Template:Delink"," 10.65%   33.641     12 Template:Category_handler"," 10.04%   31.729      2 Template:Cite_web","  8.28%   26.151      1 Template:Authority_control","  6.81%   21.503      1 Template:Other_uses","  5.32%   16.816      4 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.134","limit":"10.000"},"limitreport-memusage":{"value":4548257,"limit":52428800}},"cachereport":{"origin":"mw1176","timestamp":"20170314092232","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1273"});});</script>
+	</body>
+</html>

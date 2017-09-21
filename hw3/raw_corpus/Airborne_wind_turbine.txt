@@ -1,0 +1,1192 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Airborne wind turbine - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Airborne_wind_turbine","wgTitle":"Airborne wind turbine","wgCurRevisionId":768670777,"wgRevisionId":768670777,"wgArticleId":2795314,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: BOT: original-url status unknown","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from July 2012","Aerodynamics","Aircraft","Electrical generators","Electromechanical engineering","Energy conversion","Kites","Wind turbines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Airborne_wind_turbine","wgRelevantArticleId":2795314,"wgRequestId":"WMdvGQpAMFcAAD2G-h4AAAAF","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1709807","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Airborne_wind_generator-en.svg/1200px-Airborne_wind_generator-en.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Airborne_wind_turbine"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Airborne_wind_turbine&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Airborne_wind_turbine&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Airborne_wind_turbine"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Airborne_wind_turbine rootpage-Airborne_wind_turbine skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Airborne wind turbine</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a href="/wiki/File:Airborne_wind_generator-en.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Airborne_wind_generator-en.svg/280px-Airborne_wind_generator-en.svg.png" width="280" height="280" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Airborne_wind_generator-en.svg/420px-Airborne_wind_generator-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Airborne_wind_generator-en.svg/560px-Airborne_wind_generator-en.svg.png 2x" data-file-width="720" data-file-height="720" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Airborne_wind_generator-en.svg" class="internal" title="Enlarge"></a></div>
+Airborne wind generator of tumbling-wing style</div>
+</div>
+</div>
+<p>An <b>airborne wind turbine</b> is a design concept for a <a href="/wiki/Wind_turbine" title="Wind turbine">wind turbine</a> with a rotor supported in the air without a tower,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> thus benefiting from more mechanical and aerodynamic options, the higher velocity and persistence of wind at high altitudes, while avoiding the expense of tower construction,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> or the need for <a href="/wiki/Slip_ring" title="Slip ring">slip rings</a> or <a href="/wiki/Yaw_drive" title="Yaw drive">yaw mechanism</a>. An electrical generator may be on the ground or airborne. Challenges include safely suspending and maintaining turbines hundreds of meters off the ground in high winds and storms, transferring the harvested and/or generated power back to earth, and interference with aviation.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>Airborne wind turbines may operate in low or high altitudes; they are part of a wider class of Airborne Wind Energy Systems (AWES) addressed by <a href="/wiki/High-altitude_wind_power" title="High-altitude wind power">high-altitude wind power</a> and <a href="/wiki/Crosswind_kite_power" title="Crosswind kite power">crosswind kite power</a>. When the generator is on the ground,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> then the tethered aircraft need not carry the generator mass or have a conductive tether. When the generator is aloft, then a conductive tether would be used to transmit energy to the ground or used aloft or beamed to receivers using microwave or laser. <a href="/wiki/Kite_flying" class="mw-redirect" title="Kite flying">Kites</a> and 'helicopters' come down when there is insufficient wind; <a href="/wiki/Kytoon" title="Kytoon">kytoons</a> and <a href="/wiki/Blimp" title="Blimp">blimps</a> may resolve the matter with other disadvantages. Also, bad weather such as <a href="/wiki/Lightning" title="Lightning">lightning</a> or <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorms</a>, could temporarily suspend use of the machines, probably requiring them to be brought back down to the ground and covered. Some schemes require a long power cable and, if the turbine is high enough, a <a href="/wiki/Prohibited_airspace" title="Prohibited airspace">prohibited airspace</a> zone. As of July 2015, no commercial airborne wind turbines are in regular operation.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Aerodynamic_variety"><span class="tocnumber">1</span> <span class="toctext">Aerodynamic variety</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Aerostat_variety"><span class="tocnumber">2</span> <span class="toctext">Aerostat variety</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Estimated_costs"><span class="tocnumber">3</span> <span class="toctext">Estimated costs</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Aerodynamic_variety">Aerodynamic variety</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Airborne_wind_turbine&amp;action=edit&amp;section=1" title="Edit section: Aerodynamic variety">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An aerodynamic airborne wind power system relies on the wind for support.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Crosswind_kite_power_station_with_fast_motion_transfer_having_two_wings_offshore.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Crosswind_kite_power_station_with_fast_motion_transfer_having_two_wings_offshore.jpg/300px-Crosswind_kite_power_station_with_fast_motion_transfer_having_two_wings_offshore.jpg" width="300" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Crosswind_kite_power_station_with_fast_motion_transfer_having_two_wings_offshore.jpg/450px-Crosswind_kite_power_station_with_fast_motion_transfer_having_two_wings_offshore.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Crosswind_kite_power_station_with_fast_motion_transfer_having_two_wings_offshore.jpg/600px-Crosswind_kite_power_station_with_fast_motion_transfer_having_two_wings_offshore.jpg 2x" data-file-width="1350" data-file-height="900" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Crosswind_kite_power_station_with_fast_motion_transfer_having_two_wings_offshore.jpg" class="internal" title="Enlarge"></a></div>
+Crosswind kite generator with fast motion transfer</div>
+</div>
+</div>
+<p>Miles L. Loyd proposed and analyzed an efficient AWES in his work "Crosswind Kite Power"<sup id="cite_ref-Loyd_6-0" class="reference"><a href="#cite_note-Loyd-6">[6]</a></sup> in 1980. Power output of AWES with crosswind wing motion is proportional to a square of a lift/drag ratio of the wing. Such AWES is based on the same aerodynamic principles as a conventional wind turbine (AWES), but it is more efficient because the air speed is constant along the wing span and the aerodynamic forces are resisted by tension of a tether, rather than by bending of a tower.</p>
+<p>Bryan Roberts, a professor of engineering at the University of Technology, in Sydney, Australia, has proposed a helicopter-like craft which flies to 15,000 feet (4,600&#160;m) altitude and stays there, held aloft by wings that generate lift from the wind, and held in place by a cable to a <a href="/wiki/Earth_anchor" title="Earth anchor">ground anchor</a>. According to its designers, while some of the energy in the wind would be 'lost' on lift, the constant and potent winds would allow it to generate constant electricity. Since the winds usually blow horizontally, the turbines would be at an angle from the horizontal, catching winds while still generating lift. Deployment could be done by feeding electricity to the turbines, which would turn them into electric motors, lifting the structure into the sky.</p>
+<p>The Dutch ex-<a href="/wiki/Astronaut" title="Astronaut">astronaut</a> and <a href="/wiki/Physicist" title="Physicist">physicist</a> <a href="/wiki/Wubbo_Ockels" title="Wubbo Ockels">Wubbo Ockels</a>, working with the <a href="/wiki/Delft_University_of_Technology" title="Delft University of Technology">Delft University of Technology</a> in the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, has designed and demonstrated<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> an airborne wind turbine he called a "<a href="/wiki/Laddermill" title="Laddermill">Laddermill</a>". It consists of an endless loop of kites. The kites lift up one end of the endless loop (the "ladder"), and the released energy is used to drive an electric generator.</p>
+<p>A September 2009 paper from Carbon Tracking Ltd., Ireland<sup id="cite_ref-OGairbhith2009_8-0" class="reference"><a href="#cite_note-OGairbhith2009-8">[8]</a></sup> has shown the <a href="/wiki/Capacity_factor" title="Capacity factor">capacity factor</a> of a kite using ground-based generation to be 52.2%, which is better than terrestrial wind-farm capacity factors of 30%.</p>
+<p>A team from <a href="/wiki/Worcester_Polytechnic_Institute" title="Worcester Polytechnic Institute">Worcester Polytechnic Institute</a> in the <a href="/wiki/United_States" title="United States">United States</a> has developed a smaller-scale<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> with an estimated output of about 1&#160;kW. It uses a <a href="/wiki/Kitesurfing" title="Kitesurfing">kiteboarding</a> kite to induce a rocking motion in a pivoting beam.</p>
+<p>The <a href="/wiki/KiteGen" title="KiteGen">KiteGen</a> uses a prototype vertical-axis wind turbine (actually a semi-rigid cross wind kite). It is an innovative plan (still in the construction phase) that consists of one wind farm with a vertical spin axis, and employs kites to exploit high-altitude winds. The Kite Wind Generator (KWG) or <a href="/wiki/KiteGen" title="KiteGen">KiteGen</a> is claimed to eliminate all the static and dynamic problems that prevent the increase of the power (in terms of dimensions) obtainable from the traditional horizontal-axis wind turbine generators. Generating equipment would remain on the ground, and only the airfoils are supported by the wind. Such a wind power plant would be capable of producing the energy equivalent to a <a href="/wiki/Nuclear_plant" class="mw-redirect" title="Nuclear plant">nuclear plant</a>, while using an area of few square kilometres, without occupying it exclusively. (The majority of this area can still be used for agriculture, or navigation in the case of an offshore installation.)</p>
+<p>The Rotokite<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> is developed from Gianni Vergnano's idea. It uses aerodynamic profiles similar to kites that have been rotated on their own axis, emulating the performance of a propeller. The use of the rotation principle simplifies the problem of checking the flight of the kites and eliminates the difficulties due to the lengths of cables, enabling the production of wind energy at low cost. The Heli Wind Power is a project of Gianni Vergnano that uses a tethered kite.</p>
+<p>The HAWE System <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> is developed from Tiago Pardal's idea. The System that consists in a Pumping Cycle similar to kite systems. In Generation Phase the pulling force increase 5-10 times due to Magnus Effect of a spinning cylinder(aerial platform), like a kite the pulling force produced by the aerial platform will unwind the cable and generate electricity in the ground.In the Recovery Phase it rewinds the cable with no Magnus Effect in the aerial platform.</p>
+<p>In August 2011 the German company <a href="/wiki/SkySails" title="SkySails">SkySails</a>, producer of kites for ship propulsion, announced a kite-based wind power system for on- and offshore applications that is supposed to be "30% cheaper than current offshore solutions".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>In June 2012, the German company <a href="/wiki/NTS_GmbH" title="NTS GmbH">NTS GmbH</a> had successfully tested <a href="/wiki/X-Wind_technology" title="X-Wind technology">X-Wind technology</a> (spoken: Cross-Wind) on linear rail system in Freidland, Germany. "NTS Energie- und Transportsysteme GmbH" was found in 2006 by Uwe Ahrens.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> <a href="/wiki/X-Wind_technology" title="X-Wind technology">X-Wind technology</a> combines two well-known technologies - automatically steered kites and generators on a closed loop rail system. Closed loop prototype is under construction at Mecklenburg-Vorpommern, Germany.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> This technology allows to harness increasingly stable and constant wind currents at altitudes between 200 and 500m. Technical report readings and measurements show that NTS X-Wind Systems double to triple the efficiency of conventional wind energy systems according to energy production.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>In May 2013, the Californian company <a href="/wiki/Makani_Power" title="Makani Power">Makani Power</a>, developer of some crosswind hybrid kite systems with onboard generator doubling as motor, has been acquired by Google.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>In May 2013, an airborne wind energy system with a ground-based generator using fast motion transfer was suggested by L. Goldstein.<sup id="cite_ref-Goldstein_17-0" class="reference"><a href="#cite_note-Goldstein-17">[17]</a></sup></p>
+<p>In 2015, a sails on rope wind and ocean current energy system was invented by a Taiwanese Johnson Hsu.<a rel="nofollow" class="external autonumber" href="http://www.slideshare.net/ssusera40516/new-green-power">[1]</a></p>
+<p>On 15 December 2015 Windswept and Interesting Ltd<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> demonstrated a "Daisy" kite ring stack airborne wind turbine. The Daisy kite stack demonstrated on 15 December 2015 is the only airborne wind energy system to have won the someawe.org<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> 100*3 AWE challenge. The Daisy system uses tensioned torsion transfer of kite motion to turn a ground based generator.</p>
+<p>Kitemill flies an airplane tethered to a winch powering a 5 kW generator on ground.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h2><span class="mw-headline" id="Aerostat_variety">Aerostat variety</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Airborne_wind_turbine&amp;action=edit&amp;section=2" title="Edit section: Aerostat variety">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An aerostat-type wind power system relies at least in part on <a href="/wiki/Buoyancy" title="Buoyancy">buoyancy</a> to support the wind-collecting elements. Aerostats vary in their designs and resulting <a href="/wiki/Lift-to-drag_ratio" title="Lift-to-drag ratio">lift-to-drag ratio</a>; the kiting effect of higher lift-over-drag shapes for the aerostat can effectively keep an airborne turbine aloft; a variety of such kiting balloons were made famous in the <a href="/wiki/Kytoon" title="Kytoon">kytoon</a> by <a href="/wiki/Domina_Jalbert" title="Domina Jalbert">Domina Jalbert</a>.</p>
+<p><a href="/wiki/Aerostat" title="Aerostat">Balloons</a> can be incorporated to keep systems up without wind, but balloons leak slowly and have to be resupplied with lifting gas, possibly patched as well. Very large, <a href="/wiki/Solar_balloon" title="Solar balloon">sun-heated balloons</a> may solve the helium or hydrogen leakage problems.</p>
+<p>An <a href="/wiki/Ontario" title="Ontario">Ontario</a> based company called Magenn<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> is developing a turbine called the Magenn Air Rotor System (MARS).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> A future 1,000-foot (300&#160;m)-wide MARS system would use a horizontal rotor in a <a href="/wiki/Helium" title="Helium">helium</a> suspended apparatus which is tethered to a transformer on the ground. Magenn claims that their technology provides high torque, low starting speeds, and superior overall efficiency thanks to its ability to deploy higher in comparison to non-aerial solutions.<sup id="cite_ref-magenn_23-0" class="reference"><a href="#cite_note-magenn-23">[23]</a></sup> The first prototypes were built by TCOM<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (July 2012)">who?</span></a></i>]</sup> in April 2008. No production units have been delivered.<sup id="cite_ref-mazzella2008_24-0" class="reference"><a href="#cite_note-mazzella2008-24">[24]</a></sup></p>
+<table class="infobox" style="width:22em;float: right; clear: right; margin:0 0 1.0em 1.0em">
+<caption>External video</caption>
+<tr>
+<td colspan="2" style="text-align:center;text-align: left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/24px-Nuvola_apps_kaboodle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/32px-Nuvola_apps_kaboodle.svg.png 2x" data-file-width="128" data-file-height="128" /> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?feature=player_embedded&amp;v=rsHUALU--Wc">Altaeros Prototype 2012</a></td>
+</tr>
+</table>
+<p>Boston-based Altaeros Energies uses a helium-filled balloon shroud to lift a wind turbine into the air, transferring the resultant power down to a base station through the same cables used to control the shroud. A 35-foot prototype using a standard <a href="/wiki/Southwest_Windpower" title="Southwest Windpower">Skystream 2.5kW 3.7m wind turbine</a> was flown and tested in 2012.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> In fall 2013, Altaeros was at work on its first commercial-scale demonstration in Alaska.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:TWIND3.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TWIND3.JPG/220px-TWIND3.JPG" width="220" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/d/d8/TWIND3.JPG 1.5x" data-file-width="300" data-file-height="257" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:TWIND3.JPG" class="internal" title="Enlarge"></a></div>
+Concept drawing of the Twind technology</div>
+</div>
+</div>
+<p>The <a href="/w/index.php?title=Twind_Technology&amp;action=edit&amp;redlink=1" class="new" title="Twind Technology (page does not exist)">Twind Technology</a> concept uses a pair of captive balloons at an altitude of 800 meters. The tether cables transmit force to a rotating platform on the ground. Each balloon has a sail connected to it. The two balloons move alternately, the balloon with the sail open moves downwind and draws the other balloon upwind, and then the motion reverses. The tether cable can be used to turn the shaft of a generator to produce electrical energy or perform other works (grinding, sawing, pumping).</p>
+<h2><span class="mw-headline" id="Estimated_costs">Estimated costs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Airborne_wind_turbine&amp;action=edit&amp;section=3" title="Edit section: Estimated costs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Peer-reviewed papers show that some types of AWES can produce energy ten times cheaper than conventional wind turbines,<sup id="cite_ref-Goldstein_17-1" class="reference"><a href="#cite_note-Goldstein-17">[17]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> which is less than $0.02 per kWh.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Airborne_wind_turbine&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Crosswind_kite_power" title="Crosswind kite power">Crosswind kite power</a></li>
+<li><a href="/wiki/High-altitude_wind_power" title="High-altitude wind power">High-altitude wind power</a></li>
+<li><a href="/wiki/Kite" title="Kite">Kite</a></li>
+<li><a href="/wiki/Kite_applications" title="Kite applications">Kite applications</a></li>
+<li><a href="/wiki/Kite_mooring" title="Kite mooring">Kite mooring</a></li>
+<li><a href="/wiki/Kite_types" title="Kite types">Kite types</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Airborne_wind_turbine&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news">Elliot, Dave (2014-04-12). <a rel="nofollow" class="external text" href="http://blog.environmentalresearchweb.org/2014/04/12/flights-of-fancy-airborne-wind-turbines/">"Flights of fancy: airborne wind turbines"</a>. <i>Institute of Physics, Environmental Research Web</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAirborne+wind+turbine&amp;rft.atitle=Flights+of+fancy%3A+airborne+wind+turbines&amp;rft.aufirst=Dave&amp;rft.aulast=Elliot&amp;rft.date=2014-04-12&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblog.environmentalresearchweb.org%2F2014%2F04%2F12%2Fflights-of-fancy-airborne-wind-turbines%2F&amp;rft.jtitle=Institute+of+Physics%2C+Environmental+Research+Web&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Michael Specter, "Wind Power Takes Flight", <i>The New Yorker</i> May 20, 2013 <a rel="nofollow" class="external text" href="http://www.newyorker.com/reporting/2013/05/20/130520fa_fact_specter">behind paywall</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Levitan, David (2012-09-24). <a rel="nofollow" class="external text" href="http://e360.yale.edu/feature/high_altitude_wind_energy_huge_potential_and_hurdles/2576/">"High-Altitude Wind Energy: Huge Potential — And Hurdles"</a>. <i>Environment 360</i>. <q>How do you safely suspend airborne turbines hundreds or thousands of feet off the ground? How do you keep them aloft for long periods of time in high winds without having to perform frequent, costly maintenance? And what about interference with aviation?</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAirborne+wind+turbine&amp;rft.atitle=High-Altitude+Wind+Energy%3A+Huge+Potential+%94+And+Hurdles&amp;rft.aufirst=David&amp;rft.aulast=Levitan&amp;rft.date=2012-09-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fe360.yale.edu%2Ffeature%2Fhigh_altitude_wind_energy_huge_potential_and_hurdles%2F2576%2F&amp;rft.jtitle=Environment+360&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.energykitesystems.net/0/methods/index.html">Airborne Wind Energy Generation Systems</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ac.els-cdn.com/S1364032115007005/1-s2.0-S1364032115007005-main.pdf?_tid=4919600e-0bc8-11e6-bf67-00000aab0f02&amp;acdnat=1461686733_a8f25d0787b25f451227cb02ac6376f0">Airborne Wind Energy Systems, a review of the technologies</a>, A. cherubini, A. Papini, R. Vertechy, M.Fontana, Renewable and Sustainable Energy Reviews, 2015</span></li>
+<li id="cite_note-Loyd-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Loyd_6-0">^</a></b></span> <span class="reference-text">M. Loyd, <a rel="nofollow" class="external text" href="http://homes.esat.kuleuven.be/~highwind/wp-content/uploads/2011/07/Loyd1980.pdf">"Crosswind Kite Power"</a>, J. Energy, vol. 4, no. 3, pp. 106-111, 1980</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Jha, Alok (3 August 2008). <a rel="nofollow" class="external text" href="https://www.theguardian.com/environment/2008/aug/03/renewableenergy.energy">"Giant kites to tap power of the high wind"</a>. <i>The Guardian</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAirborne+wind+turbine&amp;rft.atitle=Giant+kites+to+tap+power+of+the+high+wind&amp;rft.aufirst=Alok&amp;rft.aulast=Jha&amp;rft.date=2008-08-03&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2F2008%2Faug%2F03%2Frenewableenergy.energy&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-OGairbhith2009-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-OGairbhith2009_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web">O'Gairbhith, Colm (2009-09-11). <a rel="nofollow" class="external text" href="http://carbontracking.com/reports/High_Altitude_Wind_Resource_in_Ireland.pdf">"Assessing the Viability of High Altitude Wind Resources in Ireland"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAirborne+wind+turbine&amp;rft.aufirst=Colm&amp;rft.aulast=O%27Gairbhith&amp;rft.btitle=Assessing+the+Viability+of+High+Altitude+Wind+Resources+in+Ireland&amp;rft.date=2009-09-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcarbontracking.com%2Freports%2FHigh_Altitude_Wind_Resource_in_Ireland.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110720120731/http://www2.me.wpi.edu/wpi-kites/index.php/Main_Page">"Welcome to the WPI Kite Power Wiki"</a>. Archived from the original on 2011-07-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAirborne+wind+turbine&amp;rft.btitle=Welcome+to+the+WPI+Kite+Power+Wiki&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww2.me.wpi.edu%2Fwpi-kites%2Findex.php%2FMain_Page&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: BOT: original-url status unknown (<a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">link</a>)</span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://xercesblue.org/www_xercesblue_org_file/rotokite_ita.pdf">Rotokite</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.omnidea.net/site/index.php/research/wind-energy">HAWE system Omnidea</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.skysails.info/english/power/power-system/">http://www.skysails.info/english/power/power-system/</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.x-wind.de/index.php/en/">http://www.x-wind.de/index.php/en/</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cleantech.com/wp-content/uploads/2013/05/Uwe_Ahrens_NTS.pdf">http://www.cleantech.com/wp-content/uploads/2013/05/Uwe_Ahrens_NTS.pdf</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cleantech.com/wp-content/uploads/2013/04/NTS-Airborne-Executive-Summary.pdf">http://www.cleantech.com/wp-content/uploads/2013/04/NTS-Airborne-Executive-Summary.pdf</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.businessweek.com/articles/2013-05-22/inside-googles-secret-lab">http://www.businessweek.com/articles/2013-05-22/inside-googles-secret-lab</a></span></li>
+<li id="cite_note-Goldstein-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Goldstein_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Goldstein_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">L. Goldstein, <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016/j.energy.2013.03.087">"Theoretical analysis of an airborne wind energy conversion system with a ground generator and fast motion transfer"</a>, Energy, Int. J, 2013.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.windswept-and-interesting.co.uk">http://www.windswept-and-interesting.co.uk</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.someawe.org/topic/3/awe-challenge">http://www.someawe.org/topic/3/awe-challenge</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tu.no/artikler/da-finansieringsplan-a-og-b-rok-fridde-det-norske-vindkraftselskapet-kitemill-til-folket/367423">"77 folkeinvestorer skal holde det svevende, norske kraftverket i himmelen hele døgnet, hele året"</a>. <i><a href="/wiki/Teknisk_Ukeblad" title="Teknisk Ukeblad">Teknisk Ukeblad</a></i>. 11 January 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">11 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAirborne+wind+turbine&amp;rft.atitle=77+folkeinvestorer+skal+holde+det+svevende%2C+norske+kraftverket+i+himmelen+hele+d%C3%B8gnet%2C+hele+%C3%A5ret&amp;rft.date=2017-01-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tu.no%2Fartikler%2Fda-finansieringsplan-a-og-b-rok-fridde-det-norske-vindkraftselskapet-kitemill-til-folket%2F367423&amp;rft.jtitle=Teknisk+Ukeblad&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thewallnut.eu/2011/11/15/magenn-power/">"Magenn Air Rotor System" (broken link)</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://latesttechnology-world.blogspot.com/2013/07/magenn-air-rotor-system-mars_18.html">Technical World: Magenn Air Rotor System</a></span></li>
+<li id="cite_note-magenn-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-magenn_23-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.magenn.com">"Magenn Power Inc. corporate website"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081211041521/http://www.magenn.com/">Archived</a> from the original on 11 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">December 14,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAirborne+wind+turbine&amp;rft.btitle=Magenn+Power+Inc.+corporate+website&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.magenn.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mazzella2008-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-mazzella2008_24-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Mazzella, Diana (2008-04-03). <a rel="nofollow" class="external text" href="http://www.dailyadvance.com/news/content/news/stories/2008/04/03/0403turbineDM.html?cxtype=rss&amp;cxsvc=7&amp;cxcat=7">"Airborne turbine tested at TCOM; Magenn: MARS makes wind power mobile"</a>. <a href="/wiki/The_News_%26_Advance" title="The News &amp; Advance">The Daily Advance</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAirborne+wind+turbine&amp;rft.aufirst=Diana&amp;rft.aulast=Mazzella&amp;rft.btitle=Airborne+turbine+tested+at+TCOM%3B+Magenn%3A+MARS+makes+wind+power+mobile&amp;rft.date=2008-04-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dailyadvance.com%2Fnews%2Fcontent%2Fnews%2Fstories%2F2008%2F04%2F03%2F0403turbineDM.html%3Fcxtype%3Drss%26cxsvc%3D7%26cxcat%3D7&amp;rft.pub=The+Daily+Advance&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Boyer, Mark. <a rel="nofollow" class="external text" href="http://inhabitat.com/altaeros-energies-floating-wind-turbines-tap-into-strong-high-altitude-winds/">"Altaeros Energies’ Floating Wind Turbines Tap Into Strong High Altitude Winds"</a> <i><a href="/wiki/Inhabitat" title="Inhabitat">Inhabitat</a></i>, 28 March 2012. Retrieved: 9 July 2012.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Slice of MIT. "Two Alums Dream of Tethered Aerostat Wind Farms." <a rel="nofollow" class="external free" href="http://alum.mit.edu/pages/sliceofmit/2013/09/04/two-alums-dreaming-of-tethered-aerostat-wind-farms/">http://alum.mit.edu/pages/sliceofmit/2013/09/04/two-alums-dreaming-of-tethered-aerostat-wind-farms/</a> Retrieved 2013-09-05.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Diane Cardwell. <a rel="nofollow" class="external text" href="https://www.nytimes.com/2014/03/21/business/energy-environment/wind-industrys-new-technologies-are-helping-it-compete-on-price.html">"Wind Industry’s New Technologies Are Helping It Compete on Price"</a>. New York Times. 2014.</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">L. Goldstein, <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007/978-3-642-39965-7_13">"Airborne Wind Energy Conversion Systems with Ultra High Speed Mechanical Power Transfer"</a> in Ahrens, U., Schmehl, R., Diehl, M. (Ed.): Airborne Wind Energy. Springer, Berlin (2013)</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Airborne_wind_turbine&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://energykitesystems.net/">Energy Kite Systems</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.awelabs.com/why-airborne-wind-energy/">Why Airborne Wind Energy</a> Airborne Wind Energy Labs</li>
+<li><a rel="nofollow" class="external text" href="https://www.wired.com/science/discoveries/news/2006/10/71908">Wired Magazine</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nature.com/news/2009/090729/full/460564a.html">Wind Power: High hopes</a> Nature article</li>
+<li><a rel="nofollow" class="external text" href="http://news.stanford.edu/news/2009/june24/high-altitude-winds-062309.html">High-altitude winds: The greatest source of concentrated energy on Earth</a> (Stanford Report, June 2009)</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Wind_power" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wind_power" title="Template:Wind power"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wind_power" title="Template talk:Wind power"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wind_power&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Wind_power" style="font-size:114%"><a href="/wiki/Wind_power" title="Wind power">Wind power</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Wind_power" title="Category:Wind power">Wind power</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Environmental_impact_of_wind_power" title="Environmental impact of wind power">Environmental impact</a></li>
+<li><a href="/wiki/High-altitude_wind_power" title="High-altitude wind power">High-altitude</a></li>
+<li><a href="/wiki/History_of_wind_power" title="History of wind power">History</a></li>
+<li><a href="/wiki/Wind-powered_vehicle" title="Wind-powered vehicle">Land vehicles</a></li>
+<li><a href="/wiki/Offshore_wind_power" title="Offshore wind power">Offshore</a></li>
+<li><a href="/wiki/Wind_turbine" title="Wind turbine">Turbines</a>
+<ul>
+<li><a href="/wiki/Wind_turbines_on_public_display" title="Wind turbines on public display">on public display</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Windmill" title="Windmill">Windmill</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Wind-turbine-icon.svg" class="image" title="Illustration of a wind turbine"><img alt="Illustration of a wind turbine" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/100px-Wind-turbine-icon.svg.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/150px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/200px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Wind_turbines" title="Category:Wind turbines">Wind turbines</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wind-turbine_aerodynamics" title="Wind-turbine aerodynamics">Aerodynamics</a></li>
+<li><strong class="selflink">Airborne</strong></li>
+<li><a href="/wiki/Crosswind_kite_power" title="Crosswind kite power">Crosswind kite</a></li>
+<li><a href="/wiki/Darrieus_wind_turbine" title="Darrieus wind turbine">Darrieus</a></li>
+<li><a href="/wiki/Wind_turbine_design" title="Wind turbine design">Design</a></li>
+<li><a href="/wiki/Floating_wind_turbine" title="Floating wind turbine">Floating</a></li>
+<li><a href="/wiki/Savonius_wind_turbine" title="Savonius wind turbine">Savonius</a></li>
+<li><a href="/wiki/Small_wind_turbine" title="Small wind turbine">Small</a></li>
+<li><a href="/wiki/Unconventional_wind_turbines" title="Unconventional wind turbines">Unconventional</a></li>
+<li><a href="/wiki/Vertical_axis_wind_turbine" title="Vertical axis wind turbine">Vertical axis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Wind_power_industry" title="Wind power industry">Wind power industry</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_wind_power_consulting_companies" title="List of wind power consulting companies">Consulting companies</a></li>
+<li><a href="/wiki/Wind_farm_management" title="Wind farm management">Farm management</a></li>
+<li><a href="/wiki/List_of_wind_turbine_manufacturers" title="List of wind turbine manufacturers">Manufacturers</a></li>
+<li><a href="/wiki/Wind_energy_software" title="Wind energy software">Software</a></li>
+<li><a href="/wiki/Windmade" title="Windmade">Windmade</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Wind_farm" title="Wind farm">Wind farms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Community_wind_energy" title="Community wind energy">Community-owned</a></li>
+<li><a href="/wiki/Lists_of_wind_farms_by_country" title="Lists of wind farms by country">Farms by country</a></li>
+<li><a href="/wiki/List_of_offshore_wind_farms" title="List of offshore wind farms">Offshore farms</a>
+<ul>
+<li><a href="/wiki/Lists_of_offshore_wind_farms_by_country" title="Lists of offshore wind farms by country">by country</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_onshore_wind_farms" title="List of onshore wind farms">Onshore farms</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Betz%27s_law" title="Betz's law">Betz's law</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Wind_power_forecasting" title="Wind power forecasting">Forecasting</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid energy storage</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">HVDC</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+<li><a href="/wiki/Laddermill" title="Laddermill">Laddermill</a></li>
+<li><a href="/wiki/Net_energy_gain" title="Net energy gain">Net energy gain</a></li>
+<li><a href="/wiki/Wind_resource_assessment" title="Wind resource assessment">Resource assessment</a></li>
+<li><a href="/wiki/Energy_storage" title="Energy storage">Storage</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Subsidies</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+<li><a href="/wiki/Wind_hybrid_power_systems" title="Wind hybrid power systems">Wind hybrid power systems</a></li>
+<li><a href="/wiki/Wind_profile_power_law" title="Wind profile power law">Wind profile power law</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Emerging_technologies" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="text-align: center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Emerging_technologies" title="Template:Emerging technologies"><abbr title="View this template" style="text-align: center;;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Emerging_technologies" title="Template talk:Emerging technologies"><abbr title="Discuss this template" style="text-align: center;;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Emerging_technologies&amp;action=edit"><abbr title="Edit this template" style="text-align: center;;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Emerging_technologies" style="font-size:114%"><a href="/wiki/Emerging_technologies" title="Emerging technologies">Emerging technologies</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="text-align: center;">
+<div><a href="/wiki/Technology" title="Technology">Technology</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Agriculture" title="Agriculture">Agriculture</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agricultural_robot" title="Agricultural robot">Agricultural robot</a></li>
+<li><a href="/wiki/Closed_ecological_system" title="Closed ecological system">Closed ecological systems</a></li>
+<li><a href="/wiki/Cultured_meat" title="Cultured meat">Cultured meat</a></li>
+<li><a href="/wiki/Genetically_modified_food" title="Genetically modified food">Genetically modified food</a></li>
+<li><a href="/wiki/Precision_agriculture" title="Precision agriculture">Precision agriculture</a></li>
+<li><a href="/wiki/Vertical_farming" title="Vertical farming">Vertical farming</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Architecture" title="Architecture">Architecture</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arcology" title="Arcology">Arcology</a></li>
+<li><a href="/wiki/Building_printing" class="mw-redirect" title="Building printing">Building printing</a>
+<ul>
+<li><a href="/wiki/Contour_crafting" title="Contour crafting">Contour crafting</a></li>
+<li><a href="/wiki/D-Shape" title="D-Shape">D-Shape</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Domed_city" title="Domed city">Domed city</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Biomedical_technology" title="Biomedical technology">Biomedical</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artificial_uterus" title="Artificial uterus">Artificial uterus</a></li>
+<li><a href="/wiki/Ampakine" title="Ampakine">Ampakine</a></li>
+<li><a href="/wiki/Brain_transplant" title="Brain transplant">Brain transplant</a></li>
+<li><a href="/wiki/Cryonics" title="Cryonics">Cryonics</a>
+<ul>
+<li><a href="/wiki/Cryoprotectant" title="Cryoprotectant">Cryoprotectant</a></li>
+<li><a href="/wiki/Cryopreservation" title="Cryopreservation">Cryopreservation</a></li>
+<li><a href="/wiki/Vitrification" title="Vitrification">Vitrification</a></li>
+<li><a href="/wiki/Suspended_animation" title="Suspended animation">Suspended animation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/De-extinction" title="De-extinction">De-extinction</a></li>
+<li><a href="/wiki/Genetic_engineering" title="Genetic engineering">Genetic engineering</a>
+<ul>
+<li><a href="/wiki/Gene_therapy" title="Gene therapy">Gene therapy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Head_transplant" title="Head transplant">Head transplant</a></li>
+<li><a href="/wiki/Isolated_brain" title="Isolated brain">Isolated brain</a></li>
+<li><a href="/wiki/Life_extension" title="Life extension">Life extension</a>
+<ul>
+<li><a href="/wiki/Strategies_for_Engineered_Negligible_Senescence" title="Strategies for Engineered Negligible Senescence">Strategies for Engineered Negligible Senescence</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nanomedicine" title="Nanomedicine">Nanomedicine</a></li>
+<li><a href="/wiki/Nanosensor" title="Nanosensor">Nanosensors</a></li>
+<li><a href="/wiki/Personalized_medicine" title="Personalized medicine">Personalized medicine</a></li>
+<li><a href="/wiki/Regenerative_medicine" title="Regenerative medicine">Regenerative medicine</a>
+<ul>
+<li><a href="/wiki/Stem-cell_therapy" title="Stem-cell therapy">Stem-cell therapy</a></li>
+<li><a href="/wiki/Tissue_engineering" title="Tissue engineering">Tissue engineering</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Robot-assisted_surgery" title="Robot-assisted surgery">Robot-assisted surgery</a></li>
+<li><a href="/wiki/Synthetic_biology" title="Synthetic biology">Synthetic biology</a>
+<ul>
+<li><a href="/wiki/Synthetic_genomics" title="Synthetic genomics">Synthetic genomics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Virotherapy" title="Virotherapy">Virotherapy</a>
+<ul>
+<li><a href="/wiki/Oncolytic_virus" title="Oncolytic virus">Oncolytic virus</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Medical_tricorder" title="Medical tricorder">Tricorder</a></li>
+<li><a href="/wiki/Whole_genome_sequencing" title="Whole genome sequencing">Whole genome sequencing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Displays</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Next_generation_of_display_technology" title="Next generation of display technology">Next generation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Field_emission_display" title="Field emission display">FED</a></li>
+<li><a href="/wiki/Ferro_Liquid_Crystal_Display" class="mw-redirect" title="Ferro Liquid Crystal Display">FLCD</a></li>
+<li><a href="/wiki/Interferometric_modulator_display" title="Interferometric modulator display">iMoD</a></li>
+<li><a href="/wiki/Laser_video_display" title="Laser video display">Laser</a></li>
+<li><a href="/wiki/Laser-powered_phosphor_display" title="Laser-powered phosphor display">LPD</a></li>
+<li><a href="/wiki/OLED" title="OLED">OLED</a></li>
+<li><a href="/wiki/Organic_light-emitting_transistor" title="Organic light-emitting transistor">OLET</a></li>
+<li><a href="/wiki/Quantum_dot_display" title="Quantum dot display">QD-LED</a></li>
+<li><a href="/wiki/Surface-conduction_electron-emitter_display" title="Surface-conduction electron-emitter display">SED</a></li>
+<li><a href="/wiki/Telescopic_pixel_display" title="Telescopic pixel display">TPD</a></li>
+<li><a href="/wiki/Thick-film_dielectric_electroluminescent_technology" title="Thick-film dielectric electroluminescent technology">TDEL</a></li>
+<li><a href="/wiki/Time-multiplexed_optical_shutter" title="Time-multiplexed optical shutter">TMOS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Screenless" title="Screenless">Screenless</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bionic_contact_lens" title="Bionic contact lens">Bionic contact lens</a></li>
+<li><a href="/wiki/Head-mounted_display" title="Head-mounted display">Head-mounted display</a></li>
+<li><a href="/wiki/Head-up_display" title="Head-up display">Head-up display</a></li>
+<li><a href="/wiki/Optical_head-mounted_display" title="Optical head-mounted display">Optical head-mounted display</a></li>
+<li><a href="/wiki/Virtual_retinal_display" title="Virtual retinal display">Virtual retinal display</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autostereoscopy" title="Autostereoscopy">Autostereoscopy</a></li>
+<li><a href="/wiki/Flexible_display" title="Flexible display">Flexible display</a></li>
+<li><a href="/wiki/Holographic_display" title="Holographic display">Holographic display</a>
+<ul>
+<li><a href="/wiki/Computer-generated_holography" title="Computer-generated holography">Computer-generated holography</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Multi-primary_color_display" title="Multi-primary color display">Multi-primary color display</a></li>
+<li><a href="/wiki/Ultra-high-definition_television" title="Ultra-high-definition television">Ultra HD</a></li>
+<li><a href="/wiki/Volumetric_display" title="Volumetric display">Volumetric display</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Electronics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electronic_nose" title="Electronic nose">Electronic nose</a></li>
+<li><a href="/wiki/E-textiles" title="E-textiles">E-textiles</a></li>
+<li><a href="/wiki/Flexible_electronics" title="Flexible electronics">Flexible electronics</a></li>
+<li><a href="/wiki/Molecular_electronics" title="Molecular electronics">Molecular electronics</a></li>
+<li><a href="/wiki/Nanoelectromechanical_systems" title="Nanoelectromechanical systems">Nanoelectromechanical systems</a></li>
+<li><a href="/wiki/Memristor" title="Memristor">Memristor</a></li>
+<li><a href="/wiki/Spintronics" title="Spintronics">Spintronics</a></li>
+<li><a href="/wiki/Thermal_copper_pillar_bump" title="Thermal copper pillar bump">Thermal copper pillar bump</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Production</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Airborne wind turbine</strong></li>
+<li><a href="/wiki/Artificial_photosynthesis" title="Artificial photosynthesis">Artificial photosynthesis</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuels</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">Concentrated solar power</a></li>
+<li><a href="/wiki/Fusion_power" title="Fusion power">Fusion power</a></li>
+<li><a href="/wiki/Home_fuel_cell" title="Home fuel cell">Home fuel cell</a></li>
+<li><a href="/wiki/Hydrogen_economy" title="Hydrogen economy">Hydrogen economy</a></li>
+<li><a href="/wiki/Methanol_economy" title="Methanol economy">Methanol economy</a></li>
+<li><a href="/wiki/Molten_salt_reactor" title="Molten salt reactor">Molten salt reactor</a></li>
+<li><a href="/wiki/Nantenna" class="mw-redirect" title="Nantenna">Nantenna</a></li>
+<li><a href="/wiki/Photovoltaic_pavement" class="mw-redirect" title="Photovoltaic pavement">Photovoltaic pavement</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+<li><a href="/wiki/Vortex_engine" title="Vortex engine">Vortex engine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Storage</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lithium_iron_phosphate_battery" title="Lithium iron phosphate battery">Beltway battery</a></li>
+<li><a href="/wiki/Compressed_air_energy_storage" title="Compressed air energy storage">Compressed air energy storage</a></li>
+<li><a href="/wiki/Flywheel_energy_storage" title="Flywheel energy storage">Flywheel energy storage</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid energy storage</a></li>
+<li><a href="/wiki/Lithium%E2%80%93air_battery" title="Lithium–air battery">Lithium–air battery</a></li>
+<li><a href="/wiki/Molten_salt_battery" title="Molten salt battery">Molten salt battery</a></li>
+<li><a href="/wiki/Nanowire_battery" title="Nanowire battery">Nanowire battery</a></li>
+<li><a href="/wiki/Research_in_lithium-ion_batteries" title="Research in lithium-ion batteries">Research in lithium-ion batteries</a></li>
+<li><a href="/wiki/Silicon%E2%80%93air_battery" title="Silicon–air battery">Silicon–air battery</a></li>
+<li><a href="/wiki/Thermal_energy_storage" title="Thermal energy storage">Thermal energy storage</a></li>
+<li><a href="/wiki/Electric_double-layer_capacitor" title="Electric double-layer capacitor">Ultracapacitor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Wireless_power" class="mw-redirect" title="Wireless power">Wireless power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Information_and_communications_technology" title="Information and communications technology">IT and<br />
+communications</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ambient_intelligence" title="Ambient intelligence">Ambient intelligence</a>
+<ul>
+<li><a href="/wiki/Internet_of_Things" class="mw-redirect" title="Internet of Things">Internet of Things</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a>
+<ul>
+<li><a href="/wiki/Applications_of_artificial_intelligence" title="Applications of artificial intelligence">Applications of artificial intelligence</a></li>
+<li><a href="/wiki/Progress_in_artificial_intelligence" title="Progress in artificial intelligence">Progress in artificial intelligence</a></li>
+<li><a href="/wiki/Machine_translation" title="Machine translation">Machine translation</a></li>
+<li><a href="/wiki/Machine_vision" title="Machine vision">Machine vision</a></li>
+<li><a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a></li>
+<li><a href="/wiki/Speech_recognition" title="Speech recognition">Speech recognition</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Atomtronics" title="Atomtronics">Atomtronics</a></li>
+<li><a href="/wiki/Carbon_nanotube_field-effect_transistor" title="Carbon nanotube field-effect transistor">Carbon nanotube field-effect transistor</a></li>
+<li><a href="/wiki/Cybermethodology" title="Cybermethodology">Cybermethodology</a></li>
+<li><a href="/wiki/Optical_disc#Fourth-generation" title="Optical disc">Fourth-generation optical discs</a>
+<ul>
+<li><a href="/wiki/3D_optical_data_storage" title="3D optical data storage">3D optical data storage</a></li>
+<li><a href="/wiki/Holographic_data_storage" title="Holographic data storage">Holographic data storage</a></li>
+</ul>
+</li>
+<li><a href="/wiki/General-purpose_computing_on_graphics_processing_units" title="General-purpose computing on graphics processing units">GPGPU</a></li>
+<li>Memory
+<ul>
+<li><a href="/wiki/Programmable_metallization_cell" title="Programmable metallization cell">CBRAM</a></li>
+<li><a href="/wiki/Ferroelectric_RAM" title="Ferroelectric RAM">FRAM</a></li>
+<li><a href="/wiki/Millipede_memory" title="Millipede memory">Millipede</a></li>
+<li><a href="/wiki/Magnetoresistive_random-access_memory" title="Magnetoresistive random-access memory">MRAM</a></li>
+<li><a href="/wiki/Nano-RAM" title="Nano-RAM">NRAM</a></li>
+<li><a href="/wiki/Phase-change_memory" title="Phase-change memory">PRAM</a></li>
+<li><a href="/wiki/Racetrack_memory" title="Racetrack memory">Racetrack memory</a></li>
+<li><a href="/wiki/Resistive_random-access_memory" title="Resistive random-access memory">RRAM</a></li>
+<li><a href="/wiki/SONOS" title="SONOS">SONOS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Optical_computing" title="Optical computing">Optical computing</a></li>
+<li><a href="/wiki/Quantum_computing" title="Quantum computing">Quantum computing</a></li>
+<li><a href="/wiki/Quantum_cryptography" title="Quantum cryptography">Quantum cryptography</a></li>
+<li><a href="/wiki/Radio-frequency_identification" title="Radio-frequency identification">RFID</a>
+<ul>
+<li><a href="/wiki/Chipless_RFID" title="Chipless RFID">Chipless RFID</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Software-defined_radio" title="Software-defined radio">Software-defined radio</a></li>
+<li><a href="/wiki/Three-dimensional_integrated_circuit" title="Three-dimensional integrated circuit">Three-dimensional integrated circuit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Manufacturing</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/3D_printing" title="3D printing">3D printing</a></li>
+<li><a href="/wiki/Claytronics" title="Claytronics">Claytronics</a></li>
+<li><a href="/wiki/Molecular_assembler" title="Molecular assembler">Molecular assembler</a></li>
+<li><a href="/wiki/Utility_fog" title="Utility fog">Utility fog</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Materials_science" title="Materials science">Materials science</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aerogel" title="Aerogel">Aerogel</a></li>
+<li><a href="/wiki/Amorphous_metal" title="Amorphous metal">Amorphous metal</a></li>
+<li><a href="/wiki/Artificial_muscle" title="Artificial muscle">Artificial muscle</a></li>
+<li><a href="/wiki/Conductive_polymer" title="Conductive polymer">Conductive polymer</a></li>
+<li><a href="/wiki/Femtotechnology" title="Femtotechnology">Femtotechnology</a></li>
+<li><a href="/wiki/Fullerene" title="Fullerene">Fullerene</a></li>
+<li><a href="/wiki/Graphene" title="Graphene">Graphene</a></li>
+<li><a href="/wiki/High-temperature_superconductivity" title="High-temperature superconductivity">High-temperature superconductivity</a></li>
+<li><a href="/wiki/Superfluidity" title="Superfluidity">High-temperature superfluidity</a></li>
+<li><a href="/wiki/Linear_acetylenic_carbon" title="Linear acetylenic carbon">Linear acetylenic carbon</a></li>
+<li><a href="/wiki/Metamaterial" title="Metamaterial">Metamaterials</a>
+<ul>
+<li><a href="/wiki/Metamaterial_cloaking" title="Metamaterial cloaking">Metamaterial cloaking</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Metal_foam" title="Metal foam">Metal foam</a></li>
+<li><a href="/wiki/Multi-function_structure" title="Multi-function structure">Multi-function structures</a></li>
+<li><a href="/wiki/Nanotechnology" title="Nanotechnology">Nanotechnology</a>
+<ul>
+<li><a href="/wiki/Carbon_nanotube" title="Carbon nanotube">Carbon nanotubes</a></li>
+<li><a href="/wiki/Molecular_nanotechnology" title="Molecular nanotechnology">Molecular nanotechnology</a></li>
+<li><a href="/wiki/Nanomaterials" title="Nanomaterials">Nanomaterials</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Picotechnology" title="Picotechnology">Picotechnology</a></li>
+<li><a href="/wiki/Programmable_matter" title="Programmable matter">Programmable matter</a></li>
+<li><a href="/wiki/Quantum_dot" title="Quantum dot">Quantum dots</a></li>
+<li><a href="/wiki/Silicene" title="Silicene">Silicene</a></li>
+<li><a href="/wiki/Superalloy" title="Superalloy">Superalloy</a></li>
+<li><a href="/wiki/Synthetic_diamond" title="Synthetic diamond">Synthetic diamond</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Military_technology" title="Military technology">Military</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antimatter_weapon" title="Antimatter weapon">Antimatter weapon</a></li>
+<li><a href="/wiki/Caseless_ammunition" title="Caseless ammunition">Caseless ammunition</a></li>
+<li><a href="/wiki/Directed-energy_weapon" title="Directed-energy weapon">Directed-energy weapon</a>
+<ul>
+<li><a href="/wiki/Laser" title="Laser">Laser</a></li>
+<li><a href="/wiki/Maser" title="Maser">Maser</a></li>
+<li><a href="/wiki/Particle-beam_weapon" title="Particle-beam weapon">Particle-beam weapon</a></li>
+<li><a href="/wiki/Sonic_weapon" title="Sonic weapon">Sonic weapon</a></li>
+<li><a href="/wiki/Coilgun" title="Coilgun">Coilgun</a></li>
+<li><a href="/wiki/Railgun" title="Railgun">Railgun</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Plasma_weapon" title="Plasma weapon">Plasma weapon</a></li>
+<li><a href="/wiki/Pure_fusion_weapon" title="Pure fusion weapon">Pure fusion weapon</a></li>
+<li><a href="/wiki/Stealth_technology" title="Stealth technology">Stealth technology</a></li>
+<li><a href="/wiki/Vortex_ring_gun" title="Vortex ring gun">Vortex ring gun</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Neuroscience" title="Neuroscience">Neuroscience</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artificial_brain" title="Artificial brain">Artificial brain</a>
+<ul>
+<li><a href="/wiki/Blue_Brain_Project" title="Blue Brain Project">Blue Brain Project</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Brain%E2%80%93computer_interface" title="Brain–computer interface">Brain–computer interface</a></li>
+<li><a href="/wiki/Electroencephalography" title="Electroencephalography">Electroencephalography</a></li>
+<li><a href="/wiki/Mind_uploading" title="Mind uploading">Mind uploading</a>
+<ul>
+<li><a href="/wiki/Brain-reading" title="Brain-reading">Brain-reading</a></li>
+<li><a href="/wiki/Neuroinformatics" title="Neuroinformatics">Neuroinformatics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Neuroprosthetics" title="Neuroprosthetics">Neuroprosthetics</a>
+<ul>
+<li><a href="/wiki/Visual_prosthesis" title="Visual prosthesis">Bionic eye</a></li>
+<li><a href="/wiki/Brain_implant" title="Brain implant">Brain implant</a></li>
+<li><a href="/wiki/Exocortex" title="Exocortex">Exocortex</a></li>
+<li><a href="/wiki/Retinal_implant" title="Retinal implant">Retinal implant</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Future_of_robotics" class="mw-redirect" title="Future of robotics">Robotics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Home_automation" title="Home automation">Domotics</a></li>
+<li><a href="/wiki/Nanorobotics" title="Nanorobotics">Nanorobotics</a></li>
+<li><a href="/wiki/Powered_exoskeleton" title="Powered exoskeleton">Powered exoskeleton</a></li>
+<li><a href="/wiki/Self-reconfiguring_modular_robot" title="Self-reconfiguring modular robot">Self-reconfiguring modular robot</a></li>
+<li><a href="/wiki/Swarm_robotics" title="Swarm robotics">Swarm robotics</a></li>
+<li><a href="/wiki/Uncrewed_vehicle" title="Uncrewed vehicle">Uncrewed vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Outline_of_space_science" title="Outline of space science">Space science</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Space_launch" title="Space launch">Launch</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fusion_rocket" title="Fusion rocket">Fusion rocket</a></li>
+<li><a href="/wiki/Non-rocket_spacelaunch" title="Non-rocket spacelaunch">Non-rocket spacelaunch</a>
+<ul>
+<li><a href="/wiki/Mass_driver" title="Mass driver">Mass driver</a></li>
+<li><a href="/wiki/Orbital_ring" title="Orbital ring">Orbital ring</a></li>
+<li><a href="/wiki/Space_elevator" title="Space elevator">Space elevator</a></li>
+<li><a href="/wiki/Space_fountain" title="Space fountain">Space fountain</a></li>
+<li><a href="/wiki/Space_tether" title="Space tether">Space tether</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Reusable_launch_system" title="Reusable launch system">Reusable launch system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Spacecraft_propulsion" title="Spacecraft propulsion">Propulsion</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beam-powered_propulsion" title="Beam-powered propulsion">Beam-powered propulsion</a></li>
+<li><a href="/wiki/Ion_thruster" title="Ion thruster">Ion thruster</a></li>
+<li><a href="/wiki/Laser_propulsion" title="Laser propulsion">Laser propulsion</a></li>
+<li><a href="/wiki/Plasma_propulsion_engine" title="Plasma propulsion engine">Plasma propulsion engine</a>
+<ul>
+<li><a href="/wiki/Helicon_double-layer_thruster" title="Helicon double-layer thruster">Helicon thruster</a></li>
+<li><a href="/wiki/Variable_Specific_Impulse_Magnetoplasma_Rocket" title="Variable Specific Impulse Magnetoplasma Rocket">VASIMR</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Project_Orion_(nuclear_propulsion)" title="Project Orion (nuclear propulsion)">Project Orion</a></li>
+<li><a href="/wiki/Nuclear_pulse_propulsion" title="Nuclear pulse propulsion">Nuclear pulse propulsion</a></li>
+<li><a href="/wiki/Solar_sail" title="Solar sail">Solar sail</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interstellar_travel" title="Interstellar travel">Interstellar travel</a></li>
+<li><a href="/wiki/Propellant_depot" title="Propellant depot">Propellant depot</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Outline_of_transport" title="Outline of transport">Transport</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Aviation" title="Aviation">Aerial</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adaptive_compliant_wing" title="Adaptive compliant wing">Adaptive compliant wing</a></li>
+<li><a href="/wiki/Worldwide_Aeros_Corp" title="Worldwide Aeros Corp">Aeroscraft</a></li>
+<li><a href="/wiki/Backpack_helicopter" title="Backpack helicopter">Backpack helicopter</a></li>
+<li><a href="/wiki/Delivery_drone" title="Delivery drone">Delivery drone</a></li>
+<li><a href="/wiki/Flying_car_(aircraft)" title="Flying car (aircraft)">Flying car</a></li>
+<li><a href="/wiki/High-altitude_platform" class="mw-redirect" title="High-altitude platform">High-altitude platform</a></li>
+<li><a href="/wiki/Jet_pack" title="Jet pack">Jet pack</a></li>
+<li><a href="/wiki/Pulse_detonation_engine" title="Pulse detonation engine">Pulse detonation engine</a></li>
+<li><a href="/wiki/Scramjet" title="Scramjet">Scramjet</a></li>
+<li><a href="/wiki/Spaceplane" title="Spaceplane">Spaceplane</a>
+<ul>
+<li><a href="/wiki/Skylon_(spacecraft)" title="Skylon (spacecraft)">Skylon</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Supersonic_transport" title="Supersonic transport">Supersonic transport</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Land_transport" title="Land transport">Land</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airless_tire" title="Airless tire">Airless tire</a>
+<ul>
+<li><a href="/wiki/Tweel" title="Tweel">Tweel</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Alternative_fuel_vehicle" title="Alternative fuel vehicle">Alternative fuel vehicle</a>
+<ul>
+<li><a href="/wiki/Hydrogen_vehicle" title="Hydrogen vehicle">Hydrogen vehicle</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Autonomous_car" title="Autonomous car">Driverless car</a></li>
+<li><a href="/wiki/Ground_effect_train" title="Ground effect train">Ground effect train</a></li>
+<li><a href="/wiki/Maglev" title="Maglev">Maglev train</a></li>
+<li><a href="/wiki/Personal_rapid_transit" title="Personal rapid transit">Personal rapid transit</a></li>
+<li><a href="/wiki/Vactrain" title="Vactrain">Vactrain</a>
+<ul>
+<li><a href="/wiki/ET3_Global_Alliance" title="ET3 Global Alliance">ET3 Global Alliance</a></li>
+<li><a href="/wiki/Hyperloop" title="Hyperloop">Hyperloop</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Vehicular_communication_systems" title="Vehicular communication systems">Vehicular communication systems</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Pipeline_transport" title="Pipeline transport">Pipeline</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pneumatic_tube" title="Pneumatic tube">Pneumatic transport</a>
+<ul>
+<li><a href="/wiki/Automated_vacuum_collection" title="Automated vacuum collection">Automated vacuum collection</a></li>
+<li><a href="/wiki/Foodtubes" title="Foodtubes">Foodtubes</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anti-gravity" title="Anti-gravity">Anti-gravity</a></li>
+<li><a href="/wiki/Cloak_of_invisibility" title="Cloak of invisibility">Cloak of invisibility</a></li>
+<li><a href="/wiki/Digital_scent_technology" title="Digital scent technology">Digital scent technology</a></li>
+<li><a href="/wiki/Force_field_(fiction)" title="Force field (fiction)">Force field</a>
+<ul>
+<li><a href="/wiki/Plasma_window" title="Plasma window">Plasma window</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Immersion_(virtual_reality)" title="Immersion (virtual reality)">Immersive virtual reality</a>
+<ul>
+<li><a href="/wiki/VirtuSphere" title="VirtuSphere">VirtuSphere</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Magnetic_refrigeration" title="Magnetic refrigeration">Magnetic refrigeration</a></li>
+<li><a href="/wiki/Phased-array_optics" title="Phased-array optics">Phased-array optics</a></li>
+<li><a href="/wiki/Quantum_technology" title="Quantum technology">Quantum technology</a>
+<ul>
+<li><a href="/wiki/Quantum_teleportation" title="Quantum teleportation">Quantum teleportation</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Topics</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Collingridge_dilemma" title="Collingridge dilemma">Collingridge dilemma</a></li>
+<li><a href="/wiki/Differential_technological_development" title="Differential technological development">Differential technological development</a></li>
+<li><a href="/wiki/Ephemeralization" title="Ephemeralization">Ephemeralization</a></li>
+<li><a href="/wiki/Exploratory_engineering" title="Exploratory engineering">Exploratory engineering</a></li>
+<li><a href="/wiki/Fictional_technology" title="Fictional technology">Fictional technology</a></li>
+<li><a href="/wiki/Proactionary_principle" title="Proactionary principle">Proactionary principle</a></li>
+<li><a href="/wiki/Technological_change" title="Technological change">Technological change</a>
+<ul>
+<li><a href="/wiki/Technological_unemployment" title="Technological unemployment">Technological unemployment</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Technological_convergence" title="Technological convergence">Technological convergence</a></li>
+<li><a href="/wiki/Technological_evolution" title="Technological evolution">Technological evolution</a></li>
+<li><a href="/wiki/Technological_paradigm" title="Technological paradigm">Technological paradigm</a></li>
+<li><a href="/wiki/Technology_forecasting" title="Technology forecasting">Technology forecasting</a>
+<ul>
+<li><a href="/wiki/Accelerating_change" title="Accelerating change">Accelerating change</a></li>
+<li><a href="/wiki/Moore%27s_law" title="Moore's law">Moore's law</a></li>
+<li><a href="/wiki/Technological_singularity" title="Technological singularity">Technological singularity</a></li>
+<li><a href="/wiki/Technology_scouting" title="Technology scouting">Technology scouting</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Technology_readiness_level" title="Technology readiness level">Technology readiness level</a></li>
+<li><a href="/wiki/Technology_roadmap" title="Technology roadmap">Technology roadmap</a></li>
+<li><a href="/wiki/Transhumanism" title="Transhumanism">Transhumanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="text-align: center;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Emerging_technologies" title="Category:Emerging technologies">Category</a></b></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_emerging_technologies" title="List of emerging technologies">List</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1196
+Cached time: 20170308120257
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.324 seconds
+Real time usage: 0.394 seconds
+Preprocessor visited node count: 1596/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 133246/2097152 bytes
+Template argument size: 1212/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.122/10.000 seconds
+Lua memory usage: 5.18 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  257.565      1 -total
+ 31.17%   80.290      7 Template:Navbox
+ 30.22%   77.845      1 Template:Reflist
+ 15.60%   40.189      1 Template:Emerging_technologies
+ 14.89%   38.341      1 Template:Who
+ 14.45%   37.216      2 Template:Convert
+ 14.36%   36.993      3 Template:Cite_news
+ 13.53%   34.844      1 Template:Fix
+ 12.54%   32.309      1 Template:External_media
+  9.42%   24.274      1 Template:Infobox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2795314-0!*!0!!en!4!* and timestamp 20170308120257 and revision id 768670777
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Airborne_wind_turbine&amp;oldid=768670777">https://en.wikipedia.org/w/index.php?title=Airborne_wind_turbine&amp;oldid=768670777</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Aerodynamics" title="Category:Aerodynamics">Aerodynamics</a></li><li><a href="/wiki/Category:Aircraft" title="Category:Aircraft">Aircraft</a></li><li><a href="/wiki/Category:Electrical_generators" title="Category:Electrical generators">Electrical generators</a></li><li><a href="/wiki/Category:Electromechanical_engineering" title="Category:Electromechanical engineering">Electromechanical engineering</a></li><li><a href="/wiki/Category:Energy_conversion" title="Category:Energy conversion">Energy conversion</a></li><li><a href="/wiki/Category:Kites" title="Category:Kites">Kites</a></li><li><a href="/wiki/Category:Wind_turbines" title="Category:Wind turbines">Wind turbines</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">CS1 maint: BOT: original-url status unknown</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_July_2012" title="Category:Articles with specifically marked weasel-worded phrases from July 2012">Articles with specifically marked weasel-worded phrases from July 2012</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Airborne+wind+turbine" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Airborne+wind+turbine" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Airborne_wind_turbine"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Airborne_wind_turbine"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Airborne_wind_turbine" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Airborne_wind_turbine&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Airborne_wind_turbine&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Airborne_wind_turbine" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Airborne_wind_turbine" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Airborne_wind_turbine&amp;oldid=768670777" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Airborne_wind_turbine&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1709807" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Airborne_wind_turbine&amp;id=768670777" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Airborne+wind+turbine">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Airborne+wind+turbine&amp;returnto=Airborne+wind+turbine&amp;oldid=768670777&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Airborne_wind_turbine&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D8%B1%D8%A8%D9%8A%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D8%AD%D9%85%D9%88%D9%84%D8%A9_%D8%AC%D9%88%D8%A7" title="توربينات الرياح المحمولة جوا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Flugwindkraftwerk" title="Flugwindkraftwerk – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kajta_generatoro" title="Kajta generatoro – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89olienne_a%C3%A9roport%C3%A9e" title="Éolienne aéroportée – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Zra%C4%8Dni_vjetroagregat" title="Zračni vjetroagregat – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Kite_Wind_Generator" title="Kite Wind Generator – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Aerogerador_suspenso_no_ar" title="Aerogerador suspenso no ar – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D1%82%D1%83%D1%80%D0%B1%D0%B8%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B0%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Ветровая турбина воздушного базирования – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Zra%C4%8Dna_vetrna_turbina" title="Zračna vetrna turbina – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/U%C3%A7an_r%C3%BCzg%C3%A2r_t%C3%BCrbini" title="Uçan rüzgâr türbini – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%AB%98%E7%A9%BA%E9%A2%A8%E5%8A%9B%E7%99%BC%E9%9B%BB%E6%A9%9F" title="高空風力發電機 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1709807#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 March 2017, at 03:36.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Airborne_wind_turbine&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.394","ppvisitednodes":{"value":1596,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":133246,"limit":2097152},"templateargumentsize":{"value":1212,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  257.565      1 -total"," 31.17%   80.290      7 Template:Navbox"," 30.22%   77.845      1 Template:Reflist"," 15.60%   40.189      1 Template:Emerging_technologies"," 14.89%   38.341      1 Template:Who"," 14.45%   37.216      2 Template:Convert"," 14.36%   36.993      3 Template:Cite_news"," 13.53%   34.844      1 Template:Fix"," 12.54%   32.309      1 Template:External_media","  9.42%   24.274      1 Template:Infobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.122","limit":"10.000"},"limitreport-memusage":{"value":5429995,"limit":52428800}},"cachereport":{"origin":"mw1196","timestamp":"20170308120257","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":54,"wgHostname":"mw1252"});});</script>
+	</body>
+</html>

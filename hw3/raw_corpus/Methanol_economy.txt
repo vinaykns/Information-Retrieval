@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Methanol economy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Methanol_economy","wgTitle":"Methanol economy","wgCurRevisionId":769674638,"wgRevisionId":769674638,"wgArticleId":1816518,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Alternative energy economy","Environmental chemistry","Alcohol fuels"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Methanol_economy","wgRelevantArticleId":1816518,"wgRequestId":"WMM8GApAIDYAAEZ@VCoAAAAD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q942208","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/22/Fuel_cell_NASA_p48600ac.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Methanol_economy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Methanol_economy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Methanol_economy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Methanol_economy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Methanol_economy rootpage-Methanol_economy skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Methanol economy</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>The <b>methanol economy</b> is a suggested future <a href="/wiki/Economy" title="Economy">economy</a> in which <a href="/wiki/Methanol" title="Methanol">methanol</a> and <a href="/wiki/Dimethyl_ether" title="Dimethyl ether">dimethyl ether</a> replace <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuels</a> as a means of energy storage, ground transportation fuel, and raw material for synthetic hydrocarbons and their products. It offers an alternative to the proposed <a href="/wiki/Hydrogen_economy" title="Hydrogen economy">hydrogen economy</a> or <a href="/wiki/Ethanol_economy" class="mw-redirect" title="Ethanol economy">ethanol economy</a>.</p>
+<p>In the 1990s, <a href="/wiki/Nobel_prize" class="mw-redirect" title="Nobel prize">Nobel prize</a> winner <a href="/wiki/George_A._Olah" class="mw-redirect" title="George A. Olah">George A. Olah</a> advocated a methanol economy;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> in 2006, he and two co-authors, <a href="/wiki/G._K._Surya_Prakash" title="G. K. Surya Prakash">G. K. Surya Prakash</a> and Alain Goeppert, published a summary of the state of fossil fuel and alternative energy sources, including their availability and limitations, before suggesting a methanol economy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Methanol can be produced from a wide variety of sources including still-abundant fossil fuels (<a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, <a href="/wiki/Coal" title="Coal">coal</a>, <a href="/wiki/Oil_shale" title="Oil shale">oil shale</a>, <a href="/wiki/Tar_sands" class="mw-redirect" title="Tar sands">tar sands</a>, etc.) as well as agricultural products and municipal waste, <a href="/wiki/Wood" title="Wood">wood</a> and varied <a href="/wiki/Biomass" title="Biomass">biomass</a>. It can also be made from chemical recycling of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Uses"><span class="tocnumber">1</span> <span class="toctext">Uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Fuel"><span class="tocnumber">1.1</span> <span class="toctext">Fuel</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Precursor"><span class="tocnumber">1.2</span> <span class="toctext">Precursor</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Production"><span class="tocnumber">2</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Advantages"><span class="tocnumber">3</span> <span class="toctext">Advantages</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Comparison_with_hydrogen"><span class="tocnumber">3.1</span> <span class="toctext">Comparison with hydrogen</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Comparison_with_ethanol"><span class="tocnumber">3.2</span> <span class="toctext">Comparison with ethanol</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Disadvantages"><span class="tocnumber">4</span> <span class="toctext">Disadvantages</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Literature"><span class="tocnumber">6</span> <span class="toctext">Literature</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=1" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fuel_cell_NASA_p48600ac.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Fuel_cell_NASA_p48600ac.jpg/220px-Fuel_cell_NASA_p48600ac.jpg" width="220" height="280" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Fuel_cell_NASA_p48600ac.jpg/330px-Fuel_cell_NASA_p48600ac.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Fuel_cell_NASA_p48600ac.jpg/440px-Fuel_cell_NASA_p48600ac.jpg 2x" data-file-width="1115" data-file-height="1418" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fuel_cell_NASA_p48600ac.jpg" class="internal" title="Enlarge"></a></div>
+Direct-methanol fuel cell</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Fuel">Fuel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=2" title="Edit section: Fuel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Methanol_fuel" title="Methanol fuel">Methanol fuel</a></div>
+<p>Methanol is a fuel for heat engines and fuel cells. Due to its high <a href="/wiki/Octane_rating" title="Octane rating">octane rating</a> it can be used directly as a fuel in <a href="/wiki/Flexible-fuel_vehicle" title="Flexible-fuel vehicle">flex-fuel cars</a> (including <a href="/wiki/Hybrid_electric_vehicle" title="Hybrid electric vehicle">hybrid</a> and <a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">plug-in hybrid</a> vehicles) using existing internal combustion engines (ICE). Methanol can also be used as a fuel in fuel cells, either directly in <a href="/wiki/Direct_Methanol_Fuel_Cell" class="mw-redirect" title="Direct Methanol Fuel Cell">Direct Methanol Fuel Cells</a> (DMFC) or indirectly (after conversion into <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> by reforming).</p>
+<p>In an economy based on methanol, methanol could be used as a fuel:</p>
+<ul>
+<li>In internal combustion engines (ICEs)</li>
+</ul>
+<dl>
+<dd>
+<dl>
+<dd>Methanol has a high <a href="/wiki/Octane_rating" title="Octane rating">octane rating</a> (RON of 107 and MON of 92), making it a suitable gasoline substitute. It has a higher <a href="/wiki/Flame_speed" title="Flame speed">flame speed</a> than gasoline, leading to higher efficiency as well as a higher latent heat of vaporization (3.7 times higher than gasoline), meaning that the heat generated by the engine can be removed more effectively, making it possible to use air cooled engines. Methanol can have an efficiency increase of 5% to 10% relative to gasoline engine efficiency, if the compression ratio is increased.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Methanol burns cleaner than gasoline and is safer in the case of a fire, but has only half the volumetric energy content of gasoline (15.6 MJ/L vs. 32.4 MJ/L).</dd>
+</dl>
+</dd>
+</dl>
+<ul>
+<li>In compression ignition engines (<a href="/wiki/Diesel_engine" title="Diesel engine">diesel engine</a>)</li>
+</ul>
+<dl>
+<dd>
+<dl>
+<dd>Methanol itself is not a good substitute for <a href="/wiki/Diesel_fuel" title="Diesel fuel">diesel fuels</a>. Methanol can, however, be converted by <a href="/wiki/Dehydration_reaction" title="Dehydration reaction">dehydration</a> to <a href="/wiki/Dimethyl_ether" title="Dimethyl ether">dimethyl ether</a>, which is a good diesel fuel with a <a href="/wiki/Cetane_number" title="Cetane number">cetane number</a> of 55-60 as compared to 45-55 for regular diesel fuel. This improves its cold-start ability in winters and reduces its noise. Compared to diesel fuel, DME has much lower emissions of NO<sub>x</sub> and CO and emits no particulate matter, SO<sub>x</sub>. Methanol can also be, and is in fact already, used to produce <a href="/wiki/Biodiesel" title="Biodiesel">biodiesel</a> via <a href="/wiki/Transesterification" title="Transesterification">transesterification</a> of <a href="/wiki/Vegetable_oil" title="Vegetable oil">vegetable oil</a> (<a href="/wiki/Straight_Vegetable_Oil" class="mw-redirect" title="Straight Vegetable Oil">SVO</a>).</dd>
+</dl>
+</dd>
+</dl>
+<ul>
+<li>In advanced methanol-powered vehicles</li>
+</ul>
+<dl>
+<dd>
+<dl>
+<dd>The use of methanol and dimethyl ether can be combined with hybrid and <a href="/wiki/Plug-in_electric_vehicle" title="Plug-in electric vehicle">plug-in vehicle</a> technologies allowing higher gas mileage and lower emissions. These fuels can also be used in fuel cells either via onboard reforming to hydrogen or directly in <a href="/wiki/Direct_Methanol_Fuel_Cells" class="mw-redirect" title="Direct Methanol Fuel Cells">Direct Methanol Fuel Cells</a> (DMFC).</dd>
+</dl>
+</dd>
+</dl>
+<ul>
+<li>For electricity production</li>
+</ul>
+<dl>
+<dd>
+<dl>
+<dd>Methanol and DME can be used in existing <a href="/wiki/Gas_turbines" class="mw-redirect" title="Gas turbines">gas turbines</a> to generate electricity.</dd>
+<dd><a href="/wiki/Fuel_cells" class="mw-redirect" title="Fuel cells">Fuel cells</a> (PAFC, MCFC, SOFC) can also be used for electricity generation.</dd>
+</dl>
+</dd>
+</dl>
+<ul>
+<li>As a domestic fuel</li>
+</ul>
+<dl>
+<dd>
+<dl>
+<dd>Methanol and DME can be used in commercial buildings and homes to generate heat and/or electricity. DME can be used in a commercial gas stove without modifications. DME can also be blended with LPG and used as a cooking or heating fuel as is already the case in China. In developing countries methanol could be used as a cooking fuel, burning much cleaner than wood and thus mitigating indoor air quality problems.</dd>
+</dl>
+</dd>
+</dl>
+<h3><span class="mw-headline" id="Precursor">Precursor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=3" title="Edit section: Precursor">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Methanol is already used today on a large scale as raw material to produce a variety of chemicals and products. Through the methanol-to-gasoline (MTG) process, it can be transformed into gasoline. Using the methanol-to-olefin (MTO) process, methanol can also be converted to <a href="/wiki/Ethylene" title="Ethylene">ethylene</a> and <a href="/wiki/Propylene" class="mw-redirect" title="Propylene">propylene</a>, the two chemicals produced in largest amounts by the petrochemical industry.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> These are important building blocks for the production of essential polymers (LDPE, HDPE, PP) and like other chemical intermediates are currently produced mainly from petroleum feedstock. Their production from methanol could therefore reduce our dependency on petroleum. It would also make it possible to continue producing these chemicals when fossil fuels reserves are depleted.</p>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=4" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Methanol is already used today on a large scale (about 37 million tonnes per year)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> as feedstock to produce numerous chemical products and materials. In addition, it can be readily converted in the <a href="/w/index.php?title=Methanol-to-olefin&amp;action=edit&amp;redlink=1" class="new" title="Methanol-to-olefin (page does not exist)">methanol-to-olefin</a> (MTO) process into <a href="/wiki/Ethylene" title="Ethylene">ethylene</a> and <a href="/wiki/Propylene" class="mw-redirect" title="Propylene">propylene</a>, industrial chemicals which can be used to produce synthetic hydrocarbons and their products, currently obtained from oil and natural gas.</p>
+<p>Today most <a href="/wiki/Methanol" title="Methanol">methanol</a> is produced from <a href="/wiki/Methane" title="Methane">methane</a> through <a href="/wiki/Syngas" title="Syngas">syngas</a>. <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a> is currently the world's largest methanol exporter, with exports mainly to the <a href="/wiki/United_States" title="United States">United States</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The natural gas that serves as feedstock for the production of methanol comes from the same sources as other uses. Unconventional gas resources such as <a href="/wiki/Coalbed_methane" title="Coalbed methane">coalbed methane</a>, tight sand gas and eventually the very large <a href="/wiki/Methane_hydrate" class="mw-redirect" title="Methane hydrate">methane hydrate</a> resources present under the continental shelves of the seas and Siberian and Canadian tundra could also be used to provide the necessary gas.</p>
+<p>The conventional route to methanol from <a href="/wiki/Methane" title="Methane">methane</a> passes through syngas generation by <a href="/wiki/Steam_reforming" title="Steam reforming">steam reforming</a> combined (or not) with partial oxidation. New and more efficient ways to convert methane into methanol are also being developed. These include:</p>
+<ul>
+<li>Methane oxidation with homogeneous catalysts in <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a> media</li>
+<li>Methane bromination followed by hydrolysis of the obtained <a href="/wiki/Bromomethane" title="Bromomethane">bromomethane</a></li>
+<li>Direct oxidation of methane with oxygen</li>
+<li>Microbial or photochemical conversion of methane</li>
+</ul>
+<p>All these synthetic routes emit the <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> CO<sub>2</sub>. To mitigate this, methanol can be made through ways minimizing the emission of CO<sub>2</sub>. One solution is to produce it from syngas obtained by biomass gasification. For this purpose any biomass can be used including <a href="/wiki/Wood_economy" title="Wood economy">wood</a>, wood wastes, grass, agricultural crops and their by-products, animal waste, aquatic plants and municipal waste. There is no need to use food crops as in the case of ethanol from corn, sugar cane and wheat.</p>
+<dl>
+<dd>Biomass → Syngas (CO, CO<sub>2</sub>, H<sub>2</sub>) → CH<sub>3</sub>OH</dd>
+</dl>
+<p>Methanol can be synthesized from carbon and hydrogen from any source, including still available <a href="/wiki/Fossil_fuels" class="mw-redirect" title="Fossil fuels">fossil fuels</a> and <a href="/wiki/Biomass" title="Biomass">biomass</a>. CO<sub>2</sub> emitted from fossil fuel burning power plants and other industries and eventually even the CO<sub>2</sub> contained in the air, can be a source of carbon. It can also be made from chemical recycling of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, which <a href="/wiki/Carbon_Recycling_International" title="Carbon Recycling International">Carbon Recycling International</a> has demonstrated with its first commercial scale plant.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Initially the major source will be the CO<sub>2</sub> rich flue gases of fossil-fuel-burning power plants or exhaust from cement and other factories. In the longer range however, considering diminishing fossil fuel resources and the effect of their utilization on <a href="/wiki/Earth%27s_atmosphere" class="mw-redirect" title="Earth's atmosphere">earth's atmosphere</a>, even the low concentration of atmospheric CO<sub>2</sub> itself could be captured and recycled via methanol, thus supplementing nature’s own photosynthetic cycle. Efficient new absorbents to capture atmospheric CO<sub>2</sub> are being developed, mimicking plants' ability. Chemical recycling of CO<sub>2</sub> to new fuels and materials could thus become feasible, making them renewable on the human timescale.</p>
+<p>Methanol can also be produced from CO<sub>2</sub> by <a href="/wiki/Catalytic_hydrogenation" class="mw-redirect" title="Catalytic hydrogenation">catalytic hydrogenation</a> of CO<sub>2</sub> with H<sub>2</sub> where the hydrogen has been obtained from <a href="/wiki/Water_electrolysis" class="mw-redirect" title="Water electrolysis">water electrolysis</a>. This is the process used by <a href="/wiki/Carbon_Recycling_International" title="Carbon Recycling International">Carbon Recycling International</a> of <a href="/wiki/Iceland" title="Iceland">Iceland</a>. Methanol may also be produced through CO<sub>2</sub> <a href="/wiki/Electrochemical_reduction" class="mw-redirect" title="Electrochemical reduction">electrochemical reduction</a>, if electrical power is available. The energy needed for these reactions in order to be carbon neutral would come from renewable energy sources such as wind, hydroelectricity and solar as well as nuclear power. In effect, all of them allow free energy to be stored in easily transportable methanol, which is made immediately from hydrogen and carbon dioxide, rather than attempting to store energy in free hydrogen.</p>
+<dl>
+<dd>CO<sub>2</sub> + 3H<sub>2</sub> → CH<sub>3</sub>OH + H<sub>2</sub>O</dd>
+</dl>
+<p>or with electric energy</p>
+<dl>
+<dd>CO<sub>2</sub> +5H<sub>2</sub>O + 6 e<sup>−1</sup> → CH<sub>3</sub>OH + 6 HO<sup>−1</sup></dd>
+<dd>6 HO<sup>−1</sup> → 3H<sub>2</sub>O + 2/3 O<sub>2</sub> + 6 e<sup>−1</sup></dd>
+<dd>Total:</dd>
+<dd>CO<sub>2</sub> +2H<sub>2</sub>O + electric energy → CH<sub>3</sub>OH + 2/3 O<sub>2</sub></dd>
+</dl>
+<p>The necessary CO<sub>2</sub> would be captured from fossil fuel burning power plants and other industrial <a href="/wiki/Flue_gases" class="mw-redirect" title="Flue gases">flue gases</a> including cement factories. With diminishing fossil fuel resources and therefore CO<sub>2</sub> emissions, the CO<sub>2</sub> content in the air could also be used. Considering the low concentration of CO<sub>2</sub> in air (0.04%) improved and economically viable technologies to absorb CO<sub>2</sub> will have to be developed. This would allow the chemical recycling of CO<sub>2</sub>, thus mimicking nature’s photosynthesis.</p>
+<h2><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=5" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the process of <a href="/wiki/Photosynthesis" title="Photosynthesis">photosynthesis</a>, green plants use the energy of sunlight to split water into free oxygen (which is released) and free hydrogen. Rather than attempt to store the hydrogen, plants immediately capture carbon dioxide from the air to allow the hydrogen to reduce it to storable fuels such as hydrocarbons (plant oils and <a href="/wiki/Terpene" title="Terpene">terpenes</a>) and polyalcohols (<a href="/wiki/Glycerol" title="Glycerol">glycerol</a>, <a href="/wiki/Sugar" title="Sugar">sugars</a> and <a href="/wiki/Starch" title="Starch">starches</a>). In the methanol economy, any process which similarly produces free hydrogen, proposes to immediately use it "captively" to reduce carbon dioxide into methanol, which, like plant products from photosynthesis, has great advantages in storage and transport over free hydrogen itself.</p>
+<p>Methanol is a liquid under normal conditions, allowing it to be stored, transported and dispensed easily, much like <a href="/wiki/Gasoline" title="Gasoline">gasoline</a> and <a href="/wiki/Diesel_fuel" title="Diesel fuel">diesel fuel</a>. It can also be readily transformed by dehydration into <a href="/wiki/Dimethyl_ether" title="Dimethyl ether">dimethyl ether</a>, a diesel fuel substitute with a <a href="/wiki/Cetane_number" title="Cetane number">cetane number</a> of 55.</p>
+<h3><span class="mw-headline" id="Comparison_with_hydrogen">Comparison with hydrogen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=6" title="Edit section: Comparison with hydrogen">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Methanol economy advantages compared to a hydrogen economy:</p>
+<ul>
+<li>Efficient energy storage by volume, as compared with <a href="/wiki/Compressed_hydrogen" title="Compressed hydrogen">compressed hydrogen</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> When hydrogen pressure-confinement vessel is taken into account, an advantage in energy storage by weight can also be realized. The volumetric energy density of methanol is considerably higher than liquid hydrogen, in part because of the low density of liquid hydrogen of 71&#160;grams/litre. Hence there is actually more hydrogen in a litre of methanol (99&#160;grams/litre) than in a litre of liquid hydrogen, and methanol needs no cryogenic container maintained at a temperature of -253&#160;°C .</li>
+<li>A liquid <a href="/wiki/Hydrogen_infrastructure" title="Hydrogen infrastructure">hydrogen infrastructure</a> would be prohibitively expensive.<sup id="cite_ref-zubrin-117_11-0" class="reference"><a href="#cite_note-zubrin-117-11">[11]</a></sup><sup id="cite_ref-romm-94_12-0" class="reference"><a href="#cite_note-romm-94-12">[12]</a></sup><sup id="cite_ref-luft-329_13-0" class="reference"><a href="#cite_note-luft-329-13">[13]</a></sup> Methanol can use existing gasoline infrastructure with only limited modifications.</li>
+<li>Can be blended with gasoline (for example in <a href="/wiki/M85_fuel" title="M85 fuel">M85</a>, a mixture containing 85% methanol and 15% gasoline).</li>
+<li>User friendly. Hydrogen is volatile, and its confinements uses high pressure or cryogenic systems.</li>
+<li>Less losses&#160;: Hydrogen leaks more easily than methanol. Heat will evaporate liquid hydrogen, giving expected losses up to 0.3% per day in storage tanks. (see <a rel="nofollow" class="external text" href="http://www.chart-ferox.com/getattachment/37f20eca-f9ee-4eaa-88c7-0f373e93f8ca/VT_FULL_EN.aspx">Chart Ferox storage tanks Liquid oxygen</a>).</li>
+</ul>
+<h3><span class="mw-headline" id="Comparison_with_ethanol">Comparison with ethanol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=7" title="Edit section: Comparison with ethanol">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Can be made from any organic material using proven technology going through syngas. There is no need to use food crops and compete with food production. The amount of methanol that can be generated from biomass is much greater than ethanol.</li>
+<li>Can compete with and complement ethanol in a diversified energy marketplace. Methanol obtained from fossil fuels has a lower price than ethanol.</li>
+<li>Can be blended in gasoline like ethanol. In 2007, China blended more than 1&#160;billion US gallons (3,800,000&#160;m<sup>3</sup>) of methanol into fuel and will introduce methanol fuel standard by mid-2008.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> <a href="/wiki/M85_fuel" title="M85 fuel">M85</a>, a mixture of 85% methanol and 15% gasoline can be used much like <a href="/wiki/E85" title="E85">E85</a> sold in some gas stations today.</li>
+</ul>
+<h2><span class="mw-headline" id="Disadvantages">Disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=8" title="Edit section: Disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>High energy costs associated with generating hydrogen (when needed to synthesize methanol)</li>
+<li>Depending on the feedstock the generation in itself may be not clean</li>
+<li>Presently generated from <a href="/wiki/Syngas" title="Syngas">syngas</a> still dependent on fossil fuels (although in theory any energy source can be used).</li>
+<li>Energy density (by weight or volume) one half of that of gasoline and 24% less than ethanol<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li><a href="/wiki/Corrosive" class="mw-redirect" title="Corrosive">Corrosive</a> to some metals including <a href="/wiki/Aluminum" class="mw-redirect" title="Aluminum">aluminum</a>, <a href="/wiki/Zinc" title="Zinc">zinc</a> and <a href="/wiki/Manganese" title="Manganese">manganese</a>. Parts of the engine fuel-intake systems are made from aluminum. Similar to ethanol, compatible material for fuel tanks, gasket and engine intake have to be used.</li>
+<li>As with <a href="/wiki/Pipeline_transport#Ethanol" title="Pipeline transport">similarly corrosive and hydrophilic ethanol</a>, existing <a href="/wiki/Pipeline_transport" title="Pipeline transport">pipelines</a> designed for petroleum products cannot handle methanol. Thus methanol requires shipment at higher energy cost in trucks and trains, until a whole new pipeline infrastructure can be built.</li>
+<li>Methanol, as an alcohol, increases the permeability of some plastics to fuel vapors (e.g. high-density polyethylene).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> This property of methanol has the possibility of increasing emissions of <a href="/wiki/Volatile_organic_compounds" class="mw-redirect" title="Volatile organic compounds">volatile organic compounds</a> (VOCs) from fuel, which contributes to increased tropospheric <a href="/wiki/Ozone" title="Ozone">ozone</a> and possibly human exposure.</li>
+<li>Low volatility in cold weather: pure methanol-fueled engines can be difficult to start, and they run inefficiently until warmed up. This is why a mixture containing 85% methanol and 15% gasoline called M85 is generally used in ICEs. The gasoline allows the engine to start even at lower temperatures.</li>
+<li>With the exception of low level exposure, methanol is toxic.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Methanol is lethal when ingested in larger amounts (30 to 100 mL).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> But so are most motor fuels, including gasoline (120 to 300 mL) and diesel fuel. Gasoline also contains many compounds known to be carcinogenic (e.g. benzene). Methanol is not a carcinogen, nor does it contain any carcinogens. However, methanol may be metabolized in the body to formaldehyde, which is both toxic and carcinogenic.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Methanol occurs naturally in small quantities in the human body and in edible fruits.</li>
+<li>Methanol is a liquid: this creates a greater fire risk compared to hydrogen in open spaces. Methanol leaks do not dissipate. A methanol-based fire burns invisibly unlike gasoline. Compared to gasoline, however, methanol is much safer. It is more difficult to ignite and releases less heat when it burns. Methanol fires can be extinguished with plain water, whereas gasoline floats on water and continues to burn. The EPA has estimated that switching fuels from gasoline to methanol would reduce the incidence of fuel related fires by 90%.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+<li>Methanol accidentally released from leaking underground fuel storage tanks may undergo relatively rapid groundwater transport and contaminate well water, although this risk has not been thoroughly studied. The history of the fuel additive methyl t-butyl ether (<a href="/wiki/MTBE" class="mw-redirect" title="MTBE">MTBE</a>) as a groundwater contaminant has highlighted the importance of assessing the potential impacts of fuel and fuel additives on multiple environmental media.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> An accidental release of methanol in the environment would, however, cause much less damage than a comparable gasoline or crude oil spill. Unlike these fuels, methanol, being totally soluble in water, would be rapidly diluted to a concentration low enough for <a href="/wiki/Microorganism" title="Microorganism">microorganism</a> to start <a href="/wiki/Biodegradation" title="Biodegradation">biodegradation</a>. Methanol is in fact used for <a href="/wiki/Denitrification" title="Denitrification">denitrification</a> in water treatment plants as a nutrient for bacteria.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Alcohol_fuel" title="Alcohol fuel">Alcohol fuel</a></li>
+<li><a href="/wiki/Carbon_neutral_fuel" class="mw-redirect" title="Carbon neutral fuel">Carbon neutral fuel</a></li>
+<li><a href="/wiki/Dimethyl_ether" title="Dimethyl ether">Dimethyl ether</a></li>
+<li><a href="/wiki/Ethanol_fuel" title="Ethanol fuel">Ethanol fuel</a></li>
+<li><a href="/wiki/Methanol" title="Methanol">Methanol</a></li>
+<li><a href="/wiki/Methanol_fuel" title="Methanol fuel">Methanol fuel</a></li>
+<li><a href="/wiki/Synthetic_fuel" title="Synthetic fuel">Synthetic fuel</a></li>
+<li><a href="/wiki/Vegetable_oil_economy" class="mw-redirect" title="Vegetable oil economy">Vegetable oil economy</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Literature">Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=10" title="Edit section: Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Friedrich_Asinger" title="Friedrich Asinger">F. Asinger</a>: <i>Methanol, Chemie- und Energierohstoff</i>. Akademie-Verlag, Berlin, 1987, <a href="/wiki/Special:BookSources/3055003411" class="internal mw-magiclink-isbn">ISBN 3-05500341-1</a>, <a href="/wiki/Special:BookSources/9783055003417" class="internal mw-magiclink-isbn">ISBN 978-3-05500341-7</a>.</li>
+<li>Martin Bertau, <a href="/wiki/Heribert_Offermanns" title="Heribert Offermanns">Heribert Offermanns</a>, Ludolf Plass, Friedrich Schmidt, Hans-Jürgen Wernicke: <i>Methanol: The Basic Chemical and Energy Feedstock of the Future: Asinger's Vision Today</i>, 750 Seiten, Verlag Springer; 2014, <a href="/wiki/Special:BookSources/9783642397080" class="internal mw-magiclink-isbn">ISBN 978-3642397080</a></li>
+<li><a href="/wiki/George_A._Olah" class="mw-redirect" title="George A. Olah">George A. Olah</a>, Goeppert Alain, <a href="/wiki/G._K._Surya_Prakash" title="G. K. Surya Prakash">G. K. Surya Prakash</a>, <i>Beyond Oil and Gas: The Methanol Economy</i>, Wiley-VCH, 2009, <a href="/wiki/Special:BookSources/9783527324224" class="internal mw-magiclink-isbn">ISBN 978-3-527-32422-4</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/George_A._Olah" class="mw-redirect" title="George A. Olah">George A. Olah</a> (2005). "Beyond Oil and Gas: The Methanol Economy". <i><a href="/wiki/Angewandte_Chemie_International_Edition" class="mw-redirect" title="Angewandte Chemie International Edition">Angewandte Chemie International Edition</a></i>. <b>44</b> (18): 2636–2639. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fanie.200462121">10.1002/anie.200462121</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15800867">15800867</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanol+economy&amp;rft.atitle=Beyond+Oil+and+Gas%3A+The+Methanol+Economy&amp;rft.au=George+A.+Olah&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.200462121&amp;rft_id=info%3Apmid%2F15800867&amp;rft.issue=18&amp;rft.jtitle=Angewandte+Chemie+International+Edition&amp;rft.pages=2636-2639&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=44" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/George_A._Olah" class="mw-redirect" title="George A. Olah">George A. Olah</a> (2003). "The Methanol Economy". <i><a href="/wiki/Chemical_%26_Engineering_News" title="Chemical &amp; Engineering News">Chemical &amp; Engineering News</a></i>. <b>81</b> (38): 5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fcen-v081n051.p005">10.1021/cen-v081n051.p005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanol+economy&amp;rft.atitle=The+Methanol+Economy&amp;rft.au=George+A.+Olah&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fcen-v081n051.p005&amp;rft.issue=38&amp;rft.jtitle=Chemical+%26+Engineering+News&amp;rft.pages=5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=81" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/George_A._Olah" class="mw-redirect" title="George A. Olah">George A. Olah</a>; <a href="/wiki/G._K._Surya_Prakash" title="G. K. Surya Prakash">G. K. Surya Prakash</a>; <a href="/w/index.php?title=Alain_Goeppert&amp;action=edit&amp;redlink=1" class="new" title="Alain Goeppert (page does not exist)">Alain Goeppert</a> (2009). "Chemical Recycling of Carbon Dioxide to Methanol and Dimethyl Ether: From Greenhouse Gas to Renewable, Environmentally Carbon Neutral Fuels and Synthetic Hydrocarbons". <i><a href="/wiki/Journal_of_Organic_Chemistry" title="Journal of Organic Chemistry">Journal of Organic Chemistry</a></i>. <b>74</b> (2): 487–498. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fjo801260f">10.1021/jo801260f</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19063591">19063591</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanol+economy&amp;rft.atitle=Chemical+Recycling+of+Carbon+Dioxide+to+Methanol+and+Dimethyl+Ether%3A+From+Greenhouse+Gas+to+Renewable%2C+Environmentally+Carbon+Neutral+Fuels+and+Synthetic+Hydrocarbons&amp;rft.au=Alain+Goeppert&amp;rft.au=George+A.+Olah&amp;rft.au=G.+K.+Surya+Prakash&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fjo801260f&amp;rft_id=info%3Apmid%2F19063591&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Organic+Chemistry&amp;rft.pages=487-498&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=74" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><i>Beyond Oil and Gas: The Methanol Economy</i> , <a href="/wiki/George_A._Olah" class="mw-redirect" title="George A. Olah">George A. Olah</a>, Alain Goeppert, G. K. Surya Prakash, Wiley-VCH, <b>2006</b></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://users.ugent.be/~lsileghe/documents/extended_abstract.pdf">http://users.ugent.be/~lsileghe/documents/extended_abstract.pdf</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.slideshare.net/intratec/propylene-production-from-methanol">http://www.slideshare.net/intratec/propylene-production-from-methanol</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><i>Product Focus: Methanol</i>, <i>Chemical Week</i> May 23, <b>2007</b>, Page 29</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ogj.com/articles/2014/09/ryder-scott-trinidad-and-tobago-s-gas-reserves-fell-in-2013.html">http://www.ogj.com/articles/2014/09/ryder-scott-trinidad-and-tobago-s-gas-reserves-fell-in-2013.html</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cri.is/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=8&amp;lang=en">"First Commercial Plant"</a>. Carbon Recycling International<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanol+economy&amp;rft.btitle=First+Commercial+Plant&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcri.is%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D14%26Itemid%3D8%26lang%3Den&amp;rft.pub=Carbon+Recycling+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eia.gov/todayinenergy/detail.cfm?id=9991">Table of energy densities by weight and by volume for various energy sources</a></span></li>
+<li id="cite_note-zubrin-117-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-zubrin-117_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Robert_Zubrin" title="Robert Zubrin">Zubrin, Robert</a> (2007). <i>Energy Victory</i>. Amherst, New York: Prometheus Books. pp.&#160;117–118. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-59102-591-7" title="Special:BookSources/978-1-59102-591-7">978-1-59102-591-7</a>. <q>The situation is much worse than this, however, because before the hydrogen can be transported anywhere, it needs to be either compressed or liquefied. To liquefy it, it must be refrigerated down to a temperature of -253°C (20 degrees above absolute zero). At these temperatures, fundamental laws of thermodynamics make refrigerators extremely inefficient. As a result, about 40 percent of the energy in the hydrogen must be spent to liquefy it. This reduces the actual net energy content of our product fuel to 792&#160;kcal. In addition, because it is a cryogenic liquid, still more energy could be expected to be lost as the hydrogen boils away as it is warmed by heat leaking in from the outside environment during transport and storage.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanol+economy&amp;rft.aufirst=Robert&amp;rft.aulast=Zubrin&amp;rft.btitle=Energy+Victory&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-1-59102-591-7&amp;rft.pages=117-118&amp;rft.place=Amherst%2C+New+York&amp;rft.pub=Prometheus+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-romm-94-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-romm-94_12-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Joseph_J._Romm" title="Joseph J. Romm">Romm, Joseph J.</a> (2004). <i>The Hype about Hydrogen</i>. Washington, DC: Island Press. pp.&#160;94–95. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55963-703-X" title="Special:BookSources/1-55963-703-X">1-55963-703-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanol+economy&amp;rft.aufirst=Joseph+J.&amp;rft.aulast=Romm&amp;rft.btitle=The+Hype+about+Hydrogen&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=1-55963-703-X&amp;rft.pages=94-95&amp;rft.place=Washington%2C+DC&amp;rft.pub=Island+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-luft-329-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-luft-329_13-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Luft, Gal; <a href="/wiki/Anne_Korin" title="Anne Korin">Korin, Anne</a> (2009). <i>Energy Security Challenges for the 21st Century</i>. Santa Barbara, California: Praeger Security International. p.&#160;329. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-275-99997-1" title="Special:BookSources/978-0-275-99997-1">978-0-275-99997-1</a>. <q>The infrastructure dilemma seems insurmountable. Onboard storage of hydrogen in either gaseous or liquid form, makes for incredibly expensive vehicles, and a large-scale shift to hydrogen entails supplementing or supplanting the existing liquid fuel delivery infrastructure. This is a tough proposition, to put it mildly.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanol+economy&amp;rft.aufirst=Gal&amp;rft.au=Korin%2C+Anne&amp;rft.aulast=Luft&amp;rft.btitle=Energy+Security+Challenges+for+the+21st+Century&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-0-275-99997-1&amp;rft.pages=329&amp;rft.place=Santa+Barbara%2C+California&amp;rft.pub=Praeger+Security+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><i>Methanol's Allure</i>, Kemsley, J., <i>Chemical &amp; Engineering News</i>, December 3, <b>2007</b>, pages 55-59 <a rel="nofollow" class="external autonumber" href="http://pubs.acs.org/cen/science/85/8549sci1.html">[1]</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hypertextbook.com/facts/2005/JennyHua.shtml">Energy Density of Methanol (Wood Alcohol)</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.osti.gov/energycitations/product.biblio.jsp?osti_id=5882923">Abstract</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Methanol is a developmental and neurological toxin, though typical dietary and occupational levels of exposure are not likely to induce significant health effects. The a National Toxicology Program panel recently concluded that blood concentrations below approx. 10 mg/L there is minimal concern for adverse health effects.<a rel="nofollow" class="external autonumber" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15995730&amp;query_hl=8&amp;itool=pubmed_docsum">[2]</a> Other literature summaries are also available (see, for instance, Reproductive Toxicology 18 (2004) 303–390).</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.methanol.org/pdfFrame.cfm?pdf=Methanol_humantox_rev.pdf">http://www.methanol.org/pdfFrame.cfm?pdf=Methanol_humantox_rev.pdf</a>, <i>Methanol in fuel cell vehicles Human toxicity and risk evaluation (Revised)</i>, Statoil, <b>2001</b></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.antizol.com/mpoisono.htm">http://www.antizol.com/mpoisono.htm</a>,"Methanol poisoning overview",Mechanism of toxicity</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.epa.gov/otaq/consumer/08-fire.pdf">http://www.epa.gov/otaq/consumer/08-fire.pdf</a>, <i>Methanol Fuels and Fire Safety</i>, EPA 400-F-92-010</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www-erd.llnl.gov/mtbe/pdf/mtbe.pdf">Abstract</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.methanol.org/pdf/evaluation.pdf">http://www.methanol.org/pdf/evaluation.pdf</a>, <i>Evaluation of the fate and transport of methanol in the environment</i>, prepared by Malcolm Pirnie, Inc. for the Methanol Institute, <b>1999</b></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanol_economy&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.npr.org/templates/story/story.php?storyId=5369301">A discussion of the Methanol Economy with George Olah</a> Recording of a program broadcast on <a href="/wiki/National_Public_Radio" class="mw-redirect" title="National Public Radio">NPR</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://methanol.org/">Methanol Institute</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.greencarcongress.com/methanol/index.html">Recent information about methanol and its uses</a> Greencarcongress.com</li>
+<li><a rel="nofollow" class="external text" href="http://www.greencarcongress.com/dme/index.html">Recent information about DME</a> Greencarcongress.com</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Alternative_fuel_vehicles" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Alternative_propulsion" title="Template:Alternative propulsion"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Alternative_propulsion" title="Template talk:Alternative propulsion"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Alternative_propulsion&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Alternative_fuel_vehicles" style="font-size:114%"><a href="/wiki/Alternative_fuel_vehicle" title="Alternative fuel vehicle">Alternative fuel vehicles</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pneumatic_motor" title="Pneumatic motor">Compressed-air engine</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Compressed_air_car" title="Compressed air car">Compressed air car</a></li>
+<li><a href="/wiki/Compressed-air_vehicle" title="Compressed-air vehicle">Compressed-air vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Electric_motor" title="Electric motor">Electric motor</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_locomotive#Battery_locomotive" title="Electric locomotive">Battery-electric locomotive</a></li>
+<li><a href="/wiki/Battery_electric_vehicle" title="Battery electric vehicle">Battery electric vehicle</a></li>
+<li><a href="/wiki/Cater_MetroTrolley" title="Cater MetroTrolley">Cater MetroTrolley</a></li>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Electric_bicycle" title="Electric bicycle">Electric bicycle</a></li>
+<li><a href="/wiki/Pedelec" title="Pedelec">Pedelec</a></li>
+<li><a href="/wiki/Electric_boat" title="Electric boat">Electric boat</a></li>
+<li><a href="/wiki/Electric_car" title="Electric car">Electric car</a></li>
+<li><a href="/wiki/Electric_platform_truck" title="Electric platform truck">Electric platform truck</a></li>
+<li><a href="/wiki/Electric_vehicle" title="Electric vehicle">Electric vehicle</a></li>
+<li><a href="/wiki/Electric_motorcycles_and_scooters" title="Electric motorcycles and scooters">Electric motorcycles and scooters</a></li>
+<li><a href="/wiki/Sentinel_Waggon_Works#The_Gyro_locomotive" title="Sentinel Waggon Works">Gyro flywheel locomotive</a></li>
+<li><a href="/wiki/Hybrid_electric_vehicle" title="Hybrid electric vehicle">Hybrid electric vehicle</a></li>
+<li><a href="/wiki/Hybrid_train" title="Hybrid train">Hybrid train</a></li>
+<li><a href="/wiki/Motorized_bicycle" title="Motorized bicycle">Motorized bicycle</a></li>
+<li><a href="/wiki/Neighborhood_Electric_Vehicle" title="Neighborhood Electric Vehicle">Neighborhood Electric Vehicle</a></li>
+<li><a href="/wiki/Plug-in_electric_vehicle" title="Plug-in electric vehicle">Plug-in electric vehicle</a></li>
+<li><a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">Plug-in hybrid electric vehicle</a></li>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a> <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">ICE</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alcohol_fuel" title="Alcohol fuel">Alcohol fuel</a></li>
+<li><a href="/wiki/Biodiesel" title="Biodiesel">Biodiesel</a></li>
+<li><a href="/wiki/Biogas" title="Biogas">Biogas</a></li>
+<li><a href="/wiki/Butanol_fuel" title="Butanol fuel">Butanol fuel</a></li>
+<li><a href="/wiki/Common_ethanol_fuel_mixtures" title="Common ethanol fuel mixtures">Common ethanol fuel mixtures</a></li>
+<li><a href="/wiki/E85" title="E85">E85</a></li>
+<li><a href="/wiki/Ethanol_fuel" title="Ethanol fuel">Ethanol fuel</a></li>
+<li><a href="/wiki/Flexible-fuel_vehicle" title="Flexible-fuel vehicle">Flexible-fuel vehicle</a></li>
+<li><strong class="selflink">Methanol economy</strong></li>
+<li><a href="/wiki/Methanol_fuel" title="Methanol fuel">Methanol fuel</a></li>
+<li><a href="/wiki/Wood_gas" title="Wood gas">Wood gas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fuel_cell_vehicle" title="Fuel cell vehicle">Fuel cell vehicle</a></li>
+<li><a href="/wiki/Hydrogen_economy" title="Hydrogen economy">Hydrogen economy</a></li>
+<li><a href="/wiki/Hydrogen_vehicle" title="Hydrogen vehicle">Hydrogen vehicle</a></li>
+<li><a href="/wiki/Hydrogen_internal_combustion_engine_vehicle" title="Hydrogen internal combustion engine vehicle">Hydrogen internal combustion engine vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Others</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autogas" title="Autogas">Autogas</a></li>
+<li><a href="/wiki/Hybrid_electric_vehicle" title="Hybrid electric vehicle">Hybrid electric vehicle</a></li>
+<li><a href="/wiki/Liquid_nitrogen_vehicle" title="Liquid nitrogen vehicle">Liquid nitrogen vehicle</a></li>
+<li><a href="/wiki/Natural_gas_vehicle" title="Natural gas vehicle">Natural gas vehicle</a></li>
+<li><a href="/wiki/Propane" title="Propane">Propane</a></li>
+<li><a href="/wiki/Steam_car" title="Steam car">Steam car</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Multiple-fuel</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bi-fuel_vehicle" title="Bi-fuel vehicle">Bi-fuel vehicle</a></li>
+<li><a href="/wiki/Flexible-fuel_vehicle" title="Flexible-fuel vehicle">Flexible-fuel vehicle</a></li>
+<li><a href="/wiki/Hybrid_vehicle" title="Hybrid vehicle">Hybrid vehicle</a></li>
+<li><a href="/wiki/Multifuel" title="Multifuel">Multifuel</a></li>
+<li><a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">Plug-in hybrid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Documentaries</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Who_Killed_the_Electric_Car%3F" title="Who Killed the Electric Car?">Who Killed the Electric Car?</a></i></li>
+<li><i><a href="/wiki/What_Is_the_Electric_Car%3F" title="What Is the Electric Car?">What Is the Electric Car?</a></i></li>
+<li><i><a href="/wiki/Revenge_of_the_Electric_Car" title="Revenge of the Electric Car">Revenge of the Electric Car</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wind-powered_vehicle" title="Wind-powered vehicle">Wind-powered vehicle</a></li>
+<li><a href="/wiki/Zero-emissions_vehicle" title="Zero-emissions vehicle">Zero-emissions vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1197
+Cached time: 20170310235105
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.228 seconds
+Real time usage: 0.275 seconds
+Preprocessor visited node count: 786/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30604/2097152 bytes
+Template argument size: 35/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.091/10.000 seconds
+Lua memory usage: 4.36 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  200.170      1 -total
+ 47.32%   94.729      1 Template:Reflist
+ 24.69%   49.421      3 Template:Cite_journal
+ 16.46%   32.948      1 Template:Convert
+ 13.36%   26.735      1 Template:Main_article
+  8.22%   16.455      3 Template:Cite_book
+  7.75%   15.520      1 Template:Alternative_propulsion
+  6.66%   13.339      1 Template:Navbox
+  4.95%    9.908      1 Template:Portal
+  2.89%    5.783      1 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1816518-0!*!0!!en!4!* and timestamp 20170310235121 and revision id 769674638
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Methanol_economy&amp;oldid=769674638">https://en.wikipedia.org/w/index.php?title=Methanol_economy&amp;oldid=769674638</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Alternative_energy_economy" title="Category:Alternative energy economy">Alternative energy economy</a></li><li><a href="/wiki/Category:Environmental_chemistry" title="Category:Environmental chemistry">Environmental chemistry</a></li><li><a href="/wiki/Category:Alcohol_fuels" title="Category:Alcohol fuels">Alcohol fuels</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Methanol+economy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Methanol+economy" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Methanol_economy"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Methanol_economy"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Methanol_economy" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Methanol_economy&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Methanol_economy&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Methanol_economy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Methanol_economy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Methanol_economy&amp;oldid=769674638" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Methanol_economy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q942208" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Methanol_economy&amp;id=769674638" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Methanol+economy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Methanol+economy&amp;returnto=Methanol+economy&amp;oldid=769674638&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Methanol_economy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Methanolwirtschaft" title="Methanolwirtschaft – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Economia_a_metanolo" title="Economia a metanolo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Metanolgazdas%C3%A1g" title="Metanolgazdaság – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_%D0%BC%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%BB%D0%B0" title="Экономика метанола – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Metanolitalous" title="Metanolitalous – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Metanolekonomi" title="Metanolekonomi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%94%B2%E9%86%87%E7%BB%8F%E6%B5%8E" title="甲醇经济 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q942208#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 March 2017, at 23:51.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Methanol_economy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.275","ppvisitednodes":{"value":786,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":30604,"limit":2097152},"templateargumentsize":{"value":35,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  200.170      1 -total"," 47.32%   94.729      1 Template:Reflist"," 24.69%   49.421      3 Template:Cite_journal"," 16.46%   32.948      1 Template:Convert"," 13.36%   26.735      1 Template:Main_article","  8.22%   16.455      3 Template:Cite_book","  7.75%   15.520      1 Template:Alternative_propulsion","  6.66%   13.339      1 Template:Navbox","  4.95%    9.908      1 Template:Portal","  2.89%    5.783      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.091","limit":"10.000"},"limitreport-memusage":{"value":4568625,"limit":52428800}},"cachereport":{"origin":"mw1197","timestamp":"20170310235105","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1184"});});</script>
+	</body>
+</html>

@@ -1,0 +1,971 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Biogeochemical cycle - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Biogeochemical_cycle","wgTitle":"Biogeochemical cycle","wgCurRevisionId":770324419,"wgRevisionId":770324419,"wgArticleId":398638,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Biogeochemical cycle","Geochemistry","Biogeography"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Biogeochemical_cycle","wgRelevantArticleId":398638,"wgRequestId":"WMhTvQpAAEUAAicx91gAAAAH","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q846303","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/9/94/Water_cycle.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Biogeochemical_cycle"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Biogeochemical_cycle&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Biogeochemical_cycle&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Biogeochemical_cycle"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Biogeochemical_cycle rootpage-Biogeochemical_cycle skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Biogeochemical cycle</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:Water_cycle.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Water_cycle.png/320px-Water_cycle.png" width="320" height="219" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Water_cycle.png/480px-Water_cycle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Water_cycle.png/640px-Water_cycle.png 2x" data-file-width="860" data-file-height="589" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Water_cycle.png" class="internal" title="Enlarge"></a></div>
+A commonly cited example is the <a href="/wiki/Water_cycle" title="Water cycle">water cycle</a>.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Earth_science" title="Earth science">Earth science</a>, a <b>biogeochemical cycle</b> or <b>substance turnover</b> or <b>cycling of substances</b> is a pathway by which a <a href="/wiki/Chemical_substance" title="Chemical substance">chemical substance</a> moves through both the biotic (<a href="/wiki/Biosphere" title="Biosphere">biosphere</a>) and abiotic (<a href="/wiki/Lithosphere" title="Lithosphere">lithosphere</a>, <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a>, and <a href="/wiki/Hydrosphere" title="Hydrosphere">hydrosphere</a>) components of <a href="/wiki/Earth" title="Earth">Earth</a>. A cycle is a series of change which comes back to the starting point and which can be repeated.<sup id="cite_ref-Prentice_Hall_Biology_1-0" class="reference"><a href="#cite_note-Prentice_Hall_Biology-1">[1]</a></sup><sup id="cite_ref-Matter_cycles_at_Lenntech_2-0" class="reference"><a href="#cite_note-Matter_cycles_at_Lenntech-2">[2]</a></sup> Water, for example, is always recycled through the <a href="/wiki/Water_cycle" title="Water cycle">water cycle</a>, as shown in the diagram. The water undergoes <a href="/wiki/Evaporation" title="Evaporation">evaporation</a>, <a href="/wiki/Condensation" title="Condensation">condensation</a>, and <a href="/wiki/Precipitation_(meteorology)" class="mw-redirect" title="Precipitation (meteorology)">precipitation</a>, falling back to Earth. Elements, chemical compounds, and other forms of matter are passed from one organism to another and from one part of the biosphere to another through biogeochemical cycles.<sup id="cite_ref-Prentice_Hall_Biology_1-1" class="reference"><a href="#cite_note-Prentice_Hall_Biology-1">[1]</a></sup><sup id="cite_ref-Matter_cycles_at_Lenntech_2-1" class="reference"><a href="#cite_note-Matter_cycles_at_Lenntech-2">[2]</a></sup>'</p>
+<p>The term "biogeochemical" tells us that biological, geological and chemical factors are all involved. The circulation of chemical nutrients like carbon, oxygen, nitrogen, phosphorus, calcium, and water etc. through the biological and physical world are known as biogeochemical cycles. In effect, the element is recycled, although in some cycles there may be places (called <i>reservoirs</i>) where the element is accumulated or held for a long period of time (such as an ocean or lake for water).<sup id="cite_ref-Prentice_Hall_Biology_1-2" class="reference"><a href="#cite_note-Prentice_Hall_Biology-1">[1]</a></sup><sup id="cite_ref-Matter_cycles_at_Lenntech_2-2" class="reference"><a href="#cite_note-Matter_cycles_at_Lenntech-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Important_cycles">Important cycles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biogeochemical_cycle&amp;action=edit&amp;section=1" title="Edit section: Important cycles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The most well-known and important biogeochemical cycles, for example,</p>
+<ul>
+<li>the <a href="/wiki/Carbon_cycle" title="Carbon cycle">carbon cycle</a>,</li>
+<li>the <a href="/wiki/Nitrogen_cycle" title="Nitrogen cycle">nitrogen cycle</a>,</li>
+<li>the <a href="/wiki/Oxygen_cycle" title="Oxygen cycle">oxygen cycle</a>,</li>
+<li>the <a href="/wiki/Phosphorus_cycle" title="Phosphorus cycle">phosphorus cycle</a>,</li>
+<li>the <a href="/wiki/Sulfur_cycle" title="Sulfur cycle">sulfur cycle</a>,</li>
+<li>the <a href="/wiki/Water_cycle" title="Water cycle">water cycle</a>,</li>
+<li>and the <a href="/wiki/Rock_cycle" title="Rock cycle">rock cycle</a>.</li>
+</ul>
+<p>There are many biogeochemical cycles that are currently being studied for the first time as <a href="/wiki/Climate_change" title="Climate change">climate change</a> and human impacts are drastically changing the speed, intensity, and balance of these relatively unknown cycles. These newly studied biogeochemical cycles include</p>
+<ul>
+<li>the <a href="/wiki/Mercury_cycle" title="Mercury cycle">mercury cycle</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and</li>
+<li>the human-caused cycle of <a href="/wiki/Atrazine" title="Atrazine">atrazine</a>, which may affect certain species.</li>
+</ul>
+<p>Biogeochemical cycles always involve hot equilibrium states: a balance in the cycling of the element between compartments. However, overall balance may involve compartments distributed on a global scale.</p>
+<p>As biogeochemical cycles describe the movements of substances on the entire globe, the study of these is inherently multidisciplinary. The carbon cycle may be related to research in <a href="/wiki/Ecology" title="Ecology">ecology</a> and <a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">atmospheric sciences</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Biochemical dynamics would also be related to the fields of <a href="/wiki/Geology" title="Geology">geology</a> and <a href="/wiki/Pedology_(soil_study)" title="Pedology (soil study)">pedology (soil study)</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<ul class="gallery mw-gallery-traditional center">
+<li class='gallerycaption'>Global biogeochemical cycles critical for life</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:20px auto;"><a href="/wiki/File:Nitrogen_Cycle.jpg" class="image"><img alt="Diagram of the nitrogen cycle" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nitrogen_Cycle.jpg/180px-Nitrogen_Cycle.jpg" width="180" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nitrogen_Cycle.jpg/270px-Nitrogen_Cycle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nitrogen_Cycle.jpg/360px-Nitrogen_Cycle.jpg 2x" data-file-width="475" data-file-height="370" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Nitrogen_cycle" title="Nitrogen cycle">Nitrogen cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:28.5px auto;"><a href="/wiki/File:Water_cycle.png" class="image"><img alt="Diagram of the water cycle" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Water_cycle.png/180px-Water_cycle.png" width="180" height="123" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Water_cycle.png/270px-Water_cycle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Water_cycle.png/360px-Water_cycle.png 2x" data-file-width="860" data-file-height="589" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Water_cycle" title="Water cycle">Water cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:20.5px auto;"><a href="/wiki/File:Carbon_cycle-cute_diagram.svg" class="image"><img alt="Diagram of the carbon cycle" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Carbon_cycle-cute_diagram.svg/180px-Carbon_cycle-cute_diagram.svg.png" width="180" height="139" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Carbon_cycle-cute_diagram.svg/270px-Carbon_cycle-cute_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Carbon_cycle-cute_diagram.svg/360px-Carbon_cycle-cute_diagram.svg.png 2x" data-file-width="540" data-file-height="417" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Carbon_cycle" title="Carbon cycle">Carbon cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:29px auto;"><a href="/wiki/File:Oxygen_cycle.svg" class="image"><img alt="Diagram of the oxygen cycle" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Oxygen_cycle.svg/180px-Oxygen_cycle.svg.png" width="180" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Oxygen_cycle.svg/270px-Oxygen_cycle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Oxygen_cycle.svg/360px-Oxygen_cycle.svg.png 2x" data-file-width="512" data-file-height="348" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Oxygen_cycle" title="Oxygen cycle">Oxygen cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:55px auto;"><a href="/wiki/File:Phoscycle-EPA.jpg" class="image"><img alt="Diagram of the phosphorus cycle" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Phoscycle-EPA.jpg/180px-Phoscycle-EPA.jpg" width="180" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Phoscycle-EPA.jpg/270px-Phoscycle-EPA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Phoscycle-EPA.jpg/360px-Phoscycle-EPA.jpg 2x" data-file-width="450" data-file-height="175" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Phosphorus_cycle" title="Phosphorus cycle">Phosphorus cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:24.5px auto;"><a href="/wiki/File:SulfurCycle_copy.jpg" class="image"><img alt="Diagram of the sulfur cycle" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/SulfurCycle_copy.jpg/180px-SulfurCycle_copy.jpg" width="180" height="131" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/SulfurCycle_copy.jpg/270px-SulfurCycle_copy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/SulfurCycle_copy.jpg/360px-SulfurCycle_copy.jpg 2x" data-file-width="593" data-file-height="431" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Sulfur_cycle" title="Sulfur cycle">Sulfur cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Rockcycle.jpg" class="image"><img alt="Diagram of the rock cycle" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rockcycle.jpg/174px-Rockcycle.jpg" width="174" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rockcycle.jpg/261px-Rockcycle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rockcycle.jpg/348px-Rockcycle.jpg 2x" data-file-width="1608" data-file-height="1386" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Rock_cycle" title="Rock cycle">Rock cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:18.5px auto;"><a href="/wiki/File:WhalePump.jpg" class="image"><img alt="Diagram of the nutrient cycle" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WhalePump.jpg/180px-WhalePump.jpg" width="180" height="143" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WhalePump.jpg/270px-WhalePump.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WhalePump.jpg/360px-WhalePump.jpg 2x" data-file-width="1589" data-file-height="1264" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Nutrient cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:15px auto;"><a href="/wiki/File:FoodWeb.jpg" class="image"><img alt="Diagram of the food cycle" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/FoodWeb.jpg/130px-FoodWeb.jpg" width="130" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/FoodWeb.jpg/194px-FoodWeb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/FoodWeb.jpg/259px-FoodWeb.jpg 2x" data-file-width="1200" data-file-height="1388" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Food_web" title="Food web">Food cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+<div class="thumb" style="width: 210px;">
+<div style="margin:22.5px auto;"><a href="/wiki/File:Genomics_GTL_Program_Payoffs.jpg" class="image"><img alt="Ecological analysis of CO2 in an ecosystem" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Genomics_GTL_Program_Payoffs.jpg/180px-Genomics_GTL_Program_Payoffs.jpg" width="180" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Genomics_GTL_Program_Payoffs.jpg/270px-Genomics_GTL_Program_Payoffs.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Genomics_GTL_Program_Payoffs.jpg/360px-Genomics_GTL_Program_Payoffs.jpg 2x" data-file-width="750" data-file-height="563" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/CO2" class="mw-redirect" title="CO2">CO<sub>2</sub></a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biogeochemical_cycle&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" width="32" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" width="32" height="21" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" data-file-width="6000" data-file-height="4000" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/28px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/42px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/56px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" data-file-width="2790" data-file-height="2776" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;">
+<ul>
+<li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Bioregion" title="Bioregion">Bioregion</a></li>
+<li><a href="/wiki/Earth_science" title="Earth science">Earth science</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/Soil_zoology" title="Soil zoology">Soil zoology</a></li>
+<li><a href="/wiki/GEOTRACES" class="mw-redirect" title="GEOTRACES">GEOTRACES</a></li>
+<li><a href="/wiki/Holistic_management" class="mw-redirect" title="Holistic management">Holistic management</a></li>
+<li><a href="/wiki/Natural_environment" title="Natural environment">Natural environment</a></li>
+<li><a href="/wiki/Nature" title="Nature">Nature</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Nutrient cycle</a></li>
+<li><a href="/wiki/Planetary_boundaries#Biogeochemical" title="Planetary boundaries">Planetary boundaries</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biogeochemical_cycle&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Prentice_Hall_Biology-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Prentice_Hall_Biology_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Prentice_Hall_Biology_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Prentice_Hall_Biology_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Prentice Hall Biology.</span></li>
+<li id="cite_note-Matter_cycles_at_Lenntech-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Matter_cycles_at_Lenntech_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Matter_cycles_at_Lenntech_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Matter_cycles_at_Lenntech_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lenntech.com/matter-cycles.htm">Matter cycles at Lenntech.</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wi.water.usgs.gov/mercury/mercury-cycling.html">Mercury Cycling in the Environment. USGS. October 17, 2008.</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://neespi.org/science/NEESPI_SP_chapters/SP_Chapter_3.2.pdf">A. G. Georgiadi, et al. 3.2. Biogeochemical Cycles.</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://daac.ornl.gov/">Distributed Active Archive Center for Biogeochemical Data.</a></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Biogeochemical_cycles" style="padding:3px">
+<table class="nowraplinks collapsible expamded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Biogeochemical_cycle" title="Template:Biogeochemical cycle"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Biogeochemical_cycle" title="Template talk:Biogeochemical cycle"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Biogeochemical_cycle&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Biogeochemical_cycles" style="font-size:114%;margin:0 4em"><strong class="selflink">Biogeochemical cycles</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><strong class="selflink">Cycles</strong></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_cycle" title="Carbon cycle">Carbon cycle</a></li>
+<li><a href="/wiki/Hydrogen_cycle" title="Hydrogen cycle">Hydrogen cycle</a></li>
+<li><a href="/wiki/Iron_cycle" title="Iron cycle">Iron cycle</a></li>
+<li><a href="/wiki/Mercury_cycle" title="Mercury cycle">Mercury cycle</a></li>
+<li><a href="/wiki/Mineral_cycle" title="Mineral cycle">Mineral cycle</a></li>
+<li><a href="/wiki/Nitrogen_cycle" title="Nitrogen cycle">Nitrogen cycle</a></li>
+<li><a href="/wiki/Oxygen_cycle" title="Oxygen cycle">Oxygen cycle</a>
+<ul>
+<li><a href="/wiki/Ozone%E2%80%93oxygen_cycle" title="Ozone–oxygen cycle">ozone</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Phosphorus_cycle" title="Phosphorus cycle">Phosphorus cycle</a></li>
+<li><a href="/wiki/Rock_cycle" title="Rock cycle">Rock cycle</a></li>
+<li><a href="/wiki/Selenium_cycle" title="Selenium cycle">Selenium cycle</a></li>
+<li><a href="/wiki/Sulfur_cycle" title="Sulfur cycle">Sulfur cycle</a></li>
+<li><a href="/wiki/Water_cycle" title="Water cycle">Water cycle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Research groups</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Oak_Ridge_National_Laboratory_DAAC" title="Oak Ridge National Laboratory DAAC">DAAC</a></li>
+<li><a href="/wiki/Geotraces" title="Geotraces">GEOTRACES</a></li>
+<li><a href="/wiki/IMBER" title="IMBER">IMBER</a></li>
+<li><a href="/wiki/NOBM" title="NOBM">NOBM</a></li>
+<li><a href="/wiki/Surface_Ocean_Lower_Atmosphere_Study" title="Surface Ocean Lower Atmosphere Study">SOLAS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biogeochemistry" title="Biogeochemistry">Biogeochemistry</a>
+<ul>
+<li><a href="/wiki/Geochemical_cycle" title="Geochemical cycle">geochemical cycle</a></li>
+<li><a href="/wiki/Chemical_cycling" title="Chemical cycling">chemical cycling</a></li>
+<li><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">environmental chemistry</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Biosequestration" title="Biosequestration">Biosequestration</a>
+<ul>
+<li><a href="/wiki/Carbon_sequestration" title="Carbon sequestration">carbon sequestration</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">carbon sink</a></li>
+<li><a href="/wiki/Soil_carbon" title="Soil carbon">soil carbon</a></li>
+<li><a href="/wiki/Biological_pump" title="Biological pump">biological pump</a></li>
+<li><a href="/wiki/Mycorrhizal_fungi_and_soil_carbon_storage" title="Mycorrhizal fungi and soil carbon storage">mycorrhizal fungi</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a>
+<ul>
+<li><a href="/wiki/Acid_rain" title="Acid rain">acid rain</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Methane_clathrate" title="Methane clathrate">Methane clathrate</a>
+<ul>
+<li><a href="/wiki/Clathrate_gun_hypothesis" title="Clathrate gun hypothesis">clathrate gun hypothesis</a></li>
+<li><a href="/wiki/Arctic_methane_emissions" title="Arctic methane emissions">Arctic methane emissions</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Human_impact_on_the_nitrogen_cycle" title="Human impact on the nitrogen cycle">Human impact on the nitrogen cycle</a></li>
+<li><a href="/wiki/Nitrification" title="Nitrification">Nitrification</a></li>
+<li><a href="/wiki/Nitrogen_fixation" title="Nitrogen fixation">Nitrogen fixation</a></li>
+<li><a href="/wiki/Nitrogen_assimilation" title="Nitrogen assimilation">Nitrogen assimilation</a></li>
+<li><a href="/wiki/Phosphate_solubilizing_bacteria" title="Phosphate solubilizing bacteria">Phosphorus assimilation</a></li>
+<li><a href="/wiki/Sulfur_assimilation" title="Sulfur assimilation">Sulfur assimilation</a></li>
+<li><a href="/wiki/Planetary_boundaries#Biogeochemical" title="Planetary boundaries">Planetary boundaries</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Ecology:_Modelling_ecosystems:_Trophic_components" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ecology:_Modelling_ecosystems:_Trophic_components" style="font-size:114%;margin:0 4em"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: <a href="/wiki/Trophic_level" title="Trophic level">Trophic</a> components</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abiotic_component" title="Abiotic component">Abiotic component</a></li>
+<li><a href="/wiki/Abiotic_stress" title="Abiotic stress">Abiotic stress</a></li>
+<li><a href="/wiki/Behavioral_ecology" title="Behavioral ecology">Behaviour</a></li>
+<li><strong class="selflink">Biogeochemical cycle</strong></li>
+<li><a href="/wiki/Biomass_(ecology)" title="Biomass (ecology)">Biomass</a></li>
+<li><a href="/wiki/Biotic_component" title="Biotic component">Biotic component</a></li>
+<li><a href="/wiki/Biotic_stress" title="Biotic stress">Biotic stress</a></li>
+<li><a href="/wiki/Carrying_capacity" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Competition_(biology)" title="Competition (biology)">Competition</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/Ecosystem_ecology" title="Ecosystem ecology">Ecosystem ecology</a></li>
+<li><a href="/wiki/Ecosystem_model" title="Ecosystem model">Ecosystem model</a></li>
+<li><a href="/wiki/Keystone_species" title="Keystone species">Keystone species</a></li>
+<li><a href="/wiki/List_of_feeding_behaviours" title="List of feeding behaviours">List of feeding behaviours</a></li>
+<li><a href="/wiki/Metabolic_theory_of_ecology" title="Metabolic theory of ecology">Metabolic theory of ecology</a></li>
+<li><a href="/wiki/Productivity_(ecology)" title="Productivity (ecology)">Productivity</a></li>
+<li><a href="/wiki/Resource_(biology)" title="Resource (biology)">Resource</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Primary_producers" title="Primary producers">Producers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autotroph" title="Autotroph">Autotrophs</a></li>
+<li><a href="/wiki/Chemosynthesis" title="Chemosynthesis">Chemosynthesis</a></li>
+<li><a href="/wiki/Chemotroph" title="Chemotroph">Chemotrophs</a></li>
+<li><a href="/wiki/Foundation_species" title="Foundation species">Foundation species</a></li>
+<li><a href="/wiki/Mixotroph" title="Mixotroph">Mixotrophs</a></li>
+<li><a href="/wiki/Myco-heterotrophy" title="Myco-heterotrophy">Myco-heterotrophy</a></li>
+<li><a href="/wiki/Mycotroph" title="Mycotroph">Mycotroph</a></li>
+<li><a href="/wiki/Organotroph" title="Organotroph">Organotrophs</a></li>
+<li><a href="/wiki/Photoheterotroph" title="Photoheterotroph">Photoheterotrophs</a></li>
+<li><a href="/wiki/Photosynthesis" title="Photosynthesis">Photosynthesis</a></li>
+<li><a href="/wiki/Photosynthetic_efficiency" title="Photosynthetic efficiency">Photosynthetic efficiency</a></li>
+<li><a href="/wiki/Phototroph" title="Phototroph">Phototrophs</a></li>
+<li><a href="/wiki/Primary_nutritional_groups" title="Primary nutritional groups">Primary nutritional groups</a></li>
+<li><a href="/wiki/Primary_production" title="Primary production">Primary production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Consumers_(food_chain)" class="mw-redirect" title="Consumers (food chain)">Consumers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apex_predator" title="Apex predator">Apex predator</a></li>
+<li><a href="/wiki/Bacterivore" title="Bacterivore">Bacterivore</a></li>
+<li><a href="/wiki/Carnivore" title="Carnivore">Carnivores</a></li>
+<li><a href="/wiki/Chemoorganotroph" class="mw-redirect" title="Chemoorganotroph">Chemoorganotroph</a></li>
+<li><a href="/wiki/Foraging" title="Foraging">Foraging</a></li>
+<li><a href="/wiki/Generalist_and_specialist_species" title="Generalist and specialist species">Generalist and specialist species</a></li>
+<li><a href="/wiki/Intraguild_predation" title="Intraguild predation">Intraguild predation</a></li>
+<li><a href="/wiki/Herbivore" title="Herbivore">Herbivores</a></li>
+<li><a href="/wiki/Heterotroph" title="Heterotroph">Heterotroph</a></li>
+<li><a href="/wiki/Heterotrophic_nutrition" title="Heterotrophic nutrition">Heterotrophic nutrition</a></li>
+<li><a href="/wiki/Insectivore" title="Insectivore">Insectivore</a></li>
+<li><a href="/wiki/Mesopredator_release_hypothesis" title="Mesopredator release hypothesis">Mesopredator release hypothesis</a></li>
+<li><a href="/wiki/Omnivore" title="Omnivore">Omnivores</a></li>
+<li><a href="/wiki/Optimal_foraging_theory" title="Optimal foraging theory">Optimal foraging theory</a></li>
+<li><a href="/wiki/Predation" title="Predation">Predation</a></li>
+<li><a href="/wiki/Prey_switching" title="Prey switching">Prey switching</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Decomposer" title="Decomposer">Decomposers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemoorganoheterotrophy" class="mw-redirect" title="Chemoorganoheterotrophy">Chemoorganoheterotrophy</a></li>
+<li><a href="/wiki/Decomposition" title="Decomposition">Decomposition</a></li>
+<li><a href="/wiki/Detritivore" title="Detritivore">Detritivores</a></li>
+<li><a href="/wiki/Detritus" title="Detritus">Detritus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Microorganism#Habitats_and_ecology" title="Microorganism">Microorganisms</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Archaea" title="Archaea">Archaea</a></li>
+<li><a href="/wiki/Bacteriophage" title="Bacteriophage">Bacteriophage</a></li>
+<li><a href="/wiki/Environmental_microbiology" class="mw-redirect" title="Environmental microbiology">Environmental microbiology</a></li>
+<li><a href="/wiki/Lithoautotroph" title="Lithoautotroph">Lithoautotroph</a></li>
+<li><a href="/wiki/Lithotroph" title="Lithotroph">Lithotrophy</a></li>
+<li><a href="/wiki/Microbial_cooperation" title="Microbial cooperation">Microbial cooperation</a></li>
+<li><a href="/wiki/Microbial_ecology" title="Microbial ecology">Microbial ecology</a></li>
+<li><a href="/wiki/Microbial_food_web" title="Microbial food web">Microbial food web</a></li>
+<li><a href="/wiki/Microbial_intelligence" title="Microbial intelligence">Microbial intelligence</a></li>
+<li><a href="/wiki/Microbial_loop" title="Microbial loop">Microbial loop</a></li>
+<li><a href="/wiki/Microbial_mat" title="Microbial mat">Microbial mat</a></li>
+<li><a href="/wiki/Microbial_metabolism" title="Microbial metabolism">Microbial metabolism</a></li>
+<li><a href="/wiki/Phage_ecology" title="Phage ecology">Phage ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Food_web" title="Food web">Food webs</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomagnification" title="Biomagnification">Biomagnification</a></li>
+<li><a href="/wiki/Ecological_efficiency" title="Ecological efficiency">Ecological efficiency</a></li>
+<li><a href="/wiki/Ecological_pyramid" title="Ecological pyramid">Ecological pyramid</a></li>
+<li><a href="/wiki/Energy_flow_(ecology)" title="Energy flow (ecology)">Energy flow</a></li>
+<li><a href="/wiki/Food_chain" title="Food chain">Food chain</a></li>
+<li><a href="/wiki/Trophic_level" title="Trophic level">Trophic level</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Example webs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seeps</a></li>
+<li><a href="/wiki/Hydrothermal_vent#Biological_communities" title="Hydrothermal vent">Hydrothermal vents</a></li>
+<li><a href="/wiki/Intertidal_ecology" title="Intertidal ecology">Intertidal</a></li>
+<li><a href="/wiki/Kelp_forest#Trophic_ecology" title="Kelp forest">Kelp forests</a></li>
+<li><a href="/wiki/Lake_ecosystem#Trophic_relationships" title="Lake ecosystem">Lakes</a></li>
+<li><a href="/wiki/North_Pacific_Subtropical_Gyre" class="mw-redirect" title="North Pacific Subtropical Gyre">North Pacific Subtropical Gyre</a></li>
+<li><a href="/wiki/River_ecosystem#Trophic_relationships" title="River ecosystem">Rivers</a></li>
+<li><a href="/wiki/Ecology_of_the_San_Francisco_Estuary#Food_web" title="Ecology of the San Francisco Estuary">San Francisco Estuary</a></li>
+<li><a href="/wiki/Soil_food_web" title="Soil food web">Soil</a></li>
+<li><a href="/wiki/Tide_pool" title="Tide pool">Tide pool</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Processes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ascendency" title="Ascendency">Ascendency</a></li>
+<li><a href="/wiki/Bioaccumulation" title="Bioaccumulation">Bioaccumulation</a></li>
+<li><a href="/wiki/Cascade_effect_(ecology)" title="Cascade effect (ecology)">Cascade effect</a></li>
+<li><a href="/wiki/Climax_community" title="Climax community">Climax community</a></li>
+<li><a href="/wiki/Competitive_exclusion_principle" title="Competitive exclusion principle">Competitive exclusion principle</a></li>
+<li><a href="/wiki/Consumer-resource_systems" title="Consumer-resource systems">Consumer-resource systems</a></li>
+<li><a href="/wiki/Copiotroph" title="Copiotroph">Copiotrophs</a></li>
+<li><a href="/wiki/Dominance_(ecology)" title="Dominance (ecology)">Dominance</a></li>
+<li><a href="/wiki/Ecological_network" title="Ecological network">Ecological network</a></li>
+<li><a href="/wiki/Ecological_succession" title="Ecological succession">Ecological succession</a></li>
+<li><a href="/wiki/Energy_quality" title="Energy quality">Energy quality</a></li>
+<li><a href="/wiki/Energy_Systems_Language" title="Energy Systems Language">Energy Systems Language</a></li>
+<li><a href="/wiki/F-ratio" title="F-ratio">f-ratio</a></li>
+<li><a href="/wiki/Feed_conversion_ratio" title="Feed conversion ratio">Feed conversion ratio</a></li>
+<li><a href="/wiki/Feeding_frenzy" title="Feeding frenzy">Feeding frenzy</a></li>
+<li><a href="/wiki/Mesotrophic_soil" title="Mesotrophic soil">Mesotrophic soil</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Nutrient cycle</a></li>
+<li><a href="/wiki/Oligotroph" title="Oligotroph">Oligotroph</a></li>
+<li><a href="/wiki/Paradox_of_the_plankton" title="Paradox of the plankton">Paradox of the plankton</a></li>
+<li><a href="/wiki/Trophic_cascade" title="Trophic cascade">Trophic cascade</a></li>
+<li><a href="/wiki/Trophic_mutualism" title="Trophic mutualism">Trophic mutualism</a></li>
+<li><a href="/wiki/Trophic_state_index" title="Trophic state index">Trophic state index</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Defense/counter</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Animal_coloration" title="Animal coloration">Animal coloration</a></li>
+<li><a href="/wiki/Antipredator_adaptation" class="mw-redirect" title="Antipredator adaptation">Antipredator adaptations</a></li>
+<li><a href="/wiki/Camouflage" title="Camouflage">Camouflage</a></li>
+<li><a href="/wiki/Deimatic_behaviour" title="Deimatic behaviour">Deimatic behaviour</a></li>
+<li><a href="/wiki/Herbivore_adaptations_to_plant_defense" title="Herbivore adaptations to plant defense">Herbivore adaptations to plant defense</a></li>
+<li><a href="/wiki/Mimicry" title="Mimicry">Mimicry</a></li>
+<li><a href="/wiki/Plant_defense_against_herbivory" title="Plant defense against herbivory">Plant defense against herbivory</a></li>
+<li><a href="/wiki/Shoaling_and_schooling#Predator_avoidance" title="Shoaling and schooling">Predator avoidance in schooling fish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Ecology:_Modelling_ecosystems:_Other_components" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ecology:_Modelling_ecosystems:_Other_components" style="font-size:114%;margin:0 4em"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: Other components</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Population_ecology" title="Population ecology">Population ecology</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abundance_(ecology)" title="Abundance (ecology)">Abundance</a></li>
+<li><a href="/wiki/Allee_effect" title="Allee effect">Allee effect</a></li>
+<li><a href="/wiki/Depensation" title="Depensation">Depensation</a></li>
+<li><a href="/wiki/Ecological_yield" title="Ecological yield">Ecological yield</a></li>
+<li><a href="/wiki/Effective_population_size" title="Effective population size">Effective population size</a></li>
+<li><a href="/wiki/Intraspecific_competition" title="Intraspecific competition">Intraspecific competition</a></li>
+<li><a href="/wiki/Logistic_function" title="Logistic function">Logistic function</a></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Maximum_sustainable_yield" title="Maximum sustainable yield">Maximum sustainable yield</a></li>
+<li><a href="/wiki/Overpopulation_in_wild_animals" class="mw-redirect" title="Overpopulation in wild animals">Overpopulation in wild animals</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Population_cycle" title="Population cycle">Population cycle</a></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_modeling" class="mw-redirect" title="Population modeling">Population modeling</a></li>
+<li><a href="/wiki/Population_size" title="Population size">Population size</a></li>
+<li><a href="/wiki/Lotka%E2%80%93Volterra_equations" title="Lotka–Volterra equations">Predator–prey (Lotka–Volterra) equations</a></li>
+<li><a href="/wiki/Recruitment_(biology)" title="Recruitment (biology)">Recruitment</a></li>
+<li><a href="/wiki/Resilience_(ecology)" class="mw-redirect" title="Resilience (ecology)">Resilience</a></li>
+<li><a href="/wiki/Small_population_size" title="Small population size">Small population size</a></li>
+<li><a href="/wiki/Ecological_stability" title="Ecological stability">Stability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Species</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Density-dependent_inhibition" class="mw-redirect" title="Density-dependent inhibition">Density-dependent inhibition</a></li>
+<li><a href="/wiki/Ecological_effects_of_biodiversity" title="Ecological effects of biodiversity">Ecological effects of biodiversity</a></li>
+<li><a href="/wiki/Ecological_extinction" title="Ecological extinction">Ecological extinction</a></li>
+<li><a href="/wiki/Endemic_species" class="mw-redirect" title="Endemic species">Endemic species</a></li>
+<li><a href="/wiki/Flagship_species" title="Flagship species">Flagship species</a></li>
+<li><a href="/wiki/Gradient_analysis" class="mw-redirect" title="Gradient analysis">Gradient analysis</a></li>
+<li><a href="/wiki/Indicator_species" title="Indicator species">Indicator species</a></li>
+<li><a href="/wiki/Introduced_species" title="Introduced species">Introduced species</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+<li><a href="/wiki/Latitudinal_gradients_in_species_diversity" title="Latitudinal gradients in species diversity">Latitudinal gradients in species diversity</a></li>
+<li><a href="/wiki/Minimum_viable_population" title="Minimum viable population">Minimum viable population</a></li>
+<li><a href="/wiki/Unified_neutral_theory_of_biodiversity" title="Unified neutral theory of biodiversity">Neutral theory</a></li>
+<li><a href="/wiki/Occupancy%E2%80%93abundance_relationship" title="Occupancy–abundance relationship">Occupancy–abundance relationship</a></li>
+<li><a href="/wiki/Population_viability_analysis" title="Population viability analysis">Population viability analysis</a></li>
+<li><a href="/wiki/Priority_effect" title="Priority effect">Priority effect</a></li>
+<li><a href="/wiki/Rapoport%27s_rule" title="Rapoport's rule">Rapoport's rule</a></li>
+<li><a href="/wiki/Relative_abundance_distribution" title="Relative abundance distribution">Relative abundance distribution</a></li>
+<li><a href="/wiki/Relative_species_abundance" title="Relative species abundance">Relative species abundance</a></li>
+<li><a href="/wiki/Species_diversity" title="Species diversity">Species diversity</a></li>
+<li><a href="/wiki/Species_homogeneity" title="Species homogeneity">Species homogeneity</a></li>
+<li><a href="/wiki/Species_richness" title="Species richness">Species richness</a></li>
+<li><a href="/wiki/Species_distribution" title="Species distribution">Species distribution</a></li>
+<li><a href="/wiki/Species-area_curve" class="mw-redirect" title="Species-area curve">Species-area curve</a></li>
+<li><a href="/wiki/Umbrella_species" title="Umbrella species">Umbrella species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Species interaction</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antibiosis" title="Antibiosis">Antibiosis</a></li>
+<li><a href="/wiki/Biological_interaction" title="Biological interaction">Biological interaction</a></li>
+<li><a href="/wiki/Commensalism" title="Commensalism">Commensalism</a></li>
+<li><a href="/wiki/Community_ecology" class="mw-redirect" title="Community ecology">Community ecology</a></li>
+<li><a href="/wiki/Ecological_facilitation" title="Ecological facilitation">Ecological facilitation</a></li>
+<li><a href="/wiki/Interspecific_competition" title="Interspecific competition">Interspecific competition</a></li>
+<li><a href="/wiki/Mutualism_(biology)" title="Mutualism (biology)">Mutualism</a></li>
+<li><a href="/wiki/Storage_effect" title="Storage effect">Storage effect</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Spatial_ecology" title="Spatial ecology">Spatial ecology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biogeography" title="Biogeography">Biogeography</a></li>
+<li><a href="/wiki/Cross-boundary_subsidy" title="Cross-boundary subsidy">Cross-boundary subsidy</a></li>
+<li><a href="/wiki/Ecocline" class="mw-redirect" title="Ecocline">Ecocline</a></li>
+<li><a href="/wiki/Ecotone" title="Ecotone">Ecotone</a></li>
+<li><a href="/wiki/Ecotype" title="Ecotype">Ecotype</a></li>
+<li><a href="/wiki/Disturbance_(ecology)" title="Disturbance (ecology)">Disturbance</a></li>
+<li><a href="/wiki/Edge_effects" title="Edge effects">Edge effects</a></li>
+<li><a href="/wiki/Foster%27s_rule" title="Foster's rule">Foster's rule</a></li>
+<li><a href="/wiki/Habitat_fragmentation" title="Habitat fragmentation">Habitat fragmentation</a></li>
+<li><a href="/wiki/Ideal_free_distribution" title="Ideal free distribution">Ideal free distribution</a></li>
+<li><a href="/wiki/Intermediate_Disturbance_Hypothesis" title="Intermediate Disturbance Hypothesis">Intermediate Disturbance Hypothesis</a></li>
+<li><a href="/wiki/Island_biogeography" class="mw-redirect" title="Island biogeography">Island biogeography</a></li>
+<li><a href="/wiki/Landscape_ecology" title="Landscape ecology">Landscape ecology</a></li>
+<li><a href="/wiki/Landscape_epidemiology" title="Landscape epidemiology">Landscape epidemiology</a></li>
+<li><a href="/wiki/Landscape_limnology" title="Landscape limnology">Landscape limnology</a></li>
+<li><a href="/wiki/Metapopulation" title="Metapopulation">Metapopulation</a></li>
+<li><a href="/wiki/Patch_dynamics" title="Patch dynamics">Patch dynamics</a></li>
+<li><a href="/wiki/R/K_selection_theory" title="R/K selection theory">r/K selection theory</a></li>
+<li><a href="/wiki/Source%E2%80%93sink_dynamics" title="Source–sink dynamics">Source–sink dynamics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Ecological_niche" title="Ecological niche">Niche</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ecological_niche" title="Ecological niche">Ecological niche</a></li>
+<li><a href="/wiki/Ecological_trap" title="Ecological trap">Ecological trap</a></li>
+<li><a href="/wiki/Ecosystem_engineer" title="Ecosystem engineer">Ecosystem engineer</a></li>
+<li><a href="/wiki/Environmental_niche_modelling" title="Environmental niche modelling">Environmental niche modelling</a></li>
+<li><a href="/wiki/Guild_(ecology)" title="Guild (ecology)">Guild</a></li>
+<li><a href="/wiki/Habitat" title="Habitat">Habitat</a></li>
+<li><a href="/wiki/Marine_habitats" title="Marine habitats">Marine habitats</a></li>
+<li><a href="/wiki/Limiting_similarity" title="Limiting similarity">Limiting similarity</a></li>
+<li><a href="/wiki/Niche_apportionment_models" title="Niche apportionment models">Niche apportionment models</a></li>
+<li><a href="/wiki/Niche_construction" title="Niche construction">Niche construction</a></li>
+<li><a href="/wiki/Niche_differentiation" title="Niche differentiation">Niche differentiation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Non-trophic_networks" title="Non-trophic networks">Other networks</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Assembly_rules" title="Assembly rules">Assembly rules</a></li>
+<li><a href="/wiki/Bateman%27s_principle" title="Bateman's principle">Bateman's principle</a></li>
+<li><a href="/wiki/Bioluminescence" title="Bioluminescence">Bioluminescence</a></li>
+<li><a href="/wiki/Ecological_collapse" title="Ecological collapse">Ecological collapse</a></li>
+<li><a href="/wiki/Ecological_debt" title="Ecological debt">Ecological debt</a></li>
+<li><a href="/wiki/Ecological_deficit" class="mw-redirect" title="Ecological deficit">Ecological deficit</a></li>
+<li><a href="/wiki/Ecological_energetics" class="mw-redirect" title="Ecological energetics">Ecological energetics</a></li>
+<li><a href="/wiki/Ecological_indicator" title="Ecological indicator">Ecological indicator</a></li>
+<li><a href="/wiki/Ecological_threshold" title="Ecological threshold">Ecological threshold</a></li>
+<li><a href="/wiki/Ecosystem_diversity" title="Ecosystem diversity">Ecosystem diversity</a></li>
+<li><a href="/wiki/Emergence" title="Emergence">Emergence</a></li>
+<li><a href="/wiki/Extinction_debt" title="Extinction debt">Extinction debt</a></li>
+<li><a href="/wiki/Kleiber%27s_law" title="Kleiber's law">Kleiber's law</a></li>
+<li><a href="/wiki/Liebig%27s_law_of_the_minimum" title="Liebig's law of the minimum">Liebig's law of the minimum</a></li>
+<li><a href="/wiki/Marginal_value_theorem" title="Marginal value theorem">Marginal value theorem</a></li>
+<li><a href="/wiki/Thorson%27s_rule" title="Thorson's rule">Thorson's rule</a></li>
+<li><a href="/wiki/Xerosere" title="Xerosere">Xerosere</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Allometry" title="Allometry">Allometry</a></li>
+<li><a href="/wiki/Alternative_stable_state" title="Alternative stable state">Alternative stable state</a></li>
+<li><a href="/wiki/Balance_of_nature" title="Balance of nature">Balance of nature</a></li>
+<li><a href="/wiki/Biological_data_visualization" title="Biological data visualization">Biological data visualization</a></li>
+<li><a href="/wiki/Constructal_theory" class="mw-redirect" title="Constructal theory">Constructal theory</a></li>
+<li><a href="/wiki/Cline_(biology)" title="Cline (biology)">Ecocline</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ecological_forecasting" title="Ecological forecasting">Ecological forecasting</a></li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li><a href="/wiki/Ecological_stoichiometry" title="Ecological stoichiometry">Ecological stoichiometry</a></li>
+<li><a href="/wiki/Ecopath" title="Ecopath">Ecopath</a></li>
+<li><a href="/wiki/Ecosystem_based_fisheries" class="mw-redirect" title="Ecosystem based fisheries">Ecosystem based fisheries</a></li>
+<li><a href="/wiki/Endolith" title="Endolith">Endolith</a></li>
+<li><a href="/wiki/Evolutionary_ecology" title="Evolutionary ecology">Evolutionary ecology</a></li>
+<li><a href="/wiki/Functional_ecology" title="Functional ecology">Functional ecology</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Macroecology" title="Macroecology">Macroecology</a></li>
+<li><a href="/wiki/Microecosystem" title="Microecosystem">Microecosystem</a></li>
+<li><a href="/wiki/Natural_environment" title="Natural environment">Natural environment</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Theoretical_ecology" title="Theoretical ecology">Theoretical ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/List_of_ecology_topics" class="mw-redirect" title="List of ecology topics">List of ecology topics</a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00576377">00576377</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20170314203406
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.181 seconds
+Preprocessor visited node count: 520/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54159/2097152 bytes
+Template argument size: 32/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/500
+Lua time usage: 0.038/10.000 seconds
+Lua memory usage: 1.46 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   93.940      1 -total
+ 27.74%   26.059      1 Template:Portal
+ 26.68%   25.062      1 Template:Authority_control
+ 25.72%   24.162      3 Template:Navbox
+ 15.39%   14.453      1 Template:Biogeochemical_cycle
+ 15.18%   14.256      1 Template:Modelling_ecosystems
+  6.93%    6.509      1 Template:Reflist
+  4.87%    4.578      1 Template:Colbegin
+  2.61%    2.451      1 Template:Colend
+  1.35%    1.271      1 Template:Column-width
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:398638-0!*!0!!*!4!* and timestamp 20170314203405 and revision id 770324419
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Biogeochemical_cycle&amp;oldid=770324419">https://en.wikipedia.org/w/index.php?title=Biogeochemical_cycle&amp;oldid=770324419</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Biogeochemical_cycle" title="Category:Biogeochemical cycle">Biogeochemical cycle</a></li><li><a href="/wiki/Category:Geochemistry" title="Category:Geochemistry">Geochemistry</a></li><li><a href="/wiki/Category:Biogeography" title="Category:Biogeography">Biogeography</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Biogeochemical+cycle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Biogeochemical+cycle" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Biogeochemical_cycle"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Biogeochemical_cycle"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Biogeochemical_cycle" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Biogeochemical_cycle&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Biogeochemical_cycle&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Biogeochemical_cycle" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Biogeochemical_cycle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Biogeochemical_cycle&amp;oldid=770324419" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Biogeochemical_cycle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q846303" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Biogeochemical_cycle&amp;id=770324419" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Biogeochemical+cycle">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Biogeochemical+cycle&amp;returnto=Biogeochemical+cycle&amp;oldid=770324419&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Biogeochemical_cycle&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Biogeochemical_cycle" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D8%A9_%D8%AD%D9%8A%D9%88%D9%8A%D8%A9_%D8%AC%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9_%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9" title="دورة حيوية جيولوجية كيميائية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%91%D1%96%D1%8F%D1%85%D1%96%D0%BC%D1%96%D1%87%D0%BD%D1%8B_%D0%BA%D1%80%D1%83%D0%B3%D0%B0%D0%B2%D0%B0%D1%80%D0%BE%D1%82" title="Біяхімічны кругаварот – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9A%D1%80%D1%83%D0%B3%D0%B0%D0%B2%D0%B0%D1%80%D0%BE%D1%82_%D1%80%D1%8D%D1%87%D1%8B%D0%B2%D0%B0%D1%9E_%D1%83_%D0%B1%D1%96%D1%8F%D1%81%D1%84%D1%8D%D1%80%D1%8B" title="Кругаварот рэчываў у біясфэры – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Cicle_biogeoqu%C3%ADmic" title="Cicle biogeoquímic – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Biogeochemick%C3%BD_cyklus" title="Biogeochemický cyklus – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Stofkredsl%C3%B8b" title="Stofkredsløb – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Aineringe" title="Aineringe – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BF%CE%B3%CE%B5%CF%89%CF%87%CE%B7%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%BA%CF%8D%CE%BA%CE%BB%CE%BF%CF%82" title="Βιογεωχημικός κύκλος – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ciclo_biogeoqu%C3%ADmico" title="Ciclo biogeoquímico – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ziklo_biogeokimiko" title="Ziklo biogeokimiko – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%AE%D9%87_%D8%A8%DB%8C%D9%88%DA%98%D8%A6%D9%88%D8%B4%DB%8C%D9%85%DB%8C" title="چرخه بیوژئوشیمی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cycle_biog%C3%A9ochimique" title="Cycle biogéochimique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ciclo_bioxeoqu%C3%ADmico" title="Ciclo bioxeoquímico – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%83%9D%EB%AC%BC%EC%A7%80%EA%B5%AC%ED%99%94%ED%95%99%EC%A0%81_%EC%88%9C%ED%99%98" title="생물지구화학적 순환 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%9C%E0%A5%88%E0%A4%B5%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8_%E0%A4%9A%E0%A4%95%E0%A5%8D%E0%A4%B0" title="भूजैवरसायन चक्र – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Daur_biogeokimia" title="Daur biogeokimia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ciclo_biogeochimico" title="Ciclo biogeochimico – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Dhaur_Biog%C3%A9okimia" title="Dhaur Biogéokimia – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B4%B2%E0%B4%95%E0%B4%82:%E0%B4%9C%E0%B5%88%E0%B4%B5-%E0%B4%AD%E0%B5%82%E0%B4%B0%E0%B4%BE%E0%B4%B8_%E0%B4%9A%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%95%E0%B4%82" title="ഫലകം:ജൈവ-ഭൂരാസ ചാക്രികം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Biochemische_kringloop" title="Biochemische kringloop – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%83%E5%8C%96%E5%AD%A6%E7%9A%84%E5%BE%AA%E7%92%B0" title="生物地球化学的循環 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Cykl_biogeochemiczny" title="Cykl biogeochemiczny – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ciclo_biogeoqu%C3%ADmico" title="Ciclo biogeoquímico – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ciclu_biogeochimic" title="Ciclu biogeochimic – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Biogeokemiallinen_kierto" title="Biogeokemiallinen kierto – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Biogeokemiskt_kretslopp" title="Biogeokemiskt kretslopp – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Siklong_biyoheokimikal" title="Siklong biyoheokimikal – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%8F%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%98%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B9%80%E0%B8%84%E0%B8%A1%E0%B8%B5" title="วัฏจักรทางชีวธรณีเคมี – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/G%C4%B1da_d%C3%B6ng%C3%BCs%C3%BC" title="Gıda döngüsü – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BE%D0%B3%D0%B5%D0%BE%D1%85%D1%96%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB" title="Біогеохімічний цикл – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Chu_tr%C3%ACnh_sinh_%C4%91%E1%BB%8Ba_h%C3%B3a" title="Chu trình sinh địa hóa – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%83%E5%8C%96%E5%AD%A6%E5%BE%AA%E7%8E%AF" title="生物地球化学循环 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q846303#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 March 2017, at 19:16.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Biogeochemical_cycle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.181","ppvisitednodes":{"value":520,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54159,"limit":2097152},"templateargumentsize":{"value":32,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   93.940      1 -total"," 27.74%   26.059      1 Template:Portal"," 26.68%   25.062      1 Template:Authority_control"," 25.72%   24.162      3 Template:Navbox"," 15.39%   14.453      1 Template:Biogeochemical_cycle"," 15.18%   14.256      1 Template:Modelling_ecosystems","  6.93%    6.509      1 Template:Reflist","  4.87%    4.578      1 Template:Colbegin","  2.61%    2.451      1 Template:Colend","  1.35%    1.271      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.038","limit":"10.000"},"limitreport-memusage":{"value":1526932,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20170314203406","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":250,"wgHostname":"mw1274"});});</script>
+	</body>
+</html>

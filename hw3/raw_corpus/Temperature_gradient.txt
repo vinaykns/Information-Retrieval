@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Temperature gradient - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Temperature_gradient","wgTitle":"Temperature gradient","wgCurRevisionId":766808845,"wgRevisionId":766808845,"wgArticleId":1446490,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Atmospheric dynamics","Climatology","Spatial gradient","Temperature"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Temperature_gradient","wgRelevantArticleId":1446490,"wgRequestId":"WMUY9wpAMFUAABIZQzwAAAGQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q554388","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Temperature_gradient"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Temperature_gradient&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Temperature_gradient&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Temperature_gradient"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Temperature_gradient rootpage-Temperature_gradient skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Temperature gradient</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>A <b>temperature gradient</b> is a <a href="/wiki/Physical_quantity" title="Physical quantity">physical quantity</a> that describes in which direction and at what rate the <a href="/wiki/Temperature" title="Temperature">temperature</a> changes the most rapidly around a particular location. The temperature gradient is a <a href="/wiki/Dimensional_analysis" title="Dimensional analysis">dimensional quantity</a> expressed in <a href="/wiki/Units_of_measurement" title="Units of measurement">units</a> of degrees (on a particular temperature scale) per unit length. The <a href="/wiki/International_System_of_Units" title="International System of Units">SI</a> unit is <a href="/wiki/Kelvin" title="Kelvin">kelvin</a> per meter (K/m).It can be also seen in the formula of dQ/dt i.e. the formula of rate of heat transfer per second.</p>
+<p>Temperature gradients in the <a href="/wiki/Earth%27s_atmosphere" class="mw-redirect" title="Earth's atmosphere">atmosphere</a> are important in the atmospheric sciences (<a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, <a href="/wiki/Climatology" title="Climatology">climatology</a> and related fields).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mathematical_description"><span class="tocnumber">1</span> <span class="toctext">Mathematical description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_processes"><span class="tocnumber">2</span> <span class="toctext">Physical processes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Climatology"><span class="tocnumber">2.1</span> <span class="toctext">Climatology</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Meteorology"><span class="tocnumber">2.2</span> <span class="toctext">Meteorology</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Weathering"><span class="tocnumber">2.3</span> <span class="toctext">Weathering</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Indoor_temperature"><span class="tocnumber">3</span> <span class="toctext">Indoor temperature</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Mathematical_description">Mathematical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temperature_gradient&amp;action=edit&amp;section=1" title="Edit section: Mathematical description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Assuming that the temperature <i>T</i> is an <a href="/wiki/Intensive_quantity" class="mw-redirect" title="Intensive quantity">intensive quantity</a>, i.e., a single-valued, <a href="/wiki/Continuous_function" title="Continuous function">continuous</a> and <a href="/wiki/Derivative" title="Derivative">differentiable</a> <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a> of three-dimensional space (often called a <a href="/wiki/Scalar_field" title="Scalar field">scalar field</a>), i.e., that</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo>=</mo>
+        <mi>T</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>,</mo>
+        <mi>y</mi>
+        <mo>,</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T=T(x,y,z)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4a4beaa2dc62ea81b8a8ebc8e63fa522be2d5808" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:13.926ex; height:2.843ex;" alt="T=T(x,y,z)" /></span></dd>
+</dl>
+<p>where <i>x</i>, <i>y</i> and <i>z</i> are the <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">coordinates</a> of the location of interest, then the temperature gradient is the <a href="/wiki/Vector_(geometric)" class="mw-redirect" title="Vector (geometric)">vector</a> quantity defined as</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2207;<!-- ∇ --></mi>
+        <mi>T</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow>
+            <mo>(</mo>
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mrow>
+                        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                        <mi>T</mi>
+                      </mrow>
+                      <mrow>
+                        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                        <mi>x</mi>
+                      </mrow>
+                    </mfrac>
+                  </mrow>
+                  <mo>,</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mrow>
+                        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                        <mi>T</mi>
+                      </mrow>
+                      <mrow>
+                        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                        <mi>y</mi>
+                      </mrow>
+                    </mfrac>
+                  </mrow>
+                  <mo>,</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mrow>
+                        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                        <mi>T</mi>
+                      </mrow>
+                      <mrow>
+                        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                        <mi>z</mi>
+                      </mrow>
+                    </mfrac>
+                  </mrow>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \nabla T={\begin{pmatrix}{\frac {\partial T}{\partial x}},{\frac {\partial T}{\partial y}},{\frac {\partial T}{\partial z}}\end{pmatrix}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e472b7e6a2234a0d756adcad3ab55e2fc2f00a5c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:21.158ex; height:4.843ex;" alt="\nabla T={\begin{pmatrix}{{\frac  {\partial T}{\partial x}}},{{\frac  {\partial T}{\partial y}}},{{\frac  {\partial T}{\partial z}}}\end{pmatrix}}" /></span></dd>
+</dl>
+<p>...</p>
+<h2><span class="mw-headline" id="Physical_processes">Physical processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temperature_gradient&amp;action=edit&amp;section=2" title="Edit section: Physical processes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Climatology">Climatology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temperature_gradient&amp;action=edit&amp;section=3" title="Edit section: Climatology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On a global and annual basis, the dynamics of the atmosphere (and the oceans) can be understood as attempting to reduce the large difference of temperature between the <a href="/wiki/Geographical_pole" title="Geographical pole">poles</a> and the equator by redistributing warm and cold air and water, known as Earth's heat engine.</p>
+<h3><span class="mw-headline" id="Meteorology">Meteorology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temperature_gradient&amp;action=edit&amp;section=4" title="Edit section: Meteorology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Differences in air temperature between different locations are critical in weather forecasting and climate. The absorption of solar light at or near the planetary surface increases the temperature gradient and may result in <a href="/wiki/Convection" title="Convection">convection</a> (a major process of <a href="/wiki/Cloud" title="Cloud">cloud</a> formation, often associated with <a href="/wiki/Precipitation_(meteorology)" class="mw-redirect" title="Precipitation (meteorology)">precipitation</a>). <a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">Meteorological fronts</a> are regions where the horizontal temperature gradient may reach relatively high values, as these are boundaries between <a href="/wiki/Air_mass" title="Air mass">air masses</a> with rather distinct properties.</p>
+<p>Clearly, the temperature gradient may change substantially in time, as a result of diurnal or seasonal heating and cooling for instance. This most likely happens during an <a href="/wiki/Inversion_(meteorology)" title="Inversion (meteorology)">inversion</a>. For instance, during the day the temperature at <a href="/wiki/Lithosphere" title="Lithosphere">ground level</a> may be cold while it's warmer up in the atmosphere. As the day shifts over to night the temperature might drop rapidly while at other places on the land stay warmer or cooler at the same <a href="/wiki/Elevation" title="Elevation">elevation</a>. This happens on the <a href="/wiki/West_Coast_of_the_United_States" title="West Coast of the United States">West Coast of the United States</a> sometimes due to geography.</p>
+<h3><span class="mw-headline" id="Weathering">Weathering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temperature_gradient&amp;action=edit&amp;section=5" title="Edit section: Weathering">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Expansion and contraction of rock, caused by temperature changes during a <a href="/wiki/Wildfire" title="Wildfire">wildfire</a>, through <a href="/wiki/Weathering#Thermal_stress" title="Weathering">thermal stress weathering</a>, may result in <a href="/wiki/Thermal_shock" title="Thermal shock">thermal shock</a> and subsequent structure failure.</p>
+<h2><span class="mw-headline" id="Indoor_temperature">Indoor temperature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temperature_gradient&amp;action=edit&amp;section=6" title="Edit section: Indoor temperature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Thermal_destratification_in_buildings" class="mw-redirect" title="Thermal destratification in buildings">Thermal destratification in buildings</a></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temperature_gradient&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Gradient" title="Gradient">Gradient</a></li>
+<li><a href="/wiki/Lapse_rate" title="Lapse rate">Lapse rate</a></li>
+<li><a href="/wiki/Atmospheric_temperature" title="Atmospheric temperature">Atmospheric temperature</a> for gradient of earth's atmosphere</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temperature_gradient&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Edward N. Lorenz (1967) <i>The nature and theory of the general circulation of atmosphere</i>, World Meteorological Organization, Publication No. 218, Geneva, Switzerland.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li>M. I. Budyko (1978) <i>Climate and Life</i>, Academic Press, International Geophysics Series, Volume <b>18</b>, <a href="/wiki/Special:BookSources/0121394506" class="internal mw-magiclink-isbn">ISBN 0-12-139450-6</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+<li>Robert G. Fleagle and <a href="/wiki/Joost_A._Businger" class="mw-redirect" title="Joost A. Businger">Joost A. Businger</a> (1980) <i>An Introduction to Atmospheric Physics</i>, Second Edition, Academic Press, International Geophysics Series, Volume <b>25</b>, <a href="/wiki/Special:BookSources/0122603559" class="internal mw-magiclink-isbn">ISBN 0-12-260355-9</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li>David Miller (1981) <i>Energy at the Surface of the Earth: An Introduction to the Energetics of Ecosystems</i>, Academic Press, International Geophysics Series, Volume <b>29</b>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li>John M. Wallace and Peter V. Hobbs (2006) <i>Atmospheric Science: An Introductory Survey</i>, Second Edition, Academic Press, International Geophysics Series, <a href="/wiki/Special:BookSources/012732951X" class="internal mw-magiclink-isbn">ISBN 0-12-732951-X</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+</ul>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.com/nature-theory-general-circulation-atmosphere/dp/B0006CHWHG">"The nature and theory of the general circulation of the atmosphere"</a>. by <a href="/wiki/Amazon.com" title="Amazon.com">Amazon.com</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemperature+gradient&amp;rft.btitle=The+nature+and+theory+of+the+general+circulation+of+the+atmosphere&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2Fnature-theory-general-circulation-atmosphere%2Fdp%2FB0006CHWHG&amp;rft.pub=by+Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.com/Climate-life-M-I-Budyko/dp/B007EQH7HW/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1357103904&amp;sr=1-1">"Climate and life"</a>. by <a href="/wiki/Amazon.com" title="Amazon.com">Amazon.com</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemperature+gradient&amp;rft.btitle=Climate+and+life&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2FClimate-life-M-I-Budyko%2Fdp%2FB007EQH7HW%2Fref%3Dsr_1_1%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1357103904%26sr%3D1-1&amp;rft.pub=by+Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books/about/An_introduction_to_atmospheric_physics.html?id=6oIuAAAAIAAJ"><i>An introduction to atmospheric physics</i></a>. by <a href="/wiki/Amazon.com" title="Amazon.com">Amazon.com</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemperature+gradient&amp;rft.btitle=An+introduction+to+atmospheric+physics&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FAn_introduction_to_atmospheric_physics.html%3Fid%3D6oIuAAAAIAAJ&amp;rft.pub=by+Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.com/Energy-Surface-Earth-Introduction-International/dp/0124971504/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1357104289&amp;sr=1-1&amp;keywords=Energy+at+the+Surface+of+the+Earth%2C+David+H+Miller">"Energy at the Surface of the Earth: An Introduction to the Energetics of Ecosystems"</a>. by <a href="/wiki/Amazon.com" title="Amazon.com">Amazon.com</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemperature+gradient&amp;rft.btitle=Energy+at+the+Surface+of+the+Earth%3A+An+Introduction+to+the+Energetics+of+Ecosystems&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2FEnergy-Surface-Earth-Introduction-International%2Fdp%2F0124971504%2Fref%3Dsr_1_1%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1357104289%26sr%3D1-1%26keywords%3DEnergy%2Bat%2Bthe%2BSurface%2Bof%2Bthe%2BEarth%252C%2BDavid%2BH%2BMiller&amp;rft.pub=by+Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.com/Atmospheric-Science-Second-Introductory-International/dp/012732951X">"Atmospheric Science, Second Edition: An Introductory Survey (International Geophysics)"</a>. by <a href="/wiki/Amazon.com" title="Amazon.com">Amazon.com</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemperature+gradient&amp;rft.btitle=Atmospheric+Science%2C+Second+Edition%3A+An+Introductory+Survey+%28International+Geophysics%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2FAtmospheric-Science-Second-Introductory-International%2Fdp%2F012732951X&amp;rft.pub=by+Amazon.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temperature_gradient&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.grida.no/climate/ipcc_tar/wg1/index.htm">IPCC Third Assessment Report</a></li>
+<li><a rel="nofollow" class="external text" href="http://visualdaq.com/DaqPlaner/">Pictorial Representation of Temperature Gradient (Tools)</a>.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1187
+Cached time: 20170312091315
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.064 seconds
+Real time usage: 0.113 seconds
+Preprocessor visited node count: 209/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7120/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 2.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   60.614      1 -total
+ 54.28%   32.899      4 Template:Cite_web
+ 32.02%   19.410      1 Template:Main
+  5.82%    3.530      1 Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1446490-0!*!0!!en!*!*!math=5 and timestamp 20170312091315 and revision id 766808845
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Temperature_gradient&amp;oldid=766808845">https://en.wikipedia.org/w/index.php?title=Temperature_gradient&amp;oldid=766808845</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmospheric_dynamics" title="Category:Atmospheric dynamics">Atmospheric dynamics</a></li><li><a href="/wiki/Category:Climatology" title="Category:Climatology">Climatology</a></li><li><a href="/wiki/Category:Spatial_gradient" title="Category:Spatial gradient">Spatial gradient</a></li><li><a href="/wiki/Category:Temperature" title="Category:Temperature">Temperature</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Temperature+gradient" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Temperature+gradient" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Temperature_gradient"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Temperature_gradient"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Temperature_gradient" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Temperature_gradient&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Temperature_gradient&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Temperature_gradient" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Temperature_gradient" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Temperature_gradient&amp;oldid=766808845" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Temperature_gradient&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q554388" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Temperature_gradient&amp;id=766808845" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Temperature+gradient">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Temperature+gradient&amp;returnto=Temperature+gradient&amp;oldid=766808845&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Temperature_gradient&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AF%D8%B1%D8%AC_%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A" title="تدرج حراري – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gradient_t%C3%A8rmic" title="Gradient tèrmic – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Temperaturgradient" title="Temperaturgradient – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%81%CE%BC%CE%BF%CE%B2%CE%B1%CE%B8%CE%BC%CE%AF%CE%B4%CE%B1" title="Θερμοβαθμίδα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Gradiente_t%C3%A9rmico" title="Gradiente térmico – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Temperaturala_gradiento" title="Temperaturala gradiento – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Gradiente_di_temperatura" title="Gradiente di temperatura – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D1%96" title="Температура градиенті – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Temperatuurgradi%C3%ABnt" title="Temperatuurgradiënt – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%B8%A9%E5%BA%A6%E5%8B%BE%E9%85%8D" title="温度勾配 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Temperaturgradient" title="Temperaturgradient – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Temperaturgradient" title="Temperaturgradient – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Gradiente_de_temperatura" title="Gradiente de temperatura – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%BA%AB%E5%BA%A6%E6%A2%AF%E5%BA%A6" title="溫度梯度 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q554388#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 February 2017, at 08:09.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Temperature_gradient&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.064","walltime":"0.113","ppvisitednodes":{"value":209,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":7120,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   60.614      1 -total"," 54.28%   32.899      4 Template:Cite_web"," 32.02%   19.410      1 Template:Main","  5.82%    3.530      1 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.028","limit":"10.000"},"limitreport-memusage":{"value":2175638,"limit":52428800}},"cachereport":{"origin":"mw1187","timestamp":"20170312091315","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":51,"wgHostname":"mw1250"});});</script>
+	</body>
+</html>

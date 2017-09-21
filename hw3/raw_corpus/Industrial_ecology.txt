@@ -1,0 +1,1251 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Industrial ecology - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Industrial_ecology","wgTitle":"Industrial ecology","wgCurRevisionId":765543687,"wgRevisionId":765543687,"wgArticleId":223898,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","Articles with inconsistent citation formats","Use dmy dates from October 2016","Pages using ISBN magic links","Industrial ecology","Industrial engineering","Systems ecology","Environmental economics","Global business organization"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Industrial_ecology","wgRelevantArticleId":223898,"wgRequestId":"WMgAowpAADgAANHbseoAAAAW","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2323664","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/IndustrialSymbiosisWasteHeatExchange.png/1200px-IndustrialSymbiosisWasteHeatExchange.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Industrial_ecology"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Industrial_ecology&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Industrial_ecology&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Industrial_ecology"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Industrial_ecology rootpage-Industrial_ecology skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Industrial ecology</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p><b>Industrial ecology</b> (IE) is the study of <a href="/wiki/Material_flow" title="Material flow">material</a> and <a href="/wiki/Energy_flow_(ecology)" title="Energy flow (ecology)">energy flows</a> through industrial systems. The <a href="/wiki/Global_economy" class="mw-redirect" title="Global economy">global</a> <a href="/wiki/Industrial_economy" class="mw-redirect" title="Industrial economy">industrial economy</a> can be modelled as a network of industrial processes that extract resources from the <a href="/wiki/Earth" title="Earth">Earth</a> and transform those resources into <a href="/wiki/Commodity" title="Commodity">commodities</a> which can be bought and sold to meet the needs of humanity. Industrial ecology seeks to quantify the material flows and document the industrial processes that make modern society function. Industrial ecologists are often concerned with the impacts that industrial activities have on the <a href="/wiki/Natural_environment" title="Natural environment">environment</a>, with use of the planet's supply of <a href="/wiki/Natural_resources" class="mw-redirect" title="Natural resources">natural resources</a>, and with problems of <a href="/wiki/Waste_disposal" class="mw-redirect" title="Waste disposal">waste disposal</a>. Industrial ecology is a young but growing multidisciplinary field of research which combines aspects of <a href="/wiki/Engineering" title="Engineering">engineering</a>, <a href="/wiki/Economics" title="Economics">economics</a>, <a href="/wiki/Sociology" title="Sociology">sociology</a>, <a href="/wiki/Toxicology" title="Toxicology">toxicology</a> and the <a href="/wiki/Outline_of_natural_science" title="Outline of natural science">natural sciences</a>.</p>
+<p>Industrial ecology has been defined as a "systems-based, multidisciplinary discourse that seeks to understand emergent behaviour of complex integrated human/natural systems".<sup id="cite_ref-OntologiesOfIE_2-0" class="reference"><a href="#cite_note-OntologiesOfIE-2">[2]</a></sup> The field approaches issues of <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> by examining problems from multiple perspectives, usually involving aspects of sociology, the <a href="/wiki/Natural_environment" title="Natural environment">environment</a>, <a href="/wiki/Economy" title="Economy">economy</a> and <a href="/wiki/Technology" title="Technology">technology</a>. The name comes from the idea that the analogy of natural systems should be used as an aid in understanding how to design sustainable industrial systems.<sup id="cite_ref-StrategiesForManufacturing_3-0" class="reference"><a href="#cite_note-StrategiesForManufacturing-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Principles"><span class="tocnumber">3</span> <span class="toctext">Principles</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Tools"><span class="tocnumber">4</span> <span class="toctext">Tools</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Future_directions"><span class="tocnumber">5</span> <span class="toctext">Future directions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Other_examples"><span class="tocnumber">6</span> <span class="toctext">Other examples</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Industrial_ecology&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:IndustrialSymbiosisWasteHeatExchange.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/IndustrialSymbiosisWasteHeatExchange.png/250px-IndustrialSymbiosisWasteHeatExchange.png" width="250" height="271" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/IndustrialSymbiosisWasteHeatExchange.png/375px-IndustrialSymbiosisWasteHeatExchange.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/IndustrialSymbiosisWasteHeatExchange.png/500px-IndustrialSymbiosisWasteHeatExchange.png 2x" data-file-width="1285" data-file-height="1392" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:IndustrialSymbiosisWasteHeatExchange.png" class="internal" title="Enlarge"></a></div>
+Example of <a href="/wiki/Industrial_Symbiosis" class="mw-redirect" title="Industrial Symbiosis">Industrial Symbiosis</a>. Waste steam from a <a href="/wiki/Waste_incineration" class="mw-redirect" title="Waste incineration">waste incinerator</a> (right) is piped to an <a href="/wiki/Ethanol_fuel" title="Ethanol fuel">ethanol plant</a> (left) where it is used as in input to their production process.</div>
+</div>
+</div>
+<p>Industrial ecology is concerned with the shifting of industrial process from linear (open loop) systems, in which resource and capital investments move through the system to become waste, to a closed loop system where wastes can become inputs for new processes.</p>
+<p>Much of the research focuses on the following areas:<sup id="cite_ref-is4ieHistory_4-0" class="reference"><a href="#cite_note-is4ieHistory-4">[4]</a></sup></p>
+<ul>
+<li><a href="/wiki/Material_flow_analysis" title="Material flow analysis">material</a> and energy flow studies ("<a href="/wiki/Industrial_metabolism" title="Industrial metabolism">industrial metabolism</a>")</li>
+<li><a href="/wiki/Dematerialization_(economics)" title="Dematerialization (economics)">dematerialization</a> and <a href="/wiki/Low-carbon_economy" title="Low-carbon economy">decarbonization</a></li>
+<li>technological change and the environment</li>
+<li><a href="/wiki/Life_cycle_assessment" class="mw-redirect" title="Life cycle assessment">life-cycle planning, design and assessment</a></li>
+<li><a href="/wiki/Design_for_Environment" class="mw-redirect" title="Design for Environment">design for the environment ("eco-design")</a></li>
+<li><a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">extended producer responsibility ("product stewardship")</a></li>
+<li><a href="/wiki/Eco-industrial_park" title="Eco-industrial park">eco-industrial parks ("industrial symbiosis")</a></li>
+<li>product-oriented environmental policy</li>
+<li><a href="/wiki/Eco-efficiency" title="Eco-efficiency">eco-efficiency</a></li>
+</ul>
+<p>Industrial ecology seeks to understand the way in which industrial systems (for example a factory, an <a href="/wiki/Ecoregion" title="Ecoregion">ecoregion</a>, or national or global economy) interact with the <a href="/wiki/Biosphere" title="Biosphere">biosphere</a>. Natural ecosystems provide a metaphor for understanding how different parts of industrial systems interact with one another, in an "ecosystem" based on resources and <a href="/wiki/Infrastructural_capital" class="mw-redirect" title="Infrastructural capital">infrastructural capital</a> rather than on <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a>. It seeks to exploit the idea that natural systems do not have waste in them to inspire <a href="/wiki/Sustainable_design" title="Sustainable design">sustainable design</a>.</p>
+<p>Along with more general <a href="/wiki/Energy_conservation" title="Energy conservation">energy conservation</a> and material conservation goals, and redefining <a href="/wiki/Commodity_markets" class="mw-redirect" title="Commodity markets">commodity markets</a> and <a href="/wiki/Product_stewardship" title="Product stewardship">product stewardship</a> relations strictly as a <a href="/wiki/Service_economy" title="Service economy">service economy</a>, industrial ecology is one of the four objectives of <a href="/wiki/Natural_Capitalism" title="Natural Capitalism">Natural Capitalism</a>. This strategy discourages forms of amoral purchasing arising from ignorance of what goes on at a distance and implies a <a href="/wiki/Political_economy" title="Political economy">political economy</a> that values <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a> highly and relies on more <a href="/wiki/Instructional_capital" title="Instructional capital">instructional capital</a> to design and maintain each unique industrial ecology.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Industrial_ecology&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:View_from_Asnaes_power_station_Kalundborg_Denmark.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/View_from_Asnaes_power_station_Kalundborg_Denmark.jpg/300px-View_from_Asnaes_power_station_Kalundborg_Denmark.jpg" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/View_from_Asnaes_power_station_Kalundborg_Denmark.jpg/450px-View_from_Asnaes_power_station_Kalundborg_Denmark.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/View_from_Asnaes_power_station_Kalundborg_Denmark.jpg/600px-View_from_Asnaes_power_station_Kalundborg_Denmark.jpg 2x" data-file-width="2848" data-file-height="2136" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:View_from_Asnaes_power_station_Kalundborg_Denmark.jpg" class="internal" title="Enlarge"></a></div>
+View of <a href="/wiki/Kalundborg_Eco-industrial_Park" title="Kalundborg Eco-industrial Park">Kalundborg Eco-industrial Park</a></div>
+</div>
+</div>
+<div role="note" class="hatnote">Main article: <a href="/wiki/History_of_industrial_ecology" title="History of industrial ecology">History of industrial ecology</a></div>
+<p>Industrial ecology was popularized in 1989 in a <i><a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a></i> article by <a href="/wiki/Robert_Frosch" class="mw-redirect" title="Robert Frosch">Robert Frosch</a> and Nicholas E. Gallopoulos. Frosch and Gallopoulos' vision was "why would not our industrial system behave like an <a href="/wiki/Ecosystem" title="Ecosystem">ecosystem</a>, where the wastes of a species may be <a href="/wiki/Natural_resource" title="Natural resource">resource</a> to another species? Why would not the outputs of an industry be the inputs of another, thus reducing use of <a href="/wiki/Raw_material" title="Raw material">raw materials</a>, <a href="/wiki/Pollution" title="Pollution">pollution</a>, and saving on <a href="/wiki/Waste" title="Waste">waste</a> treatment?"<sup id="cite_ref-StrategiesForManufacturing_3-1" class="reference"><a href="#cite_note-StrategiesForManufacturing-3">[3]</a></sup> A notable example resides in a Danish industrial park in the city of <a href="/wiki/Kalundborg_Eco-industrial_Park" title="Kalundborg Eco-industrial Park">Kalundborg</a>. Here several linkages of <a href="/wiki/Byproduct" class="mw-redirect" title="Byproduct">byproducts</a> and <a href="/wiki/Waste_heat" title="Waste heat">waste heat</a> can be found between numerous entities such as a large power plant, an oil refinery, a pharmaceutical plant, a plasterboard factory, an enzyme manufacturer, a waste company and the city itself.<sup id="cite_ref-KalundborgCentre_5-0" class="reference"><a href="#cite_note-KalundborgCentre-5">[5]</a></sup> Another example is the Rantasalmi EIP in Rantasalmi, Finland. While this country has had previous organically formed EIP's, the park at Rantasalmi is Finland's first planned EIP.</p>
+<p>The scientific field Industrial Ecology has grown quickly in recent years. The Journal of Industrial Ecology (since 1997), the <a href="/wiki/International_Society_for_Industrial_Ecology" title="International Society for Industrial Ecology">International Society for Industrial Ecology</a> (since 2001), and the journal Progress in Industrial Ecology (since 2004) give Industrial Ecology a strong and dynamic position in the international scientific community. Industrial Ecology principles are also emerging in various policy realms such as the concept of the <a href="/wiki/Circular_Economy" class="mw-redirect" title="Circular Economy">Circular Economy</a> that is being promoted in China. Although the definition of the Circular Economy has yet to be formalized, generally the focus is on strategies such as creating a circular flow of materials, and cascading energy flows. An example of this would be using waste heat from one process to run another process that requires a lower temperature. The hope is that strategy such as this will create a more efficient economy with fewer pollutants and other unwanted by-products.<sup id="cite_ref-CircularEconomy_6-0" class="reference"><a href="#cite_note-CircularEconomy-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Principles">Principles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Industrial_ecology&amp;action=edit&amp;section=3" title="Edit section: Principles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One of the central principles of Industrial Ecology is the view that societal and technological systems are bounded within the <a href="/wiki/Biosphere" title="Biosphere">biosphere</a>, and do not exist outside of it. <a href="/wiki/Ecology" title="Ecology">Ecology</a> is used as a <i>metaphor</i> due to the observation that natural systems reuse materials and have a largely closed loop cycling of nutrients. Industrial Ecology approaches problems with the hypothesis that by using similar principles as <i>natural systems, industrial systems</i> can be improved to reduce their impact on the natural environment as well. The table shows the general metaphor.</p>
+<table class="wikitable">
+<tr>
+<th>Biosphere</th>
+<th><a href="/wiki/Novel_ecosystem" title="Novel ecosystem">Technosphere</a></th>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Environment</li>
+<li>Organism</li>
+<li>Natural Product</li>
+<li><a href="/wiki/Natural_Selection" class="mw-redirect" title="Natural Selection">Natural Selection</a></li>
+<li>Ecosystem</li>
+<li><a href="/wiki/Ecological_niche" title="Ecological niche">Ecological Niche</a></li>
+<li><a href="/wiki/Anabolism" title="Anabolism">Anabolism</a> / <a href="/wiki/Catabolism" title="Catabolism">Catabolism</a></li>
+<li><a href="/wiki/Mutation" title="Mutation">Mutation</a> and <a href="/wiki/Natural_selection" title="Natural selection">Selection</a></li>
+<li><a href="/wiki/Ecological_succession" title="Ecological succession">Succession</a></li>
+<li><a href="/wiki/Biological_adaptation" class="mw-redirect" title="Biological adaptation">Adaptation</a></li>
+<li><a href="/wiki/Food_web" title="Food web">Food Web</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Market</li>
+<li>Company</li>
+<li>Industrial Product</li>
+<li><a href="/wiki/Competition_(economics)" title="Competition (economics)">Competition</a></li>
+<li>Eco-Industrial Park</li>
+<li><a href="/wiki/Market_Niche" class="mw-redirect" title="Market Niche">Market Niche</a></li>
+<li><a href="/wiki/Manufacturing" title="Manufacturing">Manufacturing</a> / <a href="/wiki/Waste_Management" class="mw-redirect" title="Waste Management">Waste Management</a></li>
+<li><a href="/wiki/Design_for_the_Environment" title="Design for the Environment">Design for Environment</a></li>
+<li><a href="/wiki/Economic_growth" title="Economic growth">Economic Growth</a></li>
+<li><a href="/wiki/Innovation" title="Innovation">Innovation</a></li>
+<li><a href="/wiki/Product_Life_Cycle" class="mw-redirect" title="Product Life Cycle">Product Life Cycle</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<p>The <a href="/wiki/Kalundborg" title="Kalundborg">Kalundborg</a> industrial park is located in Denmark. This industrial park is special because companies reuse each other's waste (which then becomes by-products). For example, the Energy E2 <a href="/wiki/Asn%C3%A6s_Power_Station" title="Asnæs Power Station">Asnæs Power Station</a> produces <a href="/wiki/Gypsum" title="Gypsum">gypsum</a> as a by-product of the electricity generation process; this gypsum becomes a resource for the BPB Gyproc A/S which produces plasterboards.<sup id="cite_ref-KalundborgCentre_5-1" class="reference"><a href="#cite_note-KalundborgCentre-5">[5]</a></sup> This is one example of a system inspired by the biosphere-technosphere metaphor: in ecosystems, the waste from one organism is used as inputs to other organisms; in industrial systems, waste from a company is used as a resource by others.</p>
+<p>Apart from the direct benefit of incorporating waste into the loop, the use of an eco-industrial park can be a means of making renewable energy generating plants, like <a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Solar PV</a>, more economical and environmentally friendly. In essence, this assists the growth of the renewable energy industry and the environmental benefits that come with replacing fossil-fuels.<sup id="cite_ref-PearcePhotovoltaic_7-0" class="reference"><a href="#cite_note-PearcePhotovoltaic-7">[7]</a></sup></p>
+<p>Additional examples of industrial ecology include:</p>
+<ul>
+<li>Substituting the fly ash byproduct of coal burning practices for cement in concrete production<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li>Using second generation biofuels. An example of this is converting grease or cooking oil to biodiesels to fuel vehicles.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+</ul>
+<p>IE examines societal issues and their relationship with both technical systems and the environment. Through this <i><a href="/wiki/Holistic" class="mw-redirect" title="Holistic">holistic</a> view</i> , IE recognizes that solving problems must involve understanding the connections that exist between these systems, various aspects cannot be viewed in isolation. Often changes in one part of the overall <a href="/wiki/System" title="System">system</a> can propagate and cause changes in another part. Thus, you can only understand a problem if you look at its parts in relation to the whole. Based on this framework, IE looks at environmental issues with a <i><a href="/wiki/Systems_thinking" title="Systems thinking">systems thinking</a></i> approach. A good IE example with these societal impacts can be found at the <a href="/wiki/Blue_Lagoon_(geothermal_spa)" title="Blue Lagoon (geothermal spa)">Blue Lagoon</a> in Iceland. The Lagoon uses super-heated water from a local geothermal power plant to fill mineral-rich basins that have become recreational healing centers. In this sense the industrial process of energy production uses its wastewater to provide a crucial resource for the dependent recreational industry.</p>
+<p>South Africa's National Cleaner Production Center was created in order to make the region's industries more efficient in terms of materials. Results of the use of sustainable methods will include lowered energy costs and improved waste management. The program assesses existing companies to implement change. The region includes thousands of businesses that are able to benefit from the sustainable consulting.</p>
+<p>Take a city for instance. A city can be divided into commercial areas, residential areas, offices, services, infrastructures, and so forth. These are all sub-systems of the 'big city’ system. Problems can emerge in one sub-system, but the solution has to be global. Let’s say the price of housing is rising dramatically because there is too high a demand for housing. One solution would be to build new houses, but this will lead to more people living in the city, leading to the need for more infrastructure like roads, schools, more supermarkets, etc. This system is a simplified interpretation of reality whose behaviors can be ‘predicted’.</p>
+<p>In many cases, the systems IE deals with are complex systems. <a href="/wiki/Complex_systems" title="Complex systems">Complexity</a> makes it difficult to understand the behavior of the system and may lead to rebound effects. Due to unforeseen behavioral change of users or consumers, a measure taken to improve environmental performance does not lead to any improvement or may even worsen the situation.</p>
+<p>Moreover, <i>life cycle thinking</i> is also a very important principle in industrial ecology. It implies that all environmental impacts caused by a product, system, or project during its life cycle are taken into account. In this context life cycle includes</p>
+<ul>
+<li><a href="/wiki/Raw_material" title="Raw material">Raw material</a> extraction</li>
+<li>Material processing</li>
+<li>Manufacture</li>
+<li>Use</li>
+<li>Maintenance</li>
+<li>Disposal</li>
+</ul>
+<p>The transport necessary between these stages is also taken into account as well as, if relevant, extra stages such as <a href="/wiki/Reuse" title="Reuse">reuse</a>, <a href="/wiki/Remanufacturing" title="Remanufacturing">remanufacture</a>, and <a href="/wiki/Recycle" class="mw-redirect" title="Recycle">recycle</a>. Adopting a life cycle approach is essential to avoid shifting environmental impacts from one life cycle stage to another. This is commonly referred to as problem shifting. For instance, during the re-design of a product, one can choose to reduce its weight, thereby decreasing use of resources. However, it is possible that the lighter materials used in the new product will be more difficult to dispose of. The environmental impacts of the product gained during the extraction phase are shifted to the disposal phase. Overall environmental improvements are thus null.</p>
+<p>A final and important principle of IE is its <i>integrated approach</i> or <i><a href="/wiki/Multidisciplinary_approach" title="Multidisciplinary approach">multidisciplinarity</a></i>. IE takes into account three different disciplines: social sciences (including economics), technical sciences and environmental sciences. The challenge is to merge them into a single approach.</p>
+<h2><span class="mw-headline" id="Tools">Tools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Industrial_ecology&amp;action=edit&amp;section=4" title="Edit section: Tools">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>People</th>
+<th>Planet</th>
+<th>Profit</th>
+<th>Modeling</th>
+</tr>
+<tr>
+<td>
+<ul>
+<li><a href="/wiki/Stakeholder_analysis" title="Stakeholder analysis">Stakeholder analysis</a></li>
+<li>Strength Weakness Opportunities Threats Analysis (<a href="/wiki/SWOT_Analysis" class="mw-redirect" title="SWOT Analysis">SWOT Analysis</a>)</li>
+<li><a href="/wiki/Ecolabelling" class="mw-redirect" title="Ecolabelling">Ecolabelling</a></li>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">ISO 14000</a></li>
+<li><a href="/wiki/Environmental_management_system" title="Environmental management system">Environmental management system</a> (EMS)</li>
+<li><a href="/wiki/Integrated_chain_management" title="Integrated chain management">Integrated chain management</a> (ICM)</li>
+<li><a href="/wiki/Technology_assessment" title="Technology assessment">Technology assessment</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a> (EIA)</li>
+<li><a href="/wiki/Input-output_analysis" class="mw-redirect" title="Input-output analysis">Input-output analysis</a> (IOA)</li>
+<li><a href="/wiki/Life-cycle_assessment" title="Life-cycle assessment">Life-cycle assessment</a> (LCA)</li>
+<li><a href="/wiki/Material_flow_analysis" title="Material flow analysis">Material flow analysis</a> (MFA)</li>
+<li><a href="/wiki/Substance_flow_analysis" class="mw-redirect" title="Substance flow analysis">Substance flow analysis</a> (SFA)</li>
+<li><a href="/wiki/MET_Matrix" title="MET Matrix">MET Matrix</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="/wiki/Cost_benefit_analysis" class="mw-redirect" title="Cost benefit analysis">Cost benefit analysis</a> (CBA)</li>
+<li><a href="/wiki/Full_cost_accounting" class="mw-redirect" title="Full cost accounting">Full cost accounting</a> (FCA)</li>
+<li><a href="/wiki/Whole-life_cost" title="Whole-life cost">Life cycle costing</a> (LCC)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Stock and flow analysis</li>
+<li><a href="/wiki/Agent_based_modeling" class="mw-redirect" title="Agent based modeling">Agent based modeling</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Future_directions">Future directions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Industrial_ecology&amp;action=edit&amp;section=5" title="Edit section: Future directions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Ecosystem" title="Ecosystem">ecosystem</a> metaphor popularized by <a href="/wiki/Robert_Frosch" class="mw-redirect" title="Robert Frosch">Frosch</a> and Gallopoulos<sup id="cite_ref-StrategiesForManufacturing_3-2" class="reference"><a href="#cite_note-StrategiesForManufacturing-3">[3]</a></sup> has been a valuable creative tool for helping researchers look for novel solutions to difficult problems. Recently, it has been pointed out that this metaphor is based largely on a model of classical ecology, and that advancements in understanding ecology based on <a href="/wiki/Complexity_science" class="mw-redirect" title="Complexity science">complexity science</a> have been made by researchers such as <a href="/wiki/C._S._Holling" title="C. S. Holling">C. S. Holling</a>, <a href="/wiki/James_J._Kay" title="James J. Kay">James J. Kay</a>,<sup id="cite_ref-OnComplexityTheory_10-0" class="reference"><a href="#cite_note-OnComplexityTheory-10">[10]</a></sup> and further advanced in terms of contemporary ecology by others.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-WhatHasModernEcosystemTheory_12-0" class="reference"><a href="#cite_note-WhatHasModernEcosystemTheory-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> For industrial ecology, this may mean a shift from a more mechanistic view of systems, to one where <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> is viewed as an <a href="/wiki/Emergence" title="Emergence">emergent</a> property of a complex system.<sup id="cite_ref-CanIndustrialEcologyBe_15-0" class="reference"><a href="#cite_note-CanIndustrialEcologyBe-15">[15]</a></sup><sup id="cite_ref-WouldIndustrialEcologyExist_16-0" class="reference"><a href="#cite_note-WouldIndustrialEcologyExist-16">[16]</a></sup> To explore this further, several researchers are working with <a href="/wiki/Multi-agent_system" title="Multi-agent system">agent based modeling techniques</a> .<sup id="cite_ref-ABMAndIE_17-0" class="reference"><a href="#cite_note-ABMAndIE-17">[17]</a></sup><sup id="cite_ref-ApplyingABMinIE_18-0" class="reference"><a href="#cite_note-ApplyingABMinIE-18">[18]</a></sup></p>
+<p><a href="/wiki/Exergy" title="Exergy">Exergy</a> analysis is performed in the field of industrial ecology to use energy more efficiently.<sup id="cite_ref-ExergyUsefulConcept_19-0" class="reference"><a href="#cite_note-ExergyUsefulConcept-19">[19]</a></sup> The term <i>exergy</i> was coined by <a href="/wiki/Zoran_Rant" title="Zoran Rant">Zoran Rant</a> in 1956, but the concept was developed by <a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">J. Willard Gibbs</a>. In recent decades, utilization of exergy has spread outside of physics and engineering to the fields of industrial ecology, <a href="/wiki/Ecological_economics" title="Ecological economics">ecological economics</a>, <a href="/wiki/Systems_ecology" title="Systems ecology">systems ecology</a>, and <a href="/wiki/Energetics" title="Energetics">energetics</a>.</p>
+<h2><span class="mw-headline" id="Other_examples">Other examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Industrial_ecology&amp;action=edit&amp;section=6" title="Edit section: Other examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Another great example of industrial ecology both in practice and in potential is the Burnside Cleaner Production Centre in <a href="/wiki/Burnside,_Nova_Scotia" title="Burnside, Nova Scotia">Burnside, Nova Scotia</a>. They play a role in facilitating the 'greening' of over 1200 businesses that are located in Burnside, Eastern Canada's largest industrial park. The creation of waste exchange is a big part of what they work towards, which will promote strong industrial ecology relationships. <sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Industrial_ecology&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Emblem-money.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/28px-Emblem-money.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/42px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/56px-Emblem-money.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Business and economics portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" width="32" height="21" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" data-file-width="6000" data-file-height="4000" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Anthropogenic_metabolism" title="Anthropogenic metabolism">Anthropogenic metabolism</a></li>
+<li><a href="/wiki/Biomimicry" class="mw-redirect" title="Biomimicry">Biomimicry</a></li>
+<li><a href="/wiki/Circular_economy" title="Circular economy">Circular economy</a></li>
+<li><a href="/wiki/Cleaner_production" title="Cleaner production">Cleaner production</a></li>
+<li><a href="/wiki/Conservation_(ethic)" title="Conservation (ethic)">Conservation (ethic)</a></li>
+<li><a href="/wiki/Dematerialization_(economics)" title="Dematerialization (economics)">Dematerialization (economics)</a></li>
+<li><a href="/wiki/Ecodesign" title="Ecodesign">Ecodesign</a></li>
+<li><a href="/wiki/Eco-efficiency" title="Eco-efficiency">Eco-efficiency</a></li>
+<li><a href="/wiki/Eco-industrial_park" title="Eco-industrial park">Eco-industrial park</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Energy_accounting" title="Energy accounting">Energy accounting</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_racism" title="Environmental racism">Environmental racism</a></li>
+<li><a href="/wiki/Evolutionary_economics" title="Evolutionary economics">Evolutionary economics</a></li>
+<li><a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">Extended producer responsibility</a></li>
+<li><a href="/wiki/Helix_of_sustainability" title="Helix of sustainability">Helix of sustainability</a></li>
+<li><a href="/wiki/Industrial_metabolism" title="Industrial metabolism">Industrial metabolism</a></li>
+<li><a href="/wiki/Industrial_symbiosis" title="Industrial symbiosis">Industrial symbiosis</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Life_cycle_assessment" class="mw-redirect" title="Life cycle assessment">Life cycle assessment</a></li>
+<li><a href="/wiki/Material_flow_accounting" title="Material flow accounting">Material flow accounting</a></li>
+<li><a href="/wiki/Material_flow_analysis" title="Material flow analysis">Material flow analysis</a></li>
+<li><a href="/wiki/Organigraph" title="Organigraph">Organigraph</a></li>
+<li><a href="/wiki/Product_stewardship" title="Product stewardship">Product stewardship</a></li>
+<li><a href="/wiki/Reconciliation_ecology" title="Reconciliation ecology">Reconciliation ecology</a></li>
+<li><a href="/wiki/Social_metabolism" title="Social metabolism">Social metabolism</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable design</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Industrial_ecology&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://ncpc.co.za">http://ncpc.co.za</a></span></li>
+<li id="cite_note-OntologiesOfIE-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-OntologiesOfIE_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Braden_Allenby" title="Braden Allenby">Allenby, Brad</a> (2006). <a rel="nofollow" class="external text" href="http://enpub.fulton.asu.edu/cesem/paper/PIE.pdf">"The ontologies of industrial ecology"</a> <span style="font-size:85%;">(PDF)</span>. <i>Progress in Industrial Ecology</i>. Inderscience Enterprises Ltd. <b>3</b> (1/2): 28–40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1504%2FPIE.2006.010039">10.1504/PIE.2006.010039</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=The+ontologies+of+industrial+ecology&amp;rft.aufirst=Brad&amp;rft.aulast=Allenby&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fenpub.fulton.asu.edu%2Fcesem%2Fpaper%2FPIE.pdf&amp;rft_id=info%3Adoi%2F10.1504%2FPIE.2006.010039&amp;rft.issue=1%2F2&amp;rft.jtitle=Progress+in+Industrial+Ecology&amp;rft.pages=28-40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-StrategiesForManufacturing-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-StrategiesForManufacturing_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-StrategiesForManufacturing_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-StrategiesForManufacturing_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Frosch, R.A.; Gallopoulos, N.E. (1989). "Strategies for Manufacturing". <i>Scientific American</i>. <b>261</b> (3): 144–152. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fscientificamerican0989-144">10.1038/scientificamerican0989-144</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=Strategies+for+Manufacturing&amp;rft.aufirst=R.A.&amp;rft.au=Gallopoulos%2C+N.E.&amp;rft.aulast=Frosch&amp;rft.date=1989&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2Fscientificamerican0989-144&amp;rft.issue=3&amp;rft.jtitle=Scientific+American&amp;rft.pages=144-152&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=261" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-is4ieHistory-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-is4ieHistory_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.is4ie.org/Default.aspx?pageId=215327">"International Society for Industrial Ecology | History"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 8,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.btitle=International+Society+for+Industrial+Ecology+%26%23124%3B+History&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.is4ie.org%2FDefault.aspx%3FpageId%3D215327&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-KalundborgCentre-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-KalundborgCentre_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-KalundborgCentre_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.symbiosis.dk">"The Kalundborg Centre for Industrial Symbiosis"</a><span class="reference-accessdate">. Retrieved 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.btitle=The+Kalundborg+Centre+for+Industrial+Symbiosis&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.symbiosis.dk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-CircularEconomy-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-CircularEconomy_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Yuan, Z.; Bi, J.; Moriguichi, Y. "The Circular Economy: A New Development Strategy in China". <i>Journal of Industrial Ecology</i>. <b>10</b> (1–2): 4–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1162%2F108819806775545321">10.1162/108819806775545321</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=The+Circular+Economy%3A+A+New+Development+Strategy+in+China&amp;rft.au=Bi%2C+J.&amp;rft.aufirst=Z.&amp;rft.aulast=Yuan&amp;rft.au=Moriguichi%2C+Y.&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1162%2F108819806775545321&amp;rft.issue=1%932&amp;rft.jtitle=Journal+of+Industrial+Ecology&amp;rft.pages=4-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-PearcePhotovoltaic-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-PearcePhotovoltaic_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pearce, J. M. (2008). "Industrial Symbiosis for Very Large Scale Photovoltaic Manufacturing". <i>Renewable Energy</i>. <b>33</b> (5): 1101–1108. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.renene.2007.07.002">10.1016/j.renene.2007.07.002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=Industrial+Symbiosis+for+Very+Large+Scale+Photovoltaic+Manufacturing&amp;rft.aufirst=J.+M.&amp;rft.aulast=Pearce&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.renene.2007.07.002&amp;rft.issue=5&amp;rft.jtitle=Renewable+Energy&amp;rft.pages=1101-1108&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=33" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Thomas, Michael. "Optimizing the Use of Fly Ash in Concrete." Portland Cement Association</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://articles.extension.org/pages/28000/used-and-waste-oil-and-grease-for-biodiesel">http://articles.extension.org/pages/28000/used-and-waste-oil-and-grease-for-biodiesel</a></span></li>
+<li id="cite_note-OnComplexityTheory-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-OnComplexityTheory_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/James_J._Kay" title="James J. Kay">Kay, J.J.</a> (2002). Kibert, C.; Sendzimir, J.; Guy, B., eds. <a rel="nofollow" class="external text" href="http://www.nesh.ca/jameskay/www.fes.uwaterloo.ca/u/jjkay/pubs/IE/ie.pdf">"On Complexity Theory, Exergy and Industrial Ecology: Some Implications for Construction Ecology"</a> <span style="font-size:85%;">(PDF)</span>. <i>Construction Ecology: Nature as the Basis for Green Buildings</i>. Spon Press: 72–107</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=On+Complexity+Theory%2C+Exergy+and+Industrial+Ecology%3A+Some+Implications+for+Construction+Ecology&amp;rft.aufirst=J.J.&amp;rft.aulast=Kay&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nesh.ca%2Fjameskay%2Fwww.fes.uwaterloo.ca%2Fu%2Fjjkay%2Fpubs%2FIE%2Fie.pdf&amp;rft.jtitle=Construction+Ecology%3A+Nature+as+the+Basis+for+Green+Buildings&amp;rft.pages=72-107&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Levine, S. H. (2003), <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1162/108819803322564334/abstract">Comparing Products and Production in Ecological and Industrial Systems</a>. Journal of Industrial Ecology 7(2): 33-42.</span></li>
+<li id="cite_note-WhatHasModernEcosystemTheory-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-WhatHasModernEcosystemTheory_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nielsen, Søren Nors (2007). "What has modern ecosystem theory to offer to cleaner production, industrial ecology and society? The views of an ecologist". <i>Journal of Cleaner Production</i>. <b>15</b> (17): 1639–1653. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jclepro.2006.08.008">10.1016/j.jclepro.2006.08.008</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=What+has+modern+ecosystem+theory+to+offer+to+cleaner+production%2C+industrial+ecology+and+society%3F+The+views+of+an+ecologist&amp;rft.aufirst=S%C3%B8ren+Nors&amp;rft.aulast=Nielsen&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jclepro.2006.08.008&amp;rft.issue=17&amp;rft.jtitle=Journal+of+Cleaner+Production&amp;rft.pages=1639-1653&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Ashton, W. S. (2009), <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1530-9290.2009.00111.x/abstract">The Structure, Function, and Evolution of a Regional Industrial Ecosystem</a>. Journal of Industrial Ecology 13(2): 228.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Jensen, P. D. (2011), <a rel="nofollow" class="external text" href="http://epubs.surrey.ac.uk/807042/1/PJensen_Reinterpreting_Industrial_Ecology.pdf">Reinterpreting Industrial Ecology</a>. Journal of Industrial Ecology 15(5):680-692.</span></li>
+<li id="cite_note-CanIndustrialEcologyBe-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-CanIndustrialEcologyBe_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ehrenfeld, John (2004). "Can Industrial Ecology be the Science of Sustainability?". <i>Journal of Industrial Ecology</i>. <b>8</b> (1–2): 1–3. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1162%2F1088198041269364">10.1162/1088198041269364</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=Can+Industrial+Ecology+be+the+Science+of+Sustainability%3F&amp;rft.aufirst=John&amp;rft.aulast=Ehrenfeld&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1162%2F1088198041269364&amp;rft.issue=1%932&amp;rft.jtitle=Journal+of+Industrial+Ecology&amp;rft.pages=1-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WouldIndustrialEcologyExist-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-WouldIndustrialEcologyExist_16-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ehrenfeld, John (2007). "Would Industrial Ecology Exist without Sustainability in the Background?". <i>Journal of Industrial Ecology</i>. <b>11</b> (1).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=Would+Industrial+Ecology+Exist+without+Sustainability+in+the+Background%3F&amp;rft.aufirst=John&amp;rft.aulast=Ehrenfeld&amp;rft.date=2007&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Journal+of+Industrial+Ecology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ABMAndIE-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-ABMAndIE_17-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Axtell, R.L.; Andrews, C.J.; Small, M.J. (2002). "Agent-Based Modeling and Industrial Ecology". <i>Journal of Industrial Ecology</i>. <b>5</b> (4): 10–13. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1162%2F10881980160084006">10.1162/10881980160084006</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=Agent-Based+Modeling+and+Industrial+Ecology&amp;rft.au=Andrews%2C+C.J.&amp;rft.aufirst=R.L.&amp;rft.aulast=Axtell&amp;rft.au=Small%2C+M.J.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1162%2F10881980160084006&amp;rft.issue=4&amp;rft.jtitle=Journal+of+Industrial+Ecology&amp;rft.pages=10-13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ApplyingABMinIE-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-ApplyingABMinIE_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kraines, S.; Wallace, D. (2006). "Applying Agent-based Simulation in Industrial Ecology". <i>Journal of Industrial Ecology</i>. <b>10</b> (1–2): 15–18. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1162%2F108819806775545376">10.1162/108819806775545376</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=Applying+Agent-based+Simulation+in+Industrial+Ecology&amp;rft.aufirst=S.&amp;rft.aulast=Kraines&amp;rft.au=Wallace%2C+D.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1162%2F108819806775545376&amp;rft.issue=1%932&amp;rft.jtitle=Journal+of+Industrial+Ecology&amp;rft.pages=15-18&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ExergyUsefulConcept-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-ExergyUsefulConcept_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Wall, Göran. <a rel="nofollow" class="external text" href="http://exergy.se/goran/thesis/">"Exergy - a useful concept"</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.aufirst=G%C3%B6ran&amp;rft.aulast=Wall&amp;rft.btitle=Exergy+-+a+useful+concept&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fexergy.se%2Fgoran%2Fthesis%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://newcity.ca/Pages/industrial_ecology.html">http://newcity.ca/Pages/industrial_ecology.html</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Industrial_ecology&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>The industrial green game: implications for environmental design and management</i>, Deanna J Richards (Ed), <a href="/wiki/National_Academy_Press" class="mw-redirect" title="National Academy Press">National Academy Press</a>, Washington DC, USA, 1997, <a href="/wiki/Special:BookSources/0309052947" class="internal mw-magiclink-isbn">ISBN 0-309-05294-7</a></li>
+<li>'Handbook of Input-Output Economics in Industrial Ecology', Sangwon Suh (Ed), Springer, 2009, <a href="/wiki/Special:BookSources/9781402061547" class="internal mw-magiclink-isbn">ISBN 978-1-4020-6154-7</a></li>
+<li><cite class="citation journal">Boons, Frank (2012). <a rel="nofollow" class="external text" href="http://econjwatch.org/articles/freedom-versus-coercion-in-industrial-ecology-mind-the-gap?ref=articles">"Freedom Versus Coercion in Industrial Ecology: Mind the Gap!"</a>. <i>Econ Journal Watch</i>. <b>9</b> (2): 100-111.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=Freedom+Versus+Coercion+in+Industrial+Ecology%3A+Mind+the+Gap%21&amp;rft.aufirst=Frank&amp;rft.aulast=Boons&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Feconjwatch.org%2Farticles%2Ffreedom-versus-coercion-in-industrial-ecology-mind-the-gap%3Fref%3Darticles&amp;rft.issue=2&amp;rft.jtitle=Econ+Journal+Watch&amp;rft.pages=100-111&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Desrochers, Pierre (2012). <a rel="nofollow" class="external text" href="http://econjwatch.org/articles/freedom-versus-coercion-in-industrial-ecology-a-reply-to-boons?ref=articles">"Freedom Versus Coercion in Industrial Ecology: A Reply to Boons"</a>. <i>Econ Journal Watch</i>. <b>9</b> (2): 78-99.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndustrial+ecology&amp;rft.atitle=Freedom+Versus+Coercion+in+Industrial+Ecology%3A+A+Reply+to+Boons&amp;rft.aufirst=Pierre&amp;rft.aulast=Desrochers&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Feconjwatch.org%2Farticles%2Ffreedom-versus-coercion-in-industrial-ecology-a-reply-to-boons%3Fref%3Darticles&amp;rft.issue=2&amp;rft.jtitle=Econ+Journal+Watch&amp;rft.pages=78-99&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Industrial_ecology&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Articles and books</dt>
+</dl>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.umich.edu/~nppcpub/resources/compendia/INDEpdfs/INDEintro.pdf">Industrial Ecology: An Introduction</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ecoeco.org/pdf/duchin.pdf">Industrial Ecology</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.earthportal.org/?p=364">Industrial Symbiosis Timeline</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.blackwellpublishing.com/journal.asp?ref=1088-1980&amp;site=1">Journal of Industrial Ecology</a> (<a href="/wiki/Yale_University" title="Yale University">Yale University</a> <a href="https://en.wiktionary.org/wiki/on_behalf_of" class="extiw" title="wikt:on behalf of">on behalf of</a> the School of Forestry and Environmental Studies).</li>
+<li><a rel="nofollow" class="external text" href="http://phe.rockefeller.edu/biblio.php#2">Industrial Ecology research &amp; articles from The Program for the Human Environment, The Rockefeller University</a></li>
+</ul>
+<p><br /></p>
+<dl>
+<dt>Education</dt>
+</dl>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.emmind.eu">Erasmus Mundus Master's Programme in Industrial Ecology</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Industrial_ecology" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#7FBF7F;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Industrial_Ecology" title="Template:Industrial Ecology"><abbr title="View this template" style="background:#7FBF7F;;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Industrial_Ecology" title="Template talk:Industrial Ecology"><abbr title="Discuss this template" style="background:#7FBF7F;;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Industrial_Ecology&amp;action=edit"><abbr title="Edit this template" style="background:#7FBF7F;;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Industrial_ecology" style="font-size:114%;margin:0 4em"><strong class="selflink">Industrial ecology</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#7FBF7F;">Tools</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agent-based_model" title="Agent-based model">Agent-based model</a></li>
+<li><a href="/wiki/Cost%E2%80%93benefit_analysis" title="Cost–benefit analysis">Cost–benefit analysis</a></li>
+<li><a href="/wiki/DPSIR" title="DPSIR">DPSIR</a></li>
+<li><a href="/wiki/Ecolabel" title="Ecolabel">Ecolabel</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a></li>
+<li><a href="/wiki/Environmental_management_system" title="Environmental management system">Environmental management system</a></li>
+<li><a href="/wiki/EIOLCA" title="EIOLCA">Economic Input-Output Life Cycle Assessment</a></li>
+<li><a href="/wiki/Full_cost_accounting" class="mw-redirect" title="Full cost accounting">Full cost accounting</a></li>
+<li><a href="/wiki/Input-output_model" class="mw-redirect" title="Input-output model">Input-output model</a></li>
+<li><a href="/wiki/Integrated_chain_management" title="Integrated chain management">Integrated chain management</a></li>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">ISO 14000</a></li>
+<li><a href="/wiki/Life-cycle_assessment" title="Life-cycle assessment">Life-cycle assessment</a></li>
+<li><a href="/wiki/Material_flow_analysis" title="Material flow analysis">Material flow analysis</a></li>
+<li><a href="/wiki/MET_Matrix" title="MET Matrix">MET Matrix</a></li>
+<li><a href="/wiki/Stakeholder_analysis" title="Stakeholder analysis">Stakeholder analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#7FBF7F;">Concepts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Circular_economy" title="Circular economy">Circular economy</a></li>
+<li><a href="/wiki/Cradle_to_Cradle_Design" class="mw-redirect" title="Cradle to Cradle Design">Cradle to cradle</a></li>
+<li><a href="/wiki/Dematerialization_(products)" title="Dematerialization (products)">Dematerialization</a></li>
+<li><a href="/wiki/Eco-efficiency" title="Eco-efficiency">Eco-efficiency</a></li>
+<li><a href="/wiki/Eco-industrial_development" title="Eco-industrial development">Eco-industrial development</a></li>
+<li><a href="/wiki/Eco-industrial_park" title="Eco-industrial park">Eco-industrial park</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Exergy" title="Exergy">Exergy</a></li>
+<li><a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">Extended producer responsibility</a></li>
+<li><a href="/wiki/Industrial_metabolism" title="Industrial metabolism">Industrial metabolism</a></li>
+<li><a href="/wiki/Industrial_symbiosis" title="Industrial symbiosis">Industrial symbiosis</a></li>
+<li><a href="/wiki/Pollution_prevention" title="Pollution prevention">Pollution prevention</a></li>
+<li><a href="/wiki/Life-cycle_assessment" title="Life-cycle assessment">Life-cycle assessment</a></li>
+<li><a href="/wiki/Polluter_pays_principle" title="Polluter pays principle">Polluter pays principle</a></li>
+<li><a href="/wiki/Precautionary_principle" title="Precautionary principle">Precautionary principle</a></li>
+<li><a href="/wiki/Rebound_effect_(conservation)" title="Rebound effect (conservation)">Rebound effect</a></li>
+<li><a href="/wiki/Waste_hierarchy" title="Waste hierarchy">Waste hierarchy</a></li>
+<li><a href="/wiki/Waste_minimisation" title="Waste minimisation">Waste minimisation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#7FBF7F;">Related fields</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cleaner_production" title="Cleaner production">Cleaner production</a></li>
+<li><a href="/wiki/Design_to_the_Environment" class="mw-redirect" title="Design to the Environment">Design for environment</a></li>
+<li><a href="/wiki/Earth_systems_engineering_and_management" title="Earth systems engineering and management">Earth systems engineering and management</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Green_chemistry" title="Green chemistry">Green chemistry</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Systems.C2.A0.C2.A0.C2.B7_.C2.A0Systems_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Systems_science" title="Template:Systems science"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Systems_science" title="Template talk:Systems science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Systems_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Systems.C2.A0.C2.A0.C2.B7_.C2.A0Systems_science" style="font-size:114%;margin:0 4em"><a href="/wiki/System" title="System">Systems</a>&#160;<span style="font-weight:normal;">&#160;<b>·</b></span> &#160;<a href="/wiki/Systems_science" title="Systems science">Systems science</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Systems<br />
+types</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Human_body" title="Human body">Anatomical</a></li>
+<li><a href="/wiki/Systems_art" title="Systems art">Art</a></li>
+<li><a href="/wiki/Biological_system" title="Biological system">Biological</a></li>
+<li><a href="/wiki/Complex_system" title="Complex system">Complex</a></li>
+<li><a href="/wiki/Complex_adaptive_system" title="Complex adaptive system">Complex adaptive</a></li>
+<li><a href="/wiki/Conceptual_system" title="Conceptual system">Conceptual</a></li>
+<li><a href="/wiki/Coupled_human%E2%80%93environment_system" title="Coupled human–environment system">Coupled human–environment</a></li>
+<li><a href="/wiki/Database" title="Database">Database</a></li>
+<li><a href="/wiki/Dynamical_system" title="Dynamical system">Dynamical</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecological</a></li>
+<li><a href="/wiki/Economic_system" title="Economic system">Economic</a></li>
+<li><a href="/wiki/Energy_system" title="Energy system">Energy</a></li>
+<li><a href="/wiki/Formal_system" title="Formal system">Formal</a></li>
+<li><a href="/wiki/Global_Positioning_System" title="Global Positioning System">Global Positioning</a></li>
+<li><a href="/wiki/Holon_(philosophy)" title="Holon (philosophy)">Holarchic</a></li>
+<li><a href="/wiki/Information_system" title="Information system">Information</a></li>
+<li><a href="/wiki/List_of_national_legal_systems" title="List of national legal systems">Legal</a></li>
+<li><a href="/wiki/System_of_measurement" title="System of measurement">Measurement</a></li>
+<li><a href="/wiki/Metric_system" title="Metric system">Metric</a></li>
+<li><a href="/wiki/Multi-agent_system" title="Multi-agent system">Multi-agent</a></li>
+<li><a href="/wiki/Nervous_system" title="Nervous system">Nervous</a></li>
+<li><a href="/wiki/Nonlinear_system" title="Nonlinear system">Nonlinear</a></li>
+<li><a href="/wiki/Operating_system" title="Operating system">Operating</a></li>
+<li><a href="/wiki/Physical_system" title="Physical system">Physical</a></li>
+<li><a href="/wiki/Planetary_system" title="Planetary system">Planetary</a></li>
+<li><a href="/wiki/Political_system" title="Political system">Political</a></li>
+<li><a href="/wiki/Sensory_system" class="mw-redirect" title="Sensory system">Sensory</a></li>
+<li><a href="/wiki/Social_system" title="Social system">Social</a></li>
+<li><a href="/wiki/Star_system" title="Star system">Star</a></li>
+<li><a href="/wiki/Writing_system" title="Writing system">Writing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Systems_theory" title="Category:Systems theory">Theoretical<br />
+fields</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chaos_theory" title="Chaos theory">Chaos theory</a></li>
+<li><a href="/wiki/Complex_systems" title="Complex systems">Complex systems</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control theory</a></li>
+<li><a href="/wiki/Cybernetics" title="Cybernetics">Cybernetics</a></li>
+<li><a href="/wiki/Earth_system_science" title="Earth system science">Earth system science</a></li>
+<li><a href="/wiki/Living_systems" title="Living systems">Living systems</a></li>
+<li><a href="/wiki/Sociotechnical_system" title="Sociotechnical system">Sociotechnical system</a></li>
+<li><a href="/wiki/Systemics" title="Systemics">Systemics</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+<li><a href="/wiki/World-systems_theory" title="World-systems theory">World-systems theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;padding-right:0.5em;">Systems ...</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Systems_analysis" title="Systems analysis">analysis</a></li>
+<li><a href="/wiki/Systems_biology" title="Systems biology">biology</a></li>
+<li><a href="/wiki/System_dynamics" title="System dynamics">dynamics</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">ecology</a></li>
+<li><a href="/wiki/Systems_engineering" title="Systems engineering">engineering</a></li>
+<li><a href="/wiki/Systems_neuroscience" title="Systems neuroscience">neuroscience</a></li>
+<li><a href="/wiki/Systems_psychology" title="Systems psychology">psychology</a></li>
+<li><a href="/wiki/Systems_science" title="Systems science">science</a></li>
+<li><a href="/wiki/Systems_theory" title="Systems theory">theory</a></li>
+<li><a href="/wiki/Systems_thinking" title="Systems thinking">thinking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Systems_scientists" title="Category:Systems scientists">Systems<br />
+scientists</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Russell_L._Ackoff" title="Russell L. Ackoff">Russell L. Ackoff</a></li>
+<li><a href="/wiki/William_Ross_Ashby" class="mw-redirect" title="William Ross Ashby">William Ross Ashby</a></li>
+<li><a href="/wiki/B%C3%A9la_H._B%C3%A1n%C3%A1thy" title="Béla H. Bánáthy">Béla H. Bánáthy</a></li>
+<li><a href="/wiki/Gregory_Bateson" title="Gregory Bateson">Gregory Bateson</a></li>
+<li><a href="/wiki/Anthony_Stafford_Beer" class="mw-redirect" title="Anthony Stafford Beer">Anthony Stafford Beer</a></li>
+<li><a href="/wiki/Richard_E._Bellman" title="Richard E. Bellman">Richard E. Bellman</a></li>
+<li><a href="/wiki/Ludwig_von_Bertalanffy" title="Ludwig von Bertalanffy">Ludwig von Bertalanffy</a></li>
+<li><a href="/wiki/Kenneth_E._Boulding" title="Kenneth E. Boulding">Kenneth E. Boulding</a></li>
+<li><a href="/wiki/Murray_Bowen" title="Murray Bowen">Murray Bowen</a></li>
+<li><a href="/wiki/C._West_Churchman" title="C. West Churchman">C. West Churchman</a></li>
+<li><a href="/wiki/George_Dantzig" title="George Dantzig">George Dantzig</a></li>
+<li><a href="/wiki/Heinz_von_Foerster" title="Heinz von Foerster">Heinz von Foerster</a></li>
+<li><a href="/wiki/Jay_Wright_Forrester" title="Jay Wright Forrester">Jay Wright Forrester</a></li>
+<li><a href="/wiki/Charles_A_S_Hall" class="mw-redirect" title="Charles A S Hall">Charles A S Hall</a></li>
+<li><a href="/wiki/James_J._Kay" title="James J. Kay">James J. Kay</a></li>
+<li><a href="/wiki/George_Klir" title="George Klir">George Klir</a></li>
+<li><a href="/wiki/Edward_Norton_Lorenz" title="Edward Norton Lorenz">Edward Norton Lorenz</a></li>
+<li><a href="/wiki/Niklas_Luhmann" title="Niklas Luhmann">Niklas Luhmann</a></li>
+<li><a href="/wiki/Humberto_Maturana" title="Humberto Maturana">Humberto Maturana</a></li>
+<li><a href="/wiki/Margaret_Mead" title="Margaret Mead">Margaret Mead</a></li>
+<li><a href="/wiki/Donella_Meadows" title="Donella Meadows">Donella Meadows</a></li>
+<li><a href="/wiki/Mihajlo_D._Mesarovic" title="Mihajlo D. Mesarovic">Mihajlo D. Mesarovic</a></li>
+<li><a href="/wiki/James_Grier_Miller" title="James Grier Miller">James Grier Miller</a></li>
+<li><a href="/wiki/Howard_T._Odum" title="Howard T. Odum">Howard T. Odum</a></li>
+<li><a href="/wiki/Talcott_Parsons" title="Talcott Parsons">Talcott Parsons</a></li>
+<li><a href="/wiki/Ilya_Prigogine" title="Ilya Prigogine">Ilya Prigogine</a></li>
+<li><a href="/wiki/Qian_Xuesen" title="Qian Xuesen">Qian Xuesen</a></li>
+<li><a href="/wiki/Anatol_Rapoport" title="Anatol Rapoport">Anatol Rapoport</a></li>
+<li><a href="/wiki/Peter_Senge" title="Peter Senge">Peter Senge</a></li>
+<li><a href="/wiki/Claude_Shannon" title="Claude Shannon">Claude Shannon</a></li>
+<li><a href="/wiki/Francisco_Varela" title="Francisco Varela">Francisco Varela</a></li>
+<li><a href="/wiki/Kevin_Warwick" title="Kevin Warwick">Kevin Warwick</a></li>
+<li><a href="/wiki/Norbert_Wiener" title="Norbert Wiener">Norbert Wiener</a></li>
+<li><a href="/wiki/Anthony_Wilden" title="Anthony Wilden">Anthony Wilden</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> Categories</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Category:Systems" title="Category:Systems">Systems</a>
+<ul>
+<li><a href="/wiki/Category:Conceptual_systems" title="Category:Conceptual systems">conceptual</a></li>
+<li><a href="/wiki/Category:Physical_systems" title="Category:Physical systems">physical</a></li>
+<li><a href="/wiki/Category:Social_systems" title="Category:Social systems">social</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Category:Systems_science" title="Category:Systems science">Systems science</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold">
+<div>
+<ul>
+<li><a href="/wiki/File:Complex-adaptive-system.jpg" class="image"><img alt="Complex-adaptive-system.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/16px-Complex-adaptive-system.jpg" width="16" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/24px-Complex-adaptive-system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Complex-adaptive-system.jpg/32px-Complex-adaptive-system.jpg 2x" data-file-width="2100" data-file-height="1500" /></a> <a href="/wiki/Portal:Systems_science" title="Portal:Systems science">Systems science portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Sustainability" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Population" title="Population">Population</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a href="/wiki/Human_population_control" class="mw-redirect" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Food</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Water</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Water_crisis" class="mw-redirect" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" class="mw-redirect" title="Water footprint">Footprint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Accountability</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Education_for_Sustainable_Development" class="mw-redirect" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a href="/wiki/Sustainable_market" class="mw-redirect" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a href="/wiki/Sustainability_practices_in_organizations" class="mw-redirect" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a href="/wiki/Sustainable_urban_drainage_systems" class="mw-redirect" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Management</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Agreements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Recycling" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Recycling" title="Template:Recycling"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Recycling" title="Template talk:Recycling"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Recycling&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Recycling" style="font-size:114%;margin:0 4em"><a href="/wiki/Recycling" title="Recycling">Recycling</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Recycling_by_material" title="Recycling by material">Materials</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aluminium_recycling" title="Aluminium recycling">Aluminium</a></li>
+<li><a href="/wiki/Asphalt_concrete#Recycling" title="Asphalt concrete">Asphalt</a></li>
+<li><a href="/wiki/Concrete_recycling" title="Concrete recycling">Concrete</a></li>
+<li><a href="/wiki/Copper#Recycling" title="Copper">Copper</a></li>
+<li><a href="/wiki/Cotton_recycling" title="Cotton recycling">Cotton</a></li>
+<li><a href="/wiki/Energy_recycling" title="Energy recycling">Energy</a></li>
+<li><a href="/wiki/Ferrous_metal_recycling" title="Ferrous metal recycling">Ferrous metals</a></li>
+<li><a href="/wiki/Glass_recycling" title="Glass recycling">Glass</a></li>
+<li><a href="/wiki/Gypsum_recycling" title="Gypsum recycling">Gypsum</a></li>
+<li><a href="/wiki/Paper_recycling" title="Paper recycling">Paper</a></li>
+<li><a href="/wiki/Plastic_recycling" title="Plastic recycling">Plastic</a></li>
+<li><a href="/wiki/Refrigerant_reclamation" title="Refrigerant reclamation">Refrigerant</a></li>
+<li><a href="/wiki/Scrap" title="Scrap">Scrap</a></li>
+<li><a href="/wiki/Timber_recycling" title="Timber recycling">Timber</a></li>
+<li><a href="/wiki/Vegetable_oil_recycling" title="Vegetable oil recycling">Vegetable oil</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Water</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="11" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Recycling_symbol.svg" class="image"><img alt="Recycling symbol.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Recycling_symbol.svg/75px-Recycling_symbol.svg.png" width="75" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Recycling_symbol.svg/113px-Recycling_symbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Recycling_symbol.svg/150px-Recycling_symbol.svg.png 2x" data-file-width="628" data-file-height="614" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Recycling_by_product" title="Recycling by product">Products</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appliance_recycling" title="Appliance recycling">Appliances</a></li>
+<li><a href="/wiki/Automotive_oil_recycling" title="Automotive oil recycling">Automotive oil</a></li>
+<li><a href="/wiki/Battery_recycling" title="Battery recycling">Batteries</a></li>
+<li><a href="/wiki/Bottle_recycling" title="Bottle recycling">Bottles</a></li>
+<li><a href="/wiki/PET_bottle_recycling" title="PET bottle recycling">PET bottles</a></li>
+<li><a href="/wiki/Computer_recycling" title="Computer recycling">Computers</a></li>
+<li><a href="/wiki/Fluorescent_lamp_recycling" title="Fluorescent lamp recycling">Fluorescent lamps</a></li>
+<li><a href="/wiki/Reclaimed_lumber" title="Reclaimed lumber">Lumber</a></li>
+<li><a href="/wiki/Mobile_phone_recycling" title="Mobile phone recycling">Mobile phones</a></li>
+<li><a href="/wiki/Paint_recycling" title="Paint recycling">Paint</a></li>
+<li><a href="/wiki/Ship_disposal" title="Ship disposal">Ships</a></li>
+<li><a href="/wiki/Textile_recycling" title="Textile recycling">Textiles</a></li>
+<li><a href="/wiki/Tire_recycling" title="Tire recycling">Tires</a></li>
+<li><a href="/wiki/Vehicle_recycling" title="Vehicle recycling">Vehicles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Apparatus</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Recycling_bins" class="mw-redirect" title="Recycling bins">Bins</a></li>
+<li><a href="/wiki/Blue_bag" title="Blue bag">Blue bags</a></li>
+<li><a href="/wiki/Blue_box_recycling_system" title="Blue box recycling system">Blue boxes</a></li>
+<li><a href="/wiki/Recycling_codes" title="Recycling codes">Codes</a></li>
+<li><a href="/wiki/Kerbside_collection" title="Kerbside collection">Collection</a></li>
+<li><a href="/wiki/Materials_recovery_facility" title="Materials recovery facility">Materials recovery facility</a></li>
+<li><a href="/wiki/Waste_sorting" title="Waste sorting">Waste sorting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Countries</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Recycling_in_Brazil" title="Recycling in Brazil">Brazil</a></li>
+<li><a href="/wiki/Recycling_in_Canada" title="Recycling in Canada">Canada</a></li>
+<li><a href="/wiki/Recycling_in_the_Republic_of_Ireland" title="Recycling in the Republic of Ireland">Ireland</a></li>
+<li><a href="/wiki/Recycling_in_Japan" title="Recycling in Japan">Japan</a></li>
+<li><a href="/wiki/Recycling_in_the_Netherlands" title="Recycling in the Netherlands">The Netherlands</a></li>
+<li><a href="/wiki/Waste_management_in_Switzerland#Recycling" title="Waste management in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Recycling_in_the_United_Kingdom" title="Recycling in the United Kingdom">United Kingdom</a>
+<ul>
+<li><a href="/wiki/Recycling_in_Northern_Ireland" title="Recycling in Northern Ireland">Northern Ireland</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Recycling_in_the_United_States" title="Recycling in the United States">United States</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dematerialization_(products)" title="Dematerialization (products)">Dematerialization</a></li>
+<li><a href="/wiki/Downcycling" title="Downcycling">Downcycling</a></li>
+<li><a href="/wiki/Eco-industrial_park" title="Eco-industrial park">Eco-industrial park</a></li>
+<li><a href="/wiki/Ecodesign" title="Ecodesign">Ecodesign</a></li>
+<li><a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">Extended producer responsibility</a></li>
+<li><a href="/wiki/Freecycling" title="Freecycling">Freecycling</a></li>
+<li><strong class="selflink">Industrial ecology</strong></li>
+<li><a href="/wiki/Industrial_metabolism" title="Industrial metabolism">Industrial metabolism</a></li>
+<li><a href="/wiki/Land_recycling" title="Land recycling">Land recycling</a></li>
+<li><a href="/wiki/Material_flow_analysis" title="Material flow analysis">Material flow analysis</a></li>
+<li><a href="/wiki/Precycling" title="Precycling">Precycling</a></li>
+<li><a href="/wiki/Product_stewardship" title="Product stewardship">Product stewardship</a></li>
+<li><a href="/wiki/Recursive_recycling" title="Recursive recycling">Recursive recycling</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Recycling (ecological)</a></li>
+<li><a href="/wiki/Resource_recovery" title="Resource recovery">Resource recovery</a></li>
+<li><a href="/wiki/Repurposing" title="Repurposing">Repurposing</a></li>
+<li><a href="/wiki/Reuse" title="Reuse">Reuse</a></li>
+<li><a href="/wiki/Upcycling" title="Upcycling">Upcycling</a></li>
+<li><a href="/wiki/Dumpster_diving" title="Dumpster diving">Urban lumberjacking</a></li>
+<li><a href="/wiki/Waste_hierarchy" title="Waste hierarchy">Waste hierarchy</a></li>
+<li><a href="/wiki/Waste_minimisation" title="Waste minimisation">Waste minimisation</a></li>
+<li><a href="/wiki/Waste_picker" title="Waste picker">Waste picking</a></li>
+<li><a href="/wiki/Zero_waste" title="Zero waste">Zero waste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Compost" title="Compost">Composting</a></li>
+<li><a href="/wiki/Container_deposit_legislation" title="Container deposit legislation">Container deposit legislation</a></li>
+<li><a href="/wiki/Dumpster_diving" title="Dumpster diving">Dumpster diving</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical consumerism</a></li>
+<li><a href="/wiki/Freeganism" title="Freeganism">Freeganism</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Waste" title="Waste">Waste</a></li>
+<li><a href="/wiki/Waste-to-energy" title="Waste-to-energy">Waste-to-energy</a></li>
+<li><a href="/wiki/Waste_collection" title="Waste collection">Waste collection</a></li>
+<li><a href="/wiki/Waste_legislation" class="mw-redirect" title="Waste legislation">Waste legislation</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+<li><a href="/wiki/List_of_waste_management_concepts" title="List of waste management concepts">Waste management concepts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Recycling" title="Category:Recycling">Category</a>
+<ul>
+<li><a href="/wiki/Category:Recycling_by_country" title="Category:Recycling by country">by country</a></li>
+<li><a href="/wiki/Category:Recycling_by_material" title="Category:Recycling by material">by material</a></li>
+<li><a href="/wiki/Category:Recycling_by_product" title="Category:Recycling by product">by product</a></li>
+<li><a href="/wiki/Category:Recycling_organisations" title="Category:Recycling organisations">organizations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Index_of_recycling_articles" title="Index of recycling articles">Index</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Recycling" class="extiw" title="commons:Category:Recycling">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="Aegopodium podagraria1 ies.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg" width="24" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/36px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a></span><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png" width="24" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/36px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20170314143932
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.292 seconds
+Real time usage: 0.363 seconds
+Preprocessor visited node count: 1697/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 106374/2097152 bytes
+Template argument size: 3747/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.107/10.000 seconds
+Lua memory usage: 4.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  240.985      1 -total
+ 39.94%   96.254      1 Template:Reflist
+ 27.77%   66.914     12 Template:Cite_journal
+ 22.21%   53.535      5 Template:Navbox
+ 11.99%   28.903      1 Template:Use_dmy_dates
+ 10.67%   25.719      1 Template:Systems
+  7.39%   17.816      1 Template:Industrial_Ecology
+  4.20%   10.125      1 Template:Sustainability
+  4.20%   10.113      1 Template:Main
+  4.11%    9.916      1 Template:Recycling
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:223898-0!*!0!!en!4!* and timestamp 20170314143931 and revision id 765543687
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Industrial_ecology&amp;oldid=765543687">https://en.wikipedia.org/w/index.php?title=Industrial_ecology&amp;oldid=765543687</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Industrial_ecology" title="Category:Industrial ecology">Industrial ecology</a></li><li><a href="/wiki/Category:Industrial_engineering" title="Category:Industrial engineering">Industrial engineering</a></li><li><a href="/wiki/Category:Systems_ecology" title="Category:Systems ecology">Systems ecology</a></li><li><a href="/wiki/Category:Environmental_economics" title="Category:Environmental economics">Environmental economics</a></li><li><a href="/wiki/Category:Global_business_organization" title="Category:Global business organization">Global business organization</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Articles_with_inconsistent_citation_formats" title="Category:Articles with inconsistent citation formats">Articles with inconsistent citation formats</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2016" title="Category:Use dmy dates from October 2016">Use dmy dates from October 2016</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Industrial+ecology" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Industrial+ecology" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Industrial_ecology"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Industrial_ecology"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Industrial_ecology" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Industrial_ecology&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Industrial_ecology&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Industrial_ecology" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Industrial_ecology" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Industrial_ecology&amp;oldid=765543687" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Industrial_ecology&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2323664" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Industrial_ecology&amp;id=765543687" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Industrial+ecology">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Industrial+ecology&amp;returnto=Industrial+ecology&amp;oldid=765543687&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Industrial_ecology&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ecologia_industrial" title="Ecologia industrial – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/T%C3%B6%C3%B6stus%C3%B6koloogia" title="Tööstusökoloogia – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ecolog%C3%ADa_industrial" title="Ecología industrial – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89cologie_industrielle" title="Écologie industrielle – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Industrijska_ekologija" title="Industrijska ekologija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Ekologi_industrial" title="Ekologi industrial – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ecologia_industriale" title="Ecologia industriale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Industriell_%C3%B8kologi" title="Industriell økologi – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ecologia_industrial" title="Ecologia industrial – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Промышленная экология – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Teollinen_ekologia" title="Teollinen ekologia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Industriell_ekologi" title="Industriell ekologi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D0%B0_%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Інженерна екологія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%94%9F%E6%85%8B%E5%AD%B8" title="工業生態學 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2323664#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 February 2017, at 00:48.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Industrial_ecology&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.363","ppvisitednodes":{"value":1697,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":106374,"limit":2097152},"templateargumentsize":{"value":3747,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  240.985      1 -total"," 39.94%   96.254      1 Template:Reflist"," 27.77%   66.914     12 Template:Cite_journal"," 22.21%   53.535      5 Template:Navbox"," 11.99%   28.903      1 Template:Use_dmy_dates"," 10.67%   25.719      1 Template:Systems","  7.39%   17.816      1 Template:Industrial_Ecology","  4.20%   10.125      1 Template:Sustainability","  4.20%   10.113      1 Template:Main","  4.11%    9.916      1 Template:Recycling"]},"scribunto":{"limitreport-timeusage":{"value":"0.107","limit":"10.000"},"limitreport-memusage":{"value":4263114,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20170314143932","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":448,"wgHostname":"mw1261"});});</script>
+	</body>
+</html>

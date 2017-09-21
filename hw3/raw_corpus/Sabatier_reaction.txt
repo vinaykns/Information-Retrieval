@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Sabatier reaction - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sabatier_reaction","wgTitle":"Sabatier reaction","wgCurRevisionId":753732183,"wgRevisionId":753732183,"wgArticleId":1393634,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from July 2013","All articles that may contain original research","Articles that may contain original research from March 2014","Articles with unsourced statements from March 2014","Hydrogen","Organic redox reactions","Name reactions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sabatier_reaction","wgRelevantArticleId":1393634,"wgRequestId":"WMUQXwpAIDEAAEvHEFMAAAHE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q899612","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sabatier_reaction"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sabatier_reaction&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sabatier_reaction&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sabatier_reaction"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sabatier_reaction rootpage-Sabatier_reaction skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Sabatier reaction</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>The <b>Sabatier reaction</b> or <b>Sabatier process</b> was discovered by the <a href="/wiki/France" title="France">French</a> <a href="/wiki/Chemist" title="Chemist">chemist</a> <a href="/wiki/Paul_Sabatier_(chemist)" title="Paul Sabatier (chemist)">Paul Sabatier</a> in the 1910s. It involves the reaction of <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> with <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> at elevated temperatures (optimally 300–400&#160;°C) and pressures in the presence of a <a href="/wiki/Nickel" title="Nickel">nickel</a> <a href="/wiki/Catalyst" class="mw-redirect" title="Catalyst">catalyst</a> to produce <a href="/wiki/Methane" title="Methane">methane</a> and water. Optionally, <a href="/wiki/Ruthenium" title="Ruthenium">ruthenium</a> on <a href="/wiki/Alumina" class="mw-redirect" title="Alumina">alumina</a> (aluminium oxide) makes a more efficient catalyst. It is described by the following <a href="/wiki/Exothermic_reaction" title="Exothermic reaction">exothermic reaction</a>:</p>
+<dl>
+<dd>CO<sub>2</sub> + 4 H<sub>2</sub> → CH<sub>4</sub> + 2 H<sub>2</sub>O + energy</dd>
+<dd>∆H = −165.0 kJ/mol</dd>
+<dd>(some initial energy/heat is required to start the reaction)</dd>
+</dl>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Energy_storage"><span class="tocnumber">1</span> <span class="toctext">Energy storage</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#International_Space_Station_life_support"><span class="tocnumber">2</span> <span class="toctext">International Space Station life support</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Manufacturing_propellant_on_Mars"><span class="tocnumber">3</span> <span class="toctext">Manufacturing propellant on Mars</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Detailed_chemical_reactions"><span class="tocnumber">3.1</span> <span class="toctext">Detailed chemical reactions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Energy_storage">Energy storage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sabatier_reaction&amp;action=edit&amp;section=1" title="Edit section: Energy storage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></div>
+<p>It has been proposed in a renewable-energy-dominated energy system to use the excess electricity generated by wind, solar photovoltaic, hydro, marine current, etc. to make methane (natural gas) via water electrolysis and the subsequent application of the Sabatier reaction.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In contrast to a direct usage of hydrogen for transport or energy storage applications,<sup id="cite_ref-energy_3-0" class="reference"><a href="#cite_note-energy-3">[3]</a></sup> the methane can be injected into the existing gas network, which in many countries has one or two years of gas storage capacity. The methane can then be used on demand to generate electricity (and heat—combined heat and power) overcoming low points of renewable energy production. The process is electrolysis of water by electricity to create hydrogen (which can partly be used directly in fuel cells) and the addition of carbon dioxide CO<sub>2</sub> (Sabatier process) to create methane. The CO<sub>2</sub> can be extracted from the air or fossil fuel waste gases by the <a href="/wiki/Amine_gas_treating" title="Amine gas treating">amine process</a>, amongst many others. It is a low-CO<sub>2</sub> system, and has similar efficiencies of today's energy system. A 6 MW power-to-gas plant went into production in Germany in 2013, and powered a fleet of 1500 Audi A3s.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="International_Space_Station_life_support">International Space Station life support</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sabatier_reaction&amp;action=edit&amp;section=2" title="Edit section: International Space Station life support">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Oxygen generators on board the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a> produce oxygen from water using <a href="/wiki/Electrolysis_of_water" title="Electrolysis of water">electrolysis</a>; the hydrogen produced was previously discarded into space. As astronauts consume oxygen, carbon dioxide is produced, which must then be removed from the air and discarded as well. This approach required copious amounts of water to be regularly transported to the space station for oxygen generation in addition to that used for human consumption, hygiene, and other uses—a luxury that will not be available to future long-duration missions beyond <a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">low Earth orbit</a>.</p>
+<p><a href="/wiki/NASA" title="NASA">NASA</a> is using the Sabatier reaction to recover water from exhaled carbon dioxide and the hydrogen previously discarded from electrolysis on the International Space Station and possibly for future missions.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The other resulting chemical, methane, is released into space. As half of the input hydrogen becomes wasted as methane, additional hydrogen is supplied from Earth to make up the difference. However, this creates a nearly-closed cycle between water, oxygen, and carbon dioxide which only requires a relatively modest amount of imported hydrogen to maintain.</p>
+<p>Ignoring other results of respiration, this cycle looks like:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn>
+          <mspace width="thinmathspace" />
+          <msubsup>
+            <mtext>H</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <mtext>O</mtext>
+          <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msubsup>
+              <mtext>O</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mspace width="0pt" height="0pt" depth=".2em" />
+              </mrow>
+            </msubsup>
+          </mrow>
+          <mo>+</mo>
+          <mn>2</mn>
+          <mspace width="thinmathspace" />
+          <msubsup>
+            <mtext>H</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <mrow class="MJX-TeXAtom-REL">
+            <mover>
+              <mo>&#x2192;</mo>
+              <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>respiration</mtext>
+                </mrow>
+              </mpadded>
+            </mover>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msubsup>
+              <mtext>CO</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mspace width="0pt" height="0pt" depth=".2em" />
+              </mrow>
+            </msubsup>
+          </mrow>
+          <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+            <mspace width="thinmathspace" />
+            <msubsup>
+              <mtext>H</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mspace width="0pt" height="0pt" depth=".2em" />
+              </mrow>
+            </msubsup>
+          </mrow>
+          <mo>+</mo>
+          <munderover>
+            <mrow class="MJX-TeXAtom-OP">
+              <mover>
+                <mrow>
+                  <mn>2</mn>
+                  <mspace width="thinmathspace" />
+                  <msubsup>
+                    <mtext>H</mtext>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>2</mn>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mspace width="0pt" height="0pt" depth=".2em" />
+                    </mrow>
+                  </msubsup>
+                </mrow>
+                <mo accent="false">&#x23DE;<!-- ⏞ --></mo>
+              </mover>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>added</mtext>
+            </mrow>
+          </munderover>
+          <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+            <mspace width="thinmathspace" />
+            <msubsup>
+              <mtext>H</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mspace width="0pt" height="0pt" depth=".2em" />
+              </mrow>
+            </msubsup>
+            <mtext>O</mtext>
+          </mrow>
+          <mo>+</mo>
+          <munderover>
+            <mrow class="MJX-TeXAtom-OP">
+              <mover>
+                <msubsup>
+                  <mtext>CH</mtext>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>4</mn>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mspace width="0pt" height="0pt" depth=".2em" />
+                  </mrow>
+                </msubsup>
+                <mo accent="false">&#x23DE;<!-- ⏞ --></mo>
+              </mover>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>discarded</mtext>
+            </mrow>
+          </munderover>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {2H2O-&gt;{O2}+2H2-&gt;[{\ce {respiration}}]{CO2}+{2H2}+\overbrace {2H2} ^{added}-&gt;{2H2O}+\overbrace {CH4} ^{discarded}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e27b440c6a3911fd417d1c4c5a29c3c57aa144e5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:71.807ex; height:7.843ex;" alt="{\displaystyle {\ce {2H2O-&gt;{O2}+2H2-&gt;[{\ce {respiration}}]{CO2}+{2H2}+\overbrace {2H2} ^{added}-&gt;{2H2O}+\overbrace {CH4} ^{discarded}}}}" /></span></dd>
+</dl>
+<p>The loop could be further closed if the waste methane was separated into its component parts by <a href="/wiki/Pyrolysis" title="Pyrolysis">pyrolysis</a>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msubsup>
+            <mtext>CH</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>4</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <mrow class="MJX-TeXAtom-REL">
+            <mover>
+              <mo>&#x2192;</mo>
+              <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>heat</mtext>
+                </mrow>
+              </mpadded>
+            </mover>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>C</mtext>
+          </mrow>
+          <mo>+</mo>
+          <mn>2</mn>
+          <mspace width="thinmathspace" />
+          <msubsup>
+            <mtext>H</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {CH4-&gt;[{\ce {heat}}]{C}+2H2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5205072f581debfaaacd30a52566209c3d605d16" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; margin-top: -0.44ex; width:19.167ex; height:4.509ex;" alt="{\displaystyle {\ce {CH4-&gt;[{\ce {heat}}]{C}+2H2}}}" /></span></dd>
+</dl>
+<p>The released hydrogen would then be recycled back into the Sabatier reactor, leaving an easily removed deposit of <a href="/wiki/Pyrolytic_carbon" title="Pyrolytic carbon">pyrolytic graphite</a>. The reactor would be little more than a steel pipe, and could be periodically serviced by an astronaut where the deposit is chiselled out.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></p>
+<p>Alternatively, the loop could be partially closed (75% of H<sub>2</sub> from CH<sub>4</sub> recovered) by incomplete pyrolysis of the waste methane while keeping the carbon locked up in gaseous form:<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msubsup>
+            <mtext>CH</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>4</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <mrow class="MJX-TeXAtom-REL">
+            <mover>
+              <mo>&#x2192;</mo>
+              <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>heat</mtext>
+                </mrow>
+              </mpadded>
+            </mover>
+          </mrow>
+        </mrow>
+        <mtext>&#xA0;</mtext>
+        <mn>0.5</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msubsup>
+            <mtext>C</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <msubsup>
+            <mtext>H</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+        </mrow>
+        <mo>+</mo>
+        <mn>1.5</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msubsup>
+            <mtext>H</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {CH4-&gt;[{\ce {heat}}]}}\ 0.5{\ce {C2H2}}+1.5{\ce {H2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/52c81f07362815b4c4c5938082cf48a60b54f0ef" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; margin-top: -0.44ex; width:27.426ex; height:4.509ex;" alt="{\displaystyle {\ce {CH4-&gt;[{\ce {heat}}]}}\ 0.5{\ce {C2H2}}+1.5{\ce {H2}}}" /></span></dd>
+</dl>
+<p>The <a href="/wiki/Bosch_reaction" title="Bosch reaction">Bosch reaction</a> is also being investigated by NASA for this purpose and is:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<dl>
+<dd>CO<sub>2</sub> + 2H<sub>2</sub> → C + 2H<sub>2</sub>O</dd>
+</dl>
+<p>The Bosch reaction would present a completely closed hydrogen and oxygen cycle which only produces atomic carbon as waste. However, difficulties maintaining its temperature of up to 600°C and properly handling carbon deposits mean significantly more research will be required before a Bosch reactor could become a reality. One problem is that the production of elemental carbon tends to foul the catalyst's surface (coking), which is detrimental to the reaction's efficiency.</p>
+<h2><span class="mw-headline" id="Manufacturing_propellant_on_Mars">Manufacturing propellant on Mars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sabatier_reaction&amp;action=edit&amp;section=3" title="Edit section: Manufacturing propellant on Mars">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Sabatier reaction has been proposed as a key step in reducing the cost of <a href="/wiki/Manned" class="mw-redirect" title="Manned">manned</a> exploration of Mars (<a href="/wiki/Mars_Direct" title="Mars Direct">Mars Direct</a>, <a href="/wiki/Interplanetary_Transport_System" title="Interplanetary Transport System">Interplanetary Transport System</a>) through <a href="/wiki/In-Situ_Resource_Utilization" class="mw-redirect" title="In-Situ Resource Utilization">In-Situ Resource Utilization</a>. Hydrogen is combined with CO<sub>2</sub> from the atmosphere, with methane then stored as fuel and the water side product <a href="/wiki/Electrolysis" title="Electrolysis">electrolyzed</a> yielding oxygen to be liquefied and stored as oxidizer and hydrogen to be recycled back into the reactor. The original hydrogen could be transported from Earth or separated from martian sources of water.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>A variation of the basic Sabatier methanation reaction may be used via a mixed catalyst bed and a reverse water gas shift in a single reactor to produce methane from the raw materials available on Mars, utilizing water from the Martian subsoil and carbon dioxide in the Martian atmosphere. A 2011 prototype test operation that harvested CO<sub>2</sub> from a simulated Martian atmosphere and reacted it with H<sub>2</sub>, produced methane rocket propellant at a rate of 1&#160;kg/day, operating autonomously for 5 consecutive days, maintaining a nearly 100% conversion rate. An optimized system of this design massing 50&#160;kg "is projected to produce 1 kg/day of O<sub>2</sub>:CH<sub>4</sub> propellant ... with a methane purity of 98+% while consuming 700 Watts of electrical power." Overall unit conversion rate expected from the optimized system is one <a href="/wiki/Tonne" title="Tonne">tonne</a> of propellant per 17 MWh energy input.<sup id="cite_ref-zubrin20121215_9-0" class="reference"><a href="#cite_note-zubrin20121215-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Detailed_chemical_reactions">Detailed chemical reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sabatier_reaction&amp;action=edit&amp;section=4" title="Edit section: Detailed chemical reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Stoichiometric" class="mw-redirect" title="Stoichiometric">stoichiometric</a> ratio of oxidizer and fuel is 2:1, for an oxygen:methane engine.</p>
+<p>CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O</p>
+<p>However, one pass through the Sabatier reactor produces a ratio of only 1:1. More oxygen may be produced by running the <a href="/wiki/Water_gas_shift_reaction" class="mw-redirect" title="Water gas shift reaction">water gas shift reaction</a> in reverse, effectively extracting oxygen from the atmosphere by reducing carbon dioxide to <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a>.</p>
+<p>Another option is to make more methane than needed and pyrolyze the excess of it into carbon and hydrogen (see above section) where the hydrogen is recycled back into the reactor to produce further methane and water. In an automated system, the carbon deposit may be removed by blasting with hot Martian CO<sub>2</sub>, oxidizing the carbon into carbon monoxide, which is vented.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research"><span title="The material near this tag possibly contains original research. (March 2014)">original research?</span></a></i>]</sup></p>
+<p>A fourth solution to the <a href="/wiki/Stoichiometry" title="Stoichiometry">stoichiometry</a> problem would be to combine the Sabatier reaction with the reverse water gas-shift reaction in a single reactor as follows:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2014)">citation needed</span></a></i>]</sup></p>
+<p>3 CO<sub>2</sub> + 6 H<sub>2</sub> → CH<sub>4</sub> + 2 CO + 4 H<sub>2</sub>O</p>
+<p>This reaction is slightly exothermic, and when the water is electrolyzed, an oxygen to methane ratio of 2:1 is obtained.</p>
+<p>Regardless of which method of oxygen fixation is utilized, the overall process can be summarized by the following equation:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2014)">citation needed</span></a></i>]</sup></p>
+<p>2 H<sub>2</sub> + 3 CO<sub>2</sub> → CH<sub>4</sub> + 2 O<sub>2</sub> + 2 CO</p>
+<p>Looking at molecular masses, we have produced sixteen grams of methane and 64 grams of oxygen using four grams of hydrogen (which would have to be imported from Earth unless Martian water was electrolysed), for a mass gain of 20:1; and the methane and oxygen are in the right stochiometric ratio to be burned in a rocket engine. This kind of <a href="/wiki/In-situ_resource_utilization" class="mw-redirect" title="In-situ resource utilization">in-situ resource utilization</a> would result in massive weight and cost savings to any proposed manned Mars or sample return missions.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sabatier_reaction&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/In-Situ_Resource_Utilization" class="mw-redirect" title="In-Situ Resource Utilization">In-Situ Resource Utilization</a></li>
+<li><a href="/wiki/Timeline_of_hydrogen_technologies" title="Timeline of hydrogen technologies">Timeline of hydrogen technologies</a></li>
+<li><a href="/wiki/Steam_reforming" title="Steam reforming">Steam reforming</a></li>
+<li><a href="/wiki/Fischer%E2%80%93Tropsch_process" title="Fischer–Tropsch process">Fischer–Tropsch process</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sabatier_reaction&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i>Bioenergy and renewable power methane in integrated 100% renewable energy system</i>, <a rel="nofollow" class="external autonumber" href="http://www.uni-kassel.de/upress/online/frei/978-3-89958-798-2.volltext.frei.pdf">[1]</a>,</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i>scénario négaWatt 2011 (France)</i>, <a rel="nofollow" class="external autonumber" href="http://www.negawatt.org/scenario-negawatt-2011-p46.html">[2]</a>,</span></li>
+<li id="cite_note-energy-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-energy_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Eberle, Ulrich; Mueller, Bernd; von Helmolt, Rittmar. <a rel="nofollow" class="external text" href="http://www.researchgate.net/publication/233987484_Fuel_cell_electric_vehicles_and_hydrogen_infrastructure_status_2012?ev=prf_pub">"Fuel cell electric vehicles and hydrogen infrastructure: status 2012"</a>. <a href="/wiki/Energy_%26_Environmental_Science" class="mw-redirect" title="Energy &amp; Environmental Science">Energy &amp; Environmental Science</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-12-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASabatier+reaction&amp;rft.aufirst=Ulrich&amp;rft.aulast=Eberle&amp;rft.au=Mueller%2C+Bernd&amp;rft.au=von+Helmolt%2C+Rittmar&amp;rft.btitle=Fuel+cell+electric+vehicles+and+hydrogen+infrastructure%3A+status+2012&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.researchgate.net%2Fpublication%2F233987484_Fuel_cell_electric_vehicles_and_hydrogen_infrastructure_status_2012%3Fev%3Dprf_pub&amp;rft.pub=Energy+%26+Environmental+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.etogas.com/en/references/article///industrial-63-mw-ptg-plant-audi-e-gas-plant/">http://www.etogas.com/en/references/article///industrial-63-mw-ptg-plant-audi-e-gas-plant/</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Harding, Pete (October 9, 2010). <a rel="nofollow" class="external text" href="http://www.nasaspaceflight.com/2010/10/soyuz-01m-docking-iss-crews-conduct-hardware-installation/">"Soyuz TMA-01M docks with ISS as crews conduct hardware installation"</a>. <i>NASASpaceFlight.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASabatier+reaction&amp;rft.atitle=Soyuz+TMA-01M+docks+with+ISS+as+crews+conduct+hardware+installation&amp;rft.aufirst=Pete&amp;rft.aulast=Harding&amp;rft.date=2010-10-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nasaspaceflight.com%2F2010%2F10%2Fsoyuz-01m-docking-iss-crews-conduct-hardware-installation%2F&amp;rft.jtitle=NASASpaceFlight.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ices.space/conference-proceedings.html">"Third Generation Advanced PPA Development"</a>. <i>International Conference on Evironmental Systems 2014</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASabatier+reaction&amp;rft.atitle=Third+Generation+Advanced+PPA+Development&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.ices.space%2Fconference-proceedings.html&amp;rft.jtitle=International++Conference+on+Evironmental+Systems+2014&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://settlement.arc.nasa.gov/teacher/course/h2o_gen.html">"Regenerative Life Support: Water Production"</a>. <i>settlement.arc.nasa.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-05-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASabatier+reaction&amp;rft.atitle=Regenerative+Life+Support%3A+Water+Production&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsettlement.arc.nasa.gov%2Fteacher%2Fcourse%2Fh2o_gen.html&amp;rft.jtitle=settlement.arc.nasa.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Bryner, Jeanna (15 March 2007). <a rel="nofollow" class="external text" href="http://www.space.com/scienceastronomy/070315_martian_beach.html">"Giant Pool of Water Ice at Mars' South Pole"</a>. <a href="/wiki/Space.com" title="Space.com">Space.com</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASabatier+reaction&amp;rft.atitle=Giant+Pool+of+Water+Ice+at+Mars%27+South+Pole&amp;rft.aufirst=Jeanna&amp;rft.aulast=Bryner&amp;rft.date=2007-03-15&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.space.com%2Fscienceastronomy%2F070315_martian_beach.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-zubrin20121215-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-zubrin20121215_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zubrin, Robert M.; Muscatello, Berggren (2012-12-15). <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1061/(ASCE)AS.1943-5525.0000201">"Integrated Mars In Situ Propellant Production System"</a>. <i>Journal of Aerospace Engineering</i>. <b>26</b>: 43–56. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1061%2F%28asce%29as.1943-5525.0000201">10.1061/(asce)as.1943-5525.0000201</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1943-5525">1943-5525</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASabatier+reaction&amp;rft.atitle=Integrated+Mars+In+Situ+Propellant+Production+System&amp;rft.aufirst=Robert+M.&amp;rft.aulast=Zubrin&amp;rft.au=Muscatello%2C+Berggren&amp;rft.date=2012-12-15&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1061%2F%28ASCE%29AS.1943-5525.0000201&amp;rft_id=info%3Adoi%2F10.1061%2F%28asce%29as.1943-5525.0000201&amp;rft.issn=1943-5525&amp;rft.jtitle=Journal+of+Aerospace+Engineering&amp;rft.pages=43-56&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sabatier_reaction&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://nssdc.gsfc.nasa.gov/planetary/mars/marssurf.html">A Crewed Mission to Mars</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.osti.gov/energycitations/product.biblio.jsp?osti_id=5087687">Development of an improved Sabatier reactor</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.isso.uh.edu/publications/A9900/pdf/rich84.pdf">Improved Sabatier Reactions for In Situ Resource Utilization on Mars Missions</a></li>
+<li><a rel="nofollow" class="external text" href="http://uolab.groups.et.byu.net/files/catalytic/catalytic.htm">Catalytic methanation experimental instructions, videos, and theory</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1179
+Cached time: 20170312090951
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.283 seconds
+Preprocessor visited node count: 964/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 20177/2097152 bytes
+Template argument size: 2421/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.125/10.000 seconds
+Lua memory usage: 2.79 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  227.744      1 -total
+ 46.51%  105.925      5 Template:Fix
+ 43.58%   99.247      4 Template:Citation_needed
+ 30.43%   69.302      1 Template:Reflist
+ 25.43%   57.910      5 Template:Delink
+ 18.57%   42.297      9 Template:Category_handler
+ 18.36%   41.806      3 Template:Cite_web
+ 13.29%   30.272      1 Template:Main
+  8.45%   19.239      1 Template:Or
+  3.96%    9.016      2 Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1393634-0!*!0!!en!*!*!math=5 and timestamp 20170312090951 and revision id 753732183
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sabatier_reaction&amp;oldid=753732183">https://en.wikipedia.org/w/index.php?title=Sabatier_reaction&amp;oldid=753732183</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hydrogen" title="Category:Hydrogen">Hydrogen</a></li><li><a href="/wiki/Category:Organic_redox_reactions" title="Category:Organic redox reactions">Organic redox reactions</a></li><li><a href="/wiki/Category:Name_reactions" title="Category:Name reactions">Name reactions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2013" title="Category:Articles with unsourced statements from July 2013">Articles with unsourced statements from July 2013</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_March_2014" title="Category:Articles that may contain original research from March 2014">Articles that may contain original research from March 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2014" title="Category:Articles with unsourced statements from March 2014">Articles with unsourced statements from March 2014</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sabatier+reaction" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sabatier+reaction" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Sabatier_reaction"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Sabatier_reaction"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Sabatier_reaction" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Sabatier_reaction&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sabatier_reaction&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sabatier_reaction" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sabatier_reaction" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sabatier_reaction&amp;oldid=753732183" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sabatier_reaction&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q899612" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sabatier_reaction&amp;id=753732183" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sabatier+reaction">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Sabatier+reaction&amp;returnto=Sabatier+reaction&amp;oldid=753732183&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sabatier_reaction&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Sabatierova_reakcija" title="Sabatierova reakcija – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Reacci%C3%B3_de_Sabatier" title="Reacció de Sabatier – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Sabatierova_reakce" title="Sabatierova reakce – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Sabatier-Prozess" title="Sabatier-Prozess – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Reacci%C3%B3n_de_Sabatier" title="Reacción de Sabatier – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/R%C3%A9action_de_Sabatier" title="Réaction de Sabatier – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Sabatierova_reakcija" title="Sabatierova reakcija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Reazione_di_Sabatier" title="Reazione di Sabatier – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%AA%D7%92%D7%95%D7%91%D7%AA_%D7%A1%D7%91%D7%98%D7%99%D7%99%D7%94" title="תגובת סבטייה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Sabatj%C4%97_reakcija" title="Sabatjė reakcija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Sabatier-folyamat" title="Sabatier-folyamat – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%90%E3%83%86%E3%82%A3%E3%82%A8%E5%8F%8D%E5%BF%9C" title="サバティエ反応 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Reakcja_Sabatiera" title="Reakcja Sabatiera – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Rea%C3%A7%C3%A3o_de_Sabatier" title="Reação de Sabatier – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%8F_%D0%A1%D0%B0%D0%B1%D0%B0%D1%82%D1%8C%D0%B5" title="Реакция Сабатье – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Sabatier-reaktio" title="Sabatier-reaktio – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Sabatier_Reaksiyonu" title="Sabatier Reaksiyonu – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q899612#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 8 December 2016, at 21:40.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sabatier_reaction&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.283","ppvisitednodes":{"value":964,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20177,"limit":2097152},"templateargumentsize":{"value":2421,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  227.744      1 -total"," 46.51%  105.925      5 Template:Fix"," 43.58%   99.247      4 Template:Citation_needed"," 30.43%   69.302      1 Template:Reflist"," 25.43%   57.910      5 Template:Delink"," 18.57%   42.297      9 Template:Category_handler"," 18.36%   41.806      3 Template:Cite_web"," 13.29%   30.272      1 Template:Main","  8.45%   19.239      1 Template:Or","  3.96%    9.016      2 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.125","limit":"10.000"},"limitreport-memusage":{"value":2928723,"limit":52428800}},"cachereport":{"origin":"mw1179","timestamp":"20170312090951","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":382,"wgHostname":"mw1179"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1587 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Density of air - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Density_of_air","wgTitle":"Density of air","wgCurRevisionId":758169414,"wgRevisionId":758169414,"wgArticleId":506906,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Atmospheric thermodynamics","Density"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Density_of_air","wgRelevantArticleId":506906,"wgRequestId":"WMkwDgpAMFEAAF94Q7cAAABT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1511415","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/StandardAtmosphere.png/1200px-StandardAtmosphere.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Density_of_air"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Density_of_air&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Density_of_air&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Density_of_air"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Density_of_air rootpage-Density_of_air skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Density of air</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>The <b>density of air</b> (air density) is the <a href="/wiki/Mass" title="Mass">mass</a> per unit <a href="/wiki/Volume" title="Volume">volume</a> of <a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Earth's atmosphere</a>. Air density, like air pressure, decreases with increasing altitude. It also changes with variation in temperature or <a href="/wiki/Humidity" title="Humidity">humidity</a>. At <a href="/wiki/Sea_level" title="Sea level">sea level</a> and at 15&#160;°C air has a density of approximately 1.225 <a href="/wiki/Kilogram_per_cubic_metre" title="Kilogram per cubic metre">kg/m<sup>3</sup></a> (0.001225 g/cm<sup>3</sup>, 0.0023769 <a href="/wiki/Slug_(mass)" title="Slug (mass)">slug</a>/(cu ft), 0.0765 <a href="/wiki/Pound_(mass)" title="Pound (mass)">lb</a>/(cu ft)) according to ISA (<a href="/wiki/International_Standard_Atmosphere" title="International Standard Atmosphere">International Standard Atmosphere</a>).</p>
+<p>The air density is a property used in many branches of science as <a href="/wiki/Aeronautics" title="Aeronautics">aeronautics</a>;<sup id="cite_ref-aero_01en_1-0" class="reference"><a href="#cite_note-aero_01en-1">[1]</a></sup><sup id="cite_ref-aero_02en_2-0" class="reference"><a href="#cite_note-aero_02en-2">[2]</a></sup><sup id="cite_ref-aero_03en_3-0" class="reference"><a href="#cite_note-aero_03en-3">[3]</a></sup> <a href="/wiki/Gravimetric_analysis" title="Gravimetric analysis">gravimetric analysis</a>;<sup id="cite_ref-grav_01en_4-0" class="reference"><a href="#cite_note-grav_01en-4">[4]</a></sup> the air-conditioning<sup id="cite_ref-hvac_01en_5-0" class="reference"><a href="#cite_note-hvac_01en-5">[5]</a></sup> industry; atmospheric research and meteorology;<sup id="cite_ref-mete_01en_6-0" class="reference"><a href="#cite_note-mete_01en-6">[6]</a></sup><sup id="cite_ref-mete_02en_7-0" class="reference"><a href="#cite_note-mete_02en-7">[7]</a></sup><sup id="cite_ref-mete_03en_8-0" class="reference"><a href="#cite_note-mete_03en-8">[8]</a></sup> the agricultural engineering in their modeling and tracking of Soil-Vegetation-Atmosphere-Transfer (SVAT) models;<sup id="cite_ref-agri_01en_9-0" class="reference"><a href="#cite_note-agri_01en-9">[9]</a></sup><sup id="cite_ref-agri_02en_10-0" class="reference"><a href="#cite_note-agri_02en-10">[10]</a></sup><sup id="cite_ref-agri_03en_11-0" class="reference"><a href="#cite_note-agri_03en-11">[11]</a></sup> and the engineering community that deals with compressed air<sup id="cite_ref-eng_01en_12-0" class="reference"><a href="#cite_note-eng_01en-12">[12]</a></sup> from industry utility, heating, drying and cooling processes<sup id="cite_ref-eng_01en_12-1" class="reference"><a href="#cite_note-eng_01en-12">[12]</a></sup> in industries like cooling towers, vacuum and deep vacuum processes,<sup id="cite_ref-hvac_01en_5-1" class="reference"><a href="#cite_note-hvac_01en-5">[5]</a></sup> high pressure processes,<sup id="cite_ref-hvac_01en_5-2" class="reference"><a href="#cite_note-hvac_01en-5">[5]</a></sup> gas and light oil combustion processes<sup id="cite_ref-hvac_01en_5-3" class="reference"><a href="#cite_note-hvac_01en-5">[5]</a></sup><sup id="cite_ref-eng_01en_12-2" class="reference"><a href="#cite_note-eng_01en-12">[12]</a></sup> that power turbine-powered airplanes, gas turbine-powered generators and heating furnaces, and air conditioning<sup id="cite_ref-hvac_01en_5-4" class="reference"><a href="#cite_note-hvac_01en-5">[5]</a></sup> from deep mines to space capsules.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Density_of_air_calculations"><span class="tocnumber">1</span> <span class="toctext">Density of air calculations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Density_of_air_variables"><span class="tocnumber">1.1</span> <span class="toctext">Density of air variables</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Temperature_and_pressure"><span class="tocnumber">1.1.1</span> <span class="toctext">Temperature and pressure</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Humidity_.28water_vapor.29"><span class="tocnumber">1.1.2</span> <span class="toctext">Humidity (water vapor)</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Altitude"><span class="tocnumber">1.1.3</span> <span class="toctext">Altitude</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Composition"><span class="tocnumber">1.1.4</span> <span class="toctext">Composition</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">3</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Density_of_air_calculations">Density of air calculations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Density_of_air&amp;action=edit&amp;section=1" title="Edit section: Density of air calculations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Depending on the measuring instruments, use, area of expertise and necessary rigor of the result different calculation criteria and sets of equations for the calculation of the density of air are used. This topic are some examples of calculations with the main variables involved, the amounts presented throughout these examples are properly referenced usual values, different values can be found in other references depending on the criteria used for the calculation . Furthermore we must pay attention to the fact that air is a mixture of gases and the calculation always simplify, to a greater or lesser extent, the properties of the mixture and the values for the composition according to the criteria of calculation.<sup id="cite_ref-aero_01en_1-1" class="reference"><a href="#cite_note-aero_01en-1">[1]</a></sup><sup id="cite_ref-aero_02en_2-1" class="reference"><a href="#cite_note-aero_02en-2">[2]</a></sup><sup id="cite_ref-aero_03en_3-1" class="reference"><a href="#cite_note-aero_03en-3">[3]</a></sup><sup id="cite_ref-grav_01en_4-1" class="reference"><a href="#cite_note-grav_01en-4">[4]</a></sup><sup id="cite_ref-hvac_01en_5-5" class="reference"><a href="#cite_note-hvac_01en-5">[5]</a></sup><sup id="cite_ref-mete_01en_6-1" class="reference"><a href="#cite_note-mete_01en-6">[6]</a></sup><sup id="cite_ref-mete_02en_7-1" class="reference"><a href="#cite_note-mete_02en-7">[7]</a></sup><sup id="cite_ref-mete_03en_8-1" class="reference"><a href="#cite_note-mete_03en-8">[8]</a></sup><sup id="cite_ref-agri_01en_9-1" class="reference"><a href="#cite_note-agri_01en-9">[9]</a></sup><sup id="cite_ref-agri_02en_10-1" class="reference"><a href="#cite_note-agri_02en-10">[10]</a></sup><sup id="cite_ref-agri_03en_11-1" class="reference"><a href="#cite_note-agri_03en-11">[11]</a></sup><sup id="cite_ref-eng_01en_12-3" class="reference"><a href="#cite_note-eng_01en-12">[12]</a></sup></p>
+<h3><span class="mw-headline" id="Density_of_air_variables">Density of air variables</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Density_of_air&amp;action=edit&amp;section=2" title="Edit section: Density of air variables">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Temperature_and_pressure">Temperature and pressure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Density_of_air&amp;action=edit&amp;section=3" title="Edit section: Temperature and pressure">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The density of dry air can be calculated using the <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gas law</a>, expressed as a function of <a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">temperature</a> and pressure:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>p</mi>
+            <mrow>
+              <msub>
+                <mi>R</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">s</mi>
+                    <mi mathvariant="normal">p</mi>
+                    <mi mathvariant="normal">e</mi>
+                    <mi mathvariant="normal">c</mi>
+                    <mi mathvariant="normal">i</mi>
+                    <mi mathvariant="normal">f</mi>
+                    <mi mathvariant="normal">i</mi>
+                    <mi mathvariant="normal">c</mi>
+                  </mrow>
+                </mrow>
+              </msub>
+              <mi>T</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho ={\frac {p}{R_{\rm {specific}}T}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3656a998b143a6d83be8e385e8bdb2316d14f85b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:14.148ex; height:5.676ex;" alt="&#10;\rho = \frac{p}{R_{\rm specific} T} &#10;" /></span></dd>
+</dl>
+<p>where:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho =}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a632661a8192ce33dd1c51f478526ca99868208b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.676ex; height:2.176ex;" alt="\rho =" /></span> air density (kg/m<sup>3</sup>)<sup id="cite_ref-SInote01_13-0" class="reference"><a href="#cite_note-SInote01-13">[note 1]</a></sup></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aa7fb4912e947673c756ade6dec02ef5a78f0bff" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:3.723ex; height:2.009ex;" alt="p =" /></span> absolute <a href="/wiki/Pressure" title="Pressure">pressure</a> (Pa)<sup id="cite_ref-SInote01_13-1" class="reference"><a href="#cite_note-SInote01-13">[note 1]</a></sup></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/171d587325b2aad818d6ee7ea41d5874030ece6b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.11ex; height:2.176ex;" alt="T =" /></span> absolute temperature (K)<sup id="cite_ref-SInote01_13-2" class="reference"><a href="#cite_note-SInote01-13">[note 1]</a></sup></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">e</mi>
+              <mi mathvariant="normal">c</mi>
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">f</mi>
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">c</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R_{\rm {specific}}=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/071d3a82ad35693c1e3d60900df470cc5f2d4fe2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:9.808ex; height:2.843ex;" alt="R_{\rm specific} =" /></span> <a href="/wiki/Specific_gas_constant" class="mw-redirect" title="Specific gas constant">specific gas constant</a> for dry air (J/(kg·K))<sup id="cite_ref-SInote01_13-3" class="reference"><a href="#cite_note-SInote01-13">[note 1]</a></sup></dd>
+</dl>
+<p>The specific gas constant for dry air is 287.058 J/(kg·K) in <a href="/wiki/International_System_of_Units" title="International System of Units">SI</a> units, and 53.35 (<a href="/wiki/Foot_(length)" class="mw-redirect" title="Foot (length)">ft</a>·<a href="/wiki/Pound-force" class="mw-redirect" title="Pound-force">lbf</a>)/(<a href="/wiki/Pound_(mass)" title="Pound (mass)">lb</a>·<a href="/wiki/Rankine_scale" title="Rankine scale">°R</a>) in <a href="/wiki/United_States_customary_units" title="United States customary units">United States customary</a> and <a href="/wiki/Imperial_units" title="Imperial units">Imperial units</a>. This quantity may vary slightly depending on the molecular composition of air at a particular location.</p>
+<p>Therefore:</p>
+<ul>
+<li>At <a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a> <a href="/wiki/Standard_temperature_and_pressure" class="mw-redirect" title="Standard temperature and pressure">standard temperature and pressure</a> (0 <a href="/wiki/Celsius" title="Celsius">°C</a> and 100 k<a href="/wiki/Pascal_(unit)" title="Pascal (unit)">Pa</a>), dry air has a density of 1.2754 <a href="/wiki/Kilogram" title="Kilogram">kg</a>/m<sup>3</sup>.</li>
+<li>At 20&#160;°C and 101.325 kPa, dry air has a density of 1.2041&#160;kg/m<sup>3</sup>.</li>
+<li>At 70 <a href="/wiki/Fahrenheit" title="Fahrenheit">°F</a> and 14.696 <a href="/wiki/Pounds_per_square_inch" title="Pounds per square inch">psi</a>, dry air has a density of 0.074887 <a href="/wiki/Pound_(mass)" title="Pound (mass)">lb</a>/<a href="/wiki/Cubic_foot" title="Cubic foot">ft<sup>3</sup></a>.</li>
+</ul>
+<p>The following table illustrates the air density–temperature relationship at 1 atm or 101.325 kPa:</p>
+<table class="wikitable" style="text-align:right;">
+<caption>Effect of temperature on properties of air</caption>
+<tr>
+<th scope="col">Temperature<br />
+<i>T</i> (<a href="/wiki/Celsius" title="Celsius">°C</a>)</th>
+<th scope="col">Speed of sound<br />
+<i>c</i> (<a href="/wiki/Metre" title="Metre">m</a>/<a href="/wiki/Second" title="Second">s</a>)</th>
+<th scope="col">Density of air<br />
+<i>ρ</i> (<a href="/wiki/Kilogram" title="Kilogram">kg</a>/<a href="/wiki/Metre" title="Metre">m</a><sup>3</sup>)</th>
+<th scope="col">Characteristic specific acoustic impedance<br />
+<i>z</i><sub>0</sub> (<a href="/wiki/Pascal_(unit)" title="Pascal (unit)">Pa</a>·<a href="/wiki/Second" title="Second">s</a>/<a href="/wiki/Metre" title="Metre">m</a>)</th>
+</tr>
+<tr>
+<td>35</td>
+<td>351.88</td>
+<td>1.1455</td>
+<td>403.2</td>
+</tr>
+<tr>
+<td>30</td>
+<td>349.02</td>
+<td>1.1644</td>
+<td>406.5</td>
+</tr>
+<tr>
+<td>25</td>
+<td>346.13</td>
+<td>1.1839</td>
+<td>409.4</td>
+</tr>
+<tr>
+<td>20</td>
+<td>343.21</td>
+<td>1.2041</td>
+<td>413.3</td>
+</tr>
+<tr>
+<td>15</td>
+<td>340.27</td>
+<td>1.2250</td>
+<td>416.9</td>
+</tr>
+<tr>
+<td>10</td>
+<td>337.31</td>
+<td>1.2466</td>
+<td>420.5</td>
+</tr>
+<tr>
+<td>5</td>
+<td>334.32</td>
+<td>1.2690</td>
+<td>424.3</td>
+</tr>
+<tr>
+<td>0</td>
+<td>331.30</td>
+<td>1.2922</td>
+<td>428.0</td>
+</tr>
+<tr>
+<td>−5</td>
+<td>328.25</td>
+<td>1.3163</td>
+<td>432.1</td>
+</tr>
+<tr>
+<td>−10</td>
+<td>325.18</td>
+<td>1.3413</td>
+<td>436.1</td>
+</tr>
+<tr>
+<td>−15</td>
+<td>322.07</td>
+<td>1.3673</td>
+<td>440.3</td>
+</tr>
+<tr>
+<td>−20</td>
+<td>318.94</td>
+<td>1.3943</td>
+<td>444.6</td>
+</tr>
+<tr>
+<td>−25</td>
+<td>315.77</td>
+<td>1.4224</td>
+<td>449.1</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Humidity_.28water_vapor.29">Humidity (water vapor)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Density_of_air&amp;action=edit&amp;section=4" title="Edit section: Humidity (water vapor)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Humidity" title="Humidity">Humidity</a></div>
+<p>The addition of <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> to air (making the air humid) reduces the density of the air, which may at first appear counter-intuitive. This occurs because the molar mass of water (18 g/mol) is less than the molar mass of dry air<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[note 2]</a></sup> (around 29 g/mol). For any gas, at a given temperature and pressure, the number of molecules present is constant for a particular volume (see <a href="/wiki/Avogadro%27s_Law" class="mw-redirect" title="Avogadro's Law">Avogadro's Law</a>). So when water molecules (water vapor) are added to a given volume of air, the dry air molecules must decrease by the same number, to keep the pressure or temperature from increasing. Hence the mass per unit volume of the gas (its density) decreases.</p>
+<p>The density of humid air may be calculated as a mixture of <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gases</a>. In this case, the <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressure</a> of <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> is known as the <a href="/wiki/Vapor_pressure" title="Vapor pressure">vapor pressure</a>. Using this method, error in the density calculation is less than 0.2% in the range of −10&#160;°C to 50&#160;°C. The density of humid air is found by:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mspace width="thinmathspace" />
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">h</mi>
+              <mi mathvariant="normal">u</mi>
+              <mi mathvariant="normal">m</mi>
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">d</mi>
+              <mtext>&#xA0;</mtext>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">r</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>p</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>d</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <msub>
+                <mi>R</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>d</mi>
+                </mrow>
+              </msub>
+              <mi>T</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>p</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>v</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <msub>
+                <mi>R</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>v</mi>
+                </mrow>
+              </msub>
+              <mi>T</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>p</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>d</mi>
+                </mrow>
+              </msub>
+              <msub>
+                <mi>M</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>d</mi>
+                </mrow>
+              </msub>
+              <mo>+</mo>
+              <msub>
+                <mi>p</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>v</mi>
+                </mrow>
+              </msub>
+              <msub>
+                <mi>M</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>v</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi>R</mi>
+              <mi>T</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho _{\,\mathrm {humid~air} }={\frac {p_{d}}{R_{d}T}}+{\frac {p_{v}}{R_{v}T}}={\frac {p_{d}M_{d}+p_{v}M_{v}}{RT}}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a2b8fb1ac01cf441e9bdda1c318c3f3c5fd2432" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:43.919ex; height:5.843ex;" alt="&#10;\rho_{\,\mathrm{humid~air}} = \frac{p_{d}}{R_{d} T} + \frac{p_{v}}{R_{v} T} = \frac{p_{d}M_{d}+p_{v}M_{v}}{R T} \,&#10;" /></span>&#160;&#160;<sup id="cite_ref-wahiduddin_01_15-0" class="reference"><a href="#cite_note-wahiduddin_01-15">[13]</a></sup></dd>
+</dl>
+<p>where:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mspace width="thinmathspace" />
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">h</mi>
+              <mi mathvariant="normal">u</mi>
+              <mi mathvariant="normal">m</mi>
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">d</mi>
+              <mtext>&#xA0;</mtext>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">r</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho _{\,\mathrm {humid~air} }=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b386ab63adb190df4c041577336fab9e646daa5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:11.427ex; height:2.176ex;" alt="\rho_{\,\mathrm{humid~air}} =" /></span> Density of the humid air (kg/m³)</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{d}=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5b041e685c944607fb1633249202884d97177b7d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:4.822ex; height:2.009ex;" alt="p_{d} =" /></span> Partial pressure of dry air (Pa)</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R_{d}=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/156f68d97e3d9b895be2171c699c265c260dd0c5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.338ex; height:2.509ex;" alt="R_{d} =" /></span> Specific gas constant for dry air, 287.058 J/(kg·K)</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/171d587325b2aad818d6ee7ea41d5874030ece6b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.11ex; height:2.176ex;" alt="T =" /></span> Temperature (<a href="/wiki/Kelvin_(unit)" class="mw-redirect" title="Kelvin (unit)">K</a>)</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>v</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{v}=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/501aa90fe97c5540a9e4cb7d80bfd67b659f0b3f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:4.76ex; height:2.009ex;" alt="p_{v} =" /></span> Pressure of water vapor (Pa)</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>v</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R_{v}=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/de3f9e3c3fe0cfe0d9db0eec9d792ff10710a24c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.275ex; height:2.509ex;" alt="R_{v} =" /></span> Specific gas constant for water vapor, 461.495 J/(kg·K)</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>M</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M_{d}=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4913714e883e55c52c4a1b820d4d89db06ae85c6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.828ex; height:2.509ex;" alt="M_{d} =" /></span> Molar mass of dry air, 0.028964 kg/mol</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>M</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>v</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M_{v}=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7f83a9910ad30b491dfe79a3882409f755c16bda" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.765ex; height:2.509ex;" alt="M_{v} =" /></span> Molar mass of water vapor, 0.018016 kg/mol</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e302251ceae37515baa64235baca2cc543dcccf3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.238ex; height:2.176ex;" alt="R =" /></span> <a href="/wiki/Gas_constant" title="Gas constant">Universal gas constant</a>, 8.314 J/(K·mol)</dd>
+</dl>
+<div class="thumb tright">
+<div class="thumbinner" style="width:662px;"><a href="/wiki/File:Increasing_the_density.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Increasing_the_density.png/660px-Increasing_the_density.png" width="660" height="284" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Increasing_the_density.png/990px-Increasing_the_density.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Increasing_the_density.png/1320px-Increasing_the_density.png 2x" data-file-width="2564" data-file-height="1105" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Increasing_the_density.png" class="internal" title="Enlarge"></a></div>
+<i>The movement of the <a href="/wiki/Helicopter_rotor" title="Helicopter rotor">helicopter rotor</a> leads to a difference in pressure between the upper and lower blade surfaces, allowing the helicopter to <a href="/wiki/Lift_(force)" title="Lift (force)">fly</a>. A consequence of the pressure change is local variation in air density, strongest in the <a href="/wiki/Boundary_layer" title="Boundary layer">boundary layer</a> or at <a href="/wiki/Transonic" title="Transonic">transonic speeds</a>.</i></div>
+</div>
+</div>
+<p>The vapor pressure of water may be calculated from the <a href="/wiki/Saturation_vapor_pressure" class="mw-redirect" title="Saturation vapor pressure">saturation vapor pressure</a> and <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a>. It is found by:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>v</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>&#x03D5;<!-- ϕ --></mi>
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">t</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{v}=\phi p_{\mathrm {sat} }\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/115cb610682852423075d7e610c5b18c4056c99d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:10.732ex; height:2.509ex;" alt="&#10;p_{v} = \phi p_{\mathrm{sat}} \,&#10;" /></span></dd>
+</dl>
+<p>where:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>v</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{v}=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/501aa90fe97c5540a9e4cb7d80bfd67b659f0b3f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:4.76ex; height:2.009ex;" alt="p_{v} =" /></span> Vapor pressure of water</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03D5;<!-- ϕ --></mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \phi =}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/08c09c6f3a2d64c9676b9bcbf7ba02e85823dea2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.86ex; height:2.509ex;" alt="\phi =" /></span> Relative humidity</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">t</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{\mathrm {sat} }=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c56f83abcc9fda96aeaca8ea9a0df6be231fcc2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:6.087ex; height:2.009ex;" alt="p_{\mathrm{sat}} =" /></span> Saturation vapor pressure</dd>
+</dl>
+<p>The saturation <a href="/wiki/Vapour_pressure_of_water" title="Vapour pressure of water">vapor pressure of water</a> at any given temperature is the vapor pressure when relative humidity is 100%. One formula <sup id="cite_ref-wahiduddin_02_16-0" class="reference"><a href="#cite_note-wahiduddin_02-16">[14]</a></sup> used to find the saturation vapor pressure is:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">t</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>6.1078</mn>
+        <mo>&#x00D7;<!-- × --></mo>
+        <msup>
+          <mn>10</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <mn>7.5</mn>
+                <mi>T</mi>
+              </mrow>
+              <mrow>
+                <mi>T</mi>
+                <mo>+</mo>
+                <mn>237.3</mn>
+              </mrow>
+            </mfrac>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{\mathrm {sat} }=6.1078\times 10^{\frac {7.5T}{T+237.3}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e021f5e8daf4490739b19378b76ed17e14b2bacc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:24.579ex; height:4.009ex;" alt="p_{\mathrm{sat}} = 6.1078 \times 10^{\frac{7.5 T}{T+237.3}} " /></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/171d587325b2aad818d6ee7ea41d5874030ece6b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.11ex; height:2.176ex;" alt="T =" /></span> is in degrees C.</p>
+<dl>
+<dd>note:
+<ul>
+<li>This equation will give the result of pressure in <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">hPa</a> (100 <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">Pa</a>, equivalent to the older unit <a href="/wiki/Millibar" class="mw-redirect" title="Millibar">millibar</a>, 1 mbar = 0.001 <a href="/wiki/Bar_(unit)" title="Bar (unit)">bar</a> = 0.1 kPa)</li>
+</ul>
+</dd>
+</dl>
+<p>The partial pressure of dry air <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>d</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{d}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3058702dcd56b5df02e48fda42fc1f8f7b7d50ac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:2.358ex; height:2.009ex;" alt="p_{d}" /></span> is found considering <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressure</a>, resulting in:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>p</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>v</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{d}=p-p_{v}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/618a4ee5d17268af24c2292742652c18169adba2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:12.102ex; height:2.009ex;" alt="&#10;p_{d} = p-p_{v} \,&#10;" /></span></dd>
+</dl>
+<p>Where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:1.259ex; height:2.009ex;" alt="p" /></span> simply denotes the observed <a href="/wiki/Absolute_pressure" class="mw-redirect" title="Absolute pressure">absolute pressure</a>.</p>
+<h4><span class="mw-headline" id="Altitude">Altitude</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Density_of_air&amp;action=edit&amp;section=5" title="Edit section: Altitude">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:442px;"><a href="/wiki/File:StandardAtmosphere.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/StandardAtmosphere.png/440px-StandardAtmosphere.png" width="440" height="247" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/StandardAtmosphere.png/660px-StandardAtmosphere.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/StandardAtmosphere.png/880px-StandardAtmosphere.png 2x" data-file-width="1366" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:StandardAtmosphere.png" class="internal" title="Enlarge"></a></div>
+Standard Atmosphere: <i><b>p<sub>0</sub></b></i> = 101.325&#160;kPa, <i><b>T<sub>0</sub></b></i> = 288.15&#160;K, <i><b>ρ<sub>0</sub></b></i> = 1.225&#160;kg/m<sup>3</sup></div>
+</div>
+</div>
+<p>To calculate the density of air as a function of altitude, one requires additional parameters. They are listed below, along with their values according to the <a href="/wiki/International_Standard_Atmosphere" title="International Standard Atmosphere">International Standard Atmosphere</a>, using for calculation the <a href="/wiki/Gas_constant" title="Gas constant">universal gas constant</a> instead of the air specific constant:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{0}=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/24f1f2df7798684732fc0751a6b313bcd54f5336" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:4.784ex; height:2.009ex;" alt="p_0 =" /></span> sea level standard atmospheric pressure, 101.325 k<a href="/wiki/Pascal_(unit)" title="Pascal (unit)">Pa</a></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{0}=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1ab3d9202f18a678affe9a339511bef0a7b8b110" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.893ex; height:2.509ex;" alt="T_0 =" /></span> sea level standard temperature, 288.15 <a href="/wiki/Kelvin_(unit)" class="mw-redirect" title="Kelvin (unit)">K</a></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>g</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle g=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5f1a1dbb39344d352df53804ab1193a5ea69a2ac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.59ex; height:2.009ex;" alt="g =" /></span> earth-surface gravitational acceleration, 9.80665 m/s<sup>2</sup></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>L</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb4cfedfc4601f344b83b634f7537f553acb735b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.057ex; height:2.176ex;" alt="L=" /></span> <a href="/wiki/Adiabatic_lapse_rate" class="mw-redirect" title="Adiabatic lapse rate">temperature lapse rate</a>, 0.0065 K/m</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e302251ceae37515baa64235baca2cc543dcccf3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.238ex; height:2.176ex;" alt="R =" /></span> ideal (universal) gas constant, 8.31447 J/(<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a>·K)</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>M</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a5897444f2fc12b87773bf24c2b4744789d5a8d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.916ex; height:2.176ex;" alt="M =" /></span> <a href="/wiki/Molar_mass" title="Molar mass">molar mass</a> of dry air, 0.0289644 kg/mol</dd>
+</dl>
+<p>Temperature at altitude <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>h</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.349ex; height:2.176ex;" alt="h" /></span> meters above sea level is approximated by the following formula (only valid inside the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a>):</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>L</mi>
+        <mi>h</mi>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T=T_{0}-Lh\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/848fa2bfe03fe2db36b1500fd01b38fb777691cf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:13.366ex; height:2.509ex;" alt="&#10;T = T_0 - L h \,&#10;" /></span></dd>
+</dl>
+<p>The pressure at altitude <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>h</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.349ex; height:2.176ex;" alt="h" /></span> is given by:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mn>1</mn>
+            <mo>&#x2212;<!-- − --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mi>L</mi>
+                  <mi>h</mi>
+                </mrow>
+                <msub>
+                  <mi>T</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>0</mn>
+                  </mrow>
+                </msub>
+              </mfrac>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <mi>g</mi>
+                <mi>M</mi>
+              </mrow>
+              <mrow>
+                <mi>R</mi>
+                <mi>L</mi>
+              </mrow>
+            </mfrac>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p=p_{0}\left(1-{\frac {Lh}{T_{0}}}\right)^{\frac {gM}{RL}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38572055819ed66f11fd4c5414de46c67eba35a8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; margin-left: -0.079ex; width:20.977ex; height:7.509ex;" alt="p = p_0 \left(1 - \frac{L h}{T_0} \right)^\frac{g M}{R L}" /></span></dd>
+</dl>
+<p>Density can then be calculated according to a molar form of the <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gas law</a>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>p</mi>
+              <mi>M</mi>
+            </mrow>
+            <mrow>
+              <mi>R</mi>
+              <mi>T</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho ={\frac {pM}{RT}}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac04570033c399cc63ebc0acb095428375220008" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:9.177ex; height:5.509ex;" alt="&#10;\rho = \frac{p M}{R T} \,&#10;" /></span></dd>
+</dl>
+<p>where:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>M</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a5897444f2fc12b87773bf24c2b4744789d5a8d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.916ex; height:2.176ex;" alt="M =" /></span> <a href="/wiki/Molar_mass" title="Molar mass">molar mass</a></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e302251ceae37515baa64235baca2cc543dcccf3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.238ex; height:2.176ex;" alt="R =" /></span> <a href="/wiki/Ideal_gas_constant" class="mw-redirect" title="Ideal gas constant">ideal gas constant</a></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/171d587325b2aad818d6ee7ea41d5874030ece6b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.11ex; height:2.176ex;" alt="T =" /></span> <a href="/wiki/Absolute_temperature" class="mw-redirect" title="Absolute temperature">absolute temperature</a></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aa7fb4912e947673c756ade6dec02ef5a78f0bff" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:3.723ex; height:2.009ex;" alt="p =" /></span> <a href="/wiki/Absolute_pressure" class="mw-redirect" title="Absolute pressure">absolute pressure</a></dd>
+</dl>
+<h4><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Density_of_air&amp;action=edit&amp;section=6" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The air composition adopted for each set of equations varies with the references used in the table below are listed some examples of air composition according to the references. Despite minor differences to define all formulations the predicted molar mass of dry air and below table shows these differences. Importantly, some of the examples are not normalized so that the composition is equal to unity (100%), before they used should be normalized.</p>
+<table class="wikitable" style="border: 2px solid lightgray; text-align:center; font-size: 90%;">
+<caption>Composition of dry atmosphere, by volume<sup id="cite_ref-refname1_17-0" class="reference"><a href="#cite_note-refname1-17">[▽note 1]</a></sup></caption>
+<tr style="border-bottom: 2px solid grey; text-align:center;">
+<td colspan="2" rowspan="2"><b>Gas</b> <sub>(and others)</sub></td>
+<td colspan="2">Volume by various<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[15]</a></sup><sup id="cite_ref-refname2_19-0" class="reference"><a href="#cite_note-refname2-19">[▽note 2]</a></sup></td>
+<td colspan="2">Volume by CIPM-2007<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[16]</a></sup></td>
+<td colspan="2">Volume by ASHRAE<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[17]</a></sup></td>
+<td colspan="2" id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">Volume by Schlatter<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[18]</a></sup></td>
+<td colspan="2" id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">Volume by ICAO<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[19]</a></sup></td>
+<td colspan="2" id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">Volume by US StdAtm76<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[20]</a></sup></td>
+<td rowspan="24" style="font-size: 110%; background-color: #fff; background-image: linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), linear-gradient(#eee .1em, transparent .1em); background-size: 100% 1.2em; color:fff66; vertical-align: center;">
+<p><span class="mw-customtoggle-A"><i><b>▼</b></i></span></p>
+<p><span class="mw-customtoggle-A"><i><b>Tap</b></i></span></p>
+<p><span class="mw-customtoggle-A"><i><b>this</b></i></span></p>
+<p><span class="mw-customtoggle-A"><i><b>text</b></i></span></p>
+<p><span class="mw-customtoggle-A"><i><b>to</b></i></span></p>
+<p><span class="mw-customtoggle-A"><i><b>expand</b></i></span></p>
+<p><span class="mw-customtoggle-A"><i><b>or</b></i></span></p>
+<p><span class="mw-customtoggle-A"><i><b>collapse</b></i></span></p>
+<p><span class="mw-customtoggle-A"><i><b>the</b></i></span></p>
+<p><span class="mw-customtoggle-A"><i><b>table</b></i></span></p>
+<p><span class="mw-customtoggle-A"><i><b>▲</b></i></span></p>
+</td>
+</tr>
+<tr style="border-bottom: 2px solid grey; text-align:center;">
+<td style="align: botton;">&#160;ppmv<sup id="cite_ref-refname3_25-0" class="reference"><a href="#cite_note-refname3-25">[▽note 3]</a></sup></td>
+<td>percentile</td>
+<td>&#160;ppmv</td>
+<td>percentile</td>
+<td>&#160;ppmv</td>
+<td>percentile</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">&#160;ppmv</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">percentile</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">&#160;ppmv</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">percentile</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">&#160;ppmv</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">percentile</td>
+</tr>
+<tr style="border-top: 2px solid grey;">
+<td><a href="/wiki/Nitrogen" title="Nitrogen">Nitrogen</a></td>
+<td><a href="/wiki/Nitrogen" title="Nitrogen">(N<sub>2</sub>)</a></td>
+<td>780,800</td>
+<td>(78.080%)</td>
+<td>780,848</td>
+<td>(78.0848%)</td>
+<td>780,818</td>
+<td>(78.0818%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">780,840</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(78.084%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">780,840</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(78.084%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">780,840</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(78.084%)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a></td>
+<td><a href="/wiki/Oxygen" title="Oxygen">(O<sub>2</sub>)</a></td>
+<td>209,500</td>
+<td>(20.950%)</td>
+<td>209,390</td>
+<td>(20.9390%)</td>
+<td>209,435</td>
+<td>(20.9435%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">209,460</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(20.946%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">209,476</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(20.9476%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">209,476</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(20.9476%)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Argon" title="Argon">Argon</a></td>
+<td><a href="/wiki/Argon" title="Argon">(Ar)</a></td>
+<td>9,340</td>
+<td>(0.9340%)</td>
+<td>9,332</td>
+<td>(0.9332%)</td>
+<td>9,332</td>
+<td>(0.9332%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">9,340</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.9340%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">9,340</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.9340%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">9,340</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.9340%)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></td>
+<td><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">(CO<sub>2</sub>)</a></td>
+<td>397.8</td>
+<td>(0.03978%)</td>
+<td>400</td>
+<td>(0.0400%)</td>
+<td>385</td>
+<td>(0.0385%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">384</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.0384%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">314</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.0314%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">314</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.0314%)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Neon" title="Neon">Neon</a></td>
+<td><a href="/wiki/Neon" title="Neon">(Ne)</a></td>
+<td>18.18</td>
+<td>(0.001818%)</td>
+<td>18.2</td>
+<td>(0.00182%)</td>
+<td>18.2</td>
+<td>(0.00182%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">18.18</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.001818%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">18.18</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.001818%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">18.18</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.001818% )</td>
+</tr>
+<tr>
+<td><a href="/wiki/Helium" title="Helium">Helium</a></td>
+<td><a href="/wiki/Helium" title="Helium">(He)</a></td>
+<td>5.24</td>
+<td>(0.000524%)</td>
+<td>5.2</td>
+<td>(0.00052%)</td>
+<td>5.2</td>
+<td>(0.00052%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">5.24</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.000524%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">5.24</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.000524%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">5.24</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.000524% )</td>
+</tr>
+<tr>
+<td><a href="/wiki/Methane" title="Methane">Methane</a></td>
+<td><a href="/wiki/Methane" title="Methane">(CH<sub>4</sub>)</a></td>
+<td>1.81</td>
+<td>(0.000181%)</td>
+<td>1.5</td>
+<td>(0.00015%)</td>
+<td>1.5</td>
+<td>(0.00015%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">1.774</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.0001774%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">2</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.0002%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">2</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.0002%)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Krypton" title="Krypton">Krypton</a></td>
+<td><a href="/wiki/Krypton" title="Krypton">(Kr)</a></td>
+<td>1.14</td>
+<td>(0.000114%)</td>
+<td>1.1</td>
+<td>(0.00011%)</td>
+<td>1.1</td>
+<td>(0.00011%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">1.14</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.000114%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">1.14</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.000114%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">1.14</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.000114%)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a></td>
+<td><a href="/wiki/Hydrogen" title="Hydrogen">(H<sub>2</sub>)</a></td>
+<td>0.55</td>
+<td>(0.000055%)</td>
+<td>0.5</td>
+<td>(0.00005%)</td>
+<td>0.5</td>
+<td>(0.00005%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">0.56</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.000056%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">0.5</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.00005%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">0.5</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.00005%)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">Nitrous oxide</a></td>
+<td><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">(N<sub>2</sub>O)</a></td>
+<td>0.325</td>
+<td>(0.0000325%)</td>
+<td>0.3</td>
+<td>(0.00003%)</td>
+<td>0.3</td>
+<td>(0.00003%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">0.320</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.0000320%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">0.5</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.00005%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+</tr>
+<tr>
+<td><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a></td>
+<td><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">(CO)</a></td>
+<td>0.1</td>
+<td>(0.00001% )</td>
+<td>0.2</td>
+<td>(0.00002%)</td>
+<td>0.2</td>
+<td>(0.00002%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+</tr>
+<tr>
+<td><a href="/wiki/Xenon" title="Xenon">Xenon</a></td>
+<td><a href="/wiki/Xenon" title="Xenon">(Xe)</a></td>
+<td>0.09</td>
+<td>(0.000009%)</td>
+<td>0.1</td>
+<td>(0.00001%)</td>
+<td>0.1</td>
+<td>(0.00001%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">0.09</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.000009%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">0.087</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.0000087%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">0.087</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(0.0000087%)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">Nitrogen dioxide</a></td>
+<td><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">(NO<sub>2</sub>)</a></td>
+<td>0.02</td>
+<td>(0.000002%)</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed"><sub>up to</sub> 0.02</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed"><sub>up to</sub> (0.000002%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+</tr>
+<tr>
+<td><a href="/wiki/Iodine" title="Iodine">Iodine</a></td>
+<td><a href="/wiki/Iodine" title="Iodine">(I<sub>2</sub>)</a></td>
+<td>0.01</td>
+<td>(0.000001%)</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed"><sub>up to</sub> 0.01</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed"><sub>up to</sub> (0.000001%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a></td>
+<td><a href="/wiki/Ammonia" title="Ammonia">(NH<sub>3</sub>)</a></td>
+<td>trace</td>
+<td>trace</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed"></td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed"></td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+</tr>
+<tr>
+<td><a href="/wiki/Sulphur_dioxide" class="mw-redirect" title="Sulphur dioxide">Sulphur dioxide</a></td>
+<td><a href="/wiki/Sulphur_dioxide" class="mw-redirect" title="Sulphur dioxide">(SO<sub>2</sub>)</a></td>
+<td>trace</td>
+<td>trace</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed"><sub>up to</sub> 1.00</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed"><sub>up to</sub> (0.0001%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ozone" title="Ozone">Ozone</a></td>
+<td><a href="/wiki/Ozone" title="Ozone">(O<sub>3</sub>)</a></td>
+<td>0.02 to 0.07
+<p><sup id="cite_ref-refname4_26-0" class="reference"><a href="#cite_note-refname4-26">[▽note 4]</a></sup></p>
+</td>
+<td>(2 to 7<span style="margin:0 .15em 0 .25em">×</span>10<sup>−6</sup>%)
+<p><sup id="cite_ref-refname4_26-1" class="reference"><a href="#cite_note-refname4-26">[▽note 4]</a></sup></p>
+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">0.01 to 0.10
+<p><sup id="cite_ref-refname4_26-2" class="reference"><a href="#cite_note-refname4-26">[▽note 4]</a></sup></p>
+</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(1 to 10<span style="margin:0 .15em 0 .25em">×</span>10<sup>−6</sup>%)
+<p><sup id="cite_ref-refname4_26-3" class="reference"><a href="#cite_note-refname4-26">[▽note 4]</a></sup></p>
+</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed"><sub>up to</sub> 0.02 to 0.07
+<p><sup id="cite_ref-refname4_26-4" class="reference"><a href="#cite_note-refname4-26">[▽note 4]</a></sup> <sup id="cite_ref-refname6_27-0" class="reference"><a href="#cite_note-refname6-27">[▽note 5]</a></sup></p>
+</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed"><sub>up to</sub> (2 to 7<span style="margin:0 .15em 0 .25em">×</span>10<sup>−6</sup>%)
+<p><sup id="cite_ref-refname4_26-5" class="reference"><a href="#cite_note-refname4-26">[▽note 4]</a></sup> <sup id="cite_ref-refname6_27-1" class="reference"><a href="#cite_note-refname6-27">[▽note 5]</a></sup></p>
+</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+</tr>
+<tr>
+<td>Trace to 30 ppm <sup id="cite_ref-refname5_28-0" class="reference"><a href="#cite_note-refname5-28">[▽note 6]</a></sup></td>
+<td>(----)</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2.9</td>
+<td>(0.00029%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">-</td>
+</tr>
+<tr style="border-top: 2px solid grey; background:#efefef; color:fffff6;">
+<td><a href="/wiki/Air" class="mw-redirect" title="Air"><b>Dry air total</b></a></td>
+<td><a href="/wiki/Air" class="mw-redirect" title="Air"><b>(air)</b></a></td>
+<td>1,000,065.265</td>
+<td>(100.0065265%)</td>
+<td>999,997.100</td>
+<td>(99.9997100%)</td>
+<td>1,000,000.000</td>
+<td>(100.0000000%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">1,000,051.404</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(100.0051404%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">999,998.677</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(99.9998677%)</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">1,000,080.147</td>
+<td id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed">(100.0080147%)</td>
+</tr>
+<tr style="text-align:left; font-size: 100%; background:#efefef; color:fffff6;">
+<td colspan="8!" style="text-align:left;"><b>Not included in above dry atmosphere:</b></td>
+<td colspan="6!" style="text-align:left;"></td>
+</tr>
+<tr style="text-align:center; font-size: 100%; background:#efefef; color:fffff6;">
+<td><a href="/wiki/Water_vapor" title="Water vapor">Water vapor</a></td>
+<td><a href="/wiki/Water_vapor" title="Water vapor">(H<sub>2</sub>O)</a></td>
+<th colspan="6" style="text-align:center;">~0.25% by mass over full atmosphere, locally 0.001%–5% by volume.<sup id="cite_ref-WallaceHobbs_29-0" class="reference"><a href="#cite_note-WallaceHobbs-29">[21]</a></sup></th>
+<td colspan="6" id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed" style="text-align:center;">~0.25% by mass over full atmosphere, locally 0.001%–5% by volume.<sup id="cite_ref-WallaceHobbs_29-1" class="reference"><a href="#cite_note-WallaceHobbs-29">[21]</a></sup></td>
+</tr>
+<tr style="text-align:left; font-size: 100%; background:#efefef; color:ffff6;">
+<td colspan="8">
+<div class="reflist columns references-column-width" style="-moz-column-width: Notes; -webkit-column-width: Notes; column-width: Notes; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-refname1-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-refname1_17-0">^</a></b></span> <span class="reference-text">▽Concentration pertains to the troposphere</span></li>
+<li id="cite_note-refname2-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-refname2_19-0">^</a></b></span> <span class="reference-text">▽The NASA total value do not add up to exactly 100% due to roundoff and uncertainty. To normalize, N<sub>2</sub> should be reduced by about 51.46&#160;ppmv and O<sub>2</sub> by about 13.805&#160;ppmv.</span></li>
+<li id="cite_note-refname3-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-refname3_25-0">^</a></b></span> <span class="reference-text">▽ppmv: <a href="/wiki/Parts_per_million" class="mw-redirect" title="Parts per million">parts per million</a> by volume (note: <a href="/wiki/Volume_fraction" title="Volume fraction">volume fraction</a> is equal to <a href="/wiki/Mole_fraction" title="Mole fraction">mole fraction</a> for ideal gas only, see <a href="/wiki/Volume_(thermodynamics)#Partial_volume" title="Volume (thermodynamics)">volume (thermodynamics)</a>)</span></li>
+<li id="cite_note-refname4-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-refname4_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-refname4_26-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-refname4_26-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-refname4_26-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-refname4_26-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-refname4_26-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">▽values disregarded for the calculation of total dry air</span></li>
+<li id="cite_note-refname6-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-refname6_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-refname6_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">▽(O<sub>3</sub>) concentration up to 0.07 ppmv (7<span style="margin:0 .15em 0 .25em">×</span>10<sup>−6</sup>%) in summer and up to 0.02 ppmv (2<span style="margin:0 .15em 0 .25em">×</span>10<sup>−6</sup>%) in winter</span></li>
+<li id="cite_note-refname5-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-refname5_28-0">^</a></b></span> <span class="reference-text">▽volumetric composition value adjustment factor (sum of all trace gases, below the (CO<sub>2</sub>), and adjusts for 30 ppmv)</span></li>
+</ol>
+</div>
+</td>
+<td colspan="6" id="mw-customcollapsible-A" class="mw-collapsible mw-collapsed"></td>
+<td></td>
+</tr>
+</table>
+<p><br /></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Density_of_air&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Air</a></li>
+<li><a href="/wiki/Density" title="Density">Density</a></li>
+<li><a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Atmosphere of Earth</a></li>
+<li><a href="/wiki/International_Standard_Atmosphere" title="International Standard Atmosphere">International Standard Atmosphere</a></li>
+<li><a href="/wiki/U.S._Standard_Atmosphere" title="U.S. Standard Atmosphere">U.S. Standard Atmosphere</a></li>
+<li><a href="/wiki/NRLMSISE-00" title="NRLMSISE-00">NRLMSISE-00</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Density_of_air&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-SInote01-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-SInote01_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SInote01_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SInote01_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-SInote01_13-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">In the SI unit system. However, other units can be used.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">like the dry air is a mixture of gases his molar mass is a pondered molar mass of their components</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Density_of_air&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-1" style="-moz-column-count: 1; -webkit-column-count: 1; column-count: 1; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-aero_01en-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-aero_01en_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-aero_01en_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Olson, Wayne M. (2000) AFFTC-TIH-99-01, Aircraft Performance Flight</span></li>
+<li id="cite_note-aero_02en-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-aero_02en_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-aero_02en_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">ICAO, Manual of the ICAO Standard Atmosphere (extended to 80 kilometres (262 500 feet)), Doc 7488-CD, Third Edition, 1993, <a href="/wiki/Special:BookSources/9291940046" class="internal mw-magiclink-isbn">ISBN 92-9194-004-6</a>.</span></li>
+<li id="cite_note-aero_03en-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-aero_03en_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-aero_03en_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Grigorie, T.L., Dinca, L., Corcau J-I. and Grigorie, O. (2010) Aircrafts’ [<i><a href="/wiki/Sic" title="Sic">sic</a></i>] Altitude Measurement Using Pressure Information:Barometric Altitude and Density Altitude</span></li>
+<li id="cite_note-grav_01en-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-grav_01en_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-grav_01en_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">A., Picard, R.S., Davis, M., Gläser and K., Fujii (CIPM-2007) Revised formula for the density of moist air</span></li>
+<li id="cite_note-hvac_01en-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-hvac_01en_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hvac_01en_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hvac_01en_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hvac_01en_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-hvac_01en_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-hvac_01en_5-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">S. Herrmann, H.-J. Kretzschmar, and D.P. Gatley (2009), ASHRAE RP-1485 Final Report</span></li>
+<li id="cite_note-mete_01en-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-mete_01en_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mete_01en_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">F.R. Martins, R.A. Guarnieri e E.B. Pereira, (2007) O aproveitamento da energia eólica (The wind energy resource).</span></li>
+<li id="cite_note-mete_02en-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-mete_02en_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mete_02en_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Andrade, R.G., Sediyama, G.C., Batistella, M., Victoria, D.C., da Paz, A.R., Lima, E.P., Nogueira, S.F. (2009) Mapeamento de parâmetros biofísicos e da evapotranspiração no Pantanal usando técnicas de sensoriamento remoto</span></li>
+<li id="cite_note-mete_03en-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-mete_03en_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mete_03en_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Marshall,John and Plumb,R. Alan (2008), Atmosphere, ocean, and climate dynamics: an introductory text <a href="/wiki/Special:BookSources/9780125586917" class="internal mw-magiclink-isbn">ISBN 978-0-12-558691-7</a>.</span></li>
+<li id="cite_note-agri_01en-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-agri_01en_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-agri_01en_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Pollacco, J. A., and B. P. Mohanty (2012), Uncertainties of Water Fluxes in Soil-Vegetation-Atmosphere Transfer Models: Inverting Surface Soil Moisture and Evapotranspiration Retrieved from Remote Sensing, Vadose Zone Journal, 11(3), doi:10.2136/vzj2011.0167.</span></li>
+<li id="cite_note-agri_02en-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-agri_02en_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-agri_02en_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Shin, Y., B. P. Mohanty, and A.V.M. Ines (2013), Estimating Effective Soil Hydraulic Properties Using Spatially Distributed Soil Moisture and Evapotranspiration, Vadose Zone Journal, 12(3), doi:10.2136/vzj2012.0094.</span></li>
+<li id="cite_note-agri_03en-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-agri_03en_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-agri_03en_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Saito, H., J. Simunek, and B. P. Mohanty (2006), Numerical Analysis of Coupled Water, Vapor, and Heat Transport in the Vadose Zone, Vadose Zone J. 5: 784-800.</span></li>
+<li id="cite_note-eng_01en-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-eng_01en_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-eng_01en_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-eng_01en_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-eng_01en_12-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Perry, R.H. and Chilton, C.H., eds., Chemical Engineers’ Handbook, 5th ed., McGraw-Hill, 1973.</span></li>
+<li id="cite_note-wahiduddin_01-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-wahiduddin_01_15-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wahiduddin.net/calc/density_altitude.htm">Shelquist,R (2009) Equations - Air Density and Density Altitude</a></span></li>
+<li id="cite_note-wahiduddin_02-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-wahiduddin_02_16-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wahiduddin.net/calc/density_algorithms.htm">Shelquist,R (2009) Algorithms - Schlatter and Baker</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Partial sources for figures: Base constituents, <a rel="nofollow" class="external text" href="http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html">Nasa earth factsheet</a>, (updated 2014-03). Carbon dioxide, <a rel="nofollow" class="external text" href="http://www.esrl.noaa.gov/gmd/ccgg/trends/#mlo">NOAA Earth System Research Laboratory</a>, (updated 2014-03). Methane and Nitrous Oxide, The NOAA Annual greenhouse gas index(AGGI) <a rel="nofollow" class="external text" href="http://www.esrl.noaa.gov/gmd/ccgg/aggi.html">Greenhouse gas-Figure 2</a>, (updated 2014-03).</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">A., Picard, R.S., Davis, M., Gläser and K., Fujii (2008), Revised formula for the density of moist air (CIPM-2007), Metrologia 45 (2008) 149–155 doi:10.1088/0026-1394/45/2/004, pg 151 Table 1</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">S. Herrmann, H.-J. Kretzschmar, and D.P. Gatley (2009), ASHRAE RP-1485 Final Report Thermodynamic Properties of Real Moist Air,Dry Air, Steam, Water, and Ice pg 16 Table 2.1 and 2.2</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Thomas W. Schlatter (2009), Atmospheric Composition and Vertical Structure pg 15 Table 2</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">ICAO, Manual of the ICAO Standard Atmosphere (extended to 80 kilometres (262 500 feet)), Doc 7488-CD, Third Edition, (1993), <a href="/wiki/Special:BookSources/9291940046" class="internal mw-magiclink-isbn">ISBN 92-9194-004-6</a>. pg E-x Table B</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">U.S. Committee on Extension to the Standard Atmosphere (COESA) (1976) U.S. Standard Atmosphere, 1976 pg 03 Table 3</span></li>
+<li id="cite_note-WallaceHobbs-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-WallaceHobbs_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WallaceHobbs_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Wallace, John M. and Peter V. Hobbs. Atmospheric Science; <i>An Introductory Survey</i>.Elsevier. Second Edition, 2006. ISBN 13:978-0-12-732951-2. Chapter 1</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Density_of_air&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.sengpielaudio.com/ConvDensi.htm">Conversions of density units ρ by Sengpielaudio</a></li>
+<li><a rel="nofollow" class="external text" href="http://wahiduddin.net/calc/density_altitude.htm">Air density and density altitude calculations and by Richard Shelquist</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sengpielaudio.com/calculator-airpressure.htm">Air density calculations by Sengpielaudio (section under Speed of sound in humid air)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.enggcyclopedia.com/calculators/physical-properties/air-density-calculator/">Air density calculator by Engineering design encyclopedia</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.wolfdynamics.com/tools/atmospheric-pressure-calculator.html/">Atmospheric pressure calculator by wolfdynamics</a></li>
+<li><a rel="nofollow" class="external text" href="https://itunes.apple.com/en/app/air-itools/id598469643?mt=8">Air iTools - Air density calculator for mobile by JSyA</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1236
+Cached time: 20170312072009
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.144 seconds
+Real time usage: 0.227 seconds
+Preprocessor visited node count: 1288/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17693/2097152 bytes
+Template argument size: 586/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+Lua time usage: 0.005/10.000 seconds
+Lua memory usage: 557 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   70.978      1 -total
+ 43.81%   31.095      1 Template:Table_composition_of_dry_atmosphere
+ 40.20%   28.534      3 Template:Reflist
+ 26.82%   19.033      1 Template:Main
+ 12.05%    8.550      5 Template:E
+  9.11%    6.466      5 Template:Valid
+  5.46%    3.879     15 Template:Evalns
+  1.78%    1.266      1 Template:Sic
+  1.49%    1.057      1 Template:Temperature_effect
+  1.46%    1.034      1 Template:Column-width
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:506906-0!*!0!!en!4!*!math=5 and timestamp 20170312072009 and revision id 758169414
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Density_of_air&amp;oldid=758169414">https://en.wikipedia.org/w/index.php?title=Density_of_air&amp;oldid=758169414</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmospheric_thermodynamics" title="Category:Atmospheric thermodynamics">Atmospheric thermodynamics</a></li><li><a href="/wiki/Category:Density" title="Category:Density">Density</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Density+of+air" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Density+of+air" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Density_of_air"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Density_of_air"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Density_of_air" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Density_of_air&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Density_of_air&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Density_of_air" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Density_of_air" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Density_of_air&amp;oldid=758169414" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Density_of_air&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1511415" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Density_of_air&amp;id=758169414" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Density+of+air">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Density+of+air&amp;returnto=Density+of+air&amp;oldid=758169414&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Density_of_air&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%83%D8%AB%D8%A7%D9%81%D8%A9_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A1" title="كثافة الهواء – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Luftdichte" title="Luftdichte – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Aerdenso" title="Aerdenso – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%86%DA%AF%D8%A7%D9%84%DB%8C_%D9%87%D9%88%D8%A7" title="چگالی هوا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Masse_volumique_de_l%27air" title="Masse volumique de l'air – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Gusto%C4%87a_zraka" title="Gustoća zraka – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Densit%C3%A0_dell%27aria" title="Densità dell'aria – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B5%E0%A5%87%E0%A4%9A%E0%A5%80_%E0%A4%98%E0%A4%A8%E0%A4%A4%E0%A4%BE" title="हवेची घनता – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Lufttetthet" title="Lufttetthet – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Lufttettleik" title="Lufttettleik – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/G%C4%99sto%C5%9B%C4%87_powietrza" title="Gęstość powietrza – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Densidade_do_ar" title="Densidade do ar – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85%D0%B0" title="Плотность воздуха – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Gostota_zraka" title="Gostota zraka – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Gusto%C4%87a_zraka" title="Gustoća zraka – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Hava_yo%C4%9Funlu%C4%9Fu" title="Hava yoğunluğu – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1511415#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 January 2017, at 21:43.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Density_of_air&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.227","ppvisitednodes":{"value":1288,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17693,"limit":2097152},"templateargumentsize":{"value":586,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   70.978      1 -total"," 43.81%   31.095      1 Template:Table_composition_of_dry_atmosphere"," 40.20%   28.534      3 Template:Reflist"," 26.82%   19.033      1 Template:Main"," 12.05%    8.550      5 Template:E","  9.11%    6.466      5 Template:Valid","  5.46%    3.879     15 Template:Evalns","  1.78%    1.266      1 Template:Sic","  1.49%    1.057      1 Template:Temperature_effect","  1.46%    1.034      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.005","limit":"10.000"},"limitreport-memusage":{"value":570240,"limit":52428800}},"cachereport":{"origin":"mw1236","timestamp":"20170312072009","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1246"});});</script>
+	</body>
+</html>

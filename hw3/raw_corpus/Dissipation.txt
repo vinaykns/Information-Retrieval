@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Dissipation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dissipation","wgTitle":"Dissipation","wgCurRevisionId":761339304,"wgRevisionId":761339304,"wgArticleId":164572,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Thermodynamic processes","Non-equilibrium thermodynamics","Dynamical systems"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dissipation","wgRelevantArticleId":164572,"wgRequestId":"WMfZlQpAEK4AABD453IAAAAB","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q898440","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dissipation"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dissipation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dissipation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dissipation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Dissipation rootpage-Dissipation skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Dissipation</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Dissipation</b> is the result of an <a href="/wiki/Irreversible_process" title="Irreversible process">irreversible process</a> that takes place in inhomogeneous <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamic</a> systems. A dissipative process is a process in which energy (internal, bulk flow kinetic, or system potential) is transformed from some initial form to some final form; the capacity of the final form to do mechanical work is less than that of the initial form. For example, <a href="/wiki/Heat_Transfer" class="mw-redirect" title="Heat Transfer">heat transfer</a> is dissipative because it is a transfer of internal energy from a hotter body to a colder one. Following the <a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">second law of thermodynamics</a>, the <a href="/wiki/Entropy" title="Entropy">entropy</a> varies with temperature (reduces the capacity of the combination of the two bodies to do mechanical work), but never decreases in an isolated system.</p>
+<p>These processes produce entropy (see <a href="/wiki/Entropy_production" title="Entropy production">entropy production</a>) at a certain rate. The entropy production rate times ambient temperature gives the dissipated power. Important examples of irreversible processes are: heat flow through a thermal resistance, fluid flow through a flow resistance, diffusion (mixing), chemical reactions, and electrical current flow through an electrical resistance (Joule heating).</p>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiktionary-logo-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/dissipation" class="extiw" title="wiktionary:Special:Search/dissipation">dissipation</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Energy"><span class="tocnumber">1.1</span> <span class="toctext">Energy</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Computational_physics"><span class="tocnumber">1.2</span> <span class="toctext">Computational physics</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Mathematics"><span class="tocnumber">1.3</span> <span class="toctext">Mathematics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Examples"><span class="tocnumber">2</span> <span class="toctext">Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#In_hydraulic_engineering"><span class="tocnumber">2.1</span> <span class="toctext">In hydraulic engineering</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Irreversible_processes"><span class="tocnumber">2.2</span> <span class="toctext">Irreversible processes</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Waves_or_oscillations"><span class="tocnumber">2.3</span> <span class="toctext">Waves or oscillations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dissipation&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thermodynamic dissipative processes are essentially irreversible. They <a href="/wiki/Entropy_production" title="Entropy production">produce entropy</a> at a finite rate. In a process in which the temperature is locally continuously defined, the local density of rate of entropy production times local temperature gives the local density of dissipated power.[Definition needed!]</p>
+<p>A particular occasion of occurrence of a dissipative process cannot be described by a single individual <a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">Hamiltonian</a> formalism. A dissipative process requires a collection of admissible individual Hamiltonian descriptions, exactly which one describes the actual particular occurrence of the process of interest being unknown. This includes friction, and all similar forces that result in decoherency of energy—that is, conversion of <a href="/wiki/Coherence_(physics)" title="Coherence (physics)">coherent</a> or directed energy flow into an indirected or more <a href="/wiki/Isotropic" class="mw-redirect" title="Isotropic">isotropic</a> distribution of energy.</p>
+<h3><span class="mw-headline" id="Energy">Energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dissipation&amp;action=edit&amp;section=2" title="Edit section: Energy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>"The conversion of mechanical energy into heat is called energy dissipation." – <i>François Roddier</i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The term is also applied to the loss of energy due to generation of unwanted heat in electric and electronic circuits.</p>
+<h3><span class="mw-headline" id="Computational_physics">Computational physics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dissipation&amp;action=edit&amp;section=3" title="Edit section: Computational physics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Computational_physics" title="Computational physics">computational physics</a>, numerical dissipation (also known as "numerical diffusion") refers to certain side-effects that may occur as a result of a numerical solution to a differential equation. When the pure <a href="/wiki/Advection" title="Advection">advection</a> equation, which is free of dissipation, is solved by a numerical approximation method, the energy of the initial wave may be reduced in a way analogous to a diffusional process. Such a method is said to contain 'dissipation'. In some cases, "artificial dissipation" is intentionally added to improve the <a href="/wiki/Numerical_stability" title="Numerical stability">numerical stability</a> characteristics of the solution.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Mathematics">Mathematics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dissipation&amp;action=edit&amp;section=4" title="Edit section: Mathematics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A formal, mathematical definition of dissipation, as commonly used in the mathematical study of <a href="/wiki/Measure-preserving_dynamical_system" title="Measure-preserving dynamical system">measure-preserving dynamical systems</a>, is given in the article <i><a href="/wiki/Wandering_set" title="Wandering set">wandering set</a></i>.</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dissipation&amp;action=edit&amp;section=5" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="In_hydraulic_engineering">In hydraulic engineering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dissipation&amp;action=edit&amp;section=6" title="Edit section: In hydraulic engineering">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Dissipation is the process of converting mechanical energy of downward-flowing water into thermal and acoustical energy. Various devices are designed in stream beds to reduce the kinetic energy of flowing waters to reduce their <a href="/wiki/Erosion" title="Erosion">erosive potential</a> on banks and <a href="/wiki/Stream_bed" title="Stream bed">river bottoms</a>. Very often these devices look like small <a href="/wiki/Waterfall" title="Waterfall">waterfalls</a> or <a href="/wiki/Waterfall#Types" title="Waterfall">cascades</a>, where water flows vertically or over <a href="/wiki/Riprap" title="Riprap">riprap</a> to lose some of its <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a>.</p>
+<h3><span class="mw-headline" id="Irreversible_processes">Irreversible processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dissipation&amp;action=edit&amp;section=7" title="Edit section: Irreversible processes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Important examples of irreversible processes are:</p>
+<ol>
+<li>Heat flow through a thermal resistance</li>
+<li>Fluid flow through a flow resistance</li>
+<li>Diffusion (mixing)</li>
+<li>Chemical reactions<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li>Electrical current flow through an electrical resistance (<a href="/wiki/Joule_heating" title="Joule heating">Joule heating</a>).</li>
+</ol>
+<h3><span class="mw-headline" id="Waves_or_oscillations">Waves or oscillations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dissipation&amp;action=edit&amp;section=8" title="Edit section: Waves or oscillations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Wave" title="Wave">Waves</a> or <a href="/wiki/Oscillation" title="Oscillation">oscillations</a>, lose <a href="/wiki/Energy" title="Energy">energy</a> over <a href="/wiki/Time" title="Time">time</a>, typically from <a href="/wiki/Friction" title="Friction">friction</a> or <a href="/wiki/Turbulence" title="Turbulence">turbulence</a>. In many cases the "lost" energy raises the <a href="/wiki/Temperature" title="Temperature">temperature</a> of the system. For example, a <a href="/wiki/Wave" title="Wave">wave</a> that loses <a href="/wiki/Amplitude" title="Amplitude">amplitude</a> is said to dissipate. The precise nature of the effects depends on the nature of the wave: an <a href="/wiki/Atmospheric_wave" title="Atmospheric wave">atmospheric wave</a>, for instance, may dissipate close to the surface due to <a href="/wiki/Friction" title="Friction">friction</a> with the land mass, and at higher levels due to <a href="/wiki/Radiative_cooling" title="Radiative cooling">radiative cooling</a>.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dissipation&amp;action=edit&amp;section=9" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Timeline_of_thermodynamics" title="Timeline of thermodynamics">Timeline of thermodynamics</a></div>
+<p>The concept of dissipation was introduced in the field of thermodynamics by <a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">William Thomson</a> (Lord Kelvin) in 1852.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Lord Kelvin deduced that a subset of the above-mentioned irreversible dissapative processes will occur unless a process is governed by a "perfect thermodynamic engine". The processes that Lord Kelvin identified were friction, diffusion, conduction of heat and the absorption of light.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dissipation&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Entropy_production" title="Entropy production">Entropy production</a></li>
+<li><a href="/wiki/Flood_control" title="Flood control">Flood control</a></li>
+<li><a href="/wiki/Principle_of_maximum_entropy" title="Principle of maximum entropy">Principle of maximum entropy</a></li>
+<li><a href="/wiki/Two-dimensional_gas" title="Two-dimensional gas">Two-dimensional gas</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dissipation&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.editions-parole.net/?product=thermodynamique-de-levolution-un-essai-de-thermo-bio-sociologie">Roddier F., <i>Thermodynamique de l'évolution (The Thermodynamics of Evolution)</i>, parole éditions, 2012</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Thomas, J.W. Numerical Partial Differential Equation: Finite Difference Methods. Springer-Verlag. New York. (1995)</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Glansdorff, P., <a href="/wiki/Ilya_Prigogine" title="Ilya Prigogine">Prigogine, I.</a> (1971). <i>Thermodynamic Theory of Structure, Stability, and Fluctuations</i>, Wiley-Interscience, London, 1971, <a href="/wiki/Special:BookSources/0471302805" class="internal mw-magiclink-isbn">ISBN 0-471-30280-5</a>, p. 61.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Eu, B.C. (1998). <i>Nonequilibrium Thermodynamics: Ensemble Method</i>, Kluwer Academic Publications, Dordrecht, <a href="/wiki/Special:BookSources/0792349806" class="internal mw-magiclink-isbn">ISBN 0-7923-4980-6</a>, p. 49,</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">W. Thomson <i>On the universal tendency in nature to the dissipation of mechanical energy</i> Philosophical Magazine, Ser. 4, p.&#160;304 (1852).</span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Energy" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Footer_energy" title="Template:Footer energy"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Footer_energy" title="Template talk:Footer energy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Footer_energy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Energy" style="font-size:114%;margin:0 4em"><a href="/wiki/Energy" title="Energy">Energy</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fundamental concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energetics" title="Energetics">Energetics</a></li>
+<li><a href="/wiki/Energy" title="Energy">Energy</a>
+<ul>
+<li><a href="/wiki/Units_of_energy" title="Units of energy">Units</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Energy_system" title="Energy system">Energy system</a></li>
+<li><a href="/wiki/Energy_transformation" title="Energy transformation">Energy transformation</a></li>
+<li><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws of thermodynamics</a></li>
+<li><a href="/wiki/Mass" title="Mass">Mass</a></li>
+<li><a href="/wiki/Power_(physics)" title="Power (physics)">Power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Primary_energy" title="Primary energy">Primary energy</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemical_energy" title="Chemical energy">Chemical energy</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a>
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gravitational_energy" title="Gravitational energy">Gravitational energy</a></li>
+<li><a href="/wiki/Kinetic_energy" title="Kinetic energy">Kinetic energy</a></li>
+<li><a href="/wiki/Nuclear_fuel" title="Nuclear fuel">Nuclear fuel</a>
+<ul>
+<li><a href="/wiki/Natural_uranium" title="Natural uranium">Natural uranium</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Magnetic_energy" title="Magnetic energy">Magnetic energy</a></li>
+<li><a href="/wiki/Radiant_energy" title="Radiant energy">Radiant energy</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a></li>
+<li><a href="/wiki/Thermal_energy" title="Thermal energy">Thermal energy</a></li>
+<li><a href="/wiki/Wind" title="Wind">Wind</a></li>
+<li><a href="/wiki/Bioenergy" title="Bioenergy">Bioenergy</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine energy</a></li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Energy_carrier" title="Energy carrier">Energy carriers</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fuel_oil" title="Fuel oil">Fuel oil</a></li>
+<li><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a></li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a></li>
+<li><a href="/wiki/Work_(physics)" title="Work (physics)">Work</a></li>
+<li><a href="/wiki/Electricity" title="Electricity">Electricity</a></li>
+<li><a href="/wiki/Elastic_energy" title="Elastic energy">Elastic energy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Energy system<br />
+components</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Oil_refinery" title="Oil refinery">Oil refinery</a></li>
+<li><a href="/wiki/Fossil-fuel_power_station" class="mw-redirect" title="Fossil-fuel power station">Fossil-fuel power station</a>
+<ul>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Integrated_gasification_combined_cycle" title="Integrated gasification combined cycle">Integrated gasification combined cycle</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a>
+<ul>
+<li><a href="/wiki/Nuclear_power_plant" title="Nuclear power plant">Nuclear power plant</a></li>
+<li><a href="/wiki/Radioisotope_thermoelectric_generator" title="Radioisotope thermoelectric generator">Radioisotope thermoelectric generator</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar power</a>
+<ul>
+<li><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></li>
+<li><a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">Concentrated solar power</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_thermal_energy" title="Solar thermal energy">Solar thermal energy</a>
+<ul>
+<li><a href="/wiki/Solar_power_tower" title="Solar power tower">Solar power tower</a></li>
+<li><a href="/wiki/Solar_furnace" title="Solar furnace">Solar furnace</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind power</a>
+<ul>
+<li><a href="/wiki/Wind_farm" title="Wind farm">Wind farm</a></li>
+<li><a href="/wiki/High-altitude_wind_power" title="High-altitude wind power">High-altitude wind power</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a>
+<ul>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a></li>
+<li><a href="/wiki/Wave_farm" title="Wave farm">Wave farm</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1219
+Cached time: 20170314115253
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.048 seconds
+Real time usage: 0.068 seconds
+Preprocessor visited node count: 305/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11874/2097152 bytes
+Template argument size: 117/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.010/10.000 seconds
+Lua memory usage: 841 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   43.451      1 -total
+ 42.02%   18.258      1 Template:Wiktionary
+ 38.66%   16.796      1 Template:Sister_project
+ 34.45%   14.969      1 Template:Side_box
+ 19.94%    8.663      1 Template:Footer_energy
+ 17.52%    7.613      1 Template:See_also
+ 16.67%    7.245      1 Template:Navbox
+ 12.85%    5.584      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:164572-0!*!0!!en!4!* and timestamp 20170314115253 and revision id 761339304
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dissipation&amp;oldid=761339304">https://en.wikipedia.org/w/index.php?title=Dissipation&amp;oldid=761339304</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Thermodynamic_processes" title="Category:Thermodynamic processes">Thermodynamic processes</a></li><li><a href="/wiki/Category:Non-equilibrium_thermodynamics" title="Category:Non-equilibrium thermodynamics">Non-equilibrium thermodynamics</a></li><li><a href="/wiki/Category:Dynamical_systems" title="Category:Dynamical systems">Dynamical systems</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dissipation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dissipation" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Dissipation"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Dissipation"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Dissipation" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Dissipation&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dissipation&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dissipation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dissipation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dissipation&amp;oldid=761339304" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dissipation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q898440" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dissipation&amp;id=761339304" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dissipation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Dissipation&amp;returnto=Dissipation&amp;oldid=761339304&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dissipation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%A8%D8%AF%D8%AF" title="تبدد – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%B8%D0%BF%D0%B0%D1%86%D0%B8%D1%8F" title="Дисипация – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Disipacija" title="Disipacija – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Disipace" title="Disipace – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Dissipation" title="Dissipation – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA%E2%80%8C%D9%86%D8%A7%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C" title="برگشت‌ناپذیری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Dissipation" title="Dissipation – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%82%B0%EC%9D%BC" title="산일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Dissipazione" title="Dissipazione – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D1%81%D0%B8%D0%BF%D0%B0%D1%86%D0%B8%D1%8F" title="Диссипация – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Disipacija" title="Disipacija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Dissipatie" title="Dissipatie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%95%A3%E9%80%B8" title="散逸 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Dissipasjon" title="Dissipasjon – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Dissipasjon" title="Dissipasjon – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Dyssypacja" title="Dyssypacja – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dissipa%C3%A7%C3%A3o" title="Dissipação – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D1%81%D0%B8%D0%BF%D0%B0%D1%86%D0%B8%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8" title="Диссипация энергии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Dissipation" title="Dissipation – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Dissipation" title="Dissipation – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%B8%D0%BF%D0%B0%D1%86%D1%96%D1%8F" title="Дисипація – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%80%97%E6%95%A3" title="耗散 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q898440#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 January 2017, at 11:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dissipation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.048","walltime":"0.068","ppvisitednodes":{"value":305,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11874,"limit":2097152},"templateargumentsize":{"value":117,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   43.451      1 -total"," 42.02%   18.258      1 Template:Wiktionary"," 38.66%   16.796      1 Template:Sister_project"," 34.45%   14.969      1 Template:Side_box"," 19.94%    8.663      1 Template:Footer_energy"," 17.52%    7.613      1 Template:See_also"," 16.67%    7.245      1 Template:Navbox"," 12.85%    5.584      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.010","limit":"10.000"},"limitreport-memusage":{"value":861595,"limit":52428800}},"cachereport":{"origin":"mw1219","timestamp":"20170314115253","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":144,"wgHostname":"mw1219"});});</script>
+	</body>
+</html>

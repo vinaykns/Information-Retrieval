@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pumped-storage hydroelectricity - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pumped-storage_hydroelectricity","wgTitle":"Pumped-storage hydroelectricity","wgCurRevisionId":769756758,"wgRevisionId":769756758,"wgArticleId":277237,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","All articles with unsourced statements","Articles with unsourced statements from February 2017","Commons category with local link same as on Wikidata","Articles with DMOZ links","Wikipedia articles with GND identifiers","Dams","Energy storage","Pumped-storage hydroelectric power stations","Water conservation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pumped-storage_hydroelectricity","wgRelevantArticleId":277237,"wgRequestId":"WMiCeApAIDgAAEjFuaMAAABC","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q339353","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/9/9a/Pumpstor_racoon_mtn.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pumped-storage_hydroelectricity"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pumped-storage_hydroelectricity rootpage-Pumped-storage_hydroelectricity skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Pumped-storage hydroelectricity</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">"Hydro-storage" redirects here. For storage of water for other purposes, see <a href="/wiki/Reservoir" title="Reservoir">Reservoir</a>.</div>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:304px;max-width:304px">
+<div class="tsingle" style="margin:1px;width:302px;max-width:302px">
+<div class="thumbimage"><a href="/wiki/File:Pumpstor_racoon_mtn.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pumpstor_racoon_mtn.jpg/300px-Pumpstor_racoon_mtn.jpg" width="300" height="172" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pumpstor_racoon_mtn.jpg/450px-Pumpstor_racoon_mtn.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/9/9a/Pumpstor_racoon_mtn.jpg 2x" data-file-width="569" data-file-height="326" /></a></div>
+<div class="thumbcaption" style="clear:left">Diagram of the <a href="/wiki/Tennessee_Valley_Authority" title="Tennessee Valley Authority">TVA</a> pumped storage facility at <a href="/wiki/Raccoon_Mountain_Pumped-Storage_Plant" title="Raccoon Mountain Pumped-Storage Plant">Raccoon Mountain Pumped-Storage Plant</a></div>
+</div>
+<div class="tsingle" style="margin:1px;width:302px;max-width:302px">
+<div class="thumbimage"><a href="/wiki/File:Taum_Sauk_Pumped_Storage.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Taum_Sauk_Pumped_Storage.jpg/300px-Taum_Sauk_Pumped_Storage.jpg" width="300" height="204" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Taum_Sauk_Pumped_Storage.jpg/450px-Taum_Sauk_Pumped_Storage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Taum_Sauk_Pumped_Storage.jpg/600px-Taum_Sauk_Pumped_Storage.jpg 2x" data-file-width="870" data-file-height="591" /></a></div>
+<div class="thumbcaption" style="clear:left">Shaded-relief <a href="/wiki/Topographic_map" title="Topographic map">topo map</a> of the <a href="/wiki/Taum_Sauk_Hydroelectric_Power_Station" title="Taum Sauk Hydroelectric Power Station">Taum Sauk pumped storage plant</a> in Missouri</div>
+</div>
+</div>
+</div>
+<p><b>Pumped-storage hydroelectricity</b> (<b>PSH</b>), or <b>pumped hydroelectric energy storage</b> (<b>PHES</b>), is a type of <a href="/wiki/Hydroelectricity" title="Hydroelectricity">hydroelectric</a> <a href="/wiki/Energy_storage" title="Energy storage">energy storage</a> used by <a href="/wiki/Electric_power_system" title="Electric power system">electric power systems</a> for <a href="/wiki/Load_balancing_(electrical_power)" title="Load balancing (electrical power)">load balancing</a>. The method stores energy in the form of <a href="/wiki/Gravitational_potential_energy" class="mw-redirect" title="Gravitational potential energy">gravitational potential energy</a> of water, pumped from a lower elevation <a href="/wiki/Reservoir" title="Reservoir">reservoir</a> to a higher elevation. Low-cost surplus off-peak electric power is typically used to run the pumps. During periods of high electrical demand, the stored water is released through <a href="/wiki/Water_turbine" title="Water turbine">turbines</a> to produce electric power. Although the losses of the pumping process makes the plant a net consumer of energy overall, the system increases <a href="/wiki/Revenue" title="Revenue">revenue</a> by selling more electricity during periods of <i><a href="/wiki/Peak_demand" title="Peak demand">peak demand</a></i>, when electricity prices are highest. Pumped-storage hydroelectricity allows energy from intermittent sources (such as <a href="/wiki/Solar_power" title="Solar power">solar</a>, <a href="/wiki/Wind_power" title="Wind power">wind</a>) and other renewables, or excess electricity from continuous base-load sources (such as coal or nuclear) to be saved for periods of higher demand.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The reservoirs used with pumped storage are quite small when compared to conventional hydroelectric dams of similar power capacity, and generating periods are often less than half a day.</p>
+<p>Pumped storage is the largest-capacity form of <a href="/wiki/Grid_energy_storage" title="Grid energy storage">grid energy storage</a> available, and, as of 2017, the DOE Global Energy Storage Database reports that PSH accounts for over 96% of all active tracked storage installations worldwide, with a total installed nameplate capacity of over 168 <a href="/wiki/Gigawatt" class="mw-redirect" title="Gigawatt">GW</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The <i>round-trip</i> <a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">energy efficiency</a> of PSH varies between 70%–80%,<sup id="cite_ref-EconomistPSH_4-0" class="reference"><a href="#cite_note-EconomistPSH-4">[4]</a></sup><sup id="cite_ref-thier_5-0" class="reference"><a href="#cite_note-thier-5">[5]</a></sup><sup id="cite_ref-Levine_6-0" class="reference"><a href="#cite_note-Levine-6">[6]</a></sup><sup id="cite_ref-yang_7-0" class="reference"><a href="#cite_note-yang-7">[7]</a></sup> with some sources claiming up to 87%.<sup id="cite_ref-heco_8-0" class="reference"><a href="#cite_note-heco-8">[8]</a></sup> The main disadvantage of PHS is the specialist nature of the site required, needing both geographical height and water availability. Suitable sites are therefore likely to be in hilly or mountainous regions, and potentially in areas of outstanding natural beauty, and therefore there are also social and ecological issues to overcome.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Worldwide_use"><span class="tocnumber">3</span> <span class="toctext">Worldwide use</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Pump-back_hydroelectric_dams"><span class="tocnumber">4</span> <span class="toctext">Pump-back hydroelectric dams</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Potential_technologies"><span class="tocnumber">5</span> <span class="toctext">Potential technologies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Seawater"><span class="tocnumber">5.1</span> <span class="toctext">Seawater</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Direct_pumping"><span class="tocnumber">5.2</span> <span class="toctext">Direct pumping</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Underground_reservoirs"><span class="tocnumber">5.3</span> <span class="toctext">Underground reservoirs</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Decentralised_systems"><span class="tocnumber">5.4</span> <span class="toctext">Decentralised systems</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Underwater_Reservoirs"><span class="tocnumber">5.5</span> <span class="toctext">Underwater Reservoirs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pumpspeicherkraftwerk_engl.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pumpspeicherkraftwerk_engl.png/220px-Pumpspeicherkraftwerk_engl.png" width="220" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pumpspeicherkraftwerk_engl.png/330px-Pumpspeicherkraftwerk_engl.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pumpspeicherkraftwerk_engl.png/440px-Pumpspeicherkraftwerk_engl.png 2x" data-file-width="754" data-file-height="538" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pumpspeicherkraftwerk_engl.png" class="internal" title="Enlarge"></a></div>
+Power distribution, over a day, of a pumped-storage hydroelectricity facility. Green represents power consumed in pumping; red is power generated.</div>
+</div>
+</div>
+<p>At times of low electrical demand, excess generation capacity is used to pump water into the upper reservoir. When there is higher demand, water is released back into the lower reservoir through a <a href="/wiki/Turbine" title="Turbine">turbine</a>, generating electricity. Reversible turbine/generator assemblies act as a combined pump and turbine generator unit (usually a <a href="/wiki/Francis_turbine" title="Francis turbine">Francis turbine</a> design). In open-loop systems, pure pumped-storage plants store water in an upper reservoir with no natural inflows, while pump-back plants utilize a combination of pumped storage and conventional <a href="/wiki/Hydroelectricity" title="Hydroelectricity">hydroelectric plants</a> with an upper reservoir that is replenished in part by natural inflows from a stream or river. Plants that do not use pumped-storage are referred to as conventional hydroelectric plants; conventional hydroelectric plants that have significant storage capacity may be able to play a similar role in the <a href="/wiki/Electric_power_transmission" title="Electric power transmission">electrical grid</a> as pumped storage by deferring output until needed.</p>
+<p>Taking into account evaporation losses from the exposed water surface and conversion losses, energy recovery of 70-80% or more can be regained.<sup id="cite_ref-ESA_10-0" class="reference"><a href="#cite_note-ESA-10">[10]</a></sup> This technique is currently the most cost-effective means of storing large amounts of electrical energy, but capital costs and the presence of appropriate geography are critical decision factors in selecting pumped-storage plant sites.</p>
+<p>The relatively low energy density of pumped storage systems requires either large flows and/or large differences in height between reservoirs. The only way to store a significant amount of energy is by having a large body of water located relatively near, but as high above as possible, a second body of water. In some places this occurs naturally, in others one or both bodies of water were man-made. Projects in which both reservoirs are artificial and in which no natural inflows are involved with either reservoir are referred to as "closed loop" systems.<sup id="cite_ref-ferc-psp-def_11-0" class="reference"><a href="#cite_note-ferc-psp-def-11">[11]</a></sup></p>
+<p>These systems may be economical because they flatten out load variations on the power grid, permitting thermal power stations such as <a href="/wiki/Fossil_fuel_power_plant" class="mw-redirect" title="Fossil fuel power plant">coal-fired plants</a> and <a href="/wiki/Nuclear_power_plant" title="Nuclear power plant">nuclear power plants</a> that provide base-load electricity to continue operating at peak efficiency, while reducing the need for "peaking" power plants that use the same fuels as many base-load thermal plants, gas and oil, but have been designed for flexibility rather than maximal efficiency. Hence pumped storage systems are crucial when <a href="/wiki/Unit_commitment_problem_in_electrical_power_production" title="Unit commitment problem in electrical power production">coordinating large groups of heterogeneous generators</a>. However, capital costs for pumped-storage plants are relatively high.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Stwlan.dam.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stwlan.dam.jpg/220px-Stwlan.dam.jpg" width="220" height="142" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stwlan.dam.jpg/330px-Stwlan.dam.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stwlan.dam.jpg/440px-Stwlan.dam.jpg 2x" data-file-width="750" data-file-height="483" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Stwlan.dam.jpg" class="internal" title="Enlarge"></a></div>
+The upper reservoir (Llyn Stwlan) and dam of the <a href="/wiki/Ffestiniog_Power_Station" title="Ffestiniog Power Station">Ffestiniog Pumped Storage Scheme</a> in north <a href="/wiki/Wales" title="Wales">Wales</a>. The lower power station has four water turbines which generate 360 MW of electricity within 60 seconds of the need arising.</div>
+</div>
+</div>
+<p>Along with energy management, pumped storage systems help control electrical network <a href="/wiki/Frequency" title="Frequency">frequency</a> and provide reserve generation. Thermal plants are much less able to respond to sudden changes in electrical demand, potentially causing frequency and <a href="/wiki/Voltage" title="Voltage">voltage</a> instability. Pumped storage plants, like other hydroelectric plants, can respond to load changes within seconds.</p>
+<p>The most important use for pumped storage has traditionally been to balance baseload powerplants, but may also be used to <a href="/wiki/Load_following_power_plant" title="Load following power plant">abate</a> the fluctuating output of <a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">intermittent energy sources</a>. Pumped storage provides a load at times of high electricity output and low electricity demand, enabling additional system peak capacity. In certain jurisdictions, <a href="/wiki/Electricity_market" title="Electricity market">electricity prices</a> may be close to zero or occasionally negative on occasions that there is more electrical generation available than there is load available to absorb it; although at present this is rarely due to <a href="/wiki/Wind_power" title="Wind power">wind</a> or <a href="/wiki/Solar_power" title="Solar power">solar</a> power alone, increased wind and solar generation will increase the likelihood of such occurrences. It is particularly likely that pumped storage will become especially important as a balance for very large scale <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> generation.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Increased long distance transmission capacity combined with significant amounts of energy storage will be a crucial part of regulating any large-scale deployment of intermittent renewable power sources.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The high <a href="/wiki/Intermittent_energy_source#Penetration" title="Intermittent energy source">non-firm renewable electricity penetration</a> in some regions supplies 40% of annual output, but 60% may be reached before additional storage is necessary.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-enet42_16-0" class="reference"><a href="#cite_note-enet42-16">[16]</a></sup></p>
+<p>There are small-scale installations of such technology, namely in buildings, although these are economically unfeasible given the <a href="/wiki/Economies_of_scale" title="Economies of scale">economies of scale</a> present.<sup id="cite_ref-:0_17-0" class="reference"><a href="#cite_note-:0-17">[17]</a></sup> Also, a large volume of water is required for a meaningful storage capacity which is a difficult fit for an urban setting.<sup id="cite_ref-:0_17-1" class="reference"><a href="#cite_note-:0-17">[17]</a></sup> Nevertheless, some authors defend its technological simplicity and secure provision of water as important <a href="/wiki/Externality" title="Externality">externalities</a>.<sup id="cite_ref-:0_17-2" class="reference"><a href="#cite_note-:0-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first use of pumped storage was in the 1890s in <a href="/wiki/Electricity_sector_in_Italy" title="Electricity sector in Italy">Italy</a> and <a href="/wiki/Electricity_sector_in_Switzerland" title="Electricity sector in Switzerland">Switzerland</a>. In the 1930s reversible hydroelectric turbines became available. These turbines could operate as both turbine-generators and in reverse as electric motor driven pumps. The latest in large-scale engineering technology are variable speed machines for greater efficiency. These machines operate in synchronization with the network frequency when generating, but operate <a href="/wiki/Electric_motor#Three-phase_AC_induction_motors" title="Electric motor">asynchronously</a> (independent of the network frequency) when pumping.</p>
+<p>The first use of pumped-storage in the United States was in 1930 by the Connecticut Electric and Power Company, using a large reservoir located near New Milford, Connecticut, pumping water from the Housatonic River to the storage reservoir 230 feet above.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="Worldwide_use">Worldwide use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=3" title="Edit section: Worldwide use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/United_States_Department_of_Energy_International_Energy_Storage_Database" class="mw-redirect" title="United States Department of Energy International Energy Storage Database">United States Department of Energy International Energy Storage Database</a></div>
+<p>In 2009, world pumped storage generating capacity was 104 <a href="/wiki/Watt" title="Watt">GW</a>,<sup id="cite_ref-eia_19-0" class="reference"><a href="#cite_note-eia-19">[19]</a></sup> while other sources claim 127 GW, which comprises the vast majority of all types of utility grade electric storage.<sup id="cite_ref-epri_20-0" class="reference"><a href="#cite_note-epri-20">[20]</a></sup> The <a href="/wiki/European_Union" title="European Union">EU</a> had 38.3 GW net capacity (36.8% of world capacity) out of a total of 140 GW of hydropower and representing 5% of total net electrical capacity in the EU. <a href="/wiki/Japan" title="Japan">Japan</a> had 25.5 GW net capacity (24.5% of world capacity).<sup id="cite_ref-eia_19-1" class="reference"><a href="#cite_note-eia-19">[19]</a></sup></p>
+<p>In 2010 the United States had 21.5 <a href="/wiki/Watt" title="Watt">GW</a> of pumped storage generating capacity (20.6% of world capacity).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> PHS generated (net) -5.501 GWh of energy in 2010 in the US<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> because more energy is consumed in pumping than is generated. Nameplate pumped storage capacity had grown to 21.6 GW by 2014, with pumped storage comprising 97% of grid-scale energy storage in the US. As of late 2014, there were 51 active project proposals with a total of 39 GW of new nameplate capacity across all stages of the FERC licensing process for new pumped storage hydroelectric plants in the US, but no new plants were currently under construction in the US at the time.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<p>The five largest operational pumped-storage plants are listed below <i>(for a detailed list see <a href="/wiki/List_of_pumped-storage_hydroelectric_power_stations" title="List of pumped-storage hydroelectric power stations">List of pumped-storage hydroelectric power stations</a>)</i>:</p>
+<table class="wikitable" style="font-size: 90%;">
+<tr>
+<th>Station</th>
+<th>Country</th>
+<th><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Location</a></th>
+<th>Capacity (<a href="/wiki/Megawatt" class="mw-redirect" title="Megawatt">MW</a>)</th>
+<th><abbr title="References">Refs</abbr></th>
+</tr>
+<tr>
+<td><a href="/wiki/Bath_County_Pumped_Storage_Station" title="Bath County Pumped Storage Station">Bath County Pumped Storage Station</a></td>
+<td><a href="/wiki/Hydroelectric_power_in_the_United_States" title="Hydroelectric power in the United States">United States</a></td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Pumped-storage_hydroelectricity&amp;params=38_12_32_N_79_48_00_W_&amp;title=Bath+County+Pumped-storage+Station"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">38°12′32″N</span> <span class="longitude">79°48′00″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">38.20889°N 79.80000°W</span><span style="display:none">﻿ / <span class="geo">38.20889; -79.80000</span></span><span style="display:none">﻿ (<span class="fn org">Bath County Pumped-storage Station</span>)</span></span></span></a></span></td>
+<td align="center">3,003</td>
+<td><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Guangdong_Pumped_Storage_Power_Station" title="Guangdong Pumped Storage Power Station">Guangdong Pumped Storage Power Station</a></td>
+<td><a href="/wiki/Hydropower_in_China" class="mw-redirect" title="Hydropower in China">China</a></td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Pumped-storage_hydroelectricity&amp;params=23_45_52_N_113_57_12_E_&amp;title=Guangzhou+Pumped+Storage+Power+Station"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">23°45′52″N</span> <span class="longitude">113°57′12″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">23.76444°N 113.95333°E</span><span style="display:none">﻿ / <span class="geo">23.76444; 113.95333</span></span><span style="display:none">﻿ (<span class="fn org">Guangzhou Pumped Storage Power Station</span>)</span></span></span></a></span></td>
+<td align="center">2,400</td>
+<td><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Huizhou_Pumped_Storage_Power_Station" title="Huizhou Pumped Storage Power Station">Huizhou Pumped Storage Power Station</a></td>
+<td>China</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Pumped-storage_hydroelectricity&amp;params=23_16_07_N_114_18_50_E_&amp;title=Huizhou+Pumped+Storage+Power+Station"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">23°16′07″N</span> <span class="longitude">114°18′50″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">23.26861°N 114.31389°E</span><span style="display:none">﻿ / <span class="geo">23.26861; 114.31389</span></span><span style="display:none">﻿ (<span class="fn org">Huizhou Pumped Storage Power Station</span>)</span></span></span></a></span></td>
+<td align="center">2,400</td>
+<td><sup id="cite_ref-mndone_28-0" class="reference"><a href="#cite_note-mndone-28">[28]</a></sup><sup id="cite_ref-mndtwo_29-0" class="reference"><a href="#cite_note-mndtwo-29">[29]</a></sup><sup id="cite_ref-mndtre_30-0" class="reference"><a href="#cite_note-mndtre-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Okutataragi_Pumped_Storage_Power_Station" title="Okutataragi Pumped Storage Power Station">Okutataragi Pumped Storage Power Station</a></td>
+<td><a href="/wiki/Hydroelectricity_in_Japan" title="Hydroelectricity in Japan">Japan</a></td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Pumped-storage_hydroelectricity&amp;params=35_14_13_N_134_49_55_E_&amp;title=Okutataragi+Hydroelectric+Power+Station"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">35°14′13″N</span> <span class="longitude">134°49′55″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">35.23694°N 134.83194°E</span><span style="display:none">﻿ / <span class="geo">35.23694; 134.83194</span></span><span style="display:none">﻿ (<span class="fn org">Okutataragi Hydroelectric Power Station</span>)</span></span></span></a></span></td>
+<td align="center">1,932</td>
+<td><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ludington_Pumped_Storage_Power_Plant" title="Ludington Pumped Storage Power Plant">Ludington Pumped Storage Power Plant</a></td>
+<td>United States</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Pumped-storage_hydroelectricity&amp;params=43_53_37_N_86_26_43_W_&amp;title=Ludington+Pumped+Storage+Power+Plant"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°53′37″N</span> <span class="longitude">86°26′43″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.89361°N 86.44528°W</span><span style="display:none">﻿ / <span class="geo">43.89361; -86.44528</span></span><span style="display:none">﻿ (<span class="fn org">Ludington Pumped Storage Power Plant</span>)</span></span></span></a></span></td>
+<td align="center">1,872</td>
+<td><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></td>
+</tr>
+<tr>
+<td colspan="5" style="font-size: 0.95em; background-color: #f2f2f2; padding: 6px 2px 4px 4px">
+<div style="max-width: 740px">Note: this table shows the power-generating capacity in megawatts as is usual for power stations. However, the overall energy-storage capacity in <a href="/wiki/Megawatt-hour" class="mw-redirect" title="Megawatt-hour">megawatt-hours</a> (MWh) is a different intrinsic property and can not be derived from the above given figures.</div>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Pump-back_hydroelectric_dams">Pump-back hydroelectric dams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=4" title="Edit section: Pump-back hydroelectric dams">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Conventional hydroelectric dams may also make use of pumped storage in a hybrid system that both generates power from water naturally flowing into the reservoir as well as storing water pumped back to the reservoir from below the dam. The <a href="/wiki/Grand_Coulee_Dam" title="Grand Coulee Dam">Grand Coulee Dam</a> in the US was expanded with a pump-back system in 1973.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> Existing dams may be repowered with reversing turbines thereby extending the length of time the plant can operate at capacity. Optionally a pump back powerhouse such as the <a href="/wiki/Richard_B._Russell_Dam" title="Richard B. Russell Dam">Russell Dam(1992)</a> may be added to a dam for increased generating capacity. Making use of an existing dams upper reservoir and transmission system can expedite projects and reduce costs.</p>
+<h2><span class="mw-headline" id="Potential_technologies">Potential technologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=5" title="Edit section: Potential technologies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Seawater">Seawater</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=6" title="Edit section: Seawater">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pumped storage plants can operate on <a href="/wiki/Seawater" title="Seawater">seawater</a>, although there are additional challenges involved compared to operation with <a href="/wiki/Fresh_water" title="Fresh water">fresh water</a>. In 1999, the 30 MW <a href="/wiki/Okinawa_Yanbaru_Seawater_Pumped_Storage_Power_Station" title="Okinawa Yanbaru Seawater Pumped Storage Power Station">Yanbaru project</a> in Okinawa was the first demonstration of seawater pumped storage. A 300 MW seawater-based project has recently been proposed on Lanai, Hawaii, and several seawater-based projects have been proposed in <a href="/wiki/Ireland" title="Ireland">Ireland</a> and <a href="/wiki/Chile" title="Chile">Chile</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="Multiple (3x) citations needed. (February 2017)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Direct_pumping">Direct pumping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=7" title="Edit section: Direct pumping">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A new concept is to use <a href="/wiki/Wind_turbine" title="Wind turbine">wind turbines</a> or <a href="/wiki/Solar_power" title="Solar power">solar power</a> to drive water pumps directly. This could provide a more efficient process and usefully smooth out the variability of energy captured from the wind or sun.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> In northern <a href="/wiki/Chile" title="Chile">Chile</a>, the Espejo de Tarapacá project is a power project of <a rel="nofollow" class="external text" href="http://valhalla.cl/">Valhalla</a>, that combines solar and hydroelectric resources. The project takes advantage of the unique geographic characteristics of the Atacama Desert in order to build a 300 MW pumped storage hydroelectric plant that uses the Pacific Ocean as its lower reservoir and an existing natural concavity as its upper reservoir, and a 600 MW-AC solar photovoltaic plant that is located in the region with the highest solar irradiation in the world. The above characteristics minimize the environmental impact and the cost of the plant, which is USD 400 MM for the pumped storage and USD 900 MM for the solar power plant.</p>
+<h3><span class="mw-headline" id="Underground_reservoirs">Underground reservoirs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=8" title="Edit section: Underground reservoirs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The use of underground reservoirs has been investigated. Recent examples include the proposed Summit project in <a href="/wiki/Norton,_Ohio" title="Norton, Ohio">Norton, Ohio</a>, the proposed Maysville project in <a href="/wiki/Kentucky" title="Kentucky">Kentucky</a> (underground limestone mine), and the Mount Hope project in <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>, which was to have used a former iron mine as the lower reservoir. Several new underground pumped storage projects have been proposed. Cost-per-kilowatt estimates for these projects can be lower than for surface projects if they use existing underground mine space. There are limited opportunities involving suitable underground space, but the number of underground pumped storage opportunities may increase if abandoned coal mines prove suitable.</p>
+<h3><span class="mw-headline" id="Decentralised_systems">Decentralised systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=9" title="Edit section: Decentralised systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Small pumped-storage hydropower plants can be built on streams and within infrastructures, such as drinking water networks<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> and artificial snow making infrastructures. Such plants provide distributed <a href="/wiki/Energy_storage" title="Energy storage">energy storage</a> and distributed flexible <a href="/wiki/Electricity_production" class="mw-redirect" title="Electricity production">electricity production</a> and can contribute to the decentralized integration of <a href="/wiki/Intermittent_renewable_energy" class="mw-redirect" title="Intermittent renewable energy">intermittent renewable energy</a> technologies, such as <a href="/wiki/Wind_power" title="Wind power">wind power</a> and <a href="/wiki/Solar_power" title="Solar power">solar power</a>. Reservoirs that can be used for small pumped-storage hydropower plants could include<sup id="cite_ref-Thesis_40-0" class="reference"><a href="#cite_note-Thesis-40">[40]</a></sup> natural or artificial lakes, reservoirs within other structures such as irrigation, or unused portions of mines or underground military installations. In <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> one study suggested that the total installed capacity of small pumped-storage hydropower plants in 2011 could be increased by 3 to 9 times by providing adequate <a href="/wiki/Market-based_environmental_policy_instruments" title="Market-based environmental policy instruments">policy instruments</a>.<sup id="cite_ref-Thesis_40-1" class="reference"><a href="#cite_note-Thesis-40">[40]</a></sup></p>
+<h3><span class="mw-headline" id="Underwater_Reservoirs">Underwater Reservoirs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=10" title="Edit section: Underwater Reservoirs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In March 2017 the research project StEnSea (Storing Energy at Sea) announced their successful completion of a four week test of a pumped storage underwater reservoir. In this configuration a hollow sphere submerged in deep water acts as the lower reservoir while the upper reservoir is the enclosing body of water. When a reversible turbine integrated into the sphere uses surplus electricity to pump water out of the sphere the force of the pump must act on the entire column of water above the sphere, so the deeper the sphere is located, the more potential energy it can store and convert back to electricity by letting water back in via the turbine.</p>
+<p>As such the energy storage capacity of the submerged reservoir is not governed by the <a href="/wiki/Gravitational_energy" title="Gravitational energy">gravitational energy</a> in the traditional sense, but rather by the <a href="/wiki/Vertical_pressure_variation" title="Vertical pressure variation">vertical pressure variation</a>.</p>
+<p>While StEnSea's test took place at a depth of 100&#160;m in the fresh water <a href="/wiki/Lake_Constance" title="Lake Constance">Lake Constance</a>, the technology is foreseen to be used in salt water at greater depths. Since the submerged reservoir needs only a connecting electrical cable, the depth at which it can be employed is limited only by the depth at which the turbine can function, currently limited to 700&#160;m. The challenge of designing salt water pumped storage in this underwater configuration brings a range of advantages:</p>
+<ul>
+<li>No land area is required,</li>
+<li>No mechanical structure other than the electrical cable needs to span the distance of the potential energy difference,</li>
+<li>In the presence of sufficient seabed area multiple reservoirs can scale the storage capacity without limits,</li>
+<li>Should a reservoir collapse, the consequences would be limited apart from the loss of the reservoir itself,</li>
+<li>Evaporation from the upper reservoir has no effect on the energy conversion efficiency,</li>
+<li>Transmission of electricity between the reservoir and the grid can be established from a nearby <a href="/wiki/Offshore_wind_farm" class="mw-redirect" title="Offshore wind farm">offshore wind farm</a> limiting transmission loss and obviating the need for onshore cabling permits.</li>
+</ul>
+<p>A current commercial design featuring a sphere with an inner diameter of 30&#160;m submerged to 700&#160;m would correspond to a 20&#160;MWh capacity which with a 5&#160;MW turbine would lead to a 4 hour discharge time. An energy park with multiple such reservoirs would bring the storage cost to around a few eurocents per kWh with construction and equipment costs in the range 1200-1400 € per kW. To avoid excessive transmission cost and loss, the reservoirs should be placed off deep water coasts of densely populated areas, such as Norway, Spain, USA and Japan. With this limitation the concept would allow for worldwide electricity storage of close to 900&#160;GWh.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></p>
+<p>For comparison, a traditional, gravity-based pumped storage capable of storing 20&#160;MWh in a water reservoir the size of a 30&#160;m sphere would need a <a href="/wiki/Hydraulic_head" title="Hydraulic head">hydraulic head</a> of 519&#160;m with the elevation spanned by a pressurized <a href="/wiki/Plumbing#Water_pipes" title="Plumbing">water pipe</a> requiring typically a hill or mountain for support.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;">
+<ul>
+<li><a href="/wiki/Compressed_air_energy_storage" title="Compressed air energy storage">Compressed air energy storage</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid energy storage</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a></li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/List_of_pumped-storage_hydroelectric_power_stations" title="List of pumped-storage hydroelectric power stations">List of pumped-storage hydroelectric power stations</a></li>
+<li><a href="/wiki/United_States_Department_of_Energy_International_Energy_Storage_Database" class="mw-redirect" title="United States Department of Energy International Energy Storage Database">U.S. DOE – International Energy Storage Database</a></li>
+<li><a href="/wiki/Okinawa_Yanbaru_Seawater_Pumped_Storage_Power_Station" title="Okinawa Yanbaru Seawater Pumped Storage Power Station">Seawater Pumped Storage</a> Okinawa, Japan - Yanbaru</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://poppware.de/Storage_for_a_secure_Power_Supply_from_Wind_and_Sun.pdf">http://poppware.de/Storage_for_a_secure_Power_Supply_from_Wind_and_Sun.pdf</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.researchgate.net/publication/271539381_Pumped_hydro_energy_storage_system_A_technological_review">https://www.researchgate.net/publication/271539381_Pumped_hydro_energy_storage_system_A_technological_review</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.energystorageexchange.org/">"DOE Global Energy Storage Database"</a>. <i>www.energystorageexchange.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.atitle=DOE+Global+Energy+Storage+Database&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energystorageexchange.org%2F&amp;rft.jtitle=www.energystorageexchange.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EconomistPSH-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-EconomistPSH_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.economist.com/node/21548495?frsc=dg%7Ca">"Energy storage - Packing some power"</a>. <i><a href="/wiki/The_Economist" title="The Economist">The Economist</a></i>. 2011-03-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.atitle=Energy+storage+-+Packing+some+power&amp;rft.date=2011-03-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.economist.com%2Fnode%2F21548495%3Ffrsc%3Ddg%257Ca&amp;rft.jtitle=The+Economist&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-thier-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-thier_5-0">^</a></b></span> <span class="reference-text">Jacob, Thierry.<a rel="nofollow" class="external text" href="http://www.stucky.ch/en/contenu/pdf/Pumped_storage_in_Switzerland_Dr_Jacob.pdf">Pumped storage in Switzerland - an outlook beyond 2000</a> <i>Stucky</i>. Accessed: 13 February 2012.</span></li>
+<li id="cite_note-Levine-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Levine_6-0">^</a></b></span> <span class="reference-text">Levine, Jonah G. <a rel="nofollow" class="external text" href="http://www.colorado.edu/engineering/energystorage/files/MSThesis_JGLevine_final.pdf">Pumped Hydroelectric Energy Storage and Spatial Diversity of Wind Resources as Methods of Improving Utilization of Renewable Energy Sources</a> page 6, <i><a href="/wiki/University_of_Colorado" title="University of Colorado">University of Colorado</a></i>, December 2007. Accessed: 12 February 2012.</span></li>
+<li id="cite_note-yang-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-yang_7-0">^</a></b></span> <span class="reference-text">Yang, Chi-Jen. <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?hl=en&amp;lr=&amp;id=TPReBwAAQBAJ&amp;oi=fnd&amp;pg=PA25&amp;dq=info:1fSw0yVikpMJ:scholar.google.com&amp;ots=nOV5mvjb3R&amp;sig=-mVET6C_qQosE11doraPLlwi0e0&amp;redir_esc=y#v=onepage&amp;q&amp;f=false">Pumped Hydroelectric Storage</a> <i><a href="/wiki/Duke_University" title="Duke University">Duke University</a></i>. Accessed: 12 February 2012.</span></li>
+<li id="cite_note-heco-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-heco_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20151118171429/http://www.heco.com/portal/site/heco/menuitem.508576f78baa14340b4c0610c510b1ca/?vgnextoid=94600420af0db110VgnVCM1000005c011bacRCRD&amp;vgnextchannel=ab020420af0db110VgnVCM1000005c011bacRCRD&amp;vgnextfmt=default&amp;vgnextrefresh=1&amp;level=0&amp;ct=article">"Energy Storage"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.heco.com/portal/site/heco/menuitem.508576f78baa14340b4c0610c510b1ca/?vgnextoid=94600420af0db110VgnVCM1000005c011bacRCRD&amp;vgnextchannel=ab020420af0db110VgnVCM1000005c011bacRCRD&amp;vgnextfmt=default&amp;vgnextrefresh=1&amp;level=0&amp;ct=article">the original</a> on 18 November 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.btitle=Energy+Storage&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.heco.com%2Fportal%2Fsite%2Fheco%2Fmenuitem.508576f78baa14340b4c0610c510b1ca%2F%3Fvgnextoid%3D94600420af0db110VgnVCM1000005c011bacRCRD%26vgnextchannel%3Dab020420af0db110VgnVCM1000005c011bacRCRD%26vgnextfmt%3Ddefault%26vgnextrefresh%3D1%26level%3D0%26ct%3Darticle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.europarl.europa.eu/document/activities/cont/201202/20120208ATT37544/20120208ATT37544EN.pdf">European Renewable Energy Network</a> pp. 188</span></li>
+<li id="cite_note-ESA-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-ESA_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://energystorage.org/energy-storage/technologies/pumped-hydroelectric-storage/">"Pumped Hydroelectric Storage | Energy Storage Association"</a>. <i>energystorage.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.atitle=Pumped+Hydroelectric+Storage+%7C+Energy+Storage+Association&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fenergystorage.org%2Fenergy-storage%2Ftechnologies%2Fpumped-hydroelectric-storage%2F&amp;rft.jtitle=energystorage.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ferc-psp-def-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-ferc-psp-def_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ferc.gov/industries/hydropower/gen-info/licensing/pump-storage.asp">"FERC: Hydropower - Pumped Storage Projects"</a>. <i>www.ferc.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.atitle=FERC%3A+Hydropower+-+Pumped+Storage+Projects&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.ferc.gov%2Findustries%2Fhydropower%2Fgen-info%2Flicensing%2Fpump-storage.asp&amp;rft.jtitle=www.ferc.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.iea-pvps.org/products/rep8_02s.htm">Summary Energy from the Desert - Practical Proposals for Very Large Scale Photovoltaic Power Generation (VLS-PV) Systems</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.nrel.gov/docs/fy17osti/67240.pdf">http://www.nrel.gov/docs/fy17osti/67240.pdf</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://reneweconomy.com.au/german-grid-operator-sees-70-wind-solar-storage-needed-35731/">"German grid operator sees 70% wind + solar before storage needed"</a>. <i>Renew Economy</i>. 7 December 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 January</span> 2017</span>. <q>Schucht says, in the region he is operating in, 42 per cent of the power supply (in output, not capacity), came from wind and solar – about the same as South Australia. Schucht believes that integration of 60 to 70 per cent variable renewable energy – just wind and solar – could be accommodated within the German market without the need for additional storage. Beyond that, storage will be needed.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.atitle=German+grid+operator+sees+70%25+wind+%2B+solar+before+storage+needed&amp;rft.date=2015-12-07&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Freneweconomy.com.au%2Fgerman-grid-operator-sees-70-wind-solar-storage-needed-35731%2F&amp;rft.jtitle=Renew+Economy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Dehmer, Dagmar (8 June 2016). <a rel="nofollow" class="external text" href="https://www.euractiv.com/section/energy/interview/german-electricity-transmission-ceo-80-renewables-is-no-problem/">"German electricity transmission CEO: '80% renewables is no problem<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/Der_Tagesspiegel" title="Der Tagesspiegel">Der Tagesspiegel</a> / <a href="/wiki/EurActiv" title="EurActiv">EurActiv</a>.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 February</span> 2017</span>. <q>There are a certain number of myths in the energy industry. One of them is that we need more flexibility in the system to integrate renewables, like energy storage, interruptible loads or backup power plants. That’s a myth. We are well on track to having a system that can accommodate between 70-80% renewable energy without the need for more flexibility options.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.atitle=German+electricity+transmission+CEO%3A+%9880%25+renewables+is+no+problem%99&amp;rft.aufirst=Dagmar&amp;rft.aulast=Dehmer&amp;rft.date=2016-06-08&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.euractiv.com%2Fsection%2Fenergy%2Finterview%2Fgerman-electricity-transmission-ceo-80-renewables-is-no-problem%2F&amp;rft.jtitle=Der+Tagesspiegel+%2F+EurActiv.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-enet42-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-enet42_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://energinet.dk/EN/El/Nyheder/Sider/Dansk-vindstroem-slaar-igen-rekord-42-procent.aspx">"New record-breaking year for Danish wind power"</a>. <a href="/wiki/Energinet.dk" title="Energinet.dk">Energinet.dk</a>. 15 January 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.btitle=New+record-breaking+year+for+Danish+wind+power&amp;rft.date=2016-01-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fenerginet.dk%2FEN%2FEl%2FNyheder%2FSider%2FDansk-vindstroem-slaar-igen-rekord-42-procent.aspx&amp;rft.pub=Energinet.dk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:0-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_17-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">de Oliveira e Silva, Guilherme; Hendrick, Patrick (2016-10-01). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0306261916309874">"Pumped hydro energy storage in buildings"</a>. <i>Applied Energy</i>. <b>179</b>: 1242–1250. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.apenergy.2016.07.046">10.1016/j.apenergy.2016.07.046</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.atitle=Pumped+hydro+energy+storage+in+buildings&amp;rft.aufirst=Guilherme&amp;rft.au=Hendrick%2C+Patrick&amp;rft.aulast=de+Oliveira+e+Silva&amp;rft.date=2016-10-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0306261916309874&amp;rft_id=info%3Adoi%2F10.1016%2Fj.apenergy.2016.07.046&amp;rft.jtitle=Applied+Energy&amp;rft.pages=1242-1250&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=179" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=sigDAAAAMBAJ&amp;pg=PA60&amp;dq=1930+plane+%22Popular&amp;hl=en&amp;ei=zxiVTtztJ-Pr0gGvtu2kBw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CDQQ6AEwATgU#v=onepage&amp;q=1930%20plane%20%22Popular&amp;f=true">"A Ten-Mile Storage Battery."</a> <i>Popular Science</i>, July 1930, p. 60.</span></li>
+<li id="cite_note-eia-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-eia_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-eia_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eia.gov/cfapps/ipdbproject/iedindex3.cfm?tid=2&amp;pid=82&amp;aid=7&amp;cid=regions&amp;syid=2004&amp;eyid=2010&amp;unit=MK">International Energy Statistics</a></span></li>
+<li id="cite_note-epri-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-epri_20-0">^</a></b></span> <span class="reference-text">Rastler et al. <a rel="nofollow" class="external text" href="http://my.epri.com/portal/server.pt?Abstract_id=000000000001020676">Electric Energy Storage Technology Options: A White Paper Primer on Applications, Costs, and Benefits.</a> (Free download) <i><a href="/wiki/EPRI" class="mw-redirect" title="EPRI">EPRI</a></i>, Palo Alto, CA, 2010. Accessed: 30 September 2011. <a rel="nofollow" class="external text" href="http://large.stanford.edu/courses/2012/ph240/doshay1/docs/EPRI.pdf">Mirror</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.eia.doe.gov/oiaf/servicerpt/stimulus/excel/aeostimtab_9.xls">http://www.eia.doe.gov/oiaf/servicerpt/stimulus/excel/aeostimtab_9.xls</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.eia.gov/electricity/monthly/pdf/chap1.pdf">http://www.eia.gov/electricity/monthly/pdf/chap1.pdf</a> Table 1.1</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.energy.gov/sites/prod/files/2015/04/f22/Hydropower-Market-Report-Highlights.pdf">"2014 Hydropower Market Report Highlights"</a> <span style="font-size:85%;">(PDF)</span>. U.S. Department of Energy<span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.btitle=2014+Hydropower+Market+Report+Highlights&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.energy.gov%2Fsites%2Fprod%2Ffiles%2F2015%2F04%2Ff22%2FHydropower-Market-Report-Highlights.pdf&amp;rft.pub=U.S.+Department+of+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.energy.gov/sites/prod/files/2015/05/f22/2014%20Hydropower%20Market%20Report_20150512_rev6.pdf">"2014 Hydropower Market Report"</a> <span style="font-size:85%;">(PDF)</span>. U.S. Department of Energy<span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.btitle=2014+Hydropower+Market+Report&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.energy.gov%2Fsites%2Fprod%2Ffiles%2F2015%2F05%2Ff22%2F2014%2520Hydropower%2520Market%2520Report_20150512_rev6.pdf&amp;rft.pub=U.S.+Department+of+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.dom.com/about/stations/hydro/bath-county-pumped-storage-station.jsp"><i>Bath County Pumped-storage Station</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">2011-12-30</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.btitle=Bath+County+Pumped-storage+Station&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.dom.com%2Fabout%2Fstations%2Fhydro%2Fbath-county-pumped-storage-station.jsp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.industcards.com/ps-china.htm"><i>Pumped-storage hydroelectric power stations in China</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">2010-06-25</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.btitle=Pumped-storage+hydroelectric+power+stations+in+China&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.industcards.com%2Fps-china.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.chincold.org.cn/news/li080321-9-Guangzhou.pdf"><i>Guangzhou Pumped-storage Power Station</i></a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">, retrieved <span class="nowrap">2010-06-25</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.btitle=Guangzhou+Pumped-storage+Power+Station&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.chincold.org.cn%2Fnews%2Fli080321-9-Guangzhou.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mndone-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-mndone_28-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.psp.org.cn:8080/upload/news/n2008101309103489.pdf">List of pumped-storage power plants in China 1 (Mandarin)</a></span></li>
+<li id="cite_note-mndtwo-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-mndtwo_29-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.psp.org.cn:8080/upload/news/n2008101309124620.pdf">List of pumped-storage power plants in China 2 (Mandarin)</a></span></li>
+<li id="cite_note-mndtre-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-mndtre_30-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.psp.org.cn:8080/upload/news/n2008101309031157.pdf">List of pumped-storage power plants in China 3 (Mandarin)</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.power.alstom.com/home/about_us/projects_under_execution/hydro/55239.EN.php"><i>Huizhou Pumped-storage Power Station</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">2010-06-25</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.btitle=Huizhou+Pumped-storage+Power+Station&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.power.alstom.com%2Fhome%2Fabout_us%2Fprojects_under_execution%2Fhydro%2F55239.EN.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.japannuclear.com/files/Electricity%20Review%20Japan%202003-04.pdf">"2003-2004 Electricity Review in Japan"</a> <span style="font-size:85%;">(PDF)</span>. Japan Nuclear<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.btitle=2003-2004+Electricity+Review+in+Japan&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.japannuclear.com%2Ffiles%2FElectricity%2520Review%2520Japan%25202003-04.pdf&amp;rft.pub=Japan+Nuclear&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.bankwatch.org/project.shtml?apc=162059-1972478---1&amp;s=1972478"><i>Dniester Pumped Storage Plant, Ukraine</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">2010-09-01</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.btitle=Dniester+Pumped+Storage+Plant%2C+Ukraine&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bankwatch.org%2Fproject.shtml%3Fapc%3D162059-1972478---1%26s%3D1972478&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://en.for-ua.com/news/2009/12/23/162625.html"><i>Tymoshenko launches the first unit of Dnister Hydroelectric Power Plant</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">2010-09-01</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.btitle=Tymoshenko+launches+the+first+unit+of+Dnister+Hydroelectric+Power+Plant&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fen.for-ua.com%2Fnews%2F2009%2F12%2F23%2F162625.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">Alternative Energy and Shale Gas Encyclopedia page 424</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.solarnavigator.net/alternative_energy.htm">http://www.solarnavigator.net/alternative_energy.htm</a></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.inference.phy.cam.ac.uk/sustainable/refs/tide/WindPumpedStor.pdf">http://www.inference.phy.cam.ac.uk/sustainable/refs/tide/WindPumpedStor.pdf</a> in <a href="/wiki/Renewable_and_Sustainable_Energy_Reviews" title="Renewable and Sustainable Energy Reviews">Renewable and Sustainable Energy Reviews</a></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://poppware.de/Storage_for_a_secure_Power_Supply_from_Wind_and_Sun.pdf">http://poppware.de/Storage_for_a_secure_Power_Supply_from_Wind_and_Sun.pdf</a></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iid.com/water/water-transportation-system/colorado-river-facilities/senator-wash">"Senator Wash"</a>. <i>www.iid.com</i>. Imperial Irrigation District<span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.atitle=Senator+Wash&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iid.com%2Fwater%2Fwater-transportation-system%2Fcolorado-river-facilities%2Fsenator-wash&amp;rft.jtitle=www.iid.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Thesis-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-Thesis_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Thesis_40-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Crettenand, N. (2012) "The facilitation of mini and small hydropower in Switzerland: shaping the institutional framework. With a particular focus on storage and pumped-storage schemes". Ecole Polytechnique Fédérale de Lausanne (EPFL). PhD Thesis N° 5356. <a rel="nofollow" class="external free" href="http://infoscience.epfl.ch/record/176337?ln=en">http://infoscience.epfl.ch/record/176337?ln=en</a></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forschung-energiespeicher.info/en/projektschau/gesamtliste/projekt-einzelansicht/95/Kugelpumpspeicher_unter_Wasser/">"Storing energy at sea"</a>. <i>forschung-energiespeicher.info</i>. 2016-10-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.atitle=Storing+energy+at+sea&amp;rft.date=2016-10-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fforschung-energiespeicher.info%2Fen%2Fprojektschau%2Fgesamtliste%2Fprojekt-einzelansicht%2F95%2FKugelpumpspeicher_unter_Wasser%2F&amp;rft.jtitle=forschung-energiespeicher.info&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.energiesystemtechnik.iwes.fraunhofer.de/de/presse-infothek/Presse-Medien/Pressemitteilungen/2016/energiespeicher-von-morgen-stensea.html">"Unterwasser-Pumpspeicherkraftwerk erfolgreich getestet" [Underwater Pumped Storage Powerplant successfully tested]</a>. <i><a href="/wiki/Fraunhofer_Society" title="Fraunhofer Society">Fraunhofer</a> Institute for Wind Energy and Energy System Technology</i> (in German). 2017-03-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APumped-storage+hydroelectricity&amp;rft.atitle=Unterwasser-Pumpspeicherkraftwerk+erfolgreich+getestet&amp;rft.date=2017-03-03&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.energiesystemtechnik.iwes.fraunhofer.de%2Fde%2Fpresse-infothek%2FPresse-Medien%2FPressemitteilungen%2F2016%2Fenergiespeicher-von-morgen-stensea.html&amp;rft.jtitle=Fraunhofer+Institute+for+Wind+Energy+and+Energy+System+Technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Pumped-storage_hydroelectric_power_plants" class="extiw" title="commons:Category:Pumped-storage hydroelectric power plants">Pumped-storage hydroelectric power plants</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://dmoztools.net//Science/Technology/Energy/Storage/Pumped_Storage">Pumped-storage hydroelectricity</a> at <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.electricalpowerenergy.com/2017/01/pumped-storage-hydro-power-plant/">Pumped Storage Hydro Power Plant</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible show navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%;margin:0 4em"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Home_Energy_Storage" title="Home Energy Storage">Home energy storage</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Utility_frequency" title="Utility frequency">Utility frequency</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Mains_electricity_by_country" title="Mains electricity by country">Mains electricity by country</a></li>
+<li><strong class="selflink">Pumped hydro</strong></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Hydropower" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hydropower" title="Template:Hydropower"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hydropower" title="Template talk:Hydropower"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hydropower&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Hydropower" style="font-size:114%;margin:0 4em"><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a> generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dam" title="Dam">Dam</a></li>
+<li><a href="/wiki/List_of_conventional_hydroelectric_power_stations" title="List of conventional hydroelectric power stations">List of conventional hydroelectric power stations</a></li>
+<li><strong class="selflink">Pumped-storage hydroelectricity</strong></li>
+<li><a href="/wiki/Small_hydro" title="Small hydro">Small hydro</a></li>
+<li><a href="/wiki/Micro_hydro" title="Micro hydro">Micro hydro</a></li>
+<li><a href="/wiki/Pico_hydro" title="Pico hydro">Pico hydro</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:ThreeGorgesDam-China2009.jpg" class="image"><img alt="ThreeGorgesDam-China2009.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/100px-ThreeGorgesDam-China2009.jpg" width="100" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/150px-ThreeGorgesDam-China2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/200px-ThreeGorgesDam-China2009.jpg 2x" data-file-width="2847" data-file-height="1768" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a> equipment</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Francis_turbine" title="Francis turbine">Francis turbine</a></li>
+<li><a href="/wiki/Kaplan_turbine" title="Kaplan turbine">Kaplan turbine</a></li>
+<li><a href="/wiki/Tyson_turbine" title="Tyson turbine">Tyson turbine</a></li>
+<li><a href="/wiki/Gorlov_helical_turbine" title="Gorlov helical turbine">Gorlov helical turbine</a></li>
+<li><a href="/wiki/Pelton_wheel" title="Pelton wheel">Pelton wheel</a></li>
+<li><a href="/wiki/Turgo_turbine" title="Turgo turbine">Turgo turbine</a></li>
+<li><a href="/wiki/Cross-flow_turbine" title="Cross-flow turbine">Banki turbine</a></li>
+<li><a href="/wiki/Water_wheel" title="Water wheel">Water wheel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4176364-6">4176364-6</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/01172748">01172748</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1186
+Cached time: 20170314235329
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.384 seconds
+Real time usage: 0.462 seconds
+Preprocessor visited node count: 2251/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 88568/2097152 bytes
+Template argument size: 1898/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.153/10.000 seconds
+Lua memory usage: 5.68 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  377.502      1 -total
+ 35.19%  132.848      1 Template:Reflist
+ 18.94%   71.482     13 Template:Cite_web
+ 12.97%   48.952      1 Template:Citation_needed
+ 11.59%   43.749      1 Template:Fix
+  7.83%   29.541      3 Template:Navbox
+  7.46%   28.164      1 Template:Redirect
+  7.26%   27.414      2 Template:Category_handler
+  6.83%   25.796      1 Template:Electricity_generation
+  6.34%   23.922      5 Template:Coord
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:277237-0!*!0!!en!4!* and timestamp 20170314235328 and revision id 769756758
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pumped-storage_hydroelectricity&amp;oldid=769756758">https://en.wikipedia.org/w/index.php?title=Pumped-storage_hydroelectricity&amp;oldid=769756758</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Dams" title="Category:Dams">Dams</a></li><li><a href="/wiki/Category:Energy_storage" title="Category:Energy storage">Energy storage</a></li><li><a href="/wiki/Category:Pumped-storage_hydroelectric_power_stations" title="Category:Pumped-storage hydroelectric power stations">Pumped-storage hydroelectric power stations</a></li><li><a href="/wiki/Category:Water_conservation" title="Category:Water conservation">Water conservation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2017" title="Category:Articles with unsourced statements from February 2017">Articles with unsourced statements from February 2017</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_DMOZ_links" title="Category:Articles with DMOZ links">Articles with DMOZ links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pumped-storage+hydroelectricity" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pumped-storage+hydroelectricity" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pumped-storage_hydroelectricity"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Pumped-storage_hydroelectricity"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Pumped-storage_hydroelectricity" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pumped-storage_hydroelectricity" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pumped-storage_hydroelectricity" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;oldid=769756758" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q339353" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pumped-storage_hydroelectricity&amp;id=769756758" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pumped-storage+hydroelectricity">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Pumped-storage+hydroelectricity&amp;returnto=Pumped-storage+hydroelectricity&amp;oldid=769756758&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pumped-storage_hydroelectricity&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Pumped-storage_hydroelectric_power_plants" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Pomp-opgaarskema" title="Pomp-opgaarskema – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%90%D0%92%D0%95%D0%A6" title="ПАВЕЦ – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Central_hidroel%C3%A8ctrica_reversible" title="Central hidroelèctrica reversible – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/P%C5%99e%C4%8Derp%C3%A1vac%C3%AD_vodn%C3%AD_elektr%C3%A1rna" title="Přečerpávací vodní elektrárna – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Pumpspeicherkraftwerk" title="Pumpspeicherkraftwerk – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Central_hidroel%C3%A9ctrica_reversible" title="Central hidroeléctrica reversible – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Pumprezerva_akvoenergia_centralo" title="Pumprezerva akvoenergia centralo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87_%D8%AA%D9%84%D9%85%D8%A8%D9%87_%D8%B0%D8%AE%DB%8C%D8%B1%D9%87%E2%80%8C%D8%A7%DB%8C" title="نیروگاه تلمبه ذخیره‌ای – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Pompage-turbinage" title="Pompage-turbinage – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%96%91%EC%88%98_%EB%B0%9C%EC%A0%84" title="양수 발전 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Reverzibilne_hidroelektrane" title="Reverzibilne hidroelektrane – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Centrale_idroelettrica#Centrali_con_impianti_ad_accumulazione" title="Centrale idroelettrica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94_%D7%A9%D7%90%D7%95%D7%91%D7%94" title="אנרגיה שאובה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D1%83_%D0%B0%D0%B9%D0%B4%D1%8B%D0%BD%D1%8B" title="Су айдыны – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Hidroakumul%C4%81cijas_elektrostacija" title="Hidroakumulācijas elektrostacija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Hidroakumuliacin%C4%97_elektrin%C4%97" title="Hidroakumuliacinė elektrinė – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%89%E0%A4%A6%E0%A4%82%E0%A4%9A%E0%A4%A8_%E0%A4%9C%E0%A4%B2%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA" title="उदंचन जलविद्युत प्रकल्प – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Pompcentrale" title="Pompcentrale – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%8F%9A%E6%B0%B4%E7%99%BA%E9%9B%BB" title="揚水発電 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Pumpekraftverk" title="Pumpekraftverk – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Elektrownia_szczytowo-pompowa" title="Elektrownia szczytowo-pompowa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Central_hidroel%C3%A9ctrica_revers%C3%ADvel" title="Central hidroeléctrica reversível – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B0%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Гидроаккумулирующая электростанция – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Pre%C4%8Derp%C3%A1vacia_vodn%C3%A1_elektr%C3%A1re%C5%88" title="Prečerpávacia vodná elektráreň – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/%C4%8Crpalna_hidroelektrarna" title="Črpalna hidroelektrarna – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Pumppuvoimalaitos" title="Pumppuvoimalaitos – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Pumpkraftverk" title="Pumpkraftverk – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B4%D1%80%D0%BE%D0%B0%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8E%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%8F" title="Гідроакумулювальна електростанція – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Thu%E1%BB%B7_%C4%91i%E1%BB%87n_t%C3%ADch_n%C4%83ng" title="Thuỷ điện tích năng – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%8A%BD%E6%B0%B4%E8%93%84%E8%83%BD%E7%94%B5%E7%AB%99" title="抽水蓄能电站 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q339353#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 March 2017, at 13:24.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pumped-storage_hydroelectricity&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.462","ppvisitednodes":{"value":2251,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":88568,"limit":2097152},"templateargumentsize":{"value":1898,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  377.502      1 -total"," 35.19%  132.848      1 Template:Reflist"," 18.94%   71.482     13 Template:Cite_web"," 12.97%   48.952      1 Template:Citation_needed"," 11.59%   43.749      1 Template:Fix","  7.83%   29.541      3 Template:Navbox","  7.46%   28.164      1 Template:Redirect","  7.26%   27.414      2 Template:Category_handler","  6.83%   25.796      1 Template:Electricity_generation","  6.34%   23.922      5 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.153","limit":"10.000"},"limitreport-memusage":{"value":5959460,"limit":52428800}},"cachereport":{"origin":"mw1186","timestamp":"20170314235329","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":562,"wgHostname":"mw1186"});});</script>
+	</body>
+</html>

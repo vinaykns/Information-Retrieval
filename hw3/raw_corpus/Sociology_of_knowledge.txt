@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Sociology of knowledge - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sociology_of_knowledge","wgTitle":"Sociology of knowledge","wgCurRevisionId":762150562,"wgRevisionId":762150562,"wgArticleId":59157,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Articles needing additional references from May 2010","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from February 2012","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from February 2012","Commons category with local link different than on Wikidata","Subfields of sociology","Social epistemology","Sociology of knowledge","Émile Durkheim"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sociology_of_knowledge","wgRelevantArticleId":59157,"wgRequestId":"WMY4PwpAEKkAAFoKxjwAAAAD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q847486","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Classical_definition_of_Kno.svg/1200px-Classical_definition_of_Kno.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sociology_of_knowledge"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sociology_of_knowledge"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sociology_of_knowledge rootpage-Sociology_of_knowledge skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Sociology of knowledge</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Sociology_of_knowledge&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Classical_definition_of_Kno.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Classical_definition_of_Kno.svg/300px-Classical_definition_of_Kno.svg.png" width="300" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Classical_definition_of_Kno.svg/450px-Classical_definition_of_Kno.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Classical_definition_of_Kno.svg/600px-Classical_definition_of_Kno.svg.png 2x" data-file-width="512" data-file-height="342" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Classical_definition_of_Kno.svg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Venn_diagram" title="Venn diagram">Venn diagram</a> simplification of <a href="/wiki/Plato" title="Plato">Plato</a>'s definition of knowledge</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Sociology" title="Sociology">Sociology</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Social_Network_Diagram_(segment).svg" class="image"><img alt="Social Network Diagram (segment).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/250px-Social_Network_Diagram_%28segment%29.svg.png" width="250" height="97" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/375px-Social_Network_Diagram_%28segment%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/500px-Social_Network_Diagram_%28segment%29.svg.png 2x" data-file-width="670" data-file-height="260" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;">
+<ul>
+<li><a href="/wiki/History_of_sociology" title="History of sociology">History</a></li>
+<li><a href="/wiki/Outline_of_sociology" title="Outline of sociology">Outline</a></li>
+<li><a href="/wiki/Portal:Sociology" title="Portal:Sociology">Portal</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em"><a href="/wiki/Sociological_theory" title="Sociological theory">Theory</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;">
+<ul>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a></li>
+<li><a href="/wiki/Antipositivism" title="Antipositivism">Antipositivism</a></li>
+<li><a href="/wiki/Postpositivism" title="Postpositivism">Postpositivism</a></li>
+<li><a href="/wiki/Structural_functionalism" title="Structural functionalism">Functionalism</a></li>
+<li><a href="/wiki/Conflict_theories" title="Conflict theories">Conflict theories</a></li>
+<li><a href="/wiki/Social_constructionism" title="Social constructionism">Social constructionism</a></li>
+<li><a href="/wiki/Structuralism" title="Structuralism">Structuralism</a></li>
+<li><a href="/wiki/Interactionism" title="Interactionism">Interactionism</a></li>
+<li><a href="/wiki/Critical_theory" title="Critical theory">Critical theory</a></li>
+<li><a href="/wiki/Structure_and_agency" title="Structure and agency">Structure and agency</a></li>
+<li><a href="/wiki/Actor%E2%80%93network_theory" title="Actor–network theory">Actor–network theory</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em"><a href="/wiki/Social_research" title="Social research">Methods</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;">
+<ul>
+<li><a href="/wiki/Quantitative_research" title="Quantitative research">Quantitative</a></li>
+<li><a href="/wiki/Qualitative_research" title="Qualitative research">Qualitative</a></li>
+<li><a href="/wiki/Comparative_historical_research" title="Comparative historical research">Historical</a></li>
+<li><a href="/wiki/Mathematical_sociology" title="Mathematical sociology">Mathematical</a></li>
+<li><a href="/wiki/Computational_sociology" title="Computational sociology">Computational</a></li>
+<li><a href="/wiki/Ethnography" title="Ethnography">Ethnography</a></li>
+<li><a href="/wiki/Ethnomethodology" title="Ethnomethodology">Ethnomethodology</a></li>
+<li><a href="/wiki/Social_network_analysis" title="Social network analysis">Network analysis</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em"><a href="/wiki/Subfields_of_sociology" class="mw-redirect" title="Subfields of sociology">Subfields</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;">
+<ul>
+<li><a href="/wiki/Social_conflict" title="Social conflict">Conflict</a></li>
+<li><a href="/wiki/Criminology" title="Criminology">Criminology</a></li>
+<li><a href="/wiki/Sociology_of_culture" title="Sociology of culture">Culture</a></li>
+<li><a href="/wiki/Development_theory" title="Development theory">Development</a></li>
+<li><a href="/wiki/Deviance_(sociology)" title="Deviance (sociology)">Deviance</a></li>
+<li><a href="/wiki/Demography" title="Demography">Demography</a></li>
+<li><a href="/wiki/Sociology_of_education" title="Sociology of education">Education</a></li>
+<li><a href="/wiki/Economic_sociology" title="Economic sociology">Economic</a></li>
+<li><a href="/wiki/Environmental_sociology" title="Environmental sociology">Environmental</a></li>
+<li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Family</a></li>
+<li><a href="/wiki/Sociology_of_gender" title="Sociology of gender">Gender</a></li>
+<li><a href="/wiki/Sociology_of_health_and_illness" title="Sociology of health and illness">Health</a></li>
+<li><a href="/wiki/Industrial_sociology" title="Industrial sociology">Industrial</a></li>
+<li><a href="/wiki/Social_inequality" title="Social inequality">Inequality</a></li>
+<li><strong class="selflink">Knowledge</strong></li>
+<li><a href="/wiki/Sociology_of_law" title="Sociology of law">Law</a></li>
+<li><a href="/wiki/Sociology_of_literature" title="Sociology of literature">Literature</a></li>
+<li><a href="/wiki/Medical_sociology" title="Medical sociology">Medical</a></li>
+<li><a href="/wiki/Military_sociology" title="Military sociology">Military</a></li>
+<li><a href="/wiki/Organizational_theory" title="Organizational theory">Organizational</a></li>
+<li><a href="/wiki/Political_sociology" title="Political sociology">Political</a></li>
+<li><a href="/wiki/Sociology_of_race_and_ethnic_relations" title="Sociology of race and ethnic relations">Race and ethnicity</a></li>
+<li><a href="/wiki/Sociology_of_religion" title="Sociology of religion">Religion</a></li>
+<li><a href="/wiki/Rural_sociology" title="Rural sociology">Rural</a></li>
+<li><a href="/wiki/Sociology_of_scientific_knowledge" title="Sociology of scientific knowledge">Science</a></li>
+<li><a href="/wiki/Social_change" title="Social change">Social change</a></li>
+<li><a href="/wiki/Social_movement" title="Social movement">Social movements</a></li>
+<li><a href="/wiki/Social_psychology_(sociology)" title="Social psychology (sociology)">Social psychology</a></li>
+<li><a href="/wiki/Social_stratification" title="Social stratification">Stratification</a></li>
+<li><a href="/wiki/Science_and_technology_studies" class="mw-redirect" title="Science and technology studies">STS</a></li>
+<li><a href="/wiki/Social_construction_of_technology" title="Social construction of technology">Technology</a></li>
+<li><a href="/wiki/Urban_sociology" title="Urban sociology">Urban</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em"><a href="/wiki/Index_of_sociology_articles" title="Index of sociology articles">Browse</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;">
+<ul>
+<li><a href="/wiki/Bibliography_of_sociology" title="Bibliography of sociology">Bibliography</a></li>
+<li><a href="/wiki/Category:Sociology_by_country" title="Category:Sociology by country">By country</a></li>
+<li><a href="/wiki/Index_of_sociology_articles" title="Index of sociology articles">Index</a></li>
+<li><a href="/wiki/List_of_sociology_journals" title="List of sociology journals">Journals</a></li>
+<li><a href="/wiki/List_of_sociological_associations" title="List of sociological associations">Organizations</a></li>
+<li><a href="/wiki/List_of_sociologists" title="List of sociologists">People</a></li>
+<li><a href="/wiki/Timeline_of_sociology" title="Timeline of sociology">Timeline</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sociology" title="Template:Sociology"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sociology" title="Template talk:Sociology"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sociology&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>sociology of knowledge</b> is the study of the relationship between human <a href="/wiki/Thought" title="Thought">thought</a> and the social context within which it arises, and of the effects prevailing ideas have on societies. It is not a specialized area of <a href="/wiki/Sociology" title="Sociology">sociology</a> but instead deals with broad fundamental questions about the extent and limits of social influences on individuals' lives and the social-cultural basics of our <a href="/wiki/Knowledge" title="Knowledge">knowledge</a> about the world.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Complementary to the sociology of knowledge is the sociology of ignorance,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> including the study of nescience, ignorance, knowledge gaps, or non-knowledge as inherent features of knowledge making.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The sociology of knowledge was pioneered primarily by the sociologist <a href="/wiki/%C3%89mile_Durkheim" title="Émile Durkheim">Émile Durkheim</a> at beginning of the 20th century. His work deals directly with how conceptual thought, language, and logic could be influenced by the sociological milieu out of which they arise. In an early work co-written with <a href="/wiki/Marcel_Mauss" title="Marcel Mauss">Marcel Mauss</a>, <i>Primitive Classification</i>, Durkheim and Mauss take a study of "primitive" group mythology to argue that systems of classification are collectively based and that the divisions with these systems are derived from social categories.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Later, Durkheim in <i><a href="/wiki/The_Elementary_Forms_of_the_Religious_Life" title="The Elementary Forms of the Religious Life">The Elementary Forms of the Religious Life</a></i> would elaborate his theory of knowledge, examining how language and the concepts and categories (such as space and time) used in logical thought have a sociological origin. While neither Durkheim, nor Mauss, specifically coined nor used the term 'sociology of knowledge', their work is an important first contribution to the field.</p>
+<p>The specific term 'sociology of knowledge' is said to have been in widespread use since the 1920s, when a number of German-speaking <a href="/wiki/Sociology" title="Sociology">sociologists</a>, most notably <a href="/wiki/Max_Scheler" title="Max Scheler">Max Scheler</a> and <a href="/wiki/Karl_Mannheim" title="Karl Mannheim">Karl Mannheim</a>, wrote extensively on sociological aspects of knowledge.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> With the dominance of <a href="/wiki/Functionalism_(sociology)" class="mw-redirect" title="Functionalism (sociology)">functionalism</a> through the middle years of the 20th century, the sociology of knowledge tended to remain on the periphery of mainstream sociological thought. It was largely reinvented and applied much more closely to everyday life in the 1960s, particularly by <a href="/wiki/Peter_L._Berger" title="Peter L. Berger">Peter L. Berger</a> and <a href="/wiki/Thomas_Luckmann" title="Thomas Luckmann">Thomas Luckmann</a> in <i><a href="/wiki/The_Social_Construction_of_Reality" title="The Social Construction of Reality">The Social Construction of Reality</a></i> (1966) and is still central for methods dealing with qualitative understanding of human society (compare <i><a href="/wiki/Socially_constructed_reality" class="mw-redirect" title="Socially constructed reality">socially constructed reality</a></i>). The 'genealogical' and 'archaeological' studies of <a href="/wiki/Michel_Foucault" title="Michel Foucault">Michel Foucault</a> are of considerable contemporary influence.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_Enlightenment"><span class="tocnumber">1.1</span> <span class="toctext">The Enlightenment</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Earlier_viewpoints"><span class="tocnumber">1.2</span> <span class="toctext">Earlier viewpoints</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Schools"><span class="tocnumber">2</span> <span class="toctext">Schools</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#.C3.89mile_Durkheim"><span class="tocnumber">2.1</span> <span class="toctext">Émile Durkheim</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Karl_Mannheim"><span class="tocnumber">2.2</span> <span class="toctext">Karl Mannheim</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Phenomenological_sociology"><span class="tocnumber">2.3</span> <span class="toctext">Phenomenological sociology</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Michel_Foucault"><span class="tocnumber">2.4</span> <span class="toctext">Michel Foucault</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Knowledge_ecology"><span class="tocnumber">2.5</span> <span class="toctext">Knowledge ecology</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#New_Sociology_of_Knowledge"><span class="tocnumber">2.6</span> <span class="toctext">New Sociology of Knowledge</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Robert_K._Merton"><span class="tocnumber">2.7</span> <span class="toctext">Robert K. Merton</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Legitimation_Code_Theory"><span class="tocnumber">2.8</span> <span class="toctext">Legitimation Code Theory</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Sociologists_of_knowledge"><span class="tocnumber">3.1</span> <span class="toctext">Sociologists of knowledge</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Notes"><span class="tocnumber">4.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Further_reading"><span class="tocnumber">4.2</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_Enlightenment">The Enlightenment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=2" title="Edit section: The Enlightenment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Age_of_Enlightenment" title="Age of Enlightenment">The Enlightenment</a> movement ought not to be underestimated in its influence upon the social sciences. When these philosophers worked towards a scientific analysis of society, they were engaged in a sociology of ideas and values, albeit their own commitment was to critical rationalism. The Enlightenment strove for progress, change, <a href="/wiki/Secularism" title="Secularism">secularism</a>, but above all, to freedom, the freedom for individuals to decide their own fate. There was a commitment to practical science with humankind at the centre (as opposed to God or gods) and this is the real source of social science. This new science was not interested in revealed knowledge or <i>a priori</i> knowledge but in the workings of humanity: human practices, and social variety and regularities. Western thought, therefore, received a significant movement towards cultural relativism, where cross-cultural comparison became the dominant methodology. Importantly, social science was created by philosophers who sought to turn ideas into actions and to unite theory and practice in an attempt to restructure society as a whole.</p>
+<h3><span class="mw-headline" id="Earlier_viewpoints">Earlier viewpoints</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=3" title="Edit section: Earlier viewpoints">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sociology of knowledge requires a certain viewpoint which was first expounded by <a href="/wiki/Giambattista_Vico" title="Giambattista Vico">Giambattista Vico</a> in his <i><a href="/wiki/The_New_Science" title="The New Science">New Science</a></i>, written in the early 18th Century, a great deal before the first sociologists study the relationship between knowledge and society. In this book, a justification for a new historical and sociological methodology, the main point is that the natural world and the social world are known in different ways. The former is known through external or empirical methods, whilst the latter can be known internally as well as externally. In other words, human history is a construct. This creates a key epistemological distinction between the natural world and the social world which is a central concept in the social sciences. Primarily focused on <a href="/wiki/Historicism" title="Historicism">historical methodology</a>, Vico asserts that in order to study a society's history it is necessary to move beyond a chronicle of events by examining the cultural elements of the society, what was termed the "civil world". This "civil world", made up of actions, thoughts, ideas, myths, norms, religious beliefs, and institutions, is the product of the human mind. Since these elements are socially constructed, they can be better understood than the physical world, understood as it is in abstraction. Vico highlights that human nature and its products are not fixed entities and therefore necessitate an historical perspective which emphasizes the changes and developments implicit in individuals and societies. He also emphasizes the dialectical relationship between society and culture as key in this new historical perspective.</p>
+<p>Vico's ideas, whilst permeated by his own penchant for etymology, and a theory of cyclical history (<i>corsi e ricorsi),</i> are significant nonetheless for the underlying premise that our understanding and knowledge of social structure is dependent upon the ideas and concepts we employ and the language used. Vico, mostly unknown in his own time, was the first to establish the foundations of a sociology of knowledge even if his concepts were not necessarily picked up by later writers. There is some evidence that <a href="/wiki/Montesquieu" title="Montesquieu">Montesquieu</a> and <a href="/wiki/Karl_Marx" title="Karl Marx">Karl Marx</a> had read Vico's work.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> However the similarities in their works are superficial, limited mainly to the overall conception of their projects, characterised by cultural relativisim and historicism.</p>
+<h2><span class="mw-headline" id="Schools">Schools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=4" title="Edit section: Schools">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id=".C3.89mile_Durkheim">Émile Durkheim</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=5" title="Edit section: Émile Durkheim">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/%C3%89mile_Durkheim" title="Émile Durkheim">Émile Durkheim</a></div>
+<p><a href="/wiki/%C3%89mile_Durkheim" title="Émile Durkheim">Émile Durkheim</a> (1858–1917) is credited as having been the first professor to successfully establish the field of sociology, institutionalizing a department of sociology at the Université de Bordeaux in the 1890s.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> While his works deal with a number of subjects, including suicide, the family, social structures, and social institutions, a large part of his work deals with the sociology of knowledge.</p>
+<p>While publishing short articles on the subject earlier in his career (for example the essay <i>De quelques formes primitives de classification</i> written in 1902 with Marcel Mauss), Durkheim's definitive statement concerning the sociology of knowledge comes in his 1912 magnum opus <i><a href="/wiki/The_Elementary_Forms_of_Religious_Life" class="mw-redirect" title="The Elementary Forms of Religious Life">The Elementary Forms of Religious Life</a></i>. This book has as its goal not only the elucidation of the social origins and function of religion, but also the social origins and impact of society on language and logical thought. Durkheim worked largely out of a Kantian framework and sought to understand how the concepts and categories of logical thought could arise out of social life. He argued, for example, that the categories of space and time were not <i><a href="/wiki/A_priori_knowledge" class="mw-redirect" title="A priori knowledge">a priori</a></i>. Rather, the category of space depends on a society's social grouping and geographical use of space, and a group's social rhythm that determines our understanding of time.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> In this Durkheim sought to combine elements of <a href="/wiki/Rationalism" title="Rationalism">rationalism</a> and <a href="/wiki/Empiricism" title="Empiricism">empiricism</a>, arguing that certain aspects of logical thought common to all humans did exist, but that they were products of collective life (thus contradicting the tabula rasa empiricist understanding whereby categories are acquired by individual experience alone), and that they were not universal <i>a priori</i> truths (as <a href="/wiki/Kant" class="mw-redirect" title="Kant">Kant</a> argued) since the content of the categories differed from society to society.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>Another key elements to Durkheim's theory of knowledge is his concept of <i>représentations collectives</i> (<a href="/wiki/Collective_representations" class="mw-redirect" title="Collective representations">collective representations</a>), which is outlined in <i><a href="/wiki/The_Elementary_Forms_of_the_Religious_Life" title="The Elementary Forms of the Religious Life">The Elementary Forms of the Religious Life</a></i>. <i>Représentations collectives</i> are the symbols and images that come to represent the ideas, beliefs, and values elaborated by a collectivity and are not reducible to individual constituents. They can include words, slogans, ideas, or any number of material items that can serve as a symbol, such as a cross, a rock, a temple, a feather etc. As Durkheim elaborates, <i>représentations collectives</i> are created through intense social interaction and are products of collective activity. As such these representations have the particular, and somewhat contradictory, aspect that they exist externally to the individual (since they are created and controlled not by the individual but by society as a whole), and yet simultaneously within each individual of the society (by virtue of that individual's participation within society).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Arguably the most important "représentation collective" is <a href="/wiki/Language" title="Language">language</a>, which according to Durkheim is a product of collective action. And because language is a collective action, language contains within it a history of accumulated knowledge and experience that no individual would be capable of creating on their own. As Durkheim says, 'représentations collectives', and language in particular,&#160;:</p>
+<dl>
+<dd>"add to that which we can learn by our own personal experience all that wisdom and science which the group has accumulated in the course of centuries. Thinking by concepts, is not merely seeing reality on its most general side, but it is projecting a light upon the sensation which illuminates it, penetrates it and transforms it.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> "</dd>
+</dl>
+<p>As such, language, as a social product, literally structures and shapes our experience of reality, an idea developed by later French philosophers, such as <a href="/wiki/Michel_Foucault" title="Michel Foucault">Michel Foucault</a>.</p>
+<h3><span class="mw-headline" id="Karl_Mannheim">Karl Mannheim</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=6" title="Edit section: Karl Mannheim">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Karl_Mannheim" title="Karl Mannheim">Karl Mannheim</a></div>
+<p>The German political philosophers <a href="/wiki/Karl_Marx" title="Karl Marx">Karl Marx</a> (1818–1883) and <a href="/wiki/Friedrich_Engels" title="Friedrich Engels">Friedrich Engels</a> (1820–1895) argued in <i>Die deutsche Ideologie</i> (1846, <i>German Ideology</i>) and elsewhere that people's <a href="/wiki/Ideology" title="Ideology">ideologies</a>, including their social and political beliefs and opinions, are rooted in their <a href="/wiki/Social_class" title="Social class">class</a> interests, and more broadly in the social and economic circumstances in which they live:</p>
+<dl>
+<dd>"It is men, who in developing their material inter-course, change, along with this their real existence, their thinking and the products of their thinking. Being is not determined by consciousness, but consciousness by being" (<i>Marx-Engels Gesamtausgabe</i> 1/5).</dd>
+</dl>
+<p>Under the influence of this doctrine, and of <a href="/wiki/Phenomenology_(philosophy)" title="Phenomenology (philosophy)">Phenomenology</a>, the Hungarian-born German sociologist <a href="/wiki/Karl_Mannheim" title="Karl Mannheim">Karl Mannheim</a> (1893–1947) gave impetus to the growth of the sociology of knowledge with his <i>Ideologie und Utopie</i> (1929, translated and extended in 1936 as <i>Ideology and Utopia</i>), although the term had been introduced five years earlier by the co-founder of the movement, the German philosopher, phenomenologist and social theorist <a href="/wiki/Max_Scheler" title="Max Scheler">Max Scheler</a> (1874–1928), in <i>Versuche zu einer Soziologie des Wissens</i> (1924, <i>Attempts at a Sociology of Knowledge</i>).</p>
+<p>Mannheim feared that this interpretation could be seen to claim that all knowledge and beliefs are the products of socio-political forces since this form of <a href="/wiki/Relativism" title="Relativism">relativism</a> is self-defeating (if it is true, then it too is merely a product of socio-political forces and has no claim to truth and no persuasive force). Mannheim believed that <a href="/wiki/Relativism" title="Relativism">relativism</a> was a strange mixture of modern and ancient beliefs in that it contained within itself a belief in an absolute truth which was true for all times and places (the ancient view most often associated with <a href="/wiki/Plato" title="Plato">Plato</a>) and condemned other truth claims because they could not achieve this level of objectivity (an idea gleaned from <a href="/wiki/Marx" class="mw-redirect" title="Marx">Marx</a>). Mannheim sought to escape this problem with the idea of 'relationism'. This is the idea that certain things are true only in certain times and places (a view influenced by <a href="/wiki/Pragmatism" title="Pragmatism">pragmatism</a>) however, this does not make them less true. Mannheim felt that a stratum of free-floating intellectuals (who he claimed were only loosely anchored to the class structure of society) could most perfectly realize this form of truth by creating a "dynamic synthesis" of the ideologies of other groups.</p>
+<h3><span class="mw-headline" id="Phenomenological_sociology">Phenomenological sociology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=7" title="Edit section: Phenomenological sociology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Phenomenological_sociology" title="Phenomenological sociology">Phenomenological sociology</a> is the study of the formal structures of concrete social existence as made available in and through the analytical description of acts of intentional consciousness. The "object" of such an analysis is the meaningful lived world of everyday life: the "Lebenswelt", or <a href="/wiki/Life-world" class="mw-redirect" title="Life-world">life-world</a> (Husserl:1889). The task, like that of every other phenomenological investigation, is to describe the formal structures of this object of investigation in subjective terms, as an object-constituted-in-and-for-consciousness (Gurwitsch:1964). That which makes such a description different from the "naive" subjective descriptions of the man in the street, or those of the traditional, positivist social scientist, is the utilization of phenomenological methods.</p>
+<p>The leading proponent of phenomenological sociology was <a href="/wiki/Alfred_Schutz" class="mw-redirect" title="Alfred Schutz">Alfred Schütz</a> (1899–1959). Schütz sought to provide a critical philosophical foundation for <a href="/wiki/Max_Weber" title="Max Weber">Max Weber</a>'s interpretive sociology through the use of phenomenological methods derived from the transcendental phenomenological investigations of <a href="/wiki/Edmund_Husserl" title="Edmund Husserl">Edmund Husserl</a> (1859–1938). Husserl's work was directed at establishing the formal structures of intentional <a href="/wiki/Consciousness" title="Consciousness">consciousness</a>. Schütz's work was directed at establishing the formal structures of the Life-world (Schütz:1980). Husserl's work was conducted as a transcendental phenomenology of consciousness. Schütz's work was conducted as a mundane phenomenology of the Life-world (Natanson:1974). The difference in their research projects lies at the level of analysis, the objects taken as topics of study, and the type of phenomenological reduction that is employed for the purposes of analysis.</p>
+<p>Ultimately, the two projects should be seen as complementary, with the structures of the latter dependent on the structures of the former. That is, valid phenomenological descriptions of the formal structures of the Life-world should be wholly consistent with the descriptions of the formal structures of intentional consciousness. It is from the latter that the former derives its validity and <a href="/wiki/Truth_value" title="Truth value">truth value</a> (Sokolowski:2000).</p>
+<p>The phenomenological tie-in with the sociology of knowledge stems from two key historical sources for <a href="/wiki/Mannheim" title="Mannheim">Mannheim</a>'s analysis: [1] Mannheim was dependent on insights derived from Husserl's phenomenological investigations, especially the theory of meaning as found in Husserl's Logical Investigations of 1900/1901 (Husserl:2000), in the formulation of his central methodological work: "On The Interpretation of Weltanschauung" (Mannheim:1993:see fn41 &amp; fn43) – this essay forms the centerpiece for Mannheim's method of historical understanding and is central to his conception of the sociology of knowledge as a research program; and [2] The concept of "Weltanschauung" employed by Mannheim has its origins in the hermeneutic philosophy of Wilhelm Dilthey, who relied on Husserl's theory of meaning (above) for his methodological specification of the interpretive act (Mannheim: 1993: see fn38).</p>
+<p>It is also noteworthy that Husserl's analysis of the formal structures of consciousness, and Schütz's analysis of the formal structures of the Life-world are specifically intended to establish the foundations, in consciousness, for the understanding and interpretation of a social world which is subject to cultural and historical change. The phenomenological position is that although the <a href="/wiki/Facticity" title="Facticity">facticity</a> of the social world may be culturally and historically relative, the formal structures of consciousness, and the processes by which we come to know and understand this facticity, are not. That is, the understanding of any actual social world is unavoidably dependent on understanding the structures and processes of consciousness that found, and constitute, any possible social world.</p>
+<p>Alternatively, if the facticity of the social world <i>and</i> the structures of consciousness prove to be culturally and historically relative, then we are at an impasse in regard to any meaningful scientific understanding of the social world which is not subjective (as opposed to being objective and grounded in nature [positivism], or inter subjective and grounded in the structures of consciousness [phenomenology]), and relative to the cultural and idealization formations of particular concrete individuals living in a particular socio-historical group.</p>
+<h3><span class="mw-headline" id="Michel_Foucault">Michel Foucault</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=8" title="Edit section: Michel Foucault">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Michel_Foucault" title="Michel Foucault">Michel Foucault</a></div>
+<p>A particularly important contemporary contribution to the sociology of knowledge is found in the work of Michel Foucault. <i><a href="/wiki/Madness_and_Civilization" title="Madness and Civilization">Madness and Civilization</a></i> (1961) postulated that conceptions of madness and what was considered "reason" or "knowledge" was itself subject to major <a href="/wiki/Culture_bias" class="mw-redirect" title="Culture bias">culture bias</a> - in this respect mirroring similar criticisms by <a href="/wiki/Thomas_Szasz" title="Thomas Szasz">Thomas Szasz</a>, at the time the foremost critic of <a href="/wiki/Psychiatry" title="Psychiatry">psychiatry</a>, and himself now an eminent psychiatrist. A point where Foucault and Szasz agreed was that sociological processes played the major role in defining "madness" as an "illness" and prescribing "cures". In <i>The Birth of the Clinic: An Archeology of Medical Perception</i> (1963), Foucault extended his critique to institutional clinical medicine, arguing for the central <a href="/wiki/Conceptual_metaphor" title="Conceptual metaphor">conceptual metaphor</a> of "<a href="/wiki/Medical_gaze" class="mw-redirect" title="Medical gaze">The Gaze</a>", which had implications for <a href="/wiki/Medical_education" title="Medical education">medical education</a>, <a href="/wiki/Prison#Prison_design_and_facilities" title="Prison">prison design</a>, and the <a href="/wiki/Carceral_state" class="mw-redirect" title="Carceral state">carceral state</a> as understood today. Concepts of <a href="/wiki/Criminal_justice" title="Criminal justice">criminal justice</a> and its intersection with medicine were better developed in this work than in Szasz and others, who confined their critique to current psychiatric practice. <i>The Order of Things</i> (1966) and <i>The Archeology of Knowledge</i> (1969) introduced abstract notions of mathesis and taxonomia to explain the subjective 'ordering' of the <a href="/wiki/Human_sciences" class="mw-redirect" title="Human sciences">human sciences</a>. These, he claimed, had transformed 17th and 18th century studies of "general grammar" into modern "<a href="/wiki/Linguistics" title="Linguistics">linguistics</a>", "<a href="/wiki/Natural_history" title="Natural history">natural history</a>" into modern "<a href="/wiki/Biology" title="Biology">biology</a>", and "<a href="/wiki/Analysis_of_wealth" class="mw-redirect" title="Analysis of wealth">analysis of wealth</a>" into modern "<a href="/wiki/Economics" title="Economics">economics</a>"; though not, claimed Foucault, without loss of meaning. According to Foucault, the 19th century transformed what knowledge was.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2012)">citation needed</span></a></i>]</sup></p>
+<p>Perhaps Foucault's best-known claim<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (February 2012)">according to whom?</span></a></i>]</sup> was that "Man did not exist" before the 18th century. Foucault regarded notions of humanity and of <a href="/wiki/Humanism" title="Humanism">humanism</a> as inventions of <a href="/wiki/Modernity" title="Modernity">modernity</a>. Accordingly, a <a href="/wiki/Cognitive_bias" title="Cognitive bias">cognitive bias</a> had been introduced unwittingly into science, by over-trusting the individual doctor or scientist's ability to see and state things objectively. Foucault roots this argument in the rediscovery of Kant, though his thought is significantly influenced by <a href="/wiki/Nietzsche" class="mw-redirect" title="Nietzsche">Nietzsche</a> - that philosopher declaring the "death of God" in the 19th century, and the <a href="/wiki/Anti-humanism" class="mw-redirect" title="Anti-humanism">anti-humanists</a> proposing the "death of Man" in the 20th.</p>
+<p>In <i>Discipline and Punish: the Birth of the Prison</i>, Foucault concentrates on the correlation between <a href="/wiki/Knowledge" title="Knowledge">knowledge</a> and power. According to him, knowledge is a form of power and can conversely be used against individuals as a form of power.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> As a result, knowledge is <a href="/wiki/Socially_constructed" class="mw-redirect" title="Socially constructed">socially constructed</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> He argues that knowledge forms discourses and discourses form the dominant ideological ways of thinking which govern our lives.<sup id="cite_ref-foucault187_16-0" class="reference"><a href="#cite_note-foucault187-16">[16]</a></sup> For him, social control is maintained in ‘the disciplinary society’, through codes of control over sexuality and the ideas/knowledge perpetuated through social institutions.<sup id="cite_ref-foucault138_17-0" class="reference"><a href="#cite_note-foucault138-17">[17]</a></sup> In other words, discourses and <a href="/wiki/Ideologies" class="mw-redirect" title="Ideologies">ideologies</a> subject us to authority and turn people into ‘subjected beings’, who are in turn afraid of being punished if they sway from <a href="/wiki/Social_norms" class="mw-redirect" title="Social norms">social norms</a>.<sup id="cite_ref-foucault138_17-1" class="reference"><a href="#cite_note-foucault138-17">[17]</a></sup> Foucault believes that institutions overtly regulate and control our lives. Institutions such as schools reinforce the dominant ideological forms of thinking onto the populace and force us into becoming obedient and docile beings.<sup id="cite_ref-foucault138_17-2" class="reference"><a href="#cite_note-foucault138-17">[17]</a></sup> Hence, the <a href="/wiki/Dominant_ideology" title="Dominant ideology">dominant ideology</a> that serves the interests of the ruling class, all the while appearing as `neutral`, needs to be questioned and must not go unchallenged.<sup id="cite_ref-foucault187_16-1" class="reference"><a href="#cite_note-foucault187-16">[16]</a></sup></p>
+<h3><span class="mw-headline" id="Knowledge_ecology">Knowledge ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=9" title="Edit section: Knowledge ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Knowledge_ecology" class="mw-redirect" title="Knowledge ecology">Knowledge ecology</a></div>
+<p><b>Knowledge ecology</b> is a concept originating from <a href="/wiki/Knowledge_management" title="Knowledge management">knowledge management</a> and that aimed at "bridging the gap between the static data repositories of knowledge management and the dynamic, adaptive behavior of natural systems",<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> and in particular relying on the concept of interaction and <a href="/wiki/Emergence" title="Emergence">emergence</a>. Knowledge ecology, and its related concept <a href="/wiki/Information_ecology" title="Information ecology">information ecology</a> has been elaborated by different academics and practitioners such as <a href="/wiki/Thomas_H._Davenport" title="Thomas H. Davenport">Thomas H. Davenport</a>,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> <a href="/wiki/Bonnie_Nardi" title="Bonnie Nardi">Bonnie Nardi</a>,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> or Swidler.</p>
+<h3><span class="mw-headline" id="New_Sociology_of_Knowledge">New Sociology of Knowledge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=10" title="Edit section: New Sociology of Knowledge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/w/index.php?title=New_Sociology_of_Knowledge&amp;action=edit&amp;redlink=1" class="new" title="New Sociology of Knowledge (page does not exist)">New Sociology of Knowledge</a> (a postmodern approach considering knowledge as culture by drawing upon Marxist, French structuralist, and American pragmatist traditions)<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> introduces new concepts that dictate how knowledge is socialized in the modern era by new kinds of social organizations and structures.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<h3><span class="mw-headline" id="Robert_K._Merton">Robert K. Merton</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=11" title="Edit section: Robert K. Merton">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Robert_K._Merton" title="Robert K. Merton">Robert K. Merton</a></div>
+<p>American sociologist <a href="/wiki/Robert_K._Merton" title="Robert K. Merton">Robert K. Merton</a> (1910–2003) dedicates a section of <a href="/wiki/Social_Theory_and_Social_Structure" title="Social Theory and Social Structure">Social Theory and Social Structure</a> (1949; revised and expanded, 1957 and 1968) to the study of the sociology of knowledge in Part III, titled <i>The Sociology of Knowledge and Mass Communications</i>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<h3><span class="mw-headline" id="Legitimation_Code_Theory">Legitimation Code Theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=12" title="Edit section: Legitimation Code Theory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Legitimation Code Theory (LCT) emerged as a framework for the study of knowledge and education and is now being used to analyse a growing range of social and cultural practices across increasingly different institutional and national contexts, both within and beyond education.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> It is an approach that builds primary on the work of <a href="/wiki/Basil_Bernstein" title="Basil Bernstein">Basil Bernstein</a> and <a href="/wiki/Pierre_Bourdieu" title="Pierre Bourdieu">Pierre Bourdieu</a>. It also integrates insights from sociology (including Durkheim, Marx, Weber and Foucault), <a href="/wiki/Systemic_functional_linguistics" title="Systemic functional linguistics">systemic functional linguistics</a>, philosophy (such as <a href="/wiki/Karl_Popper" title="Karl Popper">Karl Popper</a> and <a href="/wiki/Critical_realism_(philosophy_of_perception)" title="Critical realism (philosophy of perception)">critical realism</a>), early cultural studies, anthropology (especially <a href="/wiki/Mary_Douglas" title="Mary Douglas">Mary Douglas</a> and <a href="/wiki/Ernest_Gellner" title="Ernest Gellner">Ernest Gellner</a>), and other approaches.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Sociology_of_scientific_knowledge" title="Sociology of scientific knowledge">Sociology of scientific knowledge</a></li>
+<li><a href="/wiki/Sociology_of_scientific_ignorance" title="Sociology of scientific ignorance">Sociology of scientific ignorance</a></li>
+<li><a href="/wiki/Socially_constructed_reality" class="mw-redirect" title="Socially constructed reality">Socially constructed reality</a></li>
+<li><a href="/wiki/Social_constructivism" title="Social constructivism">Social constructivism</a></li>
+<li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></li>
+<li><a href="/wiki/Ontology" title="Ontology">Ontology</a></li>
+<li><a href="/wiki/Knowledge_management" title="Knowledge management">Knowledge management</a></li>
+<li><a href="/wiki/Knowledge" title="Knowledge">Knowledge</a></li>
+<li><a href="/wiki/Bibliography_of_sociology" title="Bibliography of sociology">Bibliography of sociology</a></li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Sociologists_of_knowledge">Sociologists of knowledge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=14" title="Edit section: Sociologists of knowledge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/%C3%89mile_Durkheim" title="Émile Durkheim">Émile Durkheim</a></li>
+<li><a href="/wiki/Marcel_Mauss" title="Marcel Mauss">Marcel Mauss</a></li>
+<li><a href="/wiki/Max_Scheler" title="Max Scheler">Max Scheler</a></li>
+<li><a href="/wiki/Karl_Mannheim" title="Karl Mannheim">Karl Mannheim</a></li>
+<li><a href="/wiki/Werner_Stark" title="Werner Stark">Werner Stark</a></li>
+<li><a href="/wiki/Alfred_Schutz" class="mw-redirect" title="Alfred Schutz">Alfred Schutz</a></li>
+<li><a href="/wiki/Harold_Garfinkel" title="Harold Garfinkel">Harold Garfinkel</a></li>
+<li><a href="/wiki/Peter_L._Berger" title="Peter L. Berger">Peter L. Berger</a></li>
+<li><a href="/wiki/Thomas_Luckmann" title="Thomas Luckmann">Thomas Luckmann</a></li>
+<li><a href="/wiki/Michel_Foucault" title="Michel Foucault">Michel Foucault</a></li>
+<li><a href="/wiki/Kurt_Heinrich_Wolff" title="Kurt Heinrich Wolff">Kurt Heinrich Wolff</a></li>
+<li><a href="/wiki/Basil_Bernstein" title="Basil Bernstein">Basil Bernstein</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=16" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.stthomasu.ca/academic/soci/weeks/3523.htm">"Sociology 3523: Sociology of Knowledge"</a>. St. Thomas University.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.btitle=Sociology+3523%3A+Sociology+of+Knowledge&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.stthomasu.ca%2Facademic%2Fsoci%2Fweeks%2F3523.htm&amp;rft.pub=St.+Thomas+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sociologyofignorance.com/">The Sociology of Ignorance</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Beck, Ulrich; Wehling, Peter (2012). Rubio, F.D.; Baert, P., eds. <a rel="nofollow" class="external text" href="http://www.routledge.com/books/details/9780415497107/"><i>The politics of non-knowing: An emerging area of social and political conflict in reflexive modernity</i></a>. New York: Routledge. pp.&#160;33–57. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0415497108" title="Special:BookSources/0415497108">0415497108</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.aufirst=Ulrich&amp;rft.aulast=Beck&amp;rft.au=Wehling%2C+Peter&amp;rft.btitle=The+politics+of+non-knowing%3A+An+emerging+area+of+social+and+political+conflict+in+reflexive+modernity&amp;rft.date=2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.routledge.com%2Fbooks%2Fdetails%2F9780415497107%2F&amp;rft.isbn=0415497108&amp;rft.pages=33-57&amp;rft.place=New+York&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Gross, Matthias (2010). <a rel="nofollow" class="external text" href="https://mitpress.mit.edu/books/ignorance-and-surprise"><i>Ignorance and Surprise: Science, Society, and Ecological Design</i></a>. Cambridge, MA: MIT Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780262013482" title="Special:BookSources/9780262013482">9780262013482</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.aufirst=Matthias&amp;rft.aulast=Gross&amp;rft.btitle=Ignorance+and+Surprise%3A+Science%2C+Society%2C+and+Ecological+Design&amp;rft.date=2010&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fmitpress.mit.edu%2Fbooks%2Fignorance-and-surprise&amp;rft.isbn=9780262013482&amp;rft.place=Cambridge%2C+MA&amp;rft.pub=MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Moore, Wilbert; Tumin, Melvin (1949). "Some social functions of ignorance". <i>American Sociological Review</i>. <b>14</b> (6): 787–796. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F2086681">10.2307/2086681</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2086681">2086681</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.atitle=Some+social+functions+of+ignorance&amp;rft.aufirst=Wilbert&amp;rft.aulast=Moore&amp;rft.au=Tumin%2C+Melvin&amp;rft.date=1949&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2086681&amp;rft_id=info%3Adoi%2F10.2307%2F2086681&amp;rft.issue=6&amp;rft.jtitle=American+Sociological+Review&amp;rft.pages=787-796&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=14" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Durkheim, Emile, and Marcel Mauss. (1963). <i>Primitive classification.</i> Chicago: University of Chicago Press.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Max Scheler (ed.). <i>Versuche zu einer Soziologie des Wissens</i>. München und Leipzig: Duncker &amp; Humblot, 1924. Karl Mannheim. <i>Ideology and utopia: an introduction to the sociology of knowledge</i>. Translated by Louis Wirth and Edward Shils. New York: Harcourt, Brace and Company; London: Kegan Paul, Trench, Trubner &amp; Co., 1936.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Marx, Karl. <i>Capital, Book 1 part IV</i>. pp.&#160;Chapter 13, note 89 (footnote mentions Vico).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.aufirst=Karl&amp;rft.aulast=Marx&amp;rft.btitle=Capital%2C+Book+1+part+IV&amp;rft.genre=book&amp;rft.pages=Chapter+13%2C+note+89+%28footnote+mentions+Vico%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Calhoun, Craig, Joseph Gerteis, James Moody, Steven Pfaff, Kathryn Schmidt, and Intermohan Virk. (2002). <i>Classical sociological theory.</i> Malden, Mass: Blackwell</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Durkheim, 'Conclusion,' Les formes élémentaires de la vie religieuse, Presses Universitaires de France, 5e édition, 2003 p.&#160;628</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Durkheim, 'Introduction,' Les Formes, p.&#160;14-17, and p.&#160;19-22.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Durkheim, Emile. (1964). <i>The elementary forms of the religious life.</i> London: Allen &amp; Unwin.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Emile Durkheim, Conclusion, Section III, "Elementary Forms of Religious Life" trans. Joseph Ward Swain, p. 435 (accessed: <a rel="nofollow" class="external free" href="http://wayback.archive.org/web/20130312023652/http://www.gutenberg.org/files/41360/41360-h/41360-h.htm#Page_427">http://wayback.archive.org/web/20130312023652/http://www.gutenberg.org/files/41360/41360-h/41360-h.htm#Page_427</a>)</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Foucault, Michel (1975). <i>Discipline and Punish</i>. New York: Random House. p.&#160;27.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.aufirst=Michel&amp;rft.aulast=Foucault&amp;rft.btitle=Discipline+and+Punish&amp;rft.date=1975&amp;rft.genre=book&amp;rft.pages=27&amp;rft.pub=New+York%3A+Random+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Foucault, Michel (1975). <i>Discipline and Punish</i>. New York: Random House. p.&#160;28.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.aufirst=Michel&amp;rft.aulast=Foucault&amp;rft.btitle=Discipline+and+Punish&amp;rft.date=1975&amp;rft.genre=book&amp;rft.pages=28&amp;rft.pub=New+York%3A+Random+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-foucault187-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-foucault187_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-foucault187_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Foucault, Michel (1975). <i>Discipline and Punish</i>. New York: Random House. p.&#160;187.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.aufirst=Michel&amp;rft.aulast=Foucault&amp;rft.btitle=Discipline+and+Punish&amp;rft.date=1975&amp;rft.genre=book&amp;rft.pages=187&amp;rft.pub=New+York%3A+Random+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-foucault138-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-foucault138_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-foucault138_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-foucault138_17-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Foucault, Michel (1975). <i>Discipline and Punish</i>. New York: Random House. p.&#160;138.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.aufirst=Michel&amp;rft.aulast=Foucault&amp;rft.btitle=Discipline+and+Punish&amp;rft.date=1975&amp;rft.genre=book&amp;rft.pages=138&amp;rft.pub=New+York%3A+Random+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pór, G. (2000). "Nurturing Systemic Wisdom through Knowledge Ecology". <i>The Systems Thinker</i>. <b>11</b> (8): 1–5.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.atitle=Nurturing+Systemic+Wisdom+through+Knowledge+Ecology&amp;rft.aufirst=G.&amp;rft.aulast=P%C3%B3r&amp;rft.date=2000&amp;rft.genre=article&amp;rft.issue=8&amp;rft.jtitle=The+Systems+Thinker&amp;rft.pages=1-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Thomas_H._Davenport" title="Thomas H. Davenport">Davenport, Thomas H.</a>; Prusak, Laurence (1997). <a rel="nofollow" class="external text" href="http://argus-acia.com/content/review001.html"><i>Information Ecology</i></a>. Oxford University Press. p.&#160;288. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-511168-0" title="Special:BookSources/0-19-511168-0">0-19-511168-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.aufirst=Thomas+H.&amp;rft.aulast=Davenport&amp;rft.au=Prusak%2C+Laurence&amp;rft.btitle=Information+Ecology&amp;rft.date=1997&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fargus-acia.com%2Fcontent%2Freview001.html&amp;rft.isbn=0-19-511168-0&amp;rft.pages=288&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Bonnie_Nardi" title="Bonnie Nardi">Nardi, Bonnie</a>; O’Day, V. (1999). <i>Information Ecology: Using Technology with Heart</i>. Cambridge: MIT Press. p.&#160;288.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.aufirst=Bonnie&amp;rft.aulast=Nardi&amp;rft.au=O%99Day%2C+V.&amp;rft.btitle=Information+Ecology%3A+Using+Technology+with+Heart&amp;rft.date=1999&amp;rft.genre=book&amp;rft.pages=288&amp;rft.place=Cambridge&amp;rft.pub=MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Doyle McCarthy, Knowledge as Culture: The New Sociology of Knowledge, Routledge, published October 23, 1996, <a href="/wiki/Special:BookSources/9780415064972" class="internal mw-magiclink-isbn">ISBN 978-0415064972</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Swidler, A., Arditi, J. 1994. The New Sociology of Knowledge. <i>Annual Review of Sociology</i> , 20, pp. 205-329</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">McCarthy, E. Doyle. 1996. <i>Knowledge as Culture: The New Sociology of Knowledge</i> . New York: Routledge.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation book">Merton, Robert K. (1957). <i>Social Theory and Social Structure</i>. Glencoe, IL: Free Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.aufirst=Robert+K.&amp;rft.aulast=Merton&amp;rft.btitle=Social+Theory+and+Social+Structure&amp;rft.date=1957&amp;rft.genre=book&amp;rft.pub=Glencoe%2C+IL%3A+Free+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.legitimationcodetheory.com/publications.html">Legitimation Code Theory, bibliography</a></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Maton, K. (2014), <i>Knowledge and Knowers: Towards a realist sociology of education</i>, London, Routledge.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Maton, K., Hood, S. &amp; Shay, S. (eds) (2016) Knowledge-building: Educational studies in Legitimation Code Theory. London, Routledge.</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=17" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Michael D. Barber, <i>The Participating Citizen: A Biography of Alfred Schutz</i>, SUNY UP. 2004. The standard biography of Alfred Schutz.</li>
+<li>Berger, Peter and Thomas Luckmann. <i>The Social Construction of Reality: A Treatise in the Sociology of Knowledge</i>. New York: Doubleday, 1966.</li>
+<li><cite class="citation book"><a href="/wiki/Michel_Foucault" title="Michel Foucault">Foucault, Michel</a> (1994). <i>The Birth of the Clinic: An Archeology of Medical Perception</i>. Vintage.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASociology+of+knowledge&amp;rft.aufirst=Michel&amp;rft.aulast=Foucault&amp;rft.btitle=The+Birth+of+the+Clinic%3A+An+Archeology+of+Medical+Perception&amp;rft.date=1994&amp;rft.genre=book&amp;rft.pub=Vintage&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Aron Gurwitsch, <i>The Field of Consciousness</i>, Duquesne UP, 1964. The most direct and detailed presentation of the phenomenological theory of perception available in the English language.</li>
+<li>Peter Hamilton, <i>Knowledge and Social Structure: an introduction to the classical argument in the sociology of knowledge</i>. 1974. Routledge and Kegan Paul. London and Boston. A fantastic source that covers the origins of social science (Vico and Montesquieu), through Hegel and Marx to the main schools of thought in this area: Durkheim, Mannheim, phenomenological-sociological approaches.</li>
+<li>Edmund Husserl, <i>The Crisis of the European Sciences and Transcendental Phenomenology</i>(1954), Northwestern UP. 1970. The classic introduction to phenomenology by the father of transcendental phenomenology.</li>
+<li>Edmund Husserl, <i>Logical Investigations</i> [1900/1901], Humanities Press, 2000.</li>
+<li>Karl Mannheim, "On the Interpretation of Weltanschauung", in, From Karl Mannheim, Kurt Heinrich Wolff (ed.) Transaction Press, 1993. An important collection of essays including this key text.</li>
+<li>Maurice Natanson, <i>Edmund Husserl: Philosopher of Infinite Tasks</i>, Northwestern UP. 1974. Quality commentary on Husserlian phenomenology and its relation to the phenomenology of Alfred Schutz.</li>
+<li>Alfred Schutz, <i>Collected Papers</i> V.I, Kluwer Academic. 1982. Classic essays in phenomenological theory as applied to the social sciences.</li>
+<li>Kurt Heinrich Wolff, <i>Versuch zu einer Wissenssoziologie</i>, Berlin, 1968</li>
+<li>Alfred Schutz, <i>The Phenomenology of the Social World</i>, Northwestern UP. 1967. Schutz's initial attempt to bridge the gap between phenomenology and Weberian sociology.</li>
+<li>Alfred Schutz, <i>The Structures of the Life-World</i>, Northwestern UP. 1980. Schutz's final programmatic statement of a phenomenology of the Life-world.</li>
+<li>Robert Sokolowski, <i>Introduction to Phenomenology</i>, Cambridge UP. 2000. The most accessible of the quality introductions to phenomenology currently available.</li>
+<li>Julio E. Rubio &amp; Ntumbua Tshipamba, "<a rel="nofollow" class="external text" href="http://www.cscanada.net/index.php/css/article/viewFile/1512/1725">Elements of the public policy of science, technology and innovation</a>", <i>Canadian Social Science, 6</i>(6), 61-80. 2010. Work analyzing the structure, elements and formulation of science, technology and innovation policy.</li>
+<li>Vico, Giambattista. "The New Science of Giambattista Vico", (1744). The first exposition of key ideas that are fundamental to the social sciences and sociology of knowledge.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="vertical-navbox nowraplinks infobox" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em"><a href="/wiki/Wikipedia:LIBRARY" class="mw-redirect" title="Wikipedia:LIBRARY">Library resources</a> about<br />
+<b>Sociology of knowledge</b>
+<hr /></td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left;">
+<ul>
+<li><a class="external text" href="//tools.wmflabs.org/ftl/cgi-bin/ftl?st=wp&amp;su=sociology+of+knowledge">Resources in your library</a></li>
+<li><a class="external text" href="//tools.wmflabs.org/ftl/cgi-bin/ftl?st=wp&amp;su=sociology+of+knowledge&amp;library=0CHOOSE0">Resources in other libraries</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Knowledge_representation" class="extiw" title="commons:Category:Knowledge representation">Knowledge representation</a> at Wikimedia Commons</li>
+<li><a href="/wiki/File:Wikiquote-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/13px-Wikiquote-logo.svg.png" width="13" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/20px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/27px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a> Quotations related to <a href="https://en.wikiquote.org/wiki/Special:Search/Sociology_of_knowledge" class="extiw" title="wikiquote:Special:Search/Sociology of knowledge">Sociology of knowledge</a> at Wikiquote</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Science_and_technology_studies" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Science_and_technology_studies" title="Template:Science and technology studies"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Science_and_technology_studies" title="Template talk:Science and technology studies"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Science_and_technology_studies&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Science_and_technology_studies" style="font-size:114%;margin:0 4em"><a href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science and technology studies</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Economics" title="Economics">Economics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Economics_of_science" title="Economics of science">Economics of science</a></li>
+<li><a href="/wiki/Economics_of_scientific_knowledge" title="Economics of scientific knowledge">Economics of scientific knowledge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/History" title="History">History</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_and_philosophy_of_science" title="History and philosophy of science">History and philosophy of science</a></li>
+<li><a href="/wiki/History_of_science" title="History of science">History of science</a>
+<ul>
+<li><a href="/wiki/History_of_science_and_technology" title="History of science and technology">and technology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/History_of_technology" title="History of technology">History of technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Philosophy" title="Philosophy">Philosophy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antipositivism" title="Antipositivism">Antipositivism</a></li>
+<li><a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><a href="/wiki/Fuzzy_logic" title="Fuzzy logic">Fuzzy logic</a></li>
+<li><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Philosophy of science</a></li>
+<li><a href="/wiki/Philosophy_of_social_science" title="Philosophy of social science">Philosophy of social science</a></li>
+<li><a href="/wiki/Philosophy_of_technology" title="Philosophy of technology">Philosophy of technology</a></li>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a></li>
+<li><a href="/wiki/Postpositivism" title="Postpositivism">Postpositivism</a></li>
+<li><a href="/wiki/Social_constructivism" title="Social constructivism">Social constructivism</a></li>
+<li><a href="/wiki/Social_epistemology" title="Social epistemology">Social epistemology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sociology" title="Sociology">Sociology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actor%E2%80%93network_theory" title="Actor–network theory">Actor–network theory</a></li>
+<li>Social
+<ul>
+<li><a href="/wiki/Social_construction_of_technology" title="Social construction of technology">construction of technology</a></li>
+<li><a href="/wiki/Social_shaping_of_technology" title="Social shaping of technology">shaping of technology</a></li>
+</ul>
+</li>
+<li><strong class="selflink">Sociology of knowledge</strong>
+<ul>
+<li><a href="/wiki/Sociology_of_scientific_knowledge" title="Sociology of scientific knowledge">scientific</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sociology_of_scientific_ignorance" title="Sociology of scientific ignorance">Sociology of scientific ignorance</a></li>
+<li><a href="/wiki/Sociology_of_the_history_of_science" title="Sociology of the history of science">Sociology of the history of science</a></li>
+<li><a href="/wiki/Sociotechnology" title="Sociotechnology">Sociotechnology</a></li>
+<li><a href="/wiki/Strong_programme" title="Strong programme">Strong programme</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Science_studies" title="Science studies">Science<br />
+studies</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antiscience" title="Antiscience">Antiscience</a></li>
+<li><a href="/wiki/Bibliometrics" title="Bibliometrics">Bibliometrics</a></li>
+<li><a href="/wiki/Boundary-work" title="Boundary-work">Boundary-work</a></li>
+<li><a href="/wiki/Consilience" title="Consilience">Consilience</a></li>
+<li><a href="/wiki/Demarcation_problem" title="Demarcation problem">Demarcation problem</a></li>
+<li><a href="/wiki/Double_hermeneutic" title="Double hermeneutic">Double hermeneutic</a></li>
+<li><a href="/wiki/Mapping_controversies" title="Mapping controversies">Mapping controversies</a></li>
+<li><a href="/wiki/Paradigm_shift" title="Paradigm shift">Paradigm shift</a></li>
+<li><a href="/wiki/Pseudoscience" title="Pseudoscience">Pseudoscience</a></li>
+<li>Science
+<ul>
+<li><a href="/wiki/Citizen_science" title="Citizen science">citizen</a></li>
+<li><a href="/wiki/Science_communication" title="Science communication">communication</a></li>
+<li><a href="/wiki/Science_education" title="Science education">education</a></li>
+<li><a href="/wiki/Normal_science" title="Normal science">normal</a></li>
+<li><a href="/wiki/Post-normal_science" title="Post-normal science">post-normal</a></li>
+<li><a href="/wiki/Rhetoric_of_science" title="Rhetoric of science">rhetoric</a></li>
+<li><a href="/wiki/Science_wars" title="Science wars">wars</a></li>
+</ul>
+</li>
+<li>Scientific
+<ul>
+<li><a href="/wiki/Scientific_method" title="Scientific method">method</a></li>
+<li><a href="/wiki/Scientific_consensus" title="Scientific consensus">consensus</a></li>
+<li><a href="/wiki/Scientific_controversy" title="Scientific controversy">controversy</a></li>
+<li><a href="/wiki/Scientific_enterprise" title="Scientific enterprise">enterprise</a></li>
+<li><a href="/wiki/Scientific_misconduct" title="Scientific misconduct">misconduct</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Scientometrics" title="Scientometrics">Scientometrics</a></li>
+<li><a href="/wiki/Science_of_team_science" title="Science of team science">Team science</a></li>
+<li><a href="/wiki/Traditional_knowledge" title="Traditional knowledge">Traditional knowledge</a>
+<ul>
+<li><a href="/wiki/Traditional_ecological_knowledge" title="Traditional ecological knowledge">ecological</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Unity_of_science" title="Unity of science">Unity of science</a></li>
+<li><a href="/wiki/Women_in_science" title="Women in science">Women in science</a>
+<ul>
+<li><a href="/wiki/Women_in_STEM_fields" title="Women in STEM fields">STEM</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Technology" title="Technology">Technology</a><br />
+studies</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coproduction_(society)" title="Coproduction (society)">Coproduction</a></li>
+<li><a href="/wiki/Cyborg_anthropology" title="Cyborg anthropology">Cyborg anthropology</a></li>
+<li><a href="/wiki/Digital_anthropology" title="Digital anthropology">Digital anthropology</a></li>
+<li><a href="/wiki/Dematerialization_(products)" title="Dematerialization (products)">Dematerialization</a></li>
+<li><a href="/wiki/Early_adopter" title="Early adopter">Early adopter</a></li>
+<li><a href="/wiki/Hype_cycle" title="Hype cycle">Hype cycle</a></li>
+<li><a href="/wiki/Innovation" title="Innovation">Innovation</a>
+<ul>
+<li><a href="/wiki/Diffusion_of_innovations" title="Diffusion of innovations">diffusion</a></li>
+<li><a href="/wiki/Disruptive_innovation" title="Disruptive innovation">disruptive</a></li>
+<li><a href="/wiki/Linear_model_of_innovation" title="Linear model of innovation">linear model</a></li>
+<li><a href="/wiki/Technological_innovation_system" title="Technological innovation system">system</a></li>
+<li><a href="/wiki/User_innovation" title="User innovation">user</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Leapfrogging" title="Leapfrogging">Leapfrogging</a></li>
+<li><a href="/wiki/Normalization_process_theory" title="Normalization process theory">Normalization process theory</a></li>
+<li><a href="/wiki/Reverse_salient" title="Reverse salient">Reverse salient</a></li>
+<li><a href="/wiki/Skunkworks_project" title="Skunkworks project">Skunkworks project</a></li>
+<li><a href="/wiki/Sociotechnical_system" title="Sociotechnical system">Sociotechnical system</a></li>
+<li><a href="/wiki/Technical_change" title="Technical change">Technical change</a></li>
+<li><a href="/wiki/Technoscience" title="Technoscience">Technoscience</a>
+<ul>
+<li><a href="/wiki/Feminist_technoscience" title="Feminist technoscience">feminist</a></li>
+</ul>
+</li>
+<li>Technological
+<ul>
+<li><a href="/wiki/Technological_change" title="Technological change">change</a></li>
+<li><a href="/wiki/Technological_convergence" title="Technological convergence">convergence</a></li>
+<li><a href="/wiki/Technological_determinism" title="Technological determinism">determinism</a></li>
+<li><a href="/wiki/Technological_revolution" title="Technological revolution">revolution</a></li>
+<li><a href="/wiki/Technological_transitions" title="Technological transitions">transitions</a></li>
+</ul>
+</li>
+<li>Technology
+<ul>
+<li><a href="/wiki/Technology_and_society" title="Technology and society">and society</a></li>
+<li><a href="/wiki/Critique_of_technology" title="Critique of technology">critique of</a></li>
+<li><a href="/wiki/Technology_dynamics" title="Technology dynamics">dynamics</a></li>
+<li><a href="/wiki/Theories_of_technology" title="Theories of technology">theories of</a></li>
+<li><a href="/wiki/Technology_transfer" title="Technology transfer">transfer</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Engineering_studies" title="Engineering studies">Engineering studies</a></li>
+<li><a href="/wiki/Women_in_engineering" title="Women in engineering">Women in engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Policy" title="Policy">Policy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Digital_divide" title="Digital divide">Digital divide</a></li>
+<li><a href="/wiki/Evidence-based_policy" title="Evidence-based policy">Evidence-based policy</a></li>
+<li><a href="/wiki/Factor_10" title="Factor 10">Factor 10</a></li>
+<li><a href="/wiki/Science_policy" title="Science policy">Science policy</a>
+<ul>
+<li><a href="/wiki/History_of_science_policy" title="History of science policy">history of</a></li>
+<li><a href="/wiki/Science_of_science_policy" title="Science of science policy">science of</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Politicization_of_science" title="Politicization of science">Politicization of science</a></li>
+<li><a href="/wiki/Regulation_of_science" title="Regulation of science">Regulation of science</a></li>
+<li><a href="/wiki/Research_ethics" title="Research ethics">Research ethics</a></li>
+<li><a href="/wiki/Socio-scientific_issues" title="Socio-scientific issues">Socio-scientific issues</a></li>
+<li><a href="/wiki/Technology_assessment" title="Technology assessment">Technology assessment</a></li>
+<li><a href="/wiki/Technology_policy" title="Technology policy">Technology policy</a></li>
+<li><a href="/wiki/Transition_management_(governance)" title="Transition management (governance)">Transition management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> Portals
+<ul>
+<li><a href="/wiki/Portal:Science" title="Portal:Science">Science</a></li>
+<li><a href="/wiki/Portal:History_of_science" title="Portal:History of science">History of science</a></li>
+<li><a href="/wiki/Portal:Technology" title="Portal:Technology">Technology</a></li>
+<li><a href="/wiki/Portal:Sociology" title="Portal:Sociology">Sociology</a></li>
+</ul>
+</li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Science_and_technology_studies" title="Category:Science and technology studies">Category</a>
+<ul>
+<li><a href="/wiki/Category:Science_and_technology_studies_associations" title="Category:Science and technology studies associations">Associations</a></li>
+<li><a href="/wiki/Category:Science_and_technology_studies_journals" title="Category:Science and technology studies journals">Journals</a></li>
+<li><a href="/wiki/Category:Science_and_technology_studies_scholars" title="Category:Science and technology studies scholars">Scholars</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby=".C3.89mile_Durkheim" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:%C3%89mile_Durkheim" title="Template:Émile Durkheim"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:%C3%89mile_Durkheim" title="Template talk:Émile Durkheim"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:%C3%89mile_Durkheim&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id=".C3.89mile_Durkheim" style="font-size:114%;margin:0 4em"><a href="/wiki/%C3%89mile_Durkheim" title="Émile Durkheim">Émile Durkheim</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Books</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Division_of_Labour_in_Society" title="The Division of Labour in Society">Division of Labour in Society</a></i> (1893)</li>
+<li><i><a href="/wiki/The_Rules_of_Sociological_Method" title="The Rules of Sociological Method">Rules of Sociological Method</a></i> (1895)</li>
+<li><i><a href="/wiki/Suicide_(book)" title="Suicide (book)">Suicide</a></i> (1897)</li>
+<li><i><a href="/wiki/The_Elementary_Forms_of_the_Religious_Life" title="The Elementary Forms of the Religious Life">Elementary Forms of the Religious Life</a></i> (1912)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a href="/wiki/File:Emile_Durkheim.jpg" class="image"><img alt="Emile Durkheim.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Emile_Durkheim.jpg/120px-Emile_Durkheim.jpg" width="120" height="170" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Emile_Durkheim.jpg/180px-Emile_Durkheim.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/2/24/Emile_Durkheim.jpg 2x" data-file-width="229" data-file-height="324" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Founded</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sociology#Foundations_of_the_academic_discipline" title="Sociology">Academic sociology</a></li>
+<li><i><a href="/wiki/L%27Ann%C3%A9e_Sociologique" title="L'Année Sociologique">L'Année Sociologique</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Conceptualized<br />
+and defined</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Social_integration" title="Social integration">Social integration</a></li>
+<li><a href="/wiki/Collective_consciousness" title="Collective consciousness">Collective consciousness</a></li>
+<li><a href="/wiki/Mechanical_and_organic_solidarity" title="Mechanical and organic solidarity">Mechanical and organic solidarity</a></li>
+<li><a href="/wiki/Social_fact" title="Social fact">Social fact</a></li>
+<li><strong class="selflink">Sociology of knowledge</strong></li>
+<li><a href="/wiki/Sacred%E2%80%93profane_dichotomy" title="Sacred–profane dichotomy">Sacred–profane dichotomy</a></li>
+<li><a href="/wiki/Quantitative_methods_in_criminology" title="Quantitative methods in criminology">Quantitative methods in criminology</a></li>
+<li><a href="/wiki/Social_research" title="Social research">Statistical social research</a></li>
+<li><a href="/wiki/Collective_effervescence" title="Collective effervescence">Collective effervescence</a></li>
+<li><a href="/wiki/Anomie" title="Anomie">Anomie</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a></li>
+<li><a href="/wiki/Totemism#Durkheim_to_Radcliffe-Brown" class="mw-redirect" title="Totemism">Totemism</a></li>
+<li><a href="/wiki/History_of_sociology" title="History of sociology">History of sociology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00573086">00573086</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1214
+Cached time: 20170313061215
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.288 seconds
+Real time usage: 0.366 seconds
+Preprocessor visited node count: 1901/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 71493/2097152 bytes
+Template argument size: 1951/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.109/10.000 seconds
+Lua memory usage: 4.6 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  277.762      1 -total
+ 34.47%   95.751      1 Template:Reflist
+ 16.25%   45.126      1 Template:Refimprove
+ 14.15%   39.309     11 Template:Cite_book
+  9.72%   26.993      1 Template:Ambox
+  9.65%   26.812      1 Template:Cite_web
+  7.57%   21.022      1 Template:Citation_needed
+  7.44%   20.677      1 Template:Commons_category_inline
+  6.81%   18.906      1 Template:Fix
+  6.57%   18.241      2 Template:Sister-inline
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:59157-0!*!0!!en!4!* and timestamp 20170313061215 and revision id 762150562
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sociology_of_knowledge&amp;oldid=762150562">https://en.wikipedia.org/w/index.php?title=Sociology_of_knowledge&amp;oldid=762150562</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Subfields_of_sociology" title="Category:Subfields of sociology">Subfields of sociology</a></li><li><a href="/wiki/Category:Social_epistemology" title="Category:Social epistemology">Social epistemology</a></li><li><a href="/wiki/Category:Sociology_of_knowledge" title="Category:Sociology of knowledge">Sociology of knowledge</a></li><li><a href="/wiki/Category:%C3%89mile_Durkheim" title="Category:Émile Durkheim">Émile Durkheim</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2010" title="Category:Articles needing additional references from May 2010">Articles needing additional references from May 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2012" title="Category:Articles with unsourced statements from February 2012">Articles with unsourced statements from February 2012</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_February_2012" title="Category:Articles with specifically marked weasel-worded phrases from February 2012">Articles with specifically marked weasel-worded phrases from February 2012</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sociology+of+knowledge" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sociology+of+knowledge" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Sociology_of_knowledge"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Sociology_of_knowledge"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Sociology_of_knowledge" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sociology_of_knowledge" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sociology_of_knowledge" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sociology_of_knowledge&amp;oldid=762150562" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sociology_of_knowledge&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q847486" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sociology_of_knowledge&amp;id=762150562" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sociology+of+knowledge">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Sociology+of+knowledge&amp;returnto=Sociology+of+knowledge&amp;oldid=762150562&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sociology_of_knowledge&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sociology_of_knowledge" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Sociology_of_knowledge" hreflang="en">Wikiquote</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9_%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81%D8%A9" title="علم اجتماع المعرفة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/T%C3%AC-sek_si%C4%81-ho%C4%93-ha%CC%8Dk" title="Tì-sek siā-hoē-ha̍k – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Sociologija_znanja" title="Sociologija znanja – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Sociologia_del_coneixement" title="Sociologia del coneixement – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Sociologie_v%C4%9Bd%C4%9Bn%C3%AD" title="Sociologie vědění – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wissenssoziologie" title="Wissenssoziologie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Sociolog%C3%ADa_del_conocimiento" title="Sociología del conocimiento – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ezagutzaren_soziologia" title="Ezagutzaren soziologia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D9%87%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D9%85%D8%B9%D8%B1%D9%81%D8%AA" title="جامعه‌شناسی معرفت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Sociologie_de_la_connaissance" title="Sociologie de la connaissance – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A7%80%EC%8B%9D%EC%82%AC%ED%9A%8C%ED%95%99" title="지식사회학 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Sosiologi_pengetahuan" title="Sosiologi pengetahuan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Sociologia_della_conoscenza" title="Sociologia della conoscenza – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A6%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94_%D7%A9%D7%9C_%D7%94%D7%99%D7%93%D7%A2" title="סוציולוגיה של הידע – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Kennissociologie" title="Kennissociologie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%9F%A5%E8%AD%98%E7%A4%BE%E4%BC%9A%E5%AD%A6" title="知識社会学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Socjologia_wiedzy" title="Socjologia wiedzy – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Sociologia_do_conhecimento" title="Sociologia do conhecimento – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F" title="Социология знания – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0_%D0%B7%D0%BD%D0%B0%D1%9A%D0%B0" title="Социологија знања – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tiedonsosiologia" title="Tiedonsosiologia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Bilgi_sosyolojisi" title="Bilgi sosyolojisi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F_%D0%B7%D0%BD%D0%B0%D0%BD%D1%8C" title="Соціологія знань – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86%E7%A4%BE%E4%BC%9A%E5%AD%A6" title="知识社会学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q847486#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 January 2017, at 23:56.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sociology_of_knowledge&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.366","ppvisitednodes":{"value":1901,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":71493,"limit":2097152},"templateargumentsize":{"value":1951,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  277.762      1 -total"," 34.47%   95.751      1 Template:Reflist"," 16.25%   45.126      1 Template:Refimprove"," 14.15%   39.309     11 Template:Cite_book","  9.72%   26.993      1 Template:Ambox","  9.65%   26.812      1 Template:Cite_web","  7.57%   21.022      1 Template:Citation_needed","  7.44%   20.677      1 Template:Commons_category_inline","  6.81%   18.906      1 Template:Fix","  6.57%   18.241      2 Template:Sister-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.109","limit":"10.000"},"limitreport-memusage":{"value":4821197,"limit":52428800}},"cachereport":{"origin":"mw1214","timestamp":"20170313061215","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":448,"wgHostname":"mw1214"});});</script>
+	</body>
+</html>

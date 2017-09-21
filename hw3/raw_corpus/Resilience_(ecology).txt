@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ecological resilience - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ecological_resilience","wgTitle":"Ecological resilience","wgCurRevisionId":761711242,"wgRevisionId":761711242,"wgArticleId":13224331,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Ecology terminology","Ecological restoration","Conservation biology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ecological_resilience","wgRelevantArticleId":13224331,"wgRequestId":"WMMEbApAMFoAAAlAXYEAAAAV","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Resilience_(ecology)","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Ecological_resilience","wgWikibaseItemId":"Q4105196","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Resilience1.jpg/1200px-Resilience1.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ecological_resilience"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ecological_resilience&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ecological_resilience&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ecological_resilience"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ecological_resilience rootpage-Ecological_resilience skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ecological resilience</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Resilience_(ecology)&amp;redirect=no" class="mw-redirect" title="Resilience (ecology)">Resilience (ecology)</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For other uses, see <a href="/wiki/Resilience_(disambiguation)" class="mw-redirect mw-disambig" title="Resilience (disambiguation)">Resilience (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:442px;"><a href="/wiki/File:Resilience1.jpg" class="image"><img alt="Temperate lake and Mulga woodland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Resilience1.jpg/440px-Resilience1.jpg" width="440" height="199" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Resilience1.jpg/660px-Resilience1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Resilience1.jpg/880px-Resilience1.jpg 2x" data-file-width="2221" data-file-height="1004" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Resilience1.jpg" class="internal" title="Enlarge"></a></div>
+<center>Lake and Mulga ecosystems with alternative stable states<sup id="cite_ref-Folke.2C_Carpenter_et_al_2002_1-0" class="reference"><a href="#cite_note-Folke.2C_Carpenter_et_al_2002-1">[1]</a></sup></center>
+</div>
+</div>
+</div>
+<p>In <a href="/wiki/Ecology" title="Ecology">ecology</a>, <b>resilience</b> is the capacity of an <a href="/wiki/Ecosystem" title="Ecosystem">ecosystem</a> to respond to a perturbation or <a href="/wiki/Disturbance_(ecology)" title="Disturbance (ecology)">disturbance</a> by resisting damage and recovering quickly. Such perturbations and disturbances can include <a href="/wiki/Stochastic" title="Stochastic">stochastic</a> events such as <a href="/wiki/Fires" class="mw-redirect" title="Fires">fires</a>, <a href="/wiki/Flooding" class="mw-redirect" title="Flooding">flooding</a>, <a href="/wiki/Windstorm" class="mw-redirect" title="Windstorm">windstorms</a>, insect population explosions, and human activities such as <a href="/wiki/Deforestation" title="Deforestation">deforestation</a>, fracking of the ground for oil extraction, pesticide sprayed in soil, and the <a href="/wiki/Introduced_species" title="Introduced species">introduction of exotic</a> plant or animal species. Disturbances of sufficient <a href="/wiki/Magnitude_(mathematics)" title="Magnitude (mathematics)">magnitude</a> or duration can profoundly affect an ecosystem and may force an ecosystem to reach a <a href="/wiki/Ecological_threshold" title="Ecological threshold">threshold</a> beyond which a different <a href="/wiki/Regime" title="Regime">regime</a> of processes and structures predominates.<sup id="cite_ref-Folke.2C_Carpenter_et_al_2004_2-0" class="reference"><a href="#cite_note-Folke.2C_Carpenter_et_al_2004-2">[2]</a></sup> Human activities that adversely affect ecosystem resilience such as reduction of <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a>, exploitation of natural resources, <a href="/wiki/Pollution" title="Pollution">pollution</a>, land-use, and <a href="/wiki/Global_warming" title="Global warming">anthropogenic climate change</a> are increasingly causing <a href="/wiki/Regime_shift" title="Regime shift">regime shifts</a> in ecosystems, often to less desirable and degraded conditions.<sup id="cite_ref-Folke.2C_Carpenter_et_al_2004_2-1" class="reference"><a href="#cite_note-Folke.2C_Carpenter_et_al_2004-2">[2]</a></sup><sup id="cite_ref-Peterson_et_al_1998_3-0" class="reference"><a href="#cite_note-Peterson_et_al_1998-3">[3]</a></sup> Interdisciplinary discourse on resilience now includes consideration of the interactions of humans and ecosystems via socio-ecological systems, and the need for shift from the <a href="/wiki/Maximum_sustainable_yield" title="Maximum sustainable yield">maximum sustainable yield</a> paradigm to <a href="/wiki/Environmental_resource_management" title="Environmental resource management">environmental resource management</a> which aims to build ecological resilience through "resilience analysis, adaptive resource management, and adaptive governance".<sup id="cite_ref-Walker.2C_Holling_et_al_2004_4-0" class="reference"><a href="#cite_note-Walker.2C_Holling_et_al_2004-4">[4]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definitions"><span class="tocnumber">1</span> <span class="toctext">Definitions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Theory"><span class="tocnumber">2</span> <span class="toctext">Theory</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Human_impacts"><span class="tocnumber">3</span> <span class="toctext">Human impacts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Agriculture"><span class="tocnumber">3.1</span> <span class="toctext">Agriculture</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Deforestation"><span class="tocnumber">3.2</span> <span class="toctext">Deforestation</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Climate_change"><span class="tocnumber">3.3</span> <span class="toctext">Climate change</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Overfishing"><span class="tocnumber">3.4</span> <span class="toctext">Overfishing</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Dumping_of_waste_into_the_sea"><span class="tocnumber">3.5</span> <span class="toctext">Dumping of waste into the sea</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Poisoning_marine_life"><span class="tocnumber">3.5.1</span> <span class="toctext">Poisoning marine life</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Eutrophication_and_algal_blooms"><span class="tocnumber">3.5.2</span> <span class="toctext">Eutrophication and algal blooms</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Sustainable_development"><span class="tocnumber">4</span> <span class="toctext">Sustainable development</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Academic_perspectives"><span class="tocnumber">4.1</span> <span class="toctext">Academic perspectives</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#The_flaw_of_the_free_market"><span class="tocnumber">4.2</span> <span class="toctext">The flaw of the free market</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Moving_beyond_sustainable_development"><span class="tocnumber">4.3</span> <span class="toctext">Moving beyond sustainable development</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#In_environmental_policy"><span class="tocnumber">5</span> <span class="toctext">In environmental policy</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Environmental_management_in_legislation"><span class="tocnumber">6</span> <span class="toctext">Environmental management in legislation</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definitions">Definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=1" title="Edit section: Definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The concept of resilience in ecological systems was first introduced by the Canadian ecologist <a href="/wiki/C.S._Holling" class="mw-redirect" title="C.S. Holling">C.S. Holling</a> <sup id="cite_ref-Holling_1973_5-0" class="reference"><a href="#cite_note-Holling_1973-5">[5]</a></sup> in order to describe the persistence of natural systems in the face of changes in ecosystem variables due to natural or anthropogenic causes. Resilience has been defined in two ways in ecological literature:</p>
+<ol>
+<li>as the time required for an ecosystem to return to an <a href="https://en.wiktionary.org/wiki/equilibrium" class="extiw" title="wikt:equilibrium">equilibrium</a> or steady-state following a perturbation (which is also defined as stability by some authors). This definition of resilience is used in other fields such as physics and engineering, and hence has been termed ‘engineering resilience’ by Holling.<sup id="cite_ref-Holling_1973_5-1" class="reference"><a href="#cite_note-Holling_1973-5">[5]</a></sup><sup id="cite_ref-Gunderson_2000_6-0" class="reference"><a href="#cite_note-Gunderson_2000-6">[6]</a></sup></li>
+<li>as "the capacity of a system to absorb disturbance and reorganize while undergoing change so as to still retain essentially the same function, structure, identity, and feedbacks".<sup id="cite_ref-Walker.2C_Holling_et_al_2004_4-1" class="reference"><a href="#cite_note-Walker.2C_Holling_et_al_2004-4">[4]</a></sup></li>
+</ol>
+<p>The second definition has been termed ‘ecological resilience’, and it presumes the existence of multiple stable states or regimes.<sup id="cite_ref-Gunderson_2000_6-1" class="reference"><a href="#cite_note-Gunderson_2000-6">[6]</a></sup></p>
+<p>Some shallow temperate lakes can exist within either clear water regime, which provides many <a href="/wiki/Ecosystem_services" title="Ecosystem services">ecosystem services</a>, or a turbid water regime, which provides reduced ecosystem services and can produce <a href="/wiki/Algal_bloom#Harmful_algal_blooms" title="Algal bloom">toxic algae blooms</a>. The regime or state is dependent upon lake <a href="/wiki/Phosphorus" title="Phosphorus">phosphorus cycles</a>, and either regime can be resilient dependent upon the lake's ecology and management.<sup id="cite_ref-Folke.2C_Carpenter_et_al_2002_1-1" class="reference"><a href="#cite_note-Folke.2C_Carpenter_et_al_2002-1">[1]</a></sup><sup id="cite_ref-Folke.2C_Carpenter_et_al_2004_2-2" class="reference"><a href="#cite_note-Folke.2C_Carpenter_et_al_2004-2">[2]</a></sup></p>
+<p><a href="/wiki/Acacia_aneura" title="Acacia aneura">Mulga</a> woodlands of Australia can exist in a grass-rich regime that supports sheep herding, or a shrub-dominated regime of no value for sheep grazing. <a href="/wiki/Regime_shift" title="Regime shift">Regime shifts</a> are driven by the interaction of <a href="/wiki/Fire" title="Fire">fire</a>, <a href="/wiki/Herbivory" class="mw-redirect" title="Herbivory">herbivory</a>, and variable rainfall. Either state can be resilient dependent upon management.<sup id="cite_ref-Folke.2C_Carpenter_et_al_2002_1-2" class="reference"><a href="#cite_note-Folke.2C_Carpenter_et_al_2002-1">[1]</a></sup><sup id="cite_ref-Folke.2C_Carpenter_et_al_2004_2-3" class="reference"><a href="#cite_note-Folke.2C_Carpenter_et_al_2004-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Theory">Theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=2" title="Edit section: Theory">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ecologists <a href="/wiki/Brian_Walker_(ecologist)" title="Brian Walker (ecologist)">Brian Walker</a>, <a href="/wiki/C._S._Holling" title="C. S. Holling">C S Holling</a> and others describe four critical aspects of resilience: <i>latitude</i>, <i>resistance</i>, <i>precariousness</i>, and <i><a href="/wiki/Panarchy" title="Panarchy">panarchy</a></i>.</p>
+<p>The first three can apply both to a whole system or the sub-systems that make it up.</p>
+<ol>
+<li>Latitude: the maximum amount a system can be changed before losing its ability to recover (before crossing a threshold which, if breached, makes recovery difficult or impossible).</li>
+<li>Resistance: the ease or difficulty of changing the system; how “resistant” it is to being changed.</li>
+<li>Precariousness: how close the current state of the system is to a limit or “threshold.”.<sup id="cite_ref-Walker.2C_Holling_et_al_2004_4-2" class="reference"><a href="#cite_note-Walker.2C_Holling_et_al_2004-4">[4]</a></sup></li>
+<li>Panarchy: the degree to which a certain hierarchical level of an ecosystem is influenced by other levels. For example, organisms living in communities that are in isolation from one another may be organized differently from the same type of organism living in a large continuous population, thus the community-level structure is influenced by population-level interactions.</li>
+</ol>
+<p>Closely linked to resilience is <i><a href="/wiki/Adaptive_capacity" title="Adaptive capacity">adaptive capacity</a></i>, which is the property of an ecosystem that describes change in stability landscapes and resilience.<sup id="cite_ref-Gunderson_2000_6-2" class="reference"><a href="#cite_note-Gunderson_2000-6">[6]</a></sup> Adaptive capacity in socio-ecological systems refers to the ability of humans to deal with change in their environment by observation, learning and altering their interactions.<sup id="cite_ref-Folke.2C_Carpenter_et_al_2004_2-4" class="reference"><a href="#cite_note-Folke.2C_Carpenter_et_al_2004-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Human_impacts">Human impacts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=3" title="Edit section: Human impacts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Resilience refers to ecosystem's stability and capability of tolerating disturbance and restoring itself.&#160; If the disturbance is of sufficient magnitude or duration, a threshold may be reached where the ecosystem undergoes a <a href="/wiki/Regime_shift" title="Regime shift">regime shift</a>, possibly permanently. Sustainable use of environmental goods and services requires understanding and consideration of the resilience of the ecosystem and its limits. However, the elements which influence ecosystem resilience are complicated. For example, various elements such as the&#160;water cycle, fertility, biodiversity, plant diversity and climate, interact fiercely and affect different systems.</p>
+<p>There are many areas where human activity impacts upon and is also dependent upon the resilience of terrestrial, aquatic and marine ecosystems. These include agriculture, deforestation, pollution, mining, recreation, overfishing, dumping of waste into the sea and climate change.</p>
+<h3><span class="mw-headline" id="Agriculture">Agriculture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=4" title="Edit section: Agriculture">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Agriculture" title="Agriculture">Agriculture</a> can be seen as a significant example which the resilience of terrestrial ecosystems should be considered. The organic matter (elements carbon and nitrogen) in soil, which is supposed to be recharged by multiple plants, is the main source of nutrients for crop growth.<sup id="cite_ref-Tilman_1999_7-0" class="reference"><a href="#cite_note-Tilman_1999-7">[7]</a></sup> At the same time, intensive agriculture practices in response to global food demand and shortages involves the removal of weeds and the application of fertilisers to increase food production. However, as a result of agricultural intensification and the application of herbicides to control weeds, fertilisers to accelerate and increase crop growth and pesticides to control insects, plant biodiversity is reduced as is the supply of organic matter to replenish soil nutrients and prevent run-off. This leads to a reduction in soil fertility and productivity.<sup id="cite_ref-Tilman_1999_7-1" class="reference"><a href="#cite_note-Tilman_1999-7">[7]</a></sup> More sustainable agricultural practices would take into account and estimate the resilience of the land and monitor and balance the input and output of organic matter.</p>
+<h3><span class="mw-headline" id="Deforestation">Deforestation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=5" title="Edit section: Deforestation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The term <a href="/wiki/Deforestation" title="Deforestation">deforestation</a> has a meaning that covers crossing the threshold of forest's resilience and losing its ability to return its originally stable state. To recover itself, a forest ecosystem needs suitable interactions among climate conditions and bio-actions, and enough area. In addition, generally, the resilience of a forest system allows recovery from a relatively small scale of damage (such as lightning or landslide) of up to 10 per cent of its area.<sup id="cite_ref-Davis_and_Holmgren_2000_8-0" class="reference"><a href="#cite_note-Davis_and_Holmgren_2000-8">[8]</a></sup> The larger the scale of damage, the more difficult it is for the forest ecosystem to restore and maintain its balance.</p>
+<p>Deforestation also decreases biodiversity of both plant and animal life and can lead to an alteration of the climatic conditions of an entire area. Deforestation can also lead to species extinction, which can have a domino effect particularly when keystone species are removed or when a significant number of species is removed and their ecological function is lost.<sup id="cite_ref-Peterson_et_al_1998_3-1" class="reference"><a href="#cite_note-Peterson_et_al_1998-3">[3]</a></sup><sup id="cite_ref-Naik_2010_9-0" class="reference"><a href="#cite_note-Naik_2010-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Climate_change">Climate change</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=6" title="Edit section: Climate change">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Climate_resilience" title="Climate resilience">Climate resilience</a></div>
+<p>Climate resilience is generally defined as the capacity for a socio-ecological system to: (1) absorb stresses and maintain function in the face of external stresses imposed upon it by climate change and (2) adapt, reorganize, and evolve into more desirable configurations that improve the sustainability of the system, leaving it better prepared for future climate change impacts. Increasingly, <a href="/wiki/Global_warming" title="Global warming">climate change</a> is threatening human communities around the world in a variety of ways such as rising sea levels, increasingly frequent large storms, tidal surges and flooding damage. One of the main results of climate change is rising sea water temperature which has a serious effect on coral reefs, through thermal-stress related <a href="/wiki/Coral_bleaching" title="Coral bleaching">coral bleaching</a>. Between 1997-1998 the most significant worldwide coral bleaching event was recorded which corresponded with the <a href="/wiki/El_Nino" class="mw-redirect" title="El Nino">El Nino</a> Southern Oscillation, with significant damage to the coral reefs of the Western Indian Ocean.<sup id="cite_ref-Obura_2005_10-0" class="reference"><a href="#cite_note-Obura_2005-10">[10]</a></sup></p>
+<h3><span class="mw-headline" id="Overfishing">Overfishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=7" title="Edit section: Overfishing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It has been estimated by the United Nations Food and Agriculture Organisation that over 70% of the world’s <a href="/wiki/Fish_stock" title="Fish stock">fish stocks</a> are either fully exploited or depleted which means <a href="/wiki/Overfishing" title="Overfishing">overfishing</a> threatens <a href="/wiki/Marine_ecosystem" title="Marine ecosystem">marine ecosystem</a> resilience and this is mostly by rapid growth of fishing technology.<sup id="cite_ref-YPTE_2010_11-0" class="reference"><a href="#cite_note-YPTE_2010-11">[11]</a></sup> One of the negative effects on marine ecosystems is that over the last half-century the stocks of <a href="/wiki/Coastal_fish" title="Coastal fish">coastal fish</a> have had a huge reduction as a result of overfishing for its economic benefits.<sup id="cite_ref-Grinning_Planet_2010_1_12-0" class="reference"><a href="#cite_note-Grinning_Planet_2010_1-12">[12]</a></sup> <a href="/wiki/Tuna" title="Tuna">Blue fin tuna</a> is at particular risk of extinction. Depletion of fish stocks results in lowered biodiversity and consequently imbalance in the food chain, and increased vulnerability to disease.</p>
+<p>In addition to overfishing, coastal communities are suffering the impacts of growing numbers of large commercial <a href="/wiki/Fishing_vessel" title="Fishing vessel">fishing vessels</a> in causing reductions of small local fishing fleets. Many local lowland rivers which are sources of fresh water have become degraded because of the inflows of pollutants and sediments.<sup id="cite_ref-Gibbs_2009_13-0" class="reference"><a href="#cite_note-Gibbs_2009-13">[13]</a></sup></p>
+<h3><span class="mw-headline" id="Dumping_of_waste_into_the_sea">Dumping of waste into the sea</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=8" title="Edit section: Dumping of waste into the sea">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Dumping both depends upon ecosystem resilience whilst threatening it. Dumping of sewage and other contaminants into the ocean is often undertaken for the dispersive nature of the oceans and adaptive nature and ability for marine life to process the <a href="/wiki/Marine_debris" title="Marine debris">marine debris</a> and contaminants. However, waste dumping threatens marine ecosystems by poisoning marine life and <a href="/wiki/Eutrophication" title="Eutrophication">eutrophication</a>.</p>
+<h4><span class="mw-headline" id="Poisoning_marine_life">Poisoning marine life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=9" title="Edit section: Poisoning marine life">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>According to the International Maritime Organisation oil spills can have serious effects on marine life. The OILPOL Convention recognized that most oil pollution resulted from routine shipboard operations such as the cleaning of cargo tanks.&#160; In the 1950s, the normal practice was simply to wash the tanks out with water and then pump the resulting mixture of oil and water into the sea. OILPOL 54&#160;&#160; prohibited the dumping of oily wastes within a certain distance from land and in 'special areas' where the danger to the environment was especially acute. In 1962 the limits were extended by means of an amendment adopted at a conference organized by IMO. Meanwhile, IMO in 1965 set up a Subcommittee on Oil Pollution, under the auspices of its Maritime Safety committee, to address oil pollution issues.<sup id="cite_ref-IMO_2010_14-0" class="reference"><a href="#cite_note-IMO_2010-14">[14]</a></sup></p>
+<p>The threat of oil spills to marine life is recognised by those likely to be responsible for the pollution, such as the International Tanker Owners Pollution Federation:</p>
+<p>The marine ecosystem is highly complex and natural fluctuations in species composition, abundance and distribution are a basic feature of its normal function. The extent of damage can therefore be difficult to detect against this background variability. Nevertheless, the key to understanding damage and its importance is whether spill effects result in a downturn in breeding success, productivity, diversity and the overall functioning of the system. Spills are not the only pressure on marine habitats; chronic urban and industrial contamination or the exploitation of the resources they provide are also serious threats.<sup id="cite_ref-ITOPF_2010_15-0" class="reference"><a href="#cite_note-ITOPF_2010-15">[15]</a></sup></p>
+<h4><span class="mw-headline" id="Eutrophication_and_algal_blooms">Eutrophication and algal blooms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=10" title="Edit section: Eutrophication and algal blooms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The Woods Hole Oceanographic Institution calls nutrient pollution the most widespread, chronic environmental problem in the coastal ocean. The discharges of nitrogen, phosphorus, and other nutrients come from agriculture, waste disposal, coastal development, and fossil fuel use. Once nutrient pollution reaches the coastal zone, it stimulates harmful overgrowths of algae, which can have direct toxic effects and ultimately result in low-oxygen conditions. Certain types of algae are toxic. Overgrowths of these algae result in harmful <a href="/wiki/Algal_blooms" class="mw-redirect" title="Algal blooms">algal blooms</a>, which are more colloquially referred to as "red tides" or "brown tides". Zooplankton eat the toxic algae and begin passing the toxins up the food chain, affecting edibles like clams, and ultimately working their way up to seabirds, marine mammals, and humans. The result can be illness and sometimes death.<sup id="cite_ref-Grinning_Planet_2010_2_16-0" class="reference"><a href="#cite_note-Grinning_Planet_2010_2-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Sustainable_development">Sustainable development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=11" title="Edit section: Sustainable development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is increasing awareness that a greater understanding and emphasis of ecosystem resilience is required to reach the goal of <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a>.<sup id="cite_ref-Gibbs_2009_13-1" class="reference"><a href="#cite_note-Gibbs_2009-13">[13]</a></sup><sup id="cite_ref-Walker.2C_Carpenter_et_al_2002_17-0" class="reference"><a href="#cite_note-Walker.2C_Carpenter_et_al_2002-17">[17]</a></sup><sup id="cite_ref-Brand_2009_18-0" class="reference"><a href="#cite_note-Brand_2009-18">[18]</a></sup> A similar conclusion is drawn by Perman et al. who use resilience to describe one of 6 concepts of sustainability; "A sustainable state is one which satisfies minimum conditions for ecosystem resilience through time".<sup id="cite_ref-Perman_et_al_19-0" class="reference"><a href="#cite_note-Perman_et_al-19">[19]</a></sup> Resilience science has been evolving over the past decade, expanding beyond ecology to reflect systems of thinking in fields such as <a href="/wiki/Economics" title="Economics">economics</a> and <a href="/wiki/Political_science" title="Political science">political science</a>. And, as more and more people move into densely populated cities, using massive amounts of water, energy, and other resources, the need to combine these disciplines to consider the resilience of <a href="/wiki/Urban_ecosystem" title="Urban ecosystem">urban ecosystems</a> and cities is of paramount importance.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h3><span class="mw-headline" id="Academic_perspectives">Academic perspectives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=12" title="Edit section: Academic perspectives">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The interdependence of ecological and social systems has gained renewed recognition since the late 1990s by academics including Berkes and Folke<sup id="cite_ref-Berkes_and_Folke_21-0" class="reference"><a href="#cite_note-Berkes_and_Folke-21">[21]</a></sup> and developed further in 2002 by Folke et al.<sup id="cite_ref-Folke.2C_Carpenter_et_al_2002_1-3" class="reference"><a href="#cite_note-Folke.2C_Carpenter_et_al_2002-1">[1]</a></sup> as the concept of sustainable development has evolved <a href="/wiki/Circles_of_Sustainability" title="Circles of Sustainability">beyond the 3 pillars</a> of sustainable development to place greater political emphasis on economic development. This is a movement which causes wide concern in environmental and social forums and which Clive Hamilton describes as "the growth fetish".<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<p>The purpose of ecological resilience that is proposed is ultimately about averting our extinction as Walker cites Holling in his paper: "[..] "resilience is concerned with [measuring] the probabilities of extinction” (1973, p.&#160;20)".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Becoming more apparent in academic writing is the significance of the environment and resilience in sustainable development. Folke et al state that the likelihood of sustaining development is raised by "Managing for resilience"<sup id="cite_ref-Folke.2C_Carpenter_et_al_2002_1-4" class="reference"><a href="#cite_note-Folke.2C_Carpenter_et_al_2002-1">[1]</a></sup> whilst Perman et al. propose that safeguarding the environment to "deliver a set of services" should be a "necessary condition for an economy to be sustainable".<sup id="cite_ref-Perman_et_al_19-1" class="reference"><a href="#cite_note-Perman_et_al-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="The_flaw_of_the_free_market">The flaw of the free market</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=13" title="Edit section: The flaw of the free market">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The challenge of applying the concept of ecological resilience to the context of sustainable development is that it sits at odds with conventional economic ideology and policy making. Resilience questions the <a href="/wiki/Free_market" title="Free market">free market</a> model within which global markets operate. Inherent to the successful operation of a free market is specialisation which is required to achieve efficiency and increase productivity. This very act of specialisation weakens resilience by permitting systems to become accustomed to and dependent upon their prevailing conditions. In the event of unanticipated shocks; this dependency reduces the ability of the system to adapt to these changes.<sup id="cite_ref-Folke.2C_Carpenter_et_al_2002_1-5" class="reference"><a href="#cite_note-Folke.2C_Carpenter_et_al_2002-1">[1]</a></sup> Correspondingly; Perman et al. note that; "Some economic activities appear to reduce resilience, so that the level of disturbance to which the ecosystem can be subjected to without parametric change taking place is reduced".<sup id="cite_ref-Perman_et_al_19-2" class="reference"><a href="#cite_note-Perman_et_al-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="Moving_beyond_sustainable_development">Moving beyond sustainable development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=14" title="Edit section: Moving beyond sustainable development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Berkes and Folke table a set of principles to assist with "building resilience and sustainability" which consolidate approaches of <a href="/wiki/Adaptive_management" title="Adaptive management">adaptive management</a>, local knowledge-based management practices and conditions for institutional learning and self-organisation.<sup id="cite_ref-Berkes_and_Folke_21-1" class="reference"><a href="#cite_note-Berkes_and_Folke-21">[21]</a></sup></p>
+<p>More recently, it has been suggested by Andrea Ross that the concept of sustainable development is no longer adequate in assisting policy development fit for today’s global challenges and objectives. This is because the concept of sustainable development is "based on <a href="/wiki/Weak_sustainability" class="mw-redirect" title="Weak sustainability">weak sustainability</a>" which doesn’t take account of the reality of "limits to earth's resilience".<sup id="cite_ref-Ross_24-0" class="reference"><a href="#cite_note-Ross-24">[24]</a></sup> Ross draws on the impact of <a href="/wiki/Climate_change" title="Climate change">climate change</a> on the global agenda as a fundamental factor in the "shift towards ecological sustainability" as an alternative approach to that of sustainable development.<sup id="cite_ref-Ross_24-1" class="reference"><a href="#cite_note-Ross-24">[24]</a></sup></p>
+<h2><span class="mw-headline" id="In_environmental_policy">In environmental policy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=15" title="Edit section: In environmental policy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Scientific research associated with resilience is beginning to play a role in influencing policy-making and subsequent environmental decision making.</p>
+<p>This occurs in a number of ways:</p>
+<ul>
+<li>Observed resilience within specific ecosystems drives management practice. When resilience is observed to be low, or impact seems to be reaching the threshold, management response can be to alter human behavior to result in less adverse impact to the ecosystem.<sup id="cite_ref-Gibbs_2009_13-2" class="reference"><a href="#cite_note-Gibbs_2009-13">[13]</a></sup></li>
+<li>Ecosystem resilience impacts upon the way that development is permitted/environmental decision making is undertaken, similar to the way that existing ecosystem health impacts upon what development is permitted. For instance, remnant vegetation in the states of Queensland and New South Wales are classified in terms of ecosystem health and abundance. Any impact that development has upon threatened ecosystems must consider the health and resilience of these ecosystems. This is governed by the <i>Threatened Species Conservation Act 1995</i> in New South Wales <sup id="cite_ref-DECCW_2010_2_25-0" class="reference"><a href="#cite_note-DECCW_2010_2-25">[25]</a></sup> and the <i>Vegetation Management Act 1999</i> in Queensland.<sup id="cite_ref-DERM_2010_26-0" class="reference"><a href="#cite_note-DERM_2010-26">[26]</a></sup></li>
+<li>International level initiatives aim at improving socio-ecological resilience worldwide through the cooperation and contributions of scientific and other experts. An example of such an initiative is the <b><a href="/wiki/Millennium_Ecosystem_Assessment" title="Millennium Ecosystem Assessment">Millennium Ecosystem Assessment</a></b> <sup id="cite_ref-MEA_2010_27-0" class="reference"><a href="#cite_note-MEA_2010-27">[27]</a></sup> whose objective is "to assess the consequences of ecosystem change for human well-being and the scientific basis for action needed to enhance the conservation and sustainable use of those systems and their contribution to human well-being". Similarly, the <b><a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">United Nations Environment Programme</a></b> <sup id="cite_ref-UNEP_2010_28-0" class="reference"><a href="#cite_note-UNEP_2010-28">[28]</a></sup> aim is "to provide leadership and encourage partnership in caring for the environment by inspiring, informing, and enabling nations and peoples to improve their quality of life without compromising that of future generations.</li>
+</ul>
+<h2><span class="mw-headline" id="Environmental_management_in_legislation">Environmental management in legislation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=16" title="Edit section: Environmental management in legislation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ecological resilience and the thresholds by which resilience is defined are closely interrelated in the way that they influence environmental policy-making, legislation and subsequently environmental management. The ability of ecosystems to recover from certain levels of environmental impact is not explicitly noted in legislation, however, because of ecosystem resilience, some levels of environmental impact associated with development are made permissible by environmental policy-making and ensuing legislation.</p>
+<p>Some examples of the consideration of ecosystem resilience within legislation include:</p>
+<ul>
+<li><i><a href="/wiki/Environmental_Planning_and_Assessment_Act_1979" title="Environmental Planning and Assessment Act 1979">Environmental Planning and Assessment Act 1979</a></i> (NSW) <sup id="cite_ref-EPA_Act_1979_29-0" class="reference"><a href="#cite_note-EPA_Act_1979-29">[29]</a></sup> – A key goal of the Environmental Assessment procedure is to determine whether proposed development will have a significant impact upon ecosystems.</li>
+<li><i><a href="/w/index.php?title=Protection_of_the_Environment_(Operations)_Act_1997&amp;action=edit&amp;redlink=1" class="new" title="Protection of the Environment (Operations) Act 1997 (page does not exist)">Protection of the Environment (Operations) Act 1997</a></i> (NSW) <sup id="cite_ref-POEO_Act_1997_30-0" class="reference"><a href="#cite_note-POEO_Act_1997-30">[30]</a></sup> – Pollution control is dependent upon keeping levels of pollutants emitted by industrial and other human activities below levels which would be harmful to the environment and its ecosystems. Environmental protection licenses are administered to maintain the environmental objectives of the POEO Act and breaches of license conditions can attract heavy penalties and in some cases criminal convictions.<sup id="cite_ref-DECCW_2010_1_31-0" class="reference"><a href="#cite_note-DECCW_2010_1-31">[31]</a></sup></li>
+<li><i><a href="/w/index.php?title=Threatened_Species_Conservation_Act_1995&amp;action=edit&amp;redlink=1" class="new" title="Threatened Species Conservation Act 1995 (page does not exist)">Threatened Species Conservation Act 1995</a></i> (NSW) <sup id="cite_ref-TSC_Act_1995_32-0" class="reference"><a href="#cite_note-TSC_Act_1995-32">[32]</a></sup> – This Act seeks to protect threatened species while balancing it with development.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Climate_resilience" title="Climate resilience">Climate resilience</a></li>
+<li><a href="/wiki/Ecology_and_Society" title="Ecology and Society">Ecology and Society</a></li>
+<li><a href="/wiki/Resilience_of_coral_reefs" title="Resilience of coral reefs">Resilience of coral reefs</a></li>
+<li><a href="/wiki/Resistance_(ecology)" title="Resistance (ecology)">Resistance (ecology)</a></li>
+<li><a href="/wiki/Regeneration_(ecology)" title="Regeneration (ecology)">Regeneration (ecology)</a></li>
+<li><a href="/wiki/Stability_(ecology)" class="mw-redirect" title="Stability (ecology)">Stability (ecology)</a></li>
+<li><a href="/wiki/Socio-ecological_system" title="Socio-ecological system">Socio-ecological system</a></li>
+<li><a href="/wiki/Soil_resilience" title="Soil resilience">Soil resilience</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Vulnerability" title="Vulnerability">Vulnerability</a></li>
+<li><a href="/wiki/Homeostasis" title="Homeostasis">Homeostasis</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Folke.2C_Carpenter_et_al_2002-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Folke.2C_Carpenter_et_al_2002_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Folke.2C_Carpenter_et_al_2002_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Folke.2C_Carpenter_et_al_2002_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Folke.2C_Carpenter_et_al_2002_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Folke.2C_Carpenter_et_al_2002_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Folke.2C_Carpenter_et_al_2002_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Folke, C., Carpenter,S., Elmqvist, T., Gunderson, L., Holling C.S., Walker, B. (2002). "Resilience and Sustainable Development: Building Adaptive Capacity in a World of Transformations". <i>Ambio</i>. <b>31</b> (5): 437–440. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1639%2F0044-7447%282002%29031%5B0437%3Arasdba%5D2.0.co%3B2">10.1639/0044-7447(2002)031[0437:rasdba]2.0.co;2</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12374053">12374053</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Resilience+and+Sustainable+Development%3A+Building+Adaptive+Capacity+in+a+World+of+Transformations&amp;rft.au=Folke%2C+C.%2C+Carpenter%2CS.%2C+Elmqvist%2C+T.%2C+Gunderson%2C+L.%2C+Holling+C.S.%2C+Walker%2C+B.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1639%2F0044-7447%282002%29031%5B0437%3Arasdba%5D2.0.co%3B2&amp;rft_id=info%3Apmid%2F12374053&amp;rft.issue=5&amp;rft.jtitle=Ambio&amp;rft.pages=437-440&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-Folke.2C_Carpenter_et_al_2004-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Folke.2C_Carpenter_et_al_2004_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Folke.2C_Carpenter_et_al_2004_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Folke.2C_Carpenter_et_al_2004_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Folke.2C_Carpenter_et_al_2004_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Folke.2C_Carpenter_et_al_2004_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Folke, C.; Carpenter, S.; Walker, B.; Scheffer, M.; Elmqvist, T.; Gunderson, L.; Holling, C.S. (2004). "Regime Shifts, Resilience, and Biodiversity in Ecosystem Management". <i>Annual Review of Ecology, Evolution, and Systematics</i>. <b>35</b>: 557–581. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1146%2Fannurev.ecolsys.35.021103.105711">10.1146/annurev.ecolsys.35.021103.105711</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Regime+Shifts%2C+Resilience%2C+and+Biodiversity+in+Ecosystem+Management&amp;rft.au=Carpenter%2C+S.&amp;rft.au=Elmqvist%2C+T.&amp;rft.au=Folke%2C+C.&amp;rft.au=Gunderson%2C+L.&amp;rft.au=Holling%2C+C.S.&amp;rft.au=Scheffer%2C+M.&amp;rft.au=Walker%2C+B.&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.ecolsys.35.021103.105711&amp;rft.jtitle=Annual+Review+of+Ecology%2C+Evolution%2C+and+Systematics&amp;rft.pages=557-581&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=35" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Peterson_et_al_1998-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Peterson_et_al_1998_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Peterson_et_al_1998_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Peterson, G.; Allen, C.R.; Holling, C.S. (1998). "Ecological Resilience, Biodiversity, and Scale". <i>Ecosystems</i>. <b>1</b> (1): 6–18. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs100219900002">10.1007/s100219900002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Ecological+Resilience%2C+Biodiversity%2C+and+Scale&amp;rft.au=Allen%2C+C.R.&amp;rft.au=Holling%2C+C.S.&amp;rft.au=Peterson%2C+G.&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs100219900002&amp;rft.issue=1&amp;rft.jtitle=Ecosystems&amp;rft.pages=6-18&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Walker.2C_Holling_et_al_2004-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Walker.2C_Holling_et_al_2004_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Walker.2C_Holling_et_al_2004_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Walker.2C_Holling_et_al_2004_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Walker, B.; Holling, C. S.; Carpenter, S. R.; Kinzig, A. (2004). <a rel="nofollow" class="external text" href="http://www.ecologyandsociety.org/vol9/iss2/art5/">"Resilience, adaptability and transformability in social–ecological systems"</a>. <i>Ecology and Society</i>. <b>9</b> (2): 5.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Resilience%2C+adaptability+and+transformability+in+social%93ecological+systems&amp;rft.au=Carpenter%2C+S.+R.&amp;rft.au=Holling%2C+C.+S.&amp;rft.au=Kinzig%2C+A.&amp;rft.au=Walker%2C+B.&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ecologyandsociety.org%2Fvol9%2Fiss2%2Fart5%2F&amp;rft.issue=2&amp;rft.jtitle=Ecology+and+Society&amp;rft.pages=5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Holling_1973-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Holling_1973_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Holling_1973_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Holling, C.S. (1973). "Resilience and stability of ecological systems". <i>Annual Review of Ecology and Systematics</i>. <b>4</b>: 1–23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1146%2Fannurev.es.04.110173.000245">10.1146/annurev.es.04.110173.000245</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Resilience+and+stability+of+ecological+systems&amp;rft.au=Holling%2C+C.S.&amp;rft.date=1973&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.es.04.110173.000245&amp;rft.jtitle=Annual+Review+of+Ecology+and+Systematics&amp;rft.pages=1-23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Gunderson_2000-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gunderson_2000_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gunderson_2000_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gunderson_2000_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Gunderson, L.H. (2000). "Ecological Resilience — In Theory and Application". <i>Annual Review of Ecology and Systematics</i>. <b>31</b>: 425–439. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1146%2Fannurev.ecolsys.31.1.425">10.1146/annurev.ecolsys.31.1.425</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Ecological+Resilience+%94+In+Theory+and+Application&amp;rft.au=Gunderson%2C+L.H.&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.ecolsys.31.1.425&amp;rft.jtitle=Annual+Review+of+Ecology+and+Systematics&amp;rft.pages=425-439&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Tilman_1999-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tilman_1999_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tilman_1999_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Tilman, D. (May 1999). <a rel="nofollow" class="external text" href="http://www.pnas.org/content/96/11/5995.full#sec-6">"Global environmental impacts of agricultural expansion: The need of sustainable and efficient practices"</a>. <i>Proc. Natl. Acad. Sci. U.S.A</i>. <b>96</b> (11): 5995–6000. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1073%2Fpnas.96.11.5995">10.1073/pnas.96.11.5995</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC34218">34218</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10339530">10339530</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Global+environmental+impacts+of+agricultural+expansion%3A+The+need+of+sustainable+and+efficient+practices&amp;rft.au=Tilman%2C+D.&amp;rft.date=1999-05&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC34218&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F96%2F11%2F5995.full%23sec-6&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.96.11.5995&amp;rft_id=info%3Apmid%2F10339530&amp;rft.issue=11&amp;rft.jtitle=Proc.+Natl.+Acad.+Sci.+U.S.A.&amp;rft.pages=5995-6000&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=96" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Davis_and_Holmgren_2000-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Davis_and_Holmgren_2000_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Davis R.; Holmgren P. (2 November 2000). <a rel="nofollow" class="external text" href="http://www.fao.org/docrep/006/ad665e/ad665e04.htm">"On Definitions of Forest and Forest Change"</a>. <i>Forest Resources Assessment Programme, Working Paper 33</i>. <a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">Food and Agriculture Organization</a> of the United Nation, Forestry Department.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=On+Definitions+of+Forest+and+Forest+Change&amp;rft.au=Davis+R.&amp;rft.au=Holmgren+P.&amp;rft.date=2000-11-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fao.org%2Fdocrep%2F006%2Fad665e%2Fad665e04.htm&amp;rft.jtitle=Forest+Resources+Assessment+Programme%2C+Working+Paper+33&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Naik_2010-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Naik_2010_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Naik, A. (29 June 2010). <a rel="nofollow" class="external text" href="http://www.buzzle.com/articles/deforestation-statistics.html">"Deforestation Statistics"</a>. Buzzle.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.au=Naik%2C+A.&amp;rft.btitle=Deforestation+Statistics&amp;rft.date=2010-06-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.buzzle.com%2Farticles%2Fdeforestation-statistics.html&amp;rft.pub=Buzzle.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Obura_2005-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Obura_2005_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Obura, D.O. (2005). "Resilience and climate change: lessons from local reefs and bleaching in the Western Indian Ocean". <i><a href="/wiki/Estuarine,_Coastal_and_Shelf_Science" title="Estuarine, Coastal and Shelf Science">Estuarine, Coastal and Shelf Science</a></i>. <b>63</b> (3): 353–372. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.ecss.2004.11.010">10.1016/j.ecss.2004.11.010</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Resilience+and+climate+change%3A+lessons+from+local+reefs+and+bleaching+in+the+Western+Indian+Ocean&amp;rft.au=Obura%2C+D.O.&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ecss.2004.11.010&amp;rft.issue=3&amp;rft.jtitle=Estuarine%2C+Coastal+and+Shelf+Science&amp;rft.pages=353-372&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=63" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-YPTE_2010-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-YPTE_2010_11-0">^</a></b></span> <span class="reference-text">YPTE 2010 Overfishing: Environmental Facts <i>Young Peoples Trust for the Environment</i> Viewed September 12, 2010. <a rel="nofollow" class="external text" href="http://www.ypte.org.uk/environmental/over-fishing/29">Overfishing: Environmental Facts</a></span></li>
+<li id="cite_note-Grinning_Planet_2010_1-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Grinning_Planet_2010_1_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.grinningplanet.com/2005/06-07/overfishing-article.htm">"Overfishing"</a>. Grinning Planet. 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.btitle=Overfishing&amp;rft.date=2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.grinningplanet.com%2F2005%2F06-07%2Foverfishing-article.htm&amp;rft.pub=Grinning+Planet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Gibbs_2009-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gibbs_2009_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gibbs_2009_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gibbs_2009_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Gibbs, M.T. (2009). "Resilience: What is it and what does it mean for marine policymakers?". <i>Marine Policy</i>. <b>33</b> (2): 322–331. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.marpol.2008.08.001">10.1016/j.marpol.2008.08.001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Resilience%3A+What+is+it+and+what+does+it+mean+for+marine+policymakers%3F&amp;rft.au=Gibbs%2C+M.T.&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.marpol.2008.08.001&amp;rft.issue=2&amp;rft.jtitle=Marine+Policy&amp;rft.pages=322-331&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=33" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IMO_2010-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-IMO_2010_14-0">^</a></b></span> <span class="reference-text">IMO 2010 <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.imo.org/environment/mainframe.asp?topic_id=231">"Oil Pollution"</a>. International Maritime Organization.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.btitle=Oil+Pollution&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.imo.org%2Fenvironment%2Fmainframe.asp%3Ftopic_id%3D231&amp;rft.pub=International+Maritime+Organization&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ITOPF_2010-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-ITOPF_2010_15-0">^</a></b></span> <span class="reference-text">ITOPF 2010 <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.itopf.com/marine-spills/effects/index.html">"Effects of Oil Spills"</a>. International Tanker Owners Pollution Federation.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.btitle=Effects+of+Oil+Spills&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.itopf.com%2Fmarine-spills%2Feffects%2Findex.html&amp;rft.pub=International+Tanker+Owners+Pollution+Federation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Grinning_Planet_2010_2-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Grinning_Planet_2010_2_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.grinningplanet.com/2006/12-05/water-pollution-effects.htm">"Water Pollution Effects"</a>. Grinning Planet. 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.btitle=Water+Pollution+Effects&amp;rft.date=2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.grinningplanet.com%2F2006%2F12-05%2Fwater-pollution-effects.htm&amp;rft.pub=Grinning+Planet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Walker.2C_Carpenter_et_al_2002-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Walker.2C_Carpenter_et_al_2002_17-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Walker, B.; Carpenter, S.; et al. (2002). "Resilience Management in Social-ecological Systems: a Working Hypothesis for a Participatory Approach". <i>Conservation Ecology</i>. <b>6</b> (1): 14.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Resilience+Management+in+Social-ecological+Systems%3A+a+Working+Hypothesis+for+a+Participatory+Approach&amp;rft.au=Carpenter%2C+S.&amp;rft.au=Walker%2C+B.&amp;rft.date=2002&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Conservation+Ecology&amp;rft.pages=14&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Brand_2009-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brand_2009_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brand, F. (2009). "Critical natural capital revisited: Ecological resilience and sustainable development". <i><a href="/wiki/International_Society_for_Ecological_Economics" title="International Society for Ecological Economics">Ecological Economics</a></i>. <b>68</b> (3): 605–612. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.ecolecon.2008.09.013">10.1016/j.ecolecon.2008.09.013</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Critical+natural+capital+revisited%3A+Ecological+resilience+and+sustainable+development&amp;rft.au=Brand%2C+F.&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ecolecon.2008.09.013&amp;rft.issue=3&amp;rft.jtitle=Ecological+Economics&amp;rft.pages=605-612&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=68" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Perman_et_al-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Perman_et_al_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Perman_et_al_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Perman_et_al_19-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Perman, R, Ma, Y, McGilvray, J and M.Common. (2003). “Natural Resource and Environmental Economics”. Longman. 26, 52, 86.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://blogs.ei.columbia.edu/2011/10/12/ecological-and-urban-resilience/">http://blogs.ei.columbia.edu/2011/10/12/ecological-and-urban-resilience/</a></span></li>
+<li id="cite_note-Berkes_and_Folke-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Berkes_and_Folke_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Berkes_and_Folke_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Berkes, F. and Folke, C., (ed Colding, J.) (1998). “Linking Social and Ecological Systems: Management practices and social mechanisms for building resilience”. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>: 1, 33, 429, 433.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Hamilton, C. (2010). “Requiem for a Species: Why we Resist the Truth about Climate Change”. Earthscan. 32, 14.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Walker, J. (2007). “The Strange Evolution of Holling’s Resilience or The Resilience of Economics and the Eternal Return of Infinite Growth”. Submission to TfC e-Journal. 8</span></li>
+<li id="cite_note-Ross-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ross_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ross_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Ross A (2008). "Modern Interpretations of Sustainable Development". <i>Journal of Law and Society</i>. <b>36</b> (1): 32. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1467-6478.2009.00455.x">10.1111/j.1467-6478.2009.00455.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Modern+Interpretations+of+Sustainable+Development&amp;rft.au=Ross+A&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1467-6478.2009.00455.x&amp;rft.issue=1&amp;rft.jtitle=Journal+of+Law+and+Society&amp;rft.pages=32&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=36" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DECCW_2010_2-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-DECCW_2010_2_25-0">^</a></b></span> <span class="reference-text">DECCW 2010 <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.environment.nsw.gov.au/threatenedspecies/">"Threatened Species"</a>. <i>Climate change and Water</i>. New South Wales Department of the Environment.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Threatened+Species&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.environment.nsw.gov.au%2Fthreatenedspecies%2F&amp;rft.jtitle=Climate+change+and+Water&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DERM_2010-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-DERM_2010_26-0">^</a></b></span> <span class="reference-text">DERM 2010 <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.derm.qld.gov.au/vegetation/legislation.html">"Vegetation Management: Legislation and Policy"</a>. <a href="/w/index.php?title=Queensland_Department_of_the_Environment_and_Resource_Management&amp;action=edit&amp;redlink=1" class="new" title="Queensland Department of the Environment and Resource Management (page does not exist)">Queensland Department of the Environment and Resource Management</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.btitle=Vegetation+Management%3A+Legislation+and+Policy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.derm.qld.gov.au%2Fvegetation%2Flegislation.html&amp;rft.pub=Queensland+Department+of+the+Environment+and+Resource+Management&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MEA_2010-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-MEA_2010_27-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.millenniumassessment.org/en/About.aspx">Millennium Ecosystem Assessment</a></span></li>
+<li id="cite_note-UNEP_2010-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-UNEP_2010_28-0">^</a></b></span> <span class="reference-text">United Nations Environment Programme. Viewed September 12, 2010 <a rel="nofollow" class="external text" href="http://www.unep.org/">United Nations Environment Programme</a></span></li>
+<li id="cite_note-EPA_Act_1979-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-EPA_Act_1979_29-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.legislation.nsw.gov.au/maintop/view/inforce/act+203+1979+cd+0+N">"Environmental Planning and Assessment Act 1979"</a>. <i>No. 203</i>. NSW.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Environmental+Planning+and+Assessment+Act+1979&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.legislation.nsw.gov.au%2Fmaintop%2Fview%2Finforce%2Fact%2B203%2B1979%2Bcd%2B0%2BN&amp;rft.jtitle=No.+203&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-POEO_Act_1997-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-POEO_Act_1997_30-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.legislation.nsw.gov.au/maintop/view/inforce/act+156+1997+cd+0+N">"Protection of the Environment (Operations) Act 1997"</a>. <i>No. 156</i>. NSW.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Protection+of+the+Environment+%28Operations%29+Act+1997&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.legislation.nsw.gov.au%2Fmaintop%2Fview%2Finforce%2Fact%2B156%2B1997%2Bcd%2B0%2BN&amp;rft.jtitle=No.+156&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DECCW_2010_1-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-DECCW_2010_1_31-0">^</a></b></span> <span class="reference-text">DECCW 2010 <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.environment.nsw.gov.au/licensing/">"Environment protection licences"</a>. <i>Climate change and Water</i>. <a href="/wiki/Department_of_Environment,_Climate_Change_and_Water_(New_South_Wales)" class="mw-redirect" title="Department of Environment, Climate Change and Water (New South Wales)">New South Wales Department of Environment, Climate Change and Water</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.atitle=Environment+protection+licences&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.environment.nsw.gov.au%2Flicensing%2F&amp;rft.jtitle=Climate+change+and+Water&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TSC_Act_1995-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-TSC_Act_1995_32-0">^</a></b></span> <span class="reference-text"><i>Threatened Species Conservation Act 1995</i> (NSW) No.101 <a rel="nofollow" class="external text" href="http://www.legislation.nsw.gov.au/maintop/view/inforce/act+101+1995+cd+0+N">Threatened Species Conservation Act</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=19" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Hulme, M. (2009). “Why we Disagree about Climate Change: Understanding Controversy, Inaction and Opportunity". Cambridge University Press.</li>
+<li>Lee, M. (2005) “EU Environmental Law: Challenges, Change and Decisions Making”. Hart. 26.</li>
+<li>Maclean K, Cuthill M, Ross H. (2013). Six attributes of social resilience. Journal of Environmental Planning and Management. (online first)</li>
+<li>Pearce, D.W. (1993). “Blueprint 3: Measuring Sustainable Development”. <a href="/wiki/Earthscan" title="Earthscan">Earthscan</a>.</li>
+<li><cite class="citation book">Andrew Zolli; Ann Marie Healy (2013). <i>Resilience: Why Things Bounce Back</i>. Simon &amp; Schuster. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1451683813" title="Special:BookSources/978-1451683813">978-1451683813</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+resilience&amp;rft.au=Andrew+Zolli&amp;rft.au=Ann+Marie+Healy&amp;rft.btitle=Resilience%3A+Why+Things+Bounce+Back&amp;rft.date=2013&amp;rft.genre=book&amp;rft.isbn=978-1451683813&amp;rft.pub=Simon+%26+Schuster&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Resilience Alliance — a research network that focuses on social-ecological resilience <a rel="nofollow" class="external text" href="http://www.resalliance.org/">Resilience Alliance</a></li>
+<li>Stockholme Resilience Centre — an international centre that advances trans disciplinary research for governance of social-ecological systems with a special emphasis on resilience — the ability to deal with change and continue to develop <a rel="nofollow" class="external text" href="http://www.stockholmresilience.org/">Stockholm Resilience Centre</a></li>
+</ul>
+<ul>
+<li>TURaS — a European project mapping urban transitioning towards resilience and sustainability <a rel="nofollow" class="external text" href="http://www.turas-cities.eu/">TURaS</a></li>
+<li>Microdocs:Resilience — a short documentary on resilience <a rel="nofollow" class="external text" href="http://www.stanford.edu/group/microdocs/resilience.html">Resilience</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Ecology:_Modelling_ecosystems:_Trophic_components" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ecology:_Modelling_ecosystems:_Trophic_components" style="font-size:114%"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: <a href="/wiki/Trophic_level" title="Trophic level">Trophic</a> components</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abiotic_component" title="Abiotic component">Abiotic component</a></li>
+<li><a href="/wiki/Abiotic_stress" title="Abiotic stress">Abiotic stress</a></li>
+<li><a href="/wiki/Behavioral_ecology" title="Behavioral ecology">Behaviour</a></li>
+<li><a href="/wiki/Biogeochemical_cycle" title="Biogeochemical cycle">Biogeochemical cycle</a></li>
+<li><a href="/wiki/Biomass_(ecology)" title="Biomass (ecology)">Biomass</a></li>
+<li><a href="/wiki/Biotic_component" title="Biotic component">Biotic component</a></li>
+<li><a href="/wiki/Biotic_stress" title="Biotic stress">Biotic stress</a></li>
+<li><a href="/wiki/Carrying_capacity" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Competition_(biology)" title="Competition (biology)">Competition</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/Ecosystem_ecology" title="Ecosystem ecology">Ecosystem ecology</a></li>
+<li><a href="/wiki/Ecosystem_model" title="Ecosystem model">Ecosystem model</a></li>
+<li><a href="/wiki/Keystone_species" title="Keystone species">Keystone species</a></li>
+<li><a href="/wiki/List_of_feeding_behaviours" title="List of feeding behaviours">List of feeding behaviours</a></li>
+<li><a href="/wiki/Metabolic_theory_of_ecology" title="Metabolic theory of ecology">Metabolic theory of ecology</a></li>
+<li><a href="/wiki/Productivity_(ecology)" title="Productivity (ecology)">Productivity</a></li>
+<li><a href="/wiki/Resource_(biology)" title="Resource (biology)">Resource</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Primary_producers" title="Primary producers">Producers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autotroph" title="Autotroph">Autotrophs</a></li>
+<li><a href="/wiki/Chemosynthesis" title="Chemosynthesis">Chemosynthesis</a></li>
+<li><a href="/wiki/Chemotroph" title="Chemotroph">Chemotrophs</a></li>
+<li><a href="/wiki/Foundation_species" title="Foundation species">Foundation species</a></li>
+<li><a href="/wiki/Mixotroph" title="Mixotroph">Mixotrophs</a></li>
+<li><a href="/wiki/Myco-heterotrophy" title="Myco-heterotrophy">Myco-heterotrophy</a></li>
+<li><a href="/wiki/Mycotroph" title="Mycotroph">Mycotroph</a></li>
+<li><a href="/wiki/Organotroph" title="Organotroph">Organotrophs</a></li>
+<li><a href="/wiki/Photoheterotroph" title="Photoheterotroph">Photoheterotrophs</a></li>
+<li><a href="/wiki/Photosynthesis" title="Photosynthesis">Photosynthesis</a></li>
+<li><a href="/wiki/Photosynthetic_efficiency" title="Photosynthetic efficiency">Photosynthetic efficiency</a></li>
+<li><a href="/wiki/Phototroph" title="Phototroph">Phototrophs</a></li>
+<li><a href="/wiki/Primary_nutritional_groups" title="Primary nutritional groups">Primary nutritional groups</a></li>
+<li><a href="/wiki/Primary_production" title="Primary production">Primary production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Consumers_(food_chain)" class="mw-redirect" title="Consumers (food chain)">Consumers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apex_predator" title="Apex predator">Apex predator</a></li>
+<li><a href="/wiki/Bacterivore" title="Bacterivore">Bacterivore</a></li>
+<li><a href="/wiki/Carnivore" title="Carnivore">Carnivores</a></li>
+<li><a href="/wiki/Chemoorganotroph" class="mw-redirect" title="Chemoorganotroph">Chemoorganotroph</a></li>
+<li><a href="/wiki/Foraging" title="Foraging">Foraging</a></li>
+<li><a href="/wiki/Generalist_and_specialist_species" title="Generalist and specialist species">Generalist and specialist species</a></li>
+<li><a href="/wiki/Intraguild_predation" title="Intraguild predation">Intraguild predation</a></li>
+<li><a href="/wiki/Herbivore" title="Herbivore">Herbivores</a></li>
+<li><a href="/wiki/Heterotroph" title="Heterotroph">Heterotroph</a></li>
+<li><a href="/wiki/Heterotrophic_nutrition" title="Heterotrophic nutrition">Heterotrophic nutrition</a></li>
+<li><a href="/wiki/Insectivore" title="Insectivore">Insectivore</a></li>
+<li><a href="/wiki/Mesopredator_release_hypothesis" title="Mesopredator release hypothesis">Mesopredator release hypothesis</a></li>
+<li><a href="/wiki/Omnivore" title="Omnivore">Omnivores</a></li>
+<li><a href="/wiki/Optimal_foraging_theory" title="Optimal foraging theory">Optimal foraging theory</a></li>
+<li><a href="/wiki/Predation" title="Predation">Predation</a></li>
+<li><a href="/wiki/Prey_switching" title="Prey switching">Prey switching</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Decomposer" title="Decomposer">Decomposers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemoorganoheterotrophy" class="mw-redirect" title="Chemoorganoheterotrophy">Chemoorganoheterotrophy</a></li>
+<li><a href="/wiki/Decomposition" title="Decomposition">Decomposition</a></li>
+<li><a href="/wiki/Detritivore" title="Detritivore">Detritivores</a></li>
+<li><a href="/wiki/Detritus" title="Detritus">Detritus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Microorganism#Habitats_and_ecology" title="Microorganism">Microorganisms</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Archaea" title="Archaea">Archaea</a></li>
+<li><a href="/wiki/Bacteriophage" title="Bacteriophage">Bacteriophage</a></li>
+<li><a href="/wiki/Environmental_microbiology" class="mw-redirect" title="Environmental microbiology">Environmental microbiology</a></li>
+<li><a href="/wiki/Lithoautotroph" title="Lithoautotroph">Lithoautotroph</a></li>
+<li><a href="/wiki/Lithotroph" title="Lithotroph">Lithotrophy</a></li>
+<li><a href="/wiki/Microbial_cooperation" title="Microbial cooperation">Microbial cooperation</a></li>
+<li><a href="/wiki/Microbial_ecology" title="Microbial ecology">Microbial ecology</a></li>
+<li><a href="/wiki/Microbial_food_web" title="Microbial food web">Microbial food web</a></li>
+<li><a href="/wiki/Microbial_intelligence" title="Microbial intelligence">Microbial intelligence</a></li>
+<li><a href="/wiki/Microbial_loop" title="Microbial loop">Microbial loop</a></li>
+<li><a href="/wiki/Microbial_mat" title="Microbial mat">Microbial mat</a></li>
+<li><a href="/wiki/Microbial_metabolism" title="Microbial metabolism">Microbial metabolism</a></li>
+<li><a href="/wiki/Phage_ecology" title="Phage ecology">Phage ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Food_web" title="Food web">Food webs</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomagnification" title="Biomagnification">Biomagnification</a></li>
+<li><a href="/wiki/Ecological_efficiency" title="Ecological efficiency">Ecological efficiency</a></li>
+<li><a href="/wiki/Ecological_pyramid" title="Ecological pyramid">Ecological pyramid</a></li>
+<li><a href="/wiki/Energy_flow_(ecology)" title="Energy flow (ecology)">Energy flow</a></li>
+<li><a href="/wiki/Food_chain" title="Food chain">Food chain</a></li>
+<li><a href="/wiki/Trophic_level" title="Trophic level">Trophic level</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Example webs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seeps</a></li>
+<li><a href="/wiki/Hydrothermal_vent#Biological_communities" title="Hydrothermal vent">Hydrothermal vents</a></li>
+<li><a href="/wiki/Intertidal_ecology" title="Intertidal ecology">Intertidal</a></li>
+<li><a href="/wiki/Kelp_forest#Trophic_ecology" title="Kelp forest">Kelp forests</a></li>
+<li><a href="/wiki/Lake_ecosystem#Trophic_relationships" title="Lake ecosystem">Lakes</a></li>
+<li><a href="/wiki/North_Pacific_Subtropical_Gyre" class="mw-redirect" title="North Pacific Subtropical Gyre">North Pacific Subtropical Gyre</a></li>
+<li><a href="/wiki/River_ecosystem#Trophic_relationships" title="River ecosystem">Rivers</a></li>
+<li><a href="/wiki/Ecology_of_the_San_Francisco_Estuary#Food_web" title="Ecology of the San Francisco Estuary">San Francisco Estuary</a></li>
+<li><a href="/wiki/Soil_food_web" title="Soil food web">Soil</a></li>
+<li><a href="/wiki/Tide_pool" title="Tide pool">Tide pool</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Processes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ascendency" title="Ascendency">Ascendency</a></li>
+<li><a href="/wiki/Bioaccumulation" title="Bioaccumulation">Bioaccumulation</a></li>
+<li><a href="/wiki/Cascade_effect_(ecology)" title="Cascade effect (ecology)">Cascade effect</a></li>
+<li><a href="/wiki/Climax_community" title="Climax community">Climax community</a></li>
+<li><a href="/wiki/Competitive_exclusion_principle" title="Competitive exclusion principle">Competitive exclusion principle</a></li>
+<li><a href="/wiki/Consumer-resource_systems" title="Consumer-resource systems">Consumer-resource systems</a></li>
+<li><a href="/wiki/Copiotroph" title="Copiotroph">Copiotrophs</a></li>
+<li><a href="/wiki/Dominance_(ecology)" title="Dominance (ecology)">Dominance</a></li>
+<li><a href="/wiki/Ecological_network" title="Ecological network">Ecological network</a></li>
+<li><a href="/wiki/Ecological_succession" title="Ecological succession">Ecological succession</a></li>
+<li><a href="/wiki/Energy_quality" title="Energy quality">Energy quality</a></li>
+<li><a href="/wiki/Energy_Systems_Language" title="Energy Systems Language">Energy Systems Language</a></li>
+<li><a href="/wiki/F-ratio" title="F-ratio">f-ratio</a></li>
+<li><a href="/wiki/Feed_conversion_ratio" title="Feed conversion ratio">Feed conversion ratio</a></li>
+<li><a href="/wiki/Feeding_frenzy" title="Feeding frenzy">Feeding frenzy</a></li>
+<li><a href="/wiki/Mesotrophic_soil" title="Mesotrophic soil">Mesotrophic soil</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Nutrient cycle</a></li>
+<li><a href="/wiki/Oligotroph" title="Oligotroph">Oligotroph</a></li>
+<li><a href="/wiki/Paradox_of_the_plankton" title="Paradox of the plankton">Paradox of the plankton</a></li>
+<li><a href="/wiki/Trophic_cascade" title="Trophic cascade">Trophic cascade</a></li>
+<li><a href="/wiki/Trophic_mutualism" title="Trophic mutualism">Trophic mutualism</a></li>
+<li><a href="/wiki/Trophic_state_index" title="Trophic state index">Trophic state index</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Defense/counter</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Animal_coloration" title="Animal coloration">Animal coloration</a></li>
+<li><a href="/wiki/Antipredator_adaptation" class="mw-redirect" title="Antipredator adaptation">Antipredator adaptations</a></li>
+<li><a href="/wiki/Camouflage" title="Camouflage">Camouflage</a></li>
+<li><a href="/wiki/Deimatic_behaviour" title="Deimatic behaviour">Deimatic behaviour</a></li>
+<li><a href="/wiki/Herbivore_adaptations_to_plant_defense" title="Herbivore adaptations to plant defense">Herbivore adaptations to plant defense</a></li>
+<li><a href="/wiki/Mimicry" title="Mimicry">Mimicry</a></li>
+<li><a href="/wiki/Plant_defense_against_herbivory" title="Plant defense against herbivory">Plant defense against herbivory</a></li>
+<li><a href="/wiki/Shoaling_and_schooling#Predator_avoidance" title="Shoaling and schooling">Predator avoidance in schooling fish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Ecology:_Modelling_ecosystems:_Other_components" style="padding:3px">
+<table class="nowraplinks hlist collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ecology:_Modelling_ecosystems:_Other_components" style="font-size:114%"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: Other components</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Population_ecology" title="Population ecology">Population ecology</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abundance_(ecology)" title="Abundance (ecology)">Abundance</a></li>
+<li><a href="/wiki/Allee_effect" title="Allee effect">Allee effect</a></li>
+<li><a href="/wiki/Depensation" title="Depensation">Depensation</a></li>
+<li><a href="/wiki/Ecological_yield" title="Ecological yield">Ecological yield</a></li>
+<li><a href="/wiki/Effective_population_size" title="Effective population size">Effective population size</a></li>
+<li><a href="/wiki/Intraspecific_competition" title="Intraspecific competition">Intraspecific competition</a></li>
+<li><a href="/wiki/Logistic_function" title="Logistic function">Logistic function</a></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Maximum_sustainable_yield" title="Maximum sustainable yield">Maximum sustainable yield</a></li>
+<li><a href="/wiki/Overpopulation_in_wild_animals" class="mw-redirect" title="Overpopulation in wild animals">Overpopulation in wild animals</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Population_cycle" title="Population cycle">Population cycle</a></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_modeling" class="mw-redirect" title="Population modeling">Population modeling</a></li>
+<li><a href="/wiki/Population_size" title="Population size">Population size</a></li>
+<li><a href="/wiki/Lotka%E2%80%93Volterra_equations" title="Lotka–Volterra equations">Predator–prey (Lotka–Volterra) equations</a></li>
+<li><a href="/wiki/Recruitment_(biology)" title="Recruitment (biology)">Recruitment</a></li>
+<li><a href="/wiki/Resilience_(ecology)" class="mw-redirect" title="Resilience (ecology)">Resilience</a></li>
+<li><a href="/wiki/Small_population_size" title="Small population size">Small population size</a></li>
+<li><a href="/wiki/Ecological_stability" title="Ecological stability">Stability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Species</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Density-dependent_inhibition" class="mw-redirect" title="Density-dependent inhibition">Density-dependent inhibition</a></li>
+<li><a href="/wiki/Ecological_effects_of_biodiversity" title="Ecological effects of biodiversity">Ecological effects of biodiversity</a></li>
+<li><a href="/wiki/Ecological_extinction" title="Ecological extinction">Ecological extinction</a></li>
+<li><a href="/wiki/Endemic_species" class="mw-redirect" title="Endemic species">Endemic species</a></li>
+<li><a href="/wiki/Flagship_species" title="Flagship species">Flagship species</a></li>
+<li><a href="/wiki/Gradient_analysis" class="mw-redirect" title="Gradient analysis">Gradient analysis</a></li>
+<li><a href="/wiki/Indicator_species" title="Indicator species">Indicator species</a></li>
+<li><a href="/wiki/Introduced_species" title="Introduced species">Introduced species</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+<li><a href="/wiki/Latitudinal_gradients_in_species_diversity" title="Latitudinal gradients in species diversity">Latitudinal gradients in species diversity</a></li>
+<li><a href="/wiki/Minimum_viable_population" title="Minimum viable population">Minimum viable population</a></li>
+<li><a href="/wiki/Unified_neutral_theory_of_biodiversity" title="Unified neutral theory of biodiversity">Neutral theory</a></li>
+<li><a href="/wiki/Occupancy%E2%80%93abundance_relationship" title="Occupancy–abundance relationship">Occupancy–abundance relationship</a></li>
+<li><a href="/wiki/Population_viability_analysis" title="Population viability analysis">Population viability analysis</a></li>
+<li><a href="/wiki/Priority_effect" title="Priority effect">Priority effect</a></li>
+<li><a href="/wiki/Rapoport%27s_rule" title="Rapoport's rule">Rapoport's rule</a></li>
+<li><a href="/wiki/Relative_abundance_distribution" title="Relative abundance distribution">Relative abundance distribution</a></li>
+<li><a href="/wiki/Relative_species_abundance" title="Relative species abundance">Relative species abundance</a></li>
+<li><a href="/wiki/Species_diversity" title="Species diversity">Species diversity</a></li>
+<li><a href="/wiki/Species_homogeneity" title="Species homogeneity">Species homogeneity</a></li>
+<li><a href="/wiki/Species_richness" title="Species richness">Species richness</a></li>
+<li><a href="/wiki/Species_distribution" title="Species distribution">Species distribution</a></li>
+<li><a href="/wiki/Species-area_curve" class="mw-redirect" title="Species-area curve">Species-area curve</a></li>
+<li><a href="/wiki/Umbrella_species" title="Umbrella species">Umbrella species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Species interaction</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antibiosis" title="Antibiosis">Antibiosis</a></li>
+<li><a href="/wiki/Biological_interaction" title="Biological interaction">Biological interaction</a></li>
+<li><a href="/wiki/Commensalism" title="Commensalism">Commensalism</a></li>
+<li><a href="/wiki/Community_ecology" class="mw-redirect" title="Community ecology">Community ecology</a></li>
+<li><a href="/wiki/Ecological_facilitation" title="Ecological facilitation">Ecological facilitation</a></li>
+<li><a href="/wiki/Interspecific_competition" title="Interspecific competition">Interspecific competition</a></li>
+<li><a href="/wiki/Mutualism_(biology)" title="Mutualism (biology)">Mutualism</a></li>
+<li><a href="/wiki/Storage_effect" title="Storage effect">Storage effect</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Spatial_ecology" title="Spatial ecology">Spatial ecology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biogeography" title="Biogeography">Biogeography</a></li>
+<li><a href="/wiki/Cross-boundary_subsidy" title="Cross-boundary subsidy">Cross-boundary subsidy</a></li>
+<li><a href="/wiki/Ecocline" class="mw-redirect" title="Ecocline">Ecocline</a></li>
+<li><a href="/wiki/Ecotone" title="Ecotone">Ecotone</a></li>
+<li><a href="/wiki/Ecotype" title="Ecotype">Ecotype</a></li>
+<li><a href="/wiki/Disturbance_(ecology)" title="Disturbance (ecology)">Disturbance</a></li>
+<li><a href="/wiki/Edge_effects" title="Edge effects">Edge effects</a></li>
+<li><a href="/wiki/Foster%27s_rule" title="Foster's rule">Foster's rule</a></li>
+<li><a href="/wiki/Habitat_fragmentation" title="Habitat fragmentation">Habitat fragmentation</a></li>
+<li><a href="/wiki/Ideal_free_distribution" title="Ideal free distribution">Ideal free distribution</a></li>
+<li><a href="/wiki/Intermediate_Disturbance_Hypothesis" title="Intermediate Disturbance Hypothesis">Intermediate Disturbance Hypothesis</a></li>
+<li><a href="/wiki/Island_biogeography" class="mw-redirect" title="Island biogeography">Island biogeography</a></li>
+<li><a href="/wiki/Landscape_ecology" title="Landscape ecology">Landscape ecology</a></li>
+<li><a href="/wiki/Landscape_epidemiology" title="Landscape epidemiology">Landscape epidemiology</a></li>
+<li><a href="/wiki/Landscape_limnology" title="Landscape limnology">Landscape limnology</a></li>
+<li><a href="/wiki/Metapopulation" title="Metapopulation">Metapopulation</a></li>
+<li><a href="/wiki/Patch_dynamics" title="Patch dynamics">Patch dynamics</a></li>
+<li><a href="/wiki/R/K_selection_theory" title="R/K selection theory">r/K selection theory</a></li>
+<li><a href="/wiki/Source%E2%80%93sink_dynamics" title="Source–sink dynamics">Source–sink dynamics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Ecological_niche" title="Ecological niche">Niche</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ecological_niche" title="Ecological niche">Ecological niche</a></li>
+<li><a href="/wiki/Ecological_trap" title="Ecological trap">Ecological trap</a></li>
+<li><a href="/wiki/Ecosystem_engineer" title="Ecosystem engineer">Ecosystem engineer</a></li>
+<li><a href="/wiki/Environmental_niche_modelling" title="Environmental niche modelling">Environmental niche modelling</a></li>
+<li><a href="/wiki/Guild_(ecology)" title="Guild (ecology)">Guild</a></li>
+<li><a href="/wiki/Habitat" title="Habitat">Habitat</a></li>
+<li><a href="/wiki/Marine_habitats" title="Marine habitats">Marine habitats</a></li>
+<li><a href="/wiki/Limiting_similarity" title="Limiting similarity">Limiting similarity</a></li>
+<li><a href="/wiki/Niche_apportionment_models" title="Niche apportionment models">Niche apportionment models</a></li>
+<li><a href="/wiki/Niche_construction" title="Niche construction">Niche construction</a></li>
+<li><a href="/wiki/Niche_differentiation" title="Niche differentiation">Niche differentiation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Non-trophic_networks" title="Non-trophic networks">Other networks</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Assembly_rules" title="Assembly rules">Assembly rules</a></li>
+<li><a href="/wiki/Bateman%27s_principle" title="Bateman's principle">Bateman's principle</a></li>
+<li><a href="/wiki/Bioluminescence" title="Bioluminescence">Bioluminescence</a></li>
+<li><a href="/wiki/Ecological_collapse" title="Ecological collapse">Ecological collapse</a></li>
+<li><a href="/wiki/Ecological_debt" title="Ecological debt">Ecological debt</a></li>
+<li><a href="/wiki/Ecological_deficit" class="mw-redirect" title="Ecological deficit">Ecological deficit</a></li>
+<li><a href="/wiki/Ecological_energetics" class="mw-redirect" title="Ecological energetics">Ecological energetics</a></li>
+<li><a href="/wiki/Ecological_indicator" title="Ecological indicator">Ecological indicator</a></li>
+<li><a href="/wiki/Ecological_threshold" title="Ecological threshold">Ecological threshold</a></li>
+<li><a href="/wiki/Ecosystem_diversity" title="Ecosystem diversity">Ecosystem diversity</a></li>
+<li><a href="/wiki/Emergence" title="Emergence">Emergence</a></li>
+<li><a href="/wiki/Extinction_debt" title="Extinction debt">Extinction debt</a></li>
+<li><a href="/wiki/Kleiber%27s_law" title="Kleiber's law">Kleiber's law</a></li>
+<li><a href="/wiki/Liebig%27s_law_of_the_minimum" title="Liebig's law of the minimum">Liebig's law of the minimum</a></li>
+<li><a href="/wiki/Marginal_value_theorem" title="Marginal value theorem">Marginal value theorem</a></li>
+<li><a href="/wiki/Thorson%27s_rule" title="Thorson's rule">Thorson's rule</a></li>
+<li><a href="/wiki/Xerosere" title="Xerosere">Xerosere</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Allometry" title="Allometry">Allometry</a></li>
+<li><a href="/wiki/Alternative_stable_state" title="Alternative stable state">Alternative stable state</a></li>
+<li><a href="/wiki/Balance_of_nature" title="Balance of nature">Balance of nature</a></li>
+<li><a href="/wiki/Biological_data_visualization" title="Biological data visualization">Biological data visualization</a></li>
+<li><a href="/wiki/Constructal_theory" class="mw-redirect" title="Constructal theory">Constructal theory</a></li>
+<li><a href="/wiki/Cline_(biology)" title="Cline (biology)">Ecocline</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ecological_forecasting" title="Ecological forecasting">Ecological forecasting</a></li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li><a href="/wiki/Ecological_stoichiometry" title="Ecological stoichiometry">Ecological stoichiometry</a></li>
+<li><a href="/wiki/Ecopath" title="Ecopath">Ecopath</a></li>
+<li><a href="/wiki/Ecosystem_based_fisheries" class="mw-redirect" title="Ecosystem based fisheries">Ecosystem based fisheries</a></li>
+<li><a href="/wiki/Endolith" title="Endolith">Endolith</a></li>
+<li><a href="/wiki/Evolutionary_ecology" title="Evolutionary ecology">Evolutionary ecology</a></li>
+<li><a href="/wiki/Functional_ecology" title="Functional ecology">Functional ecology</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Macroecology" title="Macroecology">Macroecology</a></li>
+<li><a href="/wiki/Microecosystem" title="Microecosystem">Microecosystem</a></li>
+<li><a href="/wiki/Natural_environment" title="Natural environment">Natural environment</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Theoretical_ecology" title="Theoretical ecology">Theoretical ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/List_of_ecology_topics" class="mw-redirect" title="List of ecology topics">List of ecology topics</a></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1187
+Cached time: 20170310024323
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.284 seconds
+Real time usage: 0.324 seconds
+Preprocessor visited node count: 1550/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 77101/2097152 bytes
+Template argument size: 873/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 3.2 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  241.483      1 -total
+ 66.85%  161.421      1 Template:Reflist
+ 30.62%   73.953     12 Template:Cite_journal
+ 14.92%   36.027     11 Template:Cite_web
+  8.54%   20.618      1 Template:Other_uses
+  6.42%   15.502      1 Template:Modelling_ecosystems
+  5.37%   12.974      2 Template:Navbox
+  1.89%    4.564      1 Template:Cite_book
+  1.71%    4.135      1 Template:Colbegin
+  1.43%    3.462      1 Template:Main_article
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13224331-0!*!0!!en!4!* and timestamp 20170310024323 and revision id 761711242
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ecological_resilience&amp;oldid=761711242">https://en.wikipedia.org/w/index.php?title=Ecological_resilience&amp;oldid=761711242</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ecology_terminology" title="Category:Ecology terminology">Ecology terminology</a></li><li><a href="/wiki/Category:Ecological_restoration" title="Category:Ecological restoration">Ecological restoration</a></li><li><a href="/wiki/Category:Conservation_biology" title="Category:Conservation biology">Conservation biology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ecological+resilience" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ecological+resilience" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ecological_resilience"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ecological_resilience"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ecological_resilience" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ecological_resilience&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ecological_resilience&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ecological_resilience" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ecological_resilience" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ecological_resilience&amp;oldid=761711242" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ecological_resilience&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4105196" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ecological_resilience&amp;id=761711242" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ecological+resilience">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ecological+resilience&amp;returnto=Ecological+resilience&amp;oldid=761711242&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ecological_resilience&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Resili%C3%A8ncia_(ecologia)" title="Resiliència (ecologia) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Resilienz_(%C3%96kosystem)" title="Resilienz (Ökosystem) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Resiliencia_(ecolog%C3%ADa)" title="Resiliencia (ecología) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/R%C3%A9silience_(%C3%A9cologie)" title="Résilience (écologie) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Resilienza_(biologia)" title="Resilienza (biologia) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Resilienz_(%C3%96kosystem)" title="Resilienz (Ökosystem) – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Resili%C3%AAncia_(ecologia)" title="Resiliência (ecologia) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Resiliens" title="Resiliens – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q4105196#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 January 2017, at 11:09.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ecological_resilience&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.324","ppvisitednodes":{"value":1550,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":77101,"limit":2097152},"templateargumentsize":{"value":873,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  241.483      1 -total"," 66.85%  161.421      1 Template:Reflist"," 30.62%   73.953     12 Template:Cite_journal"," 14.92%   36.027     11 Template:Cite_web","  8.54%   20.618      1 Template:Other_uses","  6.42%   15.502      1 Template:Modelling_ecosystems","  5.37%   12.974      2 Template:Navbox","  1.89%    4.564      1 Template:Cite_book","  1.71%    4.135      1 Template:Colbegin","  1.43%    3.462      1 Template:Main_article"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":3350340,"limit":52428800}},"cachereport":{"origin":"mw1187","timestamp":"20170310024323","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1255"});});</script>
+	</body>
+</html>

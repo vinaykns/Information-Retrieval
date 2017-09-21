@@ -1,0 +1,1506 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Electricity generation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Electricity_generation","wgTitle":"Electricity generation","wgCurRevisionId":769067814,"wgRevisionId":769067814,"wgArticleId":9540,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Wikipedia articles in need of updating from March 2015","All Wikipedia articles in need of updating","Wikipedia articles with GND identifiers","Electric power generation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Electricity_generation","wgRelevantArticleId":9540,"wgRequestId":"WMhbkApAAEMAAMIBOksAAACK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q383973","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Turbogenerator01.jpg/1200px-Turbogenerator01.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Electricity_generation"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Electricity_generation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Electricity_generation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Electricity_generation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Electricity_generation rootpage-Electricity_generation skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Electricity generation</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Turbogenerator01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Turbogenerator01.jpg/300px-Turbogenerator01.jpg" width="300" height="214" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Turbogenerator01.jpg/450px-Turbogenerator01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Turbogenerator01.jpg/600px-Turbogenerator01.jpg 2x" data-file-width="2126" data-file-height="1519" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Turbogenerator01.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Turbo_generator" title="Turbo generator">Turbo generator</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:292px;"><a href="/wiki/File:Electricity_grid_simple-_North_America.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Electricity_grid_simple-_North_America.svg/290px-Electricity_grid_simple-_North_America.svg.png" width="290" height="107" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Electricity_grid_simple-_North_America.svg/435px-Electricity_grid_simple-_North_America.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Electricity_grid_simple-_North_America.svg/580px-Electricity_grid_simple-_North_America.svg.png 2x" data-file-width="1401" data-file-height="519" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Electricity_grid_simple-_North_America.svg" class="internal" title="Enlarge"></a></div>
+Diagram of an electric power system, generation system in red</div>
+</div>
+</div>
+<p><b>Electricity generation</b> is the process of generating <a href="/wiki/Electric_power" title="Electric power">electric power</a> from sources of <a href="/wiki/Primary_energy" title="Primary energy">primary energy</a>. For <a href="/wiki/Electric_utility" title="Electric utility">electric utilities</a>, it is the first process in the delivery of electricity to consumers. The other processes, electricity <a href="/wiki/Electric_power_transmission" title="Electric power transmission">transmission</a>, <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a>, and electrical <a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">power storage</a> and recovery using <a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">pumped-storage</a> methods are normally carried out by the <a href="/wiki/Electric_power_industry" title="Electric power industry">electric power industry</a>. Electricity is most often generated at a <a href="/wiki/Power_station" title="Power station">power station</a> by <a href="/wiki/Electromechanical" class="mw-redirect" title="Electromechanical">electromechanical</a> <a href="/wiki/Electric_generator" title="Electric generator">generators</a>, primarily driven by <a href="/wiki/Heat_engine" title="Heat engine">heat engines</a> fuelled by <a href="/wiki/Combustion" title="Combustion">combustion</a> or <a href="/wiki/Nuclear_fission" title="Nuclear fission">nuclear fission</a> but also by other means such as the <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a> of flowing water and wind. Other energy sources include solar <a href="/wiki/Photovoltaics" title="Photovoltaics">photovoltaics</a> and <a href="/wiki/Geothermal_power" title="Geothermal power">geothermal power</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Methods_of_generating_electricity"><span class="tocnumber">2</span> <span class="toctext">Methods of generating electricity</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Static_electricity"><span class="tocnumber">2.1</span> <span class="toctext">Static electricity</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Electromagnetic_induction"><span class="tocnumber">2.2</span> <span class="toctext">Electromagnetic induction</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Turbines"><span class="tocnumber">2.3</span> <span class="toctext">Turbines</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Electrochemistry"><span class="tocnumber">2.4</span> <span class="toctext">Electrochemistry</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Photovoltaic_effect"><span class="tocnumber">2.5</span> <span class="toctext">Photovoltaic effect</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Thermoelectric_effect"><span class="tocnumber">2.6</span> <span class="toctext">Thermoelectric effect</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Piezoelectric_effect"><span class="tocnumber">2.7</span> <span class="toctext">Piezoelectric effect</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Nuclear_transformation"><span class="tocnumber">2.8</span> <span class="toctext">Nuclear transformation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Economics_of_generation_and_production_of_electricity"><span class="tocnumber">3</span> <span class="toctext">Economics of generation and production of electricity</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Production"><span class="tocnumber">4</span> <span class="toctext">Production</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Historical_results_of_production_of_electricity"><span class="tocnumber">4.1</span> <span class="toctext">Historical results of production of electricity</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Production_by_country"><span class="tocnumber">4.2</span> <span class="toctext">Production by country</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#List_of_countries_with_source_of_electricity_2008"><span class="tocnumber">4.2.1</span> <span class="toctext">List of countries with source of electricity 2008</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Environmental_concerns"><span class="tocnumber">5</span> <span class="toctext">Environmental concerns</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The fundamental principles of electricity generation were discovered during the 1820s and early 1830s by the British scientist <a href="/wiki/Michael_Faraday" title="Michael Faraday">Michael Faraday</a>. This method is still used today: electricity is generated by the movement of a loop of wire, or <a href="/wiki/Faraday_disc" class="mw-redirect" title="Faraday disc">disc of copper</a> between the poles of a <a href="/wiki/Magnet" title="Magnet">magnet</a>. Central power stations became economically practical with the development of <a href="/wiki/Alternating_current" title="Alternating current">alternating current</a> power transmission, using power <a href="/wiki/Transformer" title="Transformer">transformers</a> to transmit power at high voltage and with low loss. Electricity has been generated at central stations since 1882. The first power plants were run on water power or coal,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and today rely mainly on <a href="/wiki/Coal" title="Coal">coal</a>, <a href="/wiki/Nuclear_power" title="Nuclear power">nuclear</a>, <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, <a href="/wiki/Hydroelectricity" title="Hydroelectricity">hydroelectric</a>, <a href="/wiki/Wind_generator" class="mw-redirect" title="Wind generator">wind generators</a>, and <a href="/wiki/Petroleum" title="Petroleum">petroleum</a>, with supplementary amounts from <a href="/wiki/Solar_energy" title="Solar energy">solar energy</a>, <a href="/wiki/Tidal_power" title="Tidal power">tidal power</a>, and <a href="/wiki/Geothermal_power" title="Geothermal power">geothermal</a> sources. The use of power-lines and power-poles have been significantly important in the distribution of electricity.</p>
+<h2><span class="mw-headline" id="Methods_of_generating_electricity">Methods of generating electricity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=2" title="Edit section: Methods of generating electricity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:U.S._2014_Electricity_Generation_By_Type.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/U.S._2014_Electricity_Generation_By_Type.png/220px-U.S._2014_Electricity_Generation_By_Type.png" width="220" height="155" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/U.S._2014_Electricity_Generation_By_Type.png/330px-U.S._2014_Electricity_Generation_By_Type.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/U.S._2014_Electricity_Generation_By_Type.png/440px-U.S._2014_Electricity_Generation_By_Type.png 2x" data-file-width="823" data-file-height="580" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:U.S._2014_Electricity_Generation_By_Type.png" class="internal" title="Enlarge"></a></div>
+U.S. 2014 Electricity Generation By Type.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Sources_of_Electricity_in_France_in_2006.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sources_of_Electricity_in_France_in_2006.PNG/300px-Sources_of_Electricity_in_France_in_2006.PNG" width="300" height="181" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sources_of_Electricity_in_France_in_2006.PNG/450px-Sources_of_Electricity_in_France_in_2006.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sources_of_Electricity_in_France_in_2006.PNG/600px-Sources_of_Electricity_in_France_in_2006.PNG 2x" data-file-width="929" data-file-height="562" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sources_of_Electricity_in_France_in_2006.PNG" class="internal" title="Enlarge"></a></div>
+Sources of electricity in France in 2006;<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <a href="/wiki/Nuclear_power" title="Nuclear power">nuclear power</a> was the main source.</div>
+</div>
+</div>
+<p>There are seven fundamental methods of directly transforming other forms of energy into electrical energy.</p>
+<h3><span class="mw-headline" id="Static_electricity">Static electricity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=3" title="Edit section: Static electricity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Static_electricity" title="Static electricity">Static electricity</a>, form the physical separation and transport of charge (examples: <a href="/wiki/Triboelectric_effect" title="Triboelectric effect">triboelectric effect</a> and <a href="/wiki/Lightning" title="Lightning">lightning</a>). It was the first form discovered and investigated, and the <a href="/wiki/Electrostatic_generator" title="Electrostatic generator">electrostatic generator</a> is still used even in modern devices such as the <a href="/wiki/Van_de_Graaff_generator" title="Van de Graaff generator">Van de Graaff generator</a> and <a href="/wiki/MHD_generator" class="mw-redirect" title="MHD generator">MHD generators</a>.</p>
+<h3><span class="mw-headline" id="Electromagnetic_induction">Electromagnetic induction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=4" title="Edit section: Electromagnetic induction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Electromagnetic_induction" title="Electromagnetic induction">Electromagnetic induction</a>, an <a href="/wiki/Electric_generator" title="Electric generator">electric generator</a>, <a href="/wiki/Dynamo" title="Dynamo">dynamo</a> or <a href="/wiki/Alternator" title="Alternator">alternator</a> transforms <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a> into electricity. This is the most used form for generating electricity and is based on <a href="/wiki/Faraday%27s_law_of_induction" title="Faraday's law of induction">Faraday's law</a>. It can be experimented by rotating a magnet within closed loops of a conducting material (e.g. copper wire). Almost all commercial electrical generation is done using electromagnetic induction, in which <a href="/wiki/Mechanical_energy" title="Mechanical energy">mechanical energy</a> forces a generator to rotate.</p>
+<h3><span class="mw-headline" id="Turbines">Turbines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=5" title="Edit section: Turbines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Almost all electrical power on Earth is generated with a <a href="/wiki/Turbine" title="Turbine">turbine</a>, driven by wind, water, steam or burning gas. The turbine drives a generator. There are many different methods of developing mechanical energy, including <a href="/wiki/Heat_engine" title="Heat engine">heat engines</a>, hydro, wind and tidal power. Most electric generation is driven by <a href="/wiki/Heat_engine" title="Heat engine">heat engines</a>. The combustion of <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuels</a> supplies most of the heat to these engines, with a significant fraction from <a href="/wiki/Nuclear_fission" title="Nuclear fission">nuclear fission</a> and some from <a href="/wiki/Renewable_source" class="mw-redirect" title="Renewable source">renewable sources</a>. The modern <a href="/wiki/Steam_turbine" title="Steam turbine">steam turbine</a> (invented by <a href="/wiki/Charles_Algernon_Parsons" title="Charles Algernon Parsons">Sir Charles Parsons</a> in 1884) currently generates about 80% of the <a href="/wiki/Electric_power" title="Electric power">electric power</a> in the world using a variety of heat sources. Power sources include:</p>
+<ul>
+<li>Steam
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dreischluchtendamm_hauptwall_2006.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dreischluchtendamm_hauptwall_2006.jpg/220px-Dreischluchtendamm_hauptwall_2006.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dreischluchtendamm_hauptwall_2006.jpg/330px-Dreischluchtendamm_hauptwall_2006.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dreischluchtendamm_hauptwall_2006.jpg/440px-Dreischluchtendamm_hauptwall_2006.jpg 2x" data-file-width="800" data-file-height="533" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Dreischluchtendamm_hauptwall_2006.jpg" class="internal" title="Enlarge"></a></div>
+Large dams such as <a href="/wiki/Three_Gorges_Dam" title="Three Gorges Dam">Three Gorges Dam</a> in China can provide large amounts of <a href="/wiki/Hydroelectricity" title="Hydroelectricity">hydroelectric</a> power; it has a 22.5 <a href="/wiki/Watt#Gigawatt" title="Watt">GW</a> capability.</div>
+</div>
+</div>
+<ul>
+<li>Water is boiled by <a href="/wiki/Coal" title="Coal">coal</a> burned in a <a href="/wiki/Fossil-fuel_power_station" class="mw-redirect" title="Fossil-fuel power station">thermal power plant</a>, about 41% of all electricity is generated this way.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li><a href="/wiki/Nuclear_fission" title="Nuclear fission">Nuclear fission</a> heat created in a <a href="/wiki/Nuclear_reactor" title="Nuclear reactor">nuclear reactor</a> creates steam. Less than 15% of electricity is generated this way.</li>
+<li>Renewables. The steam is generated by <a href="/wiki/Biomass" title="Biomass">Biomass</a>, <a href="/wiki/Solar_thermal_energy" title="Solar thermal energy">Solar thermal energy</a> where <a href="/wiki/Solar_parabolic_trough" class="mw-redirect" title="Solar parabolic trough">solar parabolic troughs</a> and <a href="/wiki/Solar_power_tower" title="Solar power tower">solar power towers</a> concentrate sunlight to heat a heat transfer fluid, which is then used to produce steam, or <a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal power</a>.</li>
+<li>Natural gas: turbines are driven directly by gases produced by combustion. <a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a> are driven by both steam and natural gas. They generate power by burning natural gas in a <a href="/wiki/Gas_turbine" title="Gas turbine">gas turbine</a> and use residual heat to generate steam. At least 20% of the worlds electricity is generated by natural gas.</li>
+</ul>
+</li>
+<li>Small turbines can be powered by <a href="/wiki/Diesel_engine" title="Diesel engine">Diesel engines</a>. This is used for back up generation, usually at low voltages. Most large power grids also use <a href="/wiki/Diesel_generator" title="Diesel generator">diesel generators</a>, originally provided as emergency back up for a specific facility such as a hospital, to feed power into the grid during certain circumstances.</li>
+<li>Water Energy is captured from the movement of water. From falling water, the rise and fall of tides or <a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">ocean thermal currents</a>. Each driving a <a href="/wiki/Water_turbine" title="Water turbine">water turbine</a> to produce approximately 16% of the world's electricity. The <a href="/wiki/CETO#Perth_Wave_Energy_Project" title="CETO">Perth Wave Energy Project</a> is an early production, submerged buoy, electrical power and direct desalination installation supplying power to <a href="/wiki/HMAS_Stirling" title="HMAS Stirling">HMAS Stirling</a> in Western Australia.</li>
+<li>The <a href="/wiki/Windmill" title="Windmill">windmill</a> was a very early <a href="/wiki/Wind_turbine" title="Wind turbine">wind turbine</a>. In a <a href="/wiki/Solar_updraft_tower" title="Solar updraft tower">solar updraft tower</a> wind is artificially produced. Before 2010 less than 2% of the worlds electricity was produced from wind.</li>
+</ul>
+<h3><span class="mw-headline" id="Electrochemistry">Electrochemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=6" title="Edit section: Electrochemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hoover_dam_from_air.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hoover_dam_from_air.jpg/220px-Hoover_dam_from_air.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hoover_dam_from_air.jpg/330px-Hoover_dam_from_air.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hoover_dam_from_air.jpg/440px-Hoover_dam_from_air.jpg 2x" data-file-width="2272" data-file-height="1704" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hoover_dam_from_air.jpg" class="internal" title="Enlarge"></a></div>
+Large dams such as <a href="/wiki/Hoover_Dam" title="Hoover Dam">Hoover Dam</a> can provide large amounts of <a href="/wiki/Hydroelectricity" title="Hydroelectricity">hydroelectric</a> power; it has 2.07 <a href="/wiki/Watt#Gigawatt" title="Watt">GW</a> capability.</div>
+</div>
+</div>
+<p><a href="/wiki/Electrochemistry" title="Electrochemistry">Electrochemistry</a> is the direct transformation of <a href="/wiki/Chemical_energy" title="Chemical energy">chemical energy</a> into electricity, as in a <a href="/wiki/Battery_(electricity)" title="Battery (electricity)">battery</a>. Electrochemical electricity generation is important in portable and mobile applications. Currently, most electrochemical power comes from batteries.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <a href="/wiki/Primary_cell" title="Primary cell">Primary cells</a>, such as the common <a href="/wiki/Zinc-carbon_batteries" class="mw-redirect" title="Zinc-carbon batteries">zinc-carbon batteries</a>, act as power sources directly, but many types of cells are used as <a href="/wiki/Electricity_storage" class="mw-redirect" title="Electricity storage">storage</a> systems rather than primary generation systems. Open electrochemical systems, known as <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cells</a>, can be used to extract power either from natural fuels or from synthesized fuels. <a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic power</a> is a possibility at places where salt and fresh water merges.</p>
+<h3><span class="mw-headline" id="Photovoltaic_effect">Photovoltaic effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=7" title="Edit section: Photovoltaic effect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Photovoltaic_effect" title="Photovoltaic effect">photovoltaic effect</a> is the transformation of light into electrical energy, as in <a href="/wiki/Solar_cell" title="Solar cell">solar cells</a>. <a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaic panels</a> convert sunlight directly to electricity. Although sunlight is free and abundant, solar electricity is still usually more expensive to produce than large-scale mechanically generated power due to the cost of the panels. Low-efficiency silicon solar cells have been decreasing in cost and multijunction cells with close to 30% conversion efficiency are now commercially available. Over 40% efficiency has been demonstrated in experimental systems.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Until recently, photovoltaics were most commonly used in remote sites where there is no access to a commercial power grid, or as a supplemental electricity source for individual homes and businesses. Recent advances in manufacturing efficiency and photovoltaic technology, combined with subsidies driven by environmental concerns, have dramatically accelerated the deployment of solar panels. Installed capacity is growing by 40% per year led by increases in Germany, Japan, and the United States.</p>
+<h3><span class="mw-headline" id="Thermoelectric_effect">Thermoelectric effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=8" title="Edit section: Thermoelectric effect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mohave_Generating_Station_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mohave_Generating_Station_1.jpg/220px-Mohave_Generating_Station_1.jpg" width="220" height="162" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mohave_Generating_Station_1.jpg/330px-Mohave_Generating_Station_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mohave_Generating_Station_1.jpg/440px-Mohave_Generating_Station_1.jpg 2x" data-file-width="2003" data-file-height="1474" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mohave_Generating_Station_1.jpg" class="internal" title="Enlarge"></a></div>
+A coal-fired power plant in Laughlin, Nevada U.S.A. Owners of this plant ceased operations after declining to invest in pollution control equipment to comply with pollution regulations.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></div>
+</div>
+</div>
+<p><a href="/wiki/Thermoelectric_effect" title="Thermoelectric effect">Thermoelectric effect</a> is the direct conversion of temperature differences to electricity, as in <a href="/wiki/Thermocouple" title="Thermocouple">thermocouples</a>, <a href="/wiki/Thermopile" title="Thermopile">thermopiles</a>, and <a href="/wiki/Thermionic_converter" title="Thermionic converter">thermionic converters</a>.</p>
+<h3><span class="mw-headline" id="Piezoelectric_effect">Piezoelectric effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=9" title="Edit section: Piezoelectric effect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Piezoelectric_effect" class="mw-redirect" title="Piezoelectric effect">Piezoelectric effect</a> generates electricity from the mechanical strain of electrically <a href="/wiki/Anisotropic" class="mw-redirect" title="Anisotropic">anisotropic</a> molecules or crystals. Researchers at the <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a>'s <a href="/wiki/Lawrence_Berkeley_National_Laboratory" title="Lawrence Berkeley National Laboratory">Lawrence Berkeley National Laboratory</a> have developed a <a href="/wiki/Piezoelectric" class="mw-redirect" title="Piezoelectric">piezoelectric</a> generator sufficient to operate a <a href="/wiki/Liquid-crystal_display" title="Liquid-crystal display">liquid-crystal display</a> using thin films of M13 bacteriophage.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> <a href="/wiki/Piezoelectric" class="mw-redirect" title="Piezoelectric">Piezoelectric</a> devices are used for power generation from mechanical strain, particularly in <a href="/wiki/Power_harvesting" class="mw-redirect" title="Power harvesting">power harvesting</a>.</p>
+<h3><span class="mw-headline" id="Nuclear_transformation">Nuclear transformation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=10" title="Edit section: Nuclear transformation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Nuclear transformation is the creation and acceleration of charged particles (examples: <a href="/wiki/Betavoltaics" class="mw-redirect" title="Betavoltaics">betavoltaics</a> or <a href="/wiki/Alpha_particle" title="Alpha particle">alpha particle</a> emission). The direct conversion of <a href="/wiki/Nuclear_potential_energy" class="mw-redirect" title="Nuclear potential energy">nuclear potential energy</a> to electricity by <a href="/wiki/Beta_decay" title="Beta decay">beta decay</a> is used only on a small scale. In a full-size nuclear power plant, the heat of a nuclear reaction is used to run a heat engine. This drives a generator, which converts mechanical energy into electricity by magnetic induction. <a href="/wiki/Betavoltaics" class="mw-redirect" title="Betavoltaics">Betavoltaics</a> are a type of solid-state power generator which produces electricity from radioactive decay. Fluid-based <a href="/wiki/MHD_generator" class="mw-redirect" title="MHD generator">magnetohydrodynamic</a> (MHD) power generation has been studied as a method for extracting electrical power from <a href="/wiki/Nuclear_reactor" title="Nuclear reactor">nuclear reactors</a> and also from more conventional fuel combustion systems.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Turbine_aalborg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Turbine_aalborg.jpg/170px-Turbine_aalborg.jpg" width="170" height="257" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Turbine_aalborg.jpg/255px-Turbine_aalborg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Turbine_aalborg.jpg/340px-Turbine_aalborg.jpg 2x" data-file-width="982" data-file-height="1487" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Turbine_aalborg.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Wind_turbine" title="Wind turbine">Wind turbines</a> usually provide electrical generation in conjunction with other methods of producing power.</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Economics_of_generation_and_production_of_electricity">Economics of generation and production of electricity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=11" title="Edit section: Economics of generation and production of electricity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></div>
+<p>The selection of electricity production modes and their economic viability varies in accordance with demand and region. The economics vary considerably around the world, resulting in widespread selling prices, e.g. the price in Venezuela is 3 cents per kWh while in Denmark it is 40 cents per kWh. <a href="/wiki/Hydroelectric_plant" class="mw-redirect" title="Hydroelectric plant">Hydroelectric plants</a>, <a href="/wiki/Nuclear_power_plant" title="Nuclear power plant">nuclear power plants</a>, <a href="/wiki/Thermal_power_plant" class="mw-redirect" title="Thermal power plant">thermal power plants</a> and <a href="/wiki/Renewable_source" class="mw-redirect" title="Renewable source">renewable sources</a> have their own pros and cons, and selection is based upon the local power requirement and the fluctuations in demand. All power grids have varying loads on them but the daily minimum is the base load, supplied by plants which run continuously. Nuclear, coal, oil and gas plants can supply base load.</p>
+<p><a href="/wiki/Thermal_energy" title="Thermal energy">Thermal energy</a> is economical in areas of high industrial density, as the high demand cannot be met by renewable sources. The effect of localized pollution is also minimized as industries are usually located away from residential areas. These plants can also withstand variation in load and consumption by adding more units or temporarily decreasing the production of some units. Nuclear power plants can produce a huge amount of power from a single unit. However, recent disasters in Japan have raised concerns over the safety of nuclear power, and the capital cost of nuclear plants is very high. Hydroelectric power plants are located in areas where the potential energy from falling water can be harnessed for moving turbines and the generation of power. It is not an economically viable source of production where the load varies too much during the annual production cycle and the ability to store the flow of water is limited.</p>
+<p>Due to advancements in technology, and with mass production, renewable sources other than hydroelectricity (solar power, wind energy, tidal power, etc.) experienced decreases in cost of production, and the energy is now in many cases cost-comparative with fossil fuels. Many governments around the world provide subsidies to offset the higher cost of any new power production, and to make the installation of renewable energy systems economically feasible. However, their use is frequently limited by their <a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">intermittent nature</a>. If natural gas prices are below $3 per million <a href="/wiki/British_thermal_unit" title="British thermal unit">British thermal units</a>, generating electricity from natural gas is cheaper than generating power by burning coal.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=12" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Update" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section needs to be <b>updated</b>. <span class="hide-when-compact">Please update this article to reflect recent events or newly available information.</span> <small><i>(March 2015)</i></small></span></td>
+</tr>
+</table>
+<p>The production of electricity in 2013 was 23,322TWh. Sources of electricity were coal and peat 41%, natural gas 22%, hydroelectric 16%, nuclear power 11%, oil 4%, biomass and waste 2% and other sources 4%. Other sources include wind, geothermal, solar photovoltaic, and solar thermal.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<table class="wikitable" style="text-align:center">
+<caption>Source of Electricity (World total year 2008)</caption>
+<tr>
+<th>-</th>
+<th>Coal</th>
+<th>Oil</th>
+<th>Natural<br />
+Gas</th>
+<th>Nuclear</th>
+<th>Renewables</th>
+<th>other</th>
+<th>Total</th>
+</tr>
+<tr>
+<td>Average electric power (TWh/year)</td>
+<td>8,263</td>
+<td>1,111</td>
+<td>4,301</td>
+<td>2,731</td>
+<td>3,288</td>
+<td>568</td>
+<td>20,261</td>
+</tr>
+<tr>
+<td>Average electric power (GW)</td>
+<td>942.6</td>
+<td>126.7</td>
+<td>490.7</td>
+<td>311.6</td>
+<td>375.1</td>
+<td>64.8</td>
+<td>2311.4</td>
+</tr>
+<tr>
+<td>Proportion</td>
+<td>41%</td>
+<td>5%</td>
+<td>21%</td>
+<td>13%</td>
+<td>16%</td>
+<td>3%</td>
+<td>100%</td>
+</tr>
+</table>
+<dl>
+<dd><small>data source IEA/OECD</small></dd>
+</dl>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ene_Flow_Pow_Plt_uni.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ene_Flow_Pow_Plt_uni.png/220px-Ene_Flow_Pow_Plt_uni.png" width="220" height="162" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ene_Flow_Pow_Plt_uni.png/330px-Ene_Flow_Pow_Plt_uni.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ene_Flow_Pow_Plt_uni.png/440px-Ene_Flow_Pow_Plt_uni.png 2x" data-file-width="660" data-file-height="487" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ene_Flow_Pow_Plt_uni.png" class="internal" title="Enlarge"></a></div>
+Energy Flow of Power Plant</div>
+</div>
+</div>
+<p>Total energy consumed at all power plants for the generation of electricity was 4,398,768 ktoe (kilo <a href="/wiki/Ton_of_oil_equivalent" class="mw-redirect" title="Ton of oil equivalent">ton of oil equivalent</a>) which was 36% of the total for primary energy sources (TPES) of 2008.<br />
+Electricity output (gross) was 1,735,579 ktoe (20,185 TWh), efficiency was 39%, and the balance of 61% was generated heat. A small part (145,141 ktoe, which was 3% of the input total) of the heat was utilized at co-generation heat and power plants. The in-house consumption of electricity and power transmission losses were 289,681 ktoe. The amount supplied to the final consumer was 1,445,285 ktoe (16,430 TWh) which was 33% of the total energy consumed at power plants and heat and power <a href="/wiki/Co-generation" class="mw-redirect" title="Co-generation">co-generation</a> (CHP) plants.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Historical_results_of_production_of_electricity">Historical results of production of electricity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=13" title="Edit section: Historical results of production of electricity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/File:Annual_electricity_net_generation_in_the_world.svg" class="image"><img alt="Annual electricity net generation in the world.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Annual_electricity_net_generation_in_the_world.svg/600px-Annual_electricity_net_generation_in_the_world.svg.png" width="600" height="328" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Annual_electricity_net_generation_in_the_world.svg/900px-Annual_electricity_net_generation_in_the_world.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Annual_electricity_net_generation_in_the_world.svg/1200px-Annual_electricity_net_generation_in_the_world.svg.png 2x" data-file-width="967" data-file-height="528" /></a> <a href="/wiki/File:Annual_electricity_net_generation_from_renewable_energy_in_the_world.svg" class="image"><img alt="Annual electricity net generation from renewable energy in the world.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Annual_electricity_net_generation_from_renewable_energy_in_the_world.svg/600px-Annual_electricity_net_generation_from_renewable_energy_in_the_world.svg.png" width="600" height="352" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Annual_electricity_net_generation_from_renewable_energy_in_the_world.svg/900px-Annual_electricity_net_generation_from_renewable_energy_in_the_world.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Annual_electricity_net_generation_from_renewable_energy_in_the_world.svg/1200px-Annual_electricity_net_generation_from_renewable_energy_in_the_world.svg.png 2x" data-file-width="901" data-file-height="528" /></a></p>
+<h3><span class="mw-headline" id="Production_by_country">Production by country</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=14" title="Edit section: Production by country">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/World_energy_resources_and_consumption" class="mw-redirect" title="World energy resources and consumption">World energy resources and consumption</a></div>
+<div role="note" class="hatnote">See also: <a href="/wiki/Electricity_consumption" class="mw-redirect" title="Electricity consumption">Electricity consumption</a></div>
+<p>The United States has long been the largest producer and consumer of electricity, with a global share in 2005 of at least 25%, followed by <a href="/wiki/Electric_power_industry_in_China" class="mw-redirect" title="Electric power industry in China">China</a>, Japan, Russia, and India. As of Jan-2010, total electricity generation for the 2 largest generators was as follows: USA: 3992 billion kWh (3992 TWh) and China: 3715 billion kWh (3715 TWh).</p>
+<h4><span class="mw-headline" id="List_of_countries_with_source_of_electricity_2008">List of countries with source of electricity 2008</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=15" title="Edit section: List of countries with source of electricity 2008">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Data source of values (electric power generated) is IEA/OECD.<sup id="cite_ref-Statistics_and_Balances_12-0" class="reference"><a href="#cite_note-Statistics_and_Balances-12">[12]</a></sup> Listed countries are top 20 by population or top 20 by GDP (PPP) and Saudi Arabia based on CIA World Factbook 2009.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<table class="wikitable sortable" style="text-align:center">
+<caption>Composition of Electricity by Resource (TWh per year 2008)</caption>
+<tr>
+<th rowspan="2" style="background-color: #ddf;">Country's electricity sector</th>
+<th colspan="5" style="background-color: #dfd;" data-sort-type="number">Fossil Fuel</th>
+<th rowspan="2" style="background-color: #ddf;" data-sort-type="number"><small>Nuclear</small></th>
+<th rowspan="2" style="background-color: #ddf;" data-sort-type="number"><small>rank</small></th>
+<th colspan="8" style="background-color: #dfd;" data-sort-type="number">Renewable</th>
+<th rowspan="2" style="background-color: #ddf;" data-sort-type="number"><small>Bio</small><br />
+<small>other</small>*</th>
+<th rowspan="2" style="background-color: #dfd;" data-sort-type="number">total</th>
+<th rowspan="2" style="background-color: #dfd;" data-sort-type="number"><small>rank</small></th>
+</tr>
+<tr>
+<th scope="col" style="background-color: #dfd;" data-sort-type="number">Coal</th>
+<th style="background-color: #dfd;" data-sort-type="number">Oil</th>
+<th style="background-color: #dfd;" data-sort-type="number">Gas</th>
+<th style="background-color: #dfd;" data-sort-type="number">sub<br />
+total</th>
+<th style="background-color: #dfd;" data-sort-type="number"><small>rank</small></th>
+<th style="background-color: #dfd;" data-sort-type="number">Hydro</th>
+<th style="background-color: #dfd;" data-sort-type="number">Geo<br />
+<small>Thermal</small></th>
+<th style="background-color: #dfd;" data-sort-type="number"><small>Solar</small><br />
+PV*</th>
+<th style="background-color: #dfd;" data-sort-type="number"><small>Solar</small><br />
+<small>Thermal</small></th>
+<th style="background-color: #dfd;" data-sort-type="number">Wind</th>
+<th style="background-color: #dfd;" data-sort-type="number">Tide</th>
+<th style="background-color: #dfd;" data-sort-type="number">sub<br />
+total</th>
+<th style="background-color: #dfd;" data-sort-type="number"><small>rank</small></th>
+</tr>
+<tr>
+<th>World total</th>
+<td>8,263</td>
+<td>1,111</td>
+<td>4,301</td>
+<td>13,675</td>
+<td>-</td>
+<td>2,731</td>
+<td>-</td>
+<td>3,288</td>
+<td>65</td>
+<td>12</td>
+<td>0.9</td>
+<td>219</td>
+<td>0.5</td>
+<td>3,584</td>
+<td>-</td>
+<td>271</td>
+<td>20,261</td>
+<td>-</td>
+</tr>
+<tr>
+<th>Proportion</th>
+<td data-sort-value="8,263">41%</td>
+<td data-sort-value="1,111">5.5%</td>
+<td data-sort-value="4,301">21%</td>
+<td data-sort-value="13,675"><b>67%</b></td>
+<td data-sort-value="-">-</td>
+<td data-sort-value="2,731"><b>13%</b></td>
+<td data-sort-value="-">-</td>
+<td data-sort-value="3,288">16%</td>
+<td data-sort-value="65">0.3%</td>
+<td data-sort-value="12"><small>0.06%</small></td>
+<td data-sort-value="0.9"><small>0.004%</small></td>
+<td data-sort-value="219">1.1%</td>
+<td data-sort-value="0.5"><small>0.003%</small></td>
+<td data-sort-value="3,584">18%</td>
+<td data-sort-value="-">-</td>
+<td data-sort-value="271">1.3%</td>
+<td data-sort-value="20,261">100%</td>
+<td data-sort-value="-">-</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_China" title="Electricity sector in China">China</a></th>
+<td><b>2,733</b></td>
+<td>23</td>
+<td>31</td>
+<td><b>2,788</b></td>
+<td>2</td>
+<td>68</td>
+<td>8</td>
+<td><b>585</b></td>
+<td>-</td>
+<td>0.2</td>
+<td>-</td>
+<td>13</td>
+<td>-</td>
+<td><b>598</b></td>
+<td>1</td>
+<td>2.4</td>
+<td><b>3,457</b></td>
+<td>2</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/India" title="India"><img alt="India" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" /></a></span> <a href="/wiki/Electricity_sector_in_India" title="Electricity sector in India">India</a></th>
+<td>569</td>
+<td>34</td>
+<td>82</td>
+<td>685</td>
+<td>5</td>
+<td>15</td>
+<td>12</td>
+<td>114</td>
+<td>-</td>
+<td>0.02</td>
+<td>-</td>
+<td>14</td>
+<td>-</td>
+<td>128.02</td>
+<td>6</td>
+<td>2.0</td>
+<td><b>830</b></td>
+<td>5</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Electricity_sector_of_the_United_States" title="Electricity sector of the United States">USA</a></th>
+<td><b>2,133</b></td>
+<td>58</td>
+<td><b>1011</b></td>
+<td><b>3,101</b></td>
+<td>1</td>
+<td><b>838</b></td>
+<td>1</td>
+<td>282</td>
+<td><b>17</b></td>
+<td>1.6</td>
+<td><b>0.88</b></td>
+<td><b>56</b></td>
+<td>-</td>
+<td><b>357</b></td>
+<td>4</td>
+<td><b>73</b></td>
+<td><b>4,369</b></td>
+<td>1</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Indonesia" title="Indonesia"><img alt="Indonesia" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/35px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/45px-Flag_of_Indonesia.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> <a href="/wiki/Energy_in_Indonesia#Electricity_sector" title="Energy in Indonesia">Indonesia</a></th>
+<td>61</td>
+<td>43</td>
+<td>25</td>
+<td>130</td>
+<td>19</td>
+<td>-</td>
+<td>-</td>
+<td>12</td>
+<td>8.3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>20</td>
+<td>17</td>
+<td>-</td>
+<td>149</td>
+<td>20</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Electricity_sector_in_Brazil" title="Electricity sector in Brazil">Brazil</a></th>
+<td>13</td>
+<td>18</td>
+<td>29</td>
+<td>59</td>
+<td>23</td>
+<td>14</td>
+<td>13</td>
+<td><b>370</b></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0.6</td>
+<td>-</td>
+<td><b>370</b></td>
+<td>3</td>
+<td><b>20</b></td>
+<td>463</td>
+<td>9</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Pakistan" title="Pakistan"><img alt="Pakistan" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/35px-Flag_of_Pakistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/45px-Flag_of_Pakistan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_Pakistan" title="Electricity sector in Pakistan">Pakistan</a></th>
+<td>0.1</td>
+<td>32</td>
+<td>30</td>
+<td>62</td>
+<td>22</td>
+<td>1.6</td>
+<td>16</td>
+<td>28</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>28</td>
+<td>14</td>
+<td>-</td>
+<td>92</td>
+<td>24</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Bangladesh" title="Bangladesh"><img alt="Bangladesh" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/35px-Flag_of_Bangladesh.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/46px-Flag_of_Bangladesh.svg.png 2x" data-file-width="500" data-file-height="300" /></a></span> <a href="/wiki/Electricity_sector_in_Bangladesh" title="Electricity sector in Bangladesh">Bangladesh</a></th>
+<td>0.6</td>
+<td>1.7</td>
+<td>31</td>
+<td>33</td>
+<td>27</td>
+<td>-</td>
+<td>-</td>
+<td>1.5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1.5</td>
+<td>29</td>
+<td>-</td>
+<td>35</td>
+<td>27</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Nigeria" title="Nigeria"><img alt="Nigeria" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/35px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/46px-Flag_of_Nigeria.svg.png 2x" data-file-width="800" data-file-height="400" /></a></span> <a href="/wiki/Electricity_sector_in_Nigeria" class="mw-redirect" title="Electricity sector in Nigeria">Nigeria</a></th>
+<td>-</td>
+<td>3.1</td>
+<td>12</td>
+<td>15</td>
+<td>28</td>
+<td>-</td>
+<td>-</td>
+<td>5.7</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>5.7</td>
+<td>25</td>
+<td>-</td>
+<td>21</td>
+<td>28</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_Russia" title="Electricity sector in Russia">Russia</a></th>
+<td>197</td>
+<td>16</td>
+<td><b>495</b></td>
+<td>708</td>
+<td>4</td>
+<td>163</td>
+<td>4</td>
+<td>167</td>
+<td>0.5</td>
+<td>-</td>
+<td>-</td>
+<td>0.01</td>
+<td>-</td>
+<td>167</td>
+<td>5</td>
+<td>2.5</td>
+<td><b>1,040</b></td>
+<td>4</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_Japan" title="Electricity sector in Japan">Japan</a></th>
+<td>288</td>
+<td><b>139</b></td>
+<td><b>283</b></td>
+<td>711</td>
+<td>3</td>
+<td>258</td>
+<td>3</td>
+<td>83</td>
+<td>2.8</td>
+<td><b>2.3</b></td>
+<td>-</td>
+<td>2.6</td>
+<td>-</td>
+<td>91</td>
+<td>7</td>
+<td><b>22</b></td>
+<td><b>1,082</b></td>
+<td>3</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="840" data-file-height="480" /></a></span> <a href="/wiki/Electricity_sector_in_Mexico" title="Electricity sector in Mexico">Mexico</a></th>
+<td>21</td>
+<td>49</td>
+<td>131</td>
+<td>202</td>
+<td>13</td>
+<td>9.8</td>
+<td>14</td>
+<td>39</td>
+<td>7.1</td>
+<td>0.01</td>
+<td>-</td>
+<td>0.3</td>
+<td>-</td>
+<td>47</td>
+<td>12</td>
+<td>0.8</td>
+<td>259</td>
+<td>14</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Philippines" title="Philippines"><img alt="Philippines" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/35px-Flag_of_the_Philippines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/46px-Flag_of_the_Philippines.svg.png 2x" data-file-width="900" data-file-height="450" /></a></span> <a href="/wiki/Electricity_sector_in_Philippines" class="mw-redirect" title="Electricity sector in Philippines">Philippines</a></th>
+<td>16</td>
+<td>4.9</td>
+<td>20</td>
+<td>40</td>
+<td>26</td>
+<td>-</td>
+<td>-</td>
+<td>9.8</td>
+<td><b>11</b></td>
+<td>0.001</td>
+<td>-</td>
+<td>0.1</td>
+<td>-</td>
+<td>21</td>
+<td>16</td>
+<td>-</td>
+<td>61</td>
+<td>26</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Vietnam" title="Vietnam"><img alt="Vietnam" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/35px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/45px-Flag_of_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_Vietnam" class="mw-redirect" title="Electricity sector in Vietnam">Vietnam</a></th>
+<td>15</td>
+<td>1.6</td>
+<td>30</td>
+<td>47</td>
+<td>25</td>
+<td>-</td>
+<td>-</td>
+<td>26</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>26</td>
+<td>15</td>
+<td>-</td>
+<td>73</td>
+<td>25</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Ethiopia" title="Ethiopia"><img alt="Ethiopia" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/35px-Flag_of_Ethiopia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/46px-Flag_of_Ethiopia.svg.png 2x" data-file-width="720" data-file-height="360" /></a></span> <a href="/wiki/Electricity_sector_in_Ethiopia" class="mw-redirect" title="Electricity sector in Ethiopia">Ethiopia</a></th>
+<td>-</td>
+<td>0.5</td>
+<td>-</td>
+<td>0.5</td>
+<td>29</td>
+<td>-</td>
+<td>-</td>
+<td>3.3</td>
+<td>0.01</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>3.3</td>
+<td>28</td>
+<td>-</td>
+<td>3.8</td>
+<td>30</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Egypt" title="Egypt"><img alt="Egypt" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_Egypt" class="mw-redirect" title="Electricity sector in Egypt">Egypt</a></th>
+<td>-</td>
+<td>26</td>
+<td>90</td>
+<td>115</td>
+<td>20</td>
+<td>-</td>
+<td>-</td>
+<td>15</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0.9</td>
+<td>-</td>
+<td>16</td>
+<td>20</td>
+<td>-</td>
+<td>131</td>
+<td>22</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_Germany" title="Electricity sector in Germany">Germany</a></th>
+<td>291</td>
+<td>9.2</td>
+<td>88</td>
+<td>388</td>
+<td>6</td>
+<td>148</td>
+<td>6</td>
+<td>27</td>
+<td>0.02</td>
+<td><b>4.4</b></td>
+<td>-</td>
+<td><b>41</b></td>
+<td>-</td>
+<td>72</td>
+<td>9</td>
+<td><b>29</b></td>
+<td>637</td>
+<td>7</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/Electricity_sector_in_Turkey" class="mw-redirect" title="Electricity sector in Turkey">Turkey</a></th>
+<td>58</td>
+<td>7.5</td>
+<td>99</td>
+<td>164</td>
+<td>16</td>
+<td>-</td>
+<td>-</td>
+<td>33</td>
+<td>0.16</td>
+<td>-</td>
+<td>-</td>
+<td>0.85</td>
+<td>-</td>
+<td>34</td>
+<td>13</td>
+<td>0.22</td>
+<td>198</td>
+<td>19</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo"><img alt="Democratic Republic of the Congo" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/31px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/40px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 2x" data-file-width="800" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_DR_Congo" class="mw-redirect" title="Electricity sector in DR Congo">DR Congo</a></th>
+<td>-</td>
+<td>0.02</td>
+<td>0.03</td>
+<td>0.05</td>
+<td>30</td>
+<td>-</td>
+<td>-</td>
+<td>7.5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>7.5</td>
+<td>22</td>
+<td>-</td>
+<td>7.5</td>
+<td>29</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Iran" title="Iran"><img alt="Iran" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" /></a></span> <a href="/wiki/Electricity_sector_in_Iran" class="mw-redirect" title="Electricity sector in Iran">Iran</a></th>
+<td>0.4</td>
+<td>36</td>
+<td>173</td>
+<td>209</td>
+<td>11</td>
+<td>-</td>
+<td>-</td>
+<td>5.0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0.20</td>
+<td>-</td>
+<td>5.2</td>
+<td>26</td>
+<td>-</td>
+<td>215</td>
+<td>17</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_Thailand" class="mw-redirect" title="Electricity sector in Thailand">Thailand</a></th>
+<td>32</td>
+<td>1.7</td>
+<td>102</td>
+<td>135</td>
+<td>18</td>
+<td>-</td>
+<td>-</td>
+<td>7.1</td>
+<td>0.002</td>
+<td>0.003</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>7.1</td>
+<td>23</td>
+<td>4.8</td>
+<td>147</td>
+<td>21</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_France" title="Electricity sector in France">France</a></th>
+<td>27</td>
+<td>5.8</td>
+<td>22</td>
+<td>55</td>
+<td>24</td>
+<td><b>439</b></td>
+<td>2</td>
+<td>68</td>
+<td>-</td>
+<td>0.04</td>
+<td>-</td>
+<td>5.7</td>
+<td><b>0.51</b></td>
+<td>75</td>
+<td>8</td>
+<td>5.9</td>
+<td>575</td>
+<td>8</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Electricity_generation_in_the_UK" class="mw-redirect" title="Electricity generation in the UK">UK</a></th>
+<td>127</td>
+<td>6.1</td>
+<td>177</td>
+<td>310</td>
+<td>7</td>
+<td>52</td>
+<td>10</td>
+<td>9.3</td>
+<td>-</td>
+<td>0.02</td>
+<td>-</td>
+<td>7.1</td>
+<td>-</td>
+<td>16</td>
+<td>18</td>
+<td>11</td>
+<td>389</td>
+<td>11</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Electricity_sector_in_Italy" title="Electricity sector in Italy">Italy</a></th>
+<td>49</td>
+<td>31</td>
+<td>173</td>
+<td>253</td>
+<td>9</td>
+<td>-</td>
+<td>-</td>
+<td>47</td>
+<td>5.5</td>
+<td>0.2</td>
+<td>-</td>
+<td>4.9</td>
+<td>-</td>
+<td>58</td>
+<td>11</td>
+<td>8.6</td>
+<td>319</td>
+<td>12</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/South_Korea" title="South Korea"><img alt="South Korea" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_South_Korea" class="mw-redirect" title="Electricity sector in South Korea">South Korea</a></th>
+<td>192</td>
+<td>15</td>
+<td>81</td>
+<td>288</td>
+<td>8</td>
+<td>151</td>
+<td>5</td>
+<td>5.6</td>
+<td>-</td>
+<td>0.3</td>
+<td>-</td>
+<td>0.4</td>
+<td>-</td>
+<td>6.3</td>
+<td>24</td>
+<td>0.7</td>
+<td>446</td>
+<td>10</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Electricity_sector_in_Spain" title="Electricity sector in Spain">Spain</a></th>
+<td>50</td>
+<td>18</td>
+<td>122</td>
+<td>190</td>
+<td>14</td>
+<td>59</td>
+<td>9</td>
+<td>26</td>
+<td>-</td>
+<td><b>2.6</b></td>
+<td>0.02</td>
+<td><b>32</b></td>
+<td>-</td>
+<td>61</td>
+<td>10</td>
+<td>4.3</td>
+<td>314</td>
+<td>13</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Electricity_sector_in_Canada" title="Electricity sector in Canada">Canada</a></th>
+<td>112</td>
+<td>9.8</td>
+<td>41</td>
+<td>162</td>
+<td>17</td>
+<td>94</td>
+<td>7</td>
+<td><b>383</b></td>
+<td>-</td>
+<td>0.03</td>
+<td>-</td>
+<td>3.8</td>
+<td>0.03</td>
+<td><b>386</b></td>
+<td>2</td>
+<td>8.5</td>
+<td>651</td>
+<td>6</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Saudi_Arabia" title="Saudi Arabia"><img alt="Saudi Arabia" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Electricity_sector_in_Saudi_Arabia" class="mw-redirect" title="Electricity sector in Saudi Arabia">Saudi Arabia</a></th>
+<td>-</td>
+<td><b>116</b></td>
+<td>88</td>
+<td>204</td>
+<td>12</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>204</td>
+<td>18</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Taiwan" title="Taiwan"><img alt="Taiwan" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/35px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/45px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_Taiwan" title="Electricity sector in Taiwan">Taiwan</a></th>
+<td>125</td>
+<td>14</td>
+<td>46</td>
+<td>186</td>
+<td>15</td>
+<td>41</td>
+<td>11</td>
+<td>7.8</td>
+<td>-</td>
+<td>0.004</td>
+<td>-</td>
+<td>0.6</td>
+<td>-</td>
+<td>8.4</td>
+<td>21</td>
+<td>3.5</td>
+<td>238</td>
+<td>16</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Electricity_sector_in_Australia" class="mw-redirect" title="Electricity sector in Australia">Australia</a></th>
+<td>198</td>
+<td>2.8</td>
+<td>39</td>
+<td>239</td>
+<td>10</td>
+<td>-</td>
+<td>-</td>
+<td>12</td>
+<td>-</td>
+<td>0.2</td>
+<td>0.004</td>
+<td>3.9</td>
+<td>-</td>
+<td>16</td>
+<td>19</td>
+<td>2.2</td>
+<td>257</td>
+<td>15</td>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Electricity_sector_in_the_Netherlands" title="Electricity sector in the Netherlands">Netherlands</a></th>
+<td>27</td>
+<td>2.1</td>
+<td>63</td>
+<td>92</td>
+<td>21</td>
+<td>4.2</td>
+<td>15</td>
+<td>0.1</td>
+<td>-</td>
+<td>0.04</td>
+<td>-</td>
+<td>4.3</td>
+<td>-</td>
+<td>4.4</td>
+<td>27</td>
+<td>6.8</td>
+<td>108</td>
+<td>23</td>
+</tr>
+<tr>
+<th style="background-color: #ddf;">Country</th>
+<th style="background-color: #dfd;">Coal</th>
+<th style="background-color: #dfd;">Oil</th>
+<th style="background-color: #dfd;">Gas</th>
+<th style="background-color: #dfd;">sub<br />
+total</th>
+<th style="background-color: #dfd;"><small>rank</small></th>
+<th style="background-color: #ddf;"><small>Nuclear</small></th>
+<th style="background-color: #ddf;"><small>rank</small></th>
+<th style="background-color: #dfd;">Hydro</th>
+<th style="background-color: #dfd;">Geo<br />
+<small>Thermal</small></th>
+<th style="background-color: #dfd;"><small>Solar</small><br />
+PV</th>
+<th style="background-color: #dfd;"><small>Solar</small><br />
+<small>Thermal</small></th>
+<th style="background-color: #dfd;">Wind</th>
+<th style="background-color: #dfd;">Tide</th>
+<th style="background-color: #dfd;">sub<br />
+total</th>
+<th style="background-color: #dfd;"><small>rank</small></th>
+<th style="background-color: #ddf;">Bio<br />
+<small>other</small></th>
+<th style="background-color: #dfd;">Total</th>
+<th style="background-color: #dfd;"><small>rank</small></th>
+</tr>
+</table>
+<p><b>Solar PV*</b> is <a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a> <b>Bio other*</b> = 198TWh (Biomass) + 69TWh (Waste) + 4TWh (other)</p>
+<h2><span class="mw-headline" id="Environmental_concerns">Environmental concerns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=16" title="Edit section: Environmental concerns">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Environmental_impact_of_electricity_generation" title="Environmental impact of electricity generation">Environmental impact of electricity generation</a></div>
+<div role="note" class="hatnote">See also: <a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Coal_phase_out" class="mw-redirect" title="Coal phase out">Coal phase out</a></div>
+<p>Variations between countries generating electrical power affect concerns about the environment. In France only 10% of electricity is generated from fossil fuels, the US is higher at 70% and China is at 80%.<sup id="cite_ref-Statistics_and_Balances_12-1" class="reference"><a href="#cite_note-Statistics_and_Balances-12">[12]</a></sup> The cleanliness of electricity depends on its source. Most scientists agree that emissions of pollutants and greenhouse gases from fossil fuel-based electricity generation account for a significant portion of world greenhouse gas emissions; in the United States, electricity generation accounts for nearly 40% of emissions, the largest of any source. Transportation emissions are close behind, contributing about one-third of U.S. production of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> In the United States, fossil fuel combustion for electric power generation is responsible for 65% of all emissions of <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">sulfur dioxide</a>, the main component of acid rain.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Electricity generation is the fourth highest combined source of <a href="/wiki/NOx" title="NOx">NOx</a>, <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a>, and <a href="/wiki/Atmospheric_particulate_matter" class="mw-redirect" title="Atmospheric particulate matter">particulate matter</a> in the US.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> In July 2011, the UK parliament tabled a motion that "levels of (carbon) emissions from nuclear power were approximately three times lower per <a href="/wiki/Kilowatt_hour" title="Kilowatt hour">kilowatt hour</a> than those of solar, four times lower than clean coal and 36 times lower than conventional coal".<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources" title="Life-cycle greenhouse-gas emissions of energy sources">Life-cycle greenhouse-gas emissions of energy sources</a></div>
+<table class="wikitable sortable">
+<caption><b>Lifecycle greenhouse gas emissions by electricity source.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></b></caption>
+<tr>
+<th>Technology</th>
+<th>Description</th>
+<th>50th percentile<br />
+(g CO2/kWh<sub>e</sub>)</th>
+</tr>
+<tr>
+<td><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectric</a></td>
+<td>reservoir</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a href="/wiki/Wind" title="Wind">Wind</a></td>
+<td><a href="/wiki/List_of_onshore_wind_farms" title="List of onshore wind farms">onshore</a></td>
+<td>12</td>
+</tr>
+<tr>
+<td><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></td>
+<td>various <a href="/wiki/Generation_II_reactor" title="Generation II reactor">generation II reactor</a> types</td>
+<td>16</td>
+</tr>
+<tr>
+<td><a href="/wiki/Biomass" title="Biomass">Biomass</a></td>
+<td>various</td>
+<td>18</td>
+</tr>
+<tr>
+<td><a href="/wiki/Concentrating_solar_power" class="mw-redirect" title="Concentrating solar power">Solar thermal</a></td>
+<td><a href="/wiki/Parabolic_trough" title="Parabolic trough">parabolic trough</a></td>
+<td>22</td>
+</tr>
+<tr>
+<td><a href="/wiki/Geothermal" class="mw-redirect" title="Geothermal">Geothermal</a></td>
+<td><a href="/wiki/Hot_dry_rock" class="mw-redirect" title="Hot dry rock">hot dry rock</a></td>
+<td>45</td>
+</tr>
+<tr>
+<td><a href="/wiki/Solar_PV" class="mw-redirect" title="Solar PV">Solar PV</a></td>
+<td><a href="/wiki/Polycrystalline_silicon_photovoltaics" class="mw-redirect" title="Polycrystalline silicon photovoltaics">Polycrystalline silicon</a></td>
+<td>46</td>
+</tr>
+<tr>
+<td><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></td>
+<td>various combined cycle turbines without scrubbing</td>
+<td>469</td>
+</tr>
+<tr>
+<td><a href="/wiki/Coal" title="Coal">Coal</a></td>
+<td>various generator types without scrubbing</td>
+<td>1001</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Darwin_Airport_Water_Tower.jpg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Darwin_Airport_Water_Tower.jpg/32px-Darwin_Airport_Water_Tower.jpg" width="32" height="21" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Darwin_Airport_Water_Tower.jpg/48px-Darwin_Airport_Water_Tower.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Darwin_Airport_Water_Tower.jpg/64px-Darwin_Airport_Water_Tower.jpg 2x" data-file-width="1500" data-file-height="997" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Infrastructure" title="Portal:Infrastructure">Infrastructure portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;">
+<ul>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/World_energy_consumption" title="World energy consumption">World energy consumption</a>: the total energy used by all of human civilization.</li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a>: the use of a heat engine[1] or power station to generate electricity and useful heat at the same time.</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_generation&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ethw.org/Pearl_Street_Station">"Pearl Street Station - Engineering and Technology History Wiki"</a>. <i>ethw.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.atitle=Pearl+Street+Station+-+Engineering+and+Technology+History+Wiki&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fethw.org%2FPearl_Street_Station&amp;rft.jtitle=ethw.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eia.gov/electricity/monthly/epm_table_grapher.cfm?t=epmt_1_01">"EIA - Electricity Data"</a>. <i>www.eia.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.atitle=EIA+-+Electricity+Data&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eia.gov%2Felectricity%2Fmonthly%2Fepm_table_grapher.cfm%3Ft%3Depmt_1_01&amp;rft.jtitle=www.eia.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">DGEMP / Observatoire de l'énergie (April 2007). <a rel="nofollow" class="external text" href="http://www.industrie.gouv.fr/energie/statisti/pdf/elec-analyse-stat.pdf">"L'Electricité en France en 2006&#160;: une analyse statistique."</a> <span style="font-size:85%;">(PDF)</span> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.au=DGEMP+%2F+Observatoire+de+l%27%C3%A9nergie&amp;rft.btitle=L%99Electricit%C3%A9+en+France+en+2006+%3A+une+analyse+statistique.&amp;rft.date=2007-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.industrie.gouv.fr%2Fenergie%2Fstatisti%2Fpdf%2Felec-analyse-stat.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldcoal.org/coal/uses-coal/coal-electricity">"Coal &amp; electricity"</a>. <i>World Coal Association</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.atitle=Coal+%26+electricity&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldcoal.org%2Fcoal%2Fuses-coal%2Fcoal-electricity&amp;rft.jtitle=World+Coal+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eere.energy.gov/news/archive.cfm/pubDate=%7Bd%20'2003-09-24'%7D#6490">World's Largest Utility Battery System Installed in Alaska</a> (press release, 2003-09-24), U.S. Department of Energy. <i>"13,670 nickel-cadmium battery cells to generate up to 40 megawatts of power for about 7 minutes, or 27 megawatts of power for 15 minutes."</i></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.doe.gov/news/4503.htm"><i>New World Record Achieved in Solar Cell Technology</i></a> (press release, 2006-12-05), U.S. Department of Energy.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Reuters News Service (2005-12-30). <a rel="nofollow" class="external text" href="http://www.planetark.com/dailynewsstory.cfm/newsid/34265/story.htm">"Mohave Power Plant in Nevada to Close as Expected"</a>. <i>Planet Ark</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-07-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.atitle=Mohave+Power+Plant+in+Nevada+to+Close+as+Expected&amp;rft.au=Reuters+News+Service&amp;rft.date=2005-12-30&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.planetark.com%2Fdailynewsstory.cfm%2Fnewsid%2F34265%2Fstory.htm&amp;rft.jtitle=Planet+Ark&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Krotz, Dan (2012-05-13). <a rel="nofollow" class="external text" href="http://newscenter.lbl.gov/2012/05/13/electricity-from-viruses/">"Berkeley Lab Scientists Generate Electricity From Viruses | Berkeley Lab"</a>. <i>News Center</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.atitle=Berkeley+Lab+Scientists+Generate+Electricity+From+Viruses+%7C+Berkeley+Lab&amp;rft.aufirst=Dan&amp;rft.aulast=Krotz&amp;rft.date=2012-05-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnewscenter.lbl.gov%2F2012%2F05%2F13%2Felectricity-from-viruses%2F&amp;rft.jtitle=News+Center&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Smith, Karl (22 March 2013). <a rel="nofollow" class="external text" href="http://www.forbes.com/sites/modeledbehavior/2013/03/22/will-natural-gas-stay-cheap-enough-replace-coal-and-lower-us-carbon-emissions/">"Will Natural Gas Stay Cheap Enough To Replace Coal And Lower Us Carbon Emissions"</a>. <i>Forbes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.atitle=Will+Natural+Gas+Stay+Cheap+Enough+To+Replace+Coal+And+Lower+Us+Carbon+Emissions&amp;rft.aufirst=Karl&amp;rft.aulast=Smith&amp;rft.date=2013-03-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fmodeledbehavior%2F2013%2F03%2F22%2Fwill-natural-gas-stay-cheap-enough-replace-coal-and-lower-us-carbon-emissions%2F&amp;rft.jtitle=Forbes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.keepeek.com/Digital-Asset-Management/oecd/economics/oecd-factbook-2015-2016/world-electricity-generation-by-source-of-energy_factbook-2015-graph86-en">"OECD Factbook 2015-2016: Economic, Environmental and Social Statistics"</a>. 8 April 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">12 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.btitle=OECD+Factbook+2015-2016%3A+Economic%2C+Environmental+and+Social+Statistics&amp;rft.date=2016-04-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.keepeek.com%2FDigital-Asset-Management%2Foecd%2Feconomics%2Foecd-factbook-2015-2016%2Fworld-electricity-generation-by-source-of-energy_factbook-2015-graph86-en&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">International Energy Agency, "<a rel="nofollow" class="external text" href="http://www.iea.org/stats/balancetable.asp?COUNTRY_CODE=29">2008 Energy Balance for World</a>", 2011.</span></li>
+<li id="cite_note-Statistics_and_Balances-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Statistics_and_Balances_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Statistics_and_Balances_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">IEA <a rel="nofollow" class="external text" href="http://www.iea.org/stats/index.asp">Statistics and Balances</a> retrieved 2011-5-8</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">CIA <a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/download/">World Factbook 2009</a> retrieved 2011-5-8</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news">Borenstein, Seth (2007-06-03). <a rel="nofollow" class="external text" href="http://seattletimes.nwsource.com/html/nationworld/2003732690_carbon03.html">"Carbon-emissions culprit? Coal"</a>. <i>The Seattle Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.atitle=Carbon-emissions+culprit%3F+Coal&amp;rft.aufirst=Seth&amp;rft.aulast=Borenstein&amp;rft.date=2007-06-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fseattletimes.nwsource.com%2Fhtml%2Fnationworld%2F2003732690_carbon03.html&amp;rft.jtitle=The+Seattle+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.epa.gov/air/sulfurdioxide/">"Sulfur Dioxide"</a>. US Environmental Protection Agency.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.btitle=Sulfur+Dioxide&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fair%2Fsulfurdioxide%2F&amp;rft.pub=US+Environmental+Protection+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.epa.gov/cgi-bin/broker?_service=airdata&amp;_program=progs.webprogs.emcatbar.scl&amp;_debug=2&amp;geotype=us&amp;geocode=USA&amp;geoname=United+States&amp;epol=CO+NOX+VOC+SO2+PM25+PM10&amp;years=2002&amp;mapsize=zsc&amp;reqtype=viewmap">"AirData"</a>. US Environmental Protection Agency.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.btitle=AirData&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fcgi-bin%2Fbroker%3F_service%3Dairdata%26_program%3Dprogs.webprogs.emcatbar.scl%26_debug%3D2%26geotype%3Dus%26geocode%3DUSA%26geoname%3DUnited%2BStates%26epol%3DCO%2BNOX%2BVOC%2BSO2%2BPM25%2BPM10%26years%3D2002%26mapsize%3Dzsc%26reqtype%3Dviewmap&amp;rft.pub=US+Environmental+Protection+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.parliament.uk/edm/2010-12/2061">"Early day motion 2061"</a>. <i>UK Parliament</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+generation&amp;rft.atitle=Early+day+motion+2061&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.parliament.uk%2Fedm%2F2010-12%2F2061&amp;rft.jtitle=UK+Parliament&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://srren.ipcc-wg3.de/report/IPCC_SRREN_Annex_II.pdf">http://srren.ipcc-wg3.de/report/IPCC_SRREN_Annex_II.pdf</a> see page 10 Moomaw, W., P. Burgherr, G. Heath, M. Lenzen, J. Nyboer, A. Verbruggen, 2011: Annex II: Methodology. In IPCC Special Report on Renewable Energy Sources and Climate Change Mitigation.</span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%;margin:0 4em"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Home_Energy_Storage" title="Home Energy Storage">Home energy storage</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Utility_frequency" title="Utility frequency">Utility frequency</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Mains_electricity_by_country" title="Mains electricity by country">Mains electricity by country</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4133665-3">4133665-3</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00563020">00563020</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20170314210728
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.296 seconds
+Real time usage: 0.430 seconds
+Preprocessor visited node count: 3430/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63278/2097152 bytes
+Template argument size: 4135/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.092/10.000 seconds
+Lua memory usage: 4.84 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  282.884      1 -total
+ 27.79%   78.611      1 Template:Reflist
+ 21.15%   59.823     30 Template:Flagicon
+ 19.46%   55.063      9 Template:Cite_web
+ 14.54%   41.120      1 Template:Update
+  9.96%   28.166      1 Template:Main_other
+  9.45%   26.719      1 Template:Ambox
+  8.47%   23.970      3 Template:See_also
+  8.42%   23.806      1 Template:Authority_control
+  7.62%   21.554      2 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9540-0!*!0!!en!4!* and timestamp 20170314210728 and revision id 769067814
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Electricity_generation&amp;oldid=769067814">https://en.wikipedia.org/w/index.php?title=Electricity_generation&amp;oldid=769067814</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electric_power_generation" title="Category:Electric power generation">Electric power generation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_March_2015" title="Category:Wikipedia articles in need of updating from March 2015">Wikipedia articles in need of updating from March 2015</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Electricity+generation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Electricity+generation" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Electricity_generation"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Electricity_generation"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Electricity_generation" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Electricity_generation&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Electricity_generation&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Electricity_generation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Electricity_generation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Electricity_generation&amp;oldid=769067814" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Electricity_generation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q383973" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Electricity_generation&amp;id=769067814" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Electricity+generation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Electricity+generation&amp;returnto=Electricity+generation&amp;oldid=769067814&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Electricity_generation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Electric_power_generation" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Kragopwekking" title="Kragopwekking – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%84%D9%8A%D8%AF_%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1" title="توليد الكهرباء – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E_%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF_%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8" title="বিদ্যুৎ শক্তি উৎপাদন – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Hoat-ti%C4%81n" title="Hoat-tiān – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0_%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F" title="Електрическа генерация – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Generaci%C3%B3_d%27energia_el%C3%A8ctrica" title="Generació d'energia elèctrica – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Stromerzeugung" title="Stromerzeugung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Elektrienergia_tootmine" title="Elektrienergia tootmine – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Generaci%C3%B3n_de_energ%C3%ADa_el%C3%A9ctrica" title="Generación de energía eléctrica – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%84%DB%8C%D8%AF_%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%D8%B3%DB%8C%D8%AA%D9%87" title="تولید الکتریسیته – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Production_d%27%C3%A9lectricit%C3%A9" title="Production d'électricité – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Xeraci%C3%B3n_de_electricidade" title="Xeración de electricidade – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B0%9C%EC%A0%84_(%EC%A0%84%EA%B8%B0)" title="발전 (전기) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4_%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8" title="विद्युत उत्पादन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Produzione_di_energia_elettrica" title="Produzione di energia elettrica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%99%D7%A6%D7%95%D7%A8_%D7%97%D7%A9%D7%9E%D7%9C" title="ייצור חשמל – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%88%E0%B4%A6%E0%B5%8D%E0%B4%AF%E0%B5%81%E0%B4%A4%E0%B5%8B%E0%B5%BD%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%BE%E0%B4%A6%E0%B4%A8%E0%B4%82" title="വൈദ്യുതോൽപ്പാദനം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Penjanaan_elektrik" title="Penjanaan elektrik – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%99%BA%E9%9B%BB" title="発電 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Gera%C3%A7%C3%A3o_de_eletricidade" title="Geração de eletricidade – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Generarea_electricit%C4%83%C8%9Bii" title="Generarea electricității – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8" title="Генерация электроэнергии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Prodhimi_i_elektricitetit" title="Prodhimi i elektricitetit – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%AF%E0%B7%94%E0%B6%BD%E0%B7%92%E0%B6%BA_%E0%B6%A2%E0%B6%B1%E0%B6%B1%E0%B6%BA_%E0%B6%9A%E0%B7%92%E0%B6%BB%E0%B7%92%E0%B6%B8%E0%B7%9A_%E0%B6%9A%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B6%B8" title="විදුලිය ජනනය කිරිමේ ක්‍රම – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Electricity_generation" title="Electricity generation – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/S%C3%A4hk%C3%B6ntuotanto" title="Sähköntuotanto – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Elproduktion" title="Elproduktion – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%89%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF" title="மின் உற்பத்தி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BF%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B1%81%E0%B0%A4%E0%B1%8D%E0%B0%A4%E0%B1%81_%E0%B0%89%E0%B0%A4%E0%B1%8D%E0%B0%AA%E0%B0%A4%E0%B1%8D%E0%B0%A4%E0%B0%BF" title="విద్యుత్తు ఉత్పత్తి – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Elektrik_%C3%BCretme" title="Elektrik üretme – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D1%96%D1%97" title="Генерування електроенергії – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/S%E1%BA%A3n_xu%E1%BA%A5t_%C4%91i%E1%BB%87n_n%C4%83ng" title="Sản xuất điện năng – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Produjhaedje_di_corant" title="Produjhaedje di corant – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%99%BC%E9%9B%BB" title="發電 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%99%BC%E9%9B%BB" title="發電 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q383973#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 March 2017, at 11:26.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Electricity_generation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.430","ppvisitednodes":{"value":3430,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":63278,"limit":2097152},"templateargumentsize":{"value":4135,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  282.884      1 -total"," 27.79%   78.611      1 Template:Reflist"," 21.15%   59.823     30 Template:Flagicon"," 19.46%   55.063      9 Template:Cite_web"," 14.54%   41.120      1 Template:Update","  9.96%   28.166      1 Template:Main_other","  9.45%   26.719      1 Template:Ambox","  8.47%   23.970      3 Template:See_also","  8.42%   23.806      1 Template:Authority_control","  7.62%   21.554      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.092","limit":"10.000"},"limitreport-memusage":{"value":5072901,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20170314210728","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":509,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>

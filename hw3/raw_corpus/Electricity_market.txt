@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Electricity market - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Electricity_market","wgTitle":"Electricity market","wgCurRevisionId":770005052,"wgRevisionId":770005052,"wgArticleId":215909,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with obsolete information from March 2017","All Wikipedia articles in need of updating","Wikipedia external links cleanup from January 2017","Wikipedia spam cleanup from January 2017","All articles with unsourced statements","Articles with unsourced statements from January 2009","Articles with unsourced statements from October 2013","Electric power distribution","Energy exchanges","Electricity markets"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Electricity_market","wgRelevantArticleId":215909,"wgRequestId":"WMf8iwpAAD4AAgdfkPwAAAAL","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q676081","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8d/Tagesgang_engl.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Electricity_market"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Electricity_market&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Electricity_market&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Electricity_market"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Electricity_market rootpage-Electricity_market skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Electricity market</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>In economic terms, <a href="/wiki/Electricity" title="Electricity">electricity</a> (both <a href="/wiki/Electric_power" title="Electric power">power</a> and <a href="/wiki/Electric_energy" class="mw-redirect" title="Electric energy">energy</a>) is a <a href="/wiki/Commodity" title="Commodity">commodity</a> capable of being bought, sold, and traded. An <b>electricity market</b> is a system enabling purchases, through bids to buy; sales, through offers to sell; and <a href="/wiki/Short-term_trading" title="Short-term trading">short-term trades</a>, generally in the form of financial or obligation <a href="/wiki/Swap_(finance)" title="Swap (finance)">swaps</a>. Bids and offers use <a href="/wiki/Supply_and_demand" title="Supply and demand">supply and demand</a> principles to set the price. Long-term trades are contracts similar to <a href="/wiki/Power_purchase_agreement" title="Power purchase agreement">power purchase agreements</a> and generally considered private bi-lateral transactions between counterparties.</p>
+<p>Wholesale transactions (bids and offers) in electricity are typically cleared and settled by the market operator or a special-purpose independent entity charged exclusively with that function. Market operators do not clear trades but often require knowledge of the trade in order to maintain generation and load balance. The commodities within an electric market generally consist of two types: <a href="/wiki/Power_(physics)" title="Power (physics)">power</a> and <a href="/wiki/Energy_(physics)" class="mw-redirect" title="Energy (physics)">energy</a>. Power is the metered net electrical transfer rate at any given moment and is measured in <a href="/wiki/Megawatt" class="mw-redirect" title="Megawatt">megawatts</a> (MW). Energy is electricity that flows through a metered point for a given period and is measured in <a href="/wiki/Megawatt_hour" class="mw-redirect" title="Megawatt hour">megawatt-hours</a> (MWh).</p>
+<p>Markets for energy-related commodities trade net generation output for a number of intervals usually in increments of 5, 15 and 60 minutes. Markets for power-related commodities required and managed by (and paid for by) market operators to ensure reliability, are considered <a href="/wiki/Ancillary_services_(electric_power)" title="Ancillary services (electric power)">ancillary services</a> and include such names as spinning reserve, non-spinning reserve, <a href="/wiki/Operating_reserve" title="Operating reserve">operating reserves</a>, responsive reserve, regulation up, regulation down, and <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">installed capacity</a>.</p>
+<p>In addition, for most major operators, there are markets for transmission congestion and electricity <a href="/wiki/Derivative_(finance)" title="Derivative (finance)">derivatives</a> such as electricity <a href="/wiki/Futures_contract" title="Futures contract">futures</a> and <a href="/wiki/Option_(finance)" title="Option (finance)">options</a>, which are actively traded. These markets developed as a result of the restructuring of electric power systems around the world. This process has often gone on in parallel with the restructuring of <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> markets.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Nature_of_the_market"><span class="tocnumber">2</span> <span class="toctext">Nature of the market</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Wholesale_electricity_market"><span class="tocnumber">3</span> <span class="toctext">Wholesale electricity market</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Bid-based.2C_security-constrained.2C_economic_dispatch_with_nodal_prices"><span class="tocnumber">3.1</span> <span class="toctext">Bid-based, security-constrained, economic dispatch with nodal prices</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Risk_management"><span class="tocnumber">3.2</span> <span class="toctext">Risk management</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Wholesale_electricity_markets"><span class="tocnumber">3.3</span> <span class="toctext">Wholesale electricity markets</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Retail_electricity_market"><span class="tocnumber">4</span> <span class="toctext">Retail electricity market</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Electricity_market_experience"><span class="tocnumber">5</span> <span class="toctext">Electricity market experience</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_market&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One early introduction of <a href="/wiki/Energy_market" title="Energy market">energy market</a> concepts and <a href="/wiki/Privatization" title="Privatization">privatization</a> to electric power systems took place in <a href="/wiki/Electricity_sector_in_Chile" title="Electricity sector in Chile">Chile</a> in the early 1981s, in parallel with other market-oriented reforms associated with the <a href="/wiki/Chicago_Boys" title="Chicago Boys">Chicago Boys</a>. The Chilean model was generally perceived as successful in bringing rationality and transparency to power pricing. <a href="/wiki/Electricity_sector_in_Argentina" title="Electricity sector in Argentina">Argentina</a> improved on the Chilean model by imposing strict limits on market concentration and by improving the structure of payments to units held in reserve to assure system reliability. One of the principal purposes of the introduction of market concepts <a href="/wiki/Electricity_sector_in_Argentina" title="Electricity sector in Argentina">in Argentina</a> was to privatize existing generation assets (which had fallen into disrepair under the government-owned monopoly, resulting in frequent service interruptions) and to attract capital needed for rehabilitation of those assets and for system expansion. The <a href="/wiki/World_Bank" title="World Bank">World Bank</a> was active in introducing a variety of hybrid markets in other Latin American nations, including Peru, Brazil, and Colombia, during the 1990s, with limited success.</p>
+<p>A key event for electricity markets occurred in 1990 when the <a href="/wiki/United_Kingdom" title="United Kingdom">UK</a> government under <a href="/wiki/Margaret_Thatcher" title="Margaret Thatcher">Margaret Thatcher</a> <a href="/wiki/Energy_policy_of_the_United_Kingdom#1980s_market_liberalisation" title="Energy policy of the United Kingdom">privatised the UK electricity supply industry</a>. The process followed by the British was then used as a model or at least a catalyst for the <a href="/wiki/Deregulation" title="Deregulation">deregulation</a> of several other <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth</a> countries, notably <a href="/wiki/National_Electricity_Market" title="National Electricity Market">Australia</a> and <a href="/wiki/New_Zealand_Electricity_Market" class="mw-redirect" title="New Zealand Electricity Market">New Zealand</a>, and regional markets such as <a href="/wiki/Alberta" title="Alberta">Alberta</a>. However, in many of these other instances the market deregulation occurred without the widespread privatisation that characterised the UK example.</p>
+<p>In the <a href="/wiki/Electricity_sector_of_the_United_States" title="Electricity sector of the United States">USA</a> the traditional model of the <a href="/wiki/Vertically_integrated" class="mw-redirect" title="Vertically integrated">vertically integrated</a> <a href="/wiki/Electric_utility" title="Electric utility">electric utility</a> with a transmission system designed to serve its own customers worked extremely well for decades. As dependence on a reliable supply of electricity grew and electricity was transported over increasingly greater distances, <a href="/wiki/Power_pool" title="Power pool">power pools</a> were formed and <a href="/wiki/Wide_area_synchronous_grid" title="Wide area synchronous grid">interconnections</a> developed. Transactions were relatively few and generally planned well in advance.</p>
+<p>However, in the last decade of the 20th century, some US policy makers and academics projected that the electrical power industry would ultimately experience deregulation and <a href="/wiki/Independent_system_operator" class="mw-redirect" title="Independent system operator">independent system operators</a> (ISOs) and <a href="/wiki/Regional_transmission_organization" class="mw-redirect" title="Regional transmission organization">regional transmission organizations</a> (RTOs) were established. They were conceived as the way to handle the vastly increased number of transactions that take place in a competitive environment. About a dozen states decided to deregulate but some pulled back following the <a href="/wiki/California_electricity_crisis" title="California electricity crisis">California electricity crisis</a> of 2000 and 2001.</p>
+<p>In different deregulation processes the institutions and market designs were often very different but many of the underlying concepts were the same. These are: separate the potentially competitive functions of <a href="/wiki/Electricity_generation" title="Electricity generation">generation</a> and <a href="/wiki/Electricity_retailing" title="Electricity retailing">retail</a> from the <a href="/wiki/Natural_monopoly" title="Natural monopoly">natural monopoly</a> functions of <a href="/wiki/Electric_power_transmission" title="Electric power transmission">transmission</a> and <a href="/wiki/Electricity_distribution" class="mw-redirect" title="Electricity distribution">distribution</a>; and establish a <b>wholesale electricity market</b> and a <b>retail electricity market</b>. The role of the wholesale market is to allow trading between generators, retailers and other financial intermediaries both for short-term delivery of electricity (see <a href="/wiki/Spot_price" class="mw-redirect" title="Spot price">spot price</a>) and for future delivery periods (see <a href="/wiki/Forward_price" title="Forward price">forward price</a>).</p>
+<p>Some states exempt non investor-owned utilities from some aspects of deregulation such as customer choice of supplier. For example, some of the New England states exempt municipal lighting plants from several aspects of deregulation and these municipal utilities do not have to allow customers to purchase from competitive suppliers. Municipal utilities in these states can also opt to function as vertically-integrated utilities and operate generation assets both inside and outside of their service area to supply their utility customers as well as sell output to the market.</p>
+<h2><span class="mw-headline" id="Nature_of_the_market">Nature of the market</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_market&amp;action=edit&amp;section=2" title="Edit section: Nature of the market">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Electricity" title="Electricity">Electricity</a> is by its nature difficult to store and has to be available on demand. Consequently, unlike other products, it is not possible, under normal operating conditions, to keep it in stock, ration it or have customers queue for it. Furthermore, demand and supply vary continuously.</p>
+<p>There is therefore a physical requirement for a controlling agency, the <a href="/wiki/Transmission_system_operator" title="Transmission system operator">transmission system operator</a>, to <a href="/wiki/Unit_commitment_problem_in_electrical_power_production" title="Unit commitment problem in electrical power production">coordinate the dispatch of generating units</a> to meet the expected demand of the system across the <a href="/wiki/Electric_power_transmission" title="Electric power transmission">transmission grid</a>. If there is a mismatch between supply and demand the generators speed up or slow down causing the system <a href="/wiki/Frequency" title="Frequency">frequency</a> (either 50 or 60 <a href="/wiki/Hertz" title="Hertz">hertz</a>) to increase or decrease. If the frequency falls outside a predetermined range the system operator will act to add or remove either generation or load.</p>
+<p>The proportion of electricity lost in transmission and the level of congestion on any particular branch of the network will influence the <a href="/wiki/Economic_dispatch" title="Economic dispatch">economic dispatch</a> of the generation units.</p>
+<p><br />
+Markets may extend beyond national boundaries.</p>
+<h2><span class="mw-headline" id="Wholesale_electricity_market">Wholesale electricity market</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_market&amp;action=edit&amp;section=3" title="Edit section: Wholesale electricity market">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:Tagesgang_engl.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tagesgang_engl.png/400px-Tagesgang_engl.png" width="400" height="309" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tagesgang_engl.png/600px-Tagesgang_engl.png 1.5x, //upload.wikimedia.org/wikipedia/commons/8/8d/Tagesgang_engl.png 2x" data-file-width="792" data-file-height="612" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tagesgang_engl.png" class="internal" title="Enlarge"></a></div>
+Typical daily consumption of electrical power in Germany</div>
+</div>
+</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Update" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b><a href="/wiki/Wikipedia:Accuracy_dispute" title="Wikipedia:Accuracy dispute">factual accuracy</a> may be compromised due to out-of-date information</b>. <span class="hide-when-compact">Please update this article to reflect recent events or newly available information.</span> <small><i>(March 2017)</i></small></span></td>
+</tr>
+</table>
+<p>A <b>wholesale electricity market</b> exists when competing <a href="/wiki/Electricity_generation" title="Electricity generation">generators</a> offer their electricity output to <a href="/wiki/Electricity_retailing" title="Electricity retailing">retailers</a>. The retailers then re-price the electricity and take it to market. While wholesale pricing used to be the exclusive domain of large retail suppliers, increasingly markets like New England are beginning to open up to end-users. Large end-users seeking to cut out unnecessary overhead in their energy costs are beginning to recognize the advantages inherent in such a purchasing move. Consumers buying electricity directly from generators is a relatively recent phenomenon.</p>
+<p>Buying wholesale electricity is not without its drawbacks (market uncertainty, membership costs, set up fees, collateral investment, and organization costs, as electricity would need to be bought on a daily basis), however, the larger the end user's electrical load, the greater the benefit and incentive to make the switch.</p>
+<p>For an economically efficient electricity wholesale market to flourish it is essential that a number of criteria are met, namely the existence of a coordinated spot market that has "bid-based, security-constrained, economic dispatch with nodal prices". These criteria have been largely adopted in the US, Australia, New Zealand and Singapore.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Bid-based.2C_security-constrained.2C_economic_dispatch_with_nodal_prices">Bid-based, security-constrained, economic dispatch with nodal prices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_market&amp;action=edit&amp;section=4" title="Edit section: Bid-based, security-constrained, economic dispatch with nodal prices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The system price in the day-ahead market is, in principle, determined by matching offers from generators to bids from consumers at each <a href="/wiki/Node_(graph_theory)" class="mw-redirect" title="Node (graph theory)">node</a> to develop a classic <a href="/wiki/Supply_curve" class="mw-redirect" title="Supply curve">supply</a> and <a href="/wiki/Supply_curve" class="mw-redirect" title="Supply curve">demand</a> <a href="/wiki/Economic_equilibrium" title="Economic equilibrium">equilibrium price</a>, usually on an hourly interval, and is calculated separately for subregions in which the system operator's load flow model indicates that constraints will bind transmission imports.</p>
+<p>The theoretical prices of electricity at each node on the network is a calculated "<a href="/wiki/Shadow_price" title="Shadow price">shadow price</a>", in which it is assumed that one additional <a href="/wiki/Kilowatt-hour" class="mw-redirect" title="Kilowatt-hour">kilowatt-hour</a> is demanded at the node in question, and the hypothetical incremental cost to the system that would result from the optimized redispatch of available units establishes the hypothetical production cost of the hypothetical kilowatt-hour. This is known as <i>locational marginal pricing</i> (LMP) or <i>nodal pricing</i> and is used in some deregulated markets, most notably in the <a href="/wiki/PJM_Interconnection" title="PJM Interconnection">PJM Interconnection</a>, <a href="/wiki/Electric_Reliability_Council_of_Texas" title="Electric Reliability Council of Texas">ERCOT</a>, <a href="/wiki/New_York_(state)" class="mw-redirect" title="New York (state)">New York</a>, and <a href="/wiki/New_England" title="New England">New England</a> markets in the USA, <a href="/wiki/New_Zealand_Electricity_Market" class="mw-redirect" title="New Zealand Electricity Market">New Zealand</a>,<sup id="cite_ref-alvey-etal-1998_2-0" class="reference"><a href="#cite_note-alvey-etal-1998-2">[2]</a></sup> and in Singapore.</p>
+<p>In practice, the LMP algorithm described above is run, incorporating a security-constrained, least-cost dispatch calculation (see below) with supply based on the generators that submitted offers in the day-ahead market, and demand based on bids from load-serving entities draining supplies at the nodes in question.</p>
+<p>While in theory the LMP concepts are useful and not evidently subject to manipulation, in practice system operators have substantial discretion over LMP results through the ability to classify units as running in "out-of-merit dispatch", which are thereby excluded from the LMP calculation. In most systems, units that are dispatched to provide <a href="/wiki/Reactive_power" class="mw-redirect" title="Reactive power">reactive power</a> to support transmission grids are declared to be "out-of-merit" (even though these are typically the same units that are located in constrained areas and would otherwise result in scarcity signals). System operators also normally bring units online to hold as "spinning-reserve" to protect against sudden outages or unexpectedly rapid ramps in demand, and declare them "out-of-merit". The result is often a substantial reduction in clearing price at a time when increasing demand would otherwise result in escalating prices.</p>
+<p>Researchers have noted that a variety of factors, including energy price caps set well below the putative <a href="/wiki/Scarcity_value" title="Scarcity value">scarcity value</a> of energy, the effect of "out-of-merit" dispatch, the use of techniques such as voltage reductions during scarcity periods with no corresponding scarcity <a href="/wiki/Price_signal" title="Price signal">price signal</a>, etc., results in a "missing money" problem. The consequence is that prices paid to suppliers in the "market" are substantially below the levels required to stimulate new entry. The markets have therefore been useful in bringing efficiencies to short-term system operations and dispatch, but have been a failure in what was advertised as a principal benefit: stimulating suitable new investment where it is needed, when it is needed.</p>
+<p>In LMP markets, where constraints exist on a transmission network, there is a need for more expensive generation to be dispatched on the downstream side of the constraint. Prices on either side of the constraint separate giving rise to <a href="/wiki/Congestion_pricing" title="Congestion pricing">congestion pricing</a> and <a href="/w/index.php?title=Constraint_rentals&amp;action=edit&amp;redlink=1" class="new" title="Constraint rentals (page does not exist)">constraint rentals</a>.</p>
+<p>A constraint can be caused when a particular branch of a network reaches its thermal limit or when a potential overload will occur due to a contingent event (e.g., failure of a generator or transformer or a line outage) on another part of the network. The latter is referred to as a <i>security constraint</i>. Transmission systems are operated to allow for continuity of supply even if a contingent event, like the loss of a line, were to occur. This is known as a <i>security constrained system</i>.</p>
+<p>In most systems the algorithm used is a "DC" model rather than an "AC" model, so constraints and redispatch resulting from thermal limits are identified/predicted, but constraints and redispatch resulting from reactive power deficiencies are not. Some systems take marginal losses into account. The prices in the real-time market are determined by the LMP algorithm described above, balancing supply from available units. This process is carried out for each 5-minute, half-hour or hour (depending on the market) interval at each node on the <a href="/wiki/Electric_power_transmission" title="Electric power transmission">transmission grid</a>. The hypothetical redispatch calculation that determines the LMP must respect security constraints and the redispatch calculation must leave sufficient margin to maintain system stability in the event of an unplanned outage anywhere on the system. This results in a spot market with "bid-based, security-constrained, economic dispatch with nodal prices".</p>
+<p>Since the introduction of the market, New Zealand has experienced shortages in 2001 and 2003, high prices all through 2005 and even higher prices and the risk of a severe shortage in 2006 (as of April 2006). These problems arose because New Zealand is at risk from drought due to its high proportion of electricity generated from hydro.</p>
+<div role="note" class="hatnote">Further information: <a href="/wiki/New_Zealand_electricity_market" title="New Zealand electricity market">New Zealand electricity market</a></div>
+<p>Many established markets do not employ nodal pricing, examples being the UK, <a href="/wiki/EPEX_SPOT" title="EPEX SPOT">EPEX SPOT</a> (most European countries), and <a href="/wiki/Nord_Pool_Spot" title="Nord Pool Spot">Nord Pool Spot</a> (Nordic and Baltic countries).</p>
+<h3><span class="mw-headline" id="Risk_management">Risk management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_market&amp;action=edit&amp;section=5" title="Edit section: Risk management">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Financial risk management is often a high priority for participants in deregulated electricity markets due to the substantial price and volume risks that the markets can exhibit. A consequence of the complexity of a wholesale electricity market can be extremely high price <a href="/wiki/Volatility_(finance)" title="Volatility (finance)">volatility</a> at times of peak demand and supply shortages. The particular characteristics of this price risk are highly dependent on the physical fundamentals of the market such as the mix of types of generation plant and relationship between demand and weather patterns. Price risk can be manifest by price "spikes" which are hard to predict and price "steps" when the underlying fuel or plant position changes for long periods.</p>
+<p><a href="/wiki/Volume_risk" title="Volume risk">Volume risk</a> is often used to denote the phenomenon whereby electricity market participants have uncertain volumes or quantities of consumption or production. For example, a retailer is unable to accurately predict consumer demand for any particular hour more than a few days into the future and a producer is unable to predict the precise time that they will have plant outage or shortages of fuel. A compounding factor is also the common correlation between extreme price and volume events. For example, price spikes frequently occur when some producers have plant outages or when some consumers are in a period of peak consumption. The introduction of substantial amounts of <a href="/wiki/Intermittent_power_sources" class="mw-redirect" title="Intermittent power sources">intermittent power sources</a> such as <a href="/wiki/Wind_energy" class="mw-redirect" title="Wind energy">wind energy</a> may affect market prices.</p>
+<p>Electricity retailers, who in aggregate buy from the wholesale market, and generators who in aggregate sell to the wholesale market, are exposed to these price and volume effects and to protect themselves from volatility, they will enter into "<a href="/wiki/Hedge_(finance)" title="Hedge (finance)">hedge</a> contracts" with each other. The structure of these contracts varies by regional market due to different conventions and market structures. However, the two simplest and most common forms are simple fixed price <a href="/wiki/Forward_contract" title="Forward contract">forward contracts</a> for physical delivery and <a href="/wiki/Hedge_(finance)" title="Hedge (finance)">contracts for differences</a> where the parties agree a <a href="/wiki/Strike_price" title="Strike price">strike price</a> for defined time periods. In the case of a <a href="/wiki/Contract_for_difference" title="Contract for difference">contract for difference</a>, if a resulting wholesale price index (as referenced in the contract) in any time period is higher than the "strike" price, the generator will refund the difference between the "strike" price and the actual price for that period. Similarly a retailer will refund the difference to the generator when the actual price is less than the "strike price". The actual price index is sometimes referred to as the "spot" or "pool" price, depending on the market.</p>
+<p>Many other <a href="/wiki/Hedge_(finance)" title="Hedge (finance)">hedging</a> arrangements, such as swing contracts, <a href="/wiki/Virtual_Bidding" class="mw-redirect" title="Virtual Bidding">Virtual Bidding</a>, Financial Transmission Rights, <a href="/wiki/Call_option" title="Call option">call options</a> and <a href="/wiki/Put_option" title="Put option">put options</a> are traded in sophisticated electricity markets. In general they are designed to transfer financial risks between participants.</p>
+<h3><span class="mw-headline" id="Wholesale_electricity_markets">Wholesale electricity markets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_market&amp;action=edit&amp;section=6" title="Edit section: Wholesale electricity markets">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox ambox-style ambox-external_links" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Electricity_market&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links.2C_images.2C_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span> <small><i>(January 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Argentina" title="Argentina">Argentina</a> - <a href="/wiki/Electricity_sector_in_Argentina" title="Electricity sector in Argentina">Electricity sector in Argentina</a></li>
+<li><a href="/wiki/Colombia" title="Colombia">Colombia</a> - <a href="/wiki/Electricity_sector_in_Colombia" title="Electricity sector in Colombia">Electricity sector in Colombia</a>, see <a rel="nofollow" class="external text" href="http://www.xm.com.co/Pages/Home.aspx">XM Filial de ISA</a></li>
+<li><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a> / <a href="/wiki/Europe" title="Europe">Europe</a> - <a rel="nofollow" class="external text" href="http://www.ote-cr.cz/">OTE - Czech electricity and gas market operator</a> and <a rel="nofollow" class="external text" href="http://www.pxe.cz/">PXE - Power Exchange Central Europe - power futures for Czech Republic, Slovakia and Hungary</a></li>
+<li><a href="/wiki/Western_Australia" title="Western Australia">Western Australia</a> - <a rel="nofollow" class="external text" href="http://www.imowa.com.au/">IMO the Independent Market Operator</a></li>
+<li><a href="/wiki/Australia" title="Australia">Australia</a> - <a href="/wiki/National_Electricity_Market" title="National Electricity Market">National Electricity Market</a> <a rel="nofollow" class="external text" href="http://www.aemo.com.au/">AEMO the Australian Market Administrator</a></li>
+<li><a href="/wiki/Austria" title="Austria">Austria</a> - see <a href="/wiki/EPEX_SPOT" title="EPEX SPOT">EPEX SPOT</a>, <a rel="nofollow" class="external text" href="http://en.exaa.at/">EXAA Energy Exchange</a></li>
+<li><a href="/wiki/Electricity_sector_in_Brazil" title="Electricity sector in Brazil">Brazil</a> - <a rel="nofollow" class="external text" href="http://www.ccee.org.br/">Electric Energy Commercialization Chamber</a></li>
+<li><a href="/wiki/Electricity_sector_in_Canada" title="Electricity sector in Canada">Canada</a> - <a rel="nofollow" class="external text" href="http://www.ieso.ca/">Independent Electricity System Operator (IESO) Ontario Market</a> and <a rel="nofollow" class="external text" href="http://www.aeso.ca/">Alberta Electric System Operator (AESO)</a></li>
+<li><a href="/wiki/Electricity_sector_in_Chile" title="Electricity sector in Chile">Chile</a></li>
+<li><a href="/wiki/Scandinavia" title="Scandinavia">Scandinavia</a> - <a href="/wiki/Nord_Pool_Spot" title="Nord Pool Spot">Nord Pool Spot</a></li>
+<li><a href="/wiki/Electricity_sector_in_France" title="Electricity sector in France">France</a> - <a href="/wiki/EPEX_SPOT" title="EPEX SPOT">EPEX SPOT</a></li>
+<li><a href="/wiki/Electricity_sector_in_Germany" title="Electricity sector in Germany">Germany</a> - <a href="/wiki/European_Energy_Exchange" title="European Energy Exchange">European Energy Exchange</a> <a rel="nofollow" class="external text" href="http://www.eex.com">EEX</a>, <a href="/wiki/EPEX_SPOT" title="EPEX SPOT">EPEX SPOT</a></li>
+<li><a href="/wiki/Hungary" title="Hungary">Hungary</a> - <a rel="nofollow" class="external text" href="http://www.hupx.hu/">Hungarian Power Exchange HUPX</a> and <a rel="nofollow" class="external text" href="http://www.pxe.cz/">PXE - Power Exchange Central Europe - power futures for Czech Republic, Slovakia and Hungary</a></li>
+<li><a href="/wiki/India" title="India">India</a> - <a rel="nofollow" class="external text" href="http://www.powerexindia.com">Power Exchange India Limited, PXIL</a></li>
+<li><a href="/wiki/India" title="India">India</a> - <a href="/wiki/Indian_Energy_Exchange" title="Indian Energy Exchange">Indian Energy Exchange</a></li>
+<li><a href="/wiki/Ireland" title="Ireland">Ireland</a> - <a rel="nofollow" class="external text" href="http://www.sem-o.com">SEMO</a></li>
+<li><a href="/wiki/Italy" title="Italy">Italy</a> - <a rel="nofollow" class="external text" href="http://www.mercatoelettrico.org/En/Default.aspx">GME</a></li>
+<li><a href="/wiki/Electricity_sector_in_Japan" title="Electricity sector in Japan">Japan</a> - see <a rel="nofollow" class="external text" href="http://www.jepx.org/English/index_e.html">Japan Electric Power Exchange (JEPX)</a></li>
+<li><a href="/wiki/Korea" title="Korea">Korea</a> - <a rel="nofollow" class="external text" href="http://www.kpx.or.kr/">KPX</a></li>
+<li><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">UK</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a> - <a href="/wiki/APX-ENDEX" class="mw-redirect" title="APX-ENDEX">APX-ENDEX</a></li>
+<li><a href="/wiki/Electricity_sector_in_New_Zealand" title="Electricity sector in New Zealand">New Zealand</a> - see <a href="/wiki/New_Zealand_Electricity_Market" class="mw-redirect" title="New Zealand Electricity Market">New Zealand Electricity Market</a></li>
+<li><a href="/wiki/Philippines" title="Philippines">Philippines</a> - see <a rel="nofollow" class="external text" href="http://www.wesm.ph/">Philippine Wholesale Electricity Spot Market</a></li>
+<li><a href="/wiki/Portugal" title="Portugal">Portugal</a> - see <a rel="nofollow" class="external text" href="http://www.omip.pt/">OMIP</a></li>
+<li><a href="/wiki/Russian_Federation" class="mw-redirect" title="Russian Federation">Russian Federation</a> - see <a rel="nofollow" class="external text" href="http://www.atsenergo.ru/">Trade System Administrator (ATS)</a></li>
+<li><a href="/wiki/Singapore" title="Singapore">Singapore</a> - see <a rel="nofollow" class="external text" href="http://www.ema.gov.sg/">Energy Market Authority, Singapore</a> and <a rel="nofollow" class="external text" href="http://www.emcsg.com/">Energy Market Company (EMC)</a></li>
+<li><a href="/wiki/Spain" title="Spain">Spain</a> - see <a rel="nofollow" class="external text" href="http://www.omel.com/frames/en/index_eng.jsp">OMEL Electricity Market</a></li>
+<li><a href="/wiki/Turkey" title="Turkey">Turkey</a> - see <a rel="nofollow" class="external text" href="https://www.epias.com.tr/">Turkish Electricity Market</a></li>
+<li><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> - <a rel="nofollow" class="external text" href="http://www.elexon.co.uk/about/who-we-are/">Elexon</a></li>
+<li><a href="/wiki/United_States" title="United States">USA</a> (<a rel="nofollow" class="external text" href="http://www.ferc.gov/market-oversight/mkt-electric/overview.asp">summarized here</a>)
+<ul>
+<li><a href="/wiki/PJM_Interconnection" title="PJM Interconnection">PJM</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ercot.com/">ERCOT Market</a>,</li>
+<li><a rel="nofollow" class="external text" href="http://www.nyiso.com">New York Market</a>,</li>
+<li><a rel="nofollow" class="external text" href="https://www.midwestiso.org/Pages/Home.aspx">Midwest Market</a>,</li>
+<li><a rel="nofollow" class="external text" href="http://www.caiso.com/">California ISO</a>,</li>
+<li><a rel="nofollow" class="external text" href="http://www.iso-ne.com/">New England Market</a>,</li>
+<li><a rel="nofollow" class="external text" href="http://www.spp.org/">Southwest Power Pool</a></li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Retail_electricity_market">Retail electricity market</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_market&amp;action=edit&amp;section=7" title="Edit section: Retail electricity market">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Electricity_retailing" title="Electricity retailing">Electricity retailing</a></div>
+<p>A <b>retail electricity market</b> exists when end-use customers can choose their supplier from competing <a href="/wiki/Electricity_retailing" title="Electricity retailing">electricity retailers</a>; one term used in the United States for this type of consumer choice is 'energy choice'. A separate issue for electricity markets is whether or not consumers face real-time pricing (prices based on the variable wholesale price) or a price that is set in some other way, such as average annual costs. In many markets, consumers do not pay based on the real-time price, and hence have no incentive to reduce demand at times of high (wholesale) prices or to shift their demand to other periods. <a href="/wiki/Demand_response" title="Demand response">Demand response</a> may use pricing mechanisms or technical solutions to reduce peak demand.</p>
+<p>Generally, electricity retail reform follows from electricity wholesale reform. However, it is possible to have a single electricity generation company and still have retail competition. If a wholesale price can be established at a node on the <a href="/wiki/Electric_power_transmission" title="Electric power transmission">transmission grid</a> and the electricity quantities at that node can be reconciled, competition for retail customers within the <a href="/wiki/Electricity_distribution" class="mw-redirect" title="Electricity distribution">distribution</a> system beyond the node is possible. In the German market, for example, large, vertically integrated utilities compete with one another for customers on a more or less open grid.</p>
+<p>Although market structures vary, there are some common functions that an electricity retailer has to be able to perform, or enter into a contract for, in order to compete effectively. Failure or incompetence in the execution of one or more of the following has led to some dramatic financial disasters:</p>
+<ul>
+<li><a href="/wiki/Invoice" title="Invoice">Billing</a></li>
+<li>Credit control</li>
+<li>Customer management via an efficient <a href="/wiki/Call_centre" title="Call centre">call centre</a></li>
+<li><a href="/wiki/Electricity_distribution" class="mw-redirect" title="Electricity distribution">Distribution</a> use-of-system contract</li>
+<li>Reconciliation agreement</li>
+<li>"Pool" or "spot market" purchase agreement</li>
+<li><a href="/wiki/Hedge_(finance)" title="Hedge (finance)">Hedge</a> contracts - contracts for differences to manage "spot price" risk</li>
+</ul>
+<p>The two main areas of weakness have been <a href="/wiki/Risk_management" title="Risk management">risk management</a> and <a href="/wiki/Invoice" title="Invoice">billing</a>. In the USA in 2001, <a href="/wiki/California" title="California">California</a>'s flawed <a href="/wiki/Regulation" title="Regulation">regulation</a> of retail competition led to the <a href="/wiki/California_electricity_crisis" title="California electricity crisis">California electricity crisis</a> and left incumbent retailers subject to high spot prices but without the ability to hedge against these (see <a rel="nofollow" class="external text" href="http://haas.berkeley.edu/news/california_electricity_crisis.html">Manifesto on The California Electricity Crisis</a>). In the <a href="/wiki/United_Kingdom" title="United Kingdom">UK</a> a retailer, Independent Energy, with a large customer base went bust when it could not collect the money due from customers.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>Competitive retail needs open access to distribution and transmission wires. This in turn requires that prices must be set for both these services. They must also provide appropriate returns to the owners of the wires and encourage efficient location of power plants. There are two types of fees, the access fee and the regular fee. The access fee covers the cost of having and accessing the network of wires available, or the right to use the existing transmission and distribution network. The regular fee reflects the marginal cost of transferring electricity through the existing network of wires.</p>
+<p><a href="/wiki/Event-driven_SOA" title="Event-driven SOA">New technology</a> is available and has been piloted by the US Department of Energy that may be better suited to real-time market pricing. A potential use of <a href="/wiki/Event-driven_SOA" title="Event-driven SOA">event-driven SOA</a> could be a virtual electricity market where home clothes dryers can bid on the price of the electricity they use in a real-time market pricing system.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The real-time market price and control system could turn home <a href="/wiki/Electricity" title="Electricity">electricity</a> customers into active participants in managing the <a href="/wiki/Power_grid" class="mw-redirect" title="Power grid">power grid</a> and their monthly utility bills.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Customers can set limits on how much they would pay for electricity to run a clothes dryer, for example, and electricity providers willing to transmit power at that price would be alerted over the grid and could sell the electricity to the dryer.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>On one side, consumer devices can bid for power based on how much the owner of the device were willing to pay, set ahead of time by the consumer.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> On the other side, suppliers can enter bids automatically from their electricity generators, based on how much it would cost to start up and run the generators. Further, the <a href="/wiki/Regional_electricity_company" class="mw-redirect" title="Regional electricity company">electricity suppliers</a> could perform real-time <a href="/wiki/Market_analysis" title="Market analysis">market analysis</a> to determine <a href="/wiki/Rate_of_return" title="Rate of return">return-on-investment</a> for optimizing profitability or reducing end-user <a href="/wiki/Cost_of_goods_sold" title="Cost of goods sold">cost of goods</a>. The effects of a competitive retail electricity market are mixed across states, but generally appear to lower prices in states with high participation and raise prices in states that have little customer participation.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p><a href="/wiki/Event-driven_SOA" title="Event-driven SOA">Event-driven SOA</a> software could allow homeowners to customize many different types of electricity devices found within their home to a desired level of comfort or economy. The event-driven software could also automatically respond to changing electricity prices, in as little as five-minute intervals. For example, to reduce the home owner's electricity usage in peak periods (when electricity is most expensive), the software could automatically lower the target temperature of the thermostat on the central heating system (in winter) or raise the target temperature of the thermostat on the central cooling system (in summer).</p>
+<h2><span class="mw-headline" id="Electricity_market_experience">Electricity market experience</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_market&amp;action=edit&amp;section=8" title="Edit section: Electricity market experience">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the main, experience in the introduction of wholesale and retail competition has been mixed. Many regional markets have achieved some success and the ongoing trend continues to be towards deregulation and introduction of competition. However, in 2000/2001<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> major failures such as the <a href="/wiki/California_electricity_crisis" title="California electricity crisis">California electricity crisis</a> and the <a href="/wiki/Timeline_of_the_Enron_scandal" class="mw-redirect" title="Timeline of the Enron scandal">Enron debacle</a> caused a slow down in the pace of change and in some regions an increase in market regulation and reduction in competition. However, this trend is widely regarded as a temporary one against the longer term trend towards more open and competitive markets.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2009)">citation needed</span></a></i>]</sup></p>
+<p>Notwithstanding the favorable light in which market solutions are viewed conceptually, the "missing money" problem has to date proved intractable. If electricity prices were to move to the levels needed to incent new merchant (i.e., market-based) transmission and generation, the costs to consumers would be politically difficult.</p>
+<p>The increase in annual costs to consumers in <a href="/wiki/New_England" title="New England">New England</a> alone were calculated at $3 billion during the recent <a href="/wiki/Federal_Energy_Regulatory_Commission" title="Federal Energy Regulatory Commission">FERC</a> hearings on the <a href="/w/index.php?title=NEPOOL&amp;action=edit&amp;redlink=1" class="new" title="NEPOOL (page does not exist)">NEPOOL</a> market structure. Several mechanisms that are intended to incent new investment where it is most needed by offering enhanced capacity payments (but only in zones where generation is projected to be short) have been proposed for NEPOOL, <a href="/wiki/PJM_Interconnection" title="PJM Interconnection">PJM</a> and <a href="/w/index.php?title=NYPOOL&amp;action=edit&amp;redlink=1" class="new" title="NYPOOL (page does not exist)">NYPOOL</a>, and go under the generic heading of "locational capacity" or LICAP (the PJM version is called the "Reliability Pricing Model", or "RPM").<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> There is substantial doubt as to whether any of these mechanisms will in fact incent new investment, given the regulatory risk and chronic instability of the market rules in US systems, and there are substantial concerns that the result will instead be to increase revenues to incumbent generators, and costs to consumers, in the constrained areas.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2013)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_market&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Availability_based_tariff" class="mw-redirect" title="Availability based tariff">Availability based tariff</a></li>
+<li><a href="/wiki/CEGB" class="mw-redirect" title="CEGB">CEGB</a></li>
+<li><a href="/wiki/Competition_law" title="Competition law">Competition law</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Electricity" title="Electricity">Electricity</a></li>
+<li><a href="/wiki/Electric_utility" title="Electric utility">Electric utility</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Energy demand management</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Electricity_generation" title="Electricity generation">Electricity generation</a></li>
+<li><a href="/wiki/Electricity_liberalization" class="mw-redirect" title="Electricity liberalization">Electricity liberalization</a></li>
+<li><a href="/wiki/Electricity_transmission" class="mw-redirect" title="Electricity transmission">Electricity transmission</a></li>
+<li><a href="/wiki/Electricity_tariff" class="mw-redirect" title="Electricity tariff">Electricity tariff</a></li>
+<li><a href="/wiki/Future_energy_development" class="mw-redirect" title="Future energy development">Future energy development</a></li>
+<li><a href="/wiki/Independent_system_operator" class="mw-redirect" title="Independent system operator">Independent system operator</a></li>
+<li><a href="/wiki/Load_profile" title="Load profile">Load profile</a></li>
+<li><a href="/wiki/National_Grid_(UK)" class="mw-redirect" title="National Grid (UK)">National Grid (UK)</a></li>
+<li><a href="/wiki/Negawatt_Power" class="mw-redirect" title="Negawatt Power">Negawatt Power</a></li>
+<li><a href="/wiki/NERC_Tag" title="NERC Tag">NERC Tag</a></li>
+<li><a href="/wiki/North_American_Electric_Reliability_Corporation" title="North American Electric Reliability Corporation">North American Electric Reliability Corporation</a></li>
+<li><a href="/wiki/Open_Energy_Modelling_Initiative" title="Open Energy Modelling Initiative">Open Energy Modelling Initiative</a></li>
+<li><a href="/wiki/Power_quality" class="mw-redirect" title="Power quality">Power quality</a></li>
+<li><a href="/wiki/Power_purchase_agreement" title="Power purchase agreement">Power purchase agreement</a></li>
+<li><a href="/wiki/Voltage_drop" title="Voltage drop">Voltage drop</a></li>
+<li><a href="/wiki/Vehicle-to-grid" title="Vehicle-to-grid">Vehicle-to-grid</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_market&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hks.harvard.edu/fs/whogan/">Criteria for economically efficient electricity wholesale markets</a> - Criteria for economically efficient wholesale markets</span></li>
+<li id="cite_note-alvey-etal-1998-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-alvey-etal-1998_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Alvey, Trevor; Goodwin, Doug; Ma, Xingwang; Streiffert, Dan; Sun, David (1998). "A security-constrained bid-clearing system for the New Zealand wholesale electricity market". <i>IEEE Transactions on Power Systems</i>. <b>13</b> (2): 340–346. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2F59.667349">10.1109/59.667349</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+market&amp;rft.atitle=A+security-constrained+bid-clearing+system+for+the+New+Zealand+wholesale+electricity+market&amp;rft.aufirst=Trevor&amp;rft.au=Goodwin%2C+Doug&amp;rft.aulast=Alvey&amp;rft.au=Ma%2C+Xingwang&amp;rft.au=Streiffert%2C+Dan&amp;rft.au=Sun%2C+David&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2F59.667349&amp;rft.issue=2&amp;rft.jtitle=IEEE+Transactions+on+Power+Systems&amp;rft.pages=340-346&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.independent.co.uk/news/business/news/independent-energy-collapses-with-customers-still-owing-pound119m-in-bills-699827.html">Independent Energy collapses with customers still owing £119m in bills</a> - The Independent</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://searchsoa.techtarget.com/news/article/0,289142,sid26_gci1289658,00.html">"Event-driven SOA enables homes to purchase electricity"</a>. Searchsoa.techtarget.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+market&amp;rft.btitle=Event-driven+SOA+enables+homes+to+purchase+electricity&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsearchsoa.techtarget.com%2Fnews%2Farticle%2F0%2C289142%2Csid26_gci1289658%2C00.html&amp;rft.pub=Searchsoa.techtarget.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ibm.com/podcasts/howitworks/hiw_07312006_tr.pdf">IBM Podcast How it works</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ibm.com/news/us/en/2008/01/10/d132215g19733c54.html">"10 Jan 2008 Grid project lets consumer handle electricity use - United States"</a>. IBM. 2008-01-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+market&amp;rft.btitle=10+Jan+2008+Grid+project+lets+consumer+handle+electricity+use+-+United+States&amp;rft.date=2008-01-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ibm.com%2Fnews%2Fus%2Fen%2F2008%2F01%2F10%2Fd132215g19733c54.html&amp;rft.pub=IBM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pnl.gov/news/release.asp?id=285">"PNNL: News - Department of Energy putting power in the hands of consumers through technology"</a>. Pacific Northwest National Lab. 2008-01-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectricity+market&amp;rft.btitle=PNNL%3A+News+-+Department+of+Energy+putting+power+in+the+hands+of+consumers+through+technology&amp;rft.date=2008-01-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pnl.gov%2Fnews%2Frelease.asp%3Fid%3D285&amp;rft.pub=Pacific+Northwest+National+Lab&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dallasfed.org/assets/documents/research/papers/2011/wp1105.pdf">Federal Reserve Bank of Dallas, <i>Did Residential Electricity Rates Fall After Retail Competition? A Dynamic Panel Analysis</i>, May 2011</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://money.cnn.com/magazines/fortune/fortune_archive/2002/12/09/333468/index.htm">Power Failure The current scandals pale in comparison to the energy industry's biggest problem: massive debt it can't repay.</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pjm.com/markets-and-operations/rpm.aspx">Markets and Operations</a> PJM</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electricity_market&amp;action=edit&amp;section=11" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://water.worldbank.org/water/publications/water-electricity-and-poor-who-benefits-utility-subsidies/">A 2006 World Bank report on Water, Electricity, and the effect of utility subsidies on the poor</a></li>
+<li>Insight into the historic performance of the Reserve Capacity Mechanism - Independent Market Operator of Western Australia</li>
+</ul>
+<p><a rel="nofollow" class="external text" href="http://www.imowa.com.au/n875.html">Reserve Capacity Mechanism Review Report</a></p>
+<ul>
+<li>The EU energy sector inquiry that shows up current impediments for competition in the electricity industry in Europe <a rel="nofollow" class="external text" href="http://ec.europa.eu/comm/competition/antitrust/others/sector_inquiries/energy/">The EU energy sector inquiry - final report 10 January 2007</a></li>
+<li>Article by Severin Borenstein on the <a rel="nofollow" class="external text" href="http://www.ucei.berkeley.edu/PDF/pwp081.pdf">Trouble with Electricity Markets</a></li>
+<li>David Cay Johnston, "Competitive Era Fails to Shrink Electric Bills", NYT October 15, 2006</li>
+<li>Lewis Evans, Richard B Meade, "Alternating Currents or Counter-Revolution? Contemporary Electricity Reform in New Zealand", Victoria University Press, 2006.</li>
+<li><a rel="nofollow" class="external text" href="http://felpower.com">Freedom Energy Logistics</a></li>
+<li>Czech electricity market overview - Year report on the electricity market (technical report) and Expected balance report <a rel="nofollow" class="external text" href="http://www.ote-cr.cz/about/anual-report">Annual Report</a></li>
+<li>EDW Technology - <a rel="nofollow" class="external text" href="http://www.edwt.org/news/energy-wholesale-market-review">Energy Wholesale Market Review</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.aleasoft.com/report-european-energy-market-prices-month-june-2016/">Report of the European Energy Market Prices for the month of June 2016</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.next-kraftwerke.com/energy-blog/list-of-power-exchanges-worldwide">List of Power and Energy exchanges worldwide</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%;margin:0 4em"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Home_Energy_Storage" title="Home Energy Storage">Home energy storage</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Utility_frequency" title="Utility frequency">Utility frequency</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Mains_electricity_by_country" title="Mains electricity by country">Mains electricity by country</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20170314142203
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.275 seconds
+Preprocessor visited node count: 1391/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46154/2097152 bytes
+Template argument size: 2401/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 5/500
+Lua time usage: 0.079/10.000 seconds
+Lua memory usage: 2.91 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  188.309      1 -total
+ 33.39%   62.870      1 Template:Reflist
+ 21.66%   40.785      1 Template:Update
+ 20.34%   38.306      1 Template:Cite_journal
+ 16.78%   31.590      2 Template:Ambox
+ 15.17%   28.562      2 Template:Citation_needed
+ 14.69%   27.664      1 Template:Main_other
+ 14.54%   27.373      2 Template:Navbox
+ 13.61%   25.635      1 Template:Electricity_generation
+ 13.52%   25.450      2 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:215909-0!*!0!!en!4!* and timestamp 20170314142203 and revision id 770005052
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Electricity_market&amp;oldid=770005052">https://en.wikipedia.org/w/index.php?title=Electricity_market&amp;oldid=770005052</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></li><li><a href="/wiki/Category:Energy_exchanges" title="Category:Energy exchanges">Energy exchanges</a></li><li><a href="/wiki/Category:Electricity_markets" title="Category:Electricity markets">Electricity markets</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_obsolete_information_from_March_2017" title="Category:Articles with obsolete information from March 2017">Articles with obsolete information from March 2017</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_January_2017" title="Category:Wikipedia external links cleanup from January 2017">Wikipedia external links cleanup from January 2017</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_January_2017" title="Category:Wikipedia spam cleanup from January 2017">Wikipedia spam cleanup from January 2017</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2009" title="Category:Articles with unsourced statements from January 2009">Articles with unsourced statements from January 2009</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2013" title="Category:Articles with unsourced statements from October 2013">Articles with unsourced statements from October 2013</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Electricity+market" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Electricity+market" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Electricity_market"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Electricity_market"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Electricity_market" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Electricity_market&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Electricity_market&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Electricity_market" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Electricity_market" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Electricity_market&amp;oldid=770005052" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Electricity_market&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q676081" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Electricity_market&amp;id=770005052" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Electricity+market">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Electricity+market&amp;returnto=Electricity+market&amp;oldid=770005052&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Electricity_market&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D9%82_%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1" title="سوق الكهرباء – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Mercat_el%C3%A8ctric" title="Mercat elèctric – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Stromhandel" title="Stromhandel – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Mercado_el%C3%A9ctrico" title="Mercado eléctrico – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%A8%D8%B1%D9%82" title="بازار برق – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/March%C3%A9_de_l%27%C3%A9lectricit%C3%A9" title="Marché de l'électricité – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Elmarknad" title="Elmarknad – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Elektrik_piyasas%C4%B1" title="Elektrik piyasası – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%8A%9B%E5%B8%82%E5%A0%B4" title="電力市場 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q676081#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 March 2017, at 21:52.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Electricity_market&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.275","ppvisitednodes":{"value":1391,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46154,"limit":2097152},"templateargumentsize":{"value":2401,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  188.309      1 -total"," 33.39%   62.870      1 Template:Reflist"," 21.66%   40.785      1 Template:Update"," 20.34%   38.306      1 Template:Cite_journal"," 16.78%   31.590      2 Template:Ambox"," 15.17%   28.562      2 Template:Citation_needed"," 14.69%   27.664      1 Template:Main_other"," 14.54%   27.373      2 Template:Navbox"," 13.61%   25.635      1 Template:Electricity_generation"," 13.52%   25.450      2 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.079","limit":"10.000"},"limitreport-memusage":{"value":3055835,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20170314142203","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":349,"wgHostname":"mw1267"});});</script>
+	</body>
+</html>

@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Sorghum - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sorghum","wgTitle":"Sorghum","wgCurRevisionId":769460051,"wgRevisionId":769460051,"wgArticleId":56122,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from February 2017","Commons category with local link same as on Wikidata","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Pages using ISBN magic links","Sorghum","Cereals","Forages","Tropical agriculture","Poaceae genera"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sorghum","wgRelevantArticleId":56122,"wgRequestId":"WMY22gpAAEIAAKiVahQAAAAB","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q12111","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/df/Sorghum.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sorghum"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sorghum&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sorghum&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sorghum"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sorghum rootpage-Sorghum skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>Sorghum</i></h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the plant genus. For the principal modern crop species, see <a href="/wiki/Sorghum_bicolor" title="Sorghum bicolor">Sorghum bicolor</a>. For other crop uses, see <a href="/wiki/Commercial_sorghum" title="Commercial sorghum">Commercial sorghum</a>. For other uses, see <a href="/wiki/Sorghum_(disambiguation)" class="mw-disambig" title="Sorghum (disambiguation)">Sorghum (disambiguation)</a>.</div>
+<div role="note" class="hatnote">"Sorgo" redirects here. For the Ragusan family, see <a href="/wiki/Sorgo_(family)" title="Sorgo (family)">Sorgo (family)</a>.</div>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(180,250,180)"><i>Sorghum</i></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Sorghum.jpg" class="image"><img alt="Sorghum.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sorghum.jpg/220px-Sorghum.jpg" width="220" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sorghum.jpg/330px-Sorghum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sorghum.jpg/440px-Sorghum.jpg 2x" data-file-width="640" data-file-height="432" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i><a href="/wiki/Sorghum_bicolor" title="Sorghum bicolor">Sorghum bicolor</a></i></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(180,250,180)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom"><a href="/wiki/Plantae" class="mw-redirect" title="Plantae">Plantae</a></span></td>
+</tr>
+<tr>
+<td>(unranked):</td>
+<td><span class="(unranked)"><a href="/wiki/Angiosperms" class="mw-redirect" title="Angiosperms">Angiosperms</a></span></td>
+</tr>
+<tr>
+<td>(unranked):</td>
+<td><span class="(unranked)"><a href="/wiki/Monocots" class="mw-redirect" title="Monocots">Monocots</a></span></td>
+</tr>
+<tr>
+<td>(unranked):</td>
+<td><span class="(unranked)"><a href="/wiki/Commelinids" title="Commelinids">Commelinids</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order"><a href="/wiki/Poales" title="Poales">Poales</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family"><a href="/wiki/Poaceae" title="Poaceae">Poaceae</a></span></td>
+</tr>
+<tr>
+<td>Subfamily:</td>
+<td><span class="subfamily"><a href="/wiki/Panicoideae" title="Panicoideae">Panicoideae</a></span></td>
+</tr>
+<tr>
+<td>Tribe:</td>
+<td><span class="tribe"><a href="/wiki/Andropogoneae" title="Andropogoneae">Andropogoneae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus"><i><b>Sorghum</b></i></span><br />
+<small><a href="/wiki/Conrad_Moench" title="Conrad Moench">Moench</a> 1794, conserved name not <i>Sorgum</i> <a href="/wiki/Michel_Adanson" title="Michel Adanson">Adanson</a> 1763</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(180,250,180)"><a href="/wiki/Type_species" title="Type species">Type species</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><i><a href="/wiki/Sorghum_bicolor" title="Sorghum bicolor">Sorghum bicolor</a></i><br />
+<small>(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">L.</a>) Conrad Moench</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(180,250,180)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a><sup id="cite_ref-j_1-0" class="reference"><a href="#cite_note-j-1">[1]</a></sup></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>Blumenbachia</i> <small>Koeler 1802, rejected name not Schrad. 1825 (<a href="/wiki/Loasaceae" title="Loasaceae">Loasaceae</a>)</small></li>
+<li><i><a href="/wiki/Sarga" class="mw-redirect" title="Sarga">Sarga</a></i> <small>Ewart</small></li>
+<li><i><a href="/wiki/Vacoparis" class="mw-redirect" title="Vacoparis">Vacoparis</a></i> <small>Spangler</small></li>
+<li><i>Andropogon</i> subg. <i>Sorghum</i> <small>Hackel.</small></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<p><i><b>Sorghum</b></i> is a genus of <a href="/wiki/Flowering_plants" class="mw-redirect" title="Flowering plants">flowering plants</a> in the grass family <a href="/wiki/Poaceae" title="Poaceae">Poaceae</a>. Seventeen of the twenty-five species are native to <a href="/wiki/Australia" title="Australia">Australia</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> with the range of some extending to <a href="/wiki/Africa" title="Africa">Africa</a>, <a href="/wiki/Asia" title="Asia">Asia</a>, <a href="/wiki/Mesoamerica" title="Mesoamerica">Mesoamerica</a>, and certain islands in the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian</a> and <a href="/wiki/Pacific_Islands" title="Pacific Islands">Pacific Oceans</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>One species is grown for <a href="/wiki/Grain" title="Grain">grain</a>, while many others are used as <a href="/wiki/Fodder" title="Fodder">fodder</a> plants, either intentionally cultivated or allowed to grow naturally, in <a href="/wiki/Pasture" title="Pasture">pasture lands</a>. The plants are cultivated in warm climates worldwide and naturalized in many places.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> <i>Sorghum</i> is in the subfamily <a href="/wiki/Panicoideae" title="Panicoideae">Panicoideae</a> and the tribe <a href="/wiki/Andropogoneae" title="Andropogoneae">Andropogoneae</a> (the tribe of <a href="/wiki/Andropogon_gerardi" title="Andropogon gerardi">big bluestem</a> and <a href="/wiki/Sugarcane" title="Sugarcane">sugarcane</a>).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Cultivation_and_uses"><span class="tocnumber">1</span> <span class="toctext">Cultivation and uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Research"><span class="tocnumber">1.1</span> <span class="toctext">Research</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Nutrition"><span class="tocnumber">2</span> <span class="toctext">Nutrition</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Diversity"><span class="tocnumber">3</span> <span class="toctext">Diversity</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Cultivation_and_uses">Cultivation and uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorghum&amp;action=edit&amp;section=1" title="Edit section: Cultivation and uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One species, <i><a href="/wiki/Sorghum_bicolor" title="Sorghum bicolor">Sorghum bicolor</a></i>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> native to Africa with many cultivated forms now,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> is an important crop worldwide, used for <a href="/wiki/Food" title="Food">food</a> (as grain and in <a href="/wiki/Sweet_sorghum" title="Sweet sorghum">sorghum syrup or "sorghum molasses"</a>), animal <a href="/wiki/Fodder" title="Fodder">fodder</a>, the production of <a href="/wiki/Alcoholic_beverage" class="mw-redirect" title="Alcoholic beverage">alcoholic beverages</a>, and biofuels. Most varieties are <a href="/wiki/Xerophyte" title="Xerophyte">drought</a>- and heat-tolerant, and are especially important in <a href="/wiki/Arid" title="Arid">arid</a> regions, where the grain is one of the <a href="/wiki/Staple_food" title="Staple food">staples</a> for poor and rural people. These varieties form important components of pastures in many tropical regions. <i>S. bicolor</i> is an important <a href="/wiki/Food_crop" class="mw-redirect" title="Food crop">food crop</a> in <a href="/wiki/Africa" title="Africa">Africa</a>, <a href="/wiki/Central_America" title="Central America">Central America</a>, and <a href="/wiki/South_Asia" title="South Asia">South Asia</a>, and is the fifth-most important <a href="/wiki/Cereal" title="Cereal">cereal</a> crop grown in the world.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Some species of sorghum can contain levels of <a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">hydrogen cyanide</a>, <a href="/wiki/Hordenine" title="Hordenine">hordenine</a>, and nitrates lethal to grazing animals in the early stages of the plants' growth. When stressed by drought or heat, plants can also contain toxic levels of cyanide and/or nitrates at later stages in growth.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Another <i>Sorghum</i> species, <a href="/wiki/Johnson_grass" title="Johnson grass">Johnson grass</a> (<i>S. halapense</i>), is classified as an <a href="/wiki/Invasive_Species" class="mw-redirect" title="Invasive Species">invasive species</a> in the US by the <a href="/wiki/United_States_Department_of_Agriculture" title="United States Department of Agriculture">Department of Agriculture</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<h3><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorghum&amp;action=edit&amp;section=2" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sorghum is efficient in converting <a href="/wiki/Solar_energy" title="Solar energy">solar energy</a> to <a href="/wiki/Chemical_energy" title="Chemical energy">chemical energy</a>, and also uses less water compared to other grain crops.<sup id="cite_ref-:0_15-0" class="reference"><a href="#cite_note-:0-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> <a href="/wiki/Biofuel" title="Biofuel">Biofuel</a>, using sweet sorghum as a high sugar content from its stalk for ethanol production, is being developed with biomass which can be turned into <a href="/wiki/Charcoal" title="Charcoal">charcoal</a>, <a href="/wiki/Syngas" title="Syngas">syngas</a>, and <a href="/wiki/Bio-oil" class="mw-redirect" title="Bio-oil">bio-oil</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="Nutrition">Nutrition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorghum&amp;action=edit&amp;section=3" title="Edit section: Nutrition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox nowrap" style="width:22em">
+<caption style="white-space:normal; padding-bottom:0.15em;">Sorghum, grain</caption>
+<tr>
+<th colspan="2" style="text-align:center">Nutritional value per 100&#160;g (3.5&#160;oz)</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Food_energy" title="Food energy">Energy</a></th>
+<td>1,377&#160;kJ (329&#160;kcal)</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;">
+<div style="position:relative;left:-0.65em;"><b><a href="/wiki/Carbohydrate" title="Carbohydrate">Carbohydrates</a></b></div>
+</th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="position:relative;left:-0.65em;">72.1 g</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Dietary_fiber" title="Dietary fiber">Dietary fiber</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">6.7 g</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;">
+<div style="position:relative;left:-0.65em;"><b><a href="/wiki/Fat" title="Fat">Fat</a></b></div>
+</th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="position:relative;left:-0.65em;">3.5 g</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;">
+<div style="position:relative;left:-0.65em;"><b><a href="/wiki/Protein_(nutrient)" title="Protein (nutrient)">Protein</a></b></div>
+</th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="position:relative;left:-0.65em;">10.6 g</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Vitamin" title="Vitamin">Vitamins</a></th>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Thiamine" title="Thiamine">Thiamine <span style="font-size:90%;">(B<span style="position: relative; top: 0.35em;"><span style="font-size:90%;">1</span></span>)</span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(29%)</div>
+0.33 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Riboflavin" title="Riboflavin">Riboflavin <span style="font-size:90%;">(B<span style="position: relative; top: 0.35em;"><span style="font-size:90%;">2</span></span>)</span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(8%)</div>
+0.1 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Niacin" title="Niacin">Niacin <span style="font-size:90%;">(B<span style="position: relative; top: 0.35em;"><span style="font-size:90%;">3</span></span>)</span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(25%)</div>
+3.7 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Pantothenic_acid" title="Pantothenic acid">Pantothenic acid <span style="font-size:90%;">(B<span style="position: relative; top: 0.35em;"><span style="font-size:90%;">5</span></span>)</span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(8%)</div>
+0.4 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Vitamin_B6" title="Vitamin B6">Vitamin B<span style="position: relative; top: 0.3em;"><span style="font-size:75%;">6</span></span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(34%)</div>
+0.44 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Folic_acid" title="Folic acid">Folate <span style="font-size:90%;">(B<span style="position: relative; top: 0.35em;"><span style="font-size:90%;">9</span></span>)</span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(5%)</div>
+20 μg</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Dietary_element" class="mw-redirect" title="Dietary element">Minerals</a></th>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Calcium#Nutrition" title="Calcium">Calcium</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(1%)</div>
+13 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Iron#Biological_role" title="Iron">Iron</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(26%)</div>
+3.4 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Magnesium_in_biology" title="Magnesium in biology">Magnesium</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(46%)</div>
+165 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Manganese#Biological_role" title="Manganese">Manganese</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(76%)</div>
+1.6 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Phosphorus#Biological_role" title="Phosphorus">Phosphorus</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(41%)</div>
+289 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Potassium#In_diet" title="Potassium">Potassium</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(8%)</div>
+363 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Sodium#Biological_role" title="Sodium">Sodium</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(0%)</div>
+2 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Zinc#Biological_role" title="Zinc">Zinc</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(18%)</div>
+1.7 mg</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<hr />
+<div class="wrap" style="font-size:90%;padding:0.3em;line-height:1.2em;"><a rel="nofollow" class="external text" href="http://ndb.nal.usda.gov/ndb/foods/show/6531?fg=&amp;man=&amp;lfacet=&amp;count=&amp;max=35&amp;sort=&amp;qlookup=sorghum&amp;offset=&amp;format=Full&amp;new=&amp;measureby=">Full Report of USDA Database entry</a></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="plainlist" style="font-size:90%;background:#e0e0e0;padding:0.15em;line-height:1.25em;">
+<ul>
+<li>Units</li>
+<li>μg = <a href="/wiki/Microgram" title="Microgram">micrograms</a>&#160;• mg = <a href="/wiki/Milligram" class="mw-redirect" title="Milligram">milligrams</a></li>
+<li>IU = <a href="/wiki/International_unit" title="International unit">International units</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="wrap" style="text-align:center;font-size:90%;background:#e0e0e0;padding:0.3em;line-height:1.5em;font-weight:normal;">Percentages are roughly approximated using <a href="/wiki/Dietary_Reference_Intake" title="Dietary Reference Intake">US&#160;recommendations</a> for adults.</td>
+</tr>
+</table>
+<p>In a 100 gram amount, raw sorghum provides 329 <a href="/wiki/Calories" class="mw-redirect" title="Calories">calories</a>, 72% <a href="/wiki/Carbohydrates" class="mw-redirect" title="Carbohydrates">carbohydrates</a>, 4% <a href="/wiki/Fat" title="Fat">fat</a> and 11% <a href="/wiki/Protein" title="Protein">protein</a> (table). Sorghum supplies numerous <a href="/wiki/Essential_nutrients" class="mw-redirect" title="Essential nutrients">essential nutrients</a> in rich content (20% or more of the <a href="/wiki/Daily_Value" class="mw-redirect" title="Daily Value">Daily Value</a>, DV), including protein, <a href="/wiki/Fiber" title="Fiber">fiber</a>, the <a href="/wiki/B_vitamins" title="B vitamins">B vitamins</a>, <a href="/wiki/Niacin" title="Niacin">niacin</a>, <a href="/wiki/Thiamin" class="mw-redirect" title="Thiamin">thiamin</a> and <a href="/wiki/Vitamin_B6" title="Vitamin B6">vitamin B6</a>, and several <a href="/wiki/Dietary_minerals" class="mw-redirect" title="Dietary minerals">dietary minerals</a>, including <a href="/wiki/Iron" title="Iron">iron</a> (26% DV) and <a href="/wiki/Manganese" title="Manganese">manganese</a> (76% DV) (table). Sorghum nutrient contents generally are similar to those of raw <a href="/wiki/Oats" class="mw-redirect" title="Oats">oats</a> (see nutrition table). Among other similarities to oats, sorghum contains no <a href="/wiki/Gluten" title="Gluten">gluten</a>, making it useful for <a href="/wiki/Gluten-free_diet" title="Gluten-free diet">gluten-free diets</a>.</p>
+<h2><span class="mw-headline" id="Diversity">Diversity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorghum&amp;action=edit&amp;section=4" title="Edit section: Diversity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Accepted species<sup id="cite_ref-TPL_19-0" class="reference"><a href="#cite_note-TPL-19">[19]</a></sup></dt>
+</dl>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ol>
+<li><i><a href="/w/index.php?title=Sorghum_amplum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum amplum (page does not exist)">Sorghum amplum</a></i> – northwestern Australia</li>
+<li><i><a href="/w/index.php?title=Sorghum_angustum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum angustum (page does not exist)">Sorghum angustum</a></i> – Queensland</li>
+<li><i><a href="/w/index.php?title=Sorghum_arundinaceum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum arundinaceum (page does not exist)">Sorghum arundinaceum</a></i> – Africa, Indian Subcontinent, Madagascar, islands of western Indian Ocean</li>
+<li><i><a href="/wiki/Sorghum_bicolor" title="Sorghum bicolor">Sorghum bicolor</a></i>&#160;– cultivated sorghum, often individually called sorghum, also known as durra, jowari, or milo. - native to Sahel region of Africa; naturalized in many places</li>
+<li><i><a href="/w/index.php?title=Sorghum_brachypodum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum brachypodum (page does not exist)">Sorghum brachypodum</a></i> – Northern Territory of Australia</li>
+<li><i><a href="/w/index.php?title=Sorghum_bulbosum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum bulbosum (page does not exist)">Sorghum bulbosum</a></i> – Northern Territory, Western Australia</li>
+<li><i><a href="/w/index.php?title=Sorghum_burmahicum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum burmahicum (page does not exist)">Sorghum burmahicum</a></i> – Thailand, Myanmar</li>
+<li><i><a href="/w/index.php?title=Sorghum_controversum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum controversum (page does not exist)">Sorghum controversum</a></i> – India</li>
+<li><i><a href="/wiki/Sorghum_%C3%97_drummondii" title="Sorghum × drummondii">Sorghum × drummondii</a></i> – Sahel and West Africa</li>
+<li><i><a href="/w/index.php?title=Sorghum_ecarinatum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum ecarinatum (page does not exist)">Sorghum ecarinatum</a></i> – Northern Territory, Western Australia</li>
+<li><i><a href="/w/index.php?title=Sorghum_exstans&amp;action=edit&amp;redlink=1" class="new" title="Sorghum exstans (page does not exist)">Sorghum exstans</a></i> – Northern Territory of Australia</li>
+<li><i><a href="/w/index.php?title=Sorghum_grande&amp;action=edit&amp;redlink=1" class="new" title="Sorghum grande (page does not exist)">Sorghum grande</a></i> – Northern Territory, Queensland</li>
+<li><i><a href="/wiki/Johnson_grass" title="Johnson grass">Sorghum halepense</a></i>&#160;– Johnson grass – North Africa, islands of eastern Atlantic, southern Asia from Lebanon to Vietnam; naturalized in East Asia, Australia, the Americas</li>
+<li><i><a href="/w/index.php?title=Sorghum_interjectum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum interjectum (page does not exist)">Sorghum interjectum</a></i> – Northern Territory, Western Australia</li>
+<li><i><a href="/w/index.php?title=Sorghum_intrans&amp;action=edit&amp;redlink=1" class="new" title="Sorghum intrans (page does not exist)">Sorghum intrans</a></i> – Northern Territory, Western Australia</li>
+<li><i><a href="/w/index.php?title=Sorghum_laxiflorum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum laxiflorum (page does not exist)">Sorghum laxiflorum</a></i> – Philippines, Lesser Sunda Islands, Sulawesi, New Guinea, northern Australia</li>
+<li><i><a href="/wiki/Sorghum_leiocladum" title="Sorghum leiocladum">Sorghum leiocladum</a></i> – Queensland, New South Wales, Victoria</li>
+<li><i><a href="/w/index.php?title=Sorghum_macrospermum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum macrospermum (page does not exist)">Sorghum macrospermum</a></i> – Northern Territory of Australia</li>
+<li><i><a href="/w/index.php?title=Sorghum_matarankense&amp;action=edit&amp;redlink=1" class="new" title="Sorghum matarankense (page does not exist)">Sorghum matarankense</a></i> – Northern Territory, Western Australia</li>
+<li><i><a href="/w/index.php?title=Sorghum_nitidum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum nitidum (page does not exist)">Sorghum nitidum</a></i> – East Asia, Indian Subcontinent, Southeast Asia, New Guinea, Micronesia</li>
+<li><i><a href="/w/index.php?title=Sorghum_plumosum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum plumosum (page does not exist)">Sorghum plumosum</a></i> – Australia, New Guinea, Indonesia</li>
+<li><i><a href="/w/index.php?title=Sorghum_propinquum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum propinquum (page does not exist)">Sorghum propinquum</a></i> – China , Indian Subcontinent, Southeast Asia, New Guinea, Christmas Island, Micronesia, Cook Islands</li>
+<li><i><a href="/w/index.php?title=Sorghum_purpureosericeum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum purpureosericeum (page does not exist)">Sorghum purpureosericeum</a></i> – Sahel from Mali to Tanzania; Yemen, Oman, India</li>
+<li><i><a href="/w/index.php?title=Sorghum_stipoideum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum stipoideum (page does not exist)">Sorghum stipoideum</a></i> – Northern Territory, Western Australia</li>
+<li><i><a href="/wiki/Sorghum_timorense" title="Sorghum timorense">Sorghum timorense</a></i> – Lesser Sunda Islands, Maluku, New Guinea, northern Australia</li>
+<li><i><a href="/w/index.php?title=Sorghum_trichocladum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum trichocladum (page does not exist)">Sorghum trichocladum</a></i> – Mexico, Guatemala, Honduras</li>
+<li><i><a href="/w/index.php?title=Sorghum_versicolor&amp;action=edit&amp;redlink=1" class="new" title="Sorghum versicolor (page does not exist)">Sorghum versicolor</a></i> – eastern + southern Africa from Ethiopia to Namibia; Oman</li>
+<li><i><a href="/w/index.php?title=Sorghum_virgatum&amp;action=edit&amp;redlink=1" class="new" title="Sorghum virgatum (page does not exist)">Sorghum virgatum</a></i> – dry regions from Senegal to Palestine</li>
+</ol>
+</div>
+<dl>
+<dt>Formerly included<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2017)">citation needed</span></a></i>]</sup></dt>
+</dl>
+<p>Many species once considered part of <i>Sorghum</i>, but now considered better suited to other genera include: <i><a href="/wiki/Andropogon" title="Andropogon">Andropogon</a>, <a href="/wiki/Arthraxon" title="Arthraxon">Arthraxon</a>, <a href="/wiki/Bothriochloa" title="Bothriochloa">Bothriochloa</a>, <a href="/wiki/Chrysopogon" title="Chrysopogon">Chrysopogon</a>, <a href="/wiki/Cymbopogon" title="Cymbopogon">Cymbopogon</a>, <a href="/wiki/Danthoniopsis" title="Danthoniopsis">Danthoniopsis</a>, <a href="/wiki/Dichanthium" title="Dichanthium">Dichanthium</a>, <a href="/wiki/Diectomis" title="Diectomis">Diectomis</a>, <a href="/wiki/Diheteropogon" title="Diheteropogon">Diheteropogon</a>, <a href="/wiki/Exotheca" title="Exotheca">Exotheca</a>, <a href="/wiki/Hyparrhenia" title="Hyparrhenia">Hyparrhenia</a>, <a href="/wiki/Hyperthelia" title="Hyperthelia">Hyperthelia</a>, <a href="/wiki/Monocymbium" title="Monocymbium">Monocymbium</a>, <a href="/wiki/Parahyparrhenia" title="Parahyparrhenia">Parahyparrhenia</a>, <a href="/wiki/Pentameris" title="Pentameris">Pentameris</a>, <a href="/wiki/Pseudosorghum" title="Pseudosorghum">Pseudosorghum</a>, <a href="/wiki/Schizachyrium" title="Schizachyrium">Schizachyrium</a>,</i> and <i><a href="/wiki/Sorghastrum" title="Sorghastrum">Sorghastrum</a></i>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorghum&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/3-Deoxyanthocyanidin" title="3-Deoxyanthocyanidin">3-Deoxyanthocyanidin</a></li>
+<li><a href="/wiki/Apigeninidin" title="Apigeninidin">Apigeninidin</a></li>
+<li><a href="/wiki/Baijiu" title="Baijiu">Baijiu</a> – Chinese alcoholic beverage distilled from sorghum</li>
+<li><a href="/wiki/List_of_antioxidants_in_food" title="List of antioxidants in food">List of antioxidants in food</a></li>
+<li><a href="/wiki/Millet" title="Millet">Millet</a></li>
+<li><a href="/wiki/Push%E2%80%93pull_technology" class="mw-redirect" title="Push–pull technology">Push–pull technology</a> pest control strategy for maize and sorghum</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorghum&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-j-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-j_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://apps.kew.org/wcsp/synonomy.do?name_id=443224">"World Checklist of Selected Plant Families: Royal Botanic Gardens, Kew"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.btitle=World+Checklist+of+Selected+Plant+Families%3A+Royal+Botanic+Gardens%2C+Kew&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fapps.kew.org%2Fwcsp%2Fsynonomy.do%3Fname_id%3D443224&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Sally L. Dillon, Peter K. Lawrence, Robert J. Henry, Larry Ross, H. James Price, J. Spencer Johnston. <a rel="nofollow" class="external text" href="http://epubs.scu.edu.au/cpcg_pubs/244/">"Sorghum laxiflorum and S. macrospermum, the Australian native species most closely related to the cultivated S. bicolor based on ITS1 and ndhF sequence analysis of 25 Sorghum species"</a>. <i>SOUTHERN CROSS PLANT SCIENCE</i>. Southern Cross University<span class="reference-accessdate">. Retrieved <span class="nowrap">28 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.atitle=Sorghum+laxiflorum+and+S.+macrospermum%2C+the+Australian+native+species+most+closely+related+to+the+cultivated+S.+bicolor+based+on+ITS1+and+ndhF+sequence+analysis+of+25+Sorghum+species&amp;rft.au=Sally+L.+Dillon%2C+Peter+K.+Lawrence%2C+Robert+J.+Henry%2C+Larry+Ross%2C+H.+James+Price%2C+J.+Spencer+Johnston&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fepubs.scu.edu.au%2Fcpcg_pubs%2F244%2F&amp;rft.jtitle=SOUTHERN+CROSS+PLANT+SCIENCE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.biodiversitylibrary.org/page/417087#page/213/mode/1up">Moench, Conrad. 1794. Methodus Plantas Horti Botanici et Agri Marburgensis&#160;: a staminum situ describendi page 207</a> in Latin</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tropicos.org/Name/40002210">Tropicos, <i>Sorghum</i> Moench</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.efloras.org/florataxon.aspx?flora_id=2&amp;taxon_id=130722">Flora of China Vol. 22 Page 600 <big>高粱属</big> gao liang shu <i>Sorghum</i> Moench, Methodus. 207. 1794</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.efloras.org/florataxon.aspx?flora_id=5&amp;taxon_id=130722">"Sorghum in Flora of Pakistan @ efloras.org"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.btitle=Sorghum+in+Flora+of+Pakistan+%40+efloras.org&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.efloras.org%2Fflorataxon.aspx%3Fflora_id%3D5%26taxon_id%3D130722&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://luirig.altervista.org/flora/taxa/floraspecie.php?genere=sorghum">Altervista Flora Italiana, genere <i>Sorghum</i></a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Australia, Atlas of Living. <a rel="nofollow" class="external text" href="http://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:apni.taxon:420835">"Sorghum - Atlas of Living Australia"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.aufirst=Atlas+of+Living&amp;rft.aulast=Australia&amp;rft.btitle=Sorghum++-+Atlas+of+Living+Australia&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fbie.ala.org.au%2Fspecies%2Furn%3Alsid%3Abiodiversity.org.au%3Aapni.taxon%3A420835&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://bonap.net/NAPA/TaxonMaps/Genus/County/Sorghum">"<i>Sorghum</i>"</a>. <i>County-level distribution maps from the North American Plant Atlas (NAPA)</i>. Biota of North America Program (BONAP). 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.atitle=Sorghum&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbonap.net%2FNAPA%2FTaxonMaps%2FGenus%2FCounty%2FSorghum&amp;rft.jtitle=County-level+distribution+maps+from+the+North+American+Plant+Atlas+%28NAPA%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mutegi, Evans; Sagnard, Fabrice; Muraya, Moses; Kanyenji, Ben; Rono, Bernard; Mwongera, Caroline; Marangu, Charles; Kamau, Joseph; Parzies, Heiko; de Villiers, Santie; Semagn, Kassa; Traoré, Pierre; Labuschagne, Maryke (2010-02-01). "Ecogeographical distribution of wild, weedy and cultivated Sorghum bicolor (L.) Moench in Kenya: implications for conservation and crop-to-wild gene flow". <i>Genetic Resources and Crop Evolution</i>. <b>57</b> (2): 243–253. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs10722-009-9466-7">10.1007/s10722-009-9466-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.atitle=Ecogeographical+distribution+of+wild%2C+weedy+and+cultivated+Sorghum+bicolor+%28L.%29+Moench+in+Kenya%3A+implications+for+conservation+and+crop-to-wild+gene+flow&amp;rft.au=de+Villiers%2C+Santie&amp;rft.aufirst=Evans&amp;rft.au=Kamau%2C+Joseph&amp;rft.au=Kanyenji%2C+Ben&amp;rft.au=Labuschagne%2C+Maryke&amp;rft.aulast=Mutegi&amp;rft.au=Marangu%2C+Charles&amp;rft.au=Muraya%2C+Moses&amp;rft.au=Mwongera%2C+Caroline&amp;rft.au=Parzies%2C+Heiko&amp;rft.au=Rono%2C+Bernard&amp;rft.au=Sagnard%2C+Fabrice&amp;rft.au=Semagn%2C+Kassa&amp;rft.au=Traor%C3%A9%2C+Pierre&amp;rft.date=2010-02-01&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs10722-009-9466-7&amp;rft.issue=2&amp;rft.jtitle=Genetic+Resources+and+Crop+Evolution&amp;rft.pages=243-253&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=57" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.efloras.org/florataxon.aspx?flora_id=2&amp;taxon_id=200026333">"Sorghum bicolor in Flora of China @ efloras.org"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.btitle=Sorghum+bicolor+in+Flora+of+China+%40+efloras.org&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.efloras.org%2Fflorataxon.aspx%3Fflora_id%3D2%26taxon_id%3D200026333&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.newworldencyclopedia.org/entry/Sorghum">"Sorghum"</a>. New World Encyclopedia. 12 October 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">4 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.btitle=Sorghum&amp;rft.date=2015-10-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.newworldencyclopedia.org%2Fentry%2FSorghum&amp;rft.pub=New+World+Encyclopedia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Cyanide (prussic acid) and nitrate in sorghum crops - managing the risks. Primary industries and fisheries. Queensland Government. <a rel="nofollow" class="external free" href="http://www.dpi.qld.gov.au/4790_20318.htm">http://www.dpi.qld.gov.au/4790_20318.htm</a>. 21 April 2011.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.invasivespeciesinfo.gov/plants/johnsongrass.shtml">Johnson Grass</a>, U.S. Department of Agriculture, Accessed 2257 UDT, 12 March 2009.</span></li>
+<li id="cite_note-:0-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hudsonalpha.org/hudsonalpha-and-collaborators-expand-major-research-program-to-benefit-farmers-in-the-developing-world">"HudsonAlpha and collaborators expand sorghum research program - HudsonAlpha Institute for Biotechnology"</a>. HudsonAlpha Institute for Biotechnology. 2017-01-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.btitle=HudsonAlpha+and+collaborators+expand+sorghum+research+program+-+HudsonAlpha+Institute+for+Biotechnology&amp;rft.date=2017-01-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhudsonalpha.org%2Fhudsonalpha-and-collaborators-expand-major-research-program-to-benefit-farmers-in-the-developing-world&amp;rft.pub=HudsonAlpha+Institute+for+Biotechnology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Dweikat, Ismail (2017). <a rel="nofollow" class="external text" href="http://agronomy.unl.edu/sweetsorghum">"Sweet sorghum is a drought-tolerant feedstock with the potential to produce more ethanol/acre than corn"</a>. Department of Agronomy and Horticulture, University of Nebraska–Lincoln<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.au=Dweikat%2C+Ismail&amp;rft.btitle=Sweet+sorghum+is+a+drought-tolerant+feedstock+with+the+potential+to+produce+more+ethanol%2Facre+than+corn&amp;rft.date=2017&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fagronomy.unl.edu%2Fsweetsorghum&amp;rft.pub=Department+of+Agronomy+and+Horticulture%2C+University+of+Nebraska%93Lincoln&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.purdue.edu/newsroom/releases/2015/Q2/purdue-leading-research-using-advanced-technologies-to-better-grow-sorghum-as-biofuel.html">"Purdue leading research using advanced technologies to better grow sorghum as biofuel"</a>. Purdue University, Agriculture News. June 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.btitle=Purdue+leading+research+using+advanced+technologies+to+better+grow+sorghum+as+biofuel&amp;rft.date=2015-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.purdue.edu%2Fnewsroom%2Freleases%2F2015%2FQ2%2Fpurdue-leading-research-using-advanced-technologies-to-better-grow-sorghum-as-biofuel.html&amp;rft.pub=Purdue+University%2C+Agriculture+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://articles.extension.org/pages/26634/sweet-sorghum-for-biofuel-production">"Sweet Sorghum for Biofuel Production"</a>. eXtension. 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.btitle=Sweet+Sorghum+for+Biofuel+Production&amp;rft.date=2017&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Farticles.extension.org%2Fpages%2F26634%2Fsweet-sorghum-for-biofuel-production&amp;rft.pub=eXtension&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TPL-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-TPL_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.theplantlist.org/tpl1.1/search?q=sorghum">"The Plant List: <i>Sorghum</i>"</a>. Royal Botanic Gardens Kew and Missouri Botanic Garden<span class="reference-accessdate">. Retrieved <span class="nowrap">28 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.btitle=The+Plant+List%3A+Sorghum&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.theplantlist.org%2Ftpl1.1%2Fsearch%3Fq%3Dsorghum&amp;rft.pub=Royal+Botanic+Gardens+Kew+and+Missouri+Botanic+Garden&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li>Watson, Andrew M. <i>Agricultural Innovation in the Early Islamic World: The Diffusion of Crops and Farming Techniques, 700–1100</i>. Cambridge: <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>, 1983. <a href="/wiki/Special:BookSources/052124711X" class="internal mw-magiclink-isbn">ISBN 0-521-24711-X</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorghum&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Sorghum" class="extiw" title="commons:Category:Sorghum">Sorghum</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikibooks-logo-en-noslogan.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></a></td>
+<td class="mbox-text plainlist">Wikibooks <a href="https://en.wikibooks.org/wiki/Cookbook" class="extiw" title="wikibooks:Cookbook">Cookbook</a> has a recipe/module on
+<div class="plainlist" style="margin-left: 1.6em;">
+<ul>
+<li><i><b><a href="https://en.wikibooks.org/wiki/Cookbook:Sorghum" class="extiw" title="wikibooks:Cookbook:Sorghum">Sorghum</a></b></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<ul>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">"<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sorghum" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Sorghum">Sorghum</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. <b>25</b> (11th ed.). 1911.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorghum&amp;rft.atitle=Sorghum&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.invasivespeciesinfo.gov/plants/johnsongrass.shtml">Species Profile- Johnsongrass (<i>Sorghum halepense</i>)</a>, National Invasive Species Information Center, <a href="/wiki/United_States_National_Agricultural_Library" title="United States National Agricultural Library">United States National Agricultural Library</a>. Lists general information and resources for Johnsongrass.</li>
+<li><a rel="nofollow" class="external text" href="http://www.fao.org/docrep/T0818e/T0818E00.HTM">FAO Report (1995) "Sorghum and millets in human nutrition"</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.grains.org/page.ww?section=Barley%2C+Corn+%26+Sorghum&amp;name=Sorghum">Sorghum on US Grains Council Web Site</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sseassociation.org/">Sweet Sorghum Ethanol Association</a>, organization for the promotion and development of sweet <i>Sorghum</i> as a source for <a href="/wiki/Biofuel" title="Biofuel">biofuels</a>, especially <a href="/wiki/Ethanol" title="Ethanol">ethanol</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Cereals_and_pseudocereals" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cereals" title="Template:Cereals"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cereals" title="Template talk:Cereals"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cereals&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cereals_and_pseudocereals" style="font-size:114%;margin:0 4em"><a href="/wiki/Cereal" title="Cereal">Cereals</a> and <a href="/wiki/Pseudocereal" title="Pseudocereal">pseudocereals</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Cereal" title="Cereal">Cereals</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Poaceae" title="Poaceae">Gramineae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barley" title="Barley">Barley</a></li>
+<li><a href="/wiki/Fonio" title="Fonio">Fonio</a></li>
+<li><a href="/wiki/Job%27s_tears" title="Job's tears">Job's tears</a></li>
+<li><a href="/wiki/Maize" title="Maize">Maize (Corn)</a></li>
+<li><a href="/wiki/Millet" title="Millet">Millets</a></li>
+<li><a href="/wiki/Oat" title="Oat">Oats</a></li>
+<li><a href="/wiki/Rice" title="Rice">Rice</a></li>
+<li><a href="/wiki/Rye" title="Rye">Rye</a></li>
+<li><strong class="selflink">Sorghum</strong></li>
+<li><a href="/wiki/Eragrostis_tef" title="Eragrostis tef">Teff</a></li>
+<li><a href="/wiki/Triticale" title="Triticale">Triticale</a></li>
+<li><a href="/wiki/Wild_rice" title="Wild rice">Zizania</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Wheat" title="Wheat">Wheat <span style="font-size:90%;">(Triticum)</span></a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Common_wheat" title="Common wheat">Bread</a></li>
+<li><a href="/wiki/Durum" title="Durum">Durum</a></li>
+<li><a href="/wiki/Khorasan_wheat" title="Khorasan wheat">Khorasan</a></li>
+<li><a href="/wiki/Red_Fife_wheat" title="Red Fife wheat">Red Fife</a></li>
+<li><a href="/wiki/Norin_10_wheat" title="Norin 10 wheat">Norin 10</a></li>
+<li><a href="/wiki/Winter_wheat" title="Winter wheat">Winter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Farro" title="Farro">Farro</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Einkorn_wheat" title="Einkorn wheat">Einkorn</a></li>
+<li><a href="/wiki/Emmer" title="Emmer">Emmer</a></li>
+<li><a href="/wiki/Spelt" title="Spelt">Spelt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pseudocereal" title="Pseudocereal">Pseudocereals</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Polygonaceae" title="Polygonaceae">Polygonaceae</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Buckwheat" title="Buckwheat">Buckwheat</a></li>
+<li><i><a href="/wiki/Fagopyrum_tataricum" title="Fagopyrum tataricum">Tartary buckwheat</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Amaranthaceae" title="Amaranthaceae">Amaranthaceae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Amaranth" title="Amaranth">Amaranth</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Amaranthus_caudatus" title="Amaranthus caudatus">A. caudatus</a></i></li>
+<li><i><a href="/wiki/Amaranthus_cruentus" title="Amaranthus cruentus">A. cruentus</a></i></li>
+<li><i><a href="/wiki/Amaranthus_hypochondriacus" title="Amaranthus hypochondriacus">A. hypochondriacus</a></i></li>
+<li><i><a href="/wiki/Celosia" title="Celosia">Celosia</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chenopodiaceae" title="Chenopodiaceae">Chenopodiaceae</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Quinoa" title="Quinoa">Quinoa</a></li>
+<li><a href="/wiki/Chenopodium_berlandieri" title="Chenopodium berlandieri">Pitseed Goosefoot</a></li>
+<li><a href="/wiki/Chenopodium_pallidicaule" title="Chenopodium pallidicaule">Qañiwa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Lamiaceae" title="Lamiaceae">Lamiaceae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Salvia_hispanica" title="Salvia hispanica">Chia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Fabaceae" title="Fabaceae">Fabaceae</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wattleseed" title="Wattleseed">Wattleseed</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Capparaceae" title="Capparaceae">Capparaceae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Boscia_senegalensis" title="Boscia senegalensis">Hanza</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>See also</dt>
+<dd><a href="/wiki/Triticeae" title="Triticeae">Triticeae</a></dd>
+<dd><a href="/wiki/Neolithic_founder_crops" title="Neolithic founder crops">Neolithic founder crops</a></dd>
+<dd><a href="/wiki/Neolithic_Revolution" title="Neolithic Revolution">Neolithic Revolution</a></dd>
+<dd><a href="/wiki/History_of_agriculture" title="History of agriculture">History of agriculture</a></dd>
+<dd><a href="/wiki/Natufian_culture" title="Natufian culture">Natufian culture</a></dd>
+<dd><a href="/wiki/Fertile_Crescent" title="Fertile Crescent">Fertile Crescent</a></dd>
+<dd><a href="/wiki/Tell_Abu_Hureyra" title="Tell Abu Hureyra">Tell Abu Hureyra</a></dd>
+<dd><a href="/wiki/Tell_Aswad" title="Tell Aswad">Tell Aswad</a></dd>
+<dd><a href="https://fr.wikipedia.org/wiki/Histoire_de_la_culture_des_c%C3%A9r%C3%A9ales" class="extiw" title="fr:Histoire de la culture des céréales">Cereal cultivation History (french)</a></dd>
+<dd><a href="/wiki/Domestication" title="Domestication">Domestication</a></dd>
+<dd><a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a></dd>
+<dd><a href="/wiki/Genetic_engineering" title="Genetic engineering">Genetic engineering</a></dd>
+<dd><a href="/wiki/Selective_breeding" title="Selective breeding">Selective breeding</a></dd>
+<dd><a href="/wiki/Crop_wild_relative" title="Crop wild relative">Crop wild relative</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="&quot;letter-spacing: .1px;&quot;"><a href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Taxonomy" class="extiw" title="wikidata:Wikidata:WikiProject Taxonomy">Taxon identifiers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>:<span class="nowrap">&#160;</span><span class="url"><a rel="nofollow" class="external text" href="http://eol.org/pages/108216">108216</a></span></li>
+<li><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>:<span class="nowrap">&#160;</span><span class="url"><a rel="nofollow" class="external text" href="http://www.gbif.org/species/2705180">2705180</a></span></li>
+<li><a href="/wiki/Tropicos" title="Tropicos">Tropicos</a>:<span class="nowrap">&#160;</span><span class="url"><a rel="nofollow" class="external text" href="http://www.tropicos.org/Name/40002210">40002210</a></span></li>
+<li><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>:<span class="nowrap">&#160;</span><span class="url"><a rel="nofollow" class="external text" href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=42106">42106</a></span></li>
+<li><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>:<span class="nowrap">&#160;</span><span class="url"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=4557">4557</a></span></li>
+<li><a href="/wiki/International_Plant_Names_Index" title="International Plant Names Index">IPNI</a>:<span class="nowrap">&#160;</span><span class="url"><a rel="nofollow" class="external text" href="http://www.ipni.org/ipni/idPlantNameSearch.do?id=19032-1">19032-1</a></span></li>
+<li><a href="/wiki/Germplasm_Resources_Information_Network" title="Germplasm Resources Information Network">GRIN</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=11304">11304</a></li>
+<li><a href="/wiki/Flora_of_China_(series)" title="Flora of China (series)">FOC</a>:<span class="nowrap">&#160;</span><span class="url"><a rel="nofollow" class="external text" href="http://www.efloras.org/florataxon.aspx?flora_id=2&amp;taxon_id=130722">130722</a></span></li>
+<li><a href="/wiki/Natural_Resources_Conservation_Service#Plants" title="Natural Resources Conservation Service">PLANTS</a>:<span class="nowrap">&#160;</span><span class="url"><a rel="nofollow" class="external text" href="http://plants.usda.gov/core/profile?symbol=SORGH2">SORGH2</a></span></li>
+<li><a href="/wiki/GrassBase" title="GrassBase">GrassBase</a>:<span class="nowrap">&#160;</span><span class="url"><a rel="nofollow" class="external text" href="http://www.kew.org/data/grasses-db/www/gen00593.htm">gen00593</a></span></li>
+<li>AFPD:<span class="nowrap">&#160;</span><span class="url"><a rel="nofollow" class="external text" href="http://www.ville-ge.ch/musinfo/bd/cjb/africa/details.php?langue=an&amp;id=194981">194981</a></span></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20170313060619
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.592 seconds
+Real time usage: 0.716 seconds
+Preprocessor visited node count: 8289/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 154388/2097152 bytes
+Template argument size: 20437/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 12/500
+Lua time usage: 0.260/10.000 seconds
+Lua memory usage: 9.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  640.544      1 -total
+ 35.22%  225.601      7 Template:Navbox
+ 32.00%  204.969      1 Template:Taxonbar
+ 30.64%  196.276      4 Template:1x
+ 28.11%  180.040     34 Template:Taxonbar/Link
+ 22.64%  144.988     60 Template:If_empty
+ 18.50%  118.528      1 Template:Taxobox
+ 18.09%  115.874      1 Template:Reflist
+ 17.01%  108.930      1 Template:Taxobox/core
+ 16.76%  107.330      6 Template:Infobox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:56122-0!*!0!!en!4!* and timestamp 20170313060618 and revision id 769460051
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sorghum&amp;oldid=769460051">https://en.wikipedia.org/w/index.php?title=Sorghum&amp;oldid=769460051</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sorghum" title="Category:Sorghum">Sorghum</a></li><li><a href="/wiki/Category:Cereals" title="Category:Cereals">Cereals</a></li><li><a href="/wiki/Category:Forages" title="Category:Forages">Forages</a></li><li><a href="/wiki/Category:Tropical_agriculture" title="Category:Tropical agriculture">Tropical agriculture</a></li><li><a href="/wiki/Category:Poaceae_genera" title="Category:Poaceae genera">Poaceae genera</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2017" title="Category:Articles with unsourced statements from February 2017">Articles with unsourced statements from February 2017</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sorghum" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sorghum" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Sorghum"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Sorghum"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Sorghum" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Sorghum&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sorghum&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sorghum" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sorghum" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sorghum&amp;oldid=769460051" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sorghum&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q12111" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sorghum&amp;id=769460051" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sorghum">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Sorghum&amp;returnto=Sorghum&amp;oldid=769460051&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sorghum&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sorghum" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Sorghum" hreflang="en">Wikispecies</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B6%D1%8B%D1%80%D1%8D%D1%84" title="Анджырэф – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Sorghumhirsen" title="Sorghumhirsen – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D8%BA%D9%85" title="سورغم – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Sorghum" title="Sorghum – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Sorghum" title="Sorghum – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/L%C3%B4%CD%98-s%C3%A9" title="Lô͘-sé – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%B3%D0%BE" title="Сорго – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%B3%D0%B0" title="Сорга – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%B3%D0%B0" title="Сорга – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%B3%D0%BE" title="Сорго – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Sorghumhiasch" title="Sorghumhiasch – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Sorghum" title="Sorghum – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Sorghum" title="Sorghum – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Sorgo" title="Sorgo – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Sorghum" title="Sorghum – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C4%8Cirok" title="Čirok – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Mapfunde" title="Mapfunde – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Sorghwm" title="Sorghwm – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Durra" title="Durra – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Sorghumhirsen" title="Sorghumhirsen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%8B%DE%AE%DE%82%DE%A6%DE%85%DE%A6" title="ދޮނަޅަ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Sorgo_(perekond)" title="Sorgo (perekond) – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A3%CF%8C%CF%81%CE%B3%CE%BF" title="Σόργο – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Sorghum" title="Sorghum – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Sorgo" title="Sorgo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Basarto" title="Basarto – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D8%A6%DB%8C%D8%B1_(%D8%B3%D8%B1%D8%AF%D9%87)" title="چائیر (سرده) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Sorghum" title="Sorghum – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Sorgum" title="Sorgum – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Sorgo" title="Sorgo – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%88%98%EC%88%98%EC%86%8D" title="수수속 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%B8%D6%80%D5%A3%D5%B8" title="Սորգո – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0" title="ज्वार – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Sorghum" title="Sorghum – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Sorgumo" title="Sorgumo – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Sorgum" title="Sorgum – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/D%C3%BArra" title="Dúrra – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Sorghum" title="Sorghum – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%A8%D7%94" title="דורה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Sorgum" title="Sorgum – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%9C%E0%B3%8B%E0%B2%B3" title="ಜೋಳ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%9D%E1%83%A0%E1%83%92%E1%83%9D" title="სორგო – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D2%9A%D2%B1%D0%BC%D0%B0%D0%B9_%D0%B6%D2%AF%D0%B3%D0%B5%D1%80%D1%96" title="Құмай жүгері – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Mtama" title="Mtama – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Gilgil" title="Gilgil – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Sorghum" title="Sorghum – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Sorgo" title="Sorgo – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Sorgas" title="Sorgas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Sorghum" title="Sorghum – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Cirok" title="Cirok – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%B0%D0%BA_(%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B5)" title="Сирак (растение) – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B4%A3%E0%B4%BF%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%8B%E0%B4%B3%E0%B4%82" title="മണിച്ചോളം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%80" title="ज्वारी – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Betari" title="Betari – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Ci%C3%A9-s%C4%93%CC%A4" title="Cié-sē̤ – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Sorgo" title="Sorgo – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7%E5%B1%9E" title="モロコシ属 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%A1%D1%83%D0%B3%D3%80%D0%B0" title="СугӀа – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Durra" title="Durra – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Durra" title="Durra – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Sorgo" title="Sorgo – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Jo%CA%BBxori" title="Joʻxori – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%9C%E0%A8%B5%E0%A8%BE%E0%A8%B0_(%E0%A8%9A%E0%A8%B0%E0%A9%8D%E0%A8%B9%E0%A9%80)" title="ਜਵਾਰ (ਚਰ੍ਹੀ) – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%AC%D9%88%D8%A7%D8%B1" title="جوار – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Sorgo" title="Sorgo – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Sorghum" title="Sorghum – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Sorg" title="Sorg – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Surgu" title="Surgu – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%B3%D0%BE" title="Сорго – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%B3%D0%BE" title="Сорго – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A4%B2%E0%A4%83" title="यावानलः – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Sorghum" title="Sorghum – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-tn"><a href="https://tn.wikipedia.org/wiki/Sorghum" title="Sorghum – Tswana" lang="tn" hreflang="tn" class="interlanguage-link-target">Setswana</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Sorghum" title="Sorghum – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Cirok" title="Cirok – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Sirek" title="Sirek – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Garow" title="Garow – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%B3%DB%86%D8%B1%DA%AF%D9%88%D9%85" title="سۆرگوم – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%B0%D0%BA" title="Сирак – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Sirak" title="Sirak – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Durrat" title="Durrat – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Durrasl%C3%A4ktet" title="Durrasläktet – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Batad" title="Batad – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%8B%E0%AE%B3%E0%AE%AE%E0%AF%8D" title="சோளம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%B3%D0%BE" title="Сорго – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%9C%E0%B1%8A%E0%B0%A8%E0%B1%8D%E0%B0%A8" title="జొన్న – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9F%E0%B9%88%E0%B8%B2%E0%B8%87" title="สกุลข้าวฟ่าง – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D2%B6%D1%83%D0%B2%D0%BE%D1%80%D3%A3" title="Ҷуворӣ – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Sorgum" title="Sorgum – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%B3%D0%BE" title="Сорго – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%AC%D9%88%D8%A7%D8%B1" title="جوار – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Chi_L%C3%BAa_mi%E1%BA%BFn" title="Chi Lúa miến – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Sorgo" title="Sorgo – Võro" lang="fiu-vro" hreflang="fiu-vro" class="interlanguage-link-target">Võro</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Sorghum" title="Sorghum – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A1%D7%90%D7%A8%D7%92%D7%A2" title="סארגע – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E9%AB%98%E7%B2%B1%E5%B1%AC" title="高粱屬 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%AB%98%E7%B2%B1%E5%B1%AC" title="高粱屬 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q12111#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 9 March 2017, at 18:09.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sorghum&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.592","walltime":"0.716","ppvisitednodes":{"value":8289,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":154388,"limit":2097152},"templateargumentsize":{"value":20437,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"entityaccesscount":{"value":11,"limit":400},"timingprofile":["100.00%  640.544      1 -total"," 35.22%  225.601      7 Template:Navbox"," 32.00%  204.969      1 Template:Taxonbar"," 30.64%  196.276      4 Template:1x"," 28.11%  180.040     34 Template:Taxonbar/Link"," 22.64%  144.988     60 Template:If_empty"," 18.50%  118.528      1 Template:Taxobox"," 18.09%  115.874      1 Template:Reflist"," 17.01%  108.930      1 Template:Taxobox/core"," 16.76%  107.330      6 Template:Infobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.260","limit":"10.000"},"limitreport-memusage":{"value":9864374,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20170313060619","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":789,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

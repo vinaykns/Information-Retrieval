@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pelamis Wave Energy Converter - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pelamis_Wave_Energy_Converter","wgTitle":"Pelamis Wave Energy Converter","wgCurRevisionId":769178720,"wgRevisionId":769178720,"wgArticleId":3510949,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","2007 introductions","Buildings and structures in Orkney","Wave energy converters","Wave farms in Portugal","Wave farms in Scotland"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pelamis_Wave_Energy_Converter","wgRelevantArticleId":3510949,"wgRequestId":"WMddIgpAAEEAAYt-mTwAAAAK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q654422","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pelamis_at_EMEC.jpg/1200px-Pelamis_at_EMEC.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pelamis_Wave_Energy_Converter"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Pelamis_Wave_Energy_Converter"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pelamis_Wave_Energy_Converter rootpage-Pelamis_Wave_Energy_Converter skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Pelamis Wave Energy Converter</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar energy</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave power</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind power</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/List_of_renewable_energy_topics_by_country" title="List of renewable energy topics by country">Topics by country</a></li>
+<li><a href="/wiki/100%25_renewable_energy" title="100% renewable energy">100% renewable energy</a></li>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Marketing and policy trends</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Renewable_energy_sources" title="Template:Renewable energy sources"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Renewable_energy_sources" title="Template talk:Renewable energy sources"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Renewable_energy_sources&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>Pelamis Wave Energy Converter</b> was a technology that used the motion of <a href="/wiki/Ocean_surface_wave" class="mw-redirect" title="Ocean surface wave">ocean surface waves</a> to create electricity. The machine was made up of connected sections which flex and bend as waves pass; it is this motion which is used to generate electricity.</p>
+<p>Developed by the now defunct <sup id="cite_ref-admin2014_1-0" class="reference"><a href="#cite_note-admin2014-1">[1]</a></sup> Scottish company <a href="/wiki/Pelamis_Wave_Power" title="Pelamis Wave Power">Pelamis Wave Power</a> (formerly Ocean Power Delivery), the Pelamis became the first offshore wave machine to generate electricity into the grid, when it was first connected to the UK grid in 2004.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Pelamis Wave Power then went on to build and test five additional Pelamis machines: three first-generation P1 machines, which were tested in a farm off the coast of Portugal in 2009, and two second-generation machines, the Pelamis P2, were tested off Orkney between 2010 and 2014. The company went into administration in November 2014, with the <a href="/wiki/Intellectual_property" title="Intellectual property">intellectual property</a> transferred to the <a href="/wiki/Scottish_Government" title="Scottish Government">Scottish Government</a> body <a href="/wiki/Wave_Energy_Scotland" title="Wave Energy Scotland">Wave Energy Scotland</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Operation"><span class="tocnumber">1</span> <span class="toctext">Operation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Principle"><span class="tocnumber">2</span> <span class="toctext">Principle</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Projects"><span class="tocnumber">3</span> <span class="toctext">Projects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#P2_Pelamis_Testing_at_EMEC"><span class="tocnumber">3.1</span> <span class="toctext">P2 Pelamis Testing at EMEC</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Projects_Formerly_in_Development"><span class="tocnumber">3.2</span> <span class="toctext">Projects Formerly in Development</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Development_History"><span class="tocnumber">4</span> <span class="toctext">Development History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Prototype_Pelamis_Machine"><span class="tocnumber">4.1</span> <span class="toctext">Prototype Pelamis Machine</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Agu.C3.A7adoura_Wave_Farm"><span class="tocnumber">4.2</span> <span class="toctext">Aguçadoura Wave Farm</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Images"><span class="tocnumber">6</span> <span class="toctext">Images</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Operation">Operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=1" title="Edit section: Operation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Pelamis machine is an offshore wave energy converter, operating in water depths greater than 50m. The machine consists of a series of semi-submerged cylindrical sections linked by hinged joints. As waves pass along the length of the machine, the sections move relative to one another. The wave-induced <a href="/wiki/Motion_(physics)" title="Motion (physics)">motion</a> of the sections is resisted by <a href="/wiki/Hydraulic_cylinder" title="Hydraulic cylinder">hydraulic cylinders</a> which pump high pressure oil through <a href="/wiki/Hydraulic_machinery" title="Hydraulic machinery">hydraulic motors</a> via smoothing <a href="/wiki/Hydraulic_accumulators" class="mw-redirect" title="Hydraulic accumulators">hydraulic accumulators</a>. The hydraulic motors drive <a href="/wiki/Electrical_generator" class="mw-redirect" title="Electrical generator">electrical generators</a> to produce electricity. Electricity from all the joints is fed down a single <a href="/wiki/Umbilical_cable" title="Umbilical cable">umbilical cable</a> to a junction on the <a href="/wiki/Sea_bed" class="mw-redirect" title="Sea bed">sea bed</a>. Several devices can be connected and linked to shore through a single seabed cable.</p>
+<h2><span class="mw-headline" id="Principle">Principle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=2" title="Edit section: Principle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Pelamis is an attenuating wave energy converter. The machine responds to the curvature of the waves (their shape) rather than the wave height. As waves can only reach a certain curvature before naturally breaking, this limits the range of motion through which the machine must move but maintains large motion at the joints in small waves.</p>
+<h2><span class="mw-headline" id="Projects">Projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=3" title="Edit section: Projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="P2_Pelamis_Testing_at_EMEC">P2 Pelamis Testing at EMEC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=4" title="Edit section: P2 Pelamis Testing at EMEC">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The P2 Pelamis design was Pelamis Wave Power's second generation Pelamis machine. The Pelamis P2 is 180m long, 4m diameter and approximately 1350 tonnes in weight. Consisting of five tube sections and four flexible joints, the design is longer and fatter than the previous P1 design.</p>
+<p>In 2010, Pelamis Wave Power began tests of the first Pelamis P2 machine at the <a href="/wiki/European_Marine_Energy_Centre" title="European Marine Energy Centre">European Marine Energy Centre</a>, Orkney, Scotland. The machine was owned by the German utility company, <a href="/wiki/E.ON" title="E.ON">E.ON</a>, and was the UK's first commercial supply contract in the <a href="/wiki/Marine_energy" title="Marine energy">marine energy</a> sector.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> In March 2010 Pelamis Wave Power announced a second order for a P2 machine, from <a href="/wiki/ScottishPower" class="mw-redirect" title="ScottishPower">ScottishPower</a> Renewables, part of <a href="/wiki/Iberdrola_Renovables" title="Iberdrola Renovables">Iberdrola Renovables</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> This second machine was first installed at EMEC in May 2012.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The two utility companies announced that they will work together to share and collaborate in testing of the P2 Pelamis technology.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Following the demise of the company, the P2-001 device was acquired by <a href="/wiki/Wave_Energy_Scotland" title="Wave Energy Scotland">Wave Energy Scotland</a>, having completed over 15,000 hours of operation. The device was decommissioned in April 2016. The other device, P2-002 was sold to the <a href="/wiki/European_Marine_Energy_Centre" title="European Marine Energy Centre">European Marine Energy Centre</a> for use as a test rig.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Projects_Formerly_in_Development">Projects Formerly in Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=5" title="Edit section: Projects Formerly in Development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>E.ON and ScottishPower Renewables announced plans to build larger projects using Pelamis machines in the waters off Orkney's west coast.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Both companies won leases in 2010 from <a href="/wiki/The_Crown_Estate" class="mw-redirect" title="The Crown Estate">The Crown Estate</a>, who own the seabed around the UK, for projects of up to 50MW. The "Pentland Firth and Orkney Waters Leasing Round" was the world's first commercial scale wave and tidal energy leasing opportunity.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="Development_History">Development History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=6" title="Edit section: Development History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Prototype_Pelamis_Machine">Prototype Pelamis Machine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=7" title="Edit section: Prototype Pelamis Machine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pelamis_at_EMEC.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pelamis_at_EMEC.jpg/220px-Pelamis_at_EMEC.jpg" width="220" height="136" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pelamis_at_EMEC.jpg/330px-Pelamis_at_EMEC.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pelamis_at_EMEC.jpg/440px-Pelamis_at_EMEC.jpg 2x" data-file-width="1419" data-file-height="876" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pelamis_at_EMEC.jpg" class="internal" title="Enlarge"></a></div>
+The Pelamis Prototype machine at EMEC, Orkney, Scotland, 2007</div>
+</div>
+</div>
+<p>Pelamis Wave Power tested their first full-scale prototype at the <a href="/wiki/European_Marine_Energy_Centre" title="European Marine Energy Centre">European Marine Energy Centre</a> in <a href="/wiki/Orkney" title="Orkney">Orkney</a>, Scotland between 2004 and 2007. The machine, which was rated at 750&#160;kW, was the world's first offshore <a href="/wiki/Wave_power" title="Wave power">wave power</a> machine to generate electricity into the grid system.</p>
+<p>The prototype was 120m long and 3.5m in diameter. It consisted of four tube sections linked by three, shorter, and power conversion modules<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Agu.C3.A7adoura_Wave_Farm">Aguçadoura Wave Farm</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=8" title="Edit section: Aguçadoura Wave Farm">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Agu%C3%A7adoura_Wave_Farm" title="Aguçadoura Wave Farm">Aguçadoura Wave Farm</a></div>
+<p>In 2008 Pelamis tested three first generation, P1 Pelamis waves at the <a href="/wiki/Agu%C3%A7adoura_Wave_Farm" title="Aguçadoura Wave Farm">Aguçadoura Wave Farm</a>. Located off the northwest coast of <a href="/wiki/Portugal" title="Portugal">Portugal</a> near <a href="/wiki/P%C3%B3voa_de_Varzim" title="Póvoa de Varzim">Póvoa de Varzim</a>, the farm had an installed capacity of 2.25MW and was the world's first multiple machine wave power project.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> The project was part funded by Portuguese utility <a href="/wiki/Enersis" title="Enersis">Enersis</a>,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> at the time owned by Australian global investment company <a href="/wiki/Babcock_%26_Brown" title="Babcock &amp; Brown">Babcock &amp; Brown</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The farm first generated electricity in July 2008 but was taken offline in November 2008 at the same time as Babcock &amp; Brown encountered financial difficulties.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=9" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i><a href="/wiki/Pelamis_platurus" class="mw-redirect" title="Pelamis platurus">Pelamis platurus</a></i> is a yellow-bellied <a href="/wiki/Sea_snake" class="mw-redirect" title="Sea snake">sea snake</a> that lives in tropical and subtropical waters. It prefers shallow inshore waters.</p>
+<h2><span class="mw-headline" id="Images">Images</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=10" title="Edit section: Images">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Pelamis_Wellenkraftwerk_Portugal_1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pelamis_Wellenkraftwerk_Portugal_1.JPG/120px-Pelamis_Wellenkraftwerk_Portugal_1.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pelamis_Wellenkraftwerk_Portugal_1.JPG/180px-Pelamis_Wellenkraftwerk_Portugal_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pelamis_Wellenkraftwerk_Portugal_1.JPG/240px-Pelamis_Wellenkraftwerk_Portugal_1.JPG 2x" data-file-width="2816" data-file-height="2112" /></a></div>
+</div>
+<div class="gallerytext">
+<p>2 of 3 Pelamis machines in the harbour of <a href="/wiki/Peniche,_Portugal" title="Peniche, Portugal">Peniche</a>, <a href="/wiki/Portugal" title="Portugal">Portugal</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:38px auto;"><a href="/wiki/File:Pelamis_at_EMEC.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pelamis_at_EMEC.jpg/120px-Pelamis_at_EMEC.jpg" width="120" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pelamis_at_EMEC.jpg/180px-Pelamis_at_EMEC.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pelamis_at_EMEC.jpg/240px-Pelamis_at_EMEC.jpg 2x" data-file-width="1419" data-file-height="876" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Pelamis prototype machine at EMEC.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35.5px auto;"><a href="/wiki/File:Pelamis_bursts_out_of_a_wave.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pelamis_bursts_out_of_a_wave.JPG/120px-Pelamis_bursts_out_of_a_wave.JPG" width="120" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pelamis_bursts_out_of_a_wave.JPG/180px-Pelamis_bursts_out_of_a_wave.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pelamis_bursts_out_of_a_wave.JPG/240px-Pelamis_bursts_out_of_a_wave.JPG 2x" data-file-width="2240" data-file-height="1476" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The front of the Pelamis machine bursting through a wave at the <a href="/wiki/Agu%C3%A7adoura_Wave_Park" class="mw-redirect" title="Aguçadoura Wave Park">Aguçadoura Wave Park</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:48px auto;"><a href="/wiki/File:Pelamis_machine_installed_at_the_Agucadoura_Wave_Park.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pelamis_machine_installed_at_the_Agucadoura_Wave_Park.JPG/120px-Pelamis_machine_installed_at_the_Agucadoura_Wave_Park.JPG" width="120" height="54" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pelamis_machine_installed_at_the_Agucadoura_Wave_Park.JPG/180px-Pelamis_machine_installed_at_the_Agucadoura_Wave_Park.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pelamis_machine_installed_at_the_Agucadoura_Wave_Park.JPG/240px-Pelamis_machine_installed_at_the_Agucadoura_Wave_Park.JPG 2x" data-file-width="3371" data-file-height="1524" /></a></div>
+</div>
+<div class="gallerytext">
+<p>1 of 3 Pelamis machines at the Aguçadoura Wave Farm</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Wave_Energy" class="mw-redirect" title="Wave Energy">Wave Energy</a></li>
+<li><a href="/wiki/Pelamis_Wave_Power" title="Pelamis Wave Power">Pelamis Wave Power</a></li>
+<li><a href="/wiki/Aegir_wave_farm" class="mw-redirect" title="Aegir wave farm">Aegir wave farm</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-admin2014-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-admin2014_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/uk-scotland-scotland-business-30151276">"Wave power firm Pelamis calls in administrators"</a>. 21 November 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">21 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.btitle=Wave+power+firm+Pelamis+calls+in+administrators&amp;rft.date=2014-11-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-scotland-scotland-business-30151276&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.emec.org.uk/EWTEC7_EMEC.pdf'">"Update on EMEC activities, resource description, and characterisation of wave-induced velocities in a tidal flow"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-12-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.btitle=Update+on+EMEC+activities%2C+resource+description%2C+and+characterisation+of+wave-induced+velocities+in+a+tidal+flow&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.emec.org.uk%2FEWTEC7_EMEC.pdf%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Wave Energy Scotland Briefing Note. <span style="font-size:85%;">(PDF)</span> <a rel="nofollow" class="external free" href="http://www.gov.scot/Resource/0048/00483663.pdf">http://www.gov.scot/Resource/0048/00483663.pdf</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.au=Wave+Energy+Scotland+Briefing+Note&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gov.scot%2FResource%2F0048%2F00483663.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scotland.gov.uk/News/Releases/2010/05/17144639">"Making Waves"</a>. <i><a href="/wiki/Scottish_Government" title="Scottish Government">Scottish Government</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.btitle=Making+Waves&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scotland.gov.uk%2FNews%2FReleases%2F2010%2F05%2F17144639&amp;rft.pub=%27%27Scottish+Government%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scottishpowerrenewables.com/pages/press_releases.asp?article=63&amp;date_year=2010">"ScottishPower Renewables Purchase Pelamis Wave Power Device"</a>. <i>ScottishPowerRenewables.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.btitle=ScottishPower+Renewables+Purchase+Pelamis+Wave+Power+Device&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scottishpowerrenewables.com%2Fpages%2Fpress_releases.asp%3Farticle%3D63%26date_year%3D2010&amp;rft.pub=%27%27ScottishPowerRenewables.com%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pelamiswave.com/our-projects/project/2/ScottishPower-Renewables-at-EMEC">"ScottishPower Renewables at EMEC"</a>. <i>www.pelamiswave.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.btitle=ScottishPower+Renewables+at+EMEC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pelamiswave.com%2Four-projects%2Fproject%2F2%2FScottishPower-Renewables-at-EMEC&amp;rft.pub=%27%27www.pelamiswave.com%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.newenergyfocus.com/do/ecco/view_item?listid=1&amp;listcatid=32&amp;listitemid=4529">"Two Major Energy Players Join Forces on Wave Power"</a>. <i>New Energy Focus</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.btitle=Two+Major+Energy+Players+Join+Forces+on+Wave+Power&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.newenergyfocus.com%2Fdo%2Fecco%2Fview_item%3Flistid%3D1%26listcatid%3D32%26listitemid%3D4529&amp;rft.pub=%27%27New+Energy+Focus%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hie.co.uk/growth-sectors/energy/wave-energy-scotland/news-and-events/news/dismantling-pelamis-p2-001-in-orkney.html">"Dismantling Pelamis P2 001 in Orkney"</a>. Wave Energy Scotland. 15 March 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.btitle=Dismantling+Pelamis+P2+001+in+Orkney&amp;rft.date=2016-03-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hie.co.uk%2Fgrowth-sectors%2Fenergy%2Fwave-energy-scotland%2Fnews-and-events%2Fnews%2Fdismantling-pelamis-p2-001-in-orkney.html&amp;rft.pub=Wave+Energy+Scotland&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scottishpower.com/PressReleases_2018.htm">"ScottishPower Renewables To Develop Major Marine Power Sites In The Pentland Firth"</a>. ScottishPower Renewables<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.btitle=ScottishPower+Renewables+To+Develop+Major+Marine+Power+Sites+In+The+Pentland+Firth&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scottishpower.com%2FPressReleases_2018.htm&amp;rft.pub=ScottishPower+Renewables&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/8564662.stm">"<span style="padding-left:0.2em;">'</span>Milestone' for wave energy plans"</a>. <i>news.bbc.co.uk</i>. 2010-03-16.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.atitle=%27Milestone%27+for+wave+energy+plans&amp;rft.date=2010-03-16&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2F8564662.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pelamiswave.com/development-history">"Development History"</a>. Pelamis Wave Power<span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.btitle=Development+History&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pelamiswave.com%2Fdevelopment-history&amp;rft.pub=Pelamis+Wave+Power&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/scotland/4563077.stm">"Wave energy contract goes abroad"</a>. <i><a href="/wiki/BBC_Scotland" title="BBC Scotland">BBC Scotland</a></i>. 2005-05-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.atitle=Wave+energy+contract+goes+abroad&amp;rft.date=2005-05-19&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fscotland%2F4563077.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.alternative-energy-news.info/pelamis-offshore-wave-energy-portugal/">"Pelamis Offshore Wave Energy in Portugal"</a>. <i>Alternative Energy</i>. 2006-10-08.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.atitle=Pelamis+Offshore+Wave+Energy+in+Portugal&amp;rft.date=2006-10-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.alternative-energy-news.info%2Fpelamis-offshore-wave-energy-portugal%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.newratings.com/en/main/company_headline.m?&amp;id=1163434">"Babcock &amp; Brown acquires Enersis for €490mn"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.atitle=Babcock+%26+Brown+acquires+Enersis+for+%82%AC490mn&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.newratings.com%2Fen%2Fmain%2Fcompany_headline.m%3F%26id%3D1163434&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.smh.com.au/news/opinion/paul-sheehan/australias-richest-man-youre-having-a-laugh-/2008/10/26/1224955851150.html">"Big boys' greed pulls us all down"</a>. The Sydney Morning Herald. 2008-09-27.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APelamis+Wave+Energy+Converter&amp;rft.atitle=Big+boys%27+greed+pulls+us+all+down&amp;rft.date=2008-09-27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.smh.com.au%2Fnews%2Fopinion%2Fpaul-sheehan%2Faustralias-richest-man-youre-having-a-laugh-%2F2008%2F10%2F26%2F1224955851150.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.aegirwave.com">Aegir Wave Power</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.emec.org.uk/">The European Marine Energy Test Centre</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.power-technology.com/projects/pelamis/">The Power Technology website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.renewableenergyworld.com/rea/news/article/2009/02/pelamis-secures-wave-energy-order-from-e-on">Pelamis Secures Wave Energy Order from E.on</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=JYzocwUfpNg">Pelamis at Aguçadoura video</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Energy_in_Scotland" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Energy_in_Scotland" title="Template:Energy in Scotland"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Energy_in_Scotland" title="Template talk:Energy in Scotland"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Energy_in_Scotland&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Energy_in_Scotland" style="font-size:114%"><a href="/wiki/Energy" title="Energy">Energy</a> in <a href="/wiki/Scotland" title="Scotland">Scotland</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Energy_in_the_United_Kingdom" title="Energy in the United Kingdom">Energy in the United Kingdom</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sectors</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nuclear_power_in_Scotland" title="Nuclear power in Scotland">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy_in_Scotland" title="Renewable energy in Scotland">Renewable energy</a></li>
+<li><a href="/wiki/Wind_power_in_Scotland" title="Wind power in Scotland">Wind power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Companies and<br />
+organisations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Current</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aquamarine_Power" title="Aquamarine Power">Aquamarine Power</a></li>
+<li><a href="/wiki/Community_Energy_Scotland" title="Community Energy Scotland">Community Energy Scotland</a></li>
+<li><a href="/wiki/EDF_Energy" title="EDF Energy">EDF Energy</a></li>
+<li><a href="/wiki/European_Marine_Energy_Centre" title="European Marine Energy Centre">European Marine Energy Centre</a></li>
+<li><a href="/wiki/Forum_for_Renewable_Energy_Development_in_Scotland" title="Forum for Renewable Energy Development in Scotland">FREDS</a></li>
+<li><a href="/wiki/National_Grid_plc" title="National Grid plc">National Grid</a></li>
+<li><a href="/wiki/Office_for_Nuclear_Regulation" title="Office for Nuclear Regulation">Office for Nuclear Regulation</a></li>
+<li><a href="/wiki/Score_Group_plc" title="Score Group plc">Score Group</a></li>
+<li><a href="/wiki/SGN_(company)" title="SGN (company)">SGN</a></li>
+<li><a href="/wiki/Scottish_Executive_Enterprise,_Transport_and_Lifelong_Learning_Department" class="mw-redirect" title="Scottish Executive Enterprise, Transport and Lifelong Learning Department">Scottish Government (Energy Department)</a></li>
+<li><a href="/wiki/Scottish_Gas" class="mw-redirect" title="Scottish Gas">Scottish Gas</a></li>
+<li><a href="/wiki/Scottish_Power" title="Scottish Power">Scottish Power</a></li>
+<li><a href="/wiki/SSE_plc" title="SSE plc">SSE</a></li>
+<li><a href="/wiki/Wood_Group" title="Wood Group">Wood Group</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Defunct</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/British_Energy" title="British Energy">British Energy</a></li>
+<li><a href="/wiki/Pelamis_Wave_Power" title="Pelamis Wave Power">Pelamis Wave Power</a></li>
+<li><a href="/wiki/Scottish_Hydro_Electric" title="Scottish Hydro Electric">Scottish Hydro Electric</a></li>
+<li><a href="/wiki/Scottish_Nuclear" title="Scottish Nuclear">Scottish Nuclear</a></li>
+<li><a href="/wiki/South_of_Scotland_Electricity_Board" title="South of Scotland Electricity Board">South of Scotland Electricity Board</a></li>
+<li><a href="/wiki/Wavegen" title="Wavegen">Wavegen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_power_stations_in_Scotland" title="List of power stations in Scotland">Active<br />
+power stations</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Hydro-electric</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Northern_hydro-electric_power_scheme&amp;action=edit&amp;redlink=1" class="new" title="Northern hydro-electric power scheme (page does not exist)">Northern scheme</a></li>
+<li><a href="/wiki/Cruachan_Power_Station" title="Cruachan Power Station">Cruachan</a></li>
+<li><a href="/wiki/Breadalbane_hydro-electric_power_scheme" class="mw-redirect" title="Breadalbane hydro-electric power scheme">Breadalbane</a></li>
+<li><a href="/wiki/Tummel_hydro-electric_power_scheme" title="Tummel hydro-electric power scheme">Tummel</a></li>
+<li><a href="/wiki/Falls_of_Foyers" title="Falls of Foyers">Foyers scheme</a></li>
+<li><a href="/w/index.php?title=Sloy-Awe_hydro-electric_power_scheme&amp;action=edit&amp;redlink=1" class="new" title="Sloy-Awe hydro-electric power scheme (page does not exist)">Sloy-Awe scheme</a></li>
+<li><a href="/wiki/Galloway_hydro-electric_power_scheme" title="Galloway hydro-electric power scheme">Galloway scheme</a></li>
+<li><a href="/wiki/Glendoe_Hydro_Scheme" title="Glendoe Hydro Scheme">Glendoe scheme</a></li>
+<li><a href="/wiki/Lanark_Hydro_Electric_Scheme" title="Lanark Hydro Electric Scheme">Lanark scheme</a></li>
+<li><a href="/w/index.php?title=Kinlochewe-Talladale_hydro-electric_power_scheme&amp;action=edit&amp;redlink=1" class="new" title="Kinlochewe-Talladale hydro-electric power scheme (page does not exist)">Kinlochewe-Talladale scheme</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Nuclear</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hunterston_B_nuclear_power_station" title="Hunterston B nuclear power station">Hunterston B</a></li>
+<li><a href="/wiki/Torness_Nuclear_Power_Station" title="Torness Nuclear Power Station">Torness</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Oil and gas</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Peterhead_power_station" class="mw-redirect" title="Peterhead power station">Peterhead</a></li>
+<li><a href="/wiki/Lerwick_power_station" class="mw-redirect" title="Lerwick power station">Lerwick</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Wave</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Islay_LIMPET" title="Islay LIMPET">Islay LIMPET</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Wind</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ardrossan_Wind_Farm" title="Ardrossan Wind Farm">Ardrossan</a></li>
+<li><a href="/wiki/Arecleoch_Wind_Farm" title="Arecleoch Wind Farm">Arecleoch</a></li>
+<li><a href="/wiki/Beatrice_Wind_Farm" title="Beatrice Wind Farm">Beatrice</a></li>
+<li><a href="/wiki/Beinn_an_Tuirc_windfarm" title="Beinn an Tuirc windfarm">Beinn an Tuirc</a></li>
+<li><a href="/wiki/Black_Law_Wind_Farm" title="Black Law Wind Farm">Black Law</a></li>
+<li><a href="/wiki/Braes_of_Doune_Wind_Farm" title="Braes of Doune Wind Farm">Braes of Doune</a></li>
+<li><a href="/wiki/Clyde_Wind_Farm" title="Clyde Wind Farm">Clyde</a></li>
+<li><a href="/w/index.php?title=Cruach_Mh%C3%B2r_Windfarm&amp;action=edit&amp;redlink=1" class="new" title="Cruach Mhòr Windfarm (page does not exist)">Cruach Mhòr</a></li>
+<li><a href="/wiki/Crystal_Rig_Wind_Farm" title="Crystal Rig Wind Farm">Crystal Rig</a></li>
+<li><a href="/wiki/Farr_Wind_Farm" title="Farr Wind Farm">Farr</a></li>
+<li><a href="/wiki/Hadyard_Hill_Wind_Farm" title="Hadyard Hill Wind Farm">Hadyard Hill</a></li>
+<li><a href="/w/index.php?title=Hare_Hill_Wind_Farm&amp;action=edit&amp;redlink=1" class="new" title="Hare Hill Wind Farm (page does not exist)">Hare Hill</a></li>
+<li><a href="/wiki/Pates_Hill_Wind_Farm" title="Pates Hill Wind Farm">Pates Hill</a></li>
+<li><a href="/wiki/Whitelee_Wind_Farm" title="Whitelee Wind Farm">Whitelee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Dundee_Incinerator&amp;action=edit&amp;redlink=1" class="new" title="Dundee Incinerator (page does not exist)">Dundee Incinerator</a></li>
+<li><a href="/w/index.php?title=Greengairs_power_station&amp;action=edit&amp;redlink=1" class="new" title="Greengairs power station (page does not exist)">Greengairs</a></li>
+<li><a href="/wiki/Lerwick_Incinerator" class="mw-redirect" title="Lerwick Incinerator">Lerwick Incinerator</a></li>
+<li><a href="/w/index.php?title=Steven%27s_Croft_Power_Station&amp;action=edit&amp;redlink=1" class="new" title="Steven's Croft Power Station (page does not exist)">Steven's Croft</a></li>
+<li><a href="/w/index.php?title=Westfield_power_station&amp;action=edit&amp;redlink=1" class="new" title="Westfield power station (page does not exist)">Westfield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Decommissioned<br />
+power stations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Coal</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Methil_power_station" title="Methil power station">Barony</a> (1980s)</li>
+<li><a href="/wiki/Braehead#Braehead_power_station" title="Braehead">Braehead</a> (1980s)</li>
+<li><a href="/wiki/Cockenzie_power_station" title="Cockenzie power station">Cockenzie</a> (2013)</li>
+<li><a href="/wiki/Kincardine_power_station" title="Kincardine power station">Kincardine</a> (1997)</li>
+<li><a href="/wiki/Longannet_power_station" title="Longannet power station">Longannet</a> (2016)</li>
+<li><a href="/wiki/Methil_power_station" title="Methil power station">Methil</a> (2000)</li>
+<li><a href="/w/index.php?title=Pinkston_power_station&amp;action=edit&amp;redlink=1" class="new" title="Pinkston power station (page does not exist)">Pinkston</a></li>
+<li><a href="/w/index.php?title=Portobello_power_station&amp;action=edit&amp;redlink=1" class="new" title="Portobello power station (page does not exist)">Portobello</a> (1977)</li>
+<li><a href="/w/index.php?title=Yoker_power_station&amp;action=edit&amp;redlink=1" class="new" title="Yoker power station (page does not exist)">Yoker</a> (1976)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Nuclear</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chapelcross_nuclear_power_station" title="Chapelcross nuclear power station">Chapelcross</a> (2004)</li>
+<li><a href="/wiki/Dounreay" title="Dounreay">Dounreay</a> (1994)</li>
+<li><a href="/wiki/Hunterston_A_nuclear_power_station" title="Hunterston A nuclear power station">Hunterston A</a> (1990)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7em">Oil and gas</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Inverkip_power_station" title="Inverkip power station">Inverkip</a> (1988)</li>
+<li><a href="/wiki/Fife_power_station" title="Fife power station">Fife</a> (2011)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energy_policy_of_Scotland" title="Energy policy of Scotland">Energy policy of Scotland</a></li>
+<li><a href="/wiki/Sustainable_development_in_Scotland" title="Sustainable development in Scotland">Sustainable development in Scotland</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Energy_in_Scotland" title="Category:Energy in Scotland">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Energy_in_Scotland" class="extiw" title="commons:Category:Energy in Scotland"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Sustainable_development_in_Scotland" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sustainable_development_in_Scotland" title="Template:Sustainable development in Scotland"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sustainable_development_in_Scotland" title="Template talk:Sustainable development in Scotland"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainable_development_in_Scotland&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sustainable_development_in_Scotland" style="font-size:114%"><a href="/wiki/Sustainable_development_in_Scotland" title="Sustainable development in Scotland">Sustainable development in Scotland</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Issues</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Climate change</a></li>
+<li><a href="/wiki/Renewable_energy_in_Scotland" title="Renewable energy in Scotland">Renewable energy</a></li>
+<li><a href="/wiki/Wind_power_in_Scotland" title="Wind power in Scotland">Wind power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Projects &amp; Technologies</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Avondale_Landfill" title="Avondale Landfill">Avondale Landfill</a></li>
+<li><a href="/wiki/MV_Hallaig" title="MV Hallaig">MV&#160;<i>Hallaig</i></a></li>
+<li><a href="/wiki/Islay_LIMPET" title="Islay LIMPET">Islay LIMPET</a></li>
+<li><a href="/wiki/Oyster_wave_energy_converter" title="Oyster wave energy converter">Oyster wave energy converter</a></li>
+<li><strong class="selflink">Pelamis Wave Energy Converter</strong></li>
+<li><a href="/wiki/Scotland%E2%80%93Norway_interconnector" class="mw-redirect" title="Scotland–Norway interconnector">Scotland–Norway interconnector</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Private Sector</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aquamarine_Power" title="Aquamarine Power">Aquamarine Power</a></li>
+<li><a href="/wiki/Celtic_Renewables" title="Celtic Renewables">Celtic Renewables</a></li>
+<li><a href="/wiki/North_of_Scotland_Hydro-Electric_Board" title="North of Scotland Hydro-Electric Board">North of Scotland Hydro-Electric Board</a></li>
+<li><a href="/wiki/Pelamis_Wave_Power" title="Pelamis Wave Power">Pelamis Wave Power</a></li>
+<li><a href="/wiki/Wavegen" title="Wavegen">Wavegen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Communities &amp; Individuals</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/David_Reay" title="David Reay">David Reay</a></li>
+<li><a href="/wiki/Findhorn_Ecovillage" title="Findhorn Ecovillage">Findhorn Ecovillage</a></li>
+<li><a href="/wiki/Gigha" title="Gigha">Gigha</a></li>
+<li><a href="/wiki/Kingdom_Housing_Association" title="Kingdom Housing Association">Kingdom Housing Association</a></li>
+<li><a href="/wiki/Scoraig" title="Scoraig">Scoraig</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Intermediaries, Partnerships &amp; Politics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Community_Energy_Scotland" title="Community Energy Scotland">Community Energy Scotland</a></li>
+<li><a href="/wiki/Energy_Saving_Trust" title="Energy Saving Trust">Energy Saving Trust</a></li>
+<li><a href="/wiki/Forum_for_Renewable_Energy_Development_in_Scotland" title="Forum for Renewable Energy Development in Scotland">FREDS</a></li>
+<li><a href="/wiki/Minister_for_Environment_and_Climate_Change" class="mw-redirect" title="Minister for Environment and Climate Change">Minister for Environment and Climate Change</a></li>
+<li><a href="/wiki/Scottish_Green_Party" title="Scottish Green Party">Scottish Green Party</a></li>
+<li><a href="/wiki/Scottish_Renewables" title="Scottish Renewables">Scottish Renewables</a></li>
+<li><a href="/wiki/Transition_Towns" class="mw-redirect" title="Transition Towns">Transition Towns</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Legislation</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Climate_Change_(Scotland)_Act_2009" title="Climate Change (Scotland) Act 2009">Climate Change (Scotland) Act 2009</a></li>
+<li><a href="/wiki/Land_Reform_(Scotland)_Act_2003" title="Land Reform (Scotland) Act 2003">Land Reform (Scotland) Act 2003</a></li>
+<li><a href="/wiki/Marine_(Scotland)_Act_2010" title="Marine (Scotland) Act 2010">Marine (Scotland) Act 2010</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Public_Sector" class="mw-redirect" title="Public Sector">Public Sector</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Centre_for_Social_and_Environmental_Accounting_Research" title="Centre for Social and Environmental Accounting Research">Centre for Social and Environmental Accounting Research</a></li>
+<li><a href="/wiki/Energy_policy_of_Scotland" title="Energy policy of Scotland">Energy policy of Scotland</a></li>
+<li><a href="/wiki/Enterprise,_Environment_and_Digital_Directorates" class="mw-redirect" title="Enterprise, Environment and Digital Directorates">Enterprise, Environment and Digital Directorates</a></li>
+<li><a href="/wiki/European_Marine_Energy_Centre" title="European Marine Energy Centre">European Marine Energy Centre</a></li>
+<li><a href="/wiki/Saltire_Prize" title="Saltire Prize">Saltire Prize</a></li>
+<li><a href="/wiki/Scottish_Environment_Protection_Agency" title="Scottish Environment Protection Agency">SEPA</a></li>
+<li><a href="/wiki/Scottish_Natural_Heritage" title="Scottish Natural Heritage">Scottish Natural Heritage</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1182
+Cached time: 20170308151419
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.204 seconds
+Real time usage: 0.250 seconds
+Preprocessor visited node count: 943/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 79435/2097152 bytes
+Template argument size: 53/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.082/10.000 seconds
+Lua memory usage: 3.72 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  177.999      1 -total
+ 51.44%   91.561      1 Template:Reflist
+ 31.39%   55.870     10 Template:Cite_web
+ 17.66%   31.434      5 Template:Navbox
+ 12.34%   21.971      1 Template:Scottish_energy
+ 12.25%   21.808      1 Template:Renewable_energy_sources
+ 11.49%   20.459      1 Template:Sidebar
+ 10.43%   18.567      5 Template:Cite_news
+  4.38%    7.800      1 Template:Sustainable_development_in_Scotland
+  3.59%    6.399      1 Template:Portal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3510949-0!*!0!!en!4!* and timestamp 20170308151418 and revision id 769178720
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;oldid=769178720">https://en.wikipedia.org/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;oldid=769178720</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2007_introductions" title="Category:2007 introductions">2007 introductions</a></li><li><a href="/wiki/Category:Buildings_and_structures_in_Orkney" title="Category:Buildings and structures in Orkney">Buildings and structures in Orkney</a></li><li><a href="/wiki/Category:Wave_energy_converters" title="Category:Wave energy converters">Wave energy converters</a></li><li><a href="/wiki/Category:Wave_farms_in_Portugal" title="Category:Wave farms in Portugal">Wave farms in Portugal</a></li><li><a href="/wiki/Category:Wave_farms_in_Scotland" title="Category:Wave farms in Scotland">Wave farms in Scotland</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pelamis+Wave+Energy+Converter" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pelamis+Wave+Energy+Converter" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pelamis_Wave_Energy_Converter"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Pelamis_Wave_Energy_Converter"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Pelamis_Wave_Energy_Converter" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pelamis_Wave_Energy_Converter" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pelamis_Wave_Energy_Converter" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;oldid=769178720" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q654422" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pelamis_Wave_Energy_Converter&amp;id=769178720" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pelamis+Wave+Energy+Converter">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Pelamis+Wave+Energy+Converter&amp;returnto=Pelamis+Wave+Energy+Converter&amp;oldid=769178720&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Pelamis" title="Pelamis – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Seeschlange_(Wellenkraftwerk)" title="Seeschlange (Wellenkraftwerk) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Convertidor_de_energ%C3%ADa_de_olas_Pelamis" title="Convertidor de energía de olas Pelamis – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Pelamis_energia_bihurgailua" title="Pelamis energia bihurgailua – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Pelamis_(%C3%A9lectricit%C3%A9)" title="Pelamis (électricité) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Zglobni_plutaju%C4%87i_prigu%C5%A1nik_Pelamis" title="Zglobni plutajući prigušnik Pelamis – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Progetto_Pelamis" title="Progetto Pelamis – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Pelamis" title="Pelamis – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q654422#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 8 March 2017, at 00:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pelamis_Wave_Energy_Converter&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.204","walltime":"0.250","ppvisitednodes":{"value":943,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":79435,"limit":2097152},"templateargumentsize":{"value":53,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  177.999      1 -total"," 51.44%   91.561      1 Template:Reflist"," 31.39%   55.870     10 Template:Cite_web"," 17.66%   31.434      5 Template:Navbox"," 12.34%   21.971      1 Template:Scottish_energy"," 12.25%   21.808      1 Template:Renewable_energy_sources"," 11.49%   20.459      1 Template:Sidebar"," 10.43%   18.567      5 Template:Cite_news","  4.38%    7.800      1 Template:Sustainable_development_in_Scotland","  3.59%    6.399      1 Template:Portal"]},"scribunto":{"limitreport-timeusage":{"value":"0.082","limit":"10.000"},"limitreport-memusage":{"value":3898181,"limit":52428800}},"cachereport":{"origin":"mw1182","timestamp":"20170308151419","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1270"});});</script>
+	</body>
+</html>

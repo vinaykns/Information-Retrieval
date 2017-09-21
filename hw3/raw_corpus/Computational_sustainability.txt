@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Computational sustainability - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Computational_sustainability","wgTitle":"Computational sustainability","wgCurRevisionId":751765479,"wgRevisionId":751765479,"wgArticleId":22721456,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Sustainable development","Computational science","Computational fields of study"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Computational_sustainability","wgRelevantArticleId":22721456,"wgRequestId":"WMdCKApAAD4AAdEhf84AAABC","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5157299","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ecology_Society_Economy_diagram_Environment_background.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Computational_sustainability"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Computational_sustainability&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Computational_sustainability&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Computational_sustainability"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Computational_sustainability rootpage-Computational_sustainability skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Computational sustainability</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">A subtopic of <a href="/wiki/Sustainability" title="Sustainability">sustainability</a></td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Computational_Sustainability" class="mw-redirect" title="Computational Sustainability">Computational Sustainability</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Ecology_Society_Economy_diagram_Environment_background.jpg" class="image"><img alt="Ecology Society Economy diagram Environment background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ecology_Society_Economy_diagram_Environment_background.jpg/220px-Ecology_Society_Economy_diagram_Environment_background.jpg" width="220" height="145" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ecology_Society_Economy_diagram_Environment_background.jpg/330px-Ecology_Society_Economy_diagram_Environment_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ecology_Society_Economy_diagram_Environment_background.jpg/440px-Ecology_Society_Economy_diagram_Environment_background.jpg 2x" data-file-width="1035" data-file-height="682" /></a></td>
+</tr>
+<tr>
+<th style="padding:0.1em">Also relevant to:</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em"><a href="/wiki/Global_Warming" class="mw-redirect" title="Global Warming">Global Warming</a> <a href="/wiki/Renewable_Energy" class="mw-redirect" title="Renewable Energy">Renewable Energy</a> <a href="/wiki/Sustainable_Development" class="mw-redirect" title="Sustainable Development">Sustainable Development</a></td>
+</tr>
+<tr>
+<th style="padding:0.1em">Aspects of Computational Sustainability:</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em"><a href="/wiki/Smart_Grid" class="mw-redirect" title="Smart Grid">Smart Grid</a> <a href="/wiki/Sustainable_Agriculture" class="mw-redirect" title="Sustainable Agriculture">Sustainable Agriculture</a> <a href="/wiki/Intelligent_Transportation_Systems" class="mw-redirect" title="Intelligent Transportation Systems">Intelligent Transportation Systems</a> <a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Computational_sustainability_sidebar" title="Template:Computational sustainability sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Computational_sustainability_sidebar&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Computational sustainability sidebar (page does not exist)"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computational_sustainability_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Computational sustainability</b> is a broad field that attempts to optimize societal, economic, and environmental resources using methods from <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a> fields.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <a href="/wiki/Sustainability" title="Sustainability">Sustainability</a> in this context is the ability to produce enough energy for the world to support its biological systems. Using the power of computers to process large quantities of information, decision making algorithms allocate resources based on real-time information.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Applications are widespread. <a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a>s implement renewable resources and storage capabilities to control the production and expenditure of energy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <a href="/wiki/Intelligent_transportation_system" title="Intelligent transportation system">Intelligent transportation system</a> analyze road conditions and relay information to drivers so they can make smarter decisions based on real time traffic information.<sup id="cite_ref-:1_4-0" class="reference"><a href="#cite_note-:1-4">[4]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Transportation"><span class="tocnumber">1</span> <span class="toctext">Transportation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Utilities"><span class="tocnumber">2</span> <span class="toctext">Utilities</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computational_sustainability&amp;action=edit&amp;section=1" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Intelligent Transportation Systems (ITS) seek to improve safety and travel times while minimizing <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> emissions for all travelers, though focusing mainly on drivers. ITS has two systems: one for data collection/relaying, and another for data processing. <a href="/wiki/Data_collection" title="Data collection">Data collection</a> can be achieved with video cameras over busy areas, sensors that detect various pieces from location of certain vehicles to infrastructure that's breaking down, and even drivers who notice an accident and use a <a href="/wiki/Mobile_app" title="Mobile app">mobile app</a>, like <a href="/wiki/Waze" title="Waze">Waze</a>, to report its whereabouts.<sup id="cite_ref-:1_4-1" class="reference"><a href="#cite_note-:1-4">[4]</a></sup><sup id="cite_ref-:2_5-0" class="reference"><a href="#cite_note-:2-5">[5]</a></sup></p>
+<p>Advanced Public Transportation Systems (APTS) aim to make public transportation more efficient and convenient for its riders. Electronic payment methods allow users to add money to their <a href="/wiki/Smart_card" title="Smart card">smart card</a>s at stations and online. APTS relay information to transit facilities about current vehicle locations to give riders expected wait times on screens at stations and directly to customers' smart phones. Advanced Traffic Management Systems (ATMS) collect information using cameras and other sensors that gather information regarding how congested roads are. <a href="/wiki/Ramp_meter" title="Ramp meter">Ramp meters</a> regulate the number of cars entering highways to limit backups. Traffic signals use algorithms to optimize travel times depending on the number of cars on the road. Electronic highway signs relay information regarding travel times, detours, and accidents that may affect drivers ability to reach their destination.<sup id="cite_ref-:2_5-1" class="reference"><a href="#cite_note-:2-5">[5]</a></sup></p>
+<p>With the rise of consumer connectivity, less infrastructure is needed for these ITS to make informed decisions.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> <a href="/wiki/Google_Maps" title="Google Maps">Google Maps</a> uses smartphone crowdsourcing to get information about real-time traffic conditions allowing motorists to make decisions based on toll roads, travel times, and overall distance traveled.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Cars communicate with their manufacturers to remotely install software updates when new features are added or bugs are being patched.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> <a href="/wiki/Tesla_Motors" class="mw-redirect" title="Tesla Motors">Tesla Motors</a> even uses these updates to increase their cars efficiency and performance.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> These connections give ITS a means to accurately collect information and even relay that information to drivers with no other infrastructure needed.</p>
+<p>Future ITS systems will aid in car communication with not just the infrastructure, but with other cars as well.<sup id="cite_ref-:1_4-2" class="reference"><a href="#cite_note-:1-4">[4]</a></sup><sup id="cite_ref-:2_5-2" class="reference"><a href="#cite_note-:2-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Utilities">Utilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computational_sustainability&amp;action=edit&amp;section=2" title="Edit section: Utilities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Electrical_grid" title="Electrical grid">electrical grid</a> was designed to send consumers electricity from <a href="/wiki/Electric_generator" title="Electric generator">electricity generators</a> for a monthly fee based on usage. Homeowners are installing <a href="/wiki/Solar_panel" title="Solar panel">solar panels</a> and large batteries to store the power created by these panels. A <a href="/wiki/Smart_grid" title="Smart grid">smart grid</a> is being created to accommodate the new energy sources. Rather than just electricity being sent to a household to be consumed by the various appliances in the home, electricity can flow in either direction. Additional sensors along the grid will improve information collection and decreased downtime during power outages. These sensors can also relay information directly to consumers about how much energy they're using and what the costs will be.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computational_sustainability&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/EBird" title="EBird">eBird</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Green computing</a></li>
+<li><a href="/wiki/Institute_for_Computational_Sustainability" title="Institute for Computational Sustainability">Institute for Computational Sustainability</a> (ICS)</li>
+<li><a href="/wiki/The_Nature_Conservancy" title="The Nature Conservancy">The Nature Conservancy</a></li>
+<li><a href="/wiki/United_States_Fish_and_Wildlife_Service" title="United States Fish and Wildlife Service">United States Fish and Wildlife Service</a></li>
+<li><a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">United States Geological Survey</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computational_sustainability&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computational-sustainability.org/">"www.computational-sustainability.org"</a>. <i>www.computational-sustainability.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputational+sustainability&amp;rft.atitle=www.computational-sustainability.org&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computational-sustainability.org%2F&amp;rft.jtitle=www.computational-sustainability.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://delivery.acm.org/10.1145/1570000/1562174/p23-frenkel.pdf?ip=73.234.206.61&amp;id=1562174&amp;acc=OPEN&amp;key=4D4702B0C3E38B35%252E4D4702B0C3E38B35%252E4D4702B0C3E38B35%252E6D218144511F3437&amp;CFID=594460368&amp;CFTOKEN=33596010&amp;__acm__=1458873213_60e5758f5509c54d6c6abc8c305ffbc8">"Unknown"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1570000%2F1562174%2Fp23-frenkel.pdf">10.1145/1570000/1562174/p23-frenkel.pdf</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputational+sustainability&amp;rft.atitle=Unknown&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdelivery.acm.org%2F10.1145%2F1570000%2F1562174%2Fp23-frenkel.pdf%3Fip%3D73.234.206.61%26id%3D1562174%26acc%3DOPEN%26key%3D4D4702B0C3E38B35%25252E4D4702B0C3E38B35%25252E4D4702B0C3E38B35%25252E6D218144511F3437%26CFID%3D594460368%26CFTOKEN%3D33596010%26__acm__%3D1458873213_60e5758f5509c54d6c6abc8c305ffbc8&amp;rft_id=info%3Adoi%2F10.1145%2F1570000%2F1562174%2Fp23-frenkel.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.compsust.net/">"CompSustNet: Home"</a>. <i>www.compsust.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputational+sustainability&amp;rft.atitle=CompSustNet%3A+Home&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.compsust.net%2F&amp;rft.jtitle=www.compsust.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Guerrero-ibanez, J. A.; Zeadally, S.; Contreras-Castillo, J. (2015-12-01). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7368833">"Integration challenges of intelligent transportation systems with connected vehicle, cloud computing, and internet of things technologies"</a>. <i>IEEE Wireless Communications</i>. <b>22</b> (6): 122–128. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FMWC.2015.7368833">10.1109/MWC.2015.7368833</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1536-1284">1536-1284</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputational+sustainability&amp;rft.atitle=Integration+challenges+of+intelligent+transportation+systems+with+connected+vehicle%2C+cloud+computing%2C+and+internet+of+things+technologies&amp;rft.au=Contreras-Castillo%2C+J.&amp;rft.aufirst=J.+A.&amp;rft.aulast=Guerrero-ibanez&amp;rft.au=Zeadally%2C+S.&amp;rft.date=2015-12-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7368833&amp;rft_id=info%3Adoi%2F10.1109%2FMWC.2015.7368833&amp;rft.issn=1536-1284&amp;rft.issue=6&amp;rft.jtitle=IEEE+Wireless+Communications&amp;rft.pages=122-128&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:2-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:2_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Timotheou, Stelios; Panayiotou, Christos G.; Polycarpou, Marios M. (2015-01-01). Kyriakides, Elias; Polycarpou, Marios, eds. <a rel="nofollow" class="external text" href="http://link.springer.com/chapter/10.1007/978-3-662-44160-2_5"><i>Transportation Systems: Monitoring, Control, and Security</i></a>. Studies in Computational Intelligence. Springer Berlin Heidelberg. pp.&#160;125–166. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9783662441596" title="Special:BookSources/9783662441596">9783662441596</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputational+sustainability&amp;rft.aufirst=Stelios&amp;rft.aulast=Timotheou&amp;rft.au=Panayiotou%2C+Christos+G.&amp;rft.au=Polycarpou%2C+Marios+M.&amp;rft.btitle=Transportation+Systems%3A+Monitoring%2C+Control%2C+and+Security&amp;rft.date=2015-01-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-662-44160-2_5&amp;rft.isbn=9783662441596&amp;rft.pages=125-166&amp;rft.pub=Springer+Berlin+Heidelberg&amp;rft.series=Studies+in+Computational+Intelligence&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.thinkwithgoogle.com/articles/shift-to-constant-connectivity.html">"The Shift to Constant Connectivity"</a>. <i>Think with Google</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputational+sustainability&amp;rft.atitle=The+Shift+to+Constant+Connectivity&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.thinkwithgoogle.com%2Farticles%2Fshift-to-constant-connectivity.html&amp;rft.jtitle=Think+with+Google&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ncta.com/platform/broadband-internet/how-google-tracks-traffic/">"How Google Tracks Traffic"</a>. <i>www.ncta.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputational+sustainability&amp;rft.atitle=How+Google+Tracks+Traffic&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.ncta.com%2Fplatform%2Fbroadband-internet%2Fhow-google-tracks-traffic%2F&amp;rft.jtitle=www.ncta.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.digitaltrends.com/cars/wireless-updates-to-core-automotive-functions-could-spell-privacy-troubles/">"Your next car will update itself while you sleep, and maybe watch you too"</a>. <i>Digital Trends</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputational+sustainability&amp;rft.atitle=Your+next+car+will+update+itself+while+you+sleep%2C+and+maybe+watch+you+too&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.digitaltrends.com%2Fcars%2Fwireless-updates-to-core-automotive-functions-could-spell-privacy-troubles%2F&amp;rft.jtitle=Digital+Trends&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.telegraph.co.uk/technology/news/11378880/Tesla-software-update-did-your-car-just-get-faster.html">"Tesla software update: did your car just get faster?"</a>. <i>Telegraph.co.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputational+sustainability&amp;rft.atitle=Tesla+software+update%3A+did+your+car+just+get+faster%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Ftechnology%2Fnews%2F11378880%2FTesla-software-update-did-your-car-just-get-faster.html&amp;rft.jtitle=Telegraph.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ucsusa.org/publications/catalyst/fa14-solar-power-on-the-rise.html#.VwbE4hMrKu4">"Solar Power on the Rise"</a>. <i>Union of Concerned Scientists</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputational+sustainability&amp;rft.atitle=Solar+Power+on+the+Rise&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ucsusa.org%2Fpublications%2Fcatalyst%2Ffa14-solar-power-on-the-rise.html%23.VwbE4hMrKu4&amp;rft.jtitle=Union+of+Concerned+Scientists&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computational_sustainability&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikibooks-logo-en-noslogan.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></a></td>
+<td class="mbox-text plainlist">Wikibooks has a book on the topic of: <i><b><a href="https://en.wikibooks.org/wiki/Artificial_Intelligence_for_Computational_Sustainability:_A_Lab_Companion" class="extiw" title="wikibooks:Artificial Intelligence for Computational Sustainability: A Lab Companion">Artificial Intelligence for Computational Sustainability: A Lab Companion</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.computational-sustainability.org/">Computational Sustainability</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cis.cornell.edu/ics">Institute for Computational Sustainability (ICS)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ifgict.org">International Federation of Green ICT</a></li>
+<li><a rel="nofollow" class="external text" href="http://blog.computational-sustainability.org/">Computational Sustainability Blog</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1181
+Cached time: 20170219134742
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.112 seconds
+Real time usage: 0.140 seconds
+Preprocessor visited node count: 589/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 24288/2097152 bytes
+Template argument size: 661/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 2.5 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  116.034      1 -total
+ 65.60%   76.116      1 Template:Reflist
+ 40.05%   46.471      7 Template:Cite_web
+ 17.52%   20.332      1 Template:Computational_sustainability_sidebar
+ 16.31%   18.923      1 Template:Sidebar
+  9.81%   11.379      1 Template:Wikibooks
+  8.30%    9.634      1 Template:Sister_project
+  7.19%    8.339      2 Template:Cite_journal
+  6.72%    7.795      1 Template:Side_box
+  5.03%    5.836      1 Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22721456-0!*!0!!en!4!* and timestamp 20170219134742 and revision id 751765479
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Computational_sustainability&amp;oldid=751765479">https://en.wikipedia.org/w/index.php?title=Computational_sustainability&amp;oldid=751765479</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sustainable_development" title="Category:Sustainable development">Sustainable development</a></li><li><a href="/wiki/Category:Computational_science" title="Category:Computational science">Computational science</a></li><li><a href="/wiki/Category:Computational_fields_of_study" title="Category:Computational fields of study">Computational fields of study</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Computational+sustainability" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Computational+sustainability" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Computational_sustainability"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Computational_sustainability"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Computational_sustainability" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Computational_sustainability&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Computational_sustainability&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Computational_sustainability" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Computational_sustainability" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Computational_sustainability&amp;oldid=751765479" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Computational_sustainability&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5157299" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Computational_sustainability&amp;id=751765479" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Computational+sustainability">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Computational+sustainability&amp;returnto=Computational+sustainability&amp;oldid=751765479&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Computational_sustainability&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q5157299#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 November 2016, at 18:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Computational_sustainability&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.140","ppvisitednodes":{"value":589,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":24288,"limit":2097152},"templateargumentsize":{"value":661,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  116.034      1 -total"," 65.60%   76.116      1 Template:Reflist"," 40.05%   46.471      7 Template:Cite_web"," 17.52%   20.332      1 Template:Computational_sustainability_sidebar"," 16.31%   18.923      1 Template:Sidebar","  9.81%   11.379      1 Template:Wikibooks","  8.30%    9.634      1 Template:Sister_project","  7.19%    8.339      2 Template:Cite_journal","  6.72%    7.795      1 Template:Side_box","  5.03%    5.836      1 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.051","limit":"10.000"},"limitreport-memusage":{"value":2624032,"limit":52428800}},"cachereport":{"origin":"mw1181","timestamp":"20170219134742","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1267"});});</script>
+	</body>
+</html>

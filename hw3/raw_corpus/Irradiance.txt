@@ -1,0 +1,1005 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Irradiance - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Irradiance","wgTitle":"Irradiance","wgCurRevisionId":763411880,"wgRevisionId":763411880,"wgArticleId":556970,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Physical quantities","Radiometry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Irradiance","wgRelevantArticleId":556970,"wgRequestId":"WLznugpAIDIAADk-Kr4AAAAP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q830654","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Irradiance"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Irradiance&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Irradiance&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Irradiance"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Irradiance rootpage-Irradiance skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Irradiance</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>In <a href="/wiki/Radiometry" title="Radiometry">radiometry</a>, <b>irradiance</b> is the <a href="/wiki/Radiant_flux" title="Radiant flux">radiant flux</a> (<a href="/wiki/Power_(physics)" title="Power (physics)">power</a>) <i>received</i> by a <i>surface</i> per unit area. The <a href="/wiki/International_System_of_Units" title="International System of Units">SI unit</a> of irradiance is the <a href="/wiki/Watt" title="Watt">watt</a> per square metre (<span class="nowrap">W/m<sup>2</sup></span>). The <a href="/wiki/Centimetre%E2%80%93gram%E2%80%93second_system_of_units" title="Centimetre–gram–second system of units">CGS unit</a> <a href="/wiki/Erg" title="Erg">erg</a> per square centimetre per second (<span class="nowrap">erg·cm<sup>−2</sup>·s<sup>−1</sup></span>) is often used in <a href="/wiki/Astronomy" title="Astronomy">astronomy</a>. Irradiance is often called "intensity" in branches of physics other than radiometry, but in radiometry this usage leads to confusion with <a href="/wiki/Radiant_intensity" title="Radiant intensity">radiant intensity</a>.</p>
+<p><b>Spectral irradiance</b> is the irradiance of a surface per unit <a href="/wiki/Frequency" title="Frequency">frequency</a> or <a href="/wiki/Wavelength" title="Wavelength">wavelength</a>, depending on whether the <a href="/wiki/Spectral_radiometric_quantity" class="mw-redirect" title="Spectral radiometric quantity">spectrum</a> is taken as a function of frequency or of wavelength. The two forms have different <a href="/wiki/Dimensional_analysis" title="Dimensional analysis">dimensions</a>: spectral irradiance of a frequency spectrum is measured in watts per square metre per <a href="/wiki/Hertz" title="Hertz">hertz</a> (W·m<sup>−2</sup>·Hz<sup>−1</sup>), while spectral irradiance of a wavelength spectrum is measured in watts per square metre per metre (W·m<sup>−3</sup>), or more commonly watts per square metre per nanometre (<span class="nowrap">W·m<sup>−2</sup>·nm<sup>−1</sup></span>).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mathematical_definitions"><span class="tocnumber">1</span> <span class="toctext">Mathematical definitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Irradiance"><span class="tocnumber">1.1</span> <span class="toctext">Irradiance</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Spectral_irradiance"><span class="tocnumber">1.2</span> <span class="toctext">Spectral irradiance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Property"><span class="tocnumber">2</span> <span class="toctext">Property</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Solar_energy"><span class="tocnumber">3</span> <span class="toctext">Solar energy</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#SI_radiometry_units"><span class="tocnumber">4</span> <span class="toctext">SI radiometry units</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Mathematical_definitions">Mathematical definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irradiance&amp;action=edit&amp;section=1" title="Edit section: Mathematical definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Irradiance">Irradiance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irradiance&amp;action=edit&amp;section=2" title="Edit section: Irradiance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Irradiance of a surface, denoted <i>E</i><sub>e</sub> ("e" for "energetic", to avoid confusion with <a href="/wiki/Photometry_(optics)" title="Photometry (optics)">photometric</a> quantities), is defined as<sup id="cite_ref-ISO_9288-1989_1-0" class="reference"><a href="#cite_note-ISO_9288-1989-1">[1]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">e</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <msub>
+                <mi mathvariant="normal">&#x03A6;<!-- Φ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">e</mi>
+                  </mrow>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <mi>A</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {e} }={\frac {\partial \Phi _{\mathrm {e} }}{\partial A}},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a76d17f67ad47160f71360a135c890a95fdcb290" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:11.284ex; height:5.509ex;" alt="E_{{\mathrm  {e}}}={\frac  {\partial \Phi _{{\mathrm  {e}}}}{\partial A}}," /></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li>∂ is the <a href="/wiki/Partial_derivative" title="Partial derivative">partial derivative</a> symbol;</li>
+<li>Φ<sub>e</sub> is the radiant flux received;</li>
+<li><i>A</i> is the area.</li>
+</ul>
+<p>If we want to talk about the radiant flux <i>emitted</i> by a surface, we speak of <a href="/wiki/Radiant_exitance" title="Radiant exitance">radiant exitance</a>.</p>
+<h3><span class="mw-headline" id="Spectral_irradiance">Spectral irradiance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irradiance&amp;action=edit&amp;section=3" title="Edit section: Spectral irradiance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Spectral irradiance in frequency of a surface, denoted <i>E</i><sub>e,ν</sub>, is defined as<sup id="cite_ref-ISO_9288-1989_1-1" class="reference"><a href="#cite_note-ISO_9288-1989-1">[1]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">e</mi>
+            </mrow>
+            <mo>,</mo>
+            <mi>&#x03BD;<!-- ν --></mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <msub>
+                <mi>E</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">e</mi>
+                  </mrow>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <mi>&#x03BD;<!-- ν --></mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {e} ,\nu }={\frac {\partial E_{\mathrm {e} }}{\partial \nu }},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dfd3ff9683e4be0e69140bfa43a4dc7e7f18801a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:12.665ex; height:5.509ex;" alt="E_{{{\mathrm  {e}},\nu }}={\frac  {\partial E_{{\mathrm  {e}}}}{\partial \nu }}," /></span></dd>
+</dl>
+<p>where <i>ν</i> is the frequency.</p>
+<p>Spectral irradiance in wavelength of a surface, denoted <i>E</i><sub>e,λ</sub>, is defined as<sup id="cite_ref-ISO_9288-1989_1-2" class="reference"><a href="#cite_note-ISO_9288-1989-1">[1]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">e</mi>
+            </mrow>
+            <mo>,</mo>
+            <mi>&#x03BB;<!-- λ --></mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <msub>
+                <mi>E</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">e</mi>
+                  </mrow>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <mi>&#x03BB;<!-- λ --></mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {e} ,\lambda }={\frac {\partial E_{\mathrm {e} }}{\partial \lambda }},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1151bb1a95404c89594ea9e21c59e6ff64d61cac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:12.752ex; height:5.509ex;" alt="E_{{{\mathrm  {e}},\lambda }}={\frac  {\partial E_{{\mathrm  {e}}}}{\partial \lambda }}," /></span></dd>
+</dl>
+<p>where <i>λ</i> is the wavelength.</p>
+<h2><span class="mw-headline" id="Property">Property</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irradiance&amp;action=edit&amp;section=4" title="Edit section: Property">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Irradiance of a surface is also, according to the definition of <a href="/wiki/Radiant_flux" title="Radiant flux">radiant flux</a>, equal to the time-average of the component of the <a href="/wiki/Poynting_vector" title="Poynting vector">Poynting vector</a> perpendicular to the surface:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">e</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo fence="false" stretchy="false">&#x27E8;<!-- ⟨ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">S</mi>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mi>&#x03B1;<!-- α --></mi>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {e} }=\langle |\mathbf {S} |\rangle \cos \alpha ,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a6ed30a75fccdf6d37aa518dc626018165df7494" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:16.517ex; height:2.843ex;" alt="E_{{\mathrm  {e}}}=\langle |{\mathbf  {S}}|\rangle \cos \alpha ," /></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li>&lt; • &gt; is the time-average;</li>
+<li><b>S</b> is the Poynting vector;</li>
+<li><i>α</i> is the angle between a unit vector <a href="/wiki/Normal_(geometry)" title="Normal (geometry)">normal</a> to the surface and <b>S</b>.</li>
+</ul>
+<p>For a propagating <i>sinusoidal</i> <a href="/wiki/Linear_polarisation" class="mw-redirect" title="Linear polarisation">linearly polarized</a> electromagnetic <a href="/wiki/Plane_wave" title="Plane wave">plane wave</a>, the Poynting vector always points to the direction of propagation while oscillating in magnitude. The irradiance of a surface is then given by<sup id="cite_ref-griffiths_2-0" class="reference"><a href="#cite_note-griffiths-2">[2]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">e</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>n</mi>
+            <mrow>
+              <mn>2</mn>
+              <msub>
+                <mi>&#x03BC;<!-- μ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>0</mn>
+                </mrow>
+              </msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">c</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <msubsup>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">m</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mi>&#x03B1;<!-- α --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>n</mi>
+              <msub>
+                <mi>&#x03B5;<!-- ε --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>0</mn>
+                </mrow>
+              </msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">c</mi>
+              </mrow>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <msubsup>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">m</mi>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mi>&#x03B1;<!-- α --></mi>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {e} }={\frac {n}{2\mu _{0}\mathrm {c} }}E_{\mathrm {m} }^{2}\cos \alpha ={\frac {n\varepsilon _{0}\mathrm {c} }{2}}E_{\mathrm {m} }^{2}\cos \alpha ,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6639278694373cf4bb427826acafa7f87167f8fe" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:38.034ex; height:5.343ex;" alt="E_{{\mathrm  {e}}}={\frac  {n}{2\mu _{0}{\mathrm  {c}}}}E_{{\mathrm  {m}}}^{2}\cos \alpha ={\frac  {n\varepsilon _{0}{\mathrm  {c}}}{2}}E_{{\mathrm  {m}}}^{2}\cos \alpha ," /></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><i>E</i><sub>m</sub> is the amplitude of the wave's electric field;</li>
+<li><i>n</i> is the <a href="/wiki/Refractive_index" title="Refractive index">refractive index</a> of the medium of propagation;</li>
+<li>c is the <a href="/wiki/Speed_of_light" title="Speed of light">speed of light</a> in <a href="/wiki/Vacuum" title="Vacuum">vacuum</a>;</li>
+<li>μ<sub>0</sub> is the <a href="/wiki/Vacuum_permeability" title="Vacuum permeability">vacuum permeability</a>;</li>
+<li>ε<sub>0</sub> is the <a href="/wiki/Vacuum_permittivity" title="Vacuum permittivity">vacuum permittivity</a>.</li>
+</ul>
+<p>This formula assumes that the <a href="/wiki/Magnetic_susceptibility" title="Magnetic susceptibility">magnetic susceptibility</a> is negligible, i.e. that <i>μ</i><sub>r</sub> ≈ 1 where <i>μ</i><sub>r</sub> is the <a href="/wiki/Magnetic_permeability" class="mw-redirect" title="Magnetic permeability">magnetic permeability</a> of the propagation medium. This assumption is typically valid in transparent media in the <a href="/wiki/Visible_spectrum" title="Visible spectrum">optical frequency range</a>.</p>
+<h2><span class="mw-headline" id="Solar_energy">Solar energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irradiance&amp;action=edit&amp;section=5" title="Edit section: Solar energy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The global irradiance on a horizontal surface on Earth consists of the direct irradiance <i>E</i><sub>e,dir</sub> and diffuse irradiance <i>E</i><sub>e,diff</sub>. On a tilted plane, there is another irradiance component, <i>E</i><sub>e,refl</sub>, which is the component that is reflected from the ground. The average ground reflection is about 20% of the global irradiance. Hence, the irradiance <i>E</i><sub>e</sub> on a tilted plane consists of three components:<sup id="cite_ref-Quaschning_3-0" class="reference"><a href="#cite_note-Quaschning-3">[3]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">e</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">e</mi>
+            </mrow>
+            <mo>,</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">d</mi>
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">r</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">e</mi>
+            </mrow>
+            <mo>,</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">d</mi>
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">f</mi>
+              <mi mathvariant="normal">f</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">e</mi>
+            </mrow>
+            <mo>,</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">r</mi>
+              <mi mathvariant="normal">e</mi>
+              <mi mathvariant="normal">f</mi>
+              <mi mathvariant="normal">l</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {e} }=E_{\mathrm {e} ,\mathrm {dir} }+E_{\mathrm {e} ,\mathrm {diff} }+E_{\mathrm {e} ,\mathrm {refl} }.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/35e368fc1e576179b09ac29deba5038d28c73096" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:28.779ex; height:2.843ex;" alt="E_{{\mathrm  {e}}}=E_{{{\mathrm  {e}},{\mathrm  {dir}}}}+E_{{{\mathrm  {e}},{\mathrm  {diff}}}}+E_{{{\mathrm  {e}},{\mathrm  {refl}}}}." /></span></dd>
+</dl>
+<p>The <a href="/wiki/Integral" title="Integral">integral</a> of solar irradiance over a time period is called "<a href="/wiki/Radiant_exposure" title="Radiant exposure">solar exposure</a>" or "<a href="/wiki/Insolation" class="mw-redirect" title="Insolation">insolation</a>".<sup id="cite_ref-Quaschning_3-1" class="reference"><a href="#cite_note-Quaschning-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="SI_radiometry_units">SI radiometry units</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irradiance&amp;action=edit&amp;section=6" title="Edit section: SI radiometry units">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span id="table-si-radiometry-units"></span></p>
+<div style="text-align:center; position:relative; white-space:nowrap;"><span style="font-size:130%;"><b>SI radiometry units</b></span>
+<div class="plainlinks hlist navbar mini" style="position:absolute; right:0; top:0; margin:0 5px;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:SI_radiometry_units" title="Template:SI radiometry units"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:SI_radiometry_units" title="Template talk:SI radiometry units"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:SI_radiometry_units&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</div>
+<table class="wikitable" style="margin: 1em auto 1em auto">
+<tr>
+<th colspan="2">Quantity</th>
+<th colspan="2">Unit</th>
+<th>Dimension</th>
+<th rowspan="2">Notes</th>
+</tr>
+<tr>
+<th><small>Name</small></th>
+<th><small>Symbol</small><sup id="cite_ref-note-suffix-e_5-0" class="reference"><a href="#cite_note-note-suffix-e-5">[nb 1]</a></sup></th>
+<th scope="col" style="width: 10em;"><small>Name</small></th>
+<th><small>Symbol</small></th>
+<th><small>Symbol</small></th>
+</tr>
+<tr>
+<td><a href="/wiki/Radiant_energy" title="Radiant energy">Radiant energy</a></td>
+<td><i>Q</i><sub>e</sub><sup id="cite_ref-note-alternative-symbol-radiometric_6-0" class="reference"><a href="#cite_note-note-alternative-symbol-radiometric-6">[nb 2]</a></sup></td>
+<td><a href="/wiki/Joule" title="Joule">joule</a></td>
+<td><a href="/wiki/Joule" title="Joule">J</a></td>
+<td><b>M</b>⋅<b>L</b><sup>2</sup>⋅<b>T</b><sup>−2</sup></td>
+<td>Energy of electromagnetic radiation.</td>
+</tr>
+<tr>
+<td style="white-space:nowrap"><a href="/wiki/Radiant_energy_density" title="Radiant energy density">Radiant energy density</a></td>
+<td><i>w</i><sub>e</sub></td>
+<td>joule per cubic metre</td>
+<td>J/m<sup>3</sup></td>
+<td><b>M</b>⋅<b>L</b><sup>−1</sup>⋅<b>T</b><sup>−2</sup></td>
+<td>Radiant energy per unit volume.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiant_flux" title="Radiant flux">Radiant flux</a></td>
+<td>Φ<sub>e</sub><sup id="cite_ref-note-alternative-symbol-radiometric_6-1" class="reference"><a href="#cite_note-note-alternative-symbol-radiometric-6">[nb 2]</a></sup></td>
+<td><a href="/wiki/Watt" title="Watt">watt</a></td>
+<td><a href="/wiki/Watt" title="Watt">W</a> <i>or</i> J/s</td>
+<td><b>M</b>⋅<b>L</b><sup>2</sup>⋅<b>T</b><sup>−3</sup></td>
+<td>Radiant energy emitted, reflected, transmitted or received, per unit time. This is sometimes also called "radiant power".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiant_flux" title="Radiant flux">Spectral flux</a></td>
+<td>Φ<sub>e,ν</sub><sup id="cite_ref-note-suffix-nu_7-0" class="reference"><a href="#cite_note-note-suffix-nu-7">[nb 3]</a></sup><br />
+or<br />
+Φ<sub>e,λ</sub><sup id="cite_ref-note-suffix-lambda_8-0" class="reference"><a href="#cite_note-note-suffix-lambda-8">[nb 4]</a></sup></td>
+<td>watt per <a href="/wiki/Hertz" title="Hertz">hertz</a><br />
+<i>or</i><br />
+watt per metre</td>
+<td>W/<a href="/wiki/Hertz" title="Hertz">Hz</a><br />
+<i>or</i><br />
+W/m</td>
+<td><b>M</b>⋅<b>L</b><sup>2</sup>⋅<b>T</b><sup>−2</sup><br />
+<i>or</i><br />
+<b>M</b>⋅<b>L</b>⋅<b>T</b><sup>−3</sup></td>
+<td>Radiant flux per unit frequency or wavelength. The latter is commonly measured in W⋅sr<sup>−1</sup>⋅m<sup>−2</sup>⋅nm<sup>−1</sup>.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiant_intensity" title="Radiant intensity">Radiant intensity</a></td>
+<td><i>I</i><sub>e,Ω</sub><sup id="cite_ref-note-suffix-omega_9-0" class="reference"><a href="#cite_note-note-suffix-omega-9">[nb 5]</a></sup></td>
+<td>watt per <a href="/wiki/Steradian" title="Steradian">steradian</a></td>
+<td>W/<a href="/wiki/Steradian" title="Steradian">sr</a></td>
+<td><b>M</b>⋅<b>L</b><sup>2</sup>⋅<b>T</b><sup>−3</sup></td>
+<td>Radiant flux emitted, reflected, transmitted or received, per unit solid angle. This is a <i>directional</i> quantity.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiant_intensity" title="Radiant intensity">Spectral intensity</a></td>
+<td><i>I</i><sub>e,Ω,ν</sub><sup id="cite_ref-note-suffix-nu_7-1" class="reference"><a href="#cite_note-note-suffix-nu-7">[nb 3]</a></sup><br />
+or<br />
+<i>I</i><sub>e,Ω,λ</sub><sup id="cite_ref-note-suffix-lambda_8-1" class="reference"><a href="#cite_note-note-suffix-lambda-8">[nb 4]</a></sup></td>
+<td>watt per steradian per hertz<br />
+<i>or</i><br />
+watt per steradian per metre</td>
+<td>W⋅sr<sup>−1</sup>⋅Hz<sup>−1</sup><br />
+<i>or</i><br />
+W⋅sr<sup>−1</sup>⋅m<sup>−1</sup></td>
+<td><b>M</b>⋅<b>L</b><sup>2</sup>⋅<b>T</b><sup>−2</sup><br />
+<i>or</i><br />
+<b>M</b>⋅<b>L</b>⋅<b>T</b><sup>−3</sup></td>
+<td>Radiant intensity per unit frequency or wavelength. The latter is commonly measured in W⋅sr<sup>−1</sup>⋅m<sup>−2</sup>⋅nm<sup>−1</sup>. This is a <i>directional</i> quantity.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiance" title="Radiance">Radiance</a></td>
+<td><i>L</i><sub>e,Ω</sub><sup id="cite_ref-note-suffix-omega_9-1" class="reference"><a href="#cite_note-note-suffix-omega-9">[nb 5]</a></sup></td>
+<td>watt per steradian per square metre</td>
+<td>W⋅sr<sup>−1</sup>⋅m<sup>−2</sup></td>
+<td><b>M</b>⋅<b>T</b><sup>−3</sup></td>
+<td>Radiant flux emitted, reflected, transmitted or received by a <i>surface</i>, per unit solid angle per unit projected area. This is a <i>directional</i> quantity. This is sometimes also confusingly called "intensity".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiance" title="Radiance">Spectral radiance</a></td>
+<td><i>L</i><sub>e,Ω,ν</sub><sup id="cite_ref-note-suffix-nu_7-2" class="reference"><a href="#cite_note-note-suffix-nu-7">[nb 3]</a></sup><br />
+or<br />
+<i>L</i><sub>e,Ω,λ</sub><sup id="cite_ref-note-suffix-lambda_8-2" class="reference"><a href="#cite_note-note-suffix-lambda-8">[nb 4]</a></sup></td>
+<td>watt per steradian per square metre per hertz<br />
+<i>or</i><br />
+watt per steradian per square metre, per metre</td>
+<td>W⋅sr<sup>−1</sup>⋅m<sup>−2</sup>⋅Hz<sup>−1</sup><br />
+<i>or</i><br />
+W⋅sr<sup>−1</sup>⋅m<sup>−3</sup></td>
+<td><b>M</b>⋅<b>T</b><sup>−2</sup><br />
+<i>or</i><br />
+<b>M</b>⋅<b>L</b><sup>−1</sup>⋅<b>T</b><sup>−3</sup></td>
+<td>Radiance of a <i>surface</i> per unit frequency or wavelength. The latter is commonly measured in W⋅sr<sup>−1</sup>⋅m<sup>−2</sup>⋅nm<sup>−1</sup>. This is a <i>directional</i> quantity. This is sometimes also confusingly called "spectral intensity".</td>
+</tr>
+<tr>
+<td><strong class="selflink">Irradiance</strong><br />
+<a href="/wiki/Flux_density" class="mw-redirect" title="Flux density">Flux density</a></td>
+<td><i>E</i><sub>e</sub><sup id="cite_ref-note-alternative-symbol-radiometric_6-2" class="reference"><a href="#cite_note-note-alternative-symbol-radiometric-6">[nb 2]</a></sup></td>
+<td>watt per square metre</td>
+<td>W/m<sup>2</sup></td>
+<td><b>M</b>⋅<b>T</b><sup>−3</sup></td>
+<td>Radiant flux <i>received</i> by a <i>surface</i> per unit area. This is sometimes also confusingly called "intensity".</td>
+</tr>
+<tr>
+<td style="white-space:nowrap"><strong class="selflink">Spectral irradiance</strong><br />
+<a href="/wiki/Spectral_flux_density" title="Spectral flux density">Spectral flux density</a></td>
+<td><i>E</i><sub>e,ν</sub><sup id="cite_ref-note-suffix-nu_7-3" class="reference"><a href="#cite_note-note-suffix-nu-7">[nb 3]</a></sup><br />
+or<br />
+<i>E</i><sub>e,λ</sub><sup id="cite_ref-note-suffix-lambda_8-3" class="reference"><a href="#cite_note-note-suffix-lambda-8">[nb 4]</a></sup></td>
+<td>watt per square metre per hertz<br />
+<i>or</i><br />
+watt per square metre, per metre</td>
+<td>W⋅m<sup>−2</sup>⋅Hz<sup>−1</sup><br />
+<i>or</i><br />
+W/m<sup>3</sup></td>
+<td><b>M</b>⋅<b>T</b><sup>−2</sup><br />
+<i>or</i><br />
+<b>M</b>⋅<b>L</b><sup>−1</sup>⋅<b>T</b><sup>−3</sup></td>
+<td>Irradiance of a <i>surface</i> per unit frequency or wavelength. This is sometimes also confusingly called "spectral intensity". Non-SI units of spectral flux density include <a href="/wiki/Jansky" title="Jansky">Jansky</a> = 10<sup>−26</sup> W⋅m<sup>−2</sup>⋅Hz<sup>−1</sup> and <a href="/wiki/Solar_flux_unit" title="Solar flux unit">solar flux unit</a> (1SFU = 10<sup>−22</sup> W⋅m<sup>−2</sup>⋅Hz<sup>−1</sup>=10<sup>4</sup>Jy).</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiosity_(radiometry)" title="Radiosity (radiometry)">Radiosity</a></td>
+<td><i>J</i><sub>e</sub><sup id="cite_ref-note-alternative-symbol-radiometric_6-3" class="reference"><a href="#cite_note-note-alternative-symbol-radiometric-6">[nb 2]</a></sup></td>
+<td>watt per square metre</td>
+<td>W/m<sup>2</sup></td>
+<td><b>M</b>⋅<b>T</b><sup>−3</sup></td>
+<td>Radiant flux <i>leaving</i> (emitted, reflected and transmitted by) a <i>surface</i> per unit area. This is sometimes also confusingly called "intensity".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiosity_(radiometry)" title="Radiosity (radiometry)">Spectral radiosity</a></td>
+<td><i>J</i><sub>e,ν</sub><sup id="cite_ref-note-suffix-nu_7-4" class="reference"><a href="#cite_note-note-suffix-nu-7">[nb 3]</a></sup><br />
+or<br />
+<i>J</i><sub>e,λ</sub><sup id="cite_ref-note-suffix-lambda_8-4" class="reference"><a href="#cite_note-note-suffix-lambda-8">[nb 4]</a></sup></td>
+<td>watt per square metre per hertz<br />
+<i>or</i><br />
+watt per square metre, per metre</td>
+<td>W⋅m<sup>−2</sup>⋅Hz<sup>−1</sup><br />
+<i>or</i><br />
+W/m<sup>3</sup></td>
+<td><b>M</b>⋅<b>T</b><sup>−2</sup><br />
+<i>or</i><br />
+<b>M</b>⋅<b>L</b><sup>−1</sup>⋅<b>T</b><sup>−3</sup></td>
+<td>Radiosity of a <i>surface</i> per unit frequency or wavelength. The latter is commonly measured in W⋅m<sup>−2</sup>⋅nm<sup>−1</sup>. This is sometimes also confusingly called "spectral intensity".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiant_exitance" title="Radiant exitance">Radiant exitance</a></td>
+<td><i>M</i><sub>e</sub><sup id="cite_ref-note-alternative-symbol-radiometric_6-4" class="reference"><a href="#cite_note-note-alternative-symbol-radiometric-6">[nb 2]</a></sup></td>
+<td>watt per square metre</td>
+<td>W/m<sup>2</sup></td>
+<td><b>M</b>⋅<b>T</b><sup>−3</sup></td>
+<td>Radiant flux <i>emitted</i> by a <i>surface</i> per unit area. This is the emitted component of radiosity. "Radiant emittance" is an old term for this quantity. This is sometimes also confusingly called "intensity".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiant_exitance" title="Radiant exitance">Spectral exitance</a></td>
+<td><i>M</i><sub>e,ν</sub><sup id="cite_ref-note-suffix-nu_7-5" class="reference"><a href="#cite_note-note-suffix-nu-7">[nb 3]</a></sup><br />
+or<br />
+<i>M</i><sub>e,λ</sub><sup id="cite_ref-note-suffix-lambda_8-5" class="reference"><a href="#cite_note-note-suffix-lambda-8">[nb 4]</a></sup></td>
+<td>watt per square metre per hertz<br />
+<i>or</i><br />
+watt per square metre, per metre</td>
+<td>W⋅m<sup>−2</sup>⋅Hz<sup>−1</sup><br />
+<i>or</i><br />
+W/m<sup>3</sup></td>
+<td><b>M</b>⋅<b>T</b><sup>−2</sup><br />
+<i>or</i><br />
+<b>M</b>⋅<b>L</b><sup>−1</sup>⋅<b>T</b><sup>−3</sup></td>
+<td>Radiant exitance of a <i>surface</i> per unit frequency or wavelength. The latter is commonly measured in W⋅m<sup>−2</sup>⋅nm<sup>−1</sup>. "Spectral emittance" is an old term for this quantity. This is sometimes also confusingly called "spectral intensity".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiant_exposure" title="Radiant exposure">Radiant exposure</a></td>
+<td><i>H</i><sub>e</sub></td>
+<td>joule per square metre</td>
+<td>J/m<sup>2</sup></td>
+<td><b>M</b>⋅<b>T</b><sup>−2</sup></td>
+<td>Radiant energy received by a <i>surface</i> per unit area, or equivalently irradiance of a <i>surface</i> integrated over time of irradiation. This is sometimes also called "radiant fluence".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Radiant_exposure" title="Radiant exposure">Spectral exposure</a></td>
+<td><i>H</i><sub>e,ν</sub><sup id="cite_ref-note-suffix-nu_7-6" class="reference"><a href="#cite_note-note-suffix-nu-7">[nb 3]</a></sup><br />
+or<br />
+<i>H</i><sub>e,λ</sub><sup id="cite_ref-note-suffix-lambda_8-6" class="reference"><a href="#cite_note-note-suffix-lambda-8">[nb 4]</a></sup></td>
+<td>joule per square metre per hertz<br />
+<i>or</i><br />
+joule per square metre, per metre</td>
+<td>J⋅m<sup>−2</sup>⋅Hz<sup>−1</sup><br />
+<i>or</i><br />
+J/m<sup>3</sup></td>
+<td><b>M</b>⋅<b>T</b><sup>−1</sup><br />
+<i>or</i><br />
+<b>M</b>⋅<b>L</b><sup>−1</sup>⋅<b>T</b><sup>−2</sup></td>
+<td>Radiant exposure of a <i>surface</i> per unit frequency or wavelength. The latter is commonly measured in J⋅m<sup>−2</sup>⋅nm<sup>−1</sup>. This is sometimes also called "spectral fluence".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Emissivity" title="Emissivity">Hemispherical emissivity</a></td>
+<td><i>ε</i></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Radiant exitance of a <i>surface</i>, divided by that of a <i>black body</i> at the same temperature as that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Emissivity" title="Emissivity">Spectral hemispherical emissivity</a></td>
+<td><i>ε</i><sub>ν</sub><br />
+or<br />
+<i>ε</i><sub>λ</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Spectral exitance of a <i>surface</i>, divided by that of a <i>black body</i> at the same temperature as that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Emissivity" title="Emissivity">Directional emissivity</a></td>
+<td><i>ε</i><sub>Ω</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Radiance <i>emitted</i> by a <i>surface</i>, divided by that emitted by a <i>black body</i> at the same temperature as that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Emissivity" title="Emissivity">Spectral directional emissivity</a></td>
+<td><i>ε</i><sub>Ω,ν</sub><br />
+or<br />
+<i>ε</i><sub>Ω,λ</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Spectral radiance <i>emitted</i> by a <i>surface</i>, divided by that of a <i>black body</i> at the same temperature as that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Absorptance" title="Absorptance">Hemispherical absorptance</a></td>
+<td><i>A</i></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Radiant flux <i>absorbed</i> by a <i>surface</i>, divided by that received by that surface. This should not be confused with "<a href="/wiki/Absorbance" title="Absorbance">absorbance</a>".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Absorptance" title="Absorptance">Spectral hemispherical absorptance</a></td>
+<td><i>A</i><sub>ν</sub><br />
+or<br />
+<i>A</i><sub>λ</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Spectral flux <i>absorbed</i> by a <i>surface</i>, divided by that received by that surface. This should not be confused with "<a href="/wiki/Absorbance" title="Absorbance">spectral absorbance</a>".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Absorptance" title="Absorptance">Directional absorptance</a></td>
+<td><i>A</i><sub>Ω</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Radiance <i>absorbed</i> by a <i>surface</i>, divided by the radiance incident onto that surface. This should not be confused with "<a href="/wiki/Absorbance" title="Absorbance">absorbance</a>".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Absorptance" title="Absorptance">Spectral directional absorptance</a></td>
+<td><i>A</i><sub>Ω,ν</sub><br />
+or<br />
+<i>A</i><sub>Ω,λ</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Spectral radiance <i>absorbed</i> by a <i>surface</i>, divided by the spectral radiance incident onto that surface. This should not be confused with "<a href="/wiki/Absorbance" title="Absorbance">spectral absorbance</a>".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Reflectance" title="Reflectance">Hemispherical reflectance</a></td>
+<td><i>R</i></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Radiant flux <i>reflected</i> by a <i>surface</i>, divided by that received by that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Reflectance" title="Reflectance">Spectral hemispherical reflectance</a></td>
+<td><i>R</i><sub>ν</sub><br />
+or<br />
+<i>R</i><sub>λ</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Spectral flux <i>reflected</i> by a <i>surface</i>, divided by that received by that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Reflectance" title="Reflectance">Directional reflectance</a></td>
+<td><i>R</i><sub>Ω</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Radiance <i>reflected</i> by a <i>surface</i>, divided by that received by that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Reflectance" title="Reflectance">Spectral directional reflectance</a></td>
+<td><i>R</i><sub>Ω,ν</sub><br />
+or<br />
+<i>R</i><sub>Ω,λ</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Spectral radiance <i>reflected</i> by a <i>surface</i>, divided by that received by that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Transmittance" title="Transmittance">Hemispherical transmittance</a></td>
+<td><i>T</i></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Radiant flux <i>transmitted</i> by a <i>surface</i>, divided by that received by that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Transmittance" title="Transmittance">Spectral hemispherical transmittance</a></td>
+<td><i>T</i><sub>ν</sub><br />
+or<br />
+<i>T</i><sub>λ</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Spectral flux <i>transmitted</i> by a <i>surface</i>, divided by that received by that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Transmittance" title="Transmittance">Directional transmittance</a></td>
+<td><i>T</i><sub>Ω</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Radiance <i>transmitted</i> by a <i>surface</i>, divided by that received by that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Transmittance" title="Transmittance">Spectral directional transmittance</a></td>
+<td><i>T</i><sub>Ω,ν</sub><br />
+or<br />
+<i>T</i><sub>Ω,λ</sub></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Spectral radiance <i>transmitted</i> by a <i>surface</i>, divided by that received by that surface.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Attenuation_coefficient" title="Attenuation coefficient">Hemispherical attenuation coefficient</a></td>
+<td><i>μ</i></td>
+<td>reciprocal metre</td>
+<td>m<sup>−1</sup></td>
+<td><b>L</b><sup>−1</sup></td>
+<td>Radiant flux <i>absorbed</i> and <i>scattered</i> by a <i>volume</i> per unit length, divided by that received by that volume.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Attenuation_coefficient" title="Attenuation coefficient">Spectral hemispherical attenuation coefficient</a></td>
+<td><i>μ</i><sub>ν</sub><br />
+or<br />
+<i>μ</i><sub>λ</sub></td>
+<td>reciprocal metre</td>
+<td>m<sup>−1</sup></td>
+<td><b>L</b><sup>−1</sup></td>
+<td>Spectral radiant flux <i>absorbed</i> and <i>scattered</i> by a <i>volume</i> per unit length, divided by that received by that volume.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Attenuation_coefficient" title="Attenuation coefficient">Directional attenuation coefficient</a></td>
+<td><i>μ</i><sub>Ω</sub></td>
+<td>reciprocal metre</td>
+<td>m<sup>−1</sup></td>
+<td><b>L</b><sup>−1</sup></td>
+<td>Radiance <i>absorbed</i> and <i>scattered</i> by a <i>volume</i> per unit length, divided by that received by that volume.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Attenuation_coefficient" title="Attenuation coefficient">Spectral directional attenuation coefficient</a></td>
+<td><i>μ</i><sub>Ω,ν</sub><br />
+or<br />
+<i>μ</i><sub>Ω,λ</sub></td>
+<td>reciprocal metre</td>
+<td>m<sup>−1</sup></td>
+<td><b>L</b><sup>−1</sup></td>
+<td>Spectral radiance <i>absorbed</i> and <i>scattered</i> by a <i>volume</i> per unit length, divided by that received by that volume.</td>
+</tr>
+<tr>
+<td style="text-align:center;" colspan="9">See also: <a href="/wiki/SI" class="mw-redirect" title="SI">SI</a>&#160;<b>·</b>  <a href="/wiki/Radiometry" title="Radiometry">Radiometry</a>&#160;<b>·</b>  <a href="/wiki/Photometry_(optics)" title="Photometry (optics)">Photometry</a></td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-note-suffix-e-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-note-suffix-e_5-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Standards_organization" title="Standards organization">Standards organizations</a> recommend that radiometric <a href="/wiki/Physical_quantity" title="Physical quantity">quantities</a> should be denoted with suffix "e" (for "energetic") to avoid confusion with photometric or <a href="/wiki/Photon" title="Photon">photon</a> quantities.</span></li>
+<li id="cite_note-note-alternative-symbol-radiometric-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-note-alternative-symbol-radiometric_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-note-alternative-symbol-radiometric_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-note-alternative-symbol-radiometric_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-note-alternative-symbol-radiometric_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-note-alternative-symbol-radiometric_6-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Alternative symbols sometimes seen: <i>W</i> or <i>E</i> for radiant energy, <i>P</i> or <i>F</i> for radiant flux, <i>I</i> for irradiance, <i>W</i> for radiant&#160;exitance.</span></li>
+<li id="cite_note-note-suffix-nu-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-note-suffix-nu_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-note-suffix-nu_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-note-suffix-nu_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-note-suffix-nu_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-note-suffix-nu_7-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-note-suffix-nu_7-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-note-suffix-nu_7-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text">Spectral quantities given per unit <a href="/wiki/Frequency" title="Frequency">frequency</a> are denoted with suffix "<a href="/wiki/Nu_(letter)" title="Nu (letter)">ν</a>" (Greek)—not to be confused with suffix "v" (for "visual") indicating a photometric quantity.</span></li>
+<li id="cite_note-note-suffix-lambda-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-note-suffix-lambda_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-note-suffix-lambda_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-note-suffix-lambda_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-note-suffix-lambda_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-note-suffix-lambda_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-note-suffix-lambda_8-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-note-suffix-lambda_8-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text">Spectral quantities given per unit <a href="/wiki/Wavelength" title="Wavelength">wavelength</a> are denoted with suffix "<a href="/wiki/Lambda" title="Lambda">λ</a>" (Greek).</span></li>
+<li id="cite_note-note-suffix-omega-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-note-suffix-omega_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-note-suffix-omega_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Directional quantities are denoted with suffix "<a href="/wiki/Omega" title="Omega">Ω</a>" (Greek).</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irradiance&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Illuminance" title="Illuminance">Illuminance</a></li>
+<li><a href="/wiki/Spectral_flux_density" title="Spectral flux density">Spectral flux density</a></li>
+<li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Fluence" class="mw-redirect" title="Fluence">Fluence</a></li>
+<li><a href="/wiki/Insolation" class="mw-redirect" title="Insolation">Insolation</a></li>
+<li><a href="/wiki/Light_diffusion" class="mw-redirect" title="Light diffusion">Light diffusion</a></li>
+<li><a href="/wiki/PI_curve" title="PI curve">PI curve</a> (photosynthesis-irradiance curve)</li>
+<li><a href="/wiki/Solar_azimuth_angle" title="Solar azimuth angle">Solar azimuth angle</a></li>
+<li><a href="/wiki/Solar_irradiance" title="Solar irradiance">Solar irradiance</a></li>
+<li><a href="/wiki/Solar_noon" class="mw-redirect" title="Solar noon">Solar noon</a></li>
+<li><a href="/wiki/Stefan%E2%80%93Boltzmann_law" title="Stefan–Boltzmann law">Stefan–Boltzmann law</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irradiance&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ISO_9288-1989-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ISO_9288-1989_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ISO_9288-1989_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ISO_9288-1989_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=16943">"Thermal insulation — Heat transfer by radiation — Physical quantities and definitions"</a>. <i>ISO 9288:1989</i>. <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a> catalogue. 1989<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrradiance&amp;rft.atitle=Thermal+insulation+%94+Heat+transfer+by+radiation+%94+Physical+quantities+and+definitions&amp;rft.date=1989&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fhome%2Fstore%2Fcatalogue_tc%2Fcatalogue_detail.htm%3Fcsnumber%3D16943&amp;rft.jtitle=ISO+9288%3A1989&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-griffiths-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-griffiths_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Griffiths, David J. (1999). <a rel="nofollow" class="external text" href="http://www.amazon.com/Introduction-Electrodynamics-3rd-David-Griffiths/dp/013805326X"><i>Introduction to electrodynamics</i></a> (3. ed., reprint. with corr. ed.). Upper Saddle River, NJ [u.a.]: Prentice-Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-805326-X" title="Special:BookSources/0-13-805326-X">0-13-805326-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrradiance&amp;rft.aufirst=David+J.&amp;rft.aulast=Griffiths&amp;rft.btitle=Introduction+to+electrodynamics&amp;rft.date=1999&amp;rft.edition=3.+ed.%2C+reprint.+with+corr.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2FIntroduction-Electrodynamics-3rd-David-Griffiths%2Fdp%2F013805326X&amp;rft.isbn=0-13-805326-X&amp;rft.place=Upper+Saddle+River%2C+NJ+%5Bu.a.%5D&amp;rft.pub=Prentice-Hall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Quaschning-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Quaschning_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Quaschning_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Volker_Quaschning" title="Volker Quaschning">Quaschning, Volker</a> (2003). <a rel="nofollow" class="external text" href="http://www.volker-quaschning.de/articles/fundamentals1/index_e.html">"Technology fundamentals—The sun as an energy resource"</a>. <i>Renewable Energy World</i>. <b>6</b> (5): 90–93.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrradiance&amp;rft.atitle=Technology+fundamentals%94The+sun+as+an+energy+resource&amp;rft.aufirst=Volker&amp;rft.aulast=Quaschning&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.volker-quaschning.de%2Farticles%2Ffundamentals1%2Findex_e.html&amp;rft.issue=5&amp;rft.jtitle=Renewable+Energy+World&amp;rft.pages=90-93&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Liu, B. Y. H.; Jordan, R. C. (1960). "The interrelationship and characteristic distribution of direct, diffuse and total solar radiation". <i>Solar Energy</i>. <b>4</b> (3): 1. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1960SoEn....4....1L">1960SoEn....4....1L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0038-092X%2860%2990062-1">10.1016/0038-092X(60)90062-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrradiance&amp;rft.atitle=The+interrelationship+and+characteristic+distribution+of+direct%2C+diffuse+and+total+solar+radiation&amp;rft.aufirst=B.+Y.+H.&amp;rft.au=Jordan%2C+R.+C.&amp;rft.aulast=Liu&amp;rft.date=1960&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1960SoEn....4....1L&amp;rft_id=info%3Adoi%2F10.1016%2F0038-092X%2860%2990062-1&amp;rft.issue=3&amp;rft.jtitle=Solar+Energy&amp;rft.pages=1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1180
+Cached time: 20170306043818
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.116 seconds
+Real time usage: 0.171 seconds
+Preprocessor visited node count: 680/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23191/2097152 bytes
+Template argument size: 232/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.029/10.000 seconds
+Lua memory usage: 2.01 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   99.481      1 -total
+ 54.44%   54.153      2 Template:Reflist
+ 46.39%   46.149      1 Template:SI_radiometry_units
+ 27.26%   27.122      1 Template:Cite_web
+ 15.32%   15.241      1 Template:Anchor
+  8.21%    8.165      2 Template:Cite_journal
+  5.84%    5.805      1 Template:Navbar-header
+  4.14%    4.117      1 Template:Cite_book
+  3.42%    3.405      1 Template:Navbar
+  1.98%    1.972      3 Template:Nobreak
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:556970-0!*!0!!en!*!*!math=5 and timestamp 20170306043818 and revision id 763411880
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Irradiance&amp;oldid=763411880">https://en.wikipedia.org/w/index.php?title=Irradiance&amp;oldid=763411880</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Physical_quantities" title="Category:Physical quantities">Physical quantities</a></li><li><a href="/wiki/Category:Radiometry" title="Category:Radiometry">Radiometry</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Irradiance" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Irradiance" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Irradiance"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Irradiance"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Irradiance" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Irradiance&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Irradiance&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Irradiance" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Irradiance" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Irradiance&amp;oldid=763411880" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Irradiance&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q830654" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Irradiance&amp;id=763411880" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Irradiance">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Irradiance&amp;returnto=Irradiance&amp;oldid=763411880&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Irradiance&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D8%B9%D9%8A%D8%B9" title="تشعيع – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Irradi%C3%A0ncia" title="Irradiància – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Intenzita_z%C3%A1%C5%99en%C3%AD" title="Intenzita záření – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bestrahlungsst%C3%A4rke" title="Bestrahlungsstärke – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Irradiancia" title="Irradiancia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%86%DA%AF%D8%A7%D9%84%DB%8C_%D8%AA%D8%A7%D8%A8%D8%B4" title="چگالی تابش – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89clairement_%C3%A9nerg%C3%A9tique" title="Éclairement énergétique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Lj%C3%B3safls%C3%BE%C3%A9ttleiki" title="Ljósaflsþéttleiki – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Irradianza" title="Irradianza – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bestralingssterkte" title="Bestralingssterkte – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%94%BE%E5%B0%84%E7%85%A7%E5%BA%A6" title="放射照度 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Irradians" title="Irradians – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Irradians" title="Irradians – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Irradiancja" title="Irradiancja – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Emitan%C8%9B%C4%83" title="Emitanță – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BB%D1%83%D1%87%D1%91%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_(%D1%84%D0%BE%D1%82%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Облучённость (фотометрия) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/S%C3%A4teilytysvoimakkuus" title="Säteilytysvoimakkuus – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D1%80%D0%BE%D0%BC%D1%96%D0%BD%D0%B5%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="Опроміненість – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%BC%BB%E7%85%A7%E5%BA%A6" title="輻照度 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q830654#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 February 2017, at 02:35.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Irradiance&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.171","ppvisitednodes":{"value":680,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23191,"limit":2097152},"templateargumentsize":{"value":232,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   99.481      1 -total"," 54.44%   54.153      2 Template:Reflist"," 46.39%   46.149      1 Template:SI_radiometry_units"," 27.26%   27.122      1 Template:Cite_web"," 15.32%   15.241      1 Template:Anchor","  8.21%    8.165      2 Template:Cite_journal","  5.84%    5.805      1 Template:Navbar-header","  4.14%    4.117      1 Template:Cite_book","  3.42%    3.405      1 Template:Navbar","  1.98%    1.972      3 Template:Nobreak"]},"scribunto":{"limitreport-timeusage":{"value":"0.029","limit":"10.000"},"limitreport-memusage":{"value":2103530,"limit":52428800}},"cachereport":{"origin":"mw1180","timestamp":"20170306043818","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":245,"wgHostname":"mw1180"});});</script>
+	</body>
+</html>

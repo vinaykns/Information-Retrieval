@@ -1,0 +1,986 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Battery electric vehicle - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Battery_electric_vehicle","wgTitle":"Battery electric vehicle","wgCurRevisionId":769547581,"wgRevisionId":769547581,"wgArticleId":16105212,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from December 2016","All articles containing potentially dated statements","Articles with French-language external links","Webarchive template wayback links","All articles with dead external links","Articles with dead external links from January 2017","Articles with permanently dead external links","Articles containing potentially dated statements from June 2016","CS1 French-language sources (fr)","Articles with a promotional tone from July 2013","All articles with a promotional tone","Articles using small message boxes","All articles with failed verification","Articles with failed verification from October 2014","Articles to be expanded from February 2008","All articles to be expanded","Commons category with local link same as on Wikidata","Use dmy dates from January 2011","Battery electric vehicles","Automotive technologies","Sustainable technologies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Battery_electric_vehicle","wgRelevantArticleId":16105212,"wgRequestId":"WMh1OgpAMCYAAGLcJJ0AAABI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1076882","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Nissan_LEAF_got_thirsty_trimmed.jpg/1200px-Nissan_LEAF_got_thirsty_trimmed.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Battery_electric_vehicle"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Battery_electric_vehicle"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Battery_electric_vehicle rootpage-Battery_electric_vehicle skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Battery electric vehicle</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For electric vehicles other than battery powered vehicles, see <a href="/wiki/Electric_vehicle" title="Electric vehicle">electric vehicle</a>. For passenger electric vehicles, see <a href="/wiki/Electric_car" title="Electric car">electric car</a>. For the batteries themselves, see <a href="/wiki/Electric_vehicle_battery" title="Electric vehicle battery">electric vehicle battery</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nissan_LEAF_got_thirsty_trimmed.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Nissan_LEAF_got_thirsty_trimmed.jpg/220px-Nissan_LEAF_got_thirsty_trimmed.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Nissan_LEAF_got_thirsty_trimmed.jpg/330px-Nissan_LEAF_got_thirsty_trimmed.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Nissan_LEAF_got_thirsty_trimmed.jpg/440px-Nissan_LEAF_got_thirsty_trimmed.jpg 2x" data-file-width="3000" data-file-height="2000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nissan_LEAF_got_thirsty_trimmed.jpg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Nissan_Leaf" title="Nissan Leaf">Nissan Leaf</a> is world's top selling highway-capable <a href="/wiki/All-electric_car" class="mw-redirect" title="All-electric car">all-electric car</a>, with more than 250,000 units delivered globally through December 2016.<sup id="cite_ref-LeafBest250K_1-0" class="reference"><a href="#cite_note-LeafBest250K-1">[1]</a></sup><sup id="cite_ref-Top10PEVs2016_2-0" class="reference"><a href="#cite_note-Top10PEVs2016-2">[2]</a></sup></div>
+</div>
+</div>
+<p>A <b>battery electric vehicle</b> (<b>BEV</b>), <b>battery-only electric vehicle</b> (<b>BOEV</b>) or <b>all-electric vehicle</b> is a type of <a href="/wiki/Electric_vehicle" title="Electric vehicle">electric vehicle</a> (EV) that uses <a href="/wiki/Chemical_energy" title="Chemical energy">chemical energy</a> stored in <a href="/wiki/Rechargeable_battery" title="Rechargeable battery">rechargeable battery</a> <a href="/wiki/Battery_pack" title="Battery pack">packs</a>. BEVs use <a href="/wiki/Electric_motor" title="Electric motor">electric motors</a> and <a href="/wiki/Motor_controller" title="Motor controller">motor controllers</a> instead of <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engines</a> (ICEs) for propulsion. They derive all power from battery packs and thus have no internal combustion engine, <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cell</a>, or <a href="/wiki/Fuel_tank" title="Fuel tank">fuel tank</a>. BEVs include bicycles, scooters, skateboards, rail cars, watercraft, forklifts, buses, trucks and cars.</p>
+<p>Cumulative global sales of highway-capable light-duty pure electric vehicles passed the one million unit milestone in September 2016.<sup id="cite_ref-1miBEVs_3-0" class="reference"><a href="#cite_note-1miBEVs-3">[3]</a></sup> As of December 2016<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Battery_electric_vehicle&amp;action=edit">[update]</a></sup>, the world's top selling highway legal all-electric car in history is the <a href="/wiki/Nissan_Leaf" title="Nissan Leaf">Nissan Leaf</a> with global sales of over 250,000 units, followed by the <a href="/wiki/Tesla_Model_S" title="Tesla Model S">Tesla Model S</a> with more than 158,000 units delivered worldwide.<sup id="cite_ref-LeafBest250K_1-1" class="reference"><a href="#cite_note-LeafBest250K-1">[1]</a></sup><sup id="cite_ref-Top10PEVs2016_2-1" class="reference"><a href="#cite_note-Top10PEVs2016-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Terminology"><span class="tocnumber">1</span> <span class="toctext">Terminology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Vehicles_by_type"><span class="tocnumber">2</span> <span class="toctext">Vehicles by type</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Rail"><span class="tocnumber">2.1</span> <span class="toctext">Rail</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Electric_bus"><span class="tocnumber">2.2</span> <span class="toctext">Electric bus</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Thunder_Sky"><span class="tocnumber">2.2.1</span> <span class="toctext">Thunder Sky</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Free_Tindo"><span class="tocnumber">2.2.2</span> <span class="toctext">Free Tindo</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#First_Fast-Charge.2C_Battery-Electric_Transit_Bus"><span class="tocnumber">2.2.3</span> <span class="toctext">First Fast-Charge, Battery-Electric Transit Bus</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Electric_trucks"><span class="tocnumber">2.3</span> <span class="toctext">Electric trucks</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Electric_vans"><span class="tocnumber">2.4</span> <span class="toctext">Electric vans</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Electric_cars"><span class="tocnumber">2.5</span> <span class="toctext">Electric cars</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Special-purpose_vehicles"><span class="tocnumber">2.6</span> <span class="toctext">Special-purpose vehicles</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Two-_and_three-wheeled_vehicles"><span class="tocnumber">2.7</span> <span class="toctext">Two- and three-wheeled vehicles</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Electric_boats"><span class="tocnumber">2.8</span> <span class="toctext">Electric boats</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Technology"><span class="tocnumber">3</span> <span class="toctext">Technology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Motors"><span class="tocnumber">3.1</span> <span class="toctext">Motors</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Motor_controllers"><span class="tocnumber">3.2</span> <span class="toctext">Motor controllers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Terminology">Terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=1" title="Edit section: Terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Hybrid_electric_vehicle" title="Hybrid electric vehicle">Hybrid electric vehicle</a>, <a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">Plug-in hybrid</a>, and <a href="/wiki/Plug-in_electric_vehicle" title="Plug-in electric vehicle">Plug-in electric vehicle</a></div>
+<p>Vehicles using both electric motors and internal combustion engines are examples of <a href="/wiki/Hybrid_electric_vehicle" title="Hybrid electric vehicle">hybrid electric vehicles</a>, and are not considered pure or all-electric vehicles because they cannot be externally charged (operate in charge-sustaining mode) and instead they are continually recharged with power from the <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engine</a> and <a href="/wiki/Regenerative_braking" class="mw-redirect" title="Regenerative braking">regenerative braking</a>.<sup id="cite_ref-PEVs_4-0" class="reference"><a href="#cite_note-PEVs-4">[4]</a></sup></p>
+<p><a href="/wiki/Hybrid_vehicle" title="Hybrid vehicle">Hybrid vehicles</a> with batteries that can be charged externally to displace some or all of their internal combustion engine power and <a href="/wiki/Gasoline" title="Gasoline">gasoline</a> fuel are called <a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">plug-in hybrid</a> electric vehicles (PHEV), and run as BEVs during their <a href="/wiki/Charge-depleting" title="Charge-depleting">charge-depleting</a> mode. PHEVs with a <a href="/wiki/Hybrid_vehicle_drivetrain#Series_hybrid" title="Hybrid vehicle drivetrain">series</a> <a href="/wiki/Powertrain" title="Powertrain">powertrain</a> are also called range-extended electric vehicles (REEVs), such as the <a href="/wiki/Chevrolet_Volt" title="Chevrolet Volt">Chevrolet Volt</a> and <a href="/wiki/Fisker_Karma" title="Fisker Karma">Fisker Karma</a>.</p>
+<p><a href="/wiki/Plug-in_electric_vehicle" title="Plug-in electric vehicle">Plug-in electric vehicles</a> (PEVs) are a subcategory of <a href="/wiki/Electric_vehicle" title="Electric vehicle">electric vehicles</a> that includes battery electric vehicles (BEVs), plug-in hybrid vehicles, (PHEVs), and <a href="/wiki/Electric_vehicle_conversion" title="Electric vehicle conversion">electric vehicle conversions</a> of hybrid electric vehicles and conventional <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engine</a> vehicles.<sup id="cite_ref-PEVs_4-1" class="reference"><a href="#cite_note-PEVs-4">[4]</a></sup><sup id="cite_ref-CSE_5-0" class="reference"><a href="#cite_note-CSE-5">[5]</a></sup></p>
+<p>In China, plug-in electric vehicles, together with hybrid electric vehicles are called new energy vehicles (NEVs).<sup id="cite_ref-NEVs_6-0" class="reference"><a href="#cite_note-NEVs-6">[6]</a></sup> However, in the United States, <a href="/wiki/Neighborhood_electric_vehicle" class="mw-redirect" title="Neighborhood electric vehicle">neighborhood electric vehicles</a> (NEVs) are battery electric vehicles that are legally limited to roads with posted speed limits no higher than 45 miles per hour (72&#160;km/h), are usually built to have a top speed of 30 miles per hour (48&#160;km/h), and have a maximum loaded weight of 3,000&#160;lbs.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Vehicles_by_type">Vehicles by type</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=2" title="Edit section: Vehicles by type">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The concept of battery electric vehicles is to use charged <a href="/wiki/Electric_vehicle_battery" title="Electric vehicle battery">batteries</a> on board vehicles for propulsion. Battery electric cars are becoming more and more attractive with the advancement of new battery technology (<a href="/wiki/Lithium_Ion" class="mw-redirect" title="Lithium Ion">Lithium Ion</a>) that have higher power and <a href="/wiki/Energy_density" title="Energy density">energy density</a> (i.e., greater possible acceleration and more range with fewer batteries) and higher oil prices.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>BEVs include <a href="/wiki/Automobile" class="mw-redirect" title="Automobile">automobiles</a>, <a href="/wiki/Truck#Light_trucks" title="Truck">light trucks</a>, and <a href="/wiki/Neighborhood_electric_vehicle" class="mw-redirect" title="Neighborhood electric vehicle">neighborhood electric vehicles</a>.</p>
+<h3><span class="mw-headline" id="Rail">Rail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=3" title="Edit section: Rail">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Battery electric railcars:
+<div role="note" class="hatnote">Main article: <a href="/wiki/Battery_electric_multiple_unit" title="Battery electric multiple unit">Battery electric multiple unit</a></div>
+</li>
+<li>Locomotives:
+<div role="note" class="hatnote">Main article: <a href="/wiki/Battery-electric_locomotive" class="mw-redirect" title="Battery-electric locomotive">Battery-electric locomotive</a></div>
+</li>
+<li>Electric rail trolley:
+<div role="note" class="hatnote">Main article: <a href="/wiki/Cater_MetroTrolley" title="Cater MetroTrolley">Cater MetroTrolley</a></div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Electric_bus">Electric bus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=4" title="Edit section: Electric bus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/20px-Ambox_important.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/30px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>reads like a <a href="/wiki/Wikipedia:NOT#SOAPBOX" class="mw-redirect" title="Wikipedia:NOT">press release</a> or a <a href="/wiki/Wikipedia:NOT#NEWS" class="mw-redirect" title="Wikipedia:NOT">news article</a></b>. <small><i>(July 2013)</i></small></span></td>
+</tr>
+</table>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Battery_electric_bus" title="Battery electric bus">Battery electric bus</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tecnobus_Pantheon_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tecnobus_Pantheon_1.jpg/220px-Tecnobus_Pantheon_1.jpg" width="220" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tecnobus_Pantheon_1.jpg/330px-Tecnobus_Pantheon_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tecnobus_Pantheon_1.jpg/440px-Tecnobus_Pantheon_1.jpg 2x" data-file-width="1384" data-file-height="1076" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tecnobus_Pantheon_1.jpg" class="internal" title="Enlarge"></a></div>
+A battery-electric minibus in <a href="/wiki/St_Helens,_England" class="mw-redirect" title="St Helens, England">St Helens</a>, England</div>
+</div>
+</div>
+<p><a href="/wiki/Chattanooga,_Tennessee" title="Chattanooga, Tennessee">Chattanooga, Tennessee</a> operates nine <a href="/wiki/Zero-fare" class="mw-redirect" title="Zero-fare">zero-fare</a> electric buses, which have been in operation since 1992 and have carried 11.3 million passengers and covered a distance of 3,100,000 kilometres (1,900,000&#160;mi), They were made locally by <a href="/w/index.php?title=Advanced_Vehicle_Systems&amp;action=edit&amp;redlink=1" class="new" title="Advanced Vehicle Systems (page does not exist)">Advanced Vehicle Systems</a>. Two of these buses were used for the <a href="/wiki/1996_Summer_Olympics" title="1996 Summer Olympics">1996 Summer Olympics</a> in Atlanta.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>Beginning in the summer of 2000, <a href="/wiki/Hong_Kong_Airport" class="mw-redirect" title="Hong Kong Airport">Hong Kong Airport</a> began operating a 16-passenger <a href="/wiki/Mitsubishi_Rosa" class="mw-redirect" title="Mitsubishi Rosa">Mitsubishi Rosa</a> electric shuttle bus, and in the fall of 2000, New York City began testing a 66-passenger battery-powered <a href="/wiki/School_bus" title="School bus">school bus</a>, an all-electric version of the <a href="/wiki/Blue_Bird_TC/2000" title="Blue Bird TC/2000">Blue Bird TC/2000</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> A similar bus was operated in <a href="/wiki/Napa_County,_California" title="Napa County, California">Napa Valley, California</a> for 14 months ending in April, 2004.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>The <a href="/wiki/2008_Summer_Olympics" title="2008 Summer Olympics">2008 Beijing Olympics</a> used a fleet of 50 electric buses, which have a range of 130&#160;km (81&#160;mi) with the air conditioning on. They use <a href="/wiki/Lithium-ion" class="mw-redirect" title="Lithium-ion">Lithium-ion</a> batteries, and consume about 1&#160;kW·h/mi (0.62&#160;kW·h/km; 2.2&#160;MJ/km). The buses were designed by the Beijing Institute of Technology and built by the Jinghua Coach Co. Ltd.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The batteries are replaced with fully charged ones at the recharging station to allow 24-hour operation of the buses.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>In <a href="/wiki/France" title="France">France</a>, the bus electric phenomenon is in development, but some buses are already operating in numerous cities.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> PVI, a medium company located in the Paris region, is one of the leader of the market with its brand <a href="/wiki/Gepebus" title="Gepebus">Gepebus</a> (offering <a href="/wiki/Oreos_2X" class="mw-redirect" title="Oreos 2X">Oreos 2X</a> and <a href="/wiki/Oreos_4X" class="mw-redirect" title="Oreos 4X">Oreos 4X</a>).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>In the <a href="/wiki/United_States" title="United States">United States</a>, the first battery-electric, fast-charge bus has been in operation in <a href="/wiki/Pomona,_California" title="Pomona, California">Pomona, California</a> since September 2010 at <a href="/wiki/Foothill_Transit" title="Foothill Transit">Foothill Transit</a>. The <a href="/wiki/Proterra,_Inc." title="Proterra, Inc.">Proterra</a> EcoRide BE35 uses <a href="/wiki/Lithium-titanate_batteries" class="mw-redirect" title="Lithium-titanate batteries">lithium-titanate batteries</a> and is able to fast-charge in less than 10 minutes.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<p>In 2014, the first production model all-electric school bus was delivered to the Kings Canyon Unified School District in California’s <a href="/wiki/San_Joaquin_Valley" title="San Joaquin Valley">San Joaquin Valley</a>. The bus was one of four the district ordered. This battery electric school bus, which has 4 sodium nickel batteries, is the first modern electric school bus approved for student transportation by any state.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:First_New_Zero-Emission_School_Bus_in_California.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/First_New_Zero-Emission_School_Bus_in_California.jpg/220px-First_New_Zero-Emission_School_Bus_in_California.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/First_New_Zero-Emission_School_Bus_in_California.jpg/330px-First_New_Zero-Emission_School_Bus_in_California.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/First_New_Zero-Emission_School_Bus_in_California.jpg/440px-First_New_Zero-Emission_School_Bus_in_California.jpg 2x" data-file-width="4096" data-file-height="2731" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:First_New_Zero-Emission_School_Bus_in_California.jpg" class="internal" title="Enlarge"></a></div>
+The first all-electric school bus in the state of California pausing outside the California capitol building in Sacramento.</div>
+</div>
+</div>
+<p>The same technology is used to power the Mountain View Community Shuttles. This technology was supported by the California Energy Commission, and the shuttle program is being supported by Google.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<h4><span class="mw-headline" id="Thunder_Sky">Thunder Sky</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=5" title="Edit section: Thunder Sky">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Thunder Sky (based in Hong Kong) builds <a href="/wiki/Lithium-ion_batteries" class="mw-redirect" title="Lithium-ion batteries">lithium-ion batteries</a> used in submarines and has three models of electric buses, the 10/21 passenger EV-6700 with a range of 280&#160;km (170&#160;mi) under 20 mins quick-charge, the EV-2009 city buses, and the 43 passenger EV-2008 highway bus, which has a range of 300&#160;km (190&#160;mi) under quick-charge (20 mins to 80 percent), and 350&#160;km (220&#160;mi) under full charge (25 mins). The buses will also be built in the United States and Finland.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h4><span class="mw-headline" id="Free_Tindo">Free Tindo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=6" title="Edit section: Free Tindo">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Tindo is an all-electric bus from <a href="/wiki/Adelaide,_Australia" class="mw-redirect" title="Adelaide, Australia">Adelaide, Australia</a>. The Tindo (aboriginal word for sun) is made by <a href="/wiki/Designline" class="mw-redirect" title="Designline">Designline International</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> in <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> and gets its electricity from a <a href="/wiki/Photovoltaics" title="Photovoltaics">solar PV</a> system on Adelaide's central <a href="/wiki/Bus_station" title="Bus station">bus station</a>. Rides are <a href="/wiki/Zero-fare" class="mw-redirect" title="Zero-fare">zero-fare</a> as part of Adelaide's public transport system.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h4><span class="mw-headline" id="First_Fast-Charge.2C_Battery-Electric_Transit_Bus">First Fast-Charge, Battery-Electric Transit Bus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=7" title="Edit section: First Fast-Charge, Battery-Electric Transit Bus">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Proterra,_Inc." title="Proterra, Inc.">Proterra</a>'s EcoRide BE35 transit bus, called the <a href="/w/index.php?title=Ecoliner&amp;action=edit&amp;redlink=1" class="new" title="Ecoliner (page does not exist)">Ecoliner</a> by Foothill Transit in West Covina, California, is a heavy duty, fast charge, battery-electric bus. Proterra's ProDrive drive-system uses a <a href="/wiki/UQM" class="mw-redirect" title="UQM">UQM</a> motor and regenerative braking that captures 90 percent of the available energy and returns it to the TerraVolt energy storage system, which in turn increases the total distance the bus can drive by 31–35 percent. It can travel 30–40 miles on a single charge, is up to 600 percent more fuel-efficient than a typical diesel or CNG bus, and produces 44 percent less carbon than CNG.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<h3><span class="mw-headline" id="Electric_trucks">Electric trucks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=8" title="Edit section: Electric trucks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Electric_truck" title="Electric truck">Electric truck</a></div>
+<p>For most of the 20th century, the majority of the world's battery electric road vehicles were British <a href="/wiki/Milk_float" title="Milk float">milk floats</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<h3><span class="mw-headline" id="Electric_vans">Electric vans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=9" title="Edit section: Electric vans">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In March 2012, <a href="/wiki/Smith_Electric_Vehicles" title="Smith Electric Vehicles">Smith Electric Vehicles</a> announced the release of the Newton Step-Van, an all-electric, zero-emission vehicle built on the versatile Newton platform that features a walk-in body produced by Indiana-based <a href="/wiki/Utilimaster" class="mw-redirect" title="Utilimaster">Utilimaster</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<h3><span class="mw-headline" id="Electric_cars">Electric cars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=10" title="Edit section: Electric cars">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Electric_car" title="Electric car">Electric car</a></div>
+<div role="note" class="hatnote">See also: <a href="/wiki/List_of_production_battery_electric_vehicles" title="List of production battery electric vehicles">List of production battery electric vehicles</a> and <a href="/wiki/Electric_car_use_by_country" title="Electric car use by country">electric car use by country</a></div>
+<p>An <a href="/wiki/Electric_car" title="Electric car">electric car</a> is a plug-in battery powered <a href="/wiki/Automobile" class="mw-redirect" title="Automobile">automobile</a> which is <a href="/wiki/Ground_propulsion" title="Ground propulsion">propelled</a> by <a href="/wiki/Electric_motor" title="Electric motor">electric motor</a>(s). Although electric cars often give good acceleration and have generally acceptable top speed, the lower <a href="/wiki/Specific_energy" title="Specific energy">specific energy</a> of production batteries available in 2015 compared with <a href="/wiki/Carbon-based_fuel" title="Carbon-based fuel">carbon-based fuels</a> means that electric cars need batteries that are fairly large fraction of the vehicle mass but still often give relatively low range between charges. Recharging can also take significant lengths of time. For journeys within a single battery charge, rather than long journeys, electric cars are practical forms of transportation and can be recharged overnight.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:BEV_EPA_range_comparison_2016-2017_MY_US.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/BEV_EPA_range_comparison_2016-2017_MY_US.png/300px-BEV_EPA_range_comparison_2016-2017_MY_US.png" width="300" height="195" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/BEV_EPA_range_comparison_2016-2017_MY_US.png/450px-BEV_EPA_range_comparison_2016-2017_MY_US.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/BEV_EPA_range_comparison_2016-2017_MY_US.png/600px-BEV_EPA_range_comparison_2016-2017_MY_US.png 2x" data-file-width="932" data-file-height="607" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BEV_EPA_range_comparison_2016-2017_MY_US.png" class="internal" title="Enlarge"></a></div>
+Comparison of <a href="/wiki/EPA" class="mw-redirect" title="EPA">EPA</a>-rated <a href="/wiki/All-electric_range" title="All-electric range">range</a> for <a href="/wiki/Model_year" title="Model year">model year</a> 2016 and 2017 electric cars available in the U.S. market, and two upcoming models, <a href="/wiki/Chevrolet_Bolt_EV" class="mw-redirect" title="Chevrolet Bolt EV">Chevrolet Bolt EV</a> and <a href="/wiki/Tesla_Model_3" title="Tesla Model 3">Tesla Model 3</a>. Tesla Motors vehicles included correspond to the variants with the longest and shortest range for <a href="/wiki/Tesla_Model_S" title="Tesla Model S">Model S</a> and <a href="/wiki/Tesla_Model_X" title="Tesla Model X">Model X</a>.<sup id="cite_ref-EPA_BEVs_26-0" class="reference"><a href="#cite_note-EPA_BEVs-26">[26]</a></sup><sup id="cite_ref-SFG02042016_27-0" class="reference"><a href="#cite_note-SFG02042016-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></div>
+</div>
+</div>
+<p>Electric cars have the potential of significantly reducing <a href="/wiki/City_pollution" class="mw-redirect" title="City pollution">city pollution</a> by having <a href="/wiki/Zero-emissions_vehicle" title="Zero-emissions vehicle">zero tail pipe emissions</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> Vehicle <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> savings depend on how the electricity is generated.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> With the current <a href="/wiki/Electricity_generation" title="Electricity generation">US energy mix</a>, using an electric car would result in a 30 percent reduction in <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> emissions.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup><sup id="cite_ref-Eia.doe.gov_36-0" class="reference"><a href="#cite_note-Eia.doe.gov-36">[36]</a></sup><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> Given the current energy mixes in other countries, it has been predicted that such emissions would decrease by 40 percent in the UK,<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> 19 percent in China,<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> and as little as 1 percent in Germany.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (October 2014)">not in citation given</span></a></i>]</sup></p>
+<p>Electric cars are expected to have a major impact in the auto industry<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup> given advantages in <a href="/wiki/Motor_vehicle_emissions" class="mw-redirect" title="Motor vehicle emissions">city pollution</a>, less dependence on oil, and expected rise in gasoline prices.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> World governments are pledging billions to fund development of electric vehicles and their components. The US has pledged <span style="white-space: nowrap">US$2.4 billion</span> in federal grants for electric cars and batteries.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup> China has announced it will provide <span style="white-space: nowrap">US$15 billion</span> to initiate an electric car industry.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup></p>
+<p>Cumulative global sales of highway-capable battery electric cars and vans passed the 1&#160;million unit milestone in September 2016.<sup id="cite_ref-1miBEVs_3-1" class="reference"><a href="#cite_note-1miBEVs-3">[3]</a></sup> The <a href="/wiki/Renault-Nissan_Alliance" class="mw-redirect" title="Renault-Nissan Alliance">Renault-Nissan Alliance</a> is the leading all-electric vehicle manufacturer. The Alliance achieved the sales milestone of 350,000 all-electric vehicles delivered globally in August 2016.<sup id="cite_ref-RN350K_49-0" class="reference"><a href="#cite_note-RN350K-49">[49]</a></sup> Ranking second is <a href="/wiki/Tesla_Motors" class="mw-redirect" title="Tesla Motors">Tesla Motors</a> with over 139,000 electric cars sold between 2008 and June 2016.<sup id="cite_ref-Tesla125K_50-0" class="reference"><a href="#cite_note-Tesla125K-50">[50]</a></sup><sup id="cite_ref-Tesla2Q2016_51-0" class="reference"><a href="#cite_note-Tesla2Q2016-51">[51]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Model_S_driving.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Model_S_driving.jpg/220px-Model_S_driving.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Model_S_driving.jpg/330px-Model_S_driving.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Model_S_driving.jpg/440px-Model_S_driving.jpg 2x" data-file-width="5616" data-file-height="3744" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Model_S_driving.jpg" class="internal" title="Enlarge"></a></div>
+Global sales of the <a href="/wiki/Tesla_Model_S" title="Tesla Model S">Tesla Model S</a>, the world's second best selling all-electric car in history, achieved the 150,000 unit milestone in November 2016.<sup id="cite_ref-ModelS150k_52-0" class="reference"><a href="#cite_note-ModelS150k-52">[52]</a></sup></div>
+</div>
+</div>
+<p>As of December 2016<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Battery_electric_vehicle&amp;action=edit">[update]</a></sup>, the world's top selling highway capable all-electric car in history is the Nissan Leaf, released in December 2010, with global sales of more than 250,000 units, followed by the Tesla Model S with more than 158,000 units delivered worldwide.<sup id="cite_ref-LeafBest250K_1-2" class="reference"><a href="#cite_note-LeafBest250K-1">[1]</a></sup> Ranking next are the <a href="/wiki/BMW_i" title="BMW i">BMW i</a> with about 65,500 units, and the <a href="/wiki/Renault_Zoe" title="Renault Zoe">Renault Zoe</a> with 61,205 units, both through December 2016.<sup id="cite_ref-Top10PEVs2016_2-2" class="reference"><a href="#cite_note-Top10PEVs2016-2">[2]</a></sup> Until June 2016 the Mitsubishi i-MiEV family ranked fifth with about 37,600 units delivered globally.<sup id="cite_ref-Top10Global062016_53-0" class="reference"><a href="#cite_note-Top10Global062016-53">[53]</a></sup> The <a href="/wiki/Renault_Kangoo_Z.E." class="mw-redirect" title="Renault Kangoo Z.E.">Renault Kangoo Z.E.</a> utility van is the leader of the light-duty all-electric segment with global sales of 25,205 units through December 2016.<sup id="cite_ref-Renault2011_16_54-0" class="reference"><a href="#cite_note-Renault2011_16-54">[54]</a></sup></p>
+<p><a href="/wiki/Formula_E" title="Formula E">Formula E</a> is a fully electric international single seater championship. The series was conceived in 2012, and the inaugural championship started in Beijing on 13 September 2014. The series is sanctioned by the FIA. Alejandro Agag is the current CEO of Formula E.</p>
+<p>The Formula E championship is currently contested by ten teams with two drivers each (after the withdrawal of Team Trulli, there are temporarily only nine teams competing). Racing generally takes place on temporary city-center street circuits which are approximately 2 to 3.4&#160;km (1.2 to 2.1&#160;mi) long. Currently, only the Mexico City ePrix takes place on a road course, a modified version of the Autódromo Hermanos Rodríguez.</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Special-purpose_vehicles">Special-purpose vehicles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=11" title="Edit section: Special-purpose vehicles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Special_people_Electric_Vehicle.jpg" class="image"><img alt="Electric vehicles for the disabled, in Årdalstangen, Norway" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Special_people_Electric_Vehicle.jpg/220px-Special_people_Electric_Vehicle.jpg" width="220" height="132" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Special_people_Electric_Vehicle.jpg/330px-Special_people_Electric_Vehicle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Special_people_Electric_Vehicle.jpg/440px-Special_people_Electric_Vehicle.jpg 2x" data-file-width="2560" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Special_people_Electric_Vehicle.jpg" class="internal" title="Enlarge"></a></div>
+Electric vehicles for disabled people in <a href="/wiki/%C3%85rdalstangen" title="Årdalstangen">Årdalstangen</a>, Norway</div>
+</div>
+</div>
+<div role="note" class="hatnote">See also: <a href="/wiki/Electrathon" title="Electrathon">Electrathon</a></div>
+<p><a href="/wiki/Special-purpose_vehicle" class="mw-redirect" title="Special-purpose vehicle">Special-purpose vehicles</a> come in a wide range of types, ranging from relatively common ones such as <a href="/wiki/Golf_cart" title="Golf cart">golf carts</a>, things like <a href="/wiki/Electric_golf_trolley" title="Electric golf trolley">electric golf trolleys</a>, <a href="/wiki/Milk_float" title="Milk float">milk floats</a>, <a href="/wiki/All-terrain_vehicle" title="All-terrain vehicle">all-terrain vehicles</a>, <a href="/wiki/Neighborhood_electric_vehicle" class="mw-redirect" title="Neighborhood electric vehicle">neighborhood electric vehicles</a>, and a wide range of other devices. Certain manufacturers specialize in electric-powered "in plant" work machines.</p>
+<h3><span class="mw-headline" id="Two-_and_three-wheeled_vehicles">Two- and three-wheeled vehicles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=12" title="Edit section: Two- and three-wheeled vehicles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An increasing variety of two-wheeled electric vehicles is being made for transportation and entertainment. These include devices for sitting on such as <a href="/wiki/Electric_motorcycles_and_scooters" title="Electric motorcycles and scooters">electric motorcycles and scooters</a> or <a href="/wiki/Electric_bicycles" class="mw-redirect" title="Electric bicycles">electric bicycles</a>, as well as devices for standing on such as the <a href="/wiki/Segway_PT" title="Segway PT">Segway PT</a> or <a href="/wiki/Self-balancing_two-wheeled_board" class="mw-redirect" title="Self-balancing two-wheeled board">self-balancing two-wheeled boards</a>.</p>
+<p>Three-wheeled vehicles include <a href="/wiki/Electric_rickshaw" title="Electric rickshaw">electric rickshaws</a>, a powered variant of the <a href="/wiki/Cycle_rickshaw" title="Cycle rickshaw">cycle rickshaw</a>.</p>
+<h3><span class="mw-headline" id="Electric_boats">Electric boats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=13" title="Edit section: Electric boats">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Electric_boat" title="Electric boat">Electric boat</a></div>
+<p>Several battery electric ships operate throughout the world, some for business. Electric <a href="/wiki/Ferry" title="Ferry">ferries</a> are being operated and constructed.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup></p>
+<h2><span class="mw-headline" id="Technology">Technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=14" title="Edit section: Technology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text"><span class="mbox-text-span"><b>This section needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(February 2008)</i></small></span></td>
+</tr>
+</table>
+<table class="wikitable floatright">
+<caption>Fuel use in vehicle designs</caption>
+<tr>
+<th>Vehicle type</th>
+<th>Fuel used</th>
+</tr>
+<tr>
+<td><a href="/wiki/Petroleum" title="Petroleum">All-petroleum vehicle</a></td>
+<td>Most use of petroleum</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hybrid_electric_vehicle" title="Hybrid electric vehicle">Regular hybrid electric vehicle</a></td>
+<td>Less use of petroleum, but unable to be plugged in</td>
+</tr>
+<tr>
+<td><a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">Plug-in hybrid vehicle</a></td>
+<td>Residual use of petroleum. More use of electricity</td>
+</tr>
+<tr>
+<td><strong class="selflink">All-electric vehicle</strong></td>
+<td>Most use of electricity</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:right">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electric_vehicle" title="Template:Electric vehicle"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Electric_vehicle&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Electric vehicle (page does not exist)"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electric_vehicle&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Motors">Motors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=15" title="Edit section: Motors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Traction_motor" title="Traction motor">Traction motor</a></div>
+<p>Electric cars have traditionally used series wound DC motors, a form of <a href="/wiki/Brushed_DC_electric_motor" title="Brushed DC electric motor">brushed DC electric motor</a>. Separately excited and permanent magnet are just two of the types of DC motors available. More recent electric vehicles have made use of a variety of <a href="/wiki/AC_motor" title="AC motor">AC motor</a> types, as these are simpler to build and have no brushes that can wear out. These are usually <a href="/wiki/Induction_motor" title="Induction motor">induction motors</a> or <a href="/wiki/Brushless_AC_electric_motor" class="mw-redirect" title="Brushless AC electric motor">brushless AC electric motors</a> which use permanent magnets. There are several variations of the permanent magnet motor which offer simpler drive schemes and/or lower cost including the <a href="/wiki/Brushless_DC_electric_motor" title="Brushless DC electric motor">brushless DC electric motor</a>.</p>
+<h3><span class="mw-headline" id="Motor_controllers">Motor controllers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=16" title="Edit section: Motor controllers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Motor_controller" title="Motor controller">Motor controller</a></div>
+<p>The motor controller regulates the power to the motor, supplying either variable pulse width DC or variable frequency variable amplitude AC, depending on the motor type, DC or AC.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Battery-powered_vehicles" class="extiw" title="commons:Category:Battery-powered vehicles">Battery-powered vehicles</a></b></i>.</td>
+</tr>
+</table>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/All-electric_range" title="All-electric range">All-electric range</a></li>
+<li><a href="/wiki/Automotive_battery" title="Automotive battery">Automotive battery</a></li>
+<li><a href="/wiki/Battery_balancer" class="mw-redirect" title="Battery balancer">Battery balancer</a></li>
+<li><a href="/wiki/Car_battery" class="mw-redirect" title="Car battery">Car battery</a></li>
+<li><a href="/wiki/Dump_charging" title="Dump charging">Dump charging</a></li>
+<li><a href="/wiki/Electric_boat" title="Electric boat">Electric boat</a></li>
+<li><a href="/wiki/Electric_Drive_Transportation_Association" class="mw-redirect" title="Electric Drive Transportation Association">Electric Drive Transportation Association</a> (EDTA)</li>
+<li><a href="/wiki/Electric_vehicle_warning_sounds" title="Electric vehicle warning sounds">Electric vehicle warning sounds</a></li>
+<li><a href="/wiki/Global_Electric_Motorcars" title="Global Electric Motorcars">Global Electric Motorcars</a></li>
+<li><a href="/wiki/Government_incentives_for_plug-in_electric_vehicles" title="Government incentives for plug-in electric vehicles">Government incentives for plug-in electric vehicles</a></li>
+<li><a href="/wiki/Greenpower" title="Greenpower">Greenpower</a></li>
+<li><a href="/wiki/List_of_electric_cars_currently_available" title="List of electric cars currently available">List of electric cars currently available</a></li>
+<li><a href="/wiki/List_of_electric_vehicle_battery_manufacturers" title="List of electric vehicle battery manufacturers">List of electric vehicle battery manufacturers</a></li>
+<li><a href="/wiki/List_of_production_battery_electric_vehicles" title="List of production battery electric vehicles">List of production battery electric vehicles</a></li>
+<li><a href="/wiki/Miles_per_gallon_gasoline_equivalent" title="Miles per gallon gasoline equivalent">Miles per gallon gasoline equivalent</a></li>
+<li><a href="/wiki/Patent_encumbrance_of_large_automotive_NiMH_batteries" title="Patent encumbrance of large automotive NiMH batteries">Patent encumbrance of large automotive NiMH batteries</a></li>
+<li><a href="/wiki/Road-powered_electric_vehicle" title="Road-powered electric vehicle">Road-powered electric vehicle</a></li>
+<li><a href="/wiki/Short-commute_vehicle" title="Short-commute vehicle">Short-commute vehicles</a></li>
+<li><a href="/wiki/Supercapacitor" title="Supercapacitor">Supercapacitor</a></li>
+<li><a href="/wiki/Think_Global" title="Think Global">Think Global</a></li>
+<li><a href="/wiki/Tokyo_Electric_Power_Company" title="Tokyo Electric Power Company">Tokyo Electric Power Company</a></li>
+<li><a href="/wiki/Wireless_charging" class="mw-redirect" title="Wireless charging">Wireless charging</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-LeafBest250K-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-LeafBest250K_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LeafBest250K_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-LeafBest250K_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Cobb, Jeff (2017-01-09). <a rel="nofollow" class="external text" href="http://www.hybridcars.com/nissans-quarter-millionth-leaf-means-its-the-best-selling-plug-in-car-in-history/">"Nissan's Quarter-Millionth Leaf Means It's The Best-Selling Plug-in Car In History"</a>. <i>HybridCars.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Nissan%99s+Quarter-Millionth+Leaf+Means+It%99s+The+Best-Selling+Plug-in+Car+In+History&amp;rft.aufirst=Jeff&amp;rft.aulast=Cobb&amp;rft.date=2017-01-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hybridcars.com%2Fnissans-quarter-millionth-leaf-means-its-the-best-selling-plug-in-car-in-history%2F&amp;rft.jtitle=HybridCars.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <i>As of December 2016<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Battery_electric_vehicle&amp;action=edit">[update]</a></sup>, the Nissan Leaf is the world's best-selling plug-in car in history with more than 250,000 units delivered, followed by the Tesla Model S with over 158,000 sales, the Volt/Ampera family of vehicles with 134,500 vehicles sold, and the Mitsubishi Outlander PHEV with about 116,500 units sold through November 2016. These are the only plug-in electric cars so far with over 100,000 global sales.</i></span></li>
+<li id="cite_note-Top10PEVs2016-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Top10PEVs2016_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Top10PEVs2016_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Top10PEVs2016_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Cobb, Jeff (2017-01-31). <a rel="nofollow" class="external text" href="http://www.hybridcars.com/tesla-model-s-is-worlds-best-selling-plug-in-car-for-second-year-in-a-row/">"Tesla Model S Is World's Best-Selling Plug-in Car For Second Year In A Row"</a>. <i>HybridCars.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Tesla+Model+S+Is+World%99s+Best-Selling+Plug-in+Car+For+Second+Year+In+A+Row&amp;rft.aufirst=Jeff&amp;rft.aulast=Cobb&amp;rft.date=2017-01-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hybridcars.com%2Ftesla-model-s-is-worlds-best-selling-plug-in-car-for-second-year-in-a-row%2F&amp;rft.jtitle=HybridCars.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <i>See also detailed 2016 sales and cumulative global sales in the two graphs.</i></span></li>
+<li id="cite_note-1miBEVs-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-1miBEVs_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-1miBEVs_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Shahan, Zachary (2016-11-22). <a rel="nofollow" class="external text" href="https://cleantechnica.com/2016/11/22/1-million-ev-revolution-begins/">"1 Million Pure EVs Worldwide: EV Revolution Begins!"</a>. Clean Technica<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.aufirst=Zachary&amp;rft.aulast=Shahan&amp;rft.btitle=1+Million+Pure+EVs+Worldwide%3A+EV+Revolution+Begins%21&amp;rft.date=2016-11-22&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fcleantechnica.com%2F2016%2F11%2F22%2F1-million-ev-revolution-begins%2F&amp;rft.pub=Clean+Technica&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-PEVs-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-PEVs_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PEVs_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/David_B._Sandalow" title="David B. Sandalow">David B. Sandalow</a>, ed. (2009). <a rel="nofollow" class="external text" href="http://www.brookings.edu/press/Books/2009/pluginelectricvehicles.aspx"><i>Plug-In Electric Vehicles: What Role for Washington?</i></a> (1st. ed.). <a href="/wiki/The_Brookings_Institution" class="mw-redirect" title="The Brookings Institution">The Brookings Institution</a>. pp.&#160;2–5. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8157-0305-1" title="Special:BookSources/978-0-8157-0305-1">978-0-8157-0305-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Plug-In+Electric+Vehicles%3A+What+Role+for+Washington%3F&amp;rft.date=2009&amp;rft.edition=1st.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.brookings.edu%2Fpress%2FBooks%2F2009%2Fpluginelectricvehicles.aspx&amp;rft.isbn=978-0-8157-0305-1&amp;rft.pages=2-5&amp;rft.pub=The+Brookings+Institution&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><i>See definition on pp. 2.</i></span></li>
+<li id="cite_note-CSE-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-CSE_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://energycenter.org/index.php/technical-assistance/transportation/electric-vehicles">"Plug-in Electric Vehicles (PEVs)"</a>. Center for Sustainable Energy, California<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-03-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Plug-in+Electric+Vehicles+%28PEVs%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fenergycenter.org%2Findex.php%2Ftechnical-assistance%2Ftransportation%2Felectric-vehicles&amp;rft.pub=Center+for+Sustainable+Energy%2C+California&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NEVs-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-NEVs_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">PRTM Management Consultants, Inc (April 2011). <a rel="nofollow" class="external text" href="http://siteresources.worldbank.org/EXTNEWSCHINESE/Resources/3196537-1202098669693/EV_Report_en.pdf">"The China New Energy Vehicles Program - Challenges and Opportunities"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/World_Bank" title="World Bank">World Bank</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.au=PRTM+Management+Consultants%2C+Inc&amp;rft.btitle=The+China+New+Energy+Vehicles+Program+-+Challenges+and+Opportunities&amp;rft.date=2011-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsiteresources.worldbank.org%2FEXTNEWSCHINESE%2FResources%2F3196537-1202098669693%2FEV_Report_en.pdf&amp;rft.pub=World+Bank&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>See Acronyms and Key Terms, pp. v</i></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://green.autoblog.com/2009/02/06/greenlings-what-is-a-neighborhood-electric-vehicle-nev/">"What is a neighborhood electric vehicle (NEV)?"</a>. AutoblogGreen. 2009-02-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=What+is+a+neighborhood+electric+vehicle+%28NEV%29%3F&amp;rft.date=2009-02-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgreen.autoblog.com%2F2009%2F02%2F06%2Fgreenlings-what-is-a-neighborhood-electric-vehicle-nev%2F&amp;rft.pub=AutoblogGreen&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.4futureenergy.com/BatteryElectric.htm">"-"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=-&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.4futureenergy.com%2FBatteryElectric.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.carta-bus.org/routes/elec_shuttle.asp">Downtown Electric Shuttle</a>. Retrieved 18 August 2008.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.smartcommunities.ncat.org/success/chattano.shtml">Success Stories</a>. Retrieved 18 August 2008.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.e-driveonline.com/articles/dec00-3.htm">Solectria Develops an All Electric Version of the Blue Bird TC2000</a>. Retrieved 18 August 2008.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.arb.ca.gov/research/icat/projects/smud.htm">Electric School Bus</a>. Retrieved 18 August 2008.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.xinhuanet.com/english/2008-07/31/content_8880067.htm">UNDP donates electric buses to Beijing Olympic Games</a>. Retrieved 15 August 2008.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://english.bit.edu.cn/col399/article.htm1?id=25756">BIT Attends the Delivery Ceremony of the 2008 Olympic Games Alternative Fuel Vehicles with its Pure Electric Bus</a>. Retrieved 15 August 2008.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(French)</span> <a rel="nofollow" class="external free" href="http://avem.fr/index.php?page=bus">http://avem.fr/index.php?page=bus</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pvi.fr/?lang=en">"PVI, leader de la traction électrique pour véhicules industriels."</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=PVI%2C+leader+de+la+traction+%C3%A9lectrique+pour+v%C3%A9hicules+industriels.&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pvi.fr%2F%3Flang%3Den&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.proterra.com/index.php/mediacenter/companynews/proterra_launches_first_deployment_of_all-electric_zero-emission_buses/">Proterra Launches First Deployment of All-Electric, Zero-Emission Buses by Major Transit Agency</a>. Retrieved October 2011.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cleantechnica.com/2014/03/05/new-electric-school-bus-saves-california-district-10000-per-year/">"New All-Electric School Bus Saves California District $10,000+ Per Year"</a>. <i>CleanTechnica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=New+All-Electric+School+Bus+Saves+California+District+%2410%2C000%2B+Per+Year&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcleantechnica.com%2F2014%2F03%2F05%2Fnew-electric-school-bus-saves-california-district-10000-per-year%2F&amp;rft.jtitle=CleanTechnica&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bizjournals.com/sanjose/news/2015/01/13/electric-shuttle-buses-come-to-mountain-view.html">"Electric shuttle buses come to Mountain View, thanks to Motiv and Google"</a>. <i>Silicon Valley Business Journal</i>. 13 January 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Electric+shuttle+buses+come+to+Mountain+View%2C+thanks+to+Motiv+and+Google&amp;rft.date=2015-01-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fsanjose%2Fnews%2F2015%2F01%2F13%2Felectric-shuttle-buses-come-to-mountain-view.html&amp;rft.jtitle=Silicon+Valley+Business+Journal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thunder-sky.com/">"雷天温斯顿电池有限公司"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=%E9%9B%B7%E5%A4%A9%E6%B8%A9%E6%96%AF%E9%A1%BF%E7%94%B5%E6%B1%A0%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thunder-sky.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Andrew Posner (December 19, 2007). <a rel="nofollow" class="external text" href="http://www.treehugger.com/cars/when-the-sun-shines-down-under-it-powers-a-bus.html">"When The Sun Shines Down Under. . .It Powers a Bus"</a>. <a href="/wiki/TreeHugger" title="TreeHugger">TreeHugger</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.au=Andrew+Posner&amp;rft.btitle=When+The+Sun+Shines+Down+Under.+.+.It+Powers+a+Bus&amp;rft.date=2007-12-19&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.treehugger.com%2Fcars%2Fwhen-the-sun-shines-down-under-it-powers-a-bus.html&amp;rft.pub=TreeHugger&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ecogeek.org/content/view/1245/">All-Electric, Solar-Powered, Free Bus!!!</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090908184215/http://www.ecogeek.org/content/view/1245/">Archived</a> 8 September 2009 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.proterra.com/index.php/mediacenter/companynews/proterra_launches_first_deployment_of_all-electric_zero-emission_buses/">http://www.proterra.com/index.php/mediacenter/companynews/proterra_launches_first_deployment_of_all-electric_zero-emission_buses/</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cgl.uwaterloo.ca/~racowan/escape.html">"Escaping Lock-in: the Case of the Electric Vehicle"</a>. Cgl.uwaterloo.ca<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Escaping+Lock-in%3A+the+Case+of+the+Electric+Vehicle&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cgl.uwaterloo.ca%2F~racowan%2Fescape.html&amp;rft.pub=Cgl.uwaterloo.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">smithelectric.com (2012-03-05). <a rel="nofollow" class="external text" href="http://www.smithelectric.com/smith-electric-vehicles-launches-production-of-all-electric-newton-step-van/">"Smith Electric Vehicle Launches Production of All-Electric Newton™ Step Van"</a>. smithelectric.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.au=smithelectric.com&amp;rft.btitle=Smith+Electric+Vehicle+Launches+Production+of+All-Electric+Newton%84%A2+Step+Van&amp;rft.date=2012-03-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.smithelectric.com%2Fsmith-electric-vehicles-launches-production-of-all-electric-newton-step-van%2F&amp;rft.pub=smithelectric.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EPA_BEVs-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-EPA_BEVs_26-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Energy Efficiency &amp; Renewable Energy, <a href="/wiki/U.S._Department_of_Energy" class="mw-redirect" title="U.S. Department of Energy">U.S. Department of Energy</a> and <a href="/wiki/U._S._Environmental_Protection_Agency" class="mw-redirect" title="U. S. Environmental Protection Agency">U. S. Environmental Protection Agency</a> and (2016-09-14). <a rel="nofollow" class="external text" href="http://www.fueleconomy.gov/feg/PowerSearch.do?action=PowerSearch&amp;year1=2016&amp;year2=2017&amp;minmsrpsel=0&amp;maxmsrpsel=0&amp;city=0&amp;highway=0&amp;combined=0&amp;cbvtelectric=Electric&amp;YearSel=2016-2017&amp;MakeSel=&amp;MarClassSel=&amp;FuelTypeSel=&amp;VehTypeSel=Electric&amp;TranySel=&amp;DriveTypeSel=&amp;CylindersSel=&amp;MpgSel=000&amp;sortBy=Comb&amp;Units=&amp;url=SearchServlet&amp;opt=new&amp;minmsrp=0&amp;maxmsrp=0&amp;minmpg=&amp;maxmpg=&amp;rowLimit=10">"Find a car - Years: 2016–2017 - Vehicle Type: Electric"</a>. fueleconomy.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.au=Energy+Efficiency+%26+Renewable+Energy%2C+U.S.+Department+of+Energy+and+U.+S.+Environmental+Protection+Agency+and&amp;rft.btitle=Find+a+car+-+Years%3A+2016%932017+-+Vehicle+Type%3A+Electric&amp;rft.date=2016-09-14&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fueleconomy.gov%2Ffeg%2FPowerSearch.do%3Faction%3DPowerSearch%26year1%3D2016%26year2%3D2017%26minmsrpsel%3D0%26maxmsrpsel%3D0%26city%3D0%26highway%3D0%26combined%3D0%26cbvtelectric%3DElectric%26YearSel%3D2016-2017%26MakeSel%3D%26MarClassSel%3D%26FuelTypeSel%3D%26VehTypeSel%3DElectric%26TranySel%3D%26DriveTypeSel%3D%26CylindersSel%3D%26MpgSel%3D000%26sortBy%3DComb%26Units%3D%26url%3DSearchServlet%26opt%3Dnew%26minmsrp%3D0%26maxmsrp%3D0%26minmpg%3D%26maxmpg%3D%26rowLimit%3D10&amp;rft.pub=fueleconomy.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-SFG02042016-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-SFG02042016_27-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Baker, David R. (2016-04-01). <a rel="nofollow" class="external text" href="http://www.sfgate.com/business/article/Tesla-Model-3-reservations-near-198-000-7223394.php?cmpid=fb-tablet">"Tesla Model 3 reservations top 232,000"</a>. <i><a href="/wiki/San_Francisco_Chronicle" title="San Francisco Chronicle">San Francisco Chronicle</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Tesla+Model+3+reservations+top+232%2C000&amp;rft.aufirst=David+R.&amp;rft.aulast=Baker&amp;rft.date=2016-04-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sfgate.com%2Fbusiness%2Farticle%2FTesla-Model-3-reservations-near-198-000-7223394.php%3Fcmpid%3Dfb-tablet&amp;rft.jtitle=San+Francisco+Chronicle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation news">Fleming, Charles (2016-09-12). <a rel="nofollow" class="external text" href="http://www.latimes.com/business/autos/la-fi-hy-bolt-ev-range-20160912-snap-story.html">"Chevy Bolt EV range is 238 miles: Prime time for the electric car?"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Chevy+Bolt+EV+range+is+238+miles%3A+Prime+time+for+the+electric+car%3F&amp;rft.aufirst=Charles&amp;rft.aulast=Fleming&amp;rft.date=2016-09-12&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fautos%2Fla-fi-hy-bolt-ev-range-20160912-snap-story.html&amp;rft.jtitle=Los+Angeles+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://earth2tech.com/2010/03/17/should-pollution-factor-into-electric-car-rollout-plans/">"Should Pollution Factor Into Electric Car Rollout Plans?"</a>. Earth2tech.com. 2010-03-17. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100324113932/http://earth2tech.com/2010/03/17/should-pollution-factor-into-electric-car-rollout-plans/">Archived</a> from the original on 24 March 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Should+Pollution+Factor+Into+Electric+Car+Rollout+Plans%3F&amp;rft.date=2010-03-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fearth2tech.com%2F2010%2F03%2F17%2Fshould-pollution-factor-into-electric-car-rollout-plans%2F&amp;rft.pub=Earth2tech.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.electroauto.com/info/pollmyth.shtml">"Electro Automotive: FAQ on Electric Car Efficiency &amp; Pollution"</a>. Electroauto.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Electro+Automotive%3A+FAQ+on+Electric+Car+Efficiency+%26+Pollution&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.electroauto.com%2Finfo%2Fpollmyth.shtml&amp;rft.pub=Electroauto.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cleanairnet.org/baq2003/1496/articles-58076_resource_1.doc">"Clean Air Initiative"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Clean+Air+Initiative&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cleanairnet.org%2Fbaq2003%2F1496%2Farticles-58076_resource_1.doc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since January 2017">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation journal">Notter, Dominic A.; Kouravelou, Katerina; Karachalios, Theodoros; Daletou, Maria K.; Haberland, Nara Tudela. <a rel="nofollow" class="external text" href="http://xlink.rsc.org/?DOI=C5EE01082A">"Life cycle assessment of PEM FC applications: electric mobility and μ-CHP"</a>. <i>Energy Environ. Sci</i>. <b>8</b> (7): 1969–1985. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1039%2Fc5ee01082a">10.1039/c5ee01082a</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Life+cycle+assessment+of+PEM+FC+applications%3A+electric+mobility+and+%CE%BC-CHP&amp;rft.au=Daletou%2C+Maria+K.&amp;rft.aufirst=Dominic+A.&amp;rft.au=Haberland%2C+Nara+Tudela&amp;rft.au=Karachalios%2C+Theodoros&amp;rft.au=Kouravelou%2C+Katerina&amp;rft.aulast=Notter&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fxlink.rsc.org%2F%3FDOI%3DC5EE01082A&amp;rft_id=info%3Adoi%2F10.1039%2Fc5ee01082a&amp;rft.issue=7&amp;rft.jtitle=Energy+Environ.+Sci.&amp;rft.pages=1969-1985&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation journal">Notter, Dominic A.; Gauch, Marcel; Widmer, Rolf; Wäger, Patrick; Stamp, Anna; Zah, Rainer; Althaus, Hans-Jörg (2010-09-01). <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1021/es903729a">"Contribution of Li-Ion Batteries to the Environmental Impact of Electric Vehicles"</a>. <i>Environmental Science &amp; Technology</i>. <b>44</b> (17): 6550–6556. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fes903729a">10.1021/es903729a</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0013-936X">0013-936X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Contribution+of+Li-Ion+Batteries+to+the+Environmental+Impact+of+Electric+Vehicles&amp;rft.au=Althaus%2C+Hans-J%C3%B6rg&amp;rft.aufirst=Dominic+A.&amp;rft.au=Gauch%2C+Marcel&amp;rft.aulast=Notter&amp;rft.au=Stamp%2C+Anna&amp;rft.au=W%C3%A4ger%2C+Patrick&amp;rft.au=Widmer%2C+Rolf&amp;rft.au=Zah%2C+Rainer&amp;rft.date=2010-09-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1021%2Fes903729a&amp;rft_id=info%3Adoi%2F10.1021%2Fes903729a&amp;rft.issn=0013-936X&amp;rft.issue=17&amp;rft.jtitle=Environmental+Science+%26+Technology&amp;rft.pages=6550-6556&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=44" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.treehugger.com/files/2008/04/plug-in-hybrid-cars-co2-emissions-electricity-energy.php">"Plug-in Hybrid Cars: Chart of CO2 Emissions Ranked by Power Source"</a>. TreeHugger. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100325060820/http://www.treehugger.com/files/2008/04/plug-in-hybrid-cars-co2-emissions-electricity-energy.php">Archived</a> from the original on 25 March 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Plug-in+Hybrid+Cars%3A+Chart+of+CO2+Emissions+Ranked+by+Power+Source&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.treehugger.com%2Ffiles%2F2008%2F04%2Fplug-in-hybrid-cars-co2-emissions-electricity-energy.php&amp;rft.pub=TreeHugger&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100728051830/http://www.eia.doe.gov/pub/oiaf/1605/cdrom/pdf/e-supdoc.pdf">"D:\MYDOCS\WPDOCS05B\EFACTO~1.WPD"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.eia.doe.gov/pub/oiaf/1605/cdrom/pdf/e-supdoc.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 28 July 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=D%3A%5CMYDOCS%5CWPDOCS05B%5CEFACTO~1.WPD&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eia.doe.gov%2Fpub%2Foiaf%2F1605%2Fcdrom%2Fpdf%2Fe-supdoc.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Eia.doe.gov-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Eia.doe.gov_36-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eia.doe.gov/cneaf/electricity/epm/table1_1.html">"Electric Power Monthly - Table 1.1. Net Generation by Energy Source"</a>. Eia.doe.gov. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100415043019/http://www.eia.doe.gov/cneaf/electricity/epm/table1_1.html">Archived</a> from the original on 15 April 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Electric+Power+Monthly+-+Table+1.1.+Net+Generation+by+Energy+Source&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eia.doe.gov%2Fcneaf%2Felectricity%2Fepm%2Ftable1_1.html&amp;rft.pub=Eia.doe.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a href="/wiki/United_States_emission_standards#Electricity_generation" title="United States emission standards">United States emission standards#Electricity generation</a></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100508155759/http://www.myelectriccar.com.au/co2.html">"Less CO2"</a>. My Electric Car. Archived from <a rel="nofollow" class="external text" href="http://www.myelectriccar.com.au/co2.html">the original</a> on 8 May 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Less+CO2&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.myelectriccar.com.au%2Fco2.html&amp;rft.pub=My+Electric+Car&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111216054807/http://www.mckinsey.com:80/locations/greaterchina/mckonchina/pdfs/China_Charges_Up.pdf">"McKinsey Greater China"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.mckinsey.com/locations/greaterchina/mckonchina/pdfs/China_Charges_Up.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 16 December 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=McKinsey+Greater+China&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mckinsey.com%2Flocations%2Fgreaterchina%2Fmckonchina%2Fpdfs%2FChina_Charges_Up.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">...the four electric vehicles analysed in this study consume around 1.7 times less primary energy and generate less than half the CO2 of a Toyota Prius... <a rel="nofollow" class="external free" href="http://www.going-electric.org/docs/studies/CO2-energy-electric-vehicles.pdf">http://www.going-electric.org/docs/studies/CO2-energy-electric-vehicles.pdf</a></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web">Palm, Erik (2009-05-01). <a rel="nofollow" class="external text" href="http://news.cnet.com/8301-11128_3-10231102-54.html">"Study: Electric cars not as green as you think | Green Tech - CNET News"</a>. News.cnet.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.aufirst=Erik&amp;rft.aulast=Palm&amp;rft.btitle=Study%3A+Electric+cars+not+as+green+as+you+think+%26%23124%3B+Green+Tech+-+CNET+News&amp;rft.date=2009-05-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.cnet.com%2F8301-11128_3-10231102-54.html&amp;rft.pub=News.cnet.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100421072856/http://www.freep.com/article/20100416/BUSINESS01/4160304/1002/business/Ford-Electric-car-is-autos-future">"Ford says auto future hinges on electric car | freep.com | Detroit Free Press"</a>. freep.com. Archived from <a rel="nofollow" class="external text" href="http://www.freep.com/article/20100416/BUSINESS01/4160304/1002/business/Ford-Electric-car-is-autos-future">the original</a> on 21 April 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Ford+says+auto+future+hinges+on+electric+car+%26%23124%3B+freep.com+%26%23124%3B+Detroit+Free+Press&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.freep.com%2Farticle%2F20100416%2FBUSINESS01%2F4160304%2F1002%2Fbusiness%2FFord-Electric-car-is-autos-future&amp;rft.pub=freep.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation news">Martin LaMonica (2009-02-02). <a rel="nofollow" class="external text" href="http://www.cnn.com/2009/TECH/02/02/electric.vehicles/index.html">"Plotting the long road to one million electric cars"</a>. CNN.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Plotting+the+long+road+to+one+million+electric+cars&amp;rft.au=Martin+LaMonica&amp;rft.date=2009-02-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2009%2FTECH%2F02%2F02%2Felectric.vehicles%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation news">Terry Macalister (2010-04-11). <a rel="nofollow" class="external text" href="https://www.theguardian.com/business/2010/apr/11/peak-oil-production-supply">"US military warns oil output may dip causing massive shortages by 2015 | Business"</a>. London: The Guardian. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100415211533/http://www.guardian.co.uk/business/2010/apr/11/peak-oil-production-supply?">Archived</a> from the original on 15 April 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=US+military+warns+oil+output+may+dip+causing+massive+shortages+by+2015+%26%23124%3B+Business&amp;rft.au=Terry+Macalister&amp;rft.date=2010-04-11&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2010%2Fapr%2F11%2Fpeak-oil-production-supply&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation news">Terry Macalister (2010-02-07). <a rel="nofollow" class="external text" href="https://www.theguardian.com/business/2010/feb/07/branson-warns-peak-oil-close">"Branson warns of oil crunch within five years | Business"</a>. London: The Guardian. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100416082751/http://www.guardian.co.uk/business/2010/feb/07/branson-warns-peak-oil-close">Archived</a> from the original on 16 April 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Branson+warns+of+oil+crunch+within+five+years+%26%23124%3B+Business&amp;rft.au=Terry+Macalister&amp;rft.date=2010-02-07&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2010%2Ffeb%2F07%2Fbranson-warns-peak-oil-close&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web">Loveday, Eric (2010-06-08). <a rel="nofollow" class="external text" href="http://green.autoblog.com/2010/06/08/alg-predicts-gas-at-4-13-by-2013-residual-values-for-compacts/">"ALG predicts gas at $4.13 by 2013; residual values for compacts, hybrids to climb — Autoblog Green"</a>. Green.autoblog.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100814172854/http://green.autoblog.com/2010/06/08/alg-predicts-gas-at-4-13-by-2013-residual-values-for-compacts/">Archived</a> from the original on 14 August 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.aufirst=Eric&amp;rft.aulast=Loveday&amp;rft.btitle=ALG+predicts+gas+at+%244.13+by+2013%3B+residual+values+for+compacts%2C+hybrids+to+climb+%94+Autoblog+Green&amp;rft.date=2010-06-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgreen.autoblog.com%2F2010%2F06%2F08%2Falg-predicts-gas-at-4-13-by-2013-residual-values-for-compacts%2F&amp;rft.pub=Green.autoblog.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://content.usatoday.com/communities/driveon/post/2010/07/obama-pushes-electric-cars-battery-power-this-week-/1">"Obama pushes electric cars, battery power this week"</a>. <i>USA Today</i>. 2010-07-14.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Obama+pushes+electric+cars%2C+battery+power+this+week&amp;rft.date=2010-07-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcontent.usatoday.com%2Fcommunities%2Fdriveon%2Fpost%2F2010%2F07%2Fobama-pushes-electric-cars-battery-power-this-week-%2F1&amp;rft.jtitle=USA+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20101103062957/http://evworld.com:80/news.cfm?newsid=24054">"Freidman OpEd: China's 'Moon Shot' Versus America's"</a>. Archived from <a rel="nofollow" class="external text" href="http://evworld.com/news.cfm?newsid=24054">the original</a> on 3 November 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Freidman+OpEd%3A+China%27s+%27Moon+Shot%27+Versus+America%27s&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fevworld.com%2Fnews.cfm%3Fnewsid%3D24054&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RN350K-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-RN350K_49-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://blog.alliance-renault-nissan.com/content/renault-nissan-alliance-hits-milestone-350000-electric-vehicles-sold-maintains-position-glob">"Renault-Nissan Alliance hits milestone of 350,000 electric vehicles sold, maintains position as global EV leader"</a> (Press release). Paris/Yokohama: Renault-Nissan Alliance. 2016-09-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Renault-Nissan+Alliance+hits+milestone+of+350%2C000+electric+vehicles+sold%2C+maintains+position+as+global+EV+leader&amp;rft.date=2016-09-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fblog.alliance-renault-nissan.com%2Fcontent%2Frenault-nissan-alliance-hits-milestone-350000-electric-vehicles-sold-maintains-position-glob&amp;rft.place=Paris%2FYokohama&amp;rft.pub=Renault-Nissan+Alliance&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>The Alliance has sold its 350,000th electric vehicle since December 2010, when the Nissan LEAF went on sale. The milestone was achieved in August 2016.</i></span></li>
+<li id="cite_note-Tesla125K-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tesla125K_50-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Young, Angelo (2016-04-04). <a rel="nofollow" class="external text" href="http://www.ibtimes.com/tesla-motors-tsla-1q-2016-sales-14820-model-s-model-x-cars-were-delivered-first-three-2348000">"Tesla Motors (TSLA) 1Q 2016 Sales: 14,820 Model S, Model X Cars Were Delivered In First Three Months; Model S Sales Jumped 45%"</a>. <i><a href="/wiki/International_Business_Times" title="International Business Times">International Business Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Tesla+Motors+%28TSLA%29+1Q+2016+Sales%3A+14%2C820+Model+S%2C+Model+X+Cars+Were+Delivered+In+First+Three+Months%3B+Model+S+Sales+Jumped+45%25&amp;rft.aufirst=Angelo&amp;rft.aulast=Young&amp;rft.date=2016-04-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ibtimes.com%2Ftesla-motors-tsla-1q-2016-sales-14820-model-s-model-x-cars-were-delivered-first-three-2348000&amp;rft.jtitle=International+Business+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <i>Since 2008 almost 125,000 all-electric cars had been sold by Tesla Motors at the end of March 2016.</i></span></li>
+<li id="cite_note-Tesla2Q2016-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tesla2Q2016_51-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://files.shareholder.com/downloads/ABEA-4CW8X0/2563692152x0x903036/562D56A1-5426-4D79-8B99-3408D1B60226/Q2_16_Update_Letter_-_final.pdf">"Tesla Second Quarter 2016 Update"</a> <span style="font-size:85%;">(PDF)</span> (Press release). <a href="/wiki/Palo_Alto" class="mw-redirect" title="Palo Alto">Palo Alto</a>: <a href="/wiki/Tesla_Motors" class="mw-redirect" title="Tesla Motors">Tesla Motors</a>. 2016-08-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.btitle=Tesla+Second+Quarter+2016+Update&amp;rft.date=2016-08-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ffiles.shareholder.com%2Fdownloads%2FABEA-4CW8X0%2F2563692152x0x903036%2F562D56A1-5426-4D79-8B99-3408D1B60226%2FQ2_16_Update_Letter_-_final.pdf&amp;rft.place=Palo+Alto&amp;rft.pub=Tesla+Motors&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>During the second quarter of 2016 Tesla Motors delivered 14,402 new vehicles consisting of 9,764 Model S and 4,638 Model X. Production during 2Q 2016 totaled 18,345 vehicles.</i></span></li>
+<li id="cite_note-ModelS150k-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-ModelS150k_52-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Cobb, Jeff (2016-12-05). <a rel="nofollow" class="external text" href="http://www.hybridcars.com/tesla-model-s-is-second-plug-in-car-to-cross-150000-sales-milestone/">"Tesla Model S Is Second Plug-in Car To Cross 150,000 Sales Milestone"</a>. <i>HybridCars.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Tesla+Model+S+Is+Second+Plug-in+Car+To+Cross+150%2C000+Sales+Milestone&amp;rft.aufirst=Jeff&amp;rft.aulast=Cobb&amp;rft.date=2016-12-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hybridcars.com%2Ftesla-model-s-is-second-plug-in-car-to-cross-150000-sales-milestone%2F&amp;rft.jtitle=HybridCars.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <i>The Volt/Ampera family of vehicles is the world's all-time third best selling plug-in electric car after the Nissan Leaf (240,000), and the Tesla Model S (over 150,000), with 130,500 vehicles sold globally through November 2016.</i></span></li>
+<li id="cite_note-Top10Global062016-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-Top10Global062016_53-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Cobb, Jeff (2016-08-10). <a rel="nofollow" class="external text" href="http://www.hybridcars.com/global-10-best-selling-plug-in-cars-are-accelerating-forward/">"Global 10 Best-Selling Plug-In Cars Are Accelerating Forward"</a>. <i>HybridCars.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Global+10+Best-Selling+Plug-In+Cars+Are+Accelerating+Forward&amp;rft.aufirst=Jeff&amp;rft.aulast=Cobb&amp;rft.date=2016-08-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hybridcars.com%2Fglobal-10-best-selling-plug-in-cars-are-accelerating-forward%2F&amp;rft.jtitle=HybridCars.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <i>As of June 2016<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Battery_electric_vehicle&amp;action=edit">[update]</a></sup>, cumulative global sales of the top selling plug-in electric cars were led by the Nissan Leaf (over 228,000), followed by the Tesla Model S (129,393), Votl/Ampera family (about 117,300), Mitsubishi Outlander PHEV (about 107,400), Toyota Prius PHV (over 75,400), BYD Qin (56,191), Renault Zoe (51,193), BMW i3 (around 49,500 including REx variants), Mitsubishi i-MiEV family (about 37,600) and BYD Tang (37,509).</i></span></li>
+<li id="cite_note-Renault2011_16-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-Renault2011_16_54-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Groupe Renault (January 2017). <a rel="nofollow" class="external text" href="https://group.renault.com/finance/informations-financieres/chiffre-cles/ventes-mensuelles">"Ventes Mensuelles" [Monthly Sales]</a> (in French). Renault.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.au=Groupe+Renault&amp;rft.btitle=Ventes+Mensuelles&amp;rft.date=2017-01&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fgroup.renault.com%2Ffinance%2Finformations-financieres%2Fchiffre-cles%2Fventes-mensuelles&amp;rft.pub=Renault.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <i>Includes passenger and light utility variants. Click on "(décembre 2016)" to download the file "XLSX - 239 Ko" for CYTD sales in 2016, and open the tab "Sales by Model". Click on "+ Voir plus" (See more) to download the files "Ventes mensuelles du groupe (décembre 2011) (xls, 183 Ko)" "Ventes mensuelles (décembre 2012) (xls, 289 Ko)" - Ventes mensuelles (décembre 2013) (xlsx, 227 Ko)" - "XLSX - 220 Ko Ventes mensuelles (décembre 2014)" - "Ventes mensuelles (décembre 2015)" to download the file "XLSX - 227 Ko" for 2011, 2012, 2013, 2014 and 2015 sales. Sales figures for 2013 were revised in the 2014 report</i></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tu.no/artikler/batterifergen-har-mattet-sta-over-avganger-na-er-losningen-klar/364633">"Batterifergen har måttet stå over avganger. Nå er løsningen klar"</a>. <i><a href="/wiki/Teknisk_Ukeblad" title="Teknisk Ukeblad">Teknisk Ukeblad</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattery+electric+vehicle&amp;rft.atitle=Batterifergen+har+m%C3%A5ttet+st%C3%A5+over+avganger.+N%C3%A5+er+l%C3%B8sningen+klar&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tu.no%2Fartikler%2Fbatterifergen-har-mattet-sta-over-avganger-na-er-losningen-klar%2F364633&amp;rft.jtitle=Teknisk+Ukeblad&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=19" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Witkin, Jim. <a rel="nofollow" class="external text" href="https://www.nytimes.com/2011/03/31/business/energy-environment/31BATTERIES.html">Building Better Batteries for Electric Cars</a>, <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>, March 31, 2011, p. F4. Published online March 30, 2011. Discusses <a href="/wiki/Rechargeable_battery" title="Rechargeable battery">rechargeable batteries</a> and the new-technology <a href="/wiki/Lithium_ion_battery" class="mw-redirect" title="Lithium ion battery">lithium ion battery</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.eere.energy.gov/afdc/fuels/stations_locator.html">Alternative Fueling Station Locator</a>, charging stations (<a href="/wiki/EERE" class="mw-redirect" title="EERE">EERE</a>).</li>
+<li><a rel="nofollow" class="external text" href="http://www.automotivedesign-europe.com/">Automotive DesignLine Europe</a>, electric and hybrid vehicle design resource for engineers and engineering managers.</li>
+<li><a rel="nofollow" class="external text" href="http://www.un.org/climatechange/summit/wp-content/uploads/sites/2/2014/09/TRANSPORT-Action-Plan-UEMI.pdf">Transport Action Plan: Urban Electric Mobility Initiative</a>, <a href="/wiki/United_Nations" title="United Nations">United Nations</a>, <a href="/wiki/Climate_Summit" title="Climate Summit">Climate Summit 2014</a>, September 2014</li>
+<li><a rel="nofollow" class="external text" href="http://zeroemissionproject.com/blog/article/24/beyond-the-grid-zero-emission-workspace-alias-the-authentic-green-business">Zero Emission Workspace</a>, electric vehicles in an off-grid commercial building project.</li>
+</ul>
+<dl>
+<dt>Patents</dt>
+</dl>
+<ul>
+<li><span><a rel="nofollow" class="external text" href="//www.google.com/patents/US523354">U.S. Patent 523,354</a></span>, Emil E. Keller, <i><a rel="nofollow" class="external text" href="http://www.google.com/patents?id=KI0_AAAAEBAJ&amp;dq=%22Electrically+Propelled+Perambulator%22">Electrically Propelled Perambulator</a></i>, 1894</li>
+<li><span><a rel="nofollow" class="external text" href="//www.google.com/patents/US594805">U.S. Patent 594,805</a></span>, <a href="/wiki/Hiram_Percy_Maxim" title="Hiram Percy Maxim">Hiram Percy Maxim</a>, <i>Motor vehicle</i>, 1897</li>
+<li><span><a rel="nofollow" class="external text" href="//www.google.com/patents/US772571">U.S. Patent 772,571</a></span>, <a href="/wiki/Hiram_Percy_Maxim" title="Hiram Percy Maxim">Hiram Percy Maxim</a> et al., <i><a rel="nofollow" class="external text" href="http://www.google.com/patents?id=d6JHAAAAEBAJ&amp;printsec=abstract&amp;zoom=4&amp;dq=%22Electric+motor+vehicle%22">Electric motor vehicle</a></i>, 1904</li>
+</ul>
+<dl>
+<dt>Organizations</dt>
+</dl>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.batteryvehiclesociety.org.uk/">Battery Vehicle Society (UK)</a> and <a rel="nofollow" class="external text" href="http://www.ev-network.org.uk/">EV Network – the UK national directory of recharging points</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.avere.org/">The European Association for Battery, Hybrid and Fuel Cell Electric Vehicles (AVERE)</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.evcanada.org/">EVCanada – Promoting the uptake of Electric Vehicles in Canada</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.elektromobily.wz.cz/">Czech EV Club – (CZ) Eng. section in photogallery</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.ata.org.au/branches/melbourne-ata-ev-interest-group/">Alternative Technology Association Electric Vehicle Interest Group</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.aeva.asn.au/">Australian Electric Vehicle Association</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.ElectricCarSociety.com/">Electric Car Society</a>.</li>
+</ul>
+<dl>
+<dt>News</dt>
+</dl>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://switchboard.nrdc.org/blogs/mbaumhefner/good_and_green_reasons_to_cons.html">Reasons to buy an electric car in 2013</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.greencarcongress.com/2009/08/av-patent-20090810.html">AeroVironment Awarded U.S. Patent For Electric Vehicle Energy Data Management And Control</a> (<a href="/wiki/Green_Car_Congress" title="Green Car Congress">Green Car Congress</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.dailytech.com/Ford+Focus+Electric+to+go+GridNeutral+With+the+Help+of+SunPower+Panels/article22416.htm">Solar charging station for Ford Focus Electric Vehicle</a></li>
+</ul>
+<dl>
+<dt>Studies</dt>
+</dl>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.epa.gov/dfe/pubs/projects/lbnp/final-li-ion-battery-lca-report.pdf">Application of Life-Cycle Assessment to Nanoscale Technology: Lithium-ion Batteries for Electric Vehicles</a>, <a href="/wiki/U.S._Environmental_Protection_Agency" class="mw-redirect" title="U.S. Environmental Protection Agency">U.S. Environmental Protection Agency</a>, April 2013.</li>
+<li><a rel="nofollow" class="external text" href="http://www.ieahev.org/assets/1/7/IA-HEV_Annual_Report_May_2013_3MB.pdf">Hybrid and Electric Vehicles - The Electric Drive Gains Traction</a>, IA-HEV, <a href="/wiki/International_Energy_Agency" title="International Energy Agency">International Energy Agency</a> (IEA), May 2013</li>
+<li><a rel="nofollow" class="external text" href="http://belfercenter.ksg.harvard.edu/files/Lee%20Lovellette%20Electric%20Vehicles%20DP%202011%20web.pdf">Will Electric Cars Transform the U.S. Vehicle Market?</a> <a href="/wiki/Belfer_Center_for_Science_and_International_Affairs" title="Belfer Center for Science and International Affairs">Belfer Center</a>, Harvard University</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Alternative_fuel_vehicles" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Alternative_propulsion" title="Template:Alternative propulsion"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Alternative_propulsion" title="Template talk:Alternative propulsion"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Alternative_propulsion&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Alternative_fuel_vehicles" style="font-size:114%;margin:0 4em"><a href="/wiki/Alternative_fuel_vehicle" title="Alternative fuel vehicle">Alternative fuel vehicles</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pneumatic_motor" title="Pneumatic motor">Compressed-air engine</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Compressed_air_car" title="Compressed air car">Compressed air car</a></li>
+<li><a href="/wiki/Compressed-air_vehicle" title="Compressed-air vehicle">Compressed-air vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Electric_motor" title="Electric motor">Electric motor</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_locomotive#Battery_locomotive" title="Electric locomotive">Battery-electric locomotive</a></li>
+<li><strong class="selflink">Battery electric vehicle</strong></li>
+<li><a href="/wiki/Cater_MetroTrolley" title="Cater MetroTrolley">Cater MetroTrolley</a></li>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Electric_bicycle" title="Electric bicycle">Electric bicycle</a></li>
+<li><a href="/wiki/Pedelec" title="Pedelec">Pedelec</a></li>
+<li><a href="/wiki/Electric_boat" title="Electric boat">Electric boat</a></li>
+<li><a href="/wiki/Electric_car" title="Electric car">Electric car</a></li>
+<li><a href="/wiki/Electric_platform_truck" title="Electric platform truck">Electric platform truck</a></li>
+<li><a href="/wiki/Electric_vehicle" title="Electric vehicle">Electric vehicle</a></li>
+<li><a href="/wiki/Electric_motorcycles_and_scooters" title="Electric motorcycles and scooters">Electric motorcycles and scooters</a></li>
+<li><a href="/wiki/Sentinel_Waggon_Works#The_Gyro_locomotive" title="Sentinel Waggon Works">Gyro flywheel locomotive</a></li>
+<li><a href="/wiki/Hybrid_electric_vehicle" title="Hybrid electric vehicle">Hybrid electric vehicle</a></li>
+<li><a href="/wiki/Hybrid_train" title="Hybrid train">Hybrid train</a></li>
+<li><a href="/wiki/Motorized_bicycle" title="Motorized bicycle">Motorized bicycle</a></li>
+<li><a href="/wiki/Neighborhood_Electric_Vehicle" title="Neighborhood Electric Vehicle">Neighborhood Electric Vehicle</a></li>
+<li><a href="/wiki/Plug-in_electric_vehicle" title="Plug-in electric vehicle">Plug-in electric vehicle</a></li>
+<li><a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">Plug-in hybrid electric vehicle</a></li>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a> <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">ICE</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alcohol_fuel" title="Alcohol fuel">Alcohol fuel</a></li>
+<li><a href="/wiki/Biodiesel" title="Biodiesel">Biodiesel</a></li>
+<li><a href="/wiki/Biogas" title="Biogas">Biogas</a></li>
+<li><a href="/wiki/Butanol_fuel" title="Butanol fuel">Butanol fuel</a></li>
+<li><a href="/wiki/Common_ethanol_fuel_mixtures" title="Common ethanol fuel mixtures">Common ethanol fuel mixtures</a></li>
+<li><a href="/wiki/E85" title="E85">E85</a></li>
+<li><a href="/wiki/Ethanol_fuel" title="Ethanol fuel">Ethanol fuel</a></li>
+<li><a href="/wiki/Flexible-fuel_vehicle" title="Flexible-fuel vehicle">Flexible-fuel vehicle</a></li>
+<li><a href="/wiki/Methanol_economy" title="Methanol economy">Methanol economy</a></li>
+<li><a href="/wiki/Methanol_fuel" title="Methanol fuel">Methanol fuel</a></li>
+<li><a href="/wiki/Wood_gas" title="Wood gas">Wood gas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fuel_cell_vehicle" title="Fuel cell vehicle">Fuel cell vehicle</a></li>
+<li><a href="/wiki/Hydrogen_economy" title="Hydrogen economy">Hydrogen economy</a></li>
+<li><a href="/wiki/Hydrogen_vehicle" title="Hydrogen vehicle">Hydrogen vehicle</a></li>
+<li><a href="/wiki/Hydrogen_internal_combustion_engine_vehicle" title="Hydrogen internal combustion engine vehicle">Hydrogen internal combustion engine vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Others</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autogas" title="Autogas">Autogas</a></li>
+<li><a href="/wiki/Hybrid_electric_vehicle" title="Hybrid electric vehicle">Hybrid electric vehicle</a></li>
+<li><a href="/wiki/Liquid_nitrogen_vehicle" title="Liquid nitrogen vehicle">Liquid nitrogen vehicle</a></li>
+<li><a href="/wiki/Natural_gas_vehicle" title="Natural gas vehicle">Natural gas vehicle</a></li>
+<li><a href="/wiki/Propane" title="Propane">Propane</a></li>
+<li><a href="/wiki/Steam_car" title="Steam car">Steam car</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Multiple-fuel</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bi-fuel_vehicle" title="Bi-fuel vehicle">Bi-fuel vehicle</a></li>
+<li><a href="/wiki/Flexible-fuel_vehicle" title="Flexible-fuel vehicle">Flexible-fuel vehicle</a></li>
+<li><a href="/wiki/Hybrid_vehicle" title="Hybrid vehicle">Hybrid vehicle</a></li>
+<li><a href="/wiki/Multifuel" title="Multifuel">Multifuel</a></li>
+<li><a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">Plug-in hybrid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Documentaries</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Who_Killed_the_Electric_Car%3F" title="Who Killed the Electric Car?">Who Killed the Electric Car?</a></i></li>
+<li><i><a href="/wiki/What_Is_the_Electric_Car%3F" title="What Is the Electric Car?">What Is the Electric Car?</a></i></li>
+<li><i><a href="/wiki/Revenge_of_the_Electric_Car" title="Revenge of the Electric Car">Revenge of the Electric Car</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wind-powered_vehicle" title="Wind-powered vehicle">Wind-powered vehicle</a></li>
+<li><a href="/wiki/Zero-emissions_vehicle" title="Zero-emissions vehicle">Zero-emissions vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Car_design" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Automobile_configuration" title="Template:Automobile configuration"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Automobile_configuration" title="Template talk:Automobile configuration"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Automobile_configuration&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Car_design" style="font-size:114%;margin:0 4em"><a href="/wiki/Car" title="Car">Car</a> design</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Car_classification" title="Car classification">Car classification</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antique_car" title="Antique car">Antique</a></li>
+<li><a href="/wiki/City_car" title="City car">City car</a></li>
+<li><a href="/wiki/Classic_car" title="Classic car">Classic</a></li>
+<li><a href="/wiki/Compact_car" title="Compact car">Compact</a></li>
+<li><a href="/wiki/Compact_executive_car" title="Compact executive car">Compact executive</a></li>
+<li><a href="/wiki/Compact_MPV" title="Compact MPV">Compact MPV</a></li>
+<li><a href="/wiki/Compact_sport_utility_vehicle" title="Compact sport utility vehicle">Compact SUV</a></li>
+<li><a href="/wiki/Crossover_(automobile)" title="Crossover (automobile)">Crossover SUV</a></li>
+<li><a href="/wiki/Custom_car" title="Custom car">Custom</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Hot_rod" title="Hot rod">Hot rod</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Lead_sled" title="Lead sled">Lead sled</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Lowrider" title="Lowrider">Lowrider</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Hot_rod#1960s_rise_of_the_street_rod" title="Hot rod">Street rod</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/T-bucket" title="T-bucket">T-bucket</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Economy_car" title="Economy car">Economy</a></li>
+<li><a href="/wiki/Executive_car" title="Executive car">Executive</a></li>
+<li><a href="/wiki/Family_car" title="Family car">Family car</a> (<a href="/wiki/Family_car#Large_family_cars" title="Family car">large</a>)</li>
+<li><a href="/wiki/Full-size_car" title="Full-size car">Full-size</a></li>
+<li><a href="/wiki/Grand_tourer" title="Grand tourer">Grand tourer</a></li>
+<li><a href="/wiki/Hot_hatch" title="Hot hatch">Hot hatch</a></li>
+<li><a href="/wiki/Kei_car" title="Kei car">Kei</a></li>
+<li><a href="/wiki/Mini_MPV" title="Mini MPV">Leisure activity vehicle</a></li>
+<li><a href="/wiki/Luxury_vehicle" title="Luxury vehicle">Luxury</a></li>
+<li><a href="/wiki/Microcar" title="Microcar">Microcar</a></li>
+<li><a href="/wiki/Mid-size_car" title="Mid-size car">Mid-size</a></li>
+<li><a href="/wiki/Mini_MPV" title="Mini MPV">Mini MPV</a></li>
+<li><a href="/wiki/Mini_sport_utility_vehicle" title="Mini sport utility vehicle">Mini SUV</a></li>
+<li><a href="/wiki/Minivan" title="Minivan">Minivan / Multi-purpose vehicle <span style="font-size:90%;">(MPV)</span></a></li>
+<li><a href="/wiki/Muscle_car" title="Muscle car">Muscle</a></li>
+<li><a href="/wiki/Personal_luxury_car" title="Personal luxury car">luxury</a></li>
+<li><a href="/wiki/Pony_car" title="Pony car">Pony</a></li>
+<li><a href="/wiki/Sport_compact" title="Sport compact">Sport compact</a></li>
+<li><a href="/wiki/Sport_utility_vehicle" title="Sport utility vehicle">Sport utility vehicle <span style="font-size:90%;">(SUV)</span></a></li>
+<li><a href="/wiki/Sports_car" title="Sports car">Sports car</a></li>
+<li><a href="/wiki/Subcompact_car" title="Subcompact car">Subcompact</a></li>
+<li><a href="/wiki/Supercar" title="Supercar">Supercar</a></li>
+<li><a href="/wiki/Supermini" title="Supermini">Supermini</a></li>
+<li><a href="/wiki/Truck" title="Truck">Truck</a></li>
+<li><a href="/wiki/Ute_(vehicle)" title="Ute (vehicle)">Ute</a></li>
+<li><a href="/wiki/Van" title="Van">Van</a></li>
+<li><a href="/wiki/Voiturette" title="Voiturette">Voiturette</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Body styles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2%2B2_(car_body_style)" title="2+2 (car body style)">2+2</a></li>
+<li><a href="/wiki/Baquet_(car_body_style)" title="Baquet (car body style)">Baquet</a></li>
+<li><a href="/wiki/Barchetta" title="Barchetta">Barchetta</a></li>
+<li><a href="/wiki/Berlinetta" title="Berlinetta">Berlinetta</a></li>
+<li><a href="/wiki/Brougham_(car_body)" title="Brougham (car body)">Brougham</a></li>
+<li><a href="/wiki/Cabrio_coach" title="Cabrio coach">Cabrio coach</a></li>
+<li><a href="/wiki/Convertible" title="Convertible">Cabriolet / Convertible</a></li>
+<li><a href="/wiki/Coup%C3%A9" title="Coupé">Coupé</a></li>
+<li><a href="/wiki/Coupe_de_Ville" title="Coupe de Ville">Coupé de Ville</a></li>
+<li><a href="/wiki/Coup%C3%A9_utility" title="Coupé utility">Coupé utility</a></li>
+<li><a href="/wiki/Convertible" title="Convertible">Drophead coupe (Convertible)</a></li>
+<li><a href="/wiki/Fastback" title="Fastback">Fastback</a></li>
+<li><a href="/wiki/Hardtop" title="Hardtop">Hardtop</a></li>
+<li><a href="/wiki/Hatchback" title="Hatchback">Hatchback</a></li>
+<li><a href="/wiki/Landaulet" title="Landaulet">Landaulet</a></li>
+<li><a href="/wiki/Liftback" class="mw-redirect" title="Liftback">Liftback</a></li>
+<li><a href="/wiki/Limousine" title="Limousine">Limousine</a></li>
+<li><a href="/wiki/Multi-stop_truck" title="Multi-stop truck">Multi-stop truck</a></li>
+<li><a href="/wiki/Notchback" title="Notchback">Notchback</a></li>
+<li><a href="/wiki/Panel_van" title="Panel van">Panel van</a></li>
+<li><a href="/wiki/Phaeton_body" title="Phaeton body">Phaeton</a></li>
+<li><a href="/wiki/Pickup_truck" title="Pickup truck">Pickup truck</a></li>
+<li><a href="/wiki/Quad_coup%C3%A9" title="Quad coupé">Quad coupé</a></li>
+<li><a href="/wiki/Convertible_(car)" class="mw-redirect" title="Convertible (car)">Retractable hardtop</a></li>
+<li><a href="/wiki/Roadster_(automobile)" title="Roadster (automobile)">Roadster</a></li>
+<li><a href="/wiki/Runabout_(car)" title="Runabout (car)">Runabout</a></li>
+<li><a href="/wiki/Sedan_(automobile)" title="Sedan (automobile)">Saloon / Sedan</a></li>
+<li><a href="/wiki/Sedan_delivery" title="Sedan delivery">Sedan delivery</a></li>
+<li><a href="/wiki/Coupe_de_Ville" title="Coupe de Ville">Sedanca de Ville (Coupé de Ville)</a></li>
+<li><a href="/wiki/Shooting-brake" title="Shooting-brake">Shooting-brake</a></li>
+<li><a href="/wiki/Roadster_(automobile)" title="Roadster (automobile)">Spider / Spyder (Roadster)</a></li>
+<li><a href="/wiki/Station_wagon" title="Station wagon">Station wagon</a></li>
+<li><a href="/wiki/Targa_top" title="Targa top">Targa top</a></li>
+<li><a href="/wiki/Torpedo_(car)" title="Torpedo (car)">Torpedo</a></li>
+<li><a href="/wiki/Touring_car" title="Touring car">Touring car</a></li>
+<li><a href="/wiki/Coupe_de_Ville" title="Coupe de Ville">Town car (Coupé de Ville)</a></li>
+<li><a href="/wiki/T-top" title="T-top">T-top</a></li>
+<li><a href="/wiki/Vis-%C3%A0-vis_(carriage)" title="Vis-à-vis (carriage)">Vis-à-vis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Specialized vehicles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amphibious_vehicle" title="Amphibious vehicle">Amphibious</a></li>
+<li><a href="/wiki/Autonomous_car" title="Autonomous car">Driverless (autonomous)</a></li>
+<li><a href="/wiki/Hearse" title="Hearse">Hearse</a></li>
+<li><a href="/wiki/Gyrocar" title="Gyrocar">Gyrocar</a></li>
+<li><a href="/wiki/Roadable_aircraft" title="Roadable aircraft">Roadable aircraft</a></li>
+<li><a href="/wiki/Taxicab" title="Taxicab">Taxicab</a></li>
+<li><a href="/wiki/Tow_truck" title="Tow truck">Tow truck</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Ground_propulsion" title="Ground propulsion">Propulsion</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alternative_fuel_vehicle" title="Alternative fuel vehicle">Alternative fuel</a></li>
+<li><a href="/wiki/Autogas" title="Autogas">Autogas</a></li>
+<li><a href="/wiki/Biodiesel" title="Biodiesel">Biodiesel</a></li>
+<li><a href="/wiki/Diesel_engine" title="Diesel engine">Diesel</a></li>
+<li><a href="/wiki/Electric_vehicle" title="Electric vehicle">Electric</a>&#160;(<strong class="selflink">battery</strong></li>
+<li><a href="/wiki/Neighborhood_Electric_Vehicle" title="Neighborhood Electric Vehicle">NEV</a>)</li>
+<li><a href="/wiki/Common_ethanol_fuel_mixtures" title="Common ethanol fuel mixtures">Ethanol</a>&#160;(<a href="/wiki/E85" title="E85">E85</a>)</li>
+<li><a href="/wiki/Fuel_cell" title="Fuel cell">Fuel cell</a></li>
+<li><a href="/wiki/Petrol_engine" title="Petrol engine">Gasoline&#160;/ petrol</a>&#160;(<a href="/wiki/Gasoline_direct_injection" title="Gasoline direct injection">direct injection</a>)</li>
+<li><a href="/wiki/Homogeneous_charge_compression_ignition" title="Homogeneous charge compression ignition">Homogeneous charge compression ignition</a></li>
+<li><a href="/wiki/Hybrid_electric_vehicle" title="Hybrid electric vehicle">Hybrid</a>&#160;(<a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">plug-in</a>)</li>
+<li><a href="/wiki/Hydrogen_vehicle" title="Hydrogen vehicle">Hydrogen</a></li>
+<li><a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">Internal combustion</a></li>
+<li><a href="/wiki/Liquid_nitrogen_vehicle" title="Liquid nitrogen vehicle">Liquid nitrogen</a></li>
+<li><a href="/wiki/Steam_car" title="Steam car">Steam</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Drive_wheel" title="Drive wheel">Drive wheels</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Front-wheel_drive" title="Front-wheel drive">Front-wheel</a></li>
+<li><a href="/wiki/Automobile_layout#Rear_wheel_drive_layouts" title="Automobile layout">Rear-wheel</a></li>
+<li><a href="/wiki/Two-wheel_drive" title="Two-wheel drive">Two-wheel</a></li>
+<li><a href="/wiki/Four-wheel_drive" title="Four-wheel drive">Four-wheel</a></li>
+<li><a href="/wiki/Six-wheel_drive" title="Six-wheel drive">Six-wheel</a></li>
+<li><a href="/wiki/Eight-wheel_drive" title="Eight-wheel drive">Eight-wheel</a></li>
+<li><a href="/wiki/Twelve-wheel_drive" title="Twelve-wheel drive">Twelve-wheel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Automobile_layout" title="Automobile layout">Engine position</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Front-engine_design" class="mw-redirect" title="Front-engine design">Front</a></li>
+<li><a href="/wiki/Mid-engine_design" title="Mid-engine design">Mid</a></li>
+<li><a href="/wiki/Rear-engine_design" title="Rear-engine design">Rear</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Automobile_layout" title="Automobile layout">Layout</a> <span style="font-weight:normal;">(engine&#160;/ drive)</span></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Front-engine,_front-wheel-drive_layout" title="Front-engine, front-wheel-drive layout">Front&#160;/ front</a>&#160;</li>
+<li>&#160;<a href="/wiki/Front_mid-engine,_front-wheel-drive_layout" title="Front mid-engine, front-wheel-drive layout">Front mid&#160;/ front</a>&#160;</li>
+<li>&#160;<a href="/wiki/Rear-engine,_front-wheel-drive_layout" title="Rear-engine, front-wheel-drive layout">Rear&#160;/ front</a>&#160;</li>
+<li>&#160;<a href="/wiki/Front-engine,_rear-wheel-drive_layout" title="Front-engine, rear-wheel-drive layout">Front&#160;/ rear</a>&#160;</li>
+<li>&#160;<a href="/wiki/Rear_mid-engine,_rear-wheel-drive_layout" title="Rear mid-engine, rear-wheel-drive layout">Rear mid&#160;/ rear</a>&#160;</li>
+<li>&#160;<a href="/wiki/Rear-engine,_rear-wheel-drive_layout" title="Rear-engine, rear-wheel-drive layout">Rear&#160;/ rear</a>&#160;</li>
+<li>&#160;<a href="/wiki/Front-engine,_four-wheel-drive_layout" title="Front-engine, four-wheel-drive layout">Front&#160;/ four-wheel</a>&#160;</li>
+<li>&#160;<a href="/wiki/Mid-engine,_four-wheel-drive_layout" title="Mid-engine, four-wheel-drive layout">Mid&#160;/ four-wheel</a>&#160;</li>
+<li>&#160;<a href="/wiki/Rear-engine,_four-wheel-drive_layout" title="Rear-engine, four-wheel-drive layout">Rear&#160;/ four-wheel</a>&#160;</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Engine_configuration" title="Engine configuration">Engine configuration</a><br />
+<span style="font-weight:normal;">(<a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion</a>)</span></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Flat_engine" title="Flat engine">Boxer</a></li>
+<li><a href="/wiki/Flat_engine" title="Flat engine">Flat</a></li>
+<li><a href="/wiki/Four-stroke_engine" title="Four-stroke engine">Four-stroke</a></li>
+<li><a href="/wiki/H_engine" title="H engine">H-block</a></li>
+<li><a href="/wiki/Straight_engine" title="Straight engine">Inline</a></li>
+<li><a href="/wiki/Reciprocating_engine" title="Reciprocating engine">Reciprocating</a></li>
+<li><a href="/wiki/Single-cylinder_engine" title="Single-cylinder engine">Single-cylinder</a></li>
+<li><a href="/wiki/Straight_engine" title="Straight engine">Straight</a></li>
+<li><a href="/wiki/Two-stroke_engine" title="Two-stroke engine">Two-stroke</a></li>
+<li><a href="/wiki/V_engine" title="V engine">V (Vee)</a></li>
+<li><a href="/wiki/W_engine" title="W engine">W engine</a></li>
+<li><a href="/wiki/Wankel_engine" title="Wankel engine">Wankel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><a href="/wiki/Portal:Cars" title="Portal:Cars">Portal</a></li>
+<li><a href="/wiki/Category:Automobiles" title="Category:Automobiles">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20170314221313
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.528 seconds
+Real time usage: 0.635 seconds
+Preprocessor visited node count: 4047/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 139609/2097152 bytes
+Template argument size: 3778/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 8/500
+Lua time usage: 0.250/10.000 seconds
+Lua memory usage: 8.65 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  526.531      1 -total
+ 57.07%  300.496      1 Template:Reflist
+ 20.51%  107.980     27 Template:Cite_web
+ 13.50%   71.095     11 Template:Cite_news
+  5.39%   28.377      6 Template:Convert
+  4.54%   23.923      1 Template:News_release_section
+  4.53%   23.856      4 Template:As_of
+  4.42%   23.278      1 Template:Commons_category
+  4.29%   22.580      2 Template:Ambox
+  4.02%   21.155      2 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16105212-0!*!0!!en!4!* and timestamp 20170314221313 and revision id 769547581
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Battery_electric_vehicle&amp;oldid=769547581">https://en.wikipedia.org/w/index.php?title=Battery_electric_vehicle&amp;oldid=769547581</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Battery_electric_vehicles" title="Category:Battery electric vehicles">Battery electric vehicles</a></li><li><a href="/wiki/Category:Automotive_technologies" title="Category:Automotive technologies">Automotive technologies</a></li><li><a href="/wiki/Category:Sustainable_technologies" title="Category:Sustainable technologies">Sustainable technologies</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_December_2016" title="Category:Articles containing potentially dated statements from December 2016">Articles containing potentially dated statements from December 2016</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_January_2017" title="Category:Articles with dead external links from January 2017">Articles with dead external links from January 2017</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_June_2016" title="Category:Articles containing potentially dated statements from June 2016">Articles containing potentially dated statements from June 2016</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_July_2013" title="Category:Articles with a promotional tone from July 2013">Articles with a promotional tone from July 2013</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_October_2014" title="Category:Articles with failed verification from October 2014">Articles with failed verification from October 2014</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_February_2008" title="Category:Articles to be expanded from February 2008">Articles to be expanded from February 2008</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2011" title="Category:Use dmy dates from January 2011">Use dmy dates from January 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Battery+electric+vehicle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Battery+electric+vehicle" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Battery_electric_vehicle"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Battery_electric_vehicle"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Battery_electric_vehicle" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Battery_electric_vehicle" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Battery_electric_vehicle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Battery_electric_vehicle&amp;oldid=769547581" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Battery_electric_vehicle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1076882" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Battery_electric_vehicle&amp;id=769547581" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Battery+electric+vehicle">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Battery+electric+vehicle&amp;returnto=Battery+electric+vehicle&amp;oldid=769547581&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Battery_electric_vehicle&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Battery-powered_vehicles" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Vehicle_el%C3%A8ctric_de_bateria" title="Vehicle elèctric de bateria – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Cerbyd_trydan_batri" title="Cerbyd trydan batri – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Veh%C3%ADculo_el%C3%A9ctrico_de_bater%C3%ADa" title="Vehículo eléctrico de batería – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%8B%9D_%EC%A0%84%EA%B8%B0%EC%9E%90%EB%8F%99%EC%B0%A8" title="배터리식 전기자동차 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%9B%D7%91_%D7%97%D7%A9%D7%9E%D7%9C%D7%99_%D7%9E%D7%95%D7%A0%D7%A2_%D7%9E%D7%A6%D7%91%D7%A8" title="רכב חשמלי מונע מצבר – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%BC%8F%E9%9B%BB%E5%8B%95%E8%BC%B8%E9%80%81%E6%A9%9F%E5%99%A8" title="バッテリー式電動輸送機器 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%B4%94%E9%9B%BB%E5%8B%95%E8%BB%8A" title="純電動車 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1076882#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 March 2017, at 06:41.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Battery_electric_vehicle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.528","walltime":"0.635","ppvisitednodes":{"value":4047,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":139609,"limit":2097152},"templateargumentsize":{"value":3778,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  526.531      1 -total"," 57.07%  300.496      1 Template:Reflist"," 20.51%  107.980     27 Template:Cite_web"," 13.50%   71.095     11 Template:Cite_news","  5.39%   28.377      6 Template:Convert","  4.54%   23.923      1 Template:News_release_section","  4.53%   23.856      4 Template:As_of","  4.42%   23.278      1 Template:Commons_category","  4.29%   22.580      2 Template:Ambox","  4.02%   21.155      2 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.250","limit":"10.000"},"limitreport-memusage":{"value":9067872,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20170314221313","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1210"});});</script>
+	</body>
+</html>

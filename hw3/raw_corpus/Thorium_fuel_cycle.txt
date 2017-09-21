@@ -1,0 +1,1870 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Thorium fuel cycle - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thorium_fuel_cycle","wgTitle":"Thorium fuel cycle","wgCurRevisionId":769867423,"wgRevisionId":769867423,"wgArticleId":3901932,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Nuclear chemistry","Nuclear fuels","Nuclear reprocessing","Nuclear technology","Actinides","Thorium"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Thorium_fuel_cycle","wgRelevantArticleId":3901932,"wgRequestId":"WMSyvApAMFIAAKHRlkgAAABJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q302806","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/13/Thorium_sample_0.1g.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Thorium_fuel_cycle"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Thorium_fuel_cycle"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Thorium_fuel_cycle rootpage-Thorium_fuel_cycle skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Thorium fuel cycle</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Thorium_sample_0.1g.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Thorium_sample_0.1g.jpg/250px-Thorium_sample_0.1g.jpg" width="250" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Thorium_sample_0.1g.jpg/375px-Thorium_sample_0.1g.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Thorium_sample_0.1g.jpg/500px-Thorium_sample_0.1g.jpg 2x" data-file-width="1000" data-file-height="667" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Thorium_sample_0.1g.jpg" class="internal" title="Enlarge"></a></div>
+A sample of <a href="/wiki/Thorium" title="Thorium">thorium</a></div>
+</div>
+</div>
+<p>The <b>thorium fuel cycle</b> is a <a href="/wiki/Nuclear_fuel_cycle" title="Nuclear fuel cycle">nuclear fuel cycle</a> that uses the <a href="/wiki/Isotope" title="Isotope">isotope</a> of <a href="/wiki/Thorium" title="Thorium">thorium</a>, <span style="white-space:nowrap;"><a href="/wiki/Thorium-232" class="mw-redirect" title="Thorium-232"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>, as the <a href="/wiki/Fertile_material" title="Fertile material">fertile material</a>. In the reactor, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> is <a href="/wiki/Nuclear_transmutation" title="Nuclear transmutation">transmuted</a> into the <a href="/wiki/Fissile" class="mw-redirect" title="Fissile">fissile</a> artificial <a href="/wiki/Uranium" title="Uranium">uranium</a> isotope <span style="white-space:nowrap;"><a href="/wiki/Uranium-233" title="Uranium-233"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span> which is the <a href="/wiki/Nuclear_fuel" title="Nuclear fuel">nuclear fuel</a>. Unlike <a href="/wiki/Natural_uranium" title="Natural uranium">natural uranium</a>, natural thorium contains only trace amounts of fissile material (such as <span style="white-space:nowrap;"><a href="/wiki/Thorium-231" class="mw-redirect" title="Thorium-231"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">231<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>), which are insufficient to initiate a <a href="/wiki/Nuclear_chain_reaction" title="Nuclear chain reaction">nuclear chain reaction</a>. Additional fissile material or another neutron source are necessary to initiate the fuel cycle. In a thorium-fuelled reactor, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> absorbs <a href="/wiki/Neutron" title="Neutron">neutrons</a> eventually to produce <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>. This parallels the process in uranium <a href="/wiki/Breeder_reactor" title="Breeder reactor">breeder reactors</a> whereby fertile <span style="white-space:nowrap;"><a href="/wiki/Uranium-238" title="Uranium-238"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">238<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span> absorbs neutrons to form fissile <span style="white-space:nowrap;"><a href="/wiki/Plutonium-239" title="Plutonium-239"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">239<br /></span>Pu<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>. Depending on the design of the reactor and fuel cycle, the generated <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> either fissions <a href="/wiki/In_situ" title="In situ">in situ</a> or is chemically separated from the <a href="/wiki/Used_nuclear_fuel" class="mw-redirect" title="Used nuclear fuel">used nuclear fuel</a> and formed into new nuclear fuel.</p>
+<p>The thorium fuel cycle has several potential advantages over a <a href="/wiki/Uranium_fuel_cycle" class="mw-redirect" title="Uranium fuel cycle">uranium fuel cycle</a>, including thorium's <a href="/wiki/Thorium#Occurrence" title="Thorium">greater abundance</a>, superior physical and nuclear properties, better resistance to <a href="/wiki/Nuclear_proliferation" title="Nuclear proliferation">nuclear weapons proliferation</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Hargraves-Moir_3-0" class="reference"><a href="#cite_note-Hargraves-Moir-3">[3]</a></sup> and reduced <a href="/wiki/Plutonium" title="Plutonium">plutonium</a> and <a href="/wiki/Actinide" title="Actinide">actinide</a> production.<sup id="cite_ref-Hargraves-Moir_3-1" class="reference"><a href="#cite_note-Hargraves-Moir-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Nuclear_reactions_with_thorium"><span class="tocnumber">2</span> <span class="toctext">Nuclear reactions with thorium</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Fission_product_wastes"><span class="tocnumber">2.1</span> <span class="toctext">Fission product wastes</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Actinide_wastes"><span class="tocnumber">2.2</span> <span class="toctext">Actinide wastes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Uranium-232_contamination"><span class="tocnumber">2.3</span> <span class="toctext">Uranium-232 contamination</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Nuclear_fuel"><span class="tocnumber">3</span> <span class="toctext">Nuclear fuel</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Advantages"><span class="tocnumber">3.1</span> <span class="toctext">Advantages</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Disadvantages"><span class="tocnumber">3.2</span> <span class="toctext">Disadvantages</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Reactors"><span class="tocnumber">4</span> <span class="toctext">Reactors</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#List_of_thorium-fuelled_reactors"><span class="tocnumber">4.1</span> <span class="toctext">List of thorium-fuelled reactors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Concerns about the <a href="/wiki/Uranium_depletion" class="mw-redirect" title="Uranium depletion">limits of worldwide uranium resources</a> motivated initial interest in the thorium fuel cycle.<sup id="cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-0" class="reference"><a href="#cite_note-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges-4">[4]</a></sup> It was envisioned that as uranium reserves were depleted, thorium would supplement uranium as a fertile material. However, for most countries uranium was relatively abundant and research in thorium fuel cycles waned. A notable exception was <a href="/wiki/India%27s_three-stage_nuclear_power_programme" title="India's three-stage nuclear power programme">India's three-stage nuclear power programme</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> In the twenty-first century thorium's potential for improving proliferation resistance and <a href="/wiki/Nuclear_waste" class="mw-redirect" title="Nuclear waste">waste</a> characteristics led to renewed interest in the thorium fuel cycle.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>At <a href="/wiki/Oak_Ridge_National_Laboratory" title="Oak Ridge National Laboratory">Oak Ridge National Laboratory</a> in the 1960s, the <a href="/wiki/Molten-Salt_Reactor_Experiment" title="Molten-Salt Reactor Experiment">Molten-Salt Reactor Experiment</a> used <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> as the fissile fuel as an experiment to demonstrate a part of the Molten Salt Breeder Reactor that was designed to operate on the thorium fuel cycle. <a href="/wiki/Molten_salt_reactor" title="Molten salt reactor">Molten salt reactor</a> (MSR) experiments assessed thorium's feasibility, using <a href="/wiki/Thorium(IV)_fluoride" class="mw-redirect" title="Thorium(IV) fluoride">thorium(IV) fluoride</a> dissolved in a <a href="/wiki/Molten_salt" title="Molten salt">molten salt</a> fluid that eliminated the need to fabricate fuel elements. The MSR program was defunded in 1976 after its patron <a href="/wiki/Alvin_Weinberg" class="mw-redirect" title="Alvin Weinberg">Alvin Weinberg</a> was fired.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>In 2006, <a href="/wiki/Carlo_Rubbia" title="Carlo Rubbia">Carlo Rubbia</a> proposed the concept of an <a href="/wiki/Energy_amplifier" title="Energy amplifier">energy amplifier</a> or "accelerator driven system" (ADS), which he saw as a novel and safe way to produce nuclear energy that exploited existing accelerator technologies. Rubbia's proposal offered the potential to incinerate high-activity nuclear waste and produce energy from natural <a href="/wiki/Thorium" title="Thorium">thorium</a> and depleted <a href="/wiki/Uranium" title="Uranium">uranium</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p><a href="/wiki/Kirk_Sorensen" class="mw-redirect" title="Kirk Sorensen">Kirk Sorensen</a>, former NASA scientist and Chief Nuclear Technologist at <a href="/wiki/Teledyne_Brown_Engineering" class="mw-redirect" title="Teledyne Brown Engineering">Teledyne Brown Engineering</a>, has been a long-time promoter of thorium fuel cycle and particularly <a href="/wiki/Liquid_fluoride_thorium_reactor" title="Liquid fluoride thorium reactor">liquid fluoride thorium reactors</a> (LFTRs). He first researched thorium reactors while working at <a href="/wiki/NASA" title="NASA">NASA</a>, while evaluating power plant designs suitable for lunar colonies. In 2006 Sorensen started "energyfromthorium.com" to promote and make information available about this technology.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>A 2011 MIT study concluded that although there is little in the way of barriers to a thorium fuel cycle, with current or near term light-water reactor designs there is also little incentive for any significant market penetration to occur. As such they conclude there is little chance of thorium cycles replacing conventional uranium cycles in the current nuclear power market, despite the potential benefits.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Nuclear_reactions_with_thorium">Nuclear reactions with thorium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=2" title="Edit section: Nuclear reactions with thorium">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quotebox" style="float: right; clear: right; margin: 0.5em 0 0.8em 1.4em; width:220px; padding: 6px; border: 1px solid #aaa; font-size: 88%; background-color: #F9F9F9;">
+<div class="" style="position: relative; text-align: left;">
+<div>
+<p><i>"Thorium is like wet wood […it] needs to be turned into fissile uranium just as wet wood needs to be <a href="/wiki/Wood_drying" title="Wood drying">dried</a> in a furnace."</i></p>
+</div>
+</div>
+<cite style="display: block; text-align: left;">— <a href="/wiki/Ratan_Kumar_Sinha" title="Ratan Kumar Sinha">Ratan Kumar Sinha</a>, current Chairman of the <a href="/wiki/Atomic_Energy_Commission_of_India" title="Atomic Energy Commission of India">Atomic Energy Commission of India</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></cite></div>
+<p>In the thorium cycle, fuel is formed when <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> <a href="/wiki/Neutron_capture" title="Neutron capture">captures</a> a <a href="/wiki/Neutron" title="Neutron">neutron</a> (whether in a <a href="/wiki/Fast_reactor" class="mw-redirect" title="Fast reactor">fast reactor</a> or <a href="/wiki/Thermal_reactor" class="mw-redirect" title="Thermal reactor">thermal reactor</a>) to become <span style="white-space:nowrap;"><a href="/wiki/Thorium-233" class="mw-redirect" title="Thorium-233"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>. This normally emits an <a href="/wiki/Electron" title="Electron">electron</a> and an <a href="/wiki/Antineutrino" class="mw-redirect" title="Antineutrino">anti-neutrino</a> (<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><br /></span><span style="text-decoration:overline;">ν</span><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>) by <a href="/wiki/Beta_decay" title="Beta decay"><span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><br /></span>β<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left">−<br /></span></span> decay</a> to become <span style="white-space:nowrap;"><a href="/wiki/Protactinium-233" class="mw-redirect" title="Protactinium-233"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>Pa<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>. This then emits another electron and anti-neutrino by a second <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><br /></span>β<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left">−<br /></span></span> decay to become <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, the fuel:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mtext>n</mtext>
+              <mtext>neutron</mtext>
+            </mover>
+          </mrow>
+          <mo>+</mo>
+          <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="false" scriptlevel="1">
+                <mstyle scriptlevel="1">
+                  <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                    <mtr>
+                      <mtd>
+                        <mn>232</mn>
+                      </mtd>
+                    </mtr>
+                    <mtr>
+                      <mtd>
+                        <mn>90</mn>
+                      </mtd>
+                    </mtr>
+                  </mtable>
+                </mstyle>
+              </mstyle>
+            </mrow>
+          </mpadded>
+          <mspace width="-.125em" />
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>Th</mtext>
+          </mrow>
+          <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+          <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="false" scriptlevel="1">
+                <mstyle scriptlevel="1">
+                  <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                    <mtr>
+                      <mtd>
+                        <mn>233</mn>
+                      </mtd>
+                    </mtr>
+                    <mtr>
+                      <mtd>
+                        <mn>90</mn>
+                      </mtd>
+                    </mtr>
+                  </mtable>
+                </mstyle>
+              </mstyle>
+            </mrow>
+          </mpadded>
+          <mspace width="-.125em" />
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>Th</mtext>
+          </mrow>
+          <mrow class="MJX-TeXAtom-REL">
+            <mover>
+              <mo>&#x2192;</mo>
+              <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                <msup>
+                  <mi>&#x03B2;<!-- β --></mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo>&#x2212;<!-- − --></mo>
+                  </mrow>
+                </msup>
+              </mpadded>
+            </mover>
+          </mrow>
+          <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="false" scriptlevel="1">
+                <mstyle scriptlevel="1">
+                  <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                    <mtr>
+                      <mtd>
+                        <mn>233</mn>
+                      </mtd>
+                    </mtr>
+                    <mtr>
+                      <mtd>
+                        <mn>91</mn>
+                      </mtd>
+                    </mtr>
+                  </mtable>
+                </mstyle>
+              </mstyle>
+            </mrow>
+          </mpadded>
+          <mspace width="-.125em" />
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>Pa</mtext>
+          </mrow>
+          <mrow class="MJX-TeXAtom-REL">
+            <mover>
+              <mo>&#x2192;</mo>
+              <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                <msup>
+                  <mi>&#x03B2;<!-- β --></mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo>&#x2212;<!-- − --></mo>
+                  </mrow>
+                </msup>
+              </mpadded>
+            </mover>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mrow>
+                <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mstyle displaystyle="false" scriptlevel="1">
+                      <mstyle scriptlevel="1">
+                        <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                          <mtr>
+                            <mtd>
+                              <mn>233</mn>
+                            </mtd>
+                          </mtr>
+                          <mtr>
+                            <mtd>
+                              <mn>92</mn>
+                            </mtd>
+                          </mtr>
+                        </mtable>
+                      </mstyle>
+                    </mstyle>
+                  </mrow>
+                </mpadded>
+                <mspace width="-.125em" />
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>U</mtext>
+                </mrow>
+              </mrow>
+              <mtext>fuel</mtext>
+            </mover>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {{\overset {neutron}{n}}+_{90}^{232}{Th}-&gt;_{90}^{233}{Th}-&gt;[\beta ^{-}]_{91}^{233}{Pa}-&gt;[\beta ^{-}]{\overset {fuel}{_{92}^{233}{U}}}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a0085d046916d6d235221816c5e92fce835619d7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.752ex; margin-bottom: -0.252ex; width:45.437ex; height:5.176ex;" alt="{\displaystyle {\ce {{\overset {neutron}{n}}+_{90}^{232}{Th}-&gt;_{90}^{233}{Th}-&gt;[\beta ^{-}]_{91}^{233}{Pa}-&gt;[\beta ^{-}]{\overset {fuel}{_{92}^{233}{U}}}}}}" /></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Fission_product_wastes">Fission product wastes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=3" title="Edit section: Fission product wastes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Nuclear_fission" title="Nuclear fission">Nuclear fission</a> produces radioactive <a href="/wiki/Fission_product" class="mw-redirect" title="Fission product">fission products</a> which can have half-lives from <a href="/wiki/LLFP#Short-term" class="mw-redirect" title="LLFP">days</a> to <a href="/wiki/LLFP" class="mw-redirect" title="LLFP">greater than 200,000 years</a>. According to some toxicity studies,<sup id="cite_ref-LEBRUN_15-0" class="reference"><a href="#cite_note-LEBRUN-15">[15]</a></sup> the thorium cycle can fully recycle actinide wastes and only emit fission product wastes, and after a few hundred years, the waste from a thorium reactor can be less toxic than the <a href="/wiki/Uranium_ore" title="Uranium ore">uranium ore</a> that would have been used to produce <a href="/wiki/Low_enriched_uranium" class="mw-redirect" title="Low enriched uranium">low enriched uranium</a> fuel for a <a href="/wiki/Light_water_reactor" class="mw-redirect" title="Light water reactor">light water reactor</a> of the same power. Other studies assume some actinide losses and find that actinide wastes dominate thorium cycle waste radioactivity at some future periods.<sup id="cite_ref-BRISSOT_16-0" class="reference"><a href="#cite_note-BRISSOT-16">[16]</a></sup></p>
+<h3><span class="mw-headline" id="Actinide_wastes">Actinide wastes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=4" title="Edit section: Actinide wastes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a reactor, when a neutron hits a fissile atom (such as certain isotopes of uranium), it either splits the nucleus or is captured and transmutes the atom. In the case of <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, the transmutations tend to produce useful nuclear fuels rather than <a href="/wiki/Transuranic" class="mw-redirect" title="Transuranic">transuranic</a> wastes. When <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> absorbs a neutron, it either fissions or becomes <span style="white-space:nowrap;"><a href="/wiki/Uranium-234" title="Uranium-234"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">234<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>. The chance of fissioning on absorption of a <a href="/wiki/Thermal_neutron" class="mw-redirect" title="Thermal neutron">thermal neutron</a> is about 92%; the capture-to-fission ratio of <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, therefore, is about 1:12 — which is better than the corresponding capture vs. fission ratios of <span style="white-space:nowrap;"><a href="/wiki/Uranium-235" title="Uranium-235"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span> (about 1:6), or <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">239<br /></span>Pu<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> or <span style="white-space:nowrap;"><a href="/wiki/Plutonium-241" title="Plutonium-241"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">241<br /></span>Pu<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span> (both about 1:3).<sup id="cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-1" class="reference"><a href="#cite_note-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges-4">[4]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> The result is less <a href="/wiki/Transuranic" class="mw-redirect" title="Transuranic">transuranic</a> waste than in a reactor using the uranium-plutonium fuel cycle.</p>
+<table style="text-align:center; border 1px solid; margin: 1em; float:right;">
+<caption>Transmutation in the <strong class="selflink">thorium fuel cycle</strong></caption>
+<tr>
+<td title="Half-life: 10k-100k years" style="background:#00ffc0;"><small><sup>230</sup></small>Th</td>
+<td>→</td>
+<td title="Half-life: &lt;1 day" style="background:#ffffff;"><small><sup>231</sup></small>Th</td>
+<td>←</td>
+<td title="Half-life: 700M-14G years" style="background:#b0b0e0;"><small><sup>232</sup></small>Th</td>
+<td>→</td>
+<td title="Half-life: &lt;1 day" style="background:#ffffff;"><small><sup>233</sup></small>Th</td>
+<td></td>
+<td colspan="7">(White actinides: t<sub>½</sub>&lt;27d)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>↓</td>
+<td></td>
+<td></td>
+<td></td>
+<td>↓</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td title="Half-life: 10k-100k years" style="background:#00ffc0;"><small><sup>231</sup></small>Pa</td>
+<td>→</td>
+<td title="Half-life: &lt;1 day" style="background:#ffffff;"><small><sup>232</sup></small>Pa</td>
+<td>←</td>
+<td title="Half-life: &lt;1 day" style="background:#ffffff;"><small><sup>233</sup></small>Pa</td>
+<td>→</td>
+<td title="Half-life: &lt;1 day" style="background:#ffffff;"><small><sup>234</sup></small>Pa</td>
+<td></td>
+<td colspan="5">(Colored&#160;: t<sub>½</sub>&gt;68y)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>↑</td>
+<td></td>
+<td>↓</td>
+<td></td>
+<td>↓</td>
+<td></td>
+<td>↓</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td title="Half-life: &lt;1 day" style="background:#ffffff;"><small><sup>231</sup></small>U</td>
+<td>←</td>
+<td title="Half-life: 10-100 years" style="background:#c0ff00;"><small><sup>232</sup></small>U</td>
+<td>↔</td>
+<td title="Half-life: 100k-1M years" style="background:#00ffff;"><small><sup>233</sup></small>U</td>
+<td>↔</td>
+<td title="Half-life: 100k-1M years" style="background:#00ffff;"><small><sup>234</sup></small>U</td>
+<td>↔</td>
+<td title="Half-life: 700M-14G years" style="background:#b0b0e0;"><small><sup>235</sup></small>U</td>
+<td>↔</td>
+<td title="Half-life: 10M-103M years" style="background:#0080ff;"><small><sup>236</sup></small>U</td>
+<td>→</td>
+<td title="Half-life: &lt;1 day" style="background:#ffffff;"><small><sup>237</sup></small>U</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>↓</td>
+<td></td>
+<td>↓</td>
+<td></td>
+<td></td>
+<td></td>
+<td>↓</td>
+<td></td>
+<td></td>
+<td></td>
+<td>↓</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="11">(<a href="/wiki/Fission_product" class="mw-redirect" title="Fission product">Fission products</a> with t<sub>½</sub>&lt;90y or t<sub>½</sub>&gt;200ky)</td>
+<td></td>
+<td title="Half-life: 1M-10M years" style="background:#00b0ff;"><small><sup>237</sup></small>Np</td>
+</tr>
+</table>
+<p><span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">234<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, like most <a href="/wiki/Actinide" title="Actinide">actinides</a> with an even number of neutrons, is not fissile, but neutron capture produces fissile <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>. If the fissile isotope fails to fission on neutron capture, it produces <span style="white-space:nowrap;"><a href="/wiki/Uranium-236" title="Uranium-236"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">236<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>, <span style="white-space:nowrap;"><a href="/wiki/Neptunium-237" class="mw-redirect" title="Neptunium-237"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">237<br /></span>Np<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>, <span style="white-space:nowrap;"><a href="/wiki/Plutonium-238" title="Plutonium-238"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">238<br /></span>Pu<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>, and eventually fissile <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">239<br /></span>Pu<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> and heavier <a href="/wiki/Isotopes_of_plutonium" title="Isotopes of plutonium">isotopes of plutonium</a>. The <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">237<br /></span>Np<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> can be removed and stored as waste or retained and transmuted to plutonium, where more of it fissions, while the remainder becomes <span style="white-space:nowrap;"><a href="/wiki/Plutonium-242" title="Plutonium-242"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">242<br /></span>Pu<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>, then <a href="/wiki/Americium" title="Americium">americium</a> and <a href="/wiki/Curium" title="Curium">curium</a>, which in turn can be removed as waste or returned to reactors for further transmutation and fission.</p>
+<p>However, the <span style="white-space:nowrap;"><a href="/wiki/Protactinium-231" class="mw-redirect" title="Protactinium-231"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">231<br /></span>Pa<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span> (with a half-life of <span class="nowrap"><span style="display:none" class="sortkey">7012103193352000000♠</span>3.27<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>4</sup>&#160;years</span>) formed via (<i>n</i>,2<i>n</i>) reactions with <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> (yielding <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">231<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> that decays to <span style="white-space:nowrap;"><a href="/wiki/Protactinium-231" class="mw-redirect" title="Protactinium-231"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">231<br /></span>Pa<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>), while not a transuranic waste, is a major contributor to the long-term <a href="/wiki/Radiotoxic" class="mw-redirect" title="Radiotoxic">radiotoxicity</a> of spent nuclear fuel.</p>
+<h3><span class="mw-headline" id="Uranium-232_contamination">Uranium-232 contamination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=5" title="Edit section: Uranium-232 contamination">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Uranium-232" title="Uranium-232">Uranium-232</a> is also formed in this process, via (<i>n</i>,2<i>n</i>) reactions between <a href="/wiki/Fast_neutron" class="mw-redirect" title="Fast neutron">fast neutrons</a> and <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, <span style="white-space:nowrap;"><a href="/wiki/Protactinium-233" class="mw-redirect" title="Protactinium-233"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>Pa<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>, and <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtable columnalign="left" rowspacing="4pt" columnspacing="1em">
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>n</mtext>
+                  </mrow>
+                  <mo>+</mo>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>232</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>90</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Th</mtext>
+                  <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>233</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>90</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>Th</mtext>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <msup>
+                          <mi>&#x03B2;<!-- β --></mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>&#x2212;<!-- − --></mo>
+                          </mrow>
+                        </msup>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>233</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>91</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>Pa</mtext>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <msup>
+                          <mi>&#x03B2;<!-- β --></mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>&#x2212;<!-- − --></mo>
+                          </mrow>
+                        </msup>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="false" scriptlevel="1">
+                          <mstyle scriptlevel="1">
+                            <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                              <mtr>
+                                <mtd>
+                                  <mn>233</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>92</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mstyle>
+                        </mstyle>
+                      </mrow>
+                    </mpadded>
+                    <mspace width="-.125em" />
+                    <mtext>U</mtext>
+                  </mrow>
+                  <mo>+</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>n</mtext>
+                  </mrow>
+                  <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="false" scriptlevel="1">
+                          <mstyle scriptlevel="1">
+                            <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                              <mtr>
+                                <mtd>
+                                  <mn>232</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>92</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mstyle>
+                        </mstyle>
+                      </mrow>
+                    </mpadded>
+                    <mspace width="-.125em" />
+                    <mtext>U</mtext>
+                  </mrow>
+                  <mo>+</mo>
+                  <mn>2</mn>
+                  <mspace width="thinmathspace" />
+                  <mtext>n</mtext>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>n</mtext>
+                  </mrow>
+                  <mo>+</mo>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>232</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>90</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Th</mtext>
+                  <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>233</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>90</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Th</mtext>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <msup>
+                          <mi>&#x03B2;<!-- β --></mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>&#x2212;<!-- − --></mo>
+                          </mrow>
+                        </msup>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="false" scriptlevel="1">
+                          <mstyle scriptlevel="1">
+                            <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                              <mtr>
+                                <mtd>
+                                  <mn>233</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>91</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mstyle>
+                        </mstyle>
+                      </mrow>
+                    </mpadded>
+                    <mspace width="-.125em" />
+                    <mtext>Pa</mtext>
+                  </mrow>
+                  <mo>+</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>n</mtext>
+                  </mrow>
+                  <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="false" scriptlevel="1">
+                          <mstyle scriptlevel="1">
+                            <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                              <mtr>
+                                <mtd>
+                                  <mn>232</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>91</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mstyle>
+                        </mstyle>
+                      </mrow>
+                    </mpadded>
+                    <mspace width="-.125em" />
+                    <mtext>Pa</mtext>
+                  </mrow>
+                  <mo>+</mo>
+                  <mn>2</mn>
+                  <mspace width="thinmathspace" />
+                  <mtext>n</mtext>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <msup>
+                          <mi>&#x03B2;<!-- β --></mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>&#x2212;<!-- − --></mo>
+                          </mrow>
+                        </msup>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>232</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>92</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>U</mtext>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>n</mtext>
+                  </mrow>
+                  <mo>+</mo>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>232</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>90</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Th</mtext>
+                  <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="false" scriptlevel="1">
+                          <mstyle scriptlevel="1">
+                            <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                              <mtr>
+                                <mtd>
+                                  <mn>231</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>90</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mstyle>
+                        </mstyle>
+                      </mrow>
+                    </mpadded>
+                    <mspace width="-.125em" />
+                    <mtext>Th</mtext>
+                  </mrow>
+                  <mo>+</mo>
+                  <mn>2</mn>
+                  <mspace width="thinmathspace" />
+                  <mtext>n</mtext>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <msup>
+                          <mi>&#x03B2;<!-- β --></mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>&#x2212;<!-- − --></mo>
+                          </mrow>
+                        </msup>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="false" scriptlevel="1">
+                          <mstyle scriptlevel="1">
+                            <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                              <mtr>
+                                <mtd>
+                                  <mn>231</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>91</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mstyle>
+                        </mstyle>
+                      </mrow>
+                    </mpadded>
+                    <mspace width="-.125em" />
+                    <mtext>Pa</mtext>
+                  </mrow>
+                  <mo>+</mo>
+                  <mtext>n</mtext>
+                  <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>232</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>91</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Pa</mtext>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <msup>
+                          <mi>&#x03B2;<!-- β --></mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>&#x2212;<!-- − --></mo>
+                          </mrow>
+                        </msup>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>232</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>92</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>U</mtext>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+
+                </mrow>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{array}{l}{}\\{\ce {{n}+_{90}^{232}Th-&gt;_{90}^{233}{Th}-&gt;[\beta ^{-}]_{91}^{233}{Pa}-&gt;[\beta ^{-}]{_{92}^{233}U}+{n}-&gt;{_{92}^{232}U}+2n}}\\{\ce {{n}+_{90}^{232}Th-&gt;_{90}^{233}Th-&gt;[\beta ^{-}]{_{91}^{233}Pa}+{n}-&gt;{_{91}^{232}Pa}+2n-&gt;[\beta ^{-}]_{92}^{232}U}}\\{\ce {{n}+_{90}^{232}Th-&gt;{_{90}^{231}Th}+2n-&gt;[\beta ^{-}]{_{91}^{231}Pa}+n-&gt;_{91}^{232}Pa-&gt;[\beta ^{-}]_{92}^{232}U}}\\{}\end{array}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0bf3727f2b388498ed5475b76052a8413cda14ba" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -9.838ex; width:62.551ex; height:20.843ex;" alt="{\displaystyle {\begin{array}{l}{}\\{\ce {{n}+_{90}^{232}Th-&gt;_{90}^{233}{Th}-&gt;[\beta ^{-}]_{91}^{233}{Pa}-&gt;[\beta ^{-}]{_{92}^{233}U}+{n}-&gt;{_{92}^{232}U}+2n}}\\{\ce {{n}+_{90}^{232}Th-&gt;_{90}^{233}Th-&gt;[\beta ^{-}]{_{91}^{233}Pa}+{n}-&gt;{_{91}^{232}Pa}+2n-&gt;[\beta ^{-}]_{92}^{232}U}}\\{\ce {{n}+_{90}^{232}Th-&gt;{_{90}^{231}Th}+2n-&gt;[\beta ^{-}]{_{91}^{231}Pa}+n-&gt;_{91}^{232}Pa-&gt;[\beta ^{-}]_{92}^{232}U}}\\{}\end{array}}}" /></span></dd>
+</dl>
+<p>Uranium-232 has a relatively short half-life (<span class="nowrap"><span style="display:none" class="sortkey">7009217431864000000♠</span>68.9&#160;years</span>), and some <a href="/wiki/Decay_product" title="Decay product">decay products</a> emit high energy <a href="/wiki/Gamma_radiation" class="mw-redirect" title="Gamma radiation">gamma radiation</a>, such as <span style="white-space:nowrap;"><a href="/wiki/Radon-224" class="mw-redirect" title="Radon-224"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">224<br /></span>Rn<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>, <span style="white-space:nowrap;"><a href="/wiki/Bismuth-212" class="mw-redirect" title="Bismuth-212"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">212<br /></span>Bi<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span> and particularly <span style="white-space:nowrap;"><a href="/wiki/Thallium-208" class="mw-redirect" title="Thallium-208"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">208<br /></span>Tl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>. The <a href="/wiki/Thorium_series" class="mw-redirect" title="Thorium series">full decay chain</a>, along with half-lives and relevant gamma energies, is:</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Decay_chain(4n,Thorium_series).PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Decay_chain%284n%2CThorium_series%29.PNG/300px-Decay_chain%284n%2CThorium_series%29.PNG" width="300" height="432" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Decay_chain%284n%2CThorium_series%29.PNG/450px-Decay_chain%284n%2CThorium_series%29.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Decay_chain%284n%2CThorium_series%29.PNG/600px-Decay_chain%284n%2CThorium_series%29.PNG 2x" data-file-width="778" data-file-height="1120" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Decay_chain(4n,Thorium_series).PNG" class="internal" title="Enlarge"></a></div>
+The 4<i>n</i> <a href="/wiki/Decay_chain" title="Decay chain">decay chain</a> of <sup>232</sup>Th, commonly called the "thorium series"</div>
+</div>
+</div>
+<p><span style="white-space:nowrap;"><a href="/wiki/Uranium-232" title="Uranium-232"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span> decays to <span style="white-space:nowrap;"><a href="/wiki/Thorium-228" class="mw-redirect" title="Thorium-228"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">228<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span> where it joins the <a href="/wiki/Thorium_series" class="mw-redirect" title="Thorium series">decay chain of <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span></a></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtable columnalign="right left" rowspacing="4pt" columnspacing="1em">
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>232</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>92</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>U</mtext>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <mi>&#x03B1;<!-- α --></mi>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>228</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>90</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Th</mtext>
+                </mrow>
+                <mtext>&#xA0;</mtext>
+              </mtd>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">(</mo>
+                  <mn>68.9</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">y</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>228</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>90</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>Th</mtext>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <mi>&#x03B1;<!-- α --></mi>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>224</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>88</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Ra</mtext>
+                </mrow>
+                <mtext>&#xA0;</mtext>
+              </mtd>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">(</mo>
+                  <mn>1.9</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">y</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>224</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>88</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>Ra</mtext>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <mi>&#x03B1;<!-- α --></mi>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>220</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>86</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Rn</mtext>
+                </mrow>
+                <mtext>&#xA0;</mtext>
+              </mtd>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">(</mo>
+                  <mn>3.6</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">d</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">y</mi>
+                  <mo>,</mo>
+                  <mtext>&#xA0;</mtext>
+                  <mn>0.24</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">M</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">V</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>220</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>86</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>Rn</mtext>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <mi>&#x03B1;<!-- α --></mi>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>216</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>84</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Po</mtext>
+                </mrow>
+                <mtext>&#xA0;</mtext>
+              </mtd>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">(</mo>
+                  <mn>55</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">s</mi>
+                  <mo>,</mo>
+                  <mtext>&#xA0;</mtext>
+                  <mn>0.54</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">M</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">V</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>216</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>84</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>Po</mtext>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <mi>&#x03B1;<!-- α --></mi>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>212</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>82</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Pb</mtext>
+                </mrow>
+                <mtext>&#xA0;</mtext>
+              </mtd>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">(</mo>
+                  <mn>0.15</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">s</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>212</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>82</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>Pb</mtext>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <msup>
+                          <mi>&#x03B2;<!-- β --></mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>&#x2212;<!-- − --></mo>
+                          </mrow>
+                        </msup>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>212</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>83</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Bi</mtext>
+                </mrow>
+                <mtext>&#xA0;</mtext>
+              </mtd>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">(</mo>
+                  <mn>10.64</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">h</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>212</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>83</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>Bi</mtext>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <mi>&#x03B1;<!-- α --></mi>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>208</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>81</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Tl</mtext>
+                </mrow>
+                <mtext>&#xA0;</mtext>
+              </mtd>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">(</mo>
+                  <mn>61</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">m</mi>
+                  <mo>,</mo>
+                  <mtext>&#xA0;</mtext>
+                  <mn>0.78</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">M</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">V</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>208</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>81</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>Tl</mtext>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-REL">
+                    <mover>
+                      <mo>&#x2192;</mo>
+                      <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                        <msup>
+                          <mi>&#x03B2;<!-- β --></mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>&#x2212;<!-- − --></mo>
+                          </mrow>
+                        </msup>
+                      </mpadded>
+                    </mover>
+                  </mrow>
+                  <mpadded height="+1pt" depth="-1pt" voffset="+1pt">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="false" scriptlevel="1">
+                        <mstyle scriptlevel="1">
+                          <mtable columnalign="right" rowspacing="0.2em" columnspacing="1em" displaystyle="false">
+                            <mtr>
+                              <mtd>
+                                <mn>208</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>82</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mstyle>
+                      </mstyle>
+                    </mrow>
+                  </mpadded>
+                  <mspace width="-.125em" />
+                  <mtext>Pb</mtext>
+                </mrow>
+                <mtext>&#xA0;</mtext>
+              </mtd>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">(</mo>
+                  <mn>3</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">m</mi>
+                  <mo>,</mo>
+                  <mtext>&#xA0;</mtext>
+                  <mn>2.6</mn>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">M</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">V</mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{array}{rl}{\ce {_{92}^{232}{U}-&gt;[\alpha ]_{90}^{228}Th}}\ &amp;\mathrm {(68.9\ years)} \\{\ce {_{90}^{228}{Th}-&gt;[\alpha ]_{88}^{224}Ra}}\ &amp;\mathrm {(1.9\ year)} \\{\ce {_{88}^{224}{Ra}-&gt;[\alpha ]_{86}^{220}Rn}}\ &amp;\mathrm {(3.6\ day,\ 0.24\ MeV)} \\{\ce {_{86}^{220}{Rn}-&gt;[\alpha ]_{84}^{216}Po}}\ &amp;\mathrm {(55\ s,\ 0.54\ MeV)} \\{\ce {_{84}^{216}{Po}-&gt;[\alpha ]_{82}^{212}Pb}}\ &amp;\mathrm {(0.15\ s)} \\{\ce {_{82}^{212}{Pb}-&gt;[\beta ^{-}]_{83}^{212}Bi}}\ &amp;\mathrm {(10.64\ h)} \\{\ce {_{83}^{212}{Bi}-&gt;[\alpha ]_{81}^{208}Tl}}\ &amp;\mathrm {(61\ m,\ 0.78\ MeV)} \\{\ce {_{81}^{208}{Tl}-&gt;[\beta ^{-}]_{82}^{208}Pb}}\ &amp;\mathrm {(3\ m,\ 2.6\ MeV)} \end{array}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/868006f7b9fea1386aca5089c6a531b88de25ce7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -16.837ex; margin-top: -0.34ex; margin-bottom: -0.334ex; width:40.018ex; height:35.509ex;" alt="{\displaystyle {\begin{array}{rl}{\ce {_{92}^{232}{U}-&gt;[\alpha ]_{90}^{228}Th}}\ &amp;\mathrm {(68.9\ years)} \\{\ce {_{90}^{228}{Th}-&gt;[\alpha ]_{88}^{224}Ra}}\ &amp;\mathrm {(1.9\ year)} \\{\ce {_{88}^{224}{Ra}-&gt;[\alpha ]_{86}^{220}Rn}}\ &amp;\mathrm {(3.6\ day,\ 0.24\ MeV)} \\{\ce {_{86}^{220}{Rn}-&gt;[\alpha ]_{84}^{216}Po}}\ &amp;\mathrm {(55\ s,\ 0.54\ MeV)} \\{\ce {_{84}^{216}{Po}-&gt;[\alpha ]_{82}^{212}Pb}}\ &amp;\mathrm {(0.15\ s)} \\{\ce {_{82}^{212}{Pb}-&gt;[\beta ^{-}]_{83}^{212}Bi}}\ &amp;\mathrm {(10.64\ h)} \\{\ce {_{83}^{212}{Bi}-&gt;[\alpha ]_{81}^{208}Tl}}\ &amp;\mathrm {(61\ m,\ 0.78\ MeV)} \\{\ce {_{81}^{208}{Tl}-&gt;[\beta ^{-}]_{82}^{208}Pb}}\ &amp;\mathrm {(3\ m,\ 2.6\ MeV)} \end{array}}}" /></span></dd>
+</dl>
+<p>Thorium-cycle fuels produce hard <a href="/wiki/Gamma_emission" class="mw-redirect" title="Gamma emission">gamma emissions</a>, which damage electronics, limiting their use in military bomb triggers. <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> cannot be chemically separated from <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> from <a href="/wiki/Used_nuclear_fuel" class="mw-redirect" title="Used nuclear fuel">used nuclear fuel</a>; however, chemical separation of thorium from uranium removes the decay product <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">228<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> and the radiation from the rest of the decay chain, which gradually build up as <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">228<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> reaccumulates. The hard gamma emissions also create a radiological hazard which requires remote handling during reprocessing.</p>
+<h2><span class="mw-headline" id="Nuclear_fuel">Nuclear fuel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=6" title="Edit section: Nuclear fuel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As a fertile material thorium is similar to <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">238<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, the major part of natural and depleted uranium. The thermal neutron absorption <a href="/wiki/Nuclear_cross_section" title="Nuclear cross section">cross section</a> (σ<sub>a</sub>) and <a href="/wiki/Resonance_integral" class="mw-redirect" title="Resonance integral">resonance integral</a> (average of neutron cross sections over intermediate neutron energies) for <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> are about three and one third times those of the respective values for <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">238<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>.</p>
+<h3><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=7" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Thorium is estimated to be about three to four times more abundant than uranium in Earth's crust,<sup id="cite_ref-The_Use_of_Thorium_as_Nuclear_Fuel_18-0" class="reference"><a href="#cite_note-The_Use_of_Thorium_as_Nuclear_Fuel-18">[18]</a></sup> although present knowledge of <a href="/wiki/Thorium#Distribution" title="Thorium">reserves</a> is limited. Current demand for thorium has been satisfied as a by-product of <a href="/wiki/Rare_earth_element" title="Rare earth element">rare-earth</a> extraction from <a href="/wiki/Monazite" title="Monazite">monazite</a> sands.</p>
+<p>Although the thermal neutron fission cross section (σ<sub>f</sub>) of the resulting <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> is comparable to <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> and <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">239<br /></span>Pu<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, it has a much lower capture cross section (σ<sub>γ</sub>) than the latter two fissile isotopes, providing fewer non-fissile neutron absorptions and improved <a href="/wiki/Neutron_economy" title="Neutron economy">neutron economy</a>. Finally, the ratio of neutrons released per neutron absorbed (η) in <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> is greater than two over a wide range of energies, including the thermal spectrum; as a result, thorium-based fuels can be the basis for a <a href="/wiki/Breeder_reactor#Thermal_breeder_reactor" title="Breeder reactor">thermal breeder reactor</a>.<sup id="cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-2" class="reference"><a href="#cite_note-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges-4">[4]</a></sup> A breeding reactor in the uranium - plutonium cycle needs to use a fast neutron spectrum, because in the thermal spectrum one neutron absorbed by <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">239<br /></span>Pu<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> on average leads to less than two neutrons.</p>
+<p>Thorium-based fuels also display favorable physical and chemical properties that improve reactor and <a href="/wiki/Deep_geological_repository" title="Deep geological repository">repository</a> performance. Compared to the predominant reactor fuel, <a href="/wiki/Uranium_dioxide" title="Uranium dioxide">uranium dioxide</a> (<span class="chemf nowrap">UO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span>), <a href="/wiki/Thorium_dioxide" title="Thorium dioxide">thorium dioxide</a> (<span class="chemf nowrap">ThO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span>) has a higher <a href="/wiki/Melting_point" title="Melting point">melting point</a>, higher <a href="/wiki/Thermal_conductivity" title="Thermal conductivity">thermal conductivity</a>, and lower <a href="/wiki/Coefficient_of_thermal_expansion" class="mw-redirect" title="Coefficient of thermal expansion">coefficient of thermal expansion</a>. Thorium dioxide also exhibits greater <a href="/wiki/Chemical_stability" title="Chemical stability">chemical stability</a> and, unlike uranium dioxide, does not further <a href="/wiki/Oxidize" class="mw-redirect" title="Oxidize">oxidize</a>.<sup id="cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-3" class="reference"><a href="#cite_note-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges-4">[4]</a></sup></p>
+<p>Because the <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> produced in thorium fuels is significantly contaminated with <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> in proposed power reactor designs, thorium-based <a href="/wiki/Used_nuclear_fuel" class="mw-redirect" title="Used nuclear fuel">used nuclear fuel</a> possesses inherent <a href="/wiki/Nuclear_proliferation" title="Nuclear proliferation">proliferation</a> resistance. <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> cannot be <a href="/wiki/Separation_process" title="Separation process">chemically separated</a> from <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> and has several <a href="/wiki/Decay_product" title="Decay product">decay products</a> that emit high-energy <a href="/wiki/Gamma_radiation" class="mw-redirect" title="Gamma radiation">gamma radiation</a>. These high-energy photons are a <a href="/wiki/Ionizing_radiation" title="Ionizing radiation">radiological hazard</a> that necessitate the use of <a href="/wiki/Remote_handling" class="mw-redirect" title="Remote handling">remote handling</a> of separated uranium and aid in the passive <a href="/wiki/Nuclear_detection" title="Nuclear detection">detection</a> of such materials.</p>
+<p>The long-term (on the order of roughly <span class="nowrap"><span style="display:none" class="sortkey">7003100000000000000♠</span>10<sup>3</sup></span> to <span class="nowrap"><span style="display:none" class="sortkey">7013315576000000000♠</span>10<sup>6</sup>&#160;years</span>) radiological hazard of conventional uranium-based used nuclear fuel is dominated by plutonium and other <a href="/wiki/Minor_actinide" title="Minor actinide">minor actinides</a>, after which <a href="/wiki/Long-lived_fission_products" class="mw-redirect" title="Long-lived fission products">long-lived fission products</a> become significant contributors again. A single neutron capture in <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">238<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> is sufficient to produce <a href="/wiki/Transuranic_elements" class="mw-redirect" title="Transuranic elements">transuranic elements</a>, whereas five captures are generally necessary to do so from <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>. 98–99% of thorium-cycle fuel nuclei would fission at either <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> or <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, so fewer long-lived transuranics are produced. Because of this, thorium is a potentially attractive alternative to uranium in <a href="/wiki/MOX_fuel" title="MOX fuel">mixed oxide (MOX) fuels</a> to minimize the generation of transuranics and maximize the destruction of plutonium.<sup id="cite_ref-wnn-20130621_19-0" class="reference"><a href="#cite_note-wnn-20130621-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="Disadvantages">Disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=8" title="Edit section: Disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are several challenges to the application of thorium as a nuclear fuel, particularly for solid fuel reactors:</p>
+<p>In contrast to uranium, naturally occurring thorium is effectively <a href="/wiki/Mononuclidic_element" title="Mononuclidic element">mononuclidic</a> and contains no fissile isotopes; fissile material, generally <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> or plutonium, must be added to achieve <a href="/wiki/Nuclear_chain_reaction" title="Nuclear chain reaction">criticality</a>. This, along with the high <a href="/wiki/Sintering" title="Sintering">sintering</a> temperature necessary to make thorium-dioxide fuel, complicates fuel fabrication. <a href="/wiki/Oak_Ridge_National_Laboratory" title="Oak Ridge National Laboratory">Oak Ridge National Laboratory</a> experimented with <a href="/wiki/Thorium_tetrafluoride" title="Thorium tetrafluoride">thorium tetrafluoride</a> as fuel in a <a href="/wiki/Molten_salt_reactor" title="Molten salt reactor">molten salt reactor</a> from 1964–1969, which was expected to be easier to process and separate from contaminants that slow or stop the chain reaction.</p>
+<p>In an <a href="/wiki/Nuclear_fuel_cycle#Once-through_nuclear_fuel_cycle" title="Nuclear fuel cycle">open fuel cycle</a> (i.e. utilizing <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> in situ), higher <a href="/wiki/Burnup" title="Burnup">burnup</a> is necessary to achieve a favorable <a href="/wiki/Neutron_economy" title="Neutron economy">neutron economy</a>. Although thorium dioxide performed well at burnups of 170,000 MWd/t and 150,000 MWd/t at <a href="/wiki/Fort_St._Vrain_Generating_Station" title="Fort St. Vrain Generating Station">Fort St. Vrain Generating Station</a> and <a href="/wiki/AVR_reactor" title="AVR reactor">AVR</a> respectively,<sup id="cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-4" class="reference"><a href="#cite_note-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges-4">[4]</a></sup> challenges complicate achieving this in <a href="/wiki/Light_water_reactor" class="mw-redirect" title="Light water reactor">light water reactors</a> (LWR), which compose the vast majority of existing power reactors.</p>
+<p>In a once-through thorium fuel cycle the residual <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> is a long-lived radioactive isotope in the waste.</p>
+<p>Another challenge associated with the thorium fuel cycle is the comparatively long interval over which <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> breeds to <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>. The <a href="/wiki/Half-life" title="Half-life">half-life</a> of <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>Pa<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> is about 27 days, which is an order of magnitude longer than the half-life of <span style="white-space:nowrap;"><a href="/wiki/Neptunium-239" class="mw-redirect" title="Neptunium-239"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">239<br /></span>Np<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></a></span>. As a result, substantial <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>Pa<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> develops in thorium-based fuels. <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>Pa<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> is a significant <a href="/wiki/Neutron_absorber" class="mw-redirect" title="Neutron absorber">neutron absorber</a> and, although it eventually <a href="/wiki/Breeder_reactor" title="Breeder reactor">breeds</a> into fissile <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, this requires two more neutron absorptions, which degrades <a href="/wiki/Neutron_economy" title="Neutron economy">neutron economy</a> and increases the likelihood of <a href="/wiki/Transuranic_element" class="mw-redirect" title="Transuranic element">transuranic</a> production.</p>
+<p>Alternatively, if solid thorium is used in a <a href="/wiki/Nuclear_fuel_cycle#Plutonium_cycle" title="Nuclear fuel cycle">closed fuel cycle</a> in which <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> is <a href="/wiki/Nuclear_reprocessing" title="Nuclear reprocessing">recycled</a>, <a href="/wiki/Remote_handling" class="mw-redirect" title="Remote handling">remote handling</a> is necessary for fuel fabrication because of the high radiation levels resulting from the <a href="/wiki/Decay_products" class="mw-redirect" title="Decay products">decay products</a> of <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>. This is also true of recycled thorium because of the presence of <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">228<br /></span>Th<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, which is part of the <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> decay sequence. Further, unlike proven uranium fuel recycling technology (e.g. <a href="/wiki/PUREX" title="PUREX">PUREX</a>), recycling technology for thorium (e.g. THOREX) is only under development.</p>
+<p>Although the presence of <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">232<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> complicates matters, there are public documents showing that <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> has been used once in a <a href="/wiki/Nuclear_weapon" title="Nuclear weapon">nuclear weapon</a> test. The United States tested a composite <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>-plutonium bomb core in the MET (Military Effects Test) blast during <a href="/wiki/Operation_Teapot" title="Operation Teapot">Operation Teapot</a> in 1955, though with much lower yield than expected.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<p>Though thorium-based fuels produce far less long-lived <a href="/wiki/Transuranic_elements" class="mw-redirect" title="Transuranic elements">transuranics</a> than uranium-based fuels,<sup id="cite_ref-LEBRUN_15-1" class="reference"><a href="#cite_note-LEBRUN-15">[15]</a></sup> some long-lived <a href="/wiki/Actinide" title="Actinide">actinide</a> products constitute a long-term radiological impact, especially <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">231<br /></span>Pa<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>.<sup id="cite_ref-BRISSOT_16-1" class="reference"><a href="#cite_note-BRISSOT-16">[16]</a></sup></p>
+<p>Advocates for liquid core and <a href="/wiki/Molten_salt_reactor" title="Molten salt reactor">molten salt reactors</a> such as <a href="/wiki/Liquid_fluoride_thorium_reactor" title="Liquid fluoride thorium reactor">LFTRs</a> claim that these technologies negate thorium's disadvantages present in solid fueled reactors. As only two liquid-core fluoride salt reactors have been built (the ORNL <a href="/wiki/Aircraft_Reactor_Experiment#Direct_Air_Cycle" class="mw-redirect" title="Aircraft Reactor Experiment">ARE</a> and <a href="/wiki/Molten-Salt_Reactor_Experiment" title="Molten-Salt Reactor Experiment">MSRE</a>) and neither have used thorium, it is hard to validate the exact benefits.<sup id="cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-5" class="reference"><a href="#cite_note-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Reactors">Reactors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=9" title="Edit section: Reactors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thorium fuels have fuelled several different reactor types, including <a href="/wiki/Light_water_reactor" class="mw-redirect" title="Light water reactor">light water reactors</a>, <a href="/wiki/Heavy_water_reactor" class="mw-redirect" title="Heavy water reactor">heavy water reactors</a>, <a href="/wiki/HTGR" class="mw-redirect" title="HTGR">high temperature gas reactors</a>, <a href="/wiki/Sodium-cooled_fast_reactor" title="Sodium-cooled fast reactor">sodium-cooled fast reactors</a>, and <a href="/wiki/Molten_salt_reactor" title="Molten salt reactor">molten salt reactors</a>.<sup id="cite_ref-Thorium_Fuel_Utilization:_Options_and_trends_21-0" class="reference"><a href="#cite_note-Thorium_Fuel_Utilization:_Options_and_trends-21">[21]</a></sup></p>
+<h3><span class="mw-headline" id="List_of_thorium-fuelled_reactors">List of thorium-fuelled reactors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=10" title="Edit section: List of thorium-fuelled reactors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From IAEA TECDOC-1450 "Thorium Fuel Cycle - Potential Benefits and Challenges", Table 1: Thorium utilization in different experimental and power reactors.<sup id="cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-6" class="reference"><a href="#cite_note-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges-4">[4]</a></sup> Additionally, <a href="/wiki/Dresden_Generating_Station" title="Dresden Generating Station">Dresden 1</a> in the United States used "thorium oxide corner rods".<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<table class="wikitable sortable">
+<tr style="text-align:center; background:#f0f0f0;">
+<th><b>Name</b></th>
+<th><b>Country</b></th>
+<th><b><a href="/wiki/Nuclear_reactor#Reactor_types" title="Nuclear reactor">Reactor type</a></b></th>
+<th><b>Power</b></th>
+<th><b>Fuel</b></th>
+<th><b>Operation period</b></th>
+</tr>
+<tr>
+<td><a href="/wiki/AVR_Reactor" class="mw-redirect" title="AVR Reactor">AVR</a></td>
+<td>(West) Germany</td>
+<td><a href="/wiki/High-temperature_gas-cooled_reactor" class="mw-redirect" title="High-temperature gas-cooled reactor">HTGR</a>, experimental (<a href="/wiki/Pebble_bed_reactor" class="mw-redirect" title="Pebble bed reactor">pebble bed reactor</a>)</td>
+<td><span style="display:none;">015000</span> 15 MW(e)</td>
+<td>Th+<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> Driver fuel, coated fuel particles, oxide &amp; dicarbides</td>
+<td>1967–1988</td>
+</tr>
+<tr>
+<td><a href="/wiki/THTR-300" title="THTR-300">THTR-300</a></td>
+<td>(West) Germany</td>
+<td><a href="/wiki/High-temperature_gas-cooled_reactor" class="mw-redirect" title="High-temperature gas-cooled reactor">HTGR</a>, power (<a href="/wiki/Pebble_bed_reactor" class="mw-redirect" title="Pebble bed reactor">pebble type</a>)</td>
+<td><span style="display:none;">300000</span> 300 MW(e)</td>
+<td>Th+<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, Driver fuel, coated fuel particles, oxide &amp; dicarbides</td>
+<td>1985–1989</td>
+</tr>
+<tr>
+<td><a href="/wiki/Lingen_Nuclear_Power_Plant" title="Lingen Nuclear Power Plant">Lingen</a></td>
+<td>(West) Germany</td>
+<td><a href="/wiki/Boiling_water_reactor" title="Boiling water reactor">BWR</a> irradiation-testing</td>
+<td><span style="display:none;">060000</span> 60 MW(e)</td>
+<td>Test fuel (Th,Pu)O<sub>2</sub> pellets</td>
+<td>1968-1973</td>
+</tr>
+<tr>
+<td><a href="/wiki/Dragon_reactor" title="Dragon reactor">Dragon</a> (<a href="/wiki/OECD" class="mw-redirect" title="OECD">OECD</a>-<a href="/wiki/Euratom" class="mw-redirect" title="Euratom">Euratom</a>)</td>
+<td>UK (also Sweden, Norway and Switzerland)</td>
+<td><a href="/wiki/High-temperature_gas-cooled_reactor" class="mw-redirect" title="High-temperature gas-cooled reactor">HTGR</a>, Experimental (pin-in-block design)</td>
+<td><span style="display:none;">020000</span> 20 MWt</td>
+<td>Th+<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> Driver fuel, coated fuel particles, oxide &amp; dicarbides</td>
+<td>1966–1973</td>
+</tr>
+<tr>
+<td><a href="/wiki/Peach_Bottom_Nuclear_Generating_Station" title="Peach Bottom Nuclear Generating Station">Peach Bottom</a></td>
+<td>United States</td>
+<td><a href="/wiki/High-temperature_gas-cooled_reactor" class="mw-redirect" title="High-temperature gas-cooled reactor">HTGR</a>, Experimental (prismatic block)</td>
+<td><span style="display:none;">040000</span> 40 MW(e)</td>
+<td>Th+<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> Driver fuel, coated fuel particles, oxide &amp; dicarbides</td>
+<td>1966–1972</td>
+</tr>
+<tr>
+<td><a href="/wiki/Fort_St._Vrain_Generating_Station" title="Fort St. Vrain Generating Station">Fort St Vrain</a></td>
+<td>United States</td>
+<td><a href="/wiki/High-temperature_gas-cooled_reactor" class="mw-redirect" title="High-temperature gas-cooled reactor">HTGR</a>, Power (prismatic block)</td>
+<td><span style="display:none;">330000</span> 330 MW(e)</td>
+<td>Th+<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> Driver fuel, coated fuel particles, Dicarbide</td>
+<td>1976–1989</td>
+</tr>
+<tr>
+<td><a href="/wiki/Molten_Salt_Reactor_Experiment" class="mw-redirect" title="Molten Salt Reactor Experiment">MSRE</a> <a href="/wiki/ORNL" class="mw-redirect" title="ORNL">ORNL</a></td>
+<td>United States</td>
+<td><a href="/wiki/Molten_salt_reactor" title="Molten salt reactor">MSR</a></td>
+<td><span style="display:none;">007500</span> 7.5 MWt</td>
+<td><span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> molten fluorides</td>
+<td>1964–1969</td>
+</tr>
+<tr>
+<td><a href="/wiki/BORAX-IV" class="mw-redirect" title="BORAX-IV">BORAX-IV</a> &amp; <a href="/wiki/Elk_River_Station" title="Elk River Station">Elk River Station</a></td>
+<td>United States</td>
+<td>BWR (pin assemblies)</td>
+<td><span style="display:none;">002400</span> 2.4 MW(e); 24 MW(e)</td>
+<td>Th+235U Driver fuel oxide pellets</td>
+<td>1963 - 1968</td>
+</tr>
+<tr>
+<td><a href="/wiki/Shippingport_Reactor" class="mw-redirect" title="Shippingport Reactor">Shippingport</a></td>
+<td>United States</td>
+<td><a href="/wiki/Light-Water_Breeder_Reactor" class="mw-redirect" title="Light-Water Breeder Reactor">LWBR</a>, <a href="/wiki/Pressurized_Water_Reactor" class="mw-redirect" title="Pressurized Water Reactor">PWR</a>, (pin assemblies)</td>
+<td><span style="display:none;">100000</span> 100 MW(e)</td>
+<td>Th+<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> Driver fuel, oxide pellets</td>
+<td>1977–1982</td>
+</tr>
+<tr>
+<td><a href="/wiki/Indian_Point_Energy_Center#Unit_1" title="Indian Point Energy Center">Indian Point 1</a></td>
+<td>United States</td>
+<td><a href="/wiki/Light-Water_Breeder_Reactor" class="mw-redirect" title="Light-Water Breeder Reactor">LWBR</a>, <a href="/wiki/Pressurized_Water_Reactor" class="mw-redirect" title="Pressurized Water Reactor">PWR</a>, (pin assemblies)</td>
+<td><span style="display:none;">285000</span> 285 MW(e)</td>
+<td>Th+<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> Driver fuel, oxide pellets</td>
+<td>1962–1980</td>
+</tr>
+<tr>
+<td>SUSPOP/KSTR <a href="/wiki/KEMA" title="KEMA">KEMA</a></td>
+<td>Netherlands</td>
+<td>Aqueous homogenous suspension (pin assemblies)</td>
+<td><span style="display:none;">001000</span> 1 MWt</td>
+<td>Th+HEU, oxide pellets</td>
+<td>1974–1977</td>
+</tr>
+<tr>
+<td><a href="/wiki/NRX" title="NRX">NRX</a> &amp; <a href="/wiki/National_Research_Universal_Reactor" class="mw-redirect" title="National Research Universal Reactor">NRU</a></td>
+<td>Canada</td>
+<td>MTR (pin assemblies)</td>
+<td><span style="display:none;">020000</span> 20 MW; 200 MW (<a href="/wiki/National_Research_Universal_Reactor#History" class="mw-redirect" title="National Research Universal Reactor">see</a>)</td>
+<td>Th+<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">235<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span>, Test Fuel</td>
+<td>1947 (NRX) + 1957 (NRU); Irradiation–testing of few fuel elements</td>
+</tr>
+<tr>
+<td><a href="/wiki/CIRUS" class="mw-redirect" title="CIRUS">CIRUS</a>; <a href="/wiki/Dhruva_reactor" title="Dhruva reactor">DHRUVA</a>; &amp; <a href="/wiki/KAMINI" title="KAMINI">KAMINI</a></td>
+<td>India</td>
+<td>MTR thermal</td>
+<td><span style="display:none;">040000</span> 40 MWt; 100 MWt; 30 kWt (low power, research)</td>
+<td>Al+<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right">233<br /></span>U<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><br /></span></span> Driver fuel, ‘J’ rod of Th &amp; ThO2, ‘J’ rod of ThO<sub>2</sub></td>
+<td>1960-2010 (CIRUS); others in operation</td>
+</tr>
+<tr>
+<td><a href="/wiki/Kakrapar_Atomic_Power_Station" title="Kakrapar Atomic Power Station">KAPS 1 &amp;2</a>; KGS 1 &amp; 2; <a href="/wiki/Rajastan_Atomic_Power_Project" class="mw-redirect" title="Rajastan Atomic Power Project">RAPS 2, 3 &amp; 4</a></td>
+<td>India</td>
+<td><a href="/wiki/Pressurized_heavy_water_reactor" class="mw-redirect" title="Pressurized heavy water reactor">PHWR</a>, (pin assemblies)</td>
+<td><span style="display:none;">220000</span> 220 MW(e)</td>
+<td>ThO<sub>2</sub> pellets (for neutron flux flattening of initial core after start-up)</td>
+<td>1980 (RAPS 2) +; continuing in all new PHWRs</td>
+</tr>
+<tr>
+<td><a href="/wiki/FBTR" class="mw-redirect" title="FBTR">FBTR</a></td>
+<td>India</td>
+<td><a href="/wiki/Liquid_Metal_Fast_Breeder_Reactor" class="mw-redirect" title="Liquid Metal Fast Breeder Reactor">LMFBR</a>, (pin assemblies)</td>
+<td><span style="display:none;">040000</span> 40 MWt</td>
+<td>ThO<sub>2</sub> blanket</td>
+<td>1985; in operation</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Radioactive.svg/32px-Radioactive.svg.png" width="32" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Radioactive.svg/48px-Radioactive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Radioactive.svg/64px-Radioactive.svg.png 2x" data-file-width="600" data-file-height="525" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Nuclear_technology" title="Portal:Nuclear technology">Nuclear technology portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Radioactive_waste" title="Radioactive waste">Radioactive waste</a></li>
+<li><a href="/wiki/World_energy_resources_and_consumption" class="mw-redirect" title="World energy resources and consumption">World energy resources and consumption</a></li>
+<li><a href="/wiki/Peak_uranium" title="Peak uranium">Peak uranium</a></li>
+<li><a href="/wiki/Fuji_MSR" class="mw-redirect" title="Fuji MSR">Fuji MSR</a></li>
+<li><a href="/wiki/Alvin_Radkowsky" title="Alvin Radkowsky">Alvin Radkowsky</a></li>
+<li><a href="/wiki/Weinberg_Foundation" class="mw-redirect" title="Weinberg Foundation">Weinberg Foundation</a></li>
+<li><a href="/wiki/Flibe_Energy" title="Flibe Energy">Flibe Energy</a></li>
+<li><a href="/wiki/CANDU_reactor" title="CANDU reactor">CANDU reactor</a></li>
+<li><a href="/wiki/Advanced_heavy_water_reactor" class="mw-redirect" title="Advanced heavy water reactor">Advanced heavy water reactor</a></li>
+<li><a href="/wiki/Thorium_Energy_Alliance" title="Thorium Energy Alliance">Thorium Energy Alliance</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kang, J.; Von Hippel, F. N. (2001). "U‐232 and the proliferation‐resistance of U‐233 in spent fuel". <i>Science &amp; Global Security</i>. <b>9</b>: 1. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F08929880108426485">10.1080/08929880108426485</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.atitle=U%90232+and+the+proliferation%90resistance+of+U%90233+in+spent+fuel&amp;rft.aufirst=J.&amp;rft.aulast=Kang&amp;rft.au=Von+Hippel%2C+F.+N.&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1080%2F08929880108426485&amp;rft.jtitle=Science+%26+Global+Security&amp;rft.pages=1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span> <a rel="nofollow" class="external autonumber" href="http://www.torium.se/res/Documents/9_1kang.pdf">[1]</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nuclearweaponarchive.org/Nwfaq/Nfaq6.html">Nuclear Materials</a> FAQ</span></li>
+<li id="cite_note-Hargraves-Moir-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hargraves-Moir_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hargraves-Moir_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Robert Hargraves; Ralph Moir (January 2011). <a rel="nofollow" class="external text" href="http://www.aps.org/units/fps/newsletters/201101/hargraves.cfm">"Liquid Fuel Nuclear Reactors"</a>. <i><a href="/wiki/American_Physical_Society" title="American Physical Society">American Physical Society</a> Forum on Physics &amp; Society</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.atitle=Liquid+Fuel+Nuclear+Reactors&amp;rft.au=Ralph+Moir&amp;rft.au=Robert+Hargraves&amp;rft.date=2011-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.aps.org%2Funits%2Ffps%2Fnewsletters%2F201101%2Fhargraves.cfm&amp;rft.jtitle=American+Physical+Society+Forum+on+Physics+%26+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Thorium_Fuel_Cycle_-_Potential_Benefits_and_Challenges_4-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www-pub.iaea.org/MTCD/publications/PDF/TE_1450_web.pdf">"IAEA-TECDOC-1450 Thorium Fuel Cycle-Potential Benefits and Challenges"</a> <span style="font-size:85%;">(PDF)</span>. International Atomic Energy Agency. May 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.btitle=IAEA-TECDOC-1450+Thorium+Fuel+Cycle-Potential+Benefits+and+Challenges&amp;rft.date=2005-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww-pub.iaea.org%2FMTCD%2Fpublications%2FPDF%2FTE_1450_web.pdf&amp;rft.pub=International+Atomic+Energy+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Ganesan Venkataraman (1994). <i>Bhabha and his magnificent obsessions, page 157</i>. Universities Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.au=Ganesan+Venkataraman&amp;rft.btitle=Bhabha+and+his+magnificent+obsessions%2C+page+157&amp;rft.date=1994&amp;rft.genre=book&amp;rft.pub=Universities+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www-pub.iaea.org/MTCD/publications/PDF/te_1349_web.pdf">"IAEA-TECDOC-1349 Potential of thorium-based fuel cycles to constrain plutonium and to reduce the long-lived waste toxicity"</a> <span style="font-size:85%;">(PDF)</span>. International Atomic Energy Agency. 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.btitle=IAEA-TECDOC-1349+Potential+of+thorium-based+fuel+cycles+to+constrain+plutonium+and+to+reduce+the+long-lived+waste+toxicity&amp;rft.date=2002&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww-pub.iaea.org%2FMTCD%2Fpublications%2FPDF%2Fte_1349_web.pdf&amp;rft.pub=International+Atomic+Energy+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Evans, Brett (April 14, 2006). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100328211103/http://www.abc.net.au/news/newsitems/200604/s1616391.htm">"Scientist urges switch to thorium"</a>. <a href="/wiki/ABC_News_(Australia)" title="ABC News (Australia)">ABC News</a>. Archived from <a rel="nofollow" class="external text" href="http://www.abc.net.au/news/newsitems/200604/s1616391.htm">the original</a> on 2010-03-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.atitle=Scientist+urges+switch+to+thorium&amp;rft.aufirst=Brett&amp;rft.aulast=Evans&amp;rft.date=2006-04-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.abc.net.au%2Fnews%2Fnewsitems%2F200604%2Fs1616391.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Martin, Richard (December 21, 2009). <a rel="nofollow" class="external text" href="https://www.wired.com/magazine/2009/12/ff_new_nukes/">"Uranium Is So Last Century — Enter Thorium, the New Green Nuke"</a>. <i><a href="/wiki/Wired_(magazine)" title="Wired (magazine)">Wired</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.atitle=Uranium+Is+So+Last+Century+%94+Enter+Thorium%2C+the+New+Green+Nuke&amp;rft.aufirst=Richard&amp;rft.aulast=Martin&amp;rft.date=2009-12-21&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.wired.com%2Fmagazine%2F2009%2F12%2Fff_new_nukes%2F&amp;rft.jtitle=Wired&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Miller, Daniel (March 2011). <a rel="nofollow" class="external text" href="http://www.abc.net.au/news/2011-03-18/nuclear-community-snubbed-reactor-safety-message/2649768">"Nuclear community snubbed reactor safety message: expert"</a>. <i>ABC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.atitle=Nuclear+community+snubbed+reactor+safety+message%3A+expert&amp;rft.aufirst=Daniel&amp;rft.aulast=Miller&amp;rft.date=2011-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.abc.net.au%2Fnews%2F2011-03-18%2Fnuclear-community-snubbed-reactor-safety-message%2F2649768&amp;rft.jtitle=ABC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Dean, Tim (April 2006). <a rel="nofollow" class="external text" href="http://www.cosmosmagazine.com/features/print/348/new-age-nuclear?page=0%2C3">"New age nuclear"</a>. <i><a href="/wiki/Cosmos_(magazine)" title="Cosmos (magazine)">Cosmos</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.atitle=New+age+nuclear&amp;rft.aufirst=Tim&amp;rft.aulast=Dean&amp;rft.date=2006-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cosmosmagazine.com%2Ffeatures%2Fprint%2F348%2Fnew-age-nuclear%3Fpage%3D0%252C3&amp;rft.jtitle=Cosmos&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/David_J._C._MacKay" title="David J. C. MacKay">MacKay, David J. C.</a> (February 20, 2009). <a rel="nofollow" class="external text" href="http://www.inference.phy.cam.ac.uk/withouthotair/c24/page_166.shtml"><i>Sustainable Energy - without the hot air</i></a>. UIT Cambridge Ltd. p.&#160;166<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.aufirst=David+J.+C.&amp;rft.aulast=MacKay&amp;rft.btitle=Sustainable+Energy+-+without+the+hot+air&amp;rft.date=2009-02-20&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.inference.phy.cam.ac.uk%2Fwithouthotair%2Fc24%2Fpage_166.shtml&amp;rft.pages=166&amp;rft.pub=UIT+Cambridge+Ltd.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://flibe-energy.com/">"Flibe Energy"</a>. Flibe Energy<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.btitle=Flibe+Energy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fflibe-energy.com%2F&amp;rft.pub=Flibe+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation report"><a rel="nofollow" class="external text" href="http://mitei.mit.edu/publications/reports-studies/future-nuclear-fuel-cycle">The Future of the Nuclear Fuel Cycle (Full Report)</a> (Report). MIT. 2011. p.&#160;181.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.btitle=The+Future+of+the+Nuclear+Fuel+Cycle+%28Full+Report%29&amp;rft.date=2011&amp;rft.genre=report&amp;rft_id=http%3A%2F%2Fmitei.mit.edu%2Fpublications%2Freports-studies%2Ffuture-nuclear-fuel-cycle&amp;rft.pages=181&amp;rft.pub=MIT&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.telegraphindia.com/1130903/jsp/nation/story_17305278.jsp">"Date set for fuel reactor"</a>. <i><a href="/wiki/The_Telegraph_(Calcutta)" title="The Telegraph (Calcutta)">The Telegraph (Calcutta)</a></i>. 2 September 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.atitle=Date+set+for+fuel+reactor&amp;rft.date=2013-09-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.telegraphindia.com%2F1130903%2Fjsp%2Fnation%2Fstory_17305278.jsp&amp;rft.jtitle=The+Telegraph+%28Calcutta%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-LEBRUN-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-LEBRUN_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LEBRUN_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Le Brun, C.; L. Mathieu; D. Heuer; A. Nuttin. <a rel="nofollow" class="external text" href="http://hal.archives-ouvertes.fr/docs/00/04/14/97/PDF/document_IAEA.pdf">"Impact of the MSBR concept technology on long-lived radio-toxicity and proliferation resistance"</a> <span style="font-size:85%;">(PDF)</span>. Technical Meeting on Fissile Material Management Strategies for Sustainable Nuclear Energy, Vienna 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.au=A.+Nuttin&amp;rft.au=D.+Heuer&amp;rft.aufirst=C.&amp;rft.aulast=Le+Brun&amp;rft.au=L.+Mathieu&amp;rft.btitle=Impact+of+the+MSBR+concept+technology+on+long-lived+radio-toxicity+and+proliferation+resistance&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhal.archives-ouvertes.fr%2Fdocs%2F00%2F04%2F14%2F97%2FPDF%2Fdocument_IAEA.pdf&amp;rft.pub=Technical+Meeting+on+Fissile+Material+Management+Strategies+for+Sustainable+Nuclear+Energy%2C+Vienna+2005&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BRISSOT-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-BRISSOT_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BRISSOT_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Brissot R.; Heuer D.; Huffer E.; Le Brun, C.; Loiseaux, J-M; Nifenecker H.; Nuttin A. (July 2001). <a rel="nofollow" class="external text" href="http://lpsc.in2p3.fr/gpr/english/NEWNRW/NEWNRW.html#foot284">"Nuclear Energy With (Almost) No Radioactive Waste?"</a>. Laboratoire de Physique Subatomique et de Cosmologie (LPSC). <q>according to computer simulations done at ISN, this Protactinium dominates the residual toxicity of losses at <span class="nowrap"><span style="display:none" class="sortkey">7011315576000000000♠</span>10<span style="margin-left:.25em;">000</span>&#160;years</span></q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.au=Brissot+R.&amp;rft.au=Heuer+D.&amp;rft.au=Huffer+E.&amp;rft.au=Le+Brun%2C+C.&amp;rft.au=Loiseaux%2C+J-M&amp;rft.au=Nifenecker+H.&amp;rft.au=Nuttin+A.&amp;rft.btitle=Nuclear+Energy+With+%28Almost%29+No+Radioactive+Waste%3F&amp;rft.date=2001-07&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flpsc.in2p3.fr%2Fgpr%2Fenglish%2FNEWNRW%2FNEWNRW.html%23foot284&amp;rft.pub=Laboratoire+de+Physique+Subatomique+et+de+Cosmologie+%28LPSC%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nndc.bnl.gov/chart/">"Interactive Chart of Nuclides"</a>. <i><a href="/wiki/Brookhaven_National_Laboratory" title="Brookhaven National Laboratory">Brookhaven National Laboratory</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.atitle=Interactive+Chart+of+Nuclides&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nndc.bnl.gov%2Fchart%2F&amp;rft.jtitle=Brookhaven+National+Laboratory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Thermal neutron cross sections in barns (isotope, capture:fission, f/f+c, f/c) 233U 45.26:531.3 92.15% 11.74; 235U 98.69:585.0 85.57% 5.928; 239Pu 270.7:747.9 73.42% 2.763; 241Pu 363.0:1012 73.60% 2.788.</span></li>
+<li id="cite_note-The_Use_of_Thorium_as_Nuclear_Fuel-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Use_of_Thorium_as_Nuclear_Fuel_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ans.org/pi/ps/docs/ps78.pdf">"The Use of Thorium as Nuclear Fuel"</a> <span style="font-size:85%;">(PDF)</span>. American Nuclear Society. November 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.btitle=The+Use+of+Thorium+as+Nuclear+Fuel&amp;rft.date=2006-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ans.org%2Fpi%2Fps%2Fdocs%2Fps78.pdf&amp;rft.pub=American+Nuclear+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-wnn-20130621-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-wnn-20130621_19-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.world-nuclear-news.org/ENF_Thorium_test_begins_2106131.html">"Thorium test begins"</a>. World Nuclear News. 21 June 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">21 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.atitle=Thorium+test+begins&amp;rft.date=2013-06-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.world-nuclear-news.org%2FENF_Thorium_test_begins_2106131.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://nuclearweaponarchive.org/Usa/Tests/Teapot.html">"Operation Teapot"</a>. <i>Nuclear Weapon Archive</i>. 15 October 1997<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.atitle=Operation+Teapot&amp;rft.date=1997-10-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnuclearweaponarchive.org%2FUsa%2FTests%2FTeapot.html&amp;rft.jtitle=Nuclear+Weapon+Archive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Thorium_Fuel_Utilization:_Options_and_trends-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Thorium_Fuel_Utilization:_Options_and_trends_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iaea.org/inisnkm/nkm/aws/fnss/fulltext/te_1319_f.pdf">"IAEA-TECDOC-1319 Thorium Fuel Utilization: Options and trends"</a> <span style="font-size:85%;">(PDF)</span>. International Atomic Energy Agency. November 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.btitle=IAEA-TECDOC-1319+Thorium+Fuel+Utilization%3A+Options+and+trends&amp;rft.date=2002-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iaea.org%2Finisnkm%2Fnkm%2Faws%2Ffnss%2Ffulltext%2Fte_1319_f.pdf&amp;rft.pub=International+Atomic+Energy+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=uwJr2SAEdqUC&amp;pg=PA111"><i>Spent Nuclear Fuel Discharges from U. S. Reactors (1993)</i></a>. <a href="/wiki/Energy_Information_Administration" title="Energy Information Administration">Energy Information Administration</a>. 1995. p.&#160;111. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7881-2070-1" title="Special:BookSources/978-0-7881-2070-1">978-0-7881-2070-1</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 June</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.btitle=Spent+Nuclear+Fuel+Discharges+from+U.+S.+Reactors+%281993%29&amp;rft.date=1995&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DuwJr2SAEdqUC%26pg%3DPA111&amp;rft.isbn=978-0-7881-2070-1&amp;rft.pages=111&amp;rft.pub=Energy+Information+Administration&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> They were manufactured by <a href="/wiki/General_Electric" title="General Electric">General Electric</a> (assembly code XDR07G) and later sent to the <a href="/wiki/Savannah_River_Site" title="Savannah River Site">Savannah River Site</a> for reprocessing.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=13" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Kasten, P. R. (1998). "<a rel="nofollow" class="external text" href="http://www.princeton.edu/sgs/publications/sgs/pdf/7_3kasten.pdf">Review of the Radkowsky Thorium reactor concept</a>" Science &amp; Global Security, 7(3), 237-269.</li>
+<li>Duncan Clark (9 September 2011), "<a rel="nofollow" class="external text" href="https://www.theguardian.com/environment/blog/2011/sep/09/thorium-weinberg-foundation">Thorium advocates launch pressure group. Huge optimism for thorium nuclear energy at the launch of the Weinberg Foundation</a>", The Guardian</li>
+<li><cite class="citation journal">Nelson, A. T. (2012). "Thorium: Not a near-term commercial nuclear fuel". <i>Bulletin of the Atomic Scientists</i>. <b>68</b> (5): 33. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F0096340212459125">10.1177/0096340212459125</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThorium+fuel+cycle&amp;rft.atitle=Thorium%3A+Not+a+near-term+commercial+nuclear+fuel&amp;rft.aufirst=A.+T.&amp;rft.aulast=Nelson&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1177%2F0096340212459125&amp;rft.issue=5&amp;rft.jtitle=Bulletin+of+the+Atomic+Scientists&amp;rft.pages=33&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=68" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>B.D. Kuz'minov, V.N. Manokhin, (1998) <a rel="nofollow" class="external text" href="http://www.iaea.org/inis/collection/NCLCollectionStore/_Public/29/062/29062826.pdf">"Status of nuclear data for the thorium fuel cycle"</a>, IAEA translation from the Russian journal Yadernye Konstanty (Nuclear Constants) Issue No. 3-4, 1997</li>
+<li><a rel="nofollow" class="external text" href="https://www.gov.uk/government/publications/thorium-and-uranium-fuel-cycles-comparison-by-the-national-nuclear-laboratory">Thorium and uranium fuel cycles</a> comparison by the UK <a href="/wiki/National_Nuclear_Laboratory" title="National Nuclear Laboratory">National Nuclear Laboratory</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.world-nuclear.org/info/inf62.html">Fact sheet on thorium</a> at the <a href="/wiki/World_Nuclear_Association" title="World Nuclear Association">World Nuclear Association</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://alsos.wlu.edu/qsearch.aspx?browse=science/Thorium">Annotated bibliography for the thorium fuel cycle</a> from the Alsos Digital Library for Nuclear Issues</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ithec.org/">International Thorium Energy Committee</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1195
+Cached time: 20170312022841
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 1.216 seconds
+Real time usage: 1.336 seconds
+Preprocessor visited node count: 47211/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 222051/2097152 bytes
+Template argument size: 5872/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Lua time usage: 0.375/10.000 seconds
+Lua memory usage: 6.62 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1139.572      1 -total
+ 65.10%  741.840     91 Template:SimpleNuclide2
+ 47.07%  536.393     94 Template:Physics_particle
+ 24.57%  280.008    190 Template:Su
+ 17.43%  198.630      1 Template:Reflist
+ 17.40%  198.241     91 Template:SymbolForElement
+ 16.98%  193.506     91 Template:CheckElement
+  5.89%   67.067      5 Template:Val
+  5.50%   62.665     12 Template:Cite_web
+  5.37%   61.231      2 Template:Cite_journal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3901932-0!*!0!!en!4!*!math=5 and timestamp 20170312022841 and revision id 769867423
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thorium_fuel_cycle&amp;oldid=769867423">https://en.wikipedia.org/w/index.php?title=Thorium_fuel_cycle&amp;oldid=769867423</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nuclear_chemistry" title="Category:Nuclear chemistry">Nuclear chemistry</a></li><li><a href="/wiki/Category:Nuclear_fuels" title="Category:Nuclear fuels">Nuclear fuels</a></li><li><a href="/wiki/Category:Nuclear_reprocessing" title="Category:Nuclear reprocessing">Nuclear reprocessing</a></li><li><a href="/wiki/Category:Nuclear_technology" title="Category:Nuclear technology">Nuclear technology</a></li><li><a href="/wiki/Category:Actinides" title="Category:Actinides">Actinides</a></li><li><a href="/wiki/Category:Thorium" title="Category:Thorium">Thorium</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Thorium+fuel+cycle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Thorium+fuel+cycle" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Thorium_fuel_cycle"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Thorium_fuel_cycle"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Thorium_fuel_cycle" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Thorium_fuel_cycle" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Thorium_fuel_cycle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Thorium_fuel_cycle&amp;oldid=769867423" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Thorium_fuel_cycle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q302806" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Thorium_fuel_cycle&amp;id=769867423" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Thorium+fuel+cycle">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Thorium+fuel+cycle&amp;returnto=Thorium+fuel+cycle&amp;oldid=769867423&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Thorium_fuel_cycle&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%AE%D9%87_%D8%B3%D9%88%D8%AE%D8%AA_%D8%AA%D9%88%D8%B1%DB%8C%D9%88%D9%85" title="چرخه سوخت توریوم – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cycle_du_combustible_nucl%C3%A9aire_au_thorium" title="Cycle du combustible nucléaire au thorium – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%86%A0%EB%A5%A8_%EC%9B%90%EC%A0%84" title="토륨 원전 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A5%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%AE_%E0%A4%88%E0%A4%82%E0%A4%A7%E0%A4%A8_%E0%A4%9A%E0%A4%95%E0%A5%8D%E0%A4%B0" title="थोरियम ईंधन चक्र – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E7%87%83%E6%96%99%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB" title="トリウム燃料サイクル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Thoriumreaktor" title="Thoriumreaktor – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Torium-ydinpolttoainekierto" title="Torium-ydinpolttoainekierto – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q302806#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 March 2017, at 02:28.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Thorium_fuel_cycle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.216","walltime":"1.336","ppvisitednodes":{"value":47211,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":222051,"limit":2097152},"templateargumentsize":{"value":5872,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1139.572      1 -total"," 65.10%  741.840     91 Template:SimpleNuclide2"," 47.07%  536.393     94 Template:Physics_particle"," 24.57%  280.008    190 Template:Su"," 17.43%  198.630      1 Template:Reflist"," 17.40%  198.241     91 Template:SymbolForElement"," 16.98%  193.506     91 Template:CheckElement","  5.89%   67.067      5 Template:Val","  5.50%   62.665     12 Template:Cite_web","  5.37%   61.231      2 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.375","limit":"10.000"},"limitreport-memusage":{"value":6945699,"limit":52428800}},"cachereport":{"origin":"mw1195","timestamp":"20170312022841","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw1247"});});</script>
+	</body>
+</html>
