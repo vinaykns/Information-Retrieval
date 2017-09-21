@@ -1,0 +1,7 @@
+Steps to combine the results of these two independent runs:
+
+  1. Assume that we have corresponding results(crawled links) for the given two url's.
+  2. Go through all the crawled links for the two urls, then collect url's which are found in both the results i.e collect links based on the frequency.
+  3. Next go through the crawled links of first url of depth 1 and add remaining to the final list.
+  4. Then go through the crawled links of the second url of depth 1 and add remaning to the final list.
+  5. Finally repeat steps 3 and 4 for both the url's untill we reach final list of 1000 url's.        

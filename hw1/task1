@@ -1,0 +1,104 @@
+#!/usr/bin/env python2
+
+import requests
+from bs4 import BeautifulSoup
+import time
+import pdb
+	
+
+parent_links = []
+crawled_links = []
+child_links = []
+depth = 5
+current_depth = 1
+tobe_added_child_links = []
+
+
+def main():
+  link = [] 
+  print "Enter the url:"
+  url = raw_input()
+  link.append(unicode(url))
+  result = webcrawl(link)
+  file = open('task1.txt','w')
+  for link in result:
+    file.write(link + "\n")
+  file.close
+
+def request(url):
+  partial_links = []
+  unique_links = []
+  All_links = []
+  try:
+    request = requests.get(url)
+    prefix_link = unicode('https://en.wikipedia.org')
+    request_page = request.text
+    soup=BeautifulSoup(request_page,'html.parser') 
+    required_content = soup.find("div", dict(id="mw-content-text"))
+    notrequired_content = ['thumb', 'navbox', 'reflist']
+    for section in notrequired_content:
+        for div in required_content.find_all('div',{'class': section}):
+            div.decompose()
+    for div in required_content.find_all('table',{'class': 'vertical-navbox'}):
+        div.decompose()
+
+
+    for link in required_content.find_all('a'):
+        All_links.append(unicode(link.get('href')))
+   
+    for link in All_links:
+        if  ("#" not in link and "index.php" not in link and ".org" not in link and ":" not in link and "wikimedia" not in link and "None" not in link and "/wiki/Main_Page" not in link and "www." not in link):                
+          partial_links.append(prefix_link + link)
+   
+    for link in partial_links:
+        if link not in unique_links:
+          unique_links.append(link)
+    pdb.set_trace()
+    return unique_links
+
+  except:
+    print "Issue with the connection"
+    return unique_links
+
+
+
+def webcrawl(link):
+  parent_links.extend(link)
+  time_change_depth = len(parent_links)
+  global current_depth
+  global depth
+
+# Go through the links in the parent_links to complete the current depth.
+# Verify that crawled links are not more than 1000 and crawling depth is less than or equal to 5. 
+  for index in range(len(parent_links)):      
+    if (len(crawled_links) < 1000 and current_depth <= depth):
+      pop_link = parent_links.pop(0)
+      time_change_depth-=1
+      if pop_link not in crawled_links:
+        tobe_added_child_links = request(pop_link)
+        time.sleep(1)
+        crawled_links.append(pop_link)
+        #print pop_link , ":" , current_depth , ":" , len(crawled_links)  
+        child_links.extend(tobe_added_child_links)
+        while tobe_added_child_links:
+          for index in range(len(tobe_added_child_links)):
+            tobe_added_child_links.pop()      
+
+      if (len(parent_links)==0 and time_change_depth==0):
+        temp_child_links = []
+        for link in child_links:
+            temp_child_links.append(link)
+        current_depth+=1  
+    
+        for index in range(len(child_links)):
+            child_links.pop()
+
+        webcrawl(temp_child_links)
+      else:
+        continue            
+    else:
+      print "Exceeded 1000 links"
+      break   
+  return crawled_links      
+
+main()

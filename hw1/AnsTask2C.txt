@@ -1,0 +1,37 @@
+BFS Crawling:
+
+ Top 5 links:
+ https://en.wikipedia.org/wiki/Solar_energy
+ https://en.wikipedia.org/wiki/Solar_heating
+ https://en.wikipedia.org/wiki/Solar_photovoltaics
+ https://en.wikipedia.org/wiki/Solar_thermal
+ https://en.wikipedia.org/wiki/Concentrated_solar_power 
+
+ Total no.of links crawled from the given url with the keyword "solar" is 987.
+
+DFS Crawling:
+
+ Top 5 links:
+ https://en.wikipedia.org/wiki/Solar_energy
+ https://en.wikipedia.org/wiki/Solar_heating
+ https://en.wikipedia.org/wiki/Solar_photovoltaics
+ https://en.wikipedia.org/wiki/Solar_thermal
+ https://en.wikipedia.org/wiki/Concentrated_solar_power
+
+  
+ BFS:
+ In the BFS crawling we will consider the given url, and fetch the corresponding hyperlinks. Next we mark the given url as crawled url, and considers the hyperlinks to be as depth 2.
+ Then we take each url from the hyperlinks and find its corresponding links and add all the hyperlinks into a seperate list. We do this untill the links in the depth 2 are empty, then 
+ we consider the url's that are stored in the next depth i.e depth 3 and repeat the process untill depth 5 to find 1000 url's with keyword solar.
+
+ DFS:
+ In the DFS crawling we will consider the given url, and fetch the first valid hyperlink. Then we consider that hyperlink which is in depth 2 and find the first hyperlink of that url. 
+ Continue the process untill we find the url in the depth 5, then we return to the second hyperlink of the first url in the depth 4, we reverse back and forth continuously to collect the 
+ 1000 url's with keyword solar. In between if we find the link that is already crawled we simply continue.
+
+ The main difference bertween BFS and DFS is, If there is a link that is crawled in the depth 5, and if the same link is found in the depth 2, then we don't consider that link and hence
+ all the links that are beneath that depth are automatically not considered.
+ So finally if we want to crawl the link that is near by the given the url (i.e ex:in depth 2) then bfs is better and if we know that the url that we need to collect is way deeper, then 
+ we can use dfs.     
+
+       
