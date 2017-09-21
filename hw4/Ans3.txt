@@ -1,0 +1,14 @@
+IMPLEMENTATION:	
+
+Lucene - retrieval library:
+
+ a. The task1 is implemeted by changing the analyzer to simple analyzer, asking to collect top 100 hits for the given query
+    and writing these results into a seperate file.
+
+Task2:
+
+ b. In the task2 the retrieval model is computed using the BM25 ranking algorithm, using the processed_corpus from the previous assignment.
+    The flow of the code goes as follows.
+    1. Go through each file from the processed_corpus, compute the BM25 score for the query and store it in a dictionary corresponding to the query.
+    2. Then finally we get the scores of all documents for the given query, we sort it based on the top 100 reuslts and store it in a file.
+    3. Finally the top 100 documents represents as the best match for the query.

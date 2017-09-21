@@ -1,0 +1,323 @@
+<HTML>
+<BODY BGCOLOR="white">
+<PRE>
+<FONT color="green">001</FONT>    package org.apache.lucene.demo.facet;<a name="line.1"></a>
+<FONT color="green">002</FONT>    <a name="line.2"></a>
+<FONT color="green">003</FONT>    /*<a name="line.3"></a>
+<FONT color="green">004</FONT>     * Licensed to the Apache Software Foundation (ASF) under one or more<a name="line.4"></a>
+<FONT color="green">005</FONT>     * contributor license agreements.  See the NOTICE file distributed with<a name="line.5"></a>
+<FONT color="green">006</FONT>     * this work for additional information regarding copyright ownership.<a name="line.6"></a>
+<FONT color="green">007</FONT>     * The ASF licenses this file to You under the Apache License, Version 2.0<a name="line.7"></a>
+<FONT color="green">008</FONT>     * (the "License"); you may not use this file except in compliance with<a name="line.8"></a>
+<FONT color="green">009</FONT>     * the License.  You may obtain a copy of the License at<a name="line.9"></a>
+<FONT color="green">010</FONT>     *<a name="line.10"></a>
+<FONT color="green">011</FONT>     *     http://www.apache.org/licenses/LICENSE-2.0<a name="line.11"></a>
+<FONT color="green">012</FONT>     *<a name="line.12"></a>
+<FONT color="green">013</FONT>     * Unless required by applicable law or agreed to in writing, software<a name="line.13"></a>
+<FONT color="green">014</FONT>     * distributed under the License is distributed on an "AS IS" BASIS,<a name="line.14"></a>
+<FONT color="green">015</FONT>     * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<a name="line.15"></a>
+<FONT color="green">016</FONT>     * See the License for the specific language governing permissions and<a name="line.16"></a>
+<FONT color="green">017</FONT>     * limitations under the License.<a name="line.17"></a>
+<FONT color="green">018</FONT>     */<a name="line.18"></a>
+<FONT color="green">019</FONT>    <a name="line.19"></a>
+<FONT color="green">020</FONT>    import java.io.Closeable;<a name="line.20"></a>
+<FONT color="green">021</FONT>    import java.io.IOException;<a name="line.21"></a>
+<FONT color="green">022</FONT>    import java.text.ParseException;<a name="line.22"></a>
+<FONT color="green">023</FONT>    <a name="line.23"></a>
+<FONT color="green">024</FONT>    import org.apache.lucene.analysis.core.WhitespaceAnalyzer;<a name="line.24"></a>
+<FONT color="green">025</FONT>    import org.apache.lucene.document.Document;<a name="line.25"></a>
+<FONT color="green">026</FONT>    import org.apache.lucene.document.DoubleField;<a name="line.26"></a>
+<FONT color="green">027</FONT>    import org.apache.lucene.document.Field;<a name="line.27"></a>
+<FONT color="green">028</FONT>    import org.apache.lucene.expressions.Expression;<a name="line.28"></a>
+<FONT color="green">029</FONT>    import org.apache.lucene.expressions.SimpleBindings;<a name="line.29"></a>
+<FONT color="green">030</FONT>    import org.apache.lucene.expressions.js.JavascriptCompiler;<a name="line.30"></a>
+<FONT color="green">031</FONT>    import org.apache.lucene.facet.DrillDownQuery;<a name="line.31"></a>
+<FONT color="green">032</FONT>    import org.apache.lucene.facet.DrillSideways;<a name="line.32"></a>
+<FONT color="green">033</FONT>    import org.apache.lucene.facet.FacetResult;<a name="line.33"></a>
+<FONT color="green">034</FONT>    import org.apache.lucene.facet.Facets;<a name="line.34"></a>
+<FONT color="green">035</FONT>    import org.apache.lucene.facet.FacetsCollector;<a name="line.35"></a>
+<FONT color="green">036</FONT>    import org.apache.lucene.facet.FacetsConfig;<a name="line.36"></a>
+<FONT color="green">037</FONT>    import org.apache.lucene.facet.range.DoubleRange;<a name="line.37"></a>
+<FONT color="green">038</FONT>    import org.apache.lucene.facet.range.DoubleRangeFacetCounts;<a name="line.38"></a>
+<FONT color="green">039</FONT>    import org.apache.lucene.facet.taxonomy.TaxonomyReader;<a name="line.39"></a>
+<FONT color="green">040</FONT>    import org.apache.lucene.index.DirectoryReader;<a name="line.40"></a>
+<FONT color="green">041</FONT>    import org.apache.lucene.index.IndexWriter;<a name="line.41"></a>
+<FONT color="green">042</FONT>    import org.apache.lucene.index.IndexWriterConfig;<a name="line.42"></a>
+<FONT color="green">043</FONT>    import org.apache.lucene.queries.BooleanFilter;<a name="line.43"></a>
+<FONT color="green">044</FONT>    import org.apache.lucene.queries.function.ValueSource;<a name="line.44"></a>
+<FONT color="green">045</FONT>    import org.apache.lucene.search.BooleanClause;<a name="line.45"></a>
+<FONT color="green">046</FONT>    import org.apache.lucene.search.Filter;<a name="line.46"></a>
+<FONT color="green">047</FONT>    import org.apache.lucene.search.IndexSearcher;<a name="line.47"></a>
+<FONT color="green">048</FONT>    import org.apache.lucene.search.MatchAllDocsQuery;<a name="line.48"></a>
+<FONT color="green">049</FONT>    import org.apache.lucene.search.NumericRangeFilter;<a name="line.49"></a>
+<FONT color="green">050</FONT>    import org.apache.lucene.search.SortField;<a name="line.50"></a>
+<FONT color="green">051</FONT>    import org.apache.lucene.search.TopDocs;<a name="line.51"></a>
+<FONT color="green">052</FONT>    import org.apache.lucene.store.Directory;<a name="line.52"></a>
+<FONT color="green">053</FONT>    import org.apache.lucene.store.RAMDirectory;<a name="line.53"></a>
+<FONT color="green">054</FONT>    <a name="line.54"></a>
+<FONT color="green">055</FONT>    <a name="line.55"></a>
+<FONT color="green">056</FONT>    <a name="line.56"></a>
+<FONT color="green">057</FONT>    /** Shows simple usage of dynamic range faceting, using the<a name="line.57"></a>
+<FONT color="green">058</FONT>     *  expressions module to calculate distance. */<a name="line.58"></a>
+<FONT color="green">059</FONT>    public class DistanceFacetsExample implements Closeable {<a name="line.59"></a>
+<FONT color="green">060</FONT>    <a name="line.60"></a>
+<FONT color="green">061</FONT>      final DoubleRange ONE_KM = new DoubleRange("&lt; 1 km", 0.0, true, 1.0, false);<a name="line.61"></a>
+<FONT color="green">062</FONT>      final DoubleRange TWO_KM = new DoubleRange("&lt; 2 km", 0.0, true, 2.0, false);<a name="line.62"></a>
+<FONT color="green">063</FONT>      final DoubleRange FIVE_KM = new DoubleRange("&lt; 5 km", 0.0, true, 5.0, false);<a name="line.63"></a>
+<FONT color="green">064</FONT>      final DoubleRange TEN_KM = new DoubleRange("&lt; 10 km", 0.0, true, 10.0, false);<a name="line.64"></a>
+<FONT color="green">065</FONT>    <a name="line.65"></a>
+<FONT color="green">066</FONT>      private final Directory indexDir = new RAMDirectory();<a name="line.66"></a>
+<FONT color="green">067</FONT>      private IndexSearcher searcher;<a name="line.67"></a>
+<FONT color="green">068</FONT>      private final FacetsConfig config = new FacetsConfig();<a name="line.68"></a>
+<FONT color="green">069</FONT>    <a name="line.69"></a>
+<FONT color="green">070</FONT>      /** The "home" latitude. */<a name="line.70"></a>
+<FONT color="green">071</FONT>      public final static double ORIGIN_LATITUDE = 40.7143528;<a name="line.71"></a>
+<FONT color="green">072</FONT>    <a name="line.72"></a>
+<FONT color="green">073</FONT>      /** The "home" longitude. */<a name="line.73"></a>
+<FONT color="green">074</FONT>      public final static double ORIGIN_LONGITUDE = -74.0059731;<a name="line.74"></a>
+<FONT color="green">075</FONT>    <a name="line.75"></a>
+<FONT color="green">076</FONT>      /** Radius of the Earth in KM<a name="line.76"></a>
+<FONT color="green">077</FONT>       *<a name="line.77"></a>
+<FONT color="green">078</FONT>       * NOTE: this is approximate, because the earth is a bit<a name="line.78"></a>
+<FONT color="green">079</FONT>       * wider at the equator than the poles.  See<a name="line.79"></a>
+<FONT color="green">080</FONT>       * http://en.wikipedia.org/wiki/Earth_radius */<a name="line.80"></a>
+<FONT color="green">081</FONT>      public final static double EARTH_RADIUS_KM = 6371.01;<a name="line.81"></a>
+<FONT color="green">082</FONT>    <a name="line.82"></a>
+<FONT color="green">083</FONT>      /** Empty constructor */<a name="line.83"></a>
+<FONT color="green">084</FONT>      public DistanceFacetsExample() {}<a name="line.84"></a>
+<FONT color="green">085</FONT>      <a name="line.85"></a>
+<FONT color="green">086</FONT>      /** Build the example index. */<a name="line.86"></a>
+<FONT color="green">087</FONT>      public void index() throws IOException {<a name="line.87"></a>
+<FONT color="green">088</FONT>        IndexWriter writer = new IndexWriter(indexDir, new IndexWriterConfig(FacetExamples.EXAMPLES_VER, <a name="line.88"></a>
+<FONT color="green">089</FONT>            new WhitespaceAnalyzer(FacetExamples.EXAMPLES_VER)));<a name="line.89"></a>
+<FONT color="green">090</FONT>    <a name="line.90"></a>
+<FONT color="green">091</FONT>        // TODO: we could index in radians instead ... saves all the conversions in getBoundingBoxFilter<a name="line.91"></a>
+<FONT color="green">092</FONT>    <a name="line.92"></a>
+<FONT color="green">093</FONT>        // Add documents with latitude/longitude location:<a name="line.93"></a>
+<FONT color="green">094</FONT>        Document doc = new Document();<a name="line.94"></a>
+<FONT color="green">095</FONT>        doc.add(new DoubleField("latitude", 40.759011, Field.Store.NO));<a name="line.95"></a>
+<FONT color="green">096</FONT>        doc.add(new DoubleField("longitude", -73.9844722, Field.Store.NO));<a name="line.96"></a>
+<FONT color="green">097</FONT>        writer.addDocument(doc);<a name="line.97"></a>
+<FONT color="green">098</FONT>        <a name="line.98"></a>
+<FONT color="green">099</FONT>        doc = new Document();<a name="line.99"></a>
+<FONT color="green">100</FONT>        doc.add(new DoubleField("latitude", 40.718266, Field.Store.NO));<a name="line.100"></a>
+<FONT color="green">101</FONT>        doc.add(new DoubleField("longitude", -74.007819, Field.Store.NO));<a name="line.101"></a>
+<FONT color="green">102</FONT>        writer.addDocument(doc);<a name="line.102"></a>
+<FONT color="green">103</FONT>        <a name="line.103"></a>
+<FONT color="green">104</FONT>        doc = new Document();<a name="line.104"></a>
+<FONT color="green">105</FONT>        doc.add(new DoubleField("latitude", 40.7051157, Field.Store.NO));<a name="line.105"></a>
+<FONT color="green">106</FONT>        doc.add(new DoubleField("longitude", -74.0088305, Field.Store.NO));<a name="line.106"></a>
+<FONT color="green">107</FONT>        writer.addDocument(doc);<a name="line.107"></a>
+<FONT color="green">108</FONT>    <a name="line.108"></a>
+<FONT color="green">109</FONT>        // Open near-real-time searcher<a name="line.109"></a>
+<FONT color="green">110</FONT>        searcher = new IndexSearcher(DirectoryReader.open(writer, true));<a name="line.110"></a>
+<FONT color="green">111</FONT>        writer.close();<a name="line.111"></a>
+<FONT color="green">112</FONT>      }<a name="line.112"></a>
+<FONT color="green">113</FONT>    <a name="line.113"></a>
+<FONT color="green">114</FONT>      private ValueSource getDistanceValueSource() {<a name="line.114"></a>
+<FONT color="green">115</FONT>        Expression distance;<a name="line.115"></a>
+<FONT color="green">116</FONT>        try {<a name="line.116"></a>
+<FONT color="green">117</FONT>          distance = JavascriptCompiler.compile(<a name="line.117"></a>
+<FONT color="green">118</FONT>                      "haversin(" + ORIGIN_LATITUDE + "," + ORIGIN_LONGITUDE + ",latitude,longitude)");<a name="line.118"></a>
+<FONT color="green">119</FONT>        } catch (ParseException pe) {<a name="line.119"></a>
+<FONT color="green">120</FONT>          // Should not happen<a name="line.120"></a>
+<FONT color="green">121</FONT>          throw new RuntimeException(pe);<a name="line.121"></a>
+<FONT color="green">122</FONT>        }<a name="line.122"></a>
+<FONT color="green">123</FONT>        SimpleBindings bindings = new SimpleBindings();<a name="line.123"></a>
+<FONT color="green">124</FONT>        bindings.add(new SortField("latitude", SortField.Type.DOUBLE));<a name="line.124"></a>
+<FONT color="green">125</FONT>        bindings.add(new SortField("longitude", SortField.Type.DOUBLE));<a name="line.125"></a>
+<FONT color="green">126</FONT>    <a name="line.126"></a>
+<FONT color="green">127</FONT>        return distance.getValueSource(bindings);<a name="line.127"></a>
+<FONT color="green">128</FONT>      }<a name="line.128"></a>
+<FONT color="green">129</FONT>    <a name="line.129"></a>
+<FONT color="green">130</FONT>      /** Given a latitude and longitude (in degrees) and the<a name="line.130"></a>
+<FONT color="green">131</FONT>       *  maximum great circle (surface of the earth) distance,<a name="line.131"></a>
+<FONT color="green">132</FONT>       *  returns a simple Filter bounding box to "fast match"<a name="line.132"></a>
+<FONT color="green">133</FONT>       *  candidates. */<a name="line.133"></a>
+<FONT color="green">134</FONT>      public static Filter getBoundingBoxFilter(double originLat, double originLng, double maxDistanceKM) {<a name="line.134"></a>
+<FONT color="green">135</FONT>    <a name="line.135"></a>
+<FONT color="green">136</FONT>        // Basic bounding box geo math from<a name="line.136"></a>
+<FONT color="green">137</FONT>        // http://JanMatuschek.de/LatitudeLongitudeBoundingCoordinates,<a name="line.137"></a>
+<FONT color="green">138</FONT>        // licensed under creative commons 3.0:<a name="line.138"></a>
+<FONT color="green">139</FONT>        // http://creativecommons.org/licenses/by/3.0<a name="line.139"></a>
+<FONT color="green">140</FONT>    <a name="line.140"></a>
+<FONT color="green">141</FONT>        // TODO: maybe switch to recursive prefix tree instead<a name="line.141"></a>
+<FONT color="green">142</FONT>        // (in lucene/spatial)?  It should be more efficient<a name="line.142"></a>
+<FONT color="green">143</FONT>        // since it's a 2D trie...<a name="line.143"></a>
+<FONT color="green">144</FONT>    <a name="line.144"></a>
+<FONT color="green">145</FONT>        // Degrees -&gt; Radians:<a name="line.145"></a>
+<FONT color="green">146</FONT>        double originLatRadians = Math.toRadians(originLat);<a name="line.146"></a>
+<FONT color="green">147</FONT>        double originLngRadians = Math.toRadians(originLng);<a name="line.147"></a>
+<FONT color="green">148</FONT>    <a name="line.148"></a>
+<FONT color="green">149</FONT>        double angle = maxDistanceKM / EARTH_RADIUS_KM;<a name="line.149"></a>
+<FONT color="green">150</FONT>    <a name="line.150"></a>
+<FONT color="green">151</FONT>        double minLat = originLatRadians - angle;<a name="line.151"></a>
+<FONT color="green">152</FONT>        double maxLat = originLatRadians + angle;<a name="line.152"></a>
+<FONT color="green">153</FONT>    <a name="line.153"></a>
+<FONT color="green">154</FONT>        double minLng;<a name="line.154"></a>
+<FONT color="green">155</FONT>        double maxLng;<a name="line.155"></a>
+<FONT color="green">156</FONT>        if (minLat &gt; Math.toRadians(-90) &amp;&amp; maxLat &lt; Math.toRadians(90)) {<a name="line.156"></a>
+<FONT color="green">157</FONT>          double delta = Math.asin(Math.sin(angle)/Math.cos(originLatRadians));<a name="line.157"></a>
+<FONT color="green">158</FONT>          minLng = originLngRadians - delta;<a name="line.158"></a>
+<FONT color="green">159</FONT>          if (minLng &lt; Math.toRadians(-180)) {<a name="line.159"></a>
+<FONT color="green">160</FONT>            minLng += 2 * Math.PI;<a name="line.160"></a>
+<FONT color="green">161</FONT>          }<a name="line.161"></a>
+<FONT color="green">162</FONT>          maxLng = originLngRadians + delta;<a name="line.162"></a>
+<FONT color="green">163</FONT>          if (maxLng &gt; Math.toRadians(180)) {<a name="line.163"></a>
+<FONT color="green">164</FONT>            maxLng -= 2 * Math.PI;<a name="line.164"></a>
+<FONT color="green">165</FONT>          }<a name="line.165"></a>
+<FONT color="green">166</FONT>        } else {<a name="line.166"></a>
+<FONT color="green">167</FONT>          // The query includes a pole!<a name="line.167"></a>
+<FONT color="green">168</FONT>          minLat = Math.max(minLat, Math.toRadians(-90));<a name="line.168"></a>
+<FONT color="green">169</FONT>          maxLat = Math.min(maxLat, Math.toRadians(90));<a name="line.169"></a>
+<FONT color="green">170</FONT>          minLng = Math.toRadians(-180);<a name="line.170"></a>
+<FONT color="green">171</FONT>          maxLng = Math.toRadians(180);<a name="line.171"></a>
+<FONT color="green">172</FONT>        }<a name="line.172"></a>
+<FONT color="green">173</FONT>    <a name="line.173"></a>
+<FONT color="green">174</FONT>        BooleanFilter f = new BooleanFilter();<a name="line.174"></a>
+<FONT color="green">175</FONT>    <a name="line.175"></a>
+<FONT color="green">176</FONT>        // Add latitude range filter:<a name="line.176"></a>
+<FONT color="green">177</FONT>        f.add(NumericRangeFilter.newDoubleRange("latitude", Math.toDegrees(minLat), Math.toDegrees(maxLat), true, true),<a name="line.177"></a>
+<FONT color="green">178</FONT>              BooleanClause.Occur.MUST);<a name="line.178"></a>
+<FONT color="green">179</FONT>    <a name="line.179"></a>
+<FONT color="green">180</FONT>        // Add longitude range filter:<a name="line.180"></a>
+<FONT color="green">181</FONT>        if (minLng &gt; maxLng) {<a name="line.181"></a>
+<FONT color="green">182</FONT>          // The bounding box crosses the international date<a name="line.182"></a>
+<FONT color="green">183</FONT>          // line:<a name="line.183"></a>
+<FONT color="green">184</FONT>          BooleanFilter lonF = new BooleanFilter();<a name="line.184"></a>
+<FONT color="green">185</FONT>          lonF.add(NumericRangeFilter.newDoubleRange("longitude", Math.toDegrees(minLng), null, true, true),<a name="line.185"></a>
+<FONT color="green">186</FONT>                   BooleanClause.Occur.SHOULD);<a name="line.186"></a>
+<FONT color="green">187</FONT>          lonF.add(NumericRangeFilter.newDoubleRange("longitude", null, Math.toDegrees(maxLng), true, true),<a name="line.187"></a>
+<FONT color="green">188</FONT>                   BooleanClause.Occur.SHOULD);<a name="line.188"></a>
+<FONT color="green">189</FONT>          f.add(lonF, BooleanClause.Occur.MUST);<a name="line.189"></a>
+<FONT color="green">190</FONT>        } else {<a name="line.190"></a>
+<FONT color="green">191</FONT>          f.add(NumericRangeFilter.newDoubleRange("longitude", Math.toDegrees(minLng), Math.toDegrees(maxLng), true, true),<a name="line.191"></a>
+<FONT color="green">192</FONT>                BooleanClause.Occur.MUST);<a name="line.192"></a>
+<FONT color="green">193</FONT>        }<a name="line.193"></a>
+<FONT color="green">194</FONT>    <a name="line.194"></a>
+<FONT color="green">195</FONT>        return f;<a name="line.195"></a>
+<FONT color="green">196</FONT>      }<a name="line.196"></a>
+<FONT color="green">197</FONT>    <a name="line.197"></a>
+<FONT color="green">198</FONT>      /** User runs a query and counts facets. */<a name="line.198"></a>
+<FONT color="green">199</FONT>      public FacetResult search() throws IOException {<a name="line.199"></a>
+<FONT color="green">200</FONT>    <a name="line.200"></a>
+<FONT color="green">201</FONT>        FacetsCollector fc = new FacetsCollector();<a name="line.201"></a>
+<FONT color="green">202</FONT>    <a name="line.202"></a>
+<FONT color="green">203</FONT>        searcher.search(new MatchAllDocsQuery(), fc);<a name="line.203"></a>
+<FONT color="green">204</FONT>    <a name="line.204"></a>
+<FONT color="green">205</FONT>        Facets facets = new DoubleRangeFacetCounts("field", getDistanceValueSource(), fc,<a name="line.205"></a>
+<FONT color="green">206</FONT>                                                   getBoundingBoxFilter(ORIGIN_LATITUDE, ORIGIN_LONGITUDE, 10.0),<a name="line.206"></a>
+<FONT color="green">207</FONT>                                                   ONE_KM,<a name="line.207"></a>
+<FONT color="green">208</FONT>                                                   TWO_KM,<a name="line.208"></a>
+<FONT color="green">209</FONT>                                                   FIVE_KM,<a name="line.209"></a>
+<FONT color="green">210</FONT>                                                   TEN_KM);<a name="line.210"></a>
+<FONT color="green">211</FONT>    <a name="line.211"></a>
+<FONT color="green">212</FONT>        return facets.getTopChildren(10, "field");<a name="line.212"></a>
+<FONT color="green">213</FONT>      }<a name="line.213"></a>
+<FONT color="green">214</FONT>    <a name="line.214"></a>
+<FONT color="green">215</FONT>      /** User drills down on the specified range. */<a name="line.215"></a>
+<FONT color="green">216</FONT>      public TopDocs drillDown(DoubleRange range) throws IOException {<a name="line.216"></a>
+<FONT color="green">217</FONT>    <a name="line.217"></a>
+<FONT color="green">218</FONT>        // Passing no baseQuery means we drill down on all<a name="line.218"></a>
+<FONT color="green">219</FONT>        // documents ("browse only"):<a name="line.219"></a>
+<FONT color="green">220</FONT>        DrillDownQuery q = new DrillDownQuery(null);<a name="line.220"></a>
+<FONT color="green">221</FONT>        final ValueSource vs = getDistanceValueSource();<a name="line.221"></a>
+<FONT color="green">222</FONT>        q.add("field", range.getFilter(getBoundingBoxFilter(ORIGIN_LATITUDE, ORIGIN_LONGITUDE, range.max), vs));<a name="line.222"></a>
+<FONT color="green">223</FONT>        DrillSideways ds = new DrillSideways(searcher, config, (TaxonomyReader) null) {<a name="line.223"></a>
+<FONT color="green">224</FONT>            @Override<a name="line.224"></a>
+<FONT color="green">225</FONT>            protected Facets buildFacetsResult(FacetsCollector drillDowns, FacetsCollector[] drillSideways, String[] drillSidewaysDims) throws IOException {        <a name="line.225"></a>
+<FONT color="green">226</FONT>              assert drillSideways.length == 1;<a name="line.226"></a>
+<FONT color="green">227</FONT>              return new DoubleRangeFacetCounts("field", vs, drillSideways[0], ONE_KM, TWO_KM, FIVE_KM, TEN_KM);<a name="line.227"></a>
+<FONT color="green">228</FONT>            }<a name="line.228"></a>
+<FONT color="green">229</FONT>          };<a name="line.229"></a>
+<FONT color="green">230</FONT>        return ds.search(q, 10).hits;<a name="line.230"></a>
+<FONT color="green">231</FONT>      }<a name="line.231"></a>
+<FONT color="green">232</FONT>    <a name="line.232"></a>
+<FONT color="green">233</FONT>      @Override<a name="line.233"></a>
+<FONT color="green">234</FONT>      public void close() throws IOException {<a name="line.234"></a>
+<FONT color="green">235</FONT>        searcher.getIndexReader().close();<a name="line.235"></a>
+<FONT color="green">236</FONT>        indexDir.close();<a name="line.236"></a>
+<FONT color="green">237</FONT>      }<a name="line.237"></a>
+<FONT color="green">238</FONT>    <a name="line.238"></a>
+<FONT color="green">239</FONT>      /** Runs the search and drill-down examples and prints the results. */<a name="line.239"></a>
+<FONT color="green">240</FONT>      @SuppressWarnings("unchecked")<a name="line.240"></a>
+<FONT color="green">241</FONT>      public static void main(String[] args) throws Exception {<a name="line.241"></a>
+<FONT color="green">242</FONT>        DistanceFacetsExample example = new DistanceFacetsExample();<a name="line.242"></a>
+<FONT color="green">243</FONT>        example.index();<a name="line.243"></a>
+<FONT color="green">244</FONT>    <a name="line.244"></a>
+<FONT color="green">245</FONT>        System.out.println("Distance facet counting example:");<a name="line.245"></a>
+<FONT color="green">246</FONT>        System.out.println("-----------------------");<a name="line.246"></a>
+<FONT color="green">247</FONT>        System.out.println(example.search());<a name="line.247"></a>
+<FONT color="green">248</FONT>    <a name="line.248"></a>
+<FONT color="green">249</FONT>        System.out.println("\n");<a name="line.249"></a>
+<FONT color="green">250</FONT>        System.out.println("Distance facet drill-down example (field/&lt; 2 km):");<a name="line.250"></a>
+<FONT color="green">251</FONT>        System.out.println("---------------------------------------------");<a name="line.251"></a>
+<FONT color="green">252</FONT>        TopDocs hits = example.drillDown(example.TWO_KM);<a name="line.252"></a>
+<FONT color="green">253</FONT>        System.out.println(hits.totalHits + " totalHits");<a name="line.253"></a>
+<FONT color="green">254</FONT>    <a name="line.254"></a>
+<FONT color="green">255</FONT>        example.close();<a name="line.255"></a>
+<FONT color="green">256</FONT>      }<a name="line.256"></a>
+<FONT color="green">257</FONT>    }<a name="line.257"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
